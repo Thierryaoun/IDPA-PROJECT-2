@@ -1,0 +1,446 @@
+{
+  "country": "Norway",
+  "infobox_title": "Kingdom of Norway Kongeriket Norge ( Bokmål ) Kongeriket Noreg ( Nynorsk ) In other official languages Northern Sami : Norgga gonagasriika Lule Sami : Vuona gånågisrijkka Southern Sami : Nöörjen gånkarïjhke Kven : Norjan kuninkhaanvaltakunta",
+  "data": [
+    {
+      "label": "Northern Sami :",
+      "value": "Norgga gonagasriika"
+    },
+    {
+      "label": "Northern Sami :",
+      "value": "Norgga gonagasriika"
+    },
+    {
+      "label": "Lule Sami :",
+      "value": "Vuona gånågisrijkka"
+    },
+    {
+      "label": "Southern Sami :",
+      "value": "Nöörjen gånkarïjhke"
+    },
+    {
+      "label": "Kven :",
+      "value": "Norjan kuninkhaanvaltakunta"
+    },
+    {
+      "label": "Capital and largest city",
+      "value": "Oslo 59°56′N 10°41′E ﻿ / ﻿ 59.933°N 10.683°E",
+      "links": [
+        {
+          "text": "Oslo",
+          "href": "https://en.wikipedia.org/wiki/Oslo"
+        },
+        {
+          "text": "59°56′N10°41′E﻿ / ﻿59.933°N 10.683°E",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Norway&params=59_56_N_10_41_E_type:city"
+        }
+      ]
+    },
+    {
+      "label": "Official languages",
+      "value": "Norwegian Sámi",
+      "links": [
+        {
+          "text": "Norwegian",
+          "href": "https://en.wikipedia.org/wiki/Norwegian_language"
+        },
+        {
+          "text": "Sámi",
+          "href": "https://en.wikipedia.org/wiki/S%C3%A1mi_languages"
+        }
+      ],
+      "sub_items": [
+        "Norwegian",
+        "Sámi"
+      ]
+    },
+    {
+      "label": "Recognised national languages",
+      "value": "Kven Romani Scandoromani Norwegian Sign Language",
+      "links": [
+        {
+          "text": "Kven",
+          "href": "https://en.wikipedia.org/wiki/Kven_language"
+        },
+        {
+          "text": "Romani",
+          "href": "https://en.wikipedia.org/wiki/Romani_language"
+        },
+        {
+          "text": "Scandoromani",
+          "href": "https://en.wikipedia.org/wiki/Scandoromani_language"
+        },
+        {
+          "text": "Norwegian Sign Language",
+          "href": "https://en.wikipedia.org/wiki/Norwegian_Sign_Language"
+        }
+      ],
+      "sub_items": [
+        "Kven",
+        "Romani",
+        "Scandoromani",
+        "Norwegian Sign Language"
+      ]
+    },
+    {
+      "label": "Ethnic groups (2025)",
+      "value": "78.6% Norwegian 21.4% non-Norwegian",
+      "links": [
+        {
+          "text": "Norwegian",
+          "href": "https://en.wikipedia.org/wiki/Norwegians"
+        },
+        {
+          "text": "non-Norwegian",
+          "href": "https://en.wikipedia.org/wiki/Immigration_to_Norway"
+        }
+      ],
+      "sub_items": [
+        "78.6% Norwegian",
+        "21.4% non-Norwegian"
+      ]
+    },
+    {
+      "label": "Religion (2024)",
+      "value": "68.5% Christianity 61.7% Church of Norway 6.8% other Christian 27.3% no religion 3.4% Islam 0.8% other",
+      "links": [
+        {
+          "text": "Christianity",
+          "href": "https://en.wikipedia.org/wiki/Christianity_in_Norway"
+        },
+        {
+          "text": "Church of Norway",
+          "href": "https://en.wikipedia.org/wiki/Church_of_Norway"
+        },
+        {
+          "text": "Christian",
+          "href": "https://en.wikipedia.org/wiki/List_of_Christian_denominations"
+        },
+        {
+          "text": "no religion",
+          "href": "https://en.wikipedia.org/wiki/Irreligion"
+        },
+        {
+          "text": "Islam",
+          "href": "https://en.wikipedia.org/wiki/Islam_in_Norway"
+        },
+        {
+          "text": "other",
+          "href": "https://en.wikipedia.org/wiki/Religion_in_Norway"
+        }
+      ],
+      "sub_items": [
+        "68.5% Christianity 61.7% Church of Norway 6.8% other Christian",
+        "61.7% Church of Norway 6.8% other Christian",
+        "61.7% Church of Norway",
+        "6.8% other Christian",
+        "27.3% no religion",
+        "3.4% Islam",
+        "0.8% other"
+      ]
+    },
+    {
+      "label": "Demonym",
+      "value": "Norwegian",
+      "links": [
+        {
+          "text": "Norwegian",
+          "href": "https://en.wikipedia.org/wiki/Norwegians"
+        }
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Unitary parliamentary constitutional monarchy",
+      "links": [
+        {
+          "text": "parliamentary constitutional monarchy",
+          "href": "https://en.wikipedia.org/wiki/Parliamentary_constitutional_monarchy"
+        }
+      ]
+    },
+    {
+      "label": "• Monarch",
+      "value": "Harald V",
+      "links": [
+        {
+          "text": "Harald V",
+          "href": "https://en.wikipedia.org/wiki/Harald_V"
+        }
+      ]
+    },
+    {
+      "label": "• Prime Minister",
+      "value": "Jonas Gahr Støre",
+      "links": [
+        {
+          "text": "Jonas Gahr Støre",
+          "href": "https://en.wikipedia.org/wiki/Jonas_Gahr_St%C3%B8re"
+        }
+      ]
+    },
+    {
+      "label": "• President of the Storting",
+      "value": "Masud Gharahkhani",
+      "links": [
+        {
+          "text": "Masud Gharahkhani",
+          "href": "https://en.wikipedia.org/wiki/Masud_Gharahkhani"
+        }
+      ]
+    },
+    {
+      "label": "• Chief Justice",
+      "value": "Toril Marie Øie",
+      "links": [
+        {
+          "text": "Toril Marie Øie",
+          "href": "https://en.wikipedia.org/wiki/Toril_Marie_%C3%98ie"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "Storting",
+      "links": [
+        {
+          "text": "Storting",
+          "href": "https://en.wikipedia.org/wiki/Storting"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Unification of the petty kingdoms",
+      "rows": [
+        {
+          "label": "• State established",
+          "value": "872",
+          "links": [
+            {
+              "text": "872",
+              "href": "https://en.wikipedia.org/wiki/Battle_of_Hafrsfjord"
+            }
+          ]
+        },
+        {
+          "label": "• Peak extent of the Old Kingdom",
+          "value": "1263"
+        },
+        {
+          "label": "• Kalmar Union (personal union)",
+          "value": "1397"
+        },
+        {
+          "label": "• Denmark–Norway (real union)",
+          "value": "1524"
+        },
+        {
+          "label": "• State re-established",
+          "value": "25 February 1814",
+          "links": [
+            {
+              "text": "25 February 1814",
+              "href": "https://en.wikipedia.org/wiki/Meeting_of_Notables"
+            }
+          ]
+        },
+        {
+          "label": "• Constitution",
+          "value": "17 May 1814"
+        },
+        {
+          "label": "• Kingdoms of Sweden–Norway (personal union)",
+          "value": "4 November 1814"
+        },
+        {
+          "label": "• Union dissolved",
+          "value": "7 June 1905"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "385,207 km (148,729 sq mi) ( 61st )",
+          "links": [
+            {
+              "text": "61st",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "5.32 (2015)"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2026 estimate",
+          "value": "5,627,400 ( 116th )",
+          "links": [
+            {
+              "text": "116th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• Density",
+          "value": "14.6/km (37.8/sq mi) ( 224th )",
+          "links": [
+            {
+              "text": "224th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$606.590 billion ( 49th )",
+          "links": [
+            {
+              "text": "49th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$107,890 ( 5th )",
+          "links": [
+            {
+              "text": "5th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$504.280 billion ( 31st )",
+          "links": [
+            {
+              "text": "31st",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$89,690 ( 6th )",
+          "links": [
+            {
+              "text": "6th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "Gini (2020)",
+          "value": "25.3 low inequality"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.970 very high ( 2nd )",
+          "links": [
+            {
+              "text": "2nd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "Norwegian krone ( NOK )",
+          "links": [
+            {
+              "text": "Norwegian krone",
+              "href": "https://en.wikipedia.org/wiki/Norwegian_krone"
+            },
+            {
+              "text": "NOK",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC +1 ( CET )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "CET",
+              "href": "https://en.wikipedia.org/wiki/Central_European_Time"
+            }
+          ]
+        },
+        {
+          "label": "• Summer ( DST )",
+          "value": "UTC +2 ( CEST )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "CEST",
+              "href": "https://en.wikipedia.org/wiki/Central_European_Summer_Time"
+            }
+          ]
+        },
+        {
+          "label": "Date format",
+          "value": "dd . mm . yyyy"
+        },
+        {
+          "label": "Calling code",
+          "value": "+47",
+          "links": [
+            {
+              "text": "+47",
+              "href": "https://en.wikipedia.org/wiki/Telephone_numbers_in_Norway"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "NO",
+          "links": [
+            {
+              "text": "NO",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:NO"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".no",
+          "links": [
+            {
+              "text": ".no",
+              "href": "https://en.wikipedia.org/wiki/.no"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

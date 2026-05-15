@@ -1,0 +1,400 @@
+{
+  "label": "country",
+  "children": [
+    {
+      "label": "name",
+      "children": [
+        {
+          "label": "united kingdom of great britain and northern ireland"
+        }
+      ]
+    },
+    {
+      "label": "infobox_title",
+      "children": [
+        {
+          "label": "united kingdom of great britain and northern ireland"
+        }
+      ]
+    },
+    {
+      "label": "capital_and_largest_city",
+      "children": [
+        {
+          "label": "london / 51."
+        }
+      ]
+    },
+    {
+      "label": "national_language",
+      "children": [
+        {
+          "label": "english"
+        }
+      ]
+    },
+    {
+      "label": "regional_and_minority_languages",
+      "children": [
+        {
+          "label": "scots"
+        },
+        {
+          "label": "ulster scots"
+        },
+        {
+          "label": "welsh"
+        },
+        {
+          "label": "cornish"
+        },
+        {
+          "label": "scottish gaelic"
+        },
+        {
+          "label": "irish"
+        },
+        {
+          "label": "british sign language"
+        }
+      ]
+    },
+    {
+      "label": "ethnic_groups_2021_2022",
+      "children": [
+        {
+          "label": "83.0% white"
+        },
+        {
+          "label": "8.6% asian"
+        },
+        {
+          "label": "3.7% black"
+        },
+        {
+          "label": "2.7% mixed"
+        },
+        {
+          "label": "2.0% other"
+        }
+      ]
+    },
+    {
+      "label": "religion_2021_2022",
+      "children": [
+        {
+          "label": "46.5% christianity"
+        },
+        {
+          "label": "37.8% no religion"
+        },
+        {
+          "label": "6.0% islam"
+        },
+        {
+          "label": "1.6% hinduism"
+        },
+        {
+          "label": "0.8% sikhism"
+        },
+        {
+          "label": "0.4% buddhism"
+        },
+        {
+          "label": "0.4% judaism"
+        },
+        {
+          "label": "0.6% other"
+        },
+        {
+          "label": "5.9% not stated"
+        }
+      ]
+    },
+    {
+      "label": "demonyms",
+      "children": [
+        {
+          "label": "british"
+        },
+        {
+          "label": "briton"
+        },
+        {
+          "label": "brit"
+        }
+      ]
+    },
+    {
+      "label": "government",
+      "children": [
+        {
+          "label": "unitary parliamentary constitutional monarchy"
+        }
+      ]
+    },
+    {
+      "label": "monarch",
+      "children": [
+        {
+          "label": "charles iii"
+        }
+      ]
+    },
+    {
+      "label": "prime_minister",
+      "children": [
+        {
+          "label": "keir starmer"
+        }
+      ]
+    },
+    {
+      "label": "legislature",
+      "children": [
+        {
+          "label": "parliament"
+        }
+      ]
+    },
+    {
+      "label": "upper_house",
+      "children": [
+        {
+          "label": "house of lords"
+        }
+      ]
+    },
+    {
+      "label": "lower_house",
+      "children": [
+        {
+          "label": "house of commons"
+        }
+      ]
+    },
+    {
+      "label": "formation",
+      "children": [
+        {
+          "label": "laws_in_wales_acts",
+          "children": [
+            {
+              "label": "1535 and 1542"
+            }
+          ]
+        },
+        {
+          "label": "union_of_the_crowns",
+          "children": [
+            {
+              "label": "24 march 1603"
+            }
+          ]
+        },
+        {
+          "label": "treaty_of_union",
+          "children": [
+            {
+              "label": "22 july 1706"
+            }
+          ]
+        },
+        {
+          "label": "acts_of_union_of_england_and_scotland",
+          "children": [
+            {
+              "label": "1 may 1707"
+            }
+          ]
+        },
+        {
+          "label": "acts_of_union_of_great_britain_and_ireland",
+          "children": [
+            {
+              "label": "1 january 1801"
+            }
+          ]
+        },
+        {
+          "label": "irish_free_state_constitution_act",
+          "children": [
+            {
+              "label": "6 december 1922"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "area",
+      "children": [
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "244,376 km"
+            }
+          ]
+        },
+        {
+          "label": "land",
+          "children": [
+            {
+              "label": "242,741 km"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "population",
+      "children": [
+        {
+          "label": "2024_estimate",
+          "children": [
+            {
+              "label": "69,281,437"
+            }
+          ]
+        },
+        {
+          "label": "2021_census",
+          "children": [
+            {
+              "label": "66,940,559"
+            }
+          ]
+        },
+        {
+          "label": "density",
+          "children": [
+            {
+              "label": "285/km"
+            }
+          ]
+        },
+        {
+          "label": "gdp_ppp",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$4.455 trillion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$63,759"
+            }
+          ]
+        },
+        {
+          "label": "gdp_nominal",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$3.959 trillion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$56,661"
+            }
+          ]
+        },
+        {
+          "label": "gini_2021",
+          "children": [
+            {
+              "label": "35.4 medium inequality"
+            }
+          ]
+        },
+        {
+          "label": "hdi_2023",
+          "children": [
+            {
+              "label": "0.946 very high"
+            }
+          ]
+        },
+        {
+          "label": "currency",
+          "children": [
+            {
+              "label": "pound sterling"
+            }
+          ]
+        },
+        {
+          "label": "time_zone",
+          "children": [
+            {
+              "label": "utc +0"
+            }
+          ]
+        },
+        {
+          "label": "summer_dst",
+          "children": [
+            {
+              "label": "utc +1"
+            }
+          ]
+        },
+        {
+          "label": "date_format",
+          "children": [
+            {
+              "label": "dd / mm / yyyy"
+            }
+          ]
+        },
+        {
+          "label": "calling_code",
+          "children": [
+            {
+              "label": "+44"
+            }
+          ]
+        },
+        {
+          "label": "iso_3166_code",
+          "children": [
+            {
+              "label": "gb"
+            }
+          ]
+        },
+        {
+          "label": "internet_tld",
+          "children": [
+            {
+              "label": ".uk"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

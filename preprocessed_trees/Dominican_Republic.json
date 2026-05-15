@@ -1,0 +1,349 @@
+{
+  "label": "country",
+  "children": [
+    {
+      "label": "name",
+      "children": [
+        {
+          "label": "dominican republic"
+        }
+      ]
+    },
+    {
+      "label": "infobox_title",
+      "children": [
+        {
+          "label": "dominican republic república dominicana"
+        }
+      ]
+    },
+    {
+      "label": "capital_and_largest_city",
+      "children": [
+        {
+          "label": "santo domingo / 18."
+        }
+      ]
+    },
+    {
+      "label": "official_languages",
+      "children": [
+        {
+          "label": "spanish"
+        }
+      ]
+    },
+    {
+      "label": "other_languages",
+      "children": [
+        {
+          "label": "see below"
+        }
+      ]
+    },
+    {
+      "label": "ethnic_groups_2022",
+      "children": [
+        {
+          "label": "71.72% mixed"
+        },
+        {
+          "label": "18.70% white"
+        },
+        {
+          "label": "7.45% black"
+        },
+        {
+          "label": "0.33% east asian"
+        },
+        {
+          "label": "0.37% other"
+        },
+        {
+          "label": "1.43% no answer"
+        }
+      ]
+    },
+    {
+      "label": "religion_2020",
+      "children": [
+        {
+          "label": "74.6% christianity"
+        },
+        {
+          "label": "52.5% catholicism"
+        },
+        {
+          "label": "21.0% protestantism"
+        },
+        {
+          "label": "1.1% other christian"
+        },
+        {
+          "label": "22.0% no religion"
+        },
+        {
+          "label": "1.4% other"
+        },
+        {
+          "label": "2.0% unspecified"
+        }
+      ]
+    },
+    {
+      "label": "demonyms",
+      "children": [
+        {
+          "label": "dominican quisqueyan"
+        }
+      ]
+    },
+    {
+      "label": "government",
+      "children": [
+        {
+          "label": "unitary presidential republic"
+        }
+      ]
+    },
+    {
+      "label": "president",
+      "children": [
+        {
+          "label": "luis abinader"
+        }
+      ]
+    },
+    {
+      "label": "vice_president",
+      "children": [
+        {
+          "label": "raquel peña"
+        }
+      ]
+    },
+    {
+      "label": "legislature",
+      "children": [
+        {
+          "label": "congress"
+        }
+      ]
+    },
+    {
+      "label": "upper_house",
+      "children": [
+        {
+          "label": "senate"
+        }
+      ]
+    },
+    {
+      "label": "lower_house",
+      "children": [
+        {
+          "label": "chamber of deputies"
+        }
+      ]
+    },
+    {
+      "label": "formation",
+      "children": [
+        {
+          "label": "ephemeral_independence",
+          "children": [
+            {
+              "label": "1821–1822"
+            }
+          ]
+        },
+        {
+          "label": "first_republic",
+          "children": [
+            {
+              "label": "1844–1861"
+            }
+          ]
+        },
+        {
+          "label": "second_republic",
+          "children": [
+            {
+              "label": "1865–1916"
+            }
+          ]
+        },
+        {
+          "label": "third_republic",
+          "children": [
+            {
+              "label": "1924–1965"
+            }
+          ]
+        },
+        {
+          "label": "fourth_republic",
+          "children": [
+            {
+              "label": "1966–present"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "area",
+      "children": [
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "48,671 km"
+            }
+          ]
+        },
+        {
+          "label": "water",
+          "children": [
+            {
+              "label": "0.7"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "population",
+      "children": [
+        {
+          "label": "2025_estimate",
+          "children": [
+            {
+              "label": "11,532,151"
+            }
+          ]
+        },
+        {
+          "label": "density",
+          "children": [
+            {
+              "label": "220/km"
+            }
+          ]
+        },
+        {
+          "label": "gdp_ppp",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$334.292 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$30,710"
+            }
+          ]
+        },
+        {
+          "label": "gdp_nominal",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$135.545 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$12,452"
+            }
+          ]
+        },
+        {
+          "label": "gini_2024",
+          "children": [
+            {
+              "label": "39 medium inequality"
+            }
+          ]
+        },
+        {
+          "label": "hdi_2023",
+          "children": [
+            {
+              "label": "0.776 high"
+            }
+          ]
+        },
+        {
+          "label": "currency",
+          "children": [
+            {
+              "label": "dominican peso"
+            }
+          ]
+        },
+        {
+          "label": "time_zone",
+          "children": [
+            {
+              "label": "utc -04:00"
+            }
+          ]
+        },
+        {
+          "label": "date_format",
+          "children": [
+            {
+              "label": "dd/mm/yyyy or dd-mm-yyyy"
+            }
+          ]
+        },
+        {
+          "label": "calling_code",
+          "children": [
+            {
+              "label": "+1"
+            }
+          ]
+        },
+        {
+          "label": "iso_3166_code",
+          "children": [
+            {
+              "label": "do"
+            }
+          ]
+        },
+        {
+          "label": "internet_tld",
+          "children": [
+            {
+              "label": ".do"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

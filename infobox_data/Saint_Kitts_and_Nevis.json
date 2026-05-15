@@ -1,0 +1,324 @@
+{
+  "country": "Saint Kitts and Nevis",
+  "infobox_title": "Federation of Saint Kitts and Nevis",
+  "data": [
+    {
+      "label": "Capital and largest city",
+      "value": "Basseterre 17°18′N 62°44′W ﻿ / ﻿ 17.300°N 62.733°W",
+      "links": [
+        {
+          "text": "Basseterre",
+          "href": "https://en.wikipedia.org/wiki/Basseterre"
+        },
+        {
+          "text": "17°18′N62°44′W﻿ / ﻿17.300°N 62.733°W",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Saint_Kitts_and_Nevis&params=17_18_N_62_44_W_type:city"
+        }
+      ]
+    },
+    {
+      "label": "Official languages",
+      "value": "English",
+      "links": [
+        {
+          "text": "English",
+          "href": "https://en.wikipedia.org/wiki/English_language"
+        }
+      ]
+    },
+    {
+      "label": "Vernacular language",
+      "value": "Saint Kitts Creole",
+      "links": [
+        {
+          "text": "Saint Kitts Creole",
+          "href": "https://en.wikipedia.org/wiki/Saint_Kitts_Creole"
+        }
+      ]
+    },
+    {
+      "label": "Ethnic groups (2020)",
+      "value": "92.5% African 3.0% Mixed 2.1% European 1.6% Indian 0.5% other 0.3% unspecified",
+      "links": [
+        {
+          "text": "African",
+          "href": "https://en.wikipedia.org/wiki/Afro-Caribbean"
+        },
+        {
+          "text": "Mixed",
+          "href": "https://en.wikipedia.org/wiki/Multiracial"
+        },
+        {
+          "text": "European",
+          "href": "https://en.wikipedia.org/wiki/White_Kittitians_and_Nevisians"
+        },
+        {
+          "text": "Indian",
+          "href": "https://en.wikipedia.org/wiki/Indians_in_Saint_Kitts_and_Nevis"
+        },
+        {
+          "text": "other",
+          "href": "https://en.wikipedia.org/wiki/Demographics_of_Saint_Kitts_and_Nevis"
+        }
+      ],
+      "sub_items": [
+        "92.5% African",
+        "3.0% Mixed",
+        "2.1% European",
+        "1.6% Indian",
+        "0.5% other",
+        "0.3% unspecified"
+      ]
+    },
+    {
+      "label": "Religion (2020)",
+      "value": "94.6% Christianity 81.3% Protestantism 13.3% other Christian 2.6% no religion 1.5% Hinduism 1.3% other",
+      "links": [
+        {
+          "text": "Christianity",
+          "href": "https://en.wikipedia.org/wiki/Christianity"
+        },
+        {
+          "text": "Protestantism",
+          "href": "https://en.wikipedia.org/wiki/Protestantism"
+        },
+        {
+          "text": "Christian",
+          "href": "https://en.wikipedia.org/wiki/Christian"
+        },
+        {
+          "text": "no religion",
+          "href": "https://en.wikipedia.org/wiki/Irreligion"
+        },
+        {
+          "text": "Hinduism",
+          "href": "https://en.wikipedia.org/wiki/Hinduism_in_the_West_Indies"
+        }
+      ],
+      "sub_items": [
+        "94.6% Christianity 81.3% Protestantism 13.3% other Christian",
+        "94.6% Christianity 81.3% Protestantism 13.3% other Christian",
+        "81.3% Protestantism",
+        "13.3% other Christian",
+        "2.6% no religion",
+        "1.5% Hinduism",
+        "1.3% other"
+      ]
+    },
+    {
+      "label": "Demonyms",
+      "value": "Kittitian Nevisian",
+      "sub_items": [
+        "Kittitian",
+        "Nevisian"
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Federal parliamentary constitutional monarchy",
+      "links": [
+        {
+          "text": "Federal",
+          "href": "https://en.wikipedia.org/wiki/Federal_monarchy"
+        },
+        {
+          "text": "constitutional monarchy",
+          "href": "https://en.wikipedia.org/wiki/Constitutional_monarchy"
+        }
+      ]
+    },
+    {
+      "label": "• Monarch",
+      "value": "Charles III",
+      "links": [
+        {
+          "text": "Charles III",
+          "href": "https://en.wikipedia.org/wiki/Charles_III"
+        }
+      ]
+    },
+    {
+      "label": "• Governor-General",
+      "value": "Dame Marcella Liburd",
+      "links": [
+        {
+          "text": "Dame Marcella Liburd",
+          "href": "https://en.wikipedia.org/wiki/Marcella_Liburd"
+        }
+      ]
+    },
+    {
+      "label": "• Prime Minister",
+      "value": "Terrance Drew",
+      "links": [
+        {
+          "text": "Terrance Drew",
+          "href": "https://en.wikipedia.org/wiki/Terrance_Drew"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "National Assembly",
+      "links": [
+        {
+          "text": "National Assembly",
+          "href": "https://en.wikipedia.org/wiki/National_Assembly_(Saint_Kitts_and_Nevis)"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Independence from the United Kingdom",
+      "rows": [
+        {
+          "label": "• Associated State",
+          "value": "27 February 1967"
+        },
+        {
+          "label": "• Independence declared",
+          "value": "19 September 1983"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "261 km (101 sq mi) ( 188th )",
+          "links": [
+            {
+              "text": "188th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "Negligible"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2021 estimate",
+          "value": "47,606 ( 187th )",
+          "links": [
+            {
+              "text": "187th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• 2023 census",
+          "value": "54,338"
+        },
+        {
+          "label": "• Density",
+          "value": "164/km (424.8/sq mi) ( 64th )",
+          "links": [
+            {
+              "text": "64th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2023 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$1.8 billion"
+        },
+        {
+          "label": "• Per capita",
+          "value": "$29,893"
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2023 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$1 billion"
+        },
+        {
+          "label": "• Per capita",
+          "value": "$18,158"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.840 very high ( 58th )",
+          "links": [
+            {
+              "text": "58th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "East Caribbean dollar (EC$) ( XCD )",
+          "links": [
+            {
+              "text": "East Caribbean dollar",
+              "href": "https://en.wikipedia.org/wiki/East_Caribbean_dollar"
+            },
+            {
+              "text": "XCD",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC -4 ( AST )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "AST",
+              "href": "https://en.wikipedia.org/wiki/Atlantic_Standard_Time"
+            }
+          ]
+        },
+        {
+          "label": "Date format",
+          "value": "dd-mm-yyyy"
+        },
+        {
+          "label": "Calling code",
+          "value": "+1"
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "KN",
+          "links": [
+            {
+              "text": "KN",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:KN"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".kn",
+          "links": [
+            {
+              "text": ".kn",
+              "href": "https://en.wikipedia.org/wiki/.kn"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

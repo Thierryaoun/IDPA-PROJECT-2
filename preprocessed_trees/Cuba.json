@@ -1,0 +1,333 @@
+{
+  "label": "country",
+  "children": [
+    {
+      "label": "name",
+      "children": [
+        {
+          "label": "cuba"
+        }
+      ]
+    },
+    {
+      "label": "infobox_title",
+      "children": [
+        {
+          "label": "republic of cuba república de cuba"
+        }
+      ]
+    },
+    {
+      "label": "capital_and_largest_city",
+      "children": [
+        {
+          "label": "havana / 23."
+        }
+      ]
+    },
+    {
+      "label": "official_languages",
+      "children": [
+        {
+          "label": "spanish"
+        }
+      ]
+    },
+    {
+      "label": "religion_2020",
+      "children": [
+        {
+          "label": "58.9% christianity"
+        },
+        {
+          "label": "23.2% no religion"
+        },
+        {
+          "label": "17.6% folk religions"
+        },
+        {
+          "label": "0.3% other"
+        }
+      ]
+    },
+    {
+      "label": "demonym",
+      "children": [
+        {
+          "label": "cuban"
+        }
+      ]
+    },
+    {
+      "label": "government",
+      "children": [
+        {
+          "label": "communist state"
+        }
+      ]
+    },
+    {
+      "label": "first_secretary_and_president",
+      "children": [
+        {
+          "label": "miguel díaz-canel"
+        }
+      ]
+    },
+    {
+      "label": "vice_president",
+      "children": [
+        {
+          "label": "salvador valdés mesa"
+        }
+      ]
+    },
+    {
+      "label": "prime_minister",
+      "children": [
+        {
+          "label": "manuel marrero cruz"
+        }
+      ]
+    },
+    {
+      "label": "president_of_the_national_assembly",
+      "children": [
+        {
+          "label": "esteban lazo hernández"
+        }
+      ]
+    },
+    {
+      "label": "legislature",
+      "children": [
+        {
+          "label": "national assembly of people's power"
+        }
+      ]
+    },
+    {
+      "label": "independence_from_spain",
+      "children": [
+        {
+          "label": "declaration_of_independence",
+          "children": [
+            {
+              "label": "10 october 1868"
+            }
+          ]
+        },
+        {
+          "label": "war_of_independence",
+          "children": [
+            {
+              "label": "24 february 1895"
+            }
+          ]
+        },
+        {
+          "label": "recognized_sovereignty_relinquished_by_spain",
+          "children": [
+            {
+              "label": "10 december 1898"
+            }
+          ]
+        },
+        {
+          "label": "republic_declared_end_of_united_states_occupation",
+          "children": [
+            {
+              "label": "20 may 1902"
+            }
+          ]
+        },
+        {
+          "label": "cuban_revolution",
+          "children": [
+            {
+              "label": "26 july 1953 – 1 january 1959"
+            }
+          ]
+        },
+        {
+          "label": "current_constitution",
+          "children": [
+            {
+              "label": "10 april 2019"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "area",
+      "children": [
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "110,860 km"
+            }
+          ]
+        },
+        {
+          "label": "water",
+          "children": [
+            {
+              "label": "0.94"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "population",
+      "children": [
+        {
+          "label": "2024_estimate",
+          "children": [
+            {
+              "label": "9,748,007"
+            }
+          ]
+        },
+        {
+          "label": "2022_census",
+          "children": [
+            {
+              "label": "11,089,511"
+            }
+          ]
+        },
+        {
+          "label": "density",
+          "children": [
+            {
+              "label": "89.8/km"
+            }
+          ]
+        },
+        {
+          "label": "gdp_ppp",
+          "children": [
+            {
+              "label": "2015 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$254.865 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$22,237"
+            }
+          ]
+        },
+        {
+          "label": "gdp_nominal",
+          "children": [
+            {
+              "label": "2024 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$252.063 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$22,957"
+            }
+          ]
+        },
+        {
+          "label": "gini_2000",
+          "children": [
+            {
+              "label": "38.0 medium inequality"
+            }
+          ]
+        },
+        {
+          "label": "hdi_2023",
+          "children": [
+            {
+              "label": "0.762 high"
+            }
+          ]
+        },
+        {
+          "label": "currency",
+          "children": [
+            {
+              "label": "cuban peso"
+            }
+          ]
+        },
+        {
+          "label": "time_zone",
+          "children": [
+            {
+              "label": "utc −05:00"
+            }
+          ]
+        },
+        {
+          "label": "summer_dst",
+          "children": [
+            {
+              "label": "utc −04:00"
+            }
+          ]
+        },
+        {
+          "label": "date_format",
+          "children": [
+            {
+              "label": "dd/mm/yyyy"
+            }
+          ]
+        },
+        {
+          "label": "calling_code",
+          "children": [
+            {
+              "label": "+53"
+            }
+          ]
+        },
+        {
+          "label": "iso_3166_code",
+          "children": [
+            {
+              "label": "cu"
+            }
+          ]
+        },
+        {
+          "label": "internet_tld",
+          "children": [
+            {
+              "label": ".cu"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

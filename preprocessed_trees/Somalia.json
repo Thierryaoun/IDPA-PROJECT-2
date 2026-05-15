@@ -1,0 +1,399 @@
+{
+  "label": "country",
+  "children": [
+    {
+      "label": "name",
+      "children": [
+        {
+          "label": "somalia"
+        }
+      ]
+    },
+    {
+      "label": "infobox_title",
+      "children": [
+        {
+          "label": "federal republic of somalia jamhuuriyadda federaalka soomaaliya جمهورية الصومال الفيدرالية jumhūriyah aṣ-ṣūmāl al-fīdirāliyah"
+        }
+      ]
+    },
+    {
+      "label": "capital_and_largest_city",
+      "children": [
+        {
+          "label": "mogadishu / 2."
+        }
+      ]
+    },
+    {
+      "label": "official_languages",
+      "children": [
+        {
+          "label": "somali"
+        }
+      ]
+    },
+    {
+      "label": "second_language",
+      "children": [
+        {
+          "label": "arabic"
+        }
+      ]
+    },
+    {
+      "label": "ethnic_groups_2021",
+      "children": [
+        {
+          "label": "85% somali"
+        },
+        {
+          "label": "15% other"
+        }
+      ]
+    },
+    {
+      "label": "religion",
+      "children": [
+        {
+          "label": "sunni islam"
+        }
+      ]
+    },
+    {
+      "label": "demonym",
+      "children": [
+        {
+          "label": "somali"
+        }
+      ]
+    },
+    {
+      "label": "government",
+      "children": [
+        {
+          "label": "federal parliamentary republic"
+        }
+      ]
+    },
+    {
+      "label": "president",
+      "children": [
+        {
+          "label": "hassan sheikh mohamud"
+        }
+      ]
+    },
+    {
+      "label": "prime_minister",
+      "children": [
+        {
+          "label": "hamza abdi barre"
+        }
+      ]
+    },
+    {
+      "label": "legislature",
+      "children": [
+        {
+          "label": "federal parliament"
+        }
+      ]
+    },
+    {
+      "label": "upper_house",
+      "children": [
+        {
+          "label": "senate"
+        }
+      ]
+    },
+    {
+      "label": "lower_house",
+      "children": [
+        {
+          "label": "house of the people"
+        }
+      ]
+    },
+    {
+      "label": "establishment",
+      "children": [
+        {
+          "label": "land_of_punt",
+          "children": [
+            {
+              "label": "2350 bc"
+            }
+          ]
+        },
+        {
+          "label": "macrobia",
+          "children": [
+            {
+              "label": "980 bc"
+            }
+          ]
+        },
+        {
+          "label": "barbaria",
+          "children": [
+            {
+              "label": "100 bc"
+            }
+          ]
+        },
+        {
+          "label": "adal_sultanate",
+          "children": [
+            {
+              "label": "9th century"
+            }
+          ]
+        },
+        {
+          "label": "mogadishu_sultanate",
+          "children": [
+            {
+              "label": "10th century"
+            }
+          ]
+        },
+        {
+          "label": "sultanate_of_ifat",
+          "children": [
+            {
+              "label": "13th century"
+            }
+          ]
+        },
+        {
+          "label": "ajuran_sultanate",
+          "children": [
+            {
+              "label": "13th century"
+            }
+          ]
+        },
+        {
+          "label": "hiraab_imamate",
+          "children": [
+            {
+              "label": "16th century"
+            }
+          ]
+        },
+        {
+          "label": "geledi_sultanate",
+          "children": [
+            {
+              "label": "1695–1911"
+            }
+          ]
+        },
+        {
+          "label": "majeerteen_sultanate",
+          "children": [
+            {
+              "label": "1648–1927"
+            }
+          ]
+        },
+        {
+          "label": "sultanate_of_hobyo",
+          "children": [
+            {
+              "label": "1878–1927"
+            }
+          ]
+        },
+        {
+          "label": "isaaq_sultanate",
+          "children": [
+            {
+              "label": "1749–1884"
+            }
+          ]
+        },
+        {
+          "label": "british_somaliland",
+          "children": [
+            {
+              "label": "1884–1960"
+            }
+          ]
+        },
+        {
+          "label": "italian_somaliland",
+          "children": [
+            {
+              "label": "1889–1941"
+            }
+          ]
+        },
+        {
+          "label": "independence_of_the_state_of_somaliland_from_the_united_kingdom",
+          "children": [
+            {
+              "label": "26 june 1960"
+            }
+          ]
+        },
+        {
+          "label": "independence_of_the_trust_territory_of_somaliland_from_italy_and_union_with_the_state_of_somaliland_to_form_the_somali_republic",
+          "children": [
+            {
+              "label": "1 july 1960"
+            }
+          ]
+        },
+        {
+          "label": "current_constitution",
+          "children": [
+            {
+              "label": "1 august 2012"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "area",
+      "children": [
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "637,657 km"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "population",
+      "children": [
+        {
+          "label": "2025_estimate",
+          "children": [
+            {
+              "label": "19,280,850"
+            }
+          ]
+        },
+        {
+          "label": "density",
+          "children": [
+            {
+              "label": "27.2 /km"
+            }
+          ]
+        },
+        {
+          "label": "gdp_ppp",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$32.500 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$1,920"
+            }
+          ]
+        },
+        {
+          "label": "gdp_nominal",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$12.990 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$766"
+            }
+          ]
+        },
+        {
+          "label": "gini_2022_last_available_data",
+          "children": [
+            {
+              "label": "35.2 medium inequality"
+            }
+          ]
+        },
+        {
+          "label": "hdi_2023",
+          "children": [
+            {
+              "label": "0.404 low"
+            }
+          ]
+        },
+        {
+          "label": "currency",
+          "children": [
+            {
+              "label": "somali shilling"
+            }
+          ]
+        },
+        {
+          "label": "time_zone",
+          "children": [
+            {
+              "label": "utc +3"
+            }
+          ]
+        },
+        {
+          "label": "calling_code",
+          "children": [
+            {
+              "label": "+252"
+            }
+          ]
+        },
+        {
+          "label": "iso_3166_code",
+          "children": [
+            {
+              "label": "so"
+            }
+          ]
+        },
+        {
+          "label": "internet_tld",
+          "children": [
+            {
+              "label": ".so"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

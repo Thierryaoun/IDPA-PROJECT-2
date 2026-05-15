@@ -1,0 +1,395 @@
+{
+  "country": "Chile",
+  "infobox_title": "Republic of Chile República de Chile",
+  "data": [
+    {
+      "label": "Capital and largest city",
+      "value": "Santiago 33°26′S 70°40′W ﻿ / ﻿ 33.433°S 70.667°W",
+      "links": [
+        {
+          "text": "Santiago",
+          "href": "https://en.wikipedia.org/wiki/Santiago"
+        },
+        {
+          "text": "33°26′S70°40′W﻿ / ﻿33.433°S 70.667°W",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Chile&params=33_26_S_70_40_W_type:city"
+        }
+      ]
+    },
+    {
+      "label": "National language",
+      "value": "Spanish",
+      "links": [
+        {
+          "text": "Spanish",
+          "href": "https://en.wikipedia.org/wiki/Chilean_Spanish"
+        }
+      ]
+    },
+    {
+      "label": "Other spoken languages",
+      "value": "Aymara Kawésqar Mapudungun Quechua Rapa Nui",
+      "links": [
+        {
+          "text": "Aymara",
+          "href": "https://en.wikipedia.org/wiki/Aymara_language"
+        },
+        {
+          "text": "Kawésqar",
+          "href": "https://en.wikipedia.org/wiki/Kaw%C3%A9sqar_language"
+        },
+        {
+          "text": "Mapudungun",
+          "href": "https://en.wikipedia.org/wiki/Mapudungun"
+        },
+        {
+          "text": "Quechua",
+          "href": "https://en.wikipedia.org/wiki/Chilean_Quechua"
+        },
+        {
+          "text": "Rapa Nui",
+          "href": "https://en.wikipedia.org/wiki/Rapa_Nui_language"
+        }
+      ],
+      "sub_items": [
+        "Aymara",
+        "Kawésqar",
+        "Mapudungun",
+        "Quechua",
+        "Rapa Nui"
+      ]
+    },
+    {
+      "label": "Religion (2024)",
+      "value": "70% Christianity 54% Catholicism 16% Protestantism 26% no religion 4% other",
+      "links": [
+        {
+          "text": "Christianity",
+          "href": "https://en.wikipedia.org/wiki/Christianity"
+        },
+        {
+          "text": "Catholicism",
+          "href": "https://en.wikipedia.org/wiki/Catholic_Church_in_Chile"
+        },
+        {
+          "text": "Protestantism",
+          "href": "https://en.wikipedia.org/wiki/Protestantism"
+        },
+        {
+          "text": "no religion",
+          "href": "https://en.wikipedia.org/wiki/Irreligion_in_Latin_America"
+        },
+        {
+          "text": "other",
+          "href": "https://en.wikipedia.org/wiki/Religion_in_Chile"
+        }
+      ],
+      "sub_items": [
+        "70% Christianity 54% Catholicism 16% Protestantism",
+        "70% Christianity 54% Catholicism 16% Protestantism",
+        "54% Catholicism",
+        "16% Protestantism",
+        "26% no religion",
+        "4% other"
+      ]
+    },
+    {
+      "label": "Demonym",
+      "value": "Chilean",
+      "links": [
+        {
+          "text": "Chilean",
+          "href": "https://en.wikipedia.org/wiki/Chileans"
+        }
+      ],
+      "sub_items": [
+        "Chilean"
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Unitary presidential republic",
+      "links": [
+        {
+          "text": "presidential republic",
+          "href": "https://en.wikipedia.org/wiki/Presidential_system"
+        }
+      ]
+    },
+    {
+      "label": "• President",
+      "value": "José Antonio Kast",
+      "links": [
+        {
+          "text": "José Antonio Kast",
+          "href": "https://en.wikipedia.org/wiki/Jos%C3%A9_Antonio_Kast"
+        }
+      ]
+    },
+    {
+      "label": "• President of the Senate",
+      "value": "Paulina Núñez",
+      "links": [
+        {
+          "text": "Paulina Núñez",
+          "href": "https://en.wikipedia.org/wiki/Paulina_N%C3%BA%C3%B1ez"
+        }
+      ]
+    },
+    {
+      "label": "• President of the Chamber of Deputies",
+      "value": "Jorge Alessandri",
+      "links": [
+        {
+          "text": "Jorge Alessandri",
+          "href": "https://en.wikipedia.org/wiki/Jorge_Alessandri_Vergara"
+        }
+      ]
+    },
+    {
+      "label": "• President of Supreme Court",
+      "value": "Gloria Ana Chevesich",
+      "links": [
+        {
+          "text": "Gloria Ana Chevesich",
+          "href": "https://en.wikipedia.org/wiki/Gloria_Ana_Chevesich"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "National Congress",
+      "links": [
+        {
+          "text": "National Congress",
+          "href": "https://en.wikipedia.org/wiki/National_Congress_of_Chile"
+        }
+      ]
+    },
+    {
+      "label": "• Upper house",
+      "value": "Senate",
+      "links": [
+        {
+          "text": "Senate",
+          "href": "https://en.wikipedia.org/wiki/Senate_of_Chile"
+        }
+      ]
+    },
+    {
+      "label": "• Lower house",
+      "value": "Chamber of Deputies",
+      "links": [
+        {
+          "text": "Chamber of Deputies",
+          "href": "https://en.wikipedia.org/wiki/Chamber_of_Deputies_of_Chile"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Independence from Spain",
+      "rows": [
+        {
+          "label": "• Government Junta",
+          "value": "18 September 1810"
+        },
+        {
+          "label": "• Declared",
+          "value": "12 February 1818"
+        },
+        {
+          "label": "• Recognized",
+          "value": "25 April 1844"
+        },
+        {
+          "label": "• Current constitution",
+          "value": "11 March 1981"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "756,101.96 km (291,932.60 sq mi) ( 37th )",
+          "links": [
+            {
+              "text": "37th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "2.1 (as of 2015)"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2023 estimate",
+          "value": "19,629,588 ( 63rd )",
+          "links": [
+            {
+              "text": "63rd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• Density",
+          "value": "24/km (62.2/sq mi) ( 198th )",
+          "links": [
+            {
+              "text": "198th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$713.030 billion ( 45th )",
+          "links": [
+            {
+              "text": "45th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$35,290 ( 61st )",
+          "links": [
+            {
+              "text": "61st",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$347.170 billion ( 45th )",
+          "links": [
+            {
+              "text": "45th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$17,180 ( 66th )",
+          "links": [
+            {
+              "text": "66th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "Gini (2022)",
+          "value": "44.8 medium inequality"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.878 very high ( 45th )",
+          "links": [
+            {
+              "text": "45th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "Chilean peso ( CLP )",
+          "links": [
+            {
+              "text": "Chilean peso",
+              "href": "https://en.wikipedia.org/wiki/Chilean_peso"
+            },
+            {
+              "text": "CLP",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC −3, −4, −6 ( CLST, CLT, EAST )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "CLST, CLT, EAST",
+              "href": "https://en.wikipedia.org/wiki/Time_in_Chile"
+            }
+          ]
+        },
+        {
+          "label": "• Summer ( DST )",
+          "value": "UTC −3, −5 ( CLST, EASST )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "CLST, EASST",
+              "href": "https://en.wikipedia.org/wiki/Time_in_Chile#Summer_time_(CLST/EASST)"
+            }
+          ]
+        },
+        {
+          "label": "Date format",
+          "value": "dd/mm/yyyy"
+        },
+        {
+          "label": "Calling code",
+          "value": "+56",
+          "links": [
+            {
+              "text": "+56",
+              "href": "https://en.wikipedia.org/wiki/Telephone_numbers_in_Chile"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "CL",
+          "links": [
+            {
+              "text": "CL",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:CL"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".cl",
+          "links": [
+            {
+              "text": ".cl",
+              "href": "https://en.wikipedia.org/wiki/.cl"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

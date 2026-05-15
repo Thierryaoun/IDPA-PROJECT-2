@@ -1,0 +1,455 @@
+{
+  "label": "country",
+  "children": [
+    {
+      "label": "name",
+      "children": [
+        {
+          "label": "zambia"
+        }
+      ]
+    },
+    {
+      "label": "infobox_title",
+      "children": [
+        {
+          "label": "republic of zambia"
+        }
+      ]
+    },
+    {
+      "label": "capital_and_largest_city",
+      "children": [
+        {
+          "label": "lusaka / 15"
+        }
+      ]
+    },
+    {
+      "label": "official_languages",
+      "children": [
+        {
+          "label": "english"
+        }
+      ]
+    },
+    {
+      "label": "recognised_regional_languages",
+      "children": [
+        {
+          "label": "% bemba"
+        },
+        {
+          "label": "% nyanja"
+        },
+        {
+          "label": "% tonga"
+        },
+        {
+          "label": "% tumbuka"
+        },
+        {
+          "label": "% lozi"
+        },
+        {
+          "label": "% chewa"
+        },
+        {
+          "label": "% nsenga"
+        },
+        {
+          "label": "% lunda"
+        },
+        {
+          "label": "% kaonde"
+        },
+        {
+          "label": "% lala"
+        },
+        {
+          "label": "% lamba"
+        },
+        {
+          "label": "% english"
+        },
+        {
+          "label": "% luvale"
+        },
+        {
+          "label": "% mambwe"
+        },
+        {
+          "label": "% lenje"
+        },
+        {
+          "label": "% namwanga"
+        },
+        {
+          "label": "% bisa"
+        },
+        {
+          "label": "% ushi"
+        },
+        {
+          "label": "% ila"
+        },
+        {
+          "label": "% mbunda"
+        },
+        {
+          "label": "% ngoni"
+        },
+        {
+          "label": "% senga"
+        },
+        {
+          "label": "% lungu"
+        },
+        {
+          "label": "% toka-leya"
+        },
+        {
+          "label": "% others"
+        }
+      ]
+    },
+    {
+      "label": "ethnic_groups_2010",
+      "children": [
+        {
+          "label": "% bemba"
+        },
+        {
+          "label": "% tonga"
+        },
+        {
+          "label": "% tumbuka"
+        },
+        {
+          "label": "% chewa"
+        },
+        {
+          "label": "% lozi"
+        },
+        {
+          "label": "% nsenga"
+        },
+        {
+          "label": "% ngoni"
+        },
+        {
+          "label": "% lala"
+        },
+        {
+          "label": "% kaonde"
+        },
+        {
+          "label": "% namwanga"
+        },
+        {
+          "label": "% lunda"
+        },
+        {
+          "label": "% mambwe"
+        },
+        {
+          "label": "% luvale"
+        },
+        {
+          "label": "% lamba"
+        },
+        {
+          "label": "% ushi"
+        },
+        {
+          "label": "% bisa"
+        },
+        {
+          "label": "% lenje"
+        },
+        {
+          "label": "% mbunda"
+        },
+        {
+          "label": "% lunda"
+        },
+        {
+          "label": "% senga"
+        },
+        {
+          "label": "% ila"
+        },
+        {
+          "label": "% lungu"
+        },
+        {
+          "label": "% tabwa"
+        },
+        {
+          "label": "% soli"
+        },
+        {
+          "label": "% kunda"
+        },
+        {
+          "label": "% ngumbo"
+        },
+        {
+          "label": "% chishinga"
+        },
+        {
+          "label": "% chokwe"
+        },
+        {
+          "label": "% nkoya"
+        },
+        {
+          "label": "% other ethnics"
+        },
+        {
+          "label": "% major racial"
+        },
+        {
+          "label": "% unclassified"
+        }
+      ]
+    },
+    {
+      "label": "religion_2023",
+      "children": [
+        {
+          "label": "% christianity"
+        },
+        {
+          "label": "% islam"
+        },
+        {
+          "label": "% other / none"
+        }
+      ]
+    },
+    {
+      "label": "demonym",
+      "children": [
+        {
+          "label": "zambian"
+        }
+      ]
+    },
+    {
+      "label": "government",
+      "children": [
+        {
+          "label": "unitary presidential republic"
+        }
+      ]
+    },
+    {
+      "label": "president",
+      "children": [
+        {
+          "label": "hakainde hichilema"
+        }
+      ]
+    },
+    {
+      "label": "vice_president",
+      "children": [
+        {
+          "label": "mutale nalumango"
+        }
+      ]
+    },
+    {
+      "label": "speaker",
+      "children": [
+        {
+          "label": "nelly mutti"
+        }
+      ]
+    },
+    {
+      "label": "chief_justice",
+      "children": [
+        {
+          "label": "mumba malila"
+        }
+      ]
+    },
+    {
+      "label": "legislature",
+      "children": [
+        {
+          "label": "national assembly of zambia"
+        }
+      ]
+    },
+    {
+      "label": "independence_from_the_united_kingdom",
+      "children": [
+        {
+          "label": "declared",
+          "children": [
+            {
+              "label": "24 october 1964"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "area",
+      "children": [
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "752,617 km (290,587 sq mi"
+            }
+          ]
+        },
+        {
+          "label": "water",
+          "children": [
+            {
+              "label": "1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "population",
+      "children": [
+        {
+          "label": "2023_estimate",
+          "children": [
+            {
+              "label": "20,216,029"
+            }
+          ]
+        },
+        {
+          "label": "density",
+          "children": [
+            {
+              "label": "km (/sq mi"
+            }
+          ]
+        },
+        {
+          "label": "gdp_ppp",
+          "children": [
+            {
+              "label": "2023 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$4,068"
+            }
+          ]
+        },
+        {
+          "label": "gdp_nominal",
+          "children": [
+            {
+              "label": "2023 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$1,435"
+            }
+          ]
+        },
+        {
+          "label": "gini_2022",
+          "children": [
+            {
+              "label": "high inequality"
+            }
+          ]
+        },
+        {
+          "label": "hdi_2023",
+          "children": [
+            {
+              "label": "medium"
+            }
+          ]
+        },
+        {
+          "label": "currency",
+          "children": [
+            {
+              "label": "zambian kwacha"
+            }
+          ]
+        },
+        {
+          "label": "time_zone",
+          "children": [
+            {
+              "label": "utc +2"
+            }
+          ]
+        },
+        {
+          "label": "date_format",
+          "children": [
+            {
+              "label": "dd/mm/yyyy"
+            }
+          ]
+        },
+        {
+          "label": "calling_code",
+          "children": [
+            {
+              "label": "+260"
+            }
+          ]
+        },
+        {
+          "label": "iso_3166_code",
+          "children": [
+            {
+              "label": "zm"
+            }
+          ]
+        },
+        {
+          "label": "internet_tld",
+          "children": [
+            {
+              "label": "zm"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

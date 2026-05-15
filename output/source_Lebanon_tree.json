@@ -1,0 +1,398 @@
+{
+  "label": "country",
+  "children": [
+    {
+      "label": "name",
+      "children": [
+        {
+          "label": "lebanon"
+        }
+      ]
+    },
+    {
+      "label": "infobox_title",
+      "children": [
+        {
+          "label": "lebanese republic الجمهورية اللبنانية al-jumhūriyyah al-lubnāniyyah"
+        }
+      ]
+    },
+    {
+      "label": "capital_and_largest_city",
+      "children": [
+        {
+          "label": "beirut / 33."
+        }
+      ]
+    },
+    {
+      "label": "official_languages",
+      "children": [
+        {
+          "label": "arabic"
+        }
+      ]
+    },
+    {
+      "label": "local_vernacular",
+      "children": [
+        {
+          "label": "lebanese arabic"
+        }
+      ]
+    },
+    {
+      "label": "recognised_minority_language",
+      "children": [
+        {
+          "label": "french"
+        }
+      ]
+    },
+    {
+      "label": "ethnic_groups_2021",
+      "children": [
+        {
+          "label": "95% arab"
+        },
+        {
+          "label": "4% armenian"
+        },
+        {
+          "label": "1% others"
+        }
+      ]
+    },
+    {
+      "label": "religion_2024",
+      "children": [
+        {
+          "label": "53.31% islam"
+        },
+        {
+          "label": "26.84% shia"
+        },
+        {
+          "label": "0.64% alawite"
+        },
+        {
+          "label": "26.55% sunni"
+        },
+        {
+          "label": "41.40% christianity"
+        },
+        {
+          "label": "28.11% catholic"
+        },
+        {
+          "label": "8.30% orthodox"
+        },
+        {
+          "label": "2.92% armenian apostolic"
+        },
+        {
+          "label": "0.53% protestant"
+        },
+        {
+          "label": "1.64% other christians"
+        },
+        {
+          "label": "5.21% druze"
+        },
+        {
+          "label": "0.08% no religion"
+        }
+      ]
+    },
+    {
+      "label": "demonym",
+      "children": [
+        {
+          "label": "lebanese"
+        }
+      ]
+    },
+    {
+      "label": "government",
+      "children": [
+        {
+          "label": "unitary parliamentary republic under confessionalism"
+        }
+      ]
+    },
+    {
+      "label": "president",
+      "children": [
+        {
+          "label": "joseph aoun"
+        }
+      ]
+    },
+    {
+      "label": "prime_minister",
+      "children": [
+        {
+          "label": "nawaf salam"
+        }
+      ]
+    },
+    {
+      "label": "speaker_of_the_parliament",
+      "children": [
+        {
+          "label": "nabih berri"
+        }
+      ]
+    },
+    {
+      "label": "legislature",
+      "children": [
+        {
+          "label": "parliament"
+        }
+      ]
+    },
+    {
+      "label": "establishment",
+      "children": [
+        {
+          "label": "emirate_of_mount_lebanon",
+          "children": [
+            {
+              "label": "1516"
+            }
+          ]
+        },
+        {
+          "label": "double_qaim_maqamate_of_mount_lebanon",
+          "children": [
+            {
+              "label": "1 december 1843"
+            }
+          ]
+        },
+        {
+          "label": "mount_lebanon_mutasarrifate",
+          "children": [
+            {
+              "label": "9 june 1861"
+            }
+          ]
+        },
+        {
+          "label": "greater_lebanon",
+          "children": [
+            {
+              "label": "1 september 1920"
+            }
+          ]
+        },
+        {
+          "label": "constitution",
+          "children": [
+            {
+              "label": "23 may 1926"
+            }
+          ]
+        },
+        {
+          "label": "independence_declared",
+          "children": [
+            {
+              "label": "22 november 1943"
+            }
+          ]
+        },
+        {
+          "label": "french_mandate_ended",
+          "children": [
+            {
+              "label": "24 october 1945"
+            }
+          ]
+        },
+        {
+          "label": "withdrawal_of_french_forces",
+          "children": [
+            {
+              "label": "17 april 1946"
+            }
+          ]
+        },
+        {
+          "label": "israeli_troops_withdrawn",
+          "children": [
+            {
+              "label": "24 may 2000"
+            }
+          ]
+        },
+        {
+          "label": "syrian_troops_withdrawn",
+          "children": [
+            {
+              "label": "30 april 2005"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "area",
+      "children": [
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "10,452 km"
+            }
+          ]
+        },
+        {
+          "label": "water",
+          "children": [
+            {
+              "label": "1.8"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "population",
+      "children": [
+        {
+          "label": "2024_estimate",
+          "children": [
+            {
+              "label": "5,364,482"
+            }
+          ]
+        },
+        {
+          "label": "density",
+          "children": [
+            {
+              "label": "513/km"
+            }
+          ]
+        },
+        {
+          "label": "gdp_ppp",
+          "children": [
+            {
+              "label": "2022 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$78.233 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$11,793"
+            }
+          ]
+        },
+        {
+          "label": "gdp_nominal",
+          "children": [
+            {
+              "label": "2022 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$21.780 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$3,283"
+            }
+          ]
+        },
+        {
+          "label": "gini_2011",
+          "children": [
+            {
+              "label": "31.8 medium inequality"
+            }
+          ]
+        },
+        {
+          "label": "hdi_2023",
+          "children": [
+            {
+              "label": "0.752 high"
+            }
+          ]
+        },
+        {
+          "label": "currency",
+          "children": [
+            {
+              "label": "lebanese pound"
+            }
+          ]
+        },
+        {
+          "label": "time_zone",
+          "children": [
+            {
+              "label": "utc +2"
+            }
+          ]
+        },
+        {
+          "label": "summer_dst",
+          "children": [
+            {
+              "label": "utc +3"
+            }
+          ]
+        },
+        {
+          "label": "calling_code",
+          "children": [
+            {
+              "label": "+961"
+            }
+          ]
+        },
+        {
+          "label": "iso_3166_code",
+          "children": [
+            {
+              "label": "lb"
+            }
+          ]
+        },
+        {
+          "label": "internet_tld",
+          "children": [
+            {
+              "label": ".lb"
+            },
+            {
+              "label": ".لبنان"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,432 @@
+{
+  "country": "Andorra",
+  "infobox_title": "Principality of Andorra Principat d'Andorra",
+  "data": [
+    {
+      "label": "Capital and largest city",
+      "value": "Andorra la Vella 42°30′23″N 1°31′17″E ﻿ / ﻿ 42.50639°N 1.52139°E",
+      "links": [
+        {
+          "text": "Andorra la Vella",
+          "href": "https://en.wikipedia.org/wiki/Andorra_la_Vella"
+        },
+        {
+          "text": "42°30′23″N1°31′17″E﻿ / ﻿42.50639°N 1.52139°E",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Andorra&params=42_30_23_N_1_31_17_E_type:city_region:AD"
+        }
+      ]
+    },
+    {
+      "label": "Official languages",
+      "value": "Catalan 44.1%",
+      "links": [
+        {
+          "text": "Catalan",
+          "href": "https://en.wikipedia.org/wiki/Catalan_language"
+        }
+      ]
+    },
+    {
+      "label": "Significant language",
+      "value": "Spanish 40.3%",
+      "links": [
+        {
+          "text": "Spanish",
+          "href": "https://en.wikipedia.org/wiki/Spanish_language"
+        }
+      ]
+    },
+    {
+      "label": "Other languages",
+      "value": "13.5% Portuguese 10% French 3% English 6.8% other",
+      "links": [
+        {
+          "text": "Portuguese",
+          "href": "https://en.wikipedia.org/wiki/Portuguese_language"
+        },
+        {
+          "text": "French",
+          "href": "https://en.wikipedia.org/wiki/French_language"
+        },
+        {
+          "text": "English",
+          "href": "https://en.wikipedia.org/wiki/English_language"
+        }
+      ],
+      "sub_items": [
+        "13.5% Portuguese",
+        "10% French",
+        "3% English",
+        "6.8% other"
+      ]
+    },
+    {
+      "label": "Ethnic groups (2024)",
+      "value": "34.3% Spaniards 32.1% Andorrans 10% Portuguese 5.6% French 18% others",
+      "links": [
+        {
+          "text": "Spaniards",
+          "href": "https://en.wikipedia.org/wiki/Spaniards"
+        },
+        {
+          "text": "Andorrans",
+          "href": "https://en.wikipedia.org/wiki/Demographics_of_Andorra"
+        },
+        {
+          "text": "Portuguese",
+          "href": "https://en.wikipedia.org/wiki/Portuguese_people"
+        },
+        {
+          "text": "French",
+          "href": "https://en.wikipedia.org/wiki/French_people"
+        }
+      ],
+      "sub_items": [
+        "34.3% Spaniards",
+        "32.1% Andorrans",
+        "10% Portuguese",
+        "5.6% French",
+        "18% others"
+      ]
+    },
+    {
+      "label": "Religion (2020)",
+      "value": "90.8% Christianity 85.5% Catholicism ( official ) 5.3% other Christian 6.9% no religion 2.3% others",
+      "links": [
+        {
+          "text": "Christianity",
+          "href": "https://en.wikipedia.org/wiki/Christianity"
+        },
+        {
+          "text": "Catholicism",
+          "href": "https://en.wikipedia.org/wiki/Catholic_Church_in_Andorra"
+        },
+        {
+          "text": "official",
+          "href": "https://en.wikipedia.org/wiki/State_religion"
+        },
+        {
+          "text": "Christian",
+          "href": "https://en.wikipedia.org/wiki/List_of_Christian_denominations"
+        },
+        {
+          "text": "no religion",
+          "href": "https://en.wikipedia.org/wiki/Irreligion"
+        }
+      ],
+      "sub_items": [
+        "90.8% Christianity 85.5% Catholicism ( official ) 5.3% other Christian",
+        "90.8% Christianity 85.5% Catholicism ( official ) 5.3% other Christian",
+        "85.5% Catholicism ( official )",
+        "5.3% other Christian",
+        "6.9% no religion",
+        "2.3% others"
+      ]
+    },
+    {
+      "label": "Demonyms",
+      "value": "Andorran",
+      "links": [
+        {
+          "text": "Andorran",
+          "href": "https://en.wikipedia.org/wiki/List_of_Andorrans"
+        }
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Unitary parliamentary constitutional co-principality",
+      "links": [
+        {
+          "text": "co-principality",
+          "href": "https://en.wikipedia.org/wiki/Principality"
+        }
+      ]
+    },
+    {
+      "label": "• Co-princes",
+      "value": "Josep-Lluís Serrano Pentinat Emmanuel Macron",
+      "links": [
+        {
+          "text": "Josep-Lluís Serrano Pentinat",
+          "href": "https://en.wikipedia.org/wiki/Josep-Llu%C3%ADs_Serrano_Pentinat"
+        },
+        {
+          "text": "Emmanuel Macron",
+          "href": "https://en.wikipedia.org/wiki/Emmanuel_Macron"
+        }
+      ],
+      "sub_items": [
+        "Josep-Lluís Serrano Pentinat",
+        "Emmanuel Macron"
+      ]
+    },
+    {
+      "label": "• Representatives",
+      "value": "Eduard Ibáñez Georges-François Leclerc",
+      "links": [
+        {
+          "text": "Eduard Ibáñez",
+          "href": "https://en.wikipedia.org/wiki/Eduard_Ib%C3%A1%C3%B1ez"
+        },
+        {
+          "text": "Georges-François Leclerc",
+          "href": "https://en.wikipedia.org/wiki/Georges-Fran%C3%A7ois_Leclerc"
+        }
+      ],
+      "sub_items": [
+        "Eduard Ibáñez",
+        "Georges-François Leclerc"
+      ]
+    },
+    {
+      "label": "• Prime minister",
+      "value": "Xavier Espot Zamora",
+      "links": [
+        {
+          "text": "Xavier Espot Zamora",
+          "href": "https://en.wikipedia.org/wiki/Xavier_Espot_Zamora"
+        }
+      ]
+    },
+    {
+      "label": "• General syndic",
+      "value": "Carles Ensenyat Reig",
+      "links": [
+        {
+          "text": "Carles Ensenyat Reig",
+          "href": "https://en.wikipedia.org/wiki/Carles_Ensenyat_Reig"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "General Council",
+      "links": [
+        {
+          "text": "General Council",
+          "href": "https://en.wikipedia.org/wiki/General_Council_(Andorra)"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Independence",
+      "rows": [
+        {
+          "label": "• First Paréage",
+          "value": "8 September 1278"
+        },
+        {
+          "label": "• From the Kingdom of France",
+          "value": "12 October 1652"
+        },
+        {
+          "label": "• From the Principality of Catalonia",
+          "value": "1715"
+        },
+        {
+          "label": "• From the French Empire",
+          "value": "1814"
+        },
+        {
+          "label": "• Constitution",
+          "value": "2 February 1993"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "467.63 km (180.55 sq mi) ( 178th )",
+          "links": [
+            {
+              "text": "178th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "0.26 (121.4 ha )",
+          "links": [
+            {
+              "text": "ha",
+              "href": "https://en.wikipedia.org/wiki/Hectares"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2025 estimate",
+          "value": "89,058 ( 185th )",
+          "links": [
+            {
+              "text": "185th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• Density",
+          "value": "187.1/km (484.6/sq mi) ( 71st )",
+          "links": [
+            {
+              "text": "71st",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2024 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$6.001 billion ( 168th )",
+          "links": [
+            {
+              "text": "168th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$69,146 ( 18th )",
+          "links": [
+            {
+              "text": "18th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2024 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$3.897 billion ( 159th )",
+          "links": [
+            {
+              "text": "159th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$44,900 ( 24th )",
+          "links": [
+            {
+              "text": "24th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "Gini (2023)",
+          "value": "40.0 medium inequality"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.913 very high ( 32nd )",
+          "links": [
+            {
+              "text": "32nd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "Euro ( € ) ( EUR )",
+          "links": [
+            {
+              "text": "Euro",
+              "href": "https://en.wikipedia.org/wiki/Euro"
+            },
+            {
+              "text": "€",
+              "href": "https://en.wikipedia.org/wiki/Euro_sign"
+            },
+            {
+              "text": "EUR",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC +01:00 ( CET )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "CET",
+              "href": "https://en.wikipedia.org/wiki/Central_European_Time"
+            }
+          ]
+        },
+        {
+          "label": "• Summer ( DST )",
+          "value": "UTC +02:00 ( CEST )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "CEST",
+              "href": "https://en.wikipedia.org/wiki/Central_European_Summer_Time"
+            }
+          ]
+        },
+        {
+          "label": "Date format",
+          "value": "dd/mm/yyyy"
+        },
+        {
+          "label": "Calling code",
+          "value": "+376",
+          "links": [
+            {
+              "text": "+376",
+              "href": "https://en.wikipedia.org/wiki/Telephone_numbers_in_Andorra"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "AD",
+          "links": [
+            {
+              "text": "AD",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:AD"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".ad",
+          "links": [
+            {
+              "text": ".ad",
+              "href": "https://en.wikipedia.org/wiki/.ad"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

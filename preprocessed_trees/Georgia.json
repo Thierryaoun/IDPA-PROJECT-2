@@ -1,0 +1,364 @@
+{
+  "label": "country",
+  "children": [
+    {
+      "label": "name",
+      "children": [
+        {
+          "label": "georgia"
+        }
+      ]
+    },
+    {
+      "label": "infobox_title",
+      "children": [
+        {
+          "label": "georgia საქართველო sakartvelo"
+        }
+      ]
+    },
+    {
+      "label": "capital_and_largest_city",
+      "children": [
+        {
+          "label": "tbilisi / 41."
+        }
+      ]
+    },
+    {
+      "label": "official_languages",
+      "children": [
+        {
+          "label": "georgian"
+        }
+      ]
+    },
+    {
+      "label": "recognized_regional_languages",
+      "children": [
+        {
+          "label": "abkhaz"
+        }
+      ]
+    },
+    {
+      "label": "ethnic_groups_2014",
+      "children": [
+        {
+          "label": "86.8% georgians"
+        },
+        {
+          "label": "6.2% azerbaijanis"
+        },
+        {
+          "label": "4.5% armenians"
+        },
+        {
+          "label": "0.7% russians"
+        },
+        {
+          "label": "2.1% other"
+        }
+      ]
+    },
+    {
+      "label": "religion_2014",
+      "children": [
+        {
+          "label": "87.3% christianity"
+        },
+        {
+          "label": "83.4% georgian orthodoxy"
+        },
+        {
+          "label": "3.9% other christian"
+        },
+        {
+          "label": "10.7% islam"
+        },
+        {
+          "label": "2% other / none"
+        }
+      ]
+    },
+    {
+      "label": "demonym",
+      "children": [
+        {
+          "label": "georgian"
+        }
+      ]
+    },
+    {
+      "label": "government",
+      "children": [
+        {
+          "label": "unitary parliamentary republic"
+        }
+      ]
+    },
+    {
+      "label": "president",
+      "children": [
+        {
+          "label": "mikheil kavelashvili"
+        }
+      ]
+    },
+    {
+      "label": "prime_minister",
+      "children": [
+        {
+          "label": "irakli kobakhidze"
+        }
+      ]
+    },
+    {
+      "label": "chairperson_of_the_parliament",
+      "children": [
+        {
+          "label": "shalva papuashvili"
+        }
+      ]
+    },
+    {
+      "label": "legislature",
+      "children": [
+        {
+          "label": "parliament"
+        }
+      ]
+    },
+    {
+      "label": "establishment_history",
+      "children": [
+        {
+          "label": "colchis_and_iberia",
+          "children": [
+            {
+              "label": "13th c. bc – ad 580"
+            }
+          ]
+        },
+        {
+          "label": "kingdom_of_abkhazia_and_kingdom_of_the_iberians",
+          "children": [
+            {
+              "label": "786–1008"
+            }
+          ]
+        },
+        {
+          "label": "unification_of_georgia",
+          "children": [
+            {
+              "label": "1008"
+            }
+          ]
+        },
+        {
+          "label": "the_tripartite_division",
+          "children": [
+            {
+              "label": "1463–1810"
+            }
+          ]
+        },
+        {
+          "label": "russian_annexation",
+          "children": [
+            {
+              "label": "1801–1858"
+            }
+          ]
+        },
+        {
+          "label": "independence_from_russia",
+          "children": [
+            {
+              "label": "26 may 1918"
+            }
+          ]
+        },
+        {
+          "label": "russian_invasion",
+          "children": [
+            {
+              "label": "12 february 1921"
+            }
+          ]
+        },
+        {
+          "label": "soviet_annexation",
+          "children": [
+            {
+              "label": "25 february 1921"
+            }
+          ]
+        },
+        {
+          "label": "independence_from_the_soviet_union_declared_finalized",
+          "children": [
+            {
+              "label": "9 april 1991 26 december 1991"
+            }
+          ]
+        },
+        {
+          "label": "current_constitution",
+          "children": [
+            {
+              "label": "24 august 1995"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "area",
+      "children": [
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "69,700 km"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "population",
+      "children": [
+        {
+          "label": "2024_census",
+          "children": [
+            {
+              "label": "3,657,000"
+            }
+          ]
+        },
+        {
+          "label": "density",
+          "children": [
+            {
+              "label": "56.3/km"
+            }
+          ]
+        },
+        {
+          "label": "gdp_ppp",
+          "children": [
+            {
+              "label": "2026 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$123,049 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$33,340"
+            }
+          ]
+        },
+        {
+          "label": "gdp_nominal",
+          "children": [
+            {
+              "label": "2026 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$35.350 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$10,886"
+            }
+          ]
+        },
+        {
+          "label": "gini_2021",
+          "children": [
+            {
+              "label": "34.2 medium inequality"
+            }
+          ]
+        },
+        {
+          "label": "hdi_2023",
+          "children": [
+            {
+              "label": "0.844 very high"
+            }
+          ]
+        },
+        {
+          "label": "currency",
+          "children": [
+            {
+              "label": "georgian lari"
+            }
+          ]
+        },
+        {
+          "label": "time_zone",
+          "children": [
+            {
+              "label": "utc +4"
+            }
+          ]
+        },
+        {
+          "label": "date_format",
+          "children": [
+            {
+              "label": "dd.mm.yyyy"
+            }
+          ]
+        },
+        {
+          "label": "calling_code",
+          "children": [
+            {
+              "label": "+995"
+            }
+          ]
+        },
+        {
+          "label": "iso_3166_code",
+          "children": [
+            {
+              "label": "ge"
+            }
+          ]
+        },
+        {
+          "label": "internet_tld",
+          "children": [
+            {
+              "label": ".ge , .გე"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

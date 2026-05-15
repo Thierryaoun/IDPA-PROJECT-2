@@ -1,0 +1,315 @@
+{
+  "label": "country",
+  "children": [
+    {
+      "label": "name",
+      "children": [
+        {
+          "label": "kuwait"
+        }
+      ]
+    },
+    {
+      "label": "infobox_title",
+      "children": [
+        {
+          "label": "state of kuwait دَوْلَةُ الكويت dawlat al-kuwayt"
+        }
+      ]
+    },
+    {
+      "label": "capital_and_largest_city",
+      "children": [
+        {
+          "label": "kuwait city"
+        }
+      ]
+    },
+    {
+      "label": "official_languages",
+      "children": [
+        {
+          "label": "arabic"
+        }
+      ]
+    },
+    {
+      "label": "ethnic_groups_2018",
+      "children": [
+        {
+          "label": "57.8% arab"
+        },
+        {
+          "label": "40.3% south asian"
+        },
+        {
+          "label": "1.0% african"
+        },
+        {
+          "label": "0.9% other"
+        }
+      ]
+    },
+    {
+      "label": "religion_2013",
+      "children": [
+        {
+          "label": "74.6% islam"
+        },
+        {
+          "label": "18.2% christianity"
+        },
+        {
+          "label": "7.2% other"
+        }
+      ]
+    },
+    {
+      "label": "demonym",
+      "children": [
+        {
+          "label": "kuwaiti"
+        }
+      ]
+    },
+    {
+      "label": "government",
+      "children": [
+        {
+          "label": "unitary semi-constitutional monarchy"
+        }
+      ]
+    },
+    {
+      "label": "emir",
+      "children": [
+        {
+          "label": "mishal al-ahmad al-jaber al-sabah"
+        }
+      ]
+    },
+    {
+      "label": "crown_prince",
+      "children": [
+        {
+          "label": "sabah al-khalid al-sabah"
+        }
+      ]
+    },
+    {
+      "label": "prime_minister",
+      "children": [
+        {
+          "label": "ahmad al-abdullah al-sabah"
+        }
+      ]
+    },
+    {
+      "label": "legislature",
+      "children": [
+        {
+          "label": "the national assembly"
+        }
+      ]
+    },
+    {
+      "label": "establishment",
+      "children": [
+        {
+          "label": "independence_from_bani_khalid",
+          "children": [
+            {
+              "label": "1752"
+            }
+          ]
+        },
+        {
+          "label": "anglo_kuwaiti_agreement",
+          "children": [
+            {
+              "label": "23 january 1899"
+            }
+          ]
+        },
+        {
+          "label": "anglo_ottoman_convention",
+          "children": [
+            {
+              "label": "29 july 1913"
+            }
+          ]
+        },
+        {
+          "label": "end_of_british_protectorate",
+          "children": [
+            {
+              "label": "19 june 1961"
+            }
+          ]
+        },
+        {
+          "label": "current_constitution",
+          "children": [
+            {
+              "label": "11 november 1962"
+            }
+          ]
+        },
+        {
+          "label": "iraqi_invasion_of_kuwait",
+          "children": [
+            {
+              "label": "28 august 1990"
+            }
+          ]
+        },
+        {
+          "label": "liberation_of_kuwait",
+          "children": [
+            {
+              "label": "28 february 1991"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "area",
+      "children": [
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "17,818 km"
+            }
+          ]
+        },
+        {
+          "label": "water",
+          "children": [
+            {
+              "label": "negligible"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "population",
+      "children": [
+        {
+          "label": "2025_estimate",
+          "children": [
+            {
+              "label": "4,985,716"
+            }
+          ]
+        },
+        {
+          "label": "density",
+          "children": [
+            {
+              "label": "200.2/km"
+            }
+          ]
+        },
+        {
+          "label": "gdp_ppp",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$260.500 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$50,960"
+            }
+          ]
+        },
+        {
+          "label": "gdp_nominal",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$153.100 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$29,950"
+            }
+          ]
+        },
+        {
+          "label": "hdi_2023",
+          "children": [
+            {
+              "label": "0.852 very high"
+            }
+          ]
+        },
+        {
+          "label": "currency",
+          "children": [
+            {
+              "label": "kuwaiti dinar"
+            }
+          ]
+        },
+        {
+          "label": "time_zone",
+          "children": [
+            {
+              "label": "utc +3"
+            }
+          ]
+        },
+        {
+          "label": "calling_code",
+          "children": [
+            {
+              "label": "+965"
+            }
+          ]
+        },
+        {
+          "label": "iso_3166_code",
+          "children": [
+            {
+              "label": "kw"
+            }
+          ]
+        },
+        {
+          "label": "internet_tld",
+          "children": [
+            {
+              "label": ".kw"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

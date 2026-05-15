@@ -1,0 +1,418 @@
+{
+  "country": "Ireland",
+  "infobox_title": "Ireland Éire ( Irish )",
+  "data": [
+    {
+      "label": "Capital and largest city",
+      "value": "Dublin 53°20.65′N 6°16.05′W ﻿ / ﻿ 53.34417°N 6.26750°W",
+      "links": [
+        {
+          "text": "Dublin",
+          "href": "https://en.wikipedia.org/wiki/Dublin"
+        },
+        {
+          "text": "53°20.65′N6°16.05′W﻿ / ﻿53.34417°N 6.26750°W",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Republic_of_Ireland&params=53_20.65_N_6_16.05_W_type:city"
+        }
+      ]
+    },
+    {
+      "label": "Official languages",
+      "value": "Irish English",
+      "links": [
+        {
+          "text": "Irish",
+          "href": "https://en.wikipedia.org/wiki/Irish_language"
+        }
+      ],
+      "sub_items": [
+        "Irish",
+        "English"
+      ]
+    },
+    {
+      "label": "Ethnic groups (2022 )",
+      "value": "76.6% White Irish 10.8% other White 3.3% Asian 1.5% Black 1.7% other 6.2% not stated",
+      "links": [
+        {
+          "text": "White Irish",
+          "href": "https://en.wikipedia.org/wiki/Irish_people#Genetics"
+        },
+        {
+          "text": "White",
+          "href": "https://en.wikipedia.org/wiki/White_people"
+        },
+        {
+          "text": "Asian",
+          "href": "https://en.wikipedia.org/wiki/Asian_people"
+        },
+        {
+          "text": "Black",
+          "href": "https://en.wikipedia.org/wiki/Black_people_in_Ireland"
+        },
+        {
+          "text": "other",
+          "href": "https://en.wikipedia.org/wiki/Demographics_of_the_Republic_of_Ireland"
+        }
+      ],
+      "sub_items": [
+        "76.6% White Irish",
+        "10.8% other White",
+        "3.3% Asian",
+        "1.5% Black",
+        "1.7% other",
+        "6.2% not stated"
+      ]
+    },
+    {
+      "label": "Religion (2022 )",
+      "value": "75.7% Christianity 69.1% Catholicism 2.5% Anglicanism 4.1% other Christian 14.5% no religion 3.1% other 6.7% not stated",
+      "links": [
+        {
+          "text": "Christianity",
+          "href": "https://en.wikipedia.org/wiki/Christianity_in_Ireland"
+        },
+        {
+          "text": "Catholicism",
+          "href": "https://en.wikipedia.org/wiki/Catholic_Church_in_Ireland"
+        },
+        {
+          "text": "Anglicanism",
+          "href": "https://en.wikipedia.org/wiki/Church_of_Ireland"
+        },
+        {
+          "text": "Christian",
+          "href": "https://en.wikipedia.org/wiki/List_of_Christian_denominations"
+        },
+        {
+          "text": "no religion",
+          "href": "https://en.wikipedia.org/wiki/Irreligion_in_the_Republic_of_Ireland"
+        },
+        {
+          "text": "other",
+          "href": "https://en.wikipedia.org/wiki/Religion_in_the_Republic_of_Ireland"
+        }
+      ],
+      "sub_items": [
+        "75.7% Christianity 69.1% Catholicism 2.5% Anglicanism 4.1% other Christian",
+        "69.1% Catholicism",
+        "2.5% Anglicanism",
+        "4.1% other Christian",
+        "14.5% no religion",
+        "3.1% other",
+        "6.7% not stated"
+      ]
+    },
+    {
+      "label": "Demonym",
+      "value": "Irish",
+      "links": [
+        {
+          "text": "Irish",
+          "href": "https://en.wikipedia.org/wiki/Irish_people"
+        }
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Unitary parliamentary republic",
+      "links": [
+        {
+          "text": "Unitary parliamentary republic",
+          "href": "https://en.wikipedia.org/wiki/Unitary_parliamentary_republic"
+        }
+      ]
+    },
+    {
+      "label": "• President",
+      "value": "Catherine Connolly",
+      "links": [
+        {
+          "text": "Catherine Connolly",
+          "href": "https://en.wikipedia.org/wiki/Catherine_Connolly"
+        }
+      ]
+    },
+    {
+      "label": "• Taoiseach",
+      "value": "Micheál Martin",
+      "links": [
+        {
+          "text": "Micheál Martin",
+          "href": "https://en.wikipedia.org/wiki/Miche%C3%A1l_Martin"
+        }
+      ]
+    },
+    {
+      "label": "• Tánaiste",
+      "value": "Simon Harris",
+      "links": [
+        {
+          "text": "Simon Harris",
+          "href": "https://en.wikipedia.org/wiki/Simon_Harris"
+        }
+      ]
+    },
+    {
+      "label": "• Chief Justice",
+      "value": "Donal O'Donnell",
+      "links": [
+        {
+          "text": "Donal O'Donnell",
+          "href": "https://en.wikipedia.org/wiki/Donal_O%27Donnell"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "Oireachtas",
+      "links": [
+        {
+          "text": "Oireachtas",
+          "href": "https://en.wikipedia.org/wiki/Oireachtas"
+        }
+      ]
+    },
+    {
+      "label": "• Upper house",
+      "value": "Seanad",
+      "links": [
+        {
+          "text": "Seanad",
+          "href": "https://en.wikipedia.org/wiki/Seanad_%C3%89ireann"
+        }
+      ]
+    },
+    {
+      "label": "• Lower house",
+      "value": "Dáil",
+      "links": [
+        {
+          "text": "Dáil",
+          "href": "https://en.wikipedia.org/wiki/D%C3%A1il_%C3%89ireann"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Independence from the United Kingdom",
+      "rows": [
+        {
+          "label": "• Proclamation",
+          "value": "24 April 1916"
+        },
+        {
+          "label": "• Declaration",
+          "value": "21 January 1919"
+        },
+        {
+          "label": "• Anglo-Irish Treaty",
+          "value": "6 December 1921"
+        },
+        {
+          "label": "• 1922 constitution",
+          "value": "6 December 1922"
+        },
+        {
+          "label": "• 1937 constitution",
+          "value": "29 December 1937"
+        },
+        {
+          "label": "• Republic Act",
+          "value": "18 April 1949"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "70,273 km (27,133 sq mi) ( 118th )",
+          "links": [
+            {
+              "text": "118th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "2.0%"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• April 2025 estimate",
+          "value": "5,458,600 ( 119th )",
+          "links": [
+            {
+              "text": "119th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• 2022 census",
+          "value": "5,149,139"
+        },
+        {
+          "label": "• Density",
+          "value": "76.6/km (198.4/sq mi) ( 113th )",
+          "links": [
+            {
+              "text": "113th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$736.73 billion ( 42nd )",
+          "links": [
+            {
+              "text": "42nd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$134,000 ( 3rd )",
+          "links": [
+            {
+              "text": "3rd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$598.84 billion ( 25th )",
+          "links": [
+            {
+              "text": "25th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$108,920 ( 2nd )",
+          "links": [
+            {
+              "text": "2nd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "Gini (2022)",
+          "value": "27.9 low inequality"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.949 very high ( 11th )",
+          "links": [
+            {
+              "text": "11th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "Euro ( € ) ( EUR )",
+          "links": [
+            {
+              "text": "Euro",
+              "href": "https://en.wikipedia.org/wiki/Euro"
+            },
+            {
+              "text": "€",
+              "href": "https://en.wikipedia.org/wiki/Euro_sign"
+            },
+            {
+              "text": "EUR",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC ( GMT )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "GMT",
+              "href": "https://en.wikipedia.org/wiki/Greenwich_Mean_Time"
+            }
+          ]
+        },
+        {
+          "label": "• Summer ( DST )",
+          "value": "UTC +1 ( IST )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "IST",
+              "href": "https://en.wikipedia.org/wiki/Time_in_the_Republic_of_Ireland"
+            }
+          ]
+        },
+        {
+          "label": "Date format",
+          "value": "dd/mm/yyyy"
+        },
+        {
+          "label": "Calling code",
+          "value": "+353",
+          "links": [
+            {
+              "text": "+353",
+              "href": "https://en.wikipedia.org/wiki/Telephone_numbers_in_the_Republic_of_Ireland"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "IE",
+          "links": [
+            {
+              "text": "IE",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:IE"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".ie",
+          "links": [
+            {
+              "text": ".ie",
+              "href": "https://en.wikipedia.org/wiki/.ie"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

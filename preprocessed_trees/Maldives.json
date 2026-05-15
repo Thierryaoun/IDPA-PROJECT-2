@@ -1,0 +1,292 @@
+{
+  "label": "country",
+  "children": [
+    {
+      "label": "name",
+      "children": [
+        {
+          "label": "maldives"
+        }
+      ]
+    },
+    {
+      "label": "infobox_title",
+      "children": [
+        {
+          "label": "republic of maldives ދިވެހިރާއްޖޭގެ ޖުމްހޫރިއްޔާ dhivehi raajjeyge jumhooriyyaa"
+        }
+      ]
+    },
+    {
+      "label": "capital_and_largest_city",
+      "children": [
+        {
+          "label": "malé / 4."
+        }
+      ]
+    },
+    {
+      "label": "official_language_and_national_language",
+      "children": [
+        {
+          "label": "dhivehi"
+        }
+      ]
+    },
+    {
+      "label": "common_language",
+      "children": [
+        {
+          "label": "english"
+        }
+      ]
+    },
+    {
+      "label": "religion",
+      "children": [
+        {
+          "label": "sunni islam"
+        }
+      ]
+    },
+    {
+      "label": "demonym",
+      "children": [
+        {
+          "label": "maldivian"
+        }
+      ]
+    },
+    {
+      "label": "government",
+      "children": [
+        {
+          "label": "unitary presidential republic"
+        }
+      ]
+    },
+    {
+      "label": "president",
+      "children": [
+        {
+          "label": "mohamed muizzu"
+        }
+      ]
+    },
+    {
+      "label": "vice_president",
+      "children": [
+        {
+          "label": "hussain mohamed latheef"
+        }
+      ]
+    },
+    {
+      "label": "speaker",
+      "children": [
+        {
+          "label": "abdul raheem abdulla"
+        }
+      ]
+    },
+    {
+      "label": "chief_justice",
+      "children": [
+        {
+          "label": "abdul ghanee mohamed"
+        }
+      ]
+    },
+    {
+      "label": "legislature",
+      "children": [
+        {
+          "label": "people's majlis"
+        }
+      ]
+    },
+    {
+      "label": "independence_from_the_united_kingdom",
+      "children": [
+        {
+          "label": "independence_declared",
+          "children": [
+            {
+              "label": "26 july 1965"
+            }
+          ]
+        },
+        {
+          "label": "second_republic",
+          "children": [
+            {
+              "label": "11 november 1968"
+            }
+          ]
+        },
+        {
+          "label": "current_constitution",
+          "children": [
+            {
+              "label": "7 august 2008"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "area",
+      "children": [
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "298 km"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "population",
+      "children": [
+        {
+          "label": "2024_estimate",
+          "children": [
+            {
+              "label": "601,269"
+            }
+          ]
+        },
+        {
+          "label": "2022_census",
+          "children": [
+            {
+              "label": "515,132"
+            }
+          ]
+        },
+        {
+          "label": "density",
+          "children": [
+            {
+              "label": "1,728.63/km"
+            }
+          ]
+        },
+        {
+          "label": "gdp_ppp",
+          "children": [
+            {
+              "label": "2024 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$13.867 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$34,322"
+            }
+          ]
+        },
+        {
+          "label": "gdp_nominal",
+          "children": [
+            {
+              "label": "2024 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$6.984 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$17,287"
+            }
+          ]
+        },
+        {
+          "label": "gini_2024",
+          "children": [
+            {
+              "label": "31.3 medium inequality"
+            }
+          ]
+        },
+        {
+          "label": "hdi_2023",
+          "children": [
+            {
+              "label": "0.766 high"
+            }
+          ]
+        },
+        {
+          "label": "currency",
+          "children": [
+            {
+              "label": "maldivian rufiyaa"
+            }
+          ]
+        },
+        {
+          "label": "time_zone",
+          "children": [
+            {
+              "label": "utc +5"
+            }
+          ]
+        },
+        {
+          "label": "date_format",
+          "children": [
+            {
+              "label": "dd / mm / yyyy"
+            }
+          ]
+        },
+        {
+          "label": "calling_code",
+          "children": [
+            {
+              "label": "+960"
+            }
+          ]
+        },
+        {
+          "label": "iso_3166_code",
+          "children": [
+            {
+              "label": "mv"
+            }
+          ]
+        },
+        {
+          "label": "internet_tld",
+          "children": [
+            {
+              "label": ".mv"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

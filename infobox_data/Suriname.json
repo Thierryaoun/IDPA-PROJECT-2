@@ -1,0 +1,562 @@
+{
+  "country": "Suriname",
+  "infobox_title": "Republic of Suriname Republiek Suriname ( Dutch )",
+  "data": [
+    {
+      "label": "Capital and largest city",
+      "value": "Paramaribo 5°50′N 55°10′W ﻿ / ﻿ 5.833°N 55.167°W",
+      "links": [
+        {
+          "text": "Paramaribo",
+          "href": "https://en.wikipedia.org/wiki/Paramaribo"
+        },
+        {
+          "text": "5°50′N55°10′W﻿ / ﻿5.833°N 55.167°W",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Suriname&params=5_50_N_55_10_W_type:city"
+        }
+      ]
+    },
+    {
+      "label": "Official languages",
+      "value": "Dutch",
+      "links": [
+        {
+          "text": "Dutch",
+          "href": "https://en.wikipedia.org/wiki/Surinamese_Dutch"
+        }
+      ]
+    },
+    {
+      "label": "Recognised regional languages",
+      "value": "8 indigenous languages Akurio Arawak-Lokono Carib-Kari'nja Sikiana-Kashuyana Tiro-Tiriyó Waiwai Warao Wayana",
+      "links": [
+        {
+          "text": "indigenous languages",
+          "href": "https://en.wikipedia.org/wiki/Indigenous_languages_of_South_America"
+        },
+        {
+          "text": "Akurio",
+          "href": "https://en.wikipedia.org/wiki/Akurio_language"
+        },
+        {
+          "text": "Arawak-Lokono",
+          "href": "https://en.wikipedia.org/wiki/Arawak_language"
+        },
+        {
+          "text": "Carib-Kari'nja",
+          "href": "https://en.wikipedia.org/wiki/Carib_language"
+        },
+        {
+          "text": "Sikiana-Kashuyana",
+          "href": "https://en.wikipedia.org/wiki/Sikiana_language"
+        },
+        {
+          "text": "Tiro-Tiriyó",
+          "href": "https://en.wikipedia.org/wiki/Tiriy%C3%B3_language"
+        },
+        {
+          "text": "Waiwai",
+          "href": "https://en.wikipedia.org/wiki/Waiwai_language"
+        },
+        {
+          "text": "Warao",
+          "href": "https://en.wikipedia.org/wiki/Warao_language"
+        },
+        {
+          "text": "Wayana",
+          "href": "https://en.wikipedia.org/wiki/Wayana_language"
+        }
+      ],
+      "sub_items": [
+        "Akurio Arawak-Lokono Carib-Kari'nja Sikiana-Kashuyana Tiro-Tiriyó Waiwai Warao Wayana",
+        "Akurio",
+        "Arawak-Lokono",
+        "Carib-Kari'nja",
+        "Sikiana-Kashuyana",
+        "Tiro-Tiriyó",
+        "Waiwai",
+        "Warao",
+        "Wayana"
+      ]
+    },
+    {
+      "label": "Lingua franca",
+      "value": "Sranan Tongo",
+      "links": [
+        {
+          "text": "Sranan Tongo",
+          "href": "https://en.wikipedia.org/wiki/Sranan_Tongo"
+        }
+      ]
+    },
+    {
+      "label": "Other languages",
+      "value": "English and 13 other languages Sarnámi Hindustáni Surinamese-Javanese Ndyuka Saramaccan Matawai Aluku Paramaccan Kwinti Chinese Lebanese Arabic French Brazilian Portuguese Spanish",
+      "links": [
+        {
+          "text": "English",
+          "href": "https://en.wikipedia.org/wiki/English_language"
+        },
+        {
+          "text": "Sarnámi Hindustáni",
+          "href": "https://en.wikipedia.org/wiki/Sarn%C3%A1mi_Hindust%C3%A1ni"
+        },
+        {
+          "text": "Surinamese-Javanese",
+          "href": "https://en.wikipedia.org/wiki/Javanese_language#Surinamese-Javanese"
+        },
+        {
+          "text": "Ndyuka",
+          "href": "https://en.wikipedia.org/wiki/Ndyuka_language"
+        },
+        {
+          "text": "Saramaccan",
+          "href": "https://en.wikipedia.org/wiki/Saramaccan_language"
+        },
+        {
+          "text": "Matawai",
+          "href": "https://en.wikipedia.org/wiki/Matawai_language"
+        },
+        {
+          "text": "Aluku",
+          "href": "https://en.wikipedia.org/wiki/Aluku_language"
+        },
+        {
+          "text": "Paramaccan",
+          "href": "https://en.wikipedia.org/wiki/Paramaccan_people#Language"
+        },
+        {
+          "text": "Kwinti",
+          "href": "https://en.wikipedia.org/wiki/Kwinti_language"
+        },
+        {
+          "text": "Chinese",
+          "href": "https://en.wikipedia.org/wiki/Chinese_language"
+        },
+        {
+          "text": "Lebanese Arabic",
+          "href": "https://en.wikipedia.org/wiki/Lebanese_Arabic"
+        },
+        {
+          "text": "French",
+          "href": "https://en.wikipedia.org/wiki/French_language"
+        },
+        {
+          "text": "Brazilian Portuguese",
+          "href": "https://en.wikipedia.org/wiki/Brazilian_Portuguese"
+        },
+        {
+          "text": "Spanish",
+          "href": "https://en.wikipedia.org/wiki/Spanish_language"
+        }
+      ],
+      "sub_items": [
+        "Sarnámi Hindustáni Surinamese-Javanese Ndyuka Saramaccan Matawai Aluku Paramaccan Kwinti Chinese Lebanese Arabic French Brazilian Portuguese Spanish",
+        "Sarnámi Hindustáni",
+        "Surinamese-Javanese",
+        "Ndyuka",
+        "Saramaccan",
+        "Matawai",
+        "Aluku",
+        "Paramaccan",
+        "Kwinti",
+        "Chinese",
+        "Lebanese Arabic",
+        "French",
+        "Brazilian Portuguese",
+        "Spanish"
+      ]
+    },
+    {
+      "label": "Ethnic groups (2012)",
+      "value": "42.6% Asian Surinamese 27.4% Hindustani 13.7% Javanese 1.5% Chinese 37.4% Afro-Surinamese 21.7% Maroon 15.7% Creole 13.4% Multiracial 3.8% Indigenous 0.3% European",
+      "links": [
+        {
+          "text": "Asian Surinamese",
+          "href": "https://en.wikipedia.org/wiki/Asian_Surinamese"
+        },
+        {
+          "text": "Hindustani",
+          "href": "https://en.wikipedia.org/wiki/Indo-Surinamese"
+        },
+        {
+          "text": "Javanese",
+          "href": "https://en.wikipedia.org/wiki/Javanese_Surinamese"
+        },
+        {
+          "text": "Chinese",
+          "href": "https://en.wikipedia.org/wiki/Chinese_Surinamese"
+        },
+        {
+          "text": "Afro-Surinamese",
+          "href": "https://en.wikipedia.org/wiki/Afro-Surinamese"
+        },
+        {
+          "text": "Maroon",
+          "href": "https://en.wikipedia.org/wiki/Surinamese_Maroons"
+        },
+        {
+          "text": "Creole",
+          "href": "https://en.wikipedia.org/wiki/Afro-Surinamese#Creoles"
+        },
+        {
+          "text": "Multiracial",
+          "href": "https://en.wikipedia.org/wiki/Multiracial_people#Trinidad,_Guyana,_and_Suriname"
+        },
+        {
+          "text": "Indigenous",
+          "href": "https://en.wikipedia.org/wiki/Indigenous_peoples_in_Suriname"
+        },
+        {
+          "text": "European",
+          "href": "https://en.wikipedia.org/wiki/White_Surinamese"
+        }
+      ],
+      "sub_items": [
+        "42.6% Asian Surinamese 27.4% Hindustani 13.7% Javanese 1.5% Chinese",
+        "27.4% Hindustani",
+        "13.7% Javanese",
+        "1.5% Chinese",
+        "37.4% Afro-Surinamese 21.7% Maroon 15.7% Creole",
+        "21.7% Maroon",
+        "15.7% Creole",
+        "13.4% Multiracial",
+        "3.8% Indigenous",
+        "0.3% European"
+      ]
+    },
+    {
+      "label": "Religion (2012)",
+      "value": "48.4% Christianity 26.75 Protestantism 21.65% Roman Catholicism 22.3% Hinduism 17.97% Sanātanī 3.08% Arya Samaj 1.23% Other Hindu 13.9% Islam 3.91% Sunni 2.61% Ahmadiyya 7.34% Other Muslim 1.8% Winti 0.8% Kejawèn 0.03% Judaism 7.52% no religion 2.04% Not stated 1.11% Don't know 0.85% Others",
+      "links": [
+        {
+          "text": "Christianity",
+          "href": "https://en.wikipedia.org/wiki/Christianity"
+        },
+        {
+          "text": "Protestantism",
+          "href": "https://en.wikipedia.org/wiki/Protestantism"
+        },
+        {
+          "text": "Roman Catholicism",
+          "href": "https://en.wikipedia.org/wiki/Catholic_Church_in_Suriname"
+        },
+        {
+          "text": "Hinduism",
+          "href": "https://en.wikipedia.org/wiki/Hinduism_in_Suriname"
+        },
+        {
+          "text": "Sanātanī",
+          "href": "https://en.wikipedia.org/wiki/San%C4%81tan%C4%AB#Sanātanī_as_a_denomination"
+        },
+        {
+          "text": "Arya Samaj",
+          "href": "https://en.wikipedia.org/wiki/Arya_Samaj_in_Suriname"
+        },
+        {
+          "text": "Other Hindu",
+          "href": "https://en.wikipedia.org/wiki/Hindu_denominations"
+        },
+        {
+          "text": "Islam",
+          "href": "https://en.wikipedia.org/wiki/Islam_in_Suriname"
+        },
+        {
+          "text": "Sunni",
+          "href": "https://en.wikipedia.org/wiki/Sunni_Islam"
+        },
+        {
+          "text": "Ahmadiyya",
+          "href": "https://en.wikipedia.org/wiki/Ahmadiyya"
+        },
+        {
+          "text": "Other Muslim",
+          "href": "https://en.wikipedia.org/wiki/Islamic_schools_and_branches"
+        },
+        {
+          "text": "Winti",
+          "href": "https://en.wikipedia.org/wiki/Winti"
+        },
+        {
+          "text": "Kejawèn",
+          "href": "https://en.wikipedia.org/wiki/Kejaw%C3%A8n"
+        },
+        {
+          "text": "Judaism",
+          "href": "https://en.wikipedia.org/wiki/History_of_the_Jews_in_Suriname"
+        },
+        {
+          "text": "no religion",
+          "href": "https://en.wikipedia.org/wiki/Irreligion"
+        },
+        {
+          "text": "Others",
+          "href": "https://en.wikipedia.org/wiki/Religion_in_Suriname"
+        }
+      ],
+      "sub_items": [
+        "48.4% Christianity 26.75 Protestantism 21.65% Roman Catholicism",
+        "26.75 Protestantism",
+        "21.65% Roman Catholicism",
+        "22.3% Hinduism 17.97% Sanātanī 3.08% Arya Samaj 1.23% Other Hindu",
+        "17.97% Sanātanī",
+        "3.08% Arya Samaj",
+        "1.23% Other Hindu",
+        "13.9% Islam 3.91% Sunni 2.61% Ahmadiyya 7.34% Other Muslim",
+        "3.91% Sunni",
+        "2.61% Ahmadiyya",
+        "7.34% Other Muslim",
+        "1.8% Winti",
+        "0.8% Kejawèn",
+        "0.03% Judaism",
+        "7.52% no religion",
+        "2.04% Not stated",
+        "1.11% Don't know",
+        "0.85% Others"
+      ]
+    },
+    {
+      "label": "Demonym",
+      "value": "Surinamese",
+      "links": [
+        {
+          "text": "Surinamese",
+          "href": "https://en.wikipedia.org/wiki/Surinamese_people"
+        }
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Unitary assembly-independent presidential republic",
+      "links": [
+        {
+          "text": "assembly-independent",
+          "href": "https://en.wikipedia.org/wiki/Assembly-independent_republic"
+        }
+      ]
+    },
+    {
+      "label": "• President",
+      "value": "Jennifer Geerlings-Simons",
+      "links": [
+        {
+          "text": "Jennifer Geerlings-Simons",
+          "href": "https://en.wikipedia.org/wiki/Jennifer_Geerlings-Simons"
+        }
+      ]
+    },
+    {
+      "label": "• Vice President",
+      "value": "Gregory Rusland",
+      "links": [
+        {
+          "text": "Gregory Rusland",
+          "href": "https://en.wikipedia.org/wiki/Gregory_Rusland"
+        }
+      ]
+    },
+    {
+      "label": "• National Assembly Chairman",
+      "value": "Ashwin Adhin",
+      "links": [
+        {
+          "text": "Ashwin Adhin",
+          "href": "https://en.wikipedia.org/wiki/Ashwin_Adhin"
+        }
+      ]
+    },
+    {
+      "label": "• High Court of Justice President",
+      "value": "Iwan Rasoelbaks (acting)"
+    },
+    {
+      "label": "Legislature",
+      "value": "National Assembly",
+      "links": [
+        {
+          "text": "National Assembly",
+          "href": "https://en.wikipedia.org/wiki/National_Assembly_(Suriname)"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Independence from the Netherlands",
+      "rows": [
+        {
+          "label": "• Constituent country within the Kingdom of the Netherlands",
+          "value": "15 December 1954"
+        },
+        {
+          "label": "• Independence from the Kingdom of the Netherlands",
+          "value": "25 November 1975"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "165,940 km (64,070 sq mi) ( 90th )",
+          "links": [
+            {
+              "text": "90th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "1.1"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2022 estimate",
+          "value": "632,638 ( 170th )",
+          "links": [
+            {
+              "text": "170th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• Density",
+          "value": "3.9/km (10.1/sq mi) ( 231st )",
+          "links": [
+            {
+              "text": "231st",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$14.743 billion ( 160th )",
+          "links": [
+            {
+              "text": "160th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$22,439 ( 91st )",
+          "links": [
+            {
+              "text": "91st",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$4.506 billion ( 173rd )",
+          "links": [
+            {
+              "text": "173rd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$6,858 ( 106th )",
+          "links": [
+            {
+              "text": "106th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.722 high ( 114th )",
+          "links": [
+            {
+              "text": "114th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "Surinamese dollar ( SRD )",
+          "links": [
+            {
+              "text": "Surinamese dollar",
+              "href": "https://en.wikipedia.org/wiki/Surinamese_dollar"
+            },
+            {
+              "text": "SRD",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC -03:00 ( SRT )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "SRT",
+              "href": "https://en.wikipedia.org/wiki/Suriname_Time"
+            }
+          ]
+        },
+        {
+          "label": "Date format",
+          "value": "dd/mm/yyyy"
+        },
+        {
+          "label": "Calling code",
+          "value": "+597",
+          "links": [
+            {
+              "text": "+597",
+              "href": "https://en.wikipedia.org/wiki/%2B597"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "SR",
+          "links": [
+            {
+              "text": "SR",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:SR"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".sr",
+          "links": [
+            {
+              "text": ".sr",
+              "href": "https://en.wikipedia.org/wiki/.sr"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

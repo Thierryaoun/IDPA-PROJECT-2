@@ -1,0 +1,295 @@
+{
+  "label": "country",
+  "children": [
+    {
+      "label": "name",
+      "children": [
+        {
+          "label": "seychelles"
+        }
+      ]
+    },
+    {
+      "label": "infobox_title",
+      "children": [
+        {
+          "label": "republic of seychelles république des seychelles repiblik sesel"
+        }
+      ]
+    },
+    {
+      "label": "capital_and_largest_city",
+      "children": [
+        {
+          "label": "victoria / 4."
+        }
+      ]
+    },
+    {
+      "label": "official_languages",
+      "children": [
+        {
+          "label": "seychellois creole"
+        },
+        {
+          "label": "english"
+        },
+        {
+          "label": "french"
+        }
+      ]
+    },
+    {
+      "label": "minority_language",
+      "children": [
+        {
+          "label": "tamil"
+        }
+      ]
+    },
+    {
+      "label": "ethnic_groups",
+      "children": [
+        {
+          "label": "97% seychellois creoles"
+        },
+        {
+          "label": "3% others"
+        }
+      ]
+    },
+    {
+      "label": "religion_2022",
+      "children": [
+        {
+          "label": "74.9% christianity"
+        },
+        {
+          "label": "5.4% hinduism"
+        },
+        {
+          "label": "2.4% islam"
+        },
+        {
+          "label": "5.1% others"
+        },
+        {
+          "label": "12.2% unanswered"
+        }
+      ]
+    },
+    {
+      "label": "demonyms",
+      "children": [
+        {
+          "label": "seychellois"
+        },
+        {
+          "label": "seychelloise"
+        },
+        {
+          "label": "seselwa"
+        }
+      ]
+    },
+    {
+      "label": "government",
+      "children": [
+        {
+          "label": "unitary presidential republic"
+        }
+      ]
+    },
+    {
+      "label": "president",
+      "children": [
+        {
+          "label": "patrick herminie"
+        }
+      ]
+    },
+    {
+      "label": "vice_president",
+      "children": [
+        {
+          "label": "sebastien pillay"
+        }
+      ]
+    },
+    {
+      "label": "speaker_of_the_national_assembly",
+      "children": [
+        {
+          "label": "azarel ernesta"
+        }
+      ]
+    },
+    {
+      "label": "legislature",
+      "children": [
+        {
+          "label": "national assembly"
+        }
+      ]
+    },
+    {
+      "label": "independence_from_the_united_kingdom",
+      "children": [
+        {
+          "label": "independence_declared",
+          "children": [
+            {
+              "label": "29 june 1976"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "area",
+      "children": [
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "457 km"
+            }
+          ]
+        },
+        {
+          "label": "water",
+          "children": [
+            {
+              "label": "negligible"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "population",
+      "children": [
+        {
+          "label": "2024_estimate",
+          "children": [
+            {
+              "label": "121,355"
+            }
+          ]
+        },
+        {
+          "label": "density",
+          "children": [
+            {
+              "label": "262.3/km"
+            }
+          ]
+        },
+        {
+          "label": "gdp_ppp",
+          "children": [
+            {
+              "label": "2026 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$4.490 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$43,850"
+            }
+          ]
+        },
+        {
+          "label": "gdp_nominal",
+          "children": [
+            {
+              "label": "2026 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$2.250 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$21,940"
+            }
+          ]
+        },
+        {
+          "label": "gini_2019",
+          "children": [
+            {
+              "label": "32.1 medium inequality"
+            }
+          ]
+        },
+        {
+          "label": "hdi_2023",
+          "children": [
+            {
+              "label": "0.848 very high"
+            }
+          ]
+        },
+        {
+          "label": "currency",
+          "children": [
+            {
+              "label": "seychellois rupee"
+            }
+          ]
+        },
+        {
+          "label": "time_zone",
+          "children": [
+            {
+              "label": "utc +04:00"
+            }
+          ]
+        },
+        {
+          "label": "calling_code",
+          "children": [
+            {
+              "label": "+248"
+            }
+          ]
+        },
+        {
+          "label": "iso_3166_code",
+          "children": [
+            {
+              "label": "sc"
+            }
+          ]
+        },
+        {
+          "label": "internet_tld",
+          "children": [
+            {
+              "label": ".sc"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

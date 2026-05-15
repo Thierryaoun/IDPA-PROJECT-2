@@ -1,0 +1,521 @@
+{
+  "country": "Netherlands (Kingdom of the)",
+  "infobox_title": "Kingdom of the Netherlands Koninkrijk der Nederlanden ( Dutch ) Keninkryk fan de Nederlannen ( West Frisian ) Reino Hulandes ( Papiamento )",
+  "data": [
+    {
+      "label": "Capital and largest city",
+      "value": "Amsterdam 52°22′N 4°53′E ﻿ / ﻿ 52.367°N 4.883°E",
+      "links": [
+        {
+          "text": "Amsterdam",
+          "href": "https://en.wikipedia.org/wiki/Amsterdam"
+        },
+        {
+          "text": "52°22′N4°53′E﻿ / ﻿52.367°N 4.883°E",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Kingdom_of_the_Netherlands&params=52_22_N_4_53_E_type:city"
+        }
+      ]
+    },
+    {
+      "label": "Government seat",
+      "value": "The Hague",
+      "links": [
+        {
+          "text": "The Hague",
+          "href": "https://en.wikipedia.org/wiki/The_Hague"
+        }
+      ]
+    },
+    {
+      "label": "Official languages",
+      "value": "Dutch",
+      "links": [
+        {
+          "text": "Dutch",
+          "href": "https://en.wikipedia.org/wiki/Dutch_language"
+        }
+      ]
+    },
+    {
+      "label": "Official regional languages",
+      "value": "English Papiamento West Frisian",
+      "links": [
+        {
+          "text": "English",
+          "href": "https://en.wikipedia.org/wiki/English_language"
+        },
+        {
+          "text": "Papiamento",
+          "href": "https://en.wikipedia.org/wiki/Papiamento"
+        },
+        {
+          "text": "West Frisian",
+          "href": "https://en.wikipedia.org/wiki/West_Frisian_language"
+        }
+      ],
+      "sub_items": [
+        "English",
+        "Papiamento",
+        "West Frisian"
+      ]
+    },
+    {
+      "label": "Recognised languages",
+      "value": "Dutch Low Saxon Dutch Sign Language Limburgish Sinte Romani Yiddish",
+      "links": [
+        {
+          "text": "Dutch Low Saxon",
+          "href": "https://en.wikipedia.org/wiki/Dutch_Low_Saxon"
+        },
+        {
+          "text": "Dutch Sign Language",
+          "href": "https://en.wikipedia.org/wiki/Dutch_Sign_Language"
+        },
+        {
+          "text": "Limburgish",
+          "href": "https://en.wikipedia.org/wiki/Limburgish_language"
+        },
+        {
+          "text": "Sinte Romani",
+          "href": "https://en.wikipedia.org/wiki/Sinte_Romani"
+        },
+        {
+          "text": "Yiddish",
+          "href": "https://en.wikipedia.org/wiki/Yiddish"
+        }
+      ],
+      "sub_items": [
+        "Dutch Low Saxon",
+        "Dutch Sign Language",
+        "Limburgish",
+        "Sinte Romani",
+        "Yiddish"
+      ]
+    },
+    {
+      "label": "Demonym",
+      "value": "Dutch",
+      "links": [
+        {
+          "text": "Dutch",
+          "href": "https://en.wikipedia.org/wiki/Dutch_people"
+        }
+      ]
+    },
+    {
+      "label": "Countries (non‑sovereign parts)",
+      "value": "Netherlands Aruba Curaçao Sint Maarten",
+      "links": [
+        {
+          "text": "Netherlands",
+          "href": "https://en.wikipedia.org/wiki/Netherlands"
+        },
+        {
+          "text": "Aruba",
+          "href": "https://en.wikipedia.org/wiki/Aruba"
+        },
+        {
+          "text": "Curaçao",
+          "href": "https://en.wikipedia.org/wiki/Cura%C3%A7ao"
+        },
+        {
+          "text": "Sint Maarten",
+          "href": "https://en.wikipedia.org/wiki/Sint_Maarten"
+        }
+      ],
+      "sub_items": [
+        "Netherlands",
+        "Aruba",
+        "Curaçao",
+        "Sint Maarten"
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Devolved unitary parliamentary constitutional monarchy",
+      "links": [
+        {
+          "text": "Devolved",
+          "href": "https://en.wikipedia.org/wiki/Devolution"
+        },
+        {
+          "text": "constitutional monarchy",
+          "href": "https://en.wikipedia.org/wiki/Constitutional_monarchy"
+        }
+      ]
+    },
+    {
+      "label": "• Monarch",
+      "value": "Willem-Alexander",
+      "links": [
+        {
+          "text": "Willem-Alexander",
+          "href": "https://en.wikipedia.org/wiki/Willem-Alexander_of_the_Netherlands"
+        }
+      ]
+    },
+    {
+      "label": "• Prime Minister",
+      "value": "Rob Jetten",
+      "links": [
+        {
+          "text": "Rob Jetten",
+          "href": "https://en.wikipedia.org/wiki/Rob_Jetten"
+        }
+      ]
+    },
+    {
+      "label": "• Minister Plenipotentiary of Aruba",
+      "value": "Ady Thijsen",
+      "links": [
+        {
+          "text": "Ady Thijsen",
+          "href": "https://en.wikipedia.org/wiki/Ady_Thijsen"
+        }
+      ]
+    },
+    {
+      "label": "• Minister Plenipotentiary of Curaçao",
+      "value": "Carlson Manuel",
+      "links": [
+        {
+          "text": "Carlson Manuel",
+          "href": "https://en.wikipedia.org/wiki/Carlson_Manuel"
+        }
+      ]
+    },
+    {
+      "label": "• Minister Plenipotentiary of Sint Maarten",
+      "value": "Rene Violenus",
+      "links": [
+        {
+          "text": "Rene Violenus",
+          "href": "/w/index.php?title=Rene_Violenus&action=edit&redlink=1"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Independence from Spain and France",
+      "rows": [
+        {
+          "label": "• Dutch Republic",
+          "value": "26 July 1581 ( declared ) 30 January 1648 ( recognised )",
+          "links": [
+            {
+              "text": "declared",
+              "href": "https://en.wikipedia.org/wiki/Act_of_Abjuration"
+            },
+            {
+              "text": "recognised",
+              "href": "https://en.wikipedia.org/wiki/Peace_of_M%C3%BCnster"
+            }
+          ]
+        },
+        {
+          "label": "• Batavian Republic",
+          "value": "19 January 1795"
+        },
+        {
+          "label": "• Kingdom of Holland",
+          "value": "5 June 1806"
+        },
+        {
+          "label": "• Annexation by First French Empire",
+          "value": "1 July 1810"
+        },
+        {
+          "label": "• Kingdom of the Netherlands",
+          "value": "16 March 1815"
+        },
+        {
+          "label": "• Secession of Belgium",
+          "value": "4 October 1830 ( declared ) 19 April 1839 ( recognised )",
+          "links": [
+            {
+              "text": "declared",
+              "href": "https://en.wikipedia.org/wiki/Belgian_Revolution"
+            },
+            {
+              "text": "recognised",
+              "href": "https://en.wikipedia.org/wiki/Treaty_of_London_(1839)"
+            }
+          ]
+        },
+        {
+          "label": "• Admitted to the United Nations",
+          "value": "24 October 1945"
+        },
+        {
+          "label": "• Charter for the Kingdom ( colonial inclusion )",
+          "value": "15 December 1954"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "42,531 km (16,421 sq mi) ( 131st )",
+          "links": [
+            {
+              "text": "131st",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "18.96"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2026 estimate",
+          "value": "18,290,379 ( 69th )",
+          "links": [
+            {
+              "text": "69th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• Density",
+          "value": "532/km (1,377.9/sq mi)"
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2026 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$1.581 trillion ( 28th )",
+          "links": [
+            {
+              "text": "28th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$87,173 ( 10th )",
+          "links": [
+            {
+              "text": "10th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2026 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$1.326 trillion ( 18th )",
+          "links": [
+            {
+              "text": "18th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$73,091 ( 10th )",
+          "links": [
+            {
+              "text": "10th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "4 currencies Euro ( EUR ) ( Europe ) United States dollar ( USD ) ( Caribbean Netherlands ) Caribbean guilder ( XCG ) ( Curaçao / Sint Maarten ) Aruban florin ( AWG ) ( Aruba )",
+          "links": [
+            {
+              "text": "Euro",
+              "href": "https://en.wikipedia.org/wiki/Euro"
+            },
+            {
+              "text": "EUR",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            },
+            {
+              "text": "Europe",
+              "href": "https://en.wikipedia.org/wiki/European_Netherlands"
+            },
+            {
+              "text": "United States dollar",
+              "href": "https://en.wikipedia.org/wiki/United_States_dollar"
+            },
+            {
+              "text": "USD",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            },
+            {
+              "text": "Caribbean Netherlands",
+              "href": "https://en.wikipedia.org/wiki/Caribbean_Netherlands"
+            },
+            {
+              "text": "Caribbean guilder",
+              "href": "https://en.wikipedia.org/wiki/Caribbean_guilder"
+            },
+            {
+              "text": "XCG",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            },
+            {
+              "text": "Curaçao",
+              "href": "https://en.wikipedia.org/wiki/Cura%C3%A7ao"
+            },
+            {
+              "text": "Sint Maarten",
+              "href": "https://en.wikipedia.org/wiki/Sint_Maarten"
+            },
+            {
+              "text": "Aruban florin",
+              "href": "https://en.wikipedia.org/wiki/Aruban_florin"
+            },
+            {
+              "text": "AWG",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            },
+            {
+              "text": "Aruba",
+              "href": "https://en.wikipedia.org/wiki/Aruba"
+            }
+          ],
+          "sub_items": [
+            "Euro ( EUR )",
+            "( Europe )",
+            "United States dollar ( USD )",
+            "( Caribbean Netherlands )",
+            "Caribbean guilder ( XCG )",
+            "( Curaçao / Sint Maarten )",
+            "Aruban florin ( AWG )",
+            "( Aruba )"
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "European Netherlands: CET ( UTC +1) CEST ( UTC +2) (DST) Caribbean Netherlands: AST ( UTC -4) DST not observed",
+          "links": [
+            {
+              "text": "CET",
+              "href": "https://en.wikipedia.org/wiki/Central_European_Time"
+            },
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/UTC"
+            },
+            {
+              "text": "CEST",
+              "href": "https://en.wikipedia.org/wiki/Central_European_Summer_Time"
+            },
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/UTC"
+            },
+            {
+              "text": "AST",
+              "href": "https://en.wikipedia.org/wiki/Atlantic_Standard_Time"
+            },
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/UTC"
+            }
+          ]
+        },
+        {
+          "label": "Date format",
+          "value": "dd-mm-yyyy"
+        },
+        {
+          "label": "Calling code",
+          "value": "4 codes +31 (Netherlands) +297 (Aruba) +599 (Curaçao / Caribbean) +1 721 (Sint Maarten)",
+          "links": [
+            {
+              "text": "+31",
+              "href": "https://en.wikipedia.org/wiki/%2B31"
+            },
+            {
+              "text": "+297",
+              "href": "https://en.wikipedia.org/wiki/%2B297"
+            },
+            {
+              "text": "+599",
+              "href": "https://en.wikipedia.org/wiki/%2B599"
+            },
+            {
+              "text": "+1 721",
+              "href": "https://en.wikipedia.org/wiki/%2B1_721"
+            }
+          ],
+          "sub_items": [
+            "+31 (Netherlands)",
+            "+297 (Aruba)",
+            "+599 (Curaçao / Caribbean)",
+            "+1 721 (Sint Maarten)"
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "NL",
+          "links": [
+            {
+              "text": "NL",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:NL"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": "6 TLDs .nl (Netherlands) .frl (Fryslân) .aw (Aruba) .cw (Curaçao) .sx (Sint Maarten) .bq (Caribbean Netherlands)",
+          "links": [
+            {
+              "text": ".nl",
+              "href": "https://en.wikipedia.org/wiki/.nl"
+            },
+            {
+              "text": ".frl",
+              "href": "https://en.wikipedia.org/wiki/.frl"
+            },
+            {
+              "text": ".aw",
+              "href": "https://en.wikipedia.org/wiki/.aw"
+            },
+            {
+              "text": ".cw",
+              "href": "https://en.wikipedia.org/wiki/.cw"
+            },
+            {
+              "text": ".sx",
+              "href": "https://en.wikipedia.org/wiki/.sx"
+            },
+            {
+              "text": ".bq",
+              "href": "https://en.wikipedia.org/wiki/.bq"
+            }
+          ],
+          "sub_items": [
+            ".nl (Netherlands)",
+            ".frl (Fryslân)",
+            ".aw (Aruba)",
+            ".cw (Curaçao)",
+            ".sx (Sint Maarten)",
+            ".bq (Caribbean Netherlands)"
+          ]
+        }
+      ]
+    }
+  ]
+}

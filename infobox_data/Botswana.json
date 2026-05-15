@@ -1,0 +1,341 @@
+{
+  "country": "Botswana",
+  "infobox_title": "Republic of Botswana Lefatshe la Botswana ( Tswana )",
+  "data": [
+    {
+      "label": "Capital and largest city",
+      "value": "Gaborone 24°39.5′S 25°54.5′E ﻿ / ﻿ 24.6583°S 25.9083°E",
+      "links": [
+        {
+          "text": "Gaborone",
+          "href": "https://en.wikipedia.org/wiki/Gaborone"
+        },
+        {
+          "text": "24°39.5′S25°54.5′E﻿ / ﻿24.6583°S 25.9083°E",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Botswana&params=24_39.5_S_25_54.5_E_type:city"
+        }
+      ]
+    },
+    {
+      "label": "Official languages",
+      "value": "English",
+      "links": [
+        {
+          "text": "English",
+          "href": "https://en.wikipedia.org/wiki/English_language"
+        }
+      ]
+    },
+    {
+      "label": "National language",
+      "value": "Tswana",
+      "links": [
+        {
+          "text": "Tswana",
+          "href": "https://en.wikipedia.org/wiki/Tswana_language"
+        }
+      ]
+    },
+    {
+      "label": "Ethnic groups (2024)",
+      "value": "79% Tswana 11% Kalanga 3% San 7% others",
+      "links": [
+        {
+          "text": "Tswana",
+          "href": "https://en.wikipedia.org/wiki/Tswana_people"
+        },
+        {
+          "text": "Kalanga",
+          "href": "https://en.wikipedia.org/wiki/Kalanga_people"
+        },
+        {
+          "text": "San",
+          "href": "https://en.wikipedia.org/wiki/San_people"
+        }
+      ],
+      "sub_items": [
+        "79% Tswana",
+        "11% Kalanga",
+        "3% San",
+        "7% others"
+      ]
+    },
+    {
+      "label": "Religion (2021)",
+      "value": "79.1% Christianity 70.2% Protestantism 8.9% other Christian 15.2% no religion 4.1% Badimo 1.4% others 0.3% unspecified",
+      "links": [
+        {
+          "text": "Christianity",
+          "href": "https://en.wikipedia.org/wiki/Christianity_in_Botswana"
+        },
+        {
+          "text": "Protestantism",
+          "href": "https://en.wikipedia.org/wiki/Protestantism"
+        },
+        {
+          "text": "Christian",
+          "href": "https://en.wikipedia.org/wiki/Christian"
+        },
+        {
+          "text": "no religion",
+          "href": "https://en.wikipedia.org/wiki/Irreligion_in_Botswana"
+        },
+        {
+          "text": "Badimo",
+          "href": "https://en.wikipedia.org/wiki/Badimo"
+        }
+      ],
+      "sub_items": [
+        "79.1% Christianity 70.2% Protestantism 8.9% other Christian",
+        "79.1% Christianity 70.2% Protestantism 8.9% other Christian",
+        "70.2% Protestantism",
+        "8.9% other Christian",
+        "15.2% no religion",
+        "4.1% Badimo",
+        "1.4% others",
+        "0.3% unspecified"
+      ]
+    },
+    {
+      "label": "Demonyms",
+      "value": "Batswana (plural) Motswana (singular)",
+      "sub_items": [
+        "Batswana (plural)",
+        "Motswana (singular)"
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Unitary parliamentary republic with an executive presidency",
+      "links": [
+        {
+          "text": "parliamentary republic with an executive presidency",
+          "href": "https://en.wikipedia.org/wiki/Parliamentary_republics_with_an_executive_presidency"
+        }
+      ]
+    },
+    {
+      "label": "• President",
+      "value": "Duma Boko",
+      "links": [
+        {
+          "text": "Duma Boko",
+          "href": "https://en.wikipedia.org/wiki/Duma_Boko"
+        }
+      ]
+    },
+    {
+      "label": "• Vice-President",
+      "value": "Ndaba Gaolathe",
+      "links": [
+        {
+          "text": "Ndaba Gaolathe",
+          "href": "https://en.wikipedia.org/wiki/Ndaba_Gaolathe"
+        }
+      ]
+    },
+    {
+      "label": "• National Assembly Speaker",
+      "value": "Dithapelo Keorapetse",
+      "links": [
+        {
+          "text": "Dithapelo Keorapetse",
+          "href": "https://en.wikipedia.org/wiki/Dithapelo_Keorapetse"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "Parliament ( National Assembly )",
+      "links": [
+        {
+          "text": "Parliament",
+          "href": "https://en.wikipedia.org/wiki/Parliament_of_Botswana"
+        },
+        {
+          "text": "National Assembly",
+          "href": "https://en.wikipedia.org/wiki/National_Assembly_of_Botswana"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Independence from the United Kingdom",
+      "rows": [
+        {
+          "label": "• Established ( Constitution )",
+          "value": "30 September 1966"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "581,730 km (224,610 sq mi) ( 47th )",
+          "links": [
+            {
+              "text": "47th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "2.7"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2022 census",
+          "value": "2,359,609 ( 143rd )",
+          "links": [
+            {
+              "text": "143rd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• Density",
+          "value": "4.1/km (10.6/sq mi) ( 231st )",
+          "links": [
+            {
+              "text": "231st",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2026 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$54.820 billion ( 124th )",
+          "links": [
+            {
+              "text": "124th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$19,540 ( 83rd )",
+          "links": [
+            {
+              "text": "83rd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2026 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$20.710 billion ( 122nd )",
+          "links": [
+            {
+              "text": "122nd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$7,380 ( 87th )",
+          "links": [
+            {
+              "text": "87th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "Gini (2016)",
+          "value": "45.5 medium inequality"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.731 high ( 111th )",
+          "links": [
+            {
+              "text": "111th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "Pula ( BWP )",
+          "links": [
+            {
+              "text": "Pula",
+              "href": "https://en.wikipedia.org/wiki/Botswana_pula"
+            },
+            {
+              "text": "BWP",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC +2 ( Central Africa Time )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "Central Africa Time",
+              "href": "https://en.wikipedia.org/wiki/Central_Africa_Time"
+            }
+          ]
+        },
+        {
+          "label": "Date format",
+          "value": "dd/mm/yyyy"
+        },
+        {
+          "label": "Calling code",
+          "value": "+267",
+          "links": [
+            {
+              "text": "+267",
+              "href": "https://en.wikipedia.org/wiki/%2B267"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "BW",
+          "links": [
+            {
+              "text": "BW",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:BW"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".bw",
+          "links": [
+            {
+              "text": ".bw",
+              "href": "https://en.wikipedia.org/wiki/.bw"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

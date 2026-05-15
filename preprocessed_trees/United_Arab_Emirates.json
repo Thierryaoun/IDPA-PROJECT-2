@@ -1,0 +1,349 @@
+{
+  "label": "country",
+  "children": [
+    {
+      "label": "name",
+      "children": [
+        {
+          "label": "united arab emirates"
+        }
+      ]
+    },
+    {
+      "label": "infobox_title",
+      "children": [
+        {
+          "label": "united arab emirates الإمارات العربية المتحدة al-imārāt al-'arabiyya al-muttaḥida"
+        }
+      ]
+    },
+    {
+      "label": "capital",
+      "children": [
+        {
+          "label": "abu dhabi / 24."
+        }
+      ]
+    },
+    {
+      "label": "largest_city",
+      "children": [
+        {
+          "label": "dubai / 25."
+        }
+      ]
+    },
+    {
+      "label": "official_languages",
+      "children": [
+        {
+          "label": "arabic"
+        }
+      ]
+    },
+    {
+      "label": "common_languages",
+      "children": [
+        {
+          "label": "emirati arabic"
+        },
+        {
+          "label": "english"
+        }
+      ]
+    },
+    {
+      "label": "ethnic_groups_2015",
+      "children": [
+        {
+          "label": "59.4% south asian"
+        },
+        {
+          "label": "38.2% indian"
+        },
+        {
+          "label": "9.5% bangladeshi"
+        },
+        {
+          "label": "9.4% pakistani"
+        },
+        {
+          "label": "2.3% other"
+        },
+        {
+          "label": "12% emirati arab"
+        },
+        {
+          "label": "10.2% egyptian"
+        },
+        {
+          "label": "6.1% filipino"
+        },
+        {
+          "label": "12.4% other"
+        }
+      ]
+    },
+    {
+      "label": "religion_2020",
+      "children": [
+        {
+          "label": "74.5% islam"
+        },
+        {
+          "label": "63.3% sunni islam"
+        },
+        {
+          "label": "6.7% shia islam"
+        },
+        {
+          "label": "4.4% other"
+        },
+        {
+          "label": "12.9% christianity"
+        },
+        {
+          "label": "6.2% hinduism"
+        },
+        {
+          "label": "3.2% buddhism"
+        },
+        {
+          "label": "1.3% agnosticism"
+        },
+        {
+          "label": "1.9% other"
+        }
+      ]
+    },
+    {
+      "label": "demonym",
+      "children": [
+        {
+          "label": "emirati"
+        }
+      ]
+    },
+    {
+      "label": "government",
+      "children": [
+        {
+          "label": "federal semi-presidential elective semi-constitutional monarchy"
+        }
+      ]
+    },
+    {
+      "label": "president",
+      "children": [
+        {
+          "label": "mohamed bin zayed al nahyan"
+        }
+      ]
+    },
+    {
+      "label": "vice_presidents",
+      "children": [
+        {
+          "label": "mohammed bin rashid al maktoum"
+        },
+        {
+          "label": "mansour bin zayed al nahyan"
+        }
+      ]
+    },
+    {
+      "label": "prime_minister",
+      "children": [
+        {
+          "label": "mohammed bin rashid al maktoum"
+        }
+      ]
+    },
+    {
+      "label": "legislature",
+      "children": [
+        {
+          "label": "federal supreme council"
+        }
+      ]
+    },
+    {
+      "label": "establishment",
+      "children": [
+        {
+          "label": "british_protectorate_as_part_of_trucial_states",
+          "children": [
+            {
+              "label": "1820 and 1892"
+            }
+          ]
+        },
+        {
+          "label": "independence_from_the_united_kingdom",
+          "children": [
+            {
+              "label": "2 december 1971"
+            }
+          ]
+        },
+        {
+          "label": "admission_of_ras_al_khaimah",
+          "children": [
+            {
+              "label": "10 february 1972"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "area",
+      "children": [
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "83,600 km"
+            }
+          ]
+        },
+        {
+          "label": "water",
+          "children": [
+            {
+              "label": "negligible"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "population",
+      "children": [
+        {
+          "label": "2024_estimate",
+          "children": [
+            {
+              "label": "11,027,129"
+            }
+          ]
+        },
+        {
+          "label": "density",
+          "children": [
+            {
+              "label": "132/km"
+            }
+          ]
+        },
+        {
+          "label": "gdp_ppp",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$905.23 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$81,680"
+            }
+          ]
+        },
+        {
+          "label": "gdp_nominal",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$548.60 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$49,550"
+            }
+          ]
+        },
+        {
+          "label": "gini_2018",
+          "children": [
+            {
+              "label": "26 low inequality"
+            }
+          ]
+        },
+        {
+          "label": "hdi_2023",
+          "children": [
+            {
+              "label": "0.940 very high"
+            }
+          ]
+        },
+        {
+          "label": "currency",
+          "children": [
+            {
+              "label": "uae dirham"
+            }
+          ]
+        },
+        {
+          "label": "time_zone",
+          "children": [
+            {
+              "label": "utc +04:00"
+            }
+          ]
+        },
+        {
+          "label": "calling_code",
+          "children": [
+            {
+              "label": "+971"
+            }
+          ]
+        },
+        {
+          "label": "iso_3166_code",
+          "children": [
+            {
+              "label": "ae"
+            }
+          ]
+        },
+        {
+          "label": "internet_tld",
+          "children": [
+            {
+              "label": ".ae"
+            },
+            {
+              "label": "امارات."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

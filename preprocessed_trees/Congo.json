@@ -1,0 +1,341 @@
+{
+  "label": "country",
+  "children": [
+    {
+      "label": "name",
+      "children": [
+        {
+          "label": "congo"
+        }
+      ]
+    },
+    {
+      "label": "infobox_title",
+      "children": [
+        {
+          "label": "republic of the congo république du congo republíki ya kongó repubilika ya kôngo"
+        }
+      ]
+    },
+    {
+      "label": "capital_and_largest_city",
+      "children": [
+        {
+          "label": "brazzaville / 4."
+        }
+      ]
+    },
+    {
+      "label": "official_languages",
+      "children": [
+        {
+          "label": "french"
+        }
+      ]
+    },
+    {
+      "label": "recognised_national_languages",
+      "children": [
+        {
+          "label": "kituba"
+        },
+        {
+          "label": "lingala"
+        }
+      ]
+    },
+    {
+      "label": "ethnic_groups",
+      "children": [
+        {
+          "label": "41% bakongo"
+        },
+        {
+          "label": "16.9% bateke"
+        },
+        {
+          "label": "13.1% mbochi"
+        },
+        {
+          "label": "5.6% sangha"
+        },
+        {
+          "label": "2% mbenga pygmies"
+        },
+        {
+          "label": "and others"
+        }
+      ]
+    },
+    {
+      "label": "religion_2020",
+      "children": [
+        {
+          "label": "87.1% christianity"
+        },
+        {
+          "label": "8.0% no religion"
+        },
+        {
+          "label": "2.7% traditional faiths"
+        },
+        {
+          "label": "1.2% islam"
+        },
+        {
+          "label": "1.0% others"
+        }
+      ]
+    },
+    {
+      "label": "demonyms",
+      "children": [
+        {
+          "label": "congolese"
+        },
+        {
+          "label": "congo"
+        }
+      ]
+    },
+    {
+      "label": "government",
+      "children": [
+        {
+          "label": "unitary semi-presidential republic under a dictatorship"
+        }
+      ]
+    },
+    {
+      "label": "president",
+      "children": [
+        {
+          "label": "denis sassou nguesso"
+        }
+      ]
+    },
+    {
+      "label": "prime_minister",
+      "children": [
+        {
+          "label": "anatole collinet makosso"
+        }
+      ]
+    },
+    {
+      "label": "president_of_senate",
+      "children": [
+        {
+          "label": "pierre ngolo"
+        }
+      ]
+    },
+    {
+      "label": "president_of_the_national_assembly",
+      "children": [
+        {
+          "label": "isidore mvouba"
+        }
+      ]
+    },
+    {
+      "label": "legislature",
+      "children": [
+        {
+          "label": "parliament"
+        }
+      ]
+    },
+    {
+      "label": "upper_house",
+      "children": [
+        {
+          "label": "senate"
+        }
+      ]
+    },
+    {
+      "label": "lower_house",
+      "children": [
+        {
+          "label": "national assembly"
+        }
+      ]
+    },
+    {
+      "label": "independence",
+      "children": [
+        {
+          "label": "republic_established",
+          "children": [
+            {
+              "label": "28 november 1958"
+            }
+          ]
+        },
+        {
+          "label": "from_france",
+          "children": [
+            {
+              "label": "15 august 1960"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "area",
+      "children": [
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "342,000 km"
+            }
+          ]
+        },
+        {
+          "label": "water",
+          "children": [
+            {
+              "label": "3.3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "population",
+      "children": [
+        {
+          "label": "2023_estimate",
+          "children": [
+            {
+              "label": "6,228,784"
+            }
+          ]
+        },
+        {
+          "label": "2023_census",
+          "children": [
+            {
+              "label": "6,142,180"
+            }
+          ]
+        },
+        {
+          "label": "density",
+          "children": [
+            {
+              "label": "19/km"
+            }
+          ]
+        },
+        {
+          "label": "gdp_ppp",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$42.760 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$6,590"
+            }
+          ]
+        },
+        {
+          "label": "gdp_nominal",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$15.281 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$2,360"
+            }
+          ]
+        },
+        {
+          "label": "gini_2011",
+          "children": [
+            {
+              "label": "40.2 medium inequality"
+            }
+          ]
+        },
+        {
+          "label": "hdi_2023",
+          "children": [
+            {
+              "label": "0.649 medium"
+            }
+          ]
+        },
+        {
+          "label": "currency",
+          "children": [
+            {
+              "label": "central african cfa franc"
+            }
+          ]
+        },
+        {
+          "label": "time_zone",
+          "children": [
+            {
+              "label": "utc +1"
+            }
+          ]
+        },
+        {
+          "label": "calling_code",
+          "children": [
+            {
+              "label": "+242"
+            }
+          ]
+        },
+        {
+          "label": "iso_3166_code",
+          "children": [
+            {
+              "label": "cg"
+            }
+          ]
+        },
+        {
+          "label": "internet_tld",
+          "children": [
+            {
+              "label": ".cg"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

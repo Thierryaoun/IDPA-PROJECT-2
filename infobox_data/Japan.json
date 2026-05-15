@@ -1,0 +1,293 @@
+{
+  "country": "Japan",
+  "infobox_title": "Japan 日本",
+  "data": [
+    {
+      "label": "Capital and largest city",
+      "value": "Tokyo 35°41′N 139°46′E ﻿ / ﻿ 35.683°N 139.767°E",
+      "links": [
+        {
+          "text": "Tokyo",
+          "href": "https://en.wikipedia.org/wiki/Tokyo"
+        },
+        {
+          "text": "35°41′N139°46′E﻿ / ﻿35.683°N 139.767°E",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Japan&params=35_41_N_139_46_E_type:city"
+        }
+      ]
+    },
+    {
+      "label": "National language",
+      "value": "Japanese",
+      "links": [
+        {
+          "text": "Japanese",
+          "href": "https://en.wikipedia.org/wiki/Japanese_language"
+        }
+      ]
+    },
+    {
+      "label": "Regional languages",
+      "value": "Ainu (recognized) Ryukyuan languages Hachijō",
+      "links": [
+        {
+          "text": "Ainu",
+          "href": "https://en.wikipedia.org/wiki/Ainu_language"
+        },
+        {
+          "text": "Ryukyuan languages",
+          "href": "https://en.wikipedia.org/wiki/Ryukyuan_languages"
+        },
+        {
+          "text": "Hachijō",
+          "href": "https://en.wikipedia.org/wiki/Hachij%C5%8D_language"
+        }
+      ],
+      "sub_items": [
+        "Ainu (recognized)",
+        "Ryukyuan languages",
+        "Hachijō"
+      ]
+    },
+    {
+      "label": "Demonym",
+      "value": "Japanese",
+      "links": [
+        {
+          "text": "Japanese",
+          "href": "https://en.wikipedia.org/wiki/Japanese_people"
+        }
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Unitary parliamentary constitutional monarchy",
+      "links": [
+        {
+          "text": "parliamentary constitutional monarchy",
+          "href": "https://en.wikipedia.org/wiki/Parliamentary_constitutional_monarchy"
+        }
+      ]
+    },
+    {
+      "label": "• Emperor",
+      "value": "Naruhito",
+      "links": [
+        {
+          "text": "Naruhito",
+          "href": "https://en.wikipedia.org/wiki/Naruhito"
+        }
+      ]
+    },
+    {
+      "label": "• Prime Minister",
+      "value": "Sanae Takaichi",
+      "links": [
+        {
+          "text": "Sanae Takaichi",
+          "href": "https://en.wikipedia.org/wiki/Sanae_Takaichi"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "National Diet",
+      "links": [
+        {
+          "text": "National Diet",
+          "href": "https://en.wikipedia.org/wiki/National_Diet"
+        }
+      ]
+    },
+    {
+      "label": "• Upper house",
+      "value": "House of Councillors",
+      "links": [
+        {
+          "text": "House of Councillors",
+          "href": "https://en.wikipedia.org/wiki/House_of_Councillors"
+        }
+      ]
+    },
+    {
+      "label": "• Lower house",
+      "value": "House of Representatives",
+      "links": [
+        {
+          "text": "House of Representatives",
+          "href": "https://en.wikipedia.org/wiki/House_of_Representatives_(Japan)"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "377,975 km (145,937 sq mi) ( 62nd )",
+          "links": [
+            {
+              "text": "62nd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "1.4"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• January 1, 2026 estimate",
+          "value": "122,950,000 ( 11th )",
+          "links": [
+            {
+              "text": "11th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• 2020 census",
+          "value": "126,146,099"
+        },
+        {
+          "label": "• Density",
+          "value": "330/km (854.7/sq mi) ( 39th )",
+          "links": [
+            {
+              "text": "39th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$6.758 trillion ( 5th )",
+          "links": [
+            {
+              "text": "5th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$54,815 ( 39th )",
+          "links": [
+            {
+              "text": "39th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$4.230 trillion ( 4th )",
+          "links": [
+            {
+              "text": "4th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$34,713 ( 36th )",
+          "links": [
+            {
+              "text": "36th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "Gini (2020)",
+          "value": "32.3 medium inequality"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.925 very high ( 23rd )",
+          "links": [
+            {
+              "text": "23rd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "Japanese yen ( ¥ )",
+          "links": [
+            {
+              "text": "Japanese yen",
+              "href": "https://en.wikipedia.org/wiki/Japanese_yen"
+            },
+            {
+              "text": "¥",
+              "href": "https://en.wikipedia.org/wiki/%C2%A5"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC +09:00 ( JST )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "JST",
+              "href": "https://en.wikipedia.org/wiki/Japan_Standard_Time"
+            }
+          ]
+        },
+        {
+          "label": "Calling code",
+          "value": "+81",
+          "links": [
+            {
+              "text": "+81",
+              "href": "https://en.wikipedia.org/wiki/%2B81"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "JP",
+          "links": [
+            {
+              "text": "JP",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:JP"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".jp",
+          "links": [
+            {
+              "text": ".jp",
+              "href": "https://en.wikipedia.org/wiki/.jp"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

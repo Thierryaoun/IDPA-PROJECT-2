@@ -1,0 +1,342 @@
+{
+  "label": "country",
+  "children": [
+    {
+      "label": "name",
+      "children": [
+        {
+          "label": "brunei"
+        }
+      ]
+    },
+    {
+      "label": "infobox_title",
+      "children": [
+        {
+          "label": "brunei darussalam negara brunei darussalam نݢارا بروني دارالسلام ‎"
+        }
+      ]
+    },
+    {
+      "label": "capital_and_largest_city",
+      "children": [
+        {
+          "label": "bandar seri begawan 4°53.417′n 114°56.533′e / 4."
+        }
+      ]
+    },
+    {
+      "label": "official_language",
+      "children": [
+        {
+          "label": "malay"
+        }
+      ]
+    },
+    {
+      "label": "other_languages_and_dialects",
+      "children": [
+        {
+          "label": "brunei malay"
+        },
+        {
+          "label": "english"
+        },
+        {
+          "label": "tutong"
+        },
+        {
+          "label": "kedayan"
+        },
+        {
+          "label": "belait"
+        },
+        {
+          "label": "chinese"
+        },
+        {
+          "label": "murut"
+        },
+        {
+          "label": "dusun"
+        },
+        {
+          "label": "brunei bisaya"
+        }
+      ]
+    },
+    {
+      "label": "official_scripts",
+      "children": [
+        {
+          "label": "malay alphabet"
+        },
+        {
+          "label": "jawi alphabet"
+        }
+      ]
+    },
+    {
+      "label": "ethnic_groups_2023",
+      "children": [
+        {
+          "label": "73.7% malay"
+        },
+        {
+          "label": "9.6% chinese"
+        },
+        {
+          "label": "16.6% others"
+        }
+      ]
+    },
+    {
+      "label": "religion_2023",
+      "children": [
+        {
+          "label": "80.7% sunni islam"
+        },
+        {
+          "label": "10.7% christianity"
+        },
+        {
+          "label": "7.8% buddhism"
+        },
+        {
+          "label": "0.8% other"
+        }
+      ]
+    },
+    {
+      "label": "demonym",
+      "children": [
+        {
+          "label": "bruneian"
+        }
+      ]
+    },
+    {
+      "label": "government",
+      "children": [
+        {
+          "label": "unitary islamic absolute monarchy"
+        }
+      ]
+    },
+    {
+      "label": "sultan_and_prime_minister",
+      "children": [
+        {
+          "label": "hassanal bolkiah"
+        }
+      ]
+    },
+    {
+      "label": "crown_prince_and_senior_minister",
+      "children": [
+        {
+          "label": "al-muhtadee billah"
+        }
+      ]
+    },
+    {
+      "label": "legislature",
+      "children": [
+        {
+          "label": "legislative council"
+        }
+      ]
+    },
+    {
+      "label": "formation",
+      "children": [
+        {
+          "label": "sultanate_established",
+          "children": [
+            {
+              "label": "c. 1363 or 1368"
+            }
+          ]
+        },
+        {
+          "label": "british_protected_state",
+          "children": [
+            {
+              "label": "17 september 1888"
+            }
+          ]
+        },
+        {
+          "label": "constitution_adopted_and_self_governance",
+          "children": [
+            {
+              "label": "29 september 1959"
+            }
+          ]
+        },
+        {
+          "label": "brunei_revolt",
+          "children": [
+            {
+              "label": "8 december 1962"
+            }
+          ]
+        },
+        {
+          "label": "independence_from_united_kingdom",
+          "children": [
+            {
+              "label": "1 january 1984"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "area",
+      "children": [
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "5,765 km"
+            }
+          ]
+        },
+        {
+          "label": "water",
+          "children": [
+            {
+              "label": "8.6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "population",
+      "children": [
+        {
+          "label": "2025_estimate",
+          "children": [
+            {
+              "label": "466,227"
+            }
+          ]
+        },
+        {
+          "label": "2021_census",
+          "children": [
+            {
+              "label": "440,715"
+            }
+          ]
+        },
+        {
+          "label": "density",
+          "children": [
+            {
+              "label": "72.11/km"
+            }
+          ]
+        },
+        {
+          "label": "gdp_ppp",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$43.830 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$95,760"
+            }
+          ]
+        },
+        {
+          "label": "gdp_nominal",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$16.01 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$34,970"
+            }
+          ]
+        },
+        {
+          "label": "hdi_2023",
+          "children": [
+            {
+              "label": "0.837 very high"
+            }
+          ]
+        },
+        {
+          "label": "currency",
+          "children": [
+            {
+              "label": "brunei dollar"
+            }
+          ]
+        },
+        {
+          "label": "time_zone",
+          "children": [
+            {
+              "label": "utc +8"
+            }
+          ]
+        },
+        {
+          "label": "calling_code",
+          "children": [
+            {
+              "label": "+673"
+            }
+          ]
+        },
+        {
+          "label": "iso_3166_code",
+          "children": [
+            {
+              "label": "bn"
+            }
+          ]
+        },
+        {
+          "label": "internet_tld",
+          "children": [
+            {
+              "label": ".bn"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

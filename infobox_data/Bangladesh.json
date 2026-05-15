@@ -1,0 +1,457 @@
+{
+  "country": "Bangladesh",
+  "infobox_title": "People's Republic of Bangladesh গণপ্রজাতন্ত্রী বাংলাদেশ ( Bengali ) Gôṇôprôjātôntrī Bāṅlādēś",
+  "data": [
+    {
+      "label": "Capital and largest city",
+      "value": "Dhaka 23°45′50″N 90°23′20″E ﻿ / ﻿ 23.76389°N 90.38889°E",
+      "links": [
+        {
+          "text": "Dhaka",
+          "href": "https://en.wikipedia.org/wiki/Dhaka"
+        },
+        {
+          "text": "23°45′50″N90°23′20″E﻿ / ﻿23.76389°N 90.38889°E",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Bangladesh&params=23_45_50_N_90_23_20_E_type:city_region:BD"
+        }
+      ]
+    },
+    {
+      "label": "Official language and national language",
+      "value": "Bengali",
+      "links": [
+        {
+          "text": "Bengali",
+          "href": "https://en.wikipedia.org/wiki/Bengali_language"
+        }
+      ]
+    },
+    {
+      "label": "Other common language",
+      "value": "English",
+      "links": [
+        {
+          "text": "English",
+          "href": "https://en.wikipedia.org/wiki/Bangladeshi_English"
+        }
+      ]
+    },
+    {
+      "label": "Ethnic groups (2022)",
+      "value": "99% Bengali 1% others Chakmas Garos Khasis Khumis Manipuris Marmas Mizos Arakanese Mrus Santals Tanchangyas Tripuris Bishnupriyas",
+      "links": [
+        {
+          "text": "Bengali",
+          "href": "https://en.wikipedia.org/wiki/Bengalis"
+        },
+        {
+          "text": "others",
+          "href": "https://en.wikipedia.org/wiki/Indigenous_peoples_in_Bangladesh"
+        },
+        {
+          "text": "Chakmas",
+          "href": "https://en.wikipedia.org/wiki/Chakma_people"
+        },
+        {
+          "text": "Garos",
+          "href": "https://en.wikipedia.org/wiki/Garo_people"
+        },
+        {
+          "text": "Khasis",
+          "href": "https://en.wikipedia.org/wiki/Khasi_people"
+        },
+        {
+          "text": "Khumis",
+          "href": "https://en.wikipedia.org/wiki/Khumi_people"
+        },
+        {
+          "text": "Manipuris",
+          "href": "https://en.wikipedia.org/wiki/Meitei_people"
+        },
+        {
+          "text": "Marmas",
+          "href": "https://en.wikipedia.org/wiki/Marma_people"
+        },
+        {
+          "text": "Mizos",
+          "href": "https://en.wikipedia.org/wiki/Mizo_people"
+        },
+        {
+          "text": "Arakanese",
+          "href": "https://en.wikipedia.org/wiki/Rakhine_people"
+        },
+        {
+          "text": "Mrus",
+          "href": "https://en.wikipedia.org/wiki/Mru_people_(Mrucha)"
+        },
+        {
+          "text": "Santals",
+          "href": "https://en.wikipedia.org/wiki/Santal_people"
+        },
+        {
+          "text": "Tanchangyas",
+          "href": "https://en.wikipedia.org/wiki/Tanchangya_people"
+        },
+        {
+          "text": "Tripuris",
+          "href": "https://en.wikipedia.org/wiki/Tripuri_people"
+        },
+        {
+          "text": "Bishnupriyas",
+          "href": "https://en.wikipedia.org/wiki/Bishnupriya_people"
+        }
+      ],
+      "sub_items": [
+        "Chakmas",
+        "Garos",
+        "Khasis",
+        "Khumis",
+        "Manipuris",
+        "Marmas",
+        "Mizos",
+        "Arakanese",
+        "Mrus",
+        "Santals",
+        "Tanchangyas",
+        "Tripuris",
+        "Bishnupriyas"
+      ]
+    },
+    {
+      "label": "Religion (2022)",
+      "value": "91.04% Islam ( official ) 7.94% Hinduism 0.60% Buddhism 0.30% Christianity 0.12% other",
+      "links": [
+        {
+          "text": "Islam",
+          "href": "https://en.wikipedia.org/wiki/Islam_in_Bangladesh"
+        },
+        {
+          "text": "official",
+          "href": "https://en.wikipedia.org/wiki/State_religion"
+        },
+        {
+          "text": "Hinduism",
+          "href": "https://en.wikipedia.org/wiki/Hinduism_in_Bangladesh"
+        },
+        {
+          "text": "Buddhism",
+          "href": "https://en.wikipedia.org/wiki/Buddhism_in_Bangladesh"
+        },
+        {
+          "text": "Christianity",
+          "href": "https://en.wikipedia.org/wiki/Christianity_in_Bangladesh"
+        },
+        {
+          "text": "other",
+          "href": "https://en.wikipedia.org/wiki/Religion_in_Bangladesh"
+        }
+      ],
+      "sub_items": [
+        "91.04% Islam ( official )",
+        "7.94% Hinduism",
+        "0.60% Buddhism",
+        "0.30% Christianity",
+        "0.12% other"
+      ]
+    },
+    {
+      "label": "Demonym",
+      "value": "Bangladeshi",
+      "links": [
+        {
+          "text": "Bangladeshi",
+          "href": "https://en.wikipedia.org/wiki/Bangladeshis"
+        }
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Unitary parliamentary republic",
+      "links": [
+        {
+          "text": "Unitary parliamentary republic",
+          "href": "https://en.wikipedia.org/wiki/Unitary_parliamentary_republic"
+        }
+      ]
+    },
+    {
+      "label": "• President",
+      "value": "Mohammed Shahabuddin",
+      "links": [
+        {
+          "text": "Mohammed Shahabuddin",
+          "href": "https://en.wikipedia.org/wiki/Mohammed_Shahabuddin"
+        }
+      ]
+    },
+    {
+      "label": "• Prime Minister",
+      "value": "Tarique Rahman",
+      "links": [
+        {
+          "text": "Tarique Rahman",
+          "href": "https://en.wikipedia.org/wiki/Tarique_Rahman"
+        }
+      ]
+    },
+    {
+      "label": "• Speaker",
+      "value": "Hafiz Uddin Ahmad",
+      "links": [
+        {
+          "text": "Hafiz Uddin Ahmad",
+          "href": "https://en.wikipedia.org/wiki/Hafiz_Uddin_Ahmad"
+        }
+      ]
+    },
+    {
+      "label": "• Chief Justice",
+      "value": "Zubayer Rahman Chowdhury",
+      "links": [
+        {
+          "text": "Zubayer Rahman Chowdhury",
+          "href": "https://en.wikipedia.org/wiki/Zubayer_Rahman_Chowdhury"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "Jatiya Sangsad",
+      "links": [
+        {
+          "text": "Jatiya Sangsad",
+          "href": "https://en.wikipedia.org/wiki/Jatiya_Sangsad"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Independence from Pakistan",
+      "rows": [
+        {
+          "label": "• East Bengal",
+          "value": "15 August 1947"
+        },
+        {
+          "label": "• East Pakistan",
+          "value": "29 February 1956"
+        },
+        {
+          "label": "• Proclamation of independence",
+          "value": "26 March 1971"
+        },
+        {
+          "label": "• Provisional government",
+          "value": "10 April 1971"
+        },
+        {
+          "label": "• Victory in the Liberation War",
+          "value": "16 December 1971"
+        },
+        {
+          "label": "• Current constitution",
+          "value": "16 December 1972"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "148,460 km (57,320 sq mi) ( 93rd )",
+          "links": [
+            {
+              "text": "93rd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "6.4"
+        },
+        {
+          "label": "• Land area",
+          "value": "130,170 km"
+        },
+        {
+          "label": "• Water area",
+          "value": "18,290 km"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2024 estimate",
+          "value": "173,562,364 ( 8th )",
+          "links": [
+            {
+              "text": "8th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• 2022 census",
+          "value": "169,828,911 ( 8th )",
+          "links": [
+            {
+              "text": "8th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• Density",
+          "value": "1,165/km (3,017.3/sq mi) ( 13th )",
+          "links": [
+            {
+              "text": "13th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2026 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$1.9 trillion ( 26th )",
+          "links": [
+            {
+              "text": "26th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$10,850 ( 127th )",
+          "links": [
+            {
+              "text": "127th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2026 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$519.29 billion ( 33rd )",
+          "links": [
+            {
+              "text": "33rd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$2,960 ( 142nd )",
+          "links": [
+            {
+              "text": "142nd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "Gini (2025)",
+          "value": "33.4 medium inequality"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.685 medium ( 130th )",
+          "links": [
+            {
+              "text": "130th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "Taka ( ৳ ) ( BDT )",
+          "links": [
+            {
+              "text": "Taka",
+              "href": "https://en.wikipedia.org/wiki/Bangladeshi_taka"
+            },
+            {
+              "text": "৳",
+              "href": "https://en.wikipedia.org/wiki/%E0%A7%B3"
+            },
+            {
+              "text": "BDT",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC +6 ( BST )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "BST",
+              "href": "https://en.wikipedia.org/wiki/Bangladesh_Standard_Time"
+            }
+          ]
+        },
+        {
+          "label": "Date format",
+          "value": "dd/mm/yyyy"
+        },
+        {
+          "label": "Calling code",
+          "value": "+880",
+          "links": [
+            {
+              "text": "+880",
+              "href": "https://en.wikipedia.org/wiki/Telephone_numbers_in_Bangladesh"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "BD",
+          "links": [
+            {
+              "text": "BD",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:BD"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".bd .বাংলা",
+          "links": [
+            {
+              "text": ".bd",
+              "href": "https://en.wikipedia.org/wiki/.bd"
+            },
+            {
+              "text": ".বাংলা",
+              "href": "https://en.wikipedia.org/wiki/.bangla"
+            }
+          ],
+          "sub_items": [
+            ".bd",
+            ".বাংলা"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,317 @@
+{
+  "country": "Lesotho",
+  "infobox_title": "Kingdom of Lesotho Naha ea Lesotho ( Sotho )",
+  "data": [
+    {
+      "label": "Capital and largest city",
+      "value": "Maseru 29°18′54″S 27°29′13″E ﻿ / ﻿ 29.31500°S 27.48694°E",
+      "links": [
+        {
+          "text": "Maseru",
+          "href": "https://en.wikipedia.org/wiki/Maseru"
+        },
+        {
+          "text": "29°18′54″S27°29′13″E﻿ / ﻿29.31500°S 27.48694°E",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Lesotho&params=29_18_54_S_27_29_13_E_region:LS_type:city"
+        }
+      ]
+    },
+    {
+      "label": "Official languages",
+      "value": "Sesotho English",
+      "links": [
+        {
+          "text": "Sesotho",
+          "href": "https://en.wikipedia.org/wiki/Sotho_language"
+        },
+        {
+          "text": "English",
+          "href": "https://en.wikipedia.org/wiki/South_African_English"
+        }
+      ],
+      "sub_items": [
+        "Sesotho",
+        "English"
+      ]
+    },
+    {
+      "label": "Ethnic groups (2020)",
+      "value": "99.7% Basotho 0.3% others",
+      "links": [
+        {
+          "text": "Basotho",
+          "href": "https://en.wikipedia.org/wiki/Sotho_people"
+        }
+      ],
+      "sub_items": [
+        "99.7% Basotho",
+        "0.3% others"
+      ]
+    },
+    {
+      "label": "Religion (2020)",
+      "value": "92.1% Christianity 6.6% traditional faiths 1.0% no religion 0.3% others",
+      "links": [
+        {
+          "text": "Christianity",
+          "href": "https://en.wikipedia.org/wiki/Christianity"
+        },
+        {
+          "text": "traditional faiths",
+          "href": "https://en.wikipedia.org/wiki/Traditional_African_religion"
+        },
+        {
+          "text": "no religion",
+          "href": "https://en.wikipedia.org/wiki/Irreligion"
+        }
+      ],
+      "sub_items": [
+        "92.1% Christianity",
+        "6.6% traditional faiths",
+        "1.0% no religion",
+        "0.3% others"
+      ]
+    },
+    {
+      "label": "Demonyms",
+      "value": "Mosotho (singular) Basotho (plural)",
+      "sub_items": [
+        "Mosotho (singular)",
+        "Basotho (plural)"
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Unitary parliamentary constitutional monarchy",
+      "links": [
+        {
+          "text": "parliamentary constitutional monarchy",
+          "href": "https://en.wikipedia.org/wiki/Parliamentary_constitutional_monarchy"
+        }
+      ]
+    },
+    {
+      "label": "• Monarch",
+      "value": "Letsie III",
+      "links": [
+        {
+          "text": "Letsie III",
+          "href": "https://en.wikipedia.org/wiki/Letsie_III_of_Lesotho"
+        }
+      ]
+    },
+    {
+      "label": "• Prime Minister",
+      "value": "Sam Matekane",
+      "links": [
+        {
+          "text": "Sam Matekane",
+          "href": "https://en.wikipedia.org/wiki/Sam_Matekane"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "Parliament",
+      "links": [
+        {
+          "text": "Parliament",
+          "href": "https://en.wikipedia.org/wiki/Parliament_of_Lesotho"
+        }
+      ]
+    },
+    {
+      "label": "• Upper house",
+      "value": "Senate",
+      "links": [
+        {
+          "text": "Senate",
+          "href": "https://en.wikipedia.org/wiki/Senate_(Lesotho)"
+        }
+      ]
+    },
+    {
+      "label": "• Lower house",
+      "value": "National Assembly",
+      "links": [
+        {
+          "text": "National Assembly",
+          "href": "https://en.wikipedia.org/wiki/National_Assembly_(Lesotho)"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Independence from the United Kingdom",
+      "rows": [
+        {
+          "label": "• Basutoland",
+          "value": "18 March 1884"
+        },
+        {
+          "label": "• Independence declared",
+          "value": "4 October 1966"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "30,355 km (11,720 sq mi) ( 137th )",
+          "links": [
+            {
+              "text": "137th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "negligible"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2023 estimate",
+          "value": "2,210,646 ( 147th )",
+          "links": [
+            {
+              "text": "147th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• Density",
+          "value": "68.1/km (176.4/sq mi) ( 138th )",
+          "links": [
+            {
+              "text": "138th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2023 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$6.915 billion ( 168th )",
+          "links": [
+            {
+              "text": "168th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$3,234 ( 164th )",
+          "links": [
+            {
+              "text": "164th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2023 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$2.373 billion ( 184th )",
+          "links": [
+            {
+              "text": "184th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$1,110 ( 169th )",
+          "links": [
+            {
+              "text": "169th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "Gini (2017)",
+          "value": "44.9 medium inequality"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.550 medium ( 167th )",
+          "links": [
+            {
+              "text": "167th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "Lesotho loti (LSL) South African rand (ZAR)",
+          "links": [
+            {
+              "text": "Lesotho loti",
+              "href": "https://en.wikipedia.org/wiki/Lesotho_loti"
+            },
+            {
+              "text": "South African rand",
+              "href": "https://en.wikipedia.org/wiki/South_African_rand"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC +02:00 ( SAST )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "SAST",
+              "href": "https://en.wikipedia.org/wiki/South_African_Standard_Time"
+            }
+          ]
+        },
+        {
+          "label": "Calling code",
+          "value": "+266"
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "LS",
+          "links": [
+            {
+              "text": "LS",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:LS"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".ls",
+          "links": [
+            {
+              "text": ".ls",
+              "href": "https://en.wikipedia.org/wiki/.ls"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

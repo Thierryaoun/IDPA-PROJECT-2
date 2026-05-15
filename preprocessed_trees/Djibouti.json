@@ -1,0 +1,295 @@
+{
+  "label": "country",
+  "children": [
+    {
+      "label": "name",
+      "children": [
+        {
+          "label": "djibouti"
+        }
+      ]
+    },
+    {
+      "label": "infobox_title",
+      "children": [
+        {
+          "label": "republic of djibouti جمهورية جيبوتي république de djibouti jamhuuriyadda jabuuti gabuutih ummuuno"
+        }
+      ]
+    },
+    {
+      "label": "capital_and_largest_city",
+      "children": [
+        {
+          "label": "djibouti city / 11."
+        }
+      ]
+    },
+    {
+      "label": "official_languages",
+      "children": [
+        {
+          "label": "arabic"
+        },
+        {
+          "label": "french"
+        }
+      ]
+    },
+    {
+      "label": "national_languages",
+      "children": [
+        {
+          "label": "somali"
+        },
+        {
+          "label": "afar"
+        }
+      ]
+    },
+    {
+      "label": "ethnic_groups",
+      "children": [
+        {
+          "label": "somalis 60%"
+        },
+        {
+          "label": "afar 35%"
+        },
+        {
+          "label": "arabs 5%"
+        }
+      ]
+    },
+    {
+      "label": "religion",
+      "children": [
+        {
+          "label": "94% islam"
+        },
+        {
+          "label": "87% sunni"
+        },
+        {
+          "label": "2% shia"
+        },
+        {
+          "label": "3% other"
+        },
+        {
+          "label": "8% non-denominational"
+        },
+        {
+          "label": "6% christianity"
+        }
+      ]
+    },
+    {
+      "label": "demonym",
+      "children": [
+        {
+          "label": "djiboutian"
+        }
+      ]
+    },
+    {
+      "label": "government",
+      "children": [
+        {
+          "label": "unitary dominant-party presidential republic under a hereditary dictatorship"
+        }
+      ]
+    },
+    {
+      "label": "president",
+      "children": [
+        {
+          "label": "ismaïl omar guelleh"
+        }
+      ]
+    },
+    {
+      "label": "prime_minister",
+      "children": [
+        {
+          "label": "abdoulkader kamil mohamed"
+        }
+      ]
+    },
+    {
+      "label": "legislature",
+      "children": [
+        {
+          "label": "national assembly"
+        }
+      ]
+    },
+    {
+      "label": "formation",
+      "children": [
+        {
+          "label": "independence_from_france",
+          "children": [
+            {
+              "label": "27 june 1977"
+            }
+          ]
+        },
+        {
+          "label": "current_constitution",
+          "children": [
+            {
+              "label": "4 september 1992"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "area",
+      "children": [
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "23,200 km"
+            }
+          ]
+        },
+        {
+          "label": "water",
+          "children": [
+            {
+              "label": "0.09"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "population",
+      "children": [
+        {
+          "label": "2024_census",
+          "children": [
+            {
+              "label": "1,066,809"
+            }
+          ]
+        },
+        {
+          "label": "density",
+          "children": [
+            {
+              "label": "46.0/km"
+            }
+          ]
+        },
+        {
+          "label": "gdp_ppp",
+          "children": [
+            {
+              "label": "2023 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$7.193 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$6,985"
+            }
+          ]
+        },
+        {
+          "label": "gdp_nominal",
+          "children": [
+            {
+              "label": "2023 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$3.873 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$3,761"
+            }
+          ]
+        },
+        {
+          "label": "gini_2017",
+          "children": [
+            {
+              "label": "41.6 medium inequality"
+            }
+          ]
+        },
+        {
+          "label": "hdi_2023",
+          "children": [
+            {
+              "label": "0.513 low"
+            }
+          ]
+        },
+        {
+          "label": "currency",
+          "children": [
+            {
+              "label": "djiboutian franc"
+            }
+          ]
+        },
+        {
+          "label": "time_zone",
+          "children": [
+            {
+              "label": "utc +3"
+            }
+          ]
+        },
+        {
+          "label": "calling_code",
+          "children": [
+            {
+              "label": "+253"
+            }
+          ]
+        },
+        {
+          "label": "iso_3166_code",
+          "children": [
+            {
+              "label": "dj"
+            }
+          ]
+        },
+        {
+          "label": "internet_tld",
+          "children": [
+            {
+              "label": ".dj"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

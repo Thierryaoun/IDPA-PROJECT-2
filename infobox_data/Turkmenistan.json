@@ -1,0 +1,350 @@
+{
+  "country": "Turkmenistan",
+  "infobox_title": "Turkmenistan Türkmenistan",
+  "data": [
+    {
+      "label": "Capital and largest city",
+      "value": "Ashgabat 37°58′N 58°20′E ﻿ / ﻿ 37.967°N 58.333°E",
+      "links": [
+        {
+          "text": "Ashgabat",
+          "href": "https://en.wikipedia.org/wiki/Ashgabat"
+        },
+        {
+          "text": "37°58′N58°20′E﻿ / ﻿37.967°N 58.333°E",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Turkmenistan&params=37_58_N_58_20_E_type:city"
+        }
+      ]
+    },
+    {
+      "label": "Official languages",
+      "value": "Turkmen",
+      "links": [
+        {
+          "text": "Turkmen",
+          "href": "https://en.wikipedia.org/wiki/Turkmen_language"
+        }
+      ]
+    },
+    {
+      "label": "Ethnic groups (2022)",
+      "value": "86.7% Turkmens 9.1% Uzbeks 1.6% Russians 1.2% Baloch 1.3% others",
+      "links": [
+        {
+          "text": "Turkmens",
+          "href": "https://en.wikipedia.org/wiki/Turkmens"
+        },
+        {
+          "text": "Uzbeks",
+          "href": "https://en.wikipedia.org/wiki/Uzbeks"
+        },
+        {
+          "text": "Russians",
+          "href": "https://en.wikipedia.org/wiki/Russians_in_Turkmenistan"
+        },
+        {
+          "text": "Baloch",
+          "href": "https://en.wikipedia.org/wiki/Baloch_of_Turkmenistan"
+        },
+        {
+          "text": "others",
+          "href": "https://en.wikipedia.org/wiki/Ethnic_groups_in_Turkmenistan"
+        }
+      ],
+      "sub_items": [
+        "86.7% Turkmens",
+        "9.1% Uzbeks",
+        "1.6% Russians",
+        "1.2% Baloch",
+        "1.3% others"
+      ]
+    },
+    {
+      "label": "Religion (2020)",
+      "value": "95.8% Islam 3.0% no religion 1.1% Christianity 0.1% other",
+      "links": [
+        {
+          "text": "Islam",
+          "href": "https://en.wikipedia.org/wiki/Islam_in_Turkmenistan"
+        },
+        {
+          "text": "no religion",
+          "href": "https://en.wikipedia.org/wiki/Irreligion"
+        },
+        {
+          "text": "Christianity",
+          "href": "https://en.wikipedia.org/wiki/Christianity_in_Turkmenistan"
+        },
+        {
+          "text": "other",
+          "href": "https://en.wikipedia.org/wiki/Religion_in_Turkmenistan"
+        }
+      ],
+      "sub_items": [
+        "95.8% Islam",
+        "3.0% no religion",
+        "1.1% Christianity",
+        "0.1% other"
+      ]
+    },
+    {
+      "label": "Demonyms",
+      "value": "Turkmenistani Turkmen"
+    },
+    {
+      "label": "Government",
+      "value": "Unitary presidential republic under a totalitarian hereditary dictatorship",
+      "links": [
+        {
+          "text": "presidential republic",
+          "href": "https://en.wikipedia.org/wiki/Presidential_system"
+        },
+        {
+          "text": "totalitarian",
+          "href": "https://en.wikipedia.org/wiki/Totalitarianism"
+        },
+        {
+          "text": "hereditary dictatorship",
+          "href": "https://en.wikipedia.org/wiki/Hereditary_dictatorship"
+        }
+      ]
+    },
+    {
+      "label": "• President",
+      "value": "Serdar Berdimuhamedow",
+      "links": [
+        {
+          "text": "Serdar Berdimuhamedow",
+          "href": "https://en.wikipedia.org/wiki/Serdar_Berdimuhamedow"
+        }
+      ]
+    },
+    {
+      "label": "• Deputy Chairman of the Cabinet of Ministers",
+      "value": "Raşit Meredow",
+      "links": [
+        {
+          "text": "Raşit Meredow",
+          "href": "https://en.wikipedia.org/wiki/Ra%C5%9Fit_Meredow"
+        }
+      ]
+    },
+    {
+      "label": "• Chairman of the People's Council",
+      "value": "Gurbanguly Berdimuhamedow",
+      "links": [
+        {
+          "text": "Gurbanguly Berdimuhamedow",
+          "href": "https://en.wikipedia.org/wiki/Gurbanguly_Berdimuhamedow"
+        }
+      ]
+    },
+    {
+      "label": "• Chairperson of the Assembly",
+      "value": "Dünýägözel Gulmanowa",
+      "links": [
+        {
+          "text": "Dünýägözel Gulmanowa",
+          "href": "https://en.wikipedia.org/wiki/D%C3%BCn%C3%BD%C3%A4g%C3%B6zel_Gulmanowa"
+        }
+      ]
+    },
+    {
+      "label": "• Chairman of the Supreme Court",
+      "value": "Begenç Hojamgulyýew"
+    },
+    {
+      "label": "Legislature",
+      "value": "Assembly",
+      "links": [
+        {
+          "text": "Assembly",
+          "href": "https://en.wikipedia.org/wiki/Assembly_of_Turkmenistan"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Independence from the Soviet Union",
+      "rows": [
+        {
+          "label": "• Declared",
+          "value": "22 August 1990"
+        },
+        {
+          "label": "• Recognized",
+          "value": "26 December 1991"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "491,210 km (189,660 sq mi) ( 52nd )",
+          "links": [
+            {
+              "text": "52nd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water",
+          "value": "24,069 km (9,293 sq mi)"
+        },
+        {
+          "label": "• Water (%)",
+          "value": "4.9"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2022 census",
+          "value": "7,057,841 ( 105th )",
+          "links": [
+            {
+              "text": "105th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• Density",
+          "value": "14.4/km (37.3/sq mi) ( 221st )",
+          "links": [
+            {
+              "text": "221st",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$186.11 billion ( 83rd )",
+          "links": [
+            {
+              "text": "83rd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$27,887 ( 74th )",
+          "links": [
+            {
+              "text": "74th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$89.05 billion ( 78th )",
+          "links": [
+            {
+              "text": "78th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$13,334 ( 72nd )",
+          "links": [
+            {
+              "text": "72nd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "Gini (1998)",
+          "value": "40.8 medium inequality"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.764 high ( 95th )",
+          "links": [
+            {
+              "text": "95th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "Manat ( TMT )",
+          "links": [
+            {
+              "text": "Manat",
+              "href": "https://en.wikipedia.org/wiki/Turkmenistani_manat"
+            },
+            {
+              "text": "TMT",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC +05:00 ( TMT )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "TMT",
+              "href": "https://en.wikipedia.org/wiki/Turkmenistan_Time"
+            }
+          ]
+        },
+        {
+          "label": "Calling code",
+          "value": "+993",
+          "links": [
+            {
+              "text": "+993",
+              "href": "https://en.wikipedia.org/wiki/Telephone_numbers_in_Turkmenistan"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "TM",
+          "links": [
+            {
+              "text": "TM",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:TM"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".tm",
+          "links": [
+            {
+              "text": ".tm",
+              "href": "https://en.wikipedia.org/wiki/.tm"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

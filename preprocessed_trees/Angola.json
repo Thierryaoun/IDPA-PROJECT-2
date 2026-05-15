@@ -1,0 +1,322 @@
+{
+  "label": "country",
+  "children": [
+    {
+      "label": "name",
+      "children": [
+        {
+          "label": "angola"
+        }
+      ]
+    },
+    {
+      "label": "infobox_title",
+      "children": [
+        {
+          "label": "republic of angola república de angola"
+        }
+      ]
+    },
+    {
+      "label": "capital_and_largest_city",
+      "children": [
+        {
+          "label": "luanda / 8."
+        }
+      ]
+    },
+    {
+      "label": "official_languages",
+      "children": [
+        {
+          "label": "portuguese"
+        }
+      ]
+    },
+    {
+      "label": "national_languages",
+      "children": [
+        {
+          "label": "chokwe , kimbundu , kikongo , oshiwambo , luchazi , umbundu"
+        }
+      ]
+    },
+    {
+      "label": "ethnic_groups_2021",
+      "children": [
+        {
+          "label": "37% ovimbundu"
+        },
+        {
+          "label": "25% ambundu"
+        },
+        {
+          "label": "13% bakongo"
+        },
+        {
+          "label": "21% other african"
+        },
+        {
+          "label": "2% mestiço"
+        },
+        {
+          "label": "2% asian"
+        },
+        {
+          "label": "1% european"
+        }
+      ]
+    },
+    {
+      "label": "religion_2024",
+      "children": [
+        {
+          "label": "79.1% christianity"
+        },
+        {
+          "label": "44.2% catholic"
+        },
+        {
+          "label": "34.9% protestant"
+        },
+        {
+          "label": "11.5% no religion"
+        },
+        {
+          "label": "9.4% other"
+        }
+      ]
+    },
+    {
+      "label": "demonym",
+      "children": [
+        {
+          "label": "angolan"
+        }
+      ]
+    },
+    {
+      "label": "government",
+      "children": [
+        {
+          "label": "unitary presidential republic"
+        }
+      ]
+    },
+    {
+      "label": "president",
+      "children": [
+        {
+          "label": "joão lourenço"
+        }
+      ]
+    },
+    {
+      "label": "vice_president",
+      "children": [
+        {
+          "label": "esperança da costa"
+        }
+      ]
+    },
+    {
+      "label": "president_of_the_national_assembly",
+      "children": [
+        {
+          "label": "adão correia de almeida"
+        }
+      ]
+    },
+    {
+      "label": "chief_justice",
+      "children": [
+        {
+          "label": "ademilson loboto"
+        }
+      ]
+    },
+    {
+      "label": "legislature",
+      "children": [
+        {
+          "label": "national assembly"
+        }
+      ]
+    },
+    {
+      "label": "independence_from_portugal",
+      "children": [
+        {
+          "label": "granted",
+          "children": [
+            {
+              "label": "11 november 1975"
+            }
+          ]
+        },
+        {
+          "label": "united_nations_full_membership",
+          "children": [
+            {
+              "label": "22 november 1976"
+            }
+          ]
+        },
+        {
+          "label": "current_constitution",
+          "children": [
+            {
+              "label": "21 january 2010"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "area",
+      "children": [
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "1,246,700 km"
+            }
+          ]
+        },
+        {
+          "label": "water",
+          "children": [
+            {
+              "label": "negligible"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "population",
+      "children": [
+        {
+          "label": "2024_census",
+          "children": [
+            {
+              "label": "36,604,681"
+            }
+          ]
+        },
+        {
+          "label": "density",
+          "children": [
+            {
+              "label": "29.4/km"
+            }
+          ]
+        },
+        {
+          "label": "gdp_ppp",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$402.160 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$10,230"
+            }
+          ]
+        },
+        {
+          "label": "gdp_nominal",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$113.34 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$2,880"
+            }
+          ]
+        },
+        {
+          "label": "gini_2018",
+          "children": [
+            {
+              "label": "51.3 high inequality"
+            }
+          ]
+        },
+        {
+          "label": "hdi_2023",
+          "children": [
+            {
+              "label": "0.616 medium"
+            }
+          ]
+        },
+        {
+          "label": "currency",
+          "children": [
+            {
+              "label": "angolan kwanza"
+            }
+          ]
+        },
+        {
+          "label": "time_zone",
+          "children": [
+            {
+              "label": "utc +1"
+            }
+          ]
+        },
+        {
+          "label": "calling_code",
+          "children": [
+            {
+              "label": "+244"
+            }
+          ]
+        },
+        {
+          "label": "iso_3166_code",
+          "children": [
+            {
+              "label": "ao"
+            }
+          ]
+        },
+        {
+          "label": "internet_tld",
+          "children": [
+            {
+              "label": ".ao"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

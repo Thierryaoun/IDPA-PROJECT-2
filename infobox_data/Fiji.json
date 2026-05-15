@@ -1,0 +1,391 @@
+{
+  "country": "Fiji",
+  "infobox_title": "Republic of Fiji Matanitu Tugalala o Viti ( Fijian ) फ़िजी गणराज्य; Fijī Gaṇarājya ( Fiji Hindi )",
+  "data": [
+    {
+      "label": "Capital and largest city",
+      "value": "Suva 18°10′S 178°27′E ﻿ / ﻿ 18.167°S 178.450°E",
+      "links": [
+        {
+          "text": "Suva",
+          "href": "https://en.wikipedia.org/wiki/Suva"
+        },
+        {
+          "text": "18°10′S178°27′E﻿ / ﻿18.167°S 178.450°E",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Fiji&params=18_10_S_178_27_E_type:city"
+        }
+      ]
+    },
+    {
+      "label": "Recognised national languages",
+      "value": "Fijian English Standard Hindi Fiji Hindi",
+      "links": [
+        {
+          "text": "Fijian",
+          "href": "https://en.wikipedia.org/wiki/Fijian_language"
+        },
+        {
+          "text": "English",
+          "href": "https://en.wikipedia.org/wiki/English_language"
+        },
+        {
+          "text": "Standard Hindi",
+          "href": "https://en.wikipedia.org/wiki/Standard_Hindi"
+        },
+        {
+          "text": "Fiji Hindi",
+          "href": "https://en.wikipedia.org/wiki/Fiji_Hindi"
+        }
+      ],
+      "sub_items": [
+        "Fijian",
+        "English",
+        "Standard Hindi",
+        "Fiji Hindi"
+      ]
+    },
+    {
+      "label": "Recognised regional languages",
+      "value": "Rotuman",
+      "links": [
+        {
+          "text": "Rotuman",
+          "href": "https://en.wikipedia.org/wiki/Rotuman_language"
+        }
+      ]
+    },
+    {
+      "label": "Ethnic groups (2016)",
+      "value": "56.8% Indigenous Fijians 37.5% Indo-Fijians 1.2% Rotumans 4.5% others",
+      "links": [
+        {
+          "text": "Indigenous Fijians",
+          "href": "https://en.wikipedia.org/wiki/Fijians"
+        },
+        {
+          "text": "Indo-Fijians",
+          "href": "https://en.wikipedia.org/wiki/Indo-Fijians"
+        },
+        {
+          "text": "Rotumans",
+          "href": "https://en.wikipedia.org/wiki/Rotumans"
+        }
+      ],
+      "sub_items": [
+        "56.8% Indigenous Fijians",
+        "37.5% Indo-Fijians",
+        "1.2% Rotumans",
+        "4.5% others"
+      ]
+    },
+    {
+      "label": "Religion",
+      "value": "64.4% Christianity 34.6% Methodism 29.8% other Christian 27.9% Hinduism 6.3% Islam 1.4% others / none",
+      "links": [
+        {
+          "text": "Christianity",
+          "href": "https://en.wikipedia.org/wiki/Christianity"
+        },
+        {
+          "text": "Methodism",
+          "href": "https://en.wikipedia.org/wiki/Methodism"
+        },
+        {
+          "text": "Christian",
+          "href": "https://en.wikipedia.org/wiki/Christians"
+        },
+        {
+          "text": "Hinduism",
+          "href": "https://en.wikipedia.org/wiki/Hinduism_in_Fiji"
+        },
+        {
+          "text": "Islam",
+          "href": "https://en.wikipedia.org/wiki/Islam_in_Fiji"
+        },
+        {
+          "text": "others",
+          "href": "https://en.wikipedia.org/wiki/Religion_in_Fiji"
+        },
+        {
+          "text": "none",
+          "href": "https://en.wikipedia.org/wiki/Irreligion"
+        }
+      ],
+      "sub_items": [
+        "64.4% Christianity 34.6% Methodism 29.8% other Christian",
+        "34.6% Methodism",
+        "29.8% other Christian",
+        "27.9% Hinduism",
+        "6.3% Islam",
+        "1.4% others / none"
+      ]
+    },
+    {
+      "label": "Demonym",
+      "value": "Fijian",
+      "links": [
+        {
+          "text": "Fijian",
+          "href": "https://en.wikipedia.org/wiki/Demographics_of_Fiji"
+        }
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Unitary parliamentary republic",
+      "links": [
+        {
+          "text": "Unitary parliamentary republic",
+          "href": "https://en.wikipedia.org/wiki/Unitary_parliamentary_republic"
+        }
+      ]
+    },
+    {
+      "label": "• President",
+      "value": "Naiqama Lalabalavu",
+      "links": [
+        {
+          "text": "Naiqama Lalabalavu",
+          "href": "https://en.wikipedia.org/wiki/Naiqama_Lalabalavu"
+        }
+      ]
+    },
+    {
+      "label": "• Prime Minister",
+      "value": "Sitiveni Rabuka",
+      "links": [
+        {
+          "text": "Sitiveni Rabuka",
+          "href": "https://en.wikipedia.org/wiki/Sitiveni_Rabuka"
+        }
+      ]
+    },
+    {
+      "label": "• Deputy Prime Minister",
+      "value": "Viliame Gavoka",
+      "links": [
+        {
+          "text": "Viliame Gavoka",
+          "href": "https://en.wikipedia.org/wiki/Viliame_Gavoka"
+        }
+      ]
+    },
+    {
+      "label": "• Parliament Speaker",
+      "value": "Filimone Jitoko",
+      "links": [
+        {
+          "text": "Filimone Jitoko",
+          "href": "https://en.wikipedia.org/wiki/Filimone_Jitoko"
+        }
+      ]
+    },
+    {
+      "label": "• Chief Justice",
+      "value": "Salesi Temo",
+      "links": [
+        {
+          "text": "Salesi Temo",
+          "href": "https://en.wikipedia.org/wiki/Salesi_Temo"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "Parliament",
+      "links": [
+        {
+          "text": "Parliament",
+          "href": "https://en.wikipedia.org/wiki/Parliament_of_Fiji"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Independence from the United Kingdom",
+      "rows": [
+        {
+          "label": "• Independence",
+          "value": "10 October 1970"
+        },
+        {
+          "label": "• Republic",
+          "value": "6 October 1987"
+        },
+        {
+          "label": "• Current constitution",
+          "value": "6 September 2013"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "18,274 km (7,056 sq mi) ( 151st )",
+          "links": [
+            {
+              "text": "151st",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "negligible"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2018 estimate",
+          "value": "926,276 ( 161st )",
+          "links": [
+            {
+              "text": "161st",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• 2017 census",
+          "value": "884,887"
+        },
+        {
+          "label": "• Density",
+          "value": "46.4/km (120.2/sq mi) ( 148th )",
+          "links": [
+            {
+              "text": "148th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2023 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$15.152 billion ( 158th )",
+          "links": [
+            {
+              "text": "158th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$16,563 ( 102nd )",
+          "links": [
+            {
+              "text": "102nd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2023 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$5.511 billion ( 164th )",
+          "links": [
+            {
+              "text": "164th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$6,024 ( 106th )",
+          "links": [
+            {
+              "text": "106th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "Gini (2019)",
+          "value": "30.7 medium inequality"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.731 high ( 111th )",
+          "links": [
+            {
+              "text": "111th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "Fijian dollar ( FJD )",
+          "links": [
+            {
+              "text": "Fijian dollar",
+              "href": "https://en.wikipedia.org/wiki/Fijian_dollar"
+            },
+            {
+              "text": "FJD",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC +12 (FJT)",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            }
+          ]
+        },
+        {
+          "label": "Date format",
+          "value": "dd/mm/yyyy"
+        },
+        {
+          "label": "Calling code",
+          "value": "+679",
+          "links": [
+            {
+              "text": "+679",
+              "href": "https://en.wikipedia.org/wiki/Telephone_numbers_in_Fiji"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "FJ",
+          "links": [
+            {
+              "text": "FJ",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:FJ"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".fj",
+          "links": [
+            {
+              "text": ".fj",
+              "href": "https://en.wikipedia.org/wiki/.fj"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

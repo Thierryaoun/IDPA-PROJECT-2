@@ -1,0 +1,350 @@
+{
+  "label": "country",
+  "children": [
+    {
+      "label": "name",
+      "children": [
+        {
+          "label": "guinea bissau"
+        }
+      ]
+    },
+    {
+      "label": "infobox_title",
+      "children": [
+        {
+          "label": "republic of guinea-bissau república da guiné-bissau 𞤺𞤭𞤲𞤫 𞤦𞤭𞤧𞤢𞤱𞤮 ߖߌߣߍ ߓߌߛߊߥߏ"
+        }
+      ]
+    },
+    {
+      "label": "capital_and_largest_city",
+      "children": [
+        {
+          "label": "bissau / 11."
+        }
+      ]
+    },
+    {
+      "label": "official_languages",
+      "children": [
+        {
+          "label": "portuguese"
+        }
+      ]
+    },
+    {
+      "label": "spoken_languages",
+      "children": [
+        {
+          "label": "guinea-bissau creole"
+        },
+        {
+          "label": "english"
+        },
+        {
+          "label": "french"
+        },
+        {
+          "label": "balanta"
+        },
+        {
+          "label": "hassaniya"
+        },
+        {
+          "label": "jola-fonyi"
+        },
+        {
+          "label": "mandinka"
+        },
+        {
+          "label": "mandjak"
+        },
+        {
+          "label": "mankanya"
+        },
+        {
+          "label": "noon"
+        },
+        {
+          "label": "portuguese"
+        },
+        {
+          "label": "pulaar"
+        },
+        {
+          "label": "serer"
+        },
+        {
+          "label": "soninke"
+        }
+      ]
+    },
+    {
+      "label": "ethnic_groups_2019",
+      "children": [
+        {
+          "label": "30% balanta"
+        },
+        {
+          "label": "30% fula"
+        },
+        {
+          "label": "14% manjak"
+        },
+        {
+          "label": "13% mandinka"
+        },
+        {
+          "label": "7% papel"
+        },
+        {
+          "label": "6% other / unspecified"
+        }
+      ]
+    },
+    {
+      "label": "religion_2020",
+      "children": [
+        {
+          "label": "46.1% islam"
+        },
+        {
+          "label": "30.6% traditional"
+        },
+        {
+          "label": "18.9% christianity"
+        },
+        {
+          "label": "3% no religion"
+        },
+        {
+          "label": "1% others"
+        }
+      ]
+    },
+    {
+      "label": "demonyms",
+      "children": [
+        {
+          "label": "guinean bissau-guinean"
+        }
+      ]
+    },
+    {
+      "label": "government",
+      "children": [
+        {
+          "label": "unitary semi-presidential republic under a military junta"
+        }
+      ]
+    },
+    {
+      "label": "head_of_the_hmcrnspo",
+      "children": [
+        {
+          "label": "horta inta-a na man"
+        }
+      ]
+    },
+    {
+      "label": "transitional_president",
+      "children": [
+        {
+          "label": "horta inta-a na man"
+        }
+      ]
+    },
+    {
+      "label": "prime_minister",
+      "children": [
+        {
+          "label": "ilídio vieira té"
+        }
+      ]
+    },
+    {
+      "label": "legislature",
+      "children": [
+        {
+          "label": "national transitional council national people's assembly"
+        }
+      ]
+    },
+    {
+      "label": "independence_from_portugal",
+      "children": [
+        {
+          "label": "declaration",
+          "children": [
+            {
+              "label": "24 september 1973"
+            }
+          ]
+        },
+        {
+          "label": "recognition",
+          "children": [
+            {
+              "label": "10 september 1974"
+            }
+          ]
+        },
+        {
+          "label": "2025_guinea_bissau_coup_d_état",
+          "children": [
+            {
+              "label": "26 november 2025"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "area",
+      "children": [
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "36,125 km"
+            }
+          ]
+        },
+        {
+          "label": "water",
+          "children": [
+            {
+              "label": "22.4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "population",
+      "children": [
+        {
+          "label": "2023_estimate",
+          "children": [
+            {
+              "label": "2,080,000"
+            }
+          ]
+        },
+        {
+          "label": "density",
+          "children": [
+            {
+              "label": "47/km"
+            }
+          ]
+        },
+        {
+          "label": "gdp_ppp",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$6.620 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$3,280"
+            }
+          ]
+        },
+        {
+          "label": "gdp_nominal",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$2.270 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$1,130"
+            }
+          ]
+        },
+        {
+          "label": "gini_2021",
+          "children": [
+            {
+              "label": "33.4 medium inequality"
+            }
+          ]
+        },
+        {
+          "label": "hdi_2023",
+          "children": [
+            {
+              "label": "0.514 low"
+            }
+          ]
+        },
+        {
+          "label": "currency",
+          "children": [
+            {
+              "label": "west african cfa franc"
+            }
+          ]
+        },
+        {
+          "label": "time_zone",
+          "children": [
+            {
+              "label": "utc ±00:00"
+            }
+          ]
+        },
+        {
+          "label": "calling_code",
+          "children": [
+            {
+              "label": "+245"
+            }
+          ]
+        },
+        {
+          "label": "iso_3166_code",
+          "children": [
+            {
+              "label": "gw"
+            }
+          ]
+        },
+        {
+          "label": "internet_tld",
+          "children": [
+            {
+              "label": ".gw"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

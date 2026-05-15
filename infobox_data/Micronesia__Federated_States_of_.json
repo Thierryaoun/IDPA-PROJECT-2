@@ -1,0 +1,367 @@
+{
+  "country": "Micronesia (Federated States of)",
+  "infobox_title": "Federated States of Micronesia",
+  "data": [
+    {
+      "label": "Status",
+      "value": "UN member state under a Compact of Free Association with the United States",
+      "links": [
+        {
+          "text": "UN member state",
+          "href": "https://en.wikipedia.org/wiki/Member_states_of_the_United_Nations"
+        },
+        {
+          "text": "Compact of Free Association",
+          "href": "https://en.wikipedia.org/wiki/Compact_of_Free_Association"
+        },
+        {
+          "text": "United States",
+          "href": "https://en.wikipedia.org/wiki/United_States"
+        }
+      ]
+    },
+    {
+      "label": "Capital",
+      "value": "Palikir 6°55′N 158°11′E ﻿ / ﻿ 6.917°N 158.183°E",
+      "links": [
+        {
+          "text": "Palikir",
+          "href": "https://en.wikipedia.org/wiki/Palikir"
+        },
+        {
+          "text": "6°55′N158°11′E﻿ / ﻿6.917°N 158.183°E",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Federated_States_of_Micronesia&params=6_55_N_158_11_E_type:city"
+        }
+      ]
+    },
+    {
+      "label": "Largest city",
+      "value": "Weno",
+      "links": [
+        {
+          "text": "Weno",
+          "href": "https://en.wikipedia.org/wiki/Weno"
+        }
+      ]
+    },
+    {
+      "label": "Official language",
+      "value": "English",
+      "links": [
+        {
+          "text": "English",
+          "href": "https://en.wikipedia.org/wiki/English_language"
+        }
+      ]
+    },
+    {
+      "label": "Recognized regional languages",
+      "value": "Chuukese Kosraean Pohnpeian Yapese",
+      "links": [
+        {
+          "text": "Chuukese",
+          "href": "https://en.wikipedia.org/wiki/Chuukese_language"
+        },
+        {
+          "text": "Kosraean",
+          "href": "https://en.wikipedia.org/wiki/Kosraean_language"
+        },
+        {
+          "text": "Pohnpeian",
+          "href": "https://en.wikipedia.org/wiki/Pohnpeian_language"
+        },
+        {
+          "text": "Yapese",
+          "href": "https://en.wikipedia.org/wiki/Yapese_language"
+        }
+      ],
+      "sub_items": [
+        "Chuukese",
+        "Kosraean",
+        "Pohnpeian",
+        "Yapese"
+      ]
+    },
+    {
+      "label": "Ethnic groups (2016)",
+      "value": "48.8% Chuukese 24.2% Pohnpeian 6.2% Kosraean 5.2% Yapese 4.5% Outer Yapese 1.8% Asian 1.5% Polynesian 6.4% other 1.4% unknown",
+      "links": [
+        {
+          "text": "Chuukese",
+          "href": "https://en.wikipedia.org/wiki/Chuukese_people"
+        },
+        {
+          "text": "Yapese",
+          "href": "https://en.wikipedia.org/wiki/Yapese_people"
+        },
+        {
+          "text": "Asian",
+          "href": "https://en.wikipedia.org/wiki/Asian_people"
+        },
+        {
+          "text": "Polynesian",
+          "href": "https://en.wikipedia.org/wiki/Polynesians"
+        }
+      ],
+      "sub_items": [
+        "48.8% Chuukese",
+        "24.2% Pohnpeian",
+        "6.2% Kosraean",
+        "5.2% Yapese",
+        "4.5% Outer Yapese",
+        "1.8% Asian",
+        "1.5% Polynesian",
+        "6.4% other",
+        "1.4% unknown"
+      ]
+    },
+    {
+      "label": "Religion (2016)",
+      "value": "95.3% Christianity 52.6% Roman Catholic 41.7% Protestant 1.0% other Christian 4.1% folk religions 0.6% none / other",
+      "links": [
+        {
+          "text": "Christianity",
+          "href": "https://en.wikipedia.org/wiki/Christianity_in_the_Federated_States_of_Micronesia"
+        },
+        {
+          "text": "Roman Catholic",
+          "href": "https://en.wikipedia.org/wiki/Catholic_Church"
+        },
+        {
+          "text": "Protestant",
+          "href": "https://en.wikipedia.org/wiki/Protestantism"
+        },
+        {
+          "text": "Christian",
+          "href": "https://en.wikipedia.org/wiki/List_of_Christian_denominations"
+        },
+        {
+          "text": "folk religions",
+          "href": "https://en.wikipedia.org/wiki/Folk_religion"
+        },
+        {
+          "text": "none",
+          "href": "https://en.wikipedia.org/wiki/Irreligion"
+        }
+      ],
+      "sub_items": [
+        "95.3% Christianity 52.6% Roman Catholic 41.7% Protestant 1.0% other Christian",
+        "95.3% Christianity 52.6% Roman Catholic 41.7% Protestant 1.0% other Christian",
+        "52.6% Roman Catholic",
+        "41.7% Protestant",
+        "1.0% other Christian",
+        "4.1% folk religions",
+        "0.6% none / other"
+      ]
+    },
+    {
+      "label": "Demonym",
+      "value": "Micronesian",
+      "links": [
+        {
+          "text": "Micronesian",
+          "href": "https://en.wikipedia.org/wiki/Micronesian_people"
+        }
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Federal assembly-independent presidential republic under a non-partisan democracy",
+      "links": [
+        {
+          "text": "assembly-independent",
+          "href": "https://en.wikipedia.org/wiki/Assembly-independent_republic"
+        },
+        {
+          "text": "non-partisan democracy",
+          "href": "https://en.wikipedia.org/wiki/Non-partisan_democracy"
+        }
+      ]
+    },
+    {
+      "label": "• President",
+      "value": "Wesley Simina",
+      "links": [
+        {
+          "text": "Wesley Simina",
+          "href": "https://en.wikipedia.org/wiki/Wesley_Simina"
+        }
+      ]
+    },
+    {
+      "label": "• Vice President",
+      "value": "Aren Palik",
+      "links": [
+        {
+          "text": "Aren Palik",
+          "href": "https://en.wikipedia.org/wiki/Aren_Palik"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "Congress",
+      "links": [
+        {
+          "text": "Congress",
+          "href": "https://en.wikipedia.org/wiki/Congress_of_the_Federated_States_of_Micronesia"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Independence from the United States",
+      "rows": [
+        {
+          "label": "• Republic proclaimed",
+          "value": "May 10, 1979"
+        },
+        {
+          "label": "• Compact of Free Association",
+          "value": "November 3, 1986"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "702 km (271 sq mi) ( 177th )",
+          "links": [
+            {
+              "text": "177th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "negligible"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2023 estimate",
+          "value": "75,817 ( 185th )",
+          "links": [
+            {
+              "text": "185th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• Density",
+          "value": "150.4/km (389.5/sq mi) ( 75th )",
+          "links": [
+            {
+              "text": "75th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$451 million"
+        },
+        {
+          "label": "• Per capita",
+          "value": "$4,768"
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$500 million"
+        },
+        {
+          "label": "• Per capita",
+          "value": "$5,291"
+        },
+        {
+          "label": "Gini (2013)",
+          "value": "40.1 medium inequality"
+        },
+        {
+          "label": "HDI (2022)",
+          "value": "0.634 medium ( 135th )",
+          "links": [
+            {
+              "text": "135th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "United States dollar ( USD )",
+          "links": [
+            {
+              "text": "United States dollar",
+              "href": "https://en.wikipedia.org/wiki/United_States_dollar"
+            },
+            {
+              "text": "USD",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC +10 and +11",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            }
+          ]
+        },
+        {
+          "label": "Date format",
+          "value": "MM/DD/YYYY"
+        },
+        {
+          "label": "Calling code",
+          "value": "+691",
+          "links": [
+            {
+              "text": "+691",
+              "href": "https://en.wikipedia.org/wiki/Telephone_numbers_in_the_Federated_States_of_Micronesia"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "FM",
+          "links": [
+            {
+              "text": "FM",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:FM"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".fm",
+          "links": [
+            {
+              "text": ".fm",
+              "href": "https://en.wikipedia.org/wiki/.fm"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

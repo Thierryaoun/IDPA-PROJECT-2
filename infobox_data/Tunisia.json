@@ -1,0 +1,370 @@
+{
+  "country": "Tunisia",
+  "infobox_title": "Republic of Tunisia الجمهورية التونسية ( Arabic ) al-Jumhūriyyah at-Tūnisiyyah",
+  "data": [
+    {
+      "label": "Capital and largest city",
+      "value": "Tunis 36°49′N 10°11′E ﻿ / ﻿ 36.817°N 10.183°E",
+      "links": [
+        {
+          "text": "Tunis",
+          "href": "https://en.wikipedia.org/wiki/Tunis"
+        },
+        {
+          "text": "36°49′N10°11′E﻿ / ﻿36.817°N 10.183°E",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Tunisia&params=36_49_N_10_11_E_type:city"
+        }
+      ]
+    },
+    {
+      "label": "Official languages",
+      "value": "Arabic",
+      "links": [
+        {
+          "text": "Arabic",
+          "href": "https://en.wikipedia.org/wiki/Modern_Standard_Arabic"
+        }
+      ]
+    },
+    {
+      "label": "Local vernacular",
+      "value": "Tunisian Arabic",
+      "links": [
+        {
+          "text": "Tunisian Arabic",
+          "href": "https://en.wikipedia.org/wiki/Tunisian_Arabic"
+        }
+      ]
+    },
+    {
+      "label": "Foreign languages",
+      "value": "French and English",
+      "links": [
+        {
+          "text": "French",
+          "href": "https://en.wikipedia.org/wiki/French_language"
+        },
+        {
+          "text": "English",
+          "href": "https://en.wikipedia.org/wiki/English_language"
+        }
+      ]
+    },
+    {
+      "label": "Ethnic groups (2021)",
+      "value": "98% Arabs 1% Berbers 1% Jews and others",
+      "links": [
+        {
+          "text": "Arabs",
+          "href": "https://en.wikipedia.org/wiki/Arabs"
+        },
+        {
+          "text": "Berbers",
+          "href": "https://en.wikipedia.org/wiki/Berbers"
+        },
+        {
+          "text": "Jews",
+          "href": "https://en.wikipedia.org/wiki/Jews"
+        }
+      ],
+      "sub_items": [
+        "98% Arabs",
+        "1% Berbers",
+        "1% Jews and others"
+      ]
+    },
+    {
+      "label": "Religion",
+      "value": "99% Sunni Islam 1% others",
+      "links": [
+        {
+          "text": "Sunni Islam",
+          "href": "https://en.wikipedia.org/wiki/Islam_in_Tunisia"
+        },
+        {
+          "text": "others",
+          "href": "https://en.wikipedia.org/wiki/Demographics_of_Tunisia"
+        }
+      ],
+      "sub_items": [
+        "99% Sunni Islam",
+        "1% others"
+      ]
+    },
+    {
+      "label": "Demonym",
+      "value": "Tunisian",
+      "links": [
+        {
+          "text": "Tunisian",
+          "href": "https://en.wikipedia.org/wiki/Tunisians"
+        }
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Unitary presidential republic",
+      "links": [
+        {
+          "text": "presidential republic",
+          "href": "https://en.wikipedia.org/wiki/Presidential_republic"
+        }
+      ]
+    },
+    {
+      "label": "• President",
+      "value": "Kais Saied",
+      "links": [
+        {
+          "text": "Kais Saied",
+          "href": "https://en.wikipedia.org/wiki/Kais_Saied"
+        }
+      ]
+    },
+    {
+      "label": "• Prime Minister",
+      "value": "Sara Zaafarani",
+      "links": [
+        {
+          "text": "Sara Zaafarani",
+          "href": "https://en.wikipedia.org/wiki/Sara_Zaafarani"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "Parliament",
+      "links": [
+        {
+          "text": "Parliament",
+          "href": "https://en.wikipedia.org/wiki/Parliament_of_Tunisia"
+        }
+      ]
+    },
+    {
+      "label": "• Upper house",
+      "value": "National Council of Regions and Districts",
+      "links": [
+        {
+          "text": "National Council of Regions and Districts",
+          "href": "https://en.wikipedia.org/wiki/National_Council_of_Regions_and_Districts"
+        }
+      ]
+    },
+    {
+      "label": "• Lower house",
+      "value": "Assembly of the Representatives of the People",
+      "links": [
+        {
+          "text": "Assembly of the Representatives of the People",
+          "href": "https://en.wikipedia.org/wiki/Assembly_of_the_Representatives_of_the_People"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Establishment",
+      "rows": [
+        {
+          "label": "• Ancient Carthage",
+          "value": "814 BC"
+        },
+        {
+          "label": "• Aghlabid Emirate",
+          "value": "800"
+        },
+        {
+          "label": "• Hafsid Sultanate",
+          "value": "1229"
+        },
+        {
+          "label": "• Beylik of Tunis",
+          "value": "15 July 1705"
+        },
+        {
+          "label": "• French protectorate",
+          "value": "12 May 1881"
+        },
+        {
+          "label": "• Independence and Kingdom",
+          "value": "20 March 1956"
+        },
+        {
+          "label": "• Republic declaration",
+          "value": "25 July 1957"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "163,610 km (63,170 sq mi) ( 91st )",
+          "links": [
+            {
+              "text": "91st",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "5.04"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2024 census",
+          "value": "11,972,169"
+        },
+        {
+          "label": "• Density",
+          "value": "79/km (204.6/sq mi) ( 134th )",
+          "links": [
+            {
+              "text": "134th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$183.73 billion ( 84th )",
+          "links": [
+            {
+              "text": "84th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$14,780 ( 111th )",
+          "links": [
+            {
+              "text": "111th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$56.290 billion ( 90th )",
+          "links": [
+            {
+              "text": "90th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$4,530 ( 121st )",
+          "links": [
+            {
+              "text": "121st",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "Gini (2021)",
+          "value": "33.7 medium inequality"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.746 high ( 105th )",
+          "links": [
+            {
+              "text": "105th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "Tunisian dinar ( TND )",
+          "links": [
+            {
+              "text": "Tunisian dinar",
+              "href": "https://en.wikipedia.org/wiki/Tunisian_dinar"
+            },
+            {
+              "text": "TND",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC +1 ( CET )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "CET",
+              "href": "https://en.wikipedia.org/wiki/Central_European_Time"
+            }
+          ]
+        },
+        {
+          "label": "Date format",
+          "value": "dd/mm/yyyy"
+        },
+        {
+          "label": "Calling code",
+          "value": "+216",
+          "links": [
+            {
+              "text": "+216",
+              "href": "https://en.wikipedia.org/wiki/Telephone_numbers_in_Tunisia"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "TN",
+          "links": [
+            {
+              "text": "TN",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:TN"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".tn .تونس",
+          "links": [
+            {
+              "text": ".tn",
+              "href": "https://en.wikipedia.org/wiki/.tn"
+            },
+            {
+              "text": ".تونس",
+              "href": "https://en.wikipedia.org/wiki/Internationalized_country_code_top-level_domain"
+            }
+          ],
+          "sub_items": [
+            ".tn",
+            ".تونس"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,337 @@
+{
+  "label": "country",
+  "children": [
+    {
+      "label": "name",
+      "children": [
+        {
+          "label": "colombia"
+        }
+      ]
+    },
+    {
+      "label": "infobox_title",
+      "children": [
+        {
+          "label": "republic of colombia república de colombia"
+        }
+      ]
+    },
+    {
+      "label": "capital_and_largest_city",
+      "children": [
+        {
+          "label": "bogotá / 4."
+        }
+      ]
+    },
+    {
+      "label": "official_languages",
+      "children": [
+        {
+          "label": "spanish"
+        }
+      ]
+    },
+    {
+      "label": "recognized_regional_languages",
+      "children": [
+        {
+          "label": "creole english 64 other languages"
+        }
+      ]
+    },
+    {
+      "label": "ethnic_groups_2018_census",
+      "children": [
+        {
+          "label": "84.99% mestizo - white"
+        },
+        {
+          "label": "9.34% black"
+        },
+        {
+          "label": "4.31% indigenous"
+        },
+        {
+          "label": "0.01% romanis"
+        },
+        {
+          "label": "1.35% not specified"
+        }
+      ]
+    },
+    {
+      "label": "religion_2022",
+      "children": [
+        {
+          "label": "70% catholicism"
+        },
+        {
+          "label": "17% other christian"
+        },
+        {
+          "label": "11% no religion"
+        },
+        {
+          "label": "1.9% other"
+        }
+      ]
+    },
+    {
+      "label": "demonym",
+      "children": [
+        {
+          "label": "colombian"
+        }
+      ]
+    },
+    {
+      "label": "government",
+      "children": [
+        {
+          "label": "unitary presidential republic"
+        }
+      ]
+    },
+    {
+      "label": "president",
+      "children": [
+        {
+          "label": "gustavo petro"
+        }
+      ]
+    },
+    {
+      "label": "vice_president",
+      "children": [
+        {
+          "label": "francia márquez"
+        }
+      ]
+    },
+    {
+      "label": "legislature",
+      "children": [
+        {
+          "label": "congress"
+        }
+      ]
+    },
+    {
+      "label": "upper_house",
+      "children": [
+        {
+          "label": "senate"
+        }
+      ]
+    },
+    {
+      "label": "lower_house",
+      "children": [
+        {
+          "label": "chamber of representatives"
+        }
+      ]
+    },
+    {
+      "label": "independence_from_spain",
+      "children": [
+        {
+          "label": "autonomy",
+          "children": [
+            {
+              "label": "20 july 1810"
+            }
+          ]
+        },
+        {
+          "label": "declared",
+          "children": [
+            {
+              "label": "16 july 1813"
+            }
+          ]
+        },
+        {
+          "label": "achieved",
+          "children": [
+            {
+              "label": "7 august 1819"
+            }
+          ]
+        },
+        {
+          "label": "gran_colombia",
+          "children": [
+            {
+              "label": "17 december 1819"
+            }
+          ]
+        },
+        {
+          "label": "current_constitution",
+          "children": [
+            {
+              "label": "4 july 1991"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "area",
+      "children": [
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "1,141,748 km"
+            }
+          ]
+        },
+        {
+          "label": "water",
+          "children": [
+            {
+              "label": "2.1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "population",
+      "children": [
+        {
+          "label": "2024_estimate",
+          "children": [
+            {
+              "label": "52,695,952"
+            }
+          ]
+        },
+        {
+          "label": "density",
+          "children": [
+            {
+              "label": "46.15/km"
+            }
+          ]
+        },
+        {
+          "label": "gdp_ppp",
+          "children": [
+            {
+              "label": "2024 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$1.042 trillion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$19,770"
+            }
+          ]
+        },
+        {
+          "label": "gdp_nominal",
+          "children": [
+            {
+              "label": "2024 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$386.076 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$7,327"
+            }
+          ]
+        },
+        {
+          "label": "gini_2023",
+          "children": [
+            {
+              "label": "53.9 high inequality"
+            }
+          ]
+        },
+        {
+          "label": "hdi_2023",
+          "children": [
+            {
+              "label": "0.788 high"
+            }
+          ]
+        },
+        {
+          "label": "currency",
+          "children": [
+            {
+              "label": "colombian peso"
+            }
+          ]
+        },
+        {
+          "label": "time_zone",
+          "children": [
+            {
+              "label": "utc −5"
+            }
+          ]
+        },
+        {
+          "label": "date_format",
+          "children": [
+            {
+              "label": "dmy"
+            }
+          ]
+        },
+        {
+          "label": "calling_code",
+          "children": [
+            {
+              "label": "+57"
+            }
+          ]
+        },
+        {
+          "label": "iso_3166_code",
+          "children": [
+            {
+              "label": "co"
+            }
+          ]
+        },
+        {
+          "label": "internet_tld",
+          "children": [
+            {
+              "label": ".co"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

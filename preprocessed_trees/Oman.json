@@ -1,0 +1,365 @@
+{
+  "label": "country",
+  "children": [
+    {
+      "label": "name",
+      "children": [
+        {
+          "label": "oman"
+        }
+      ]
+    },
+    {
+      "label": "infobox_title",
+      "children": [
+        {
+          "label": "sultanate of oman سَلْطَنَة عُمَانْ salṭanat ʿumān"
+        }
+      ]
+    },
+    {
+      "label": "capital_and_largest_city",
+      "children": [
+        {
+          "label": "muscat / 23."
+        }
+      ]
+    },
+    {
+      "label": "official_languages",
+      "children": [
+        {
+          "label": "arabic"
+        }
+      ]
+    },
+    {
+      "label": "religion_2023",
+      "children": [
+        {
+          "label": "95% islam"
+        },
+        {
+          "label": "1.67% hinduism"
+        },
+        {
+          "label": "1.67% christianity"
+        },
+        {
+          "label": "1.66% others"
+        }
+      ]
+    },
+    {
+      "label": "demonym",
+      "children": [
+        {
+          "label": "omani"
+        }
+      ]
+    },
+    {
+      "label": "government",
+      "children": [
+        {
+          "label": "unitary islamic absolute monarchy"
+        }
+      ]
+    },
+    {
+      "label": "sultan",
+      "children": [
+        {
+          "label": "haitham bin tariq"
+        }
+      ]
+    },
+    {
+      "label": "crown_prince",
+      "children": [
+        {
+          "label": "theyazin bin haitham"
+        }
+      ]
+    },
+    {
+      "label": "legislature",
+      "children": [
+        {
+          "label": "council of oman"
+        }
+      ]
+    },
+    {
+      "label": "upper_house",
+      "children": [
+        {
+          "label": "council of state"
+        }
+      ]
+    },
+    {
+      "label": "lower_house",
+      "children": [
+        {
+          "label": "consultative assembly"
+        }
+      ]
+    },
+    {
+      "label": "establishment",
+      "children": [
+        {
+          "label": "magan_civilization",
+          "children": [
+            {
+              "label": "3000 bce"
+            }
+          ]
+        },
+        {
+          "label": "azd_tribe_migration",
+          "children": [
+            {
+              "label": "130"
+            }
+          ]
+        },
+        {
+          "label": "imamate_established",
+          "children": [
+            {
+              "label": "751"
+            }
+          ]
+        },
+        {
+          "label": "nabhani_dynasty",
+          "children": [
+            {
+              "label": "1154"
+            }
+          ]
+        },
+        {
+          "label": "portuguese_rule",
+          "children": [
+            {
+              "label": "1507–1656"
+            }
+          ]
+        },
+        {
+          "label": "ya_rubi_dynasty",
+          "children": [
+            {
+              "label": "1624"
+            }
+          ]
+        },
+        {
+          "label": "omani_empire",
+          "children": [
+            {
+              "label": "1696"
+            }
+          ]
+        },
+        {
+          "label": "al_bu_said_dynasty",
+          "children": [
+            {
+              "label": "20 november 1744"
+            }
+          ]
+        },
+        {
+          "label": "muscat_and_oman",
+          "children": [
+            {
+              "label": "8 january 1856"
+            }
+          ]
+        },
+        {
+          "label": "sultanate_of_oman",
+          "children": [
+            {
+              "label": "9 august 1970"
+            }
+          ]
+        },
+        {
+          "label": "basic_statute",
+          "children": [
+            {
+              "label": "6 november 1996"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "area",
+      "children": [
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "315,331 km"
+            }
+          ]
+        },
+        {
+          "label": "water",
+          "children": [
+            {
+              "label": "negligible"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "population",
+      "children": [
+        {
+          "label": "2025_estimate",
+          "children": [
+            {
+              "label": "5,494,691"
+            }
+          ]
+        },
+        {
+          "label": "2010_census",
+          "children": [
+            {
+              "label": "2,773,479"
+            }
+          ]
+        },
+        {
+          "label": "density",
+          "children": [
+            {
+              "label": "15/km"
+            }
+          ]
+        },
+        {
+          "label": "gdp_ppp",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$231.16 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$42,010"
+            }
+          ]
+        },
+        {
+          "label": "gdp_nominal",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$104.35 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$18,097"
+            }
+          ]
+        },
+        {
+          "label": "gini_2018",
+          "children": [
+            {
+              "label": "30.75 medium inequality"
+            }
+          ]
+        },
+        {
+          "label": "hdi_2023",
+          "children": [
+            {
+              "label": "0.858 very high"
+            }
+          ]
+        },
+        {
+          "label": "currency",
+          "children": [
+            {
+              "label": "omani rial"
+            }
+          ]
+        },
+        {
+          "label": "time_zone",
+          "children": [
+            {
+              "label": "utc +4"
+            }
+          ]
+        },
+        {
+          "label": "date_format",
+          "children": [
+            {
+              "label": "dd.mm.yyyy"
+            }
+          ]
+        },
+        {
+          "label": "calling_code",
+          "children": [
+            {
+              "label": "+968"
+            }
+          ]
+        },
+        {
+          "label": "iso_3166_code",
+          "children": [
+            {
+              "label": "om"
+            }
+          ]
+        },
+        {
+          "label": "internet_tld",
+          "children": [
+            {
+              "label": ".om , عمان."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

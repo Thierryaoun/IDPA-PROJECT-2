@@ -1,0 +1,450 @@
+{
+  "label": "country",
+  "children": [
+    {
+      "label": "name",
+      "children": [
+        {
+          "label": "namibia"
+        }
+      ]
+    },
+    {
+      "label": "infobox_title",
+      "children": [
+        {
+          "label": "republic of namibia name in national languages afrikaans : republiek van namibië german : republik namibia khoekhoegowab : republiki namibiab dib oshiwambo : orepublika yanamibia otjiherero : orepublika yanamibia rukwangali : republika zanamibia setswana : rephaboliki ya namibia silozi : namibia ye lukuluhile"
+        }
+      ]
+    },
+    {
+      "label": "afrikaans",
+      "children": [
+        {
+          "label": "republiek van namibië"
+        }
+      ]
+    },
+    {
+      "label": "afrikaans",
+      "children": [
+        {
+          "label": "republiek van namibië"
+        }
+      ]
+    },
+    {
+      "label": "german",
+      "children": [
+        {
+          "label": "republik namibia"
+        }
+      ]
+    },
+    {
+      "label": "khoekhoegowab",
+      "children": [
+        {
+          "label": "republiki namibiab dib"
+        }
+      ]
+    },
+    {
+      "label": "oshiwambo",
+      "children": [
+        {
+          "label": "orepublika yanamibia"
+        }
+      ]
+    },
+    {
+      "label": "otjiherero",
+      "children": [
+        {
+          "label": "orepublika yanamibia"
+        }
+      ]
+    },
+    {
+      "label": "rukwangali",
+      "children": [
+        {
+          "label": "republika zanamibia"
+        }
+      ]
+    },
+    {
+      "label": "setswana",
+      "children": [
+        {
+          "label": "rephaboliki ya namibia"
+        }
+      ]
+    },
+    {
+      "label": "silozi",
+      "children": [
+        {
+          "label": "namibia ye lukuluhile"
+        }
+      ]
+    },
+    {
+      "label": "capital_and_largest_city",
+      "children": [
+        {
+          "label": "windhoek / 22."
+        }
+      ]
+    },
+    {
+      "label": "official_languages",
+      "children": [
+        {
+          "label": "english"
+        }
+      ]
+    },
+    {
+      "label": "recognised_national_languages",
+      "children": [
+        {
+          "label": "afrikaans"
+        },
+        {
+          "label": "german"
+        },
+        {
+          "label": "khoekhoegowab"
+        },
+        {
+          "label": "oshiwambo"
+        },
+        {
+          "label": "otjiherero"
+        },
+        {
+          "label": "rukwangali"
+        },
+        {
+          "label": "setswana"
+        },
+        {
+          "label": "silozi"
+        }
+      ]
+    },
+    {
+      "label": "recognised_regional_languages",
+      "children": [
+        {
+          "label": "ǃkung"
+        },
+        {
+          "label": "gciriku"
+        },
+        {
+          "label": "thimbukushu"
+        }
+      ]
+    },
+    {
+      "label": "ethnic_groups_2023",
+      "children": [
+        {
+          "label": "93.2% indigenous african"
+        },
+        {
+          "label": "3.6% coloured and basters"
+        },
+        {
+          "label": "1.8% white"
+        },
+        {
+          "label": "1.4% asian / other"
+        }
+      ]
+    },
+    {
+      "label": "religion_2023",
+      "children": [
+        {
+          "label": "87.9% christianity"
+        },
+        {
+          "label": "43.7% lutheranism"
+        },
+        {
+          "label": "22.8% catholicism"
+        },
+        {
+          "label": "17.0% anglicanism"
+        },
+        {
+          "label": "4.4% other christian"
+        },
+        {
+          "label": "10.5% other"
+        },
+        {
+          "label": "1.6% no religion"
+        }
+      ]
+    },
+    {
+      "label": "demonym",
+      "children": [
+        {
+          "label": "namibian"
+        }
+      ]
+    },
+    {
+      "label": "government",
+      "children": [
+        {
+          "label": "unitary semi-presidential republic"
+        }
+      ]
+    },
+    {
+      "label": "president",
+      "children": [
+        {
+          "label": "netumbo nandi-ndaitwah"
+        }
+      ]
+    },
+    {
+      "label": "vice_president",
+      "children": [
+        {
+          "label": "lucia witbooi"
+        }
+      ]
+    },
+    {
+      "label": "prime_minister",
+      "children": [
+        {
+          "label": "elijah ngurare"
+        }
+      ]
+    },
+    {
+      "label": "deputy_prime_minister",
+      "children": [
+        {
+          "label": "vacant"
+        }
+      ]
+    },
+    {
+      "label": "chief_justice",
+      "children": [
+        {
+          "label": "peter shivute"
+        }
+      ]
+    },
+    {
+      "label": "legislature",
+      "children": [
+        {
+          "label": "parliament"
+        }
+      ]
+    },
+    {
+      "label": "upper_house",
+      "children": [
+        {
+          "label": "national council"
+        }
+      ]
+    },
+    {
+      "label": "lower_house",
+      "children": [
+        {
+          "label": "national assembly"
+        }
+      ]
+    },
+    {
+      "label": "independence_from_south_africa",
+      "children": [
+        {
+          "label": "constitution",
+          "children": [
+            {
+              "label": "9 february 1990"
+            }
+          ]
+        },
+        {
+          "label": "independence",
+          "children": [
+            {
+              "label": "21 march 1990"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "area",
+      "children": [
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "825,615 km"
+            }
+          ]
+        },
+        {
+          "label": "water",
+          "children": [
+            {
+              "label": "negligible"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "population",
+      "children": [
+        {
+          "label": "2025_census",
+          "children": [
+            {
+              "label": "3,022,401"
+            }
+          ]
+        },
+        {
+          "label": "density",
+          "children": [
+            {
+              "label": "3.7/km"
+            }
+          ]
+        },
+        {
+          "label": "gdp_ppp",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$37.73 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$12,370"
+            }
+          ]
+        },
+        {
+          "label": "gdp_nominal",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$14.21 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$4,660"
+            }
+          ]
+        },
+        {
+          "label": "gini_2015",
+          "children": [
+            {
+              "label": "59.1 high inequality"
+            }
+          ]
+        },
+        {
+          "label": "hdi_2023",
+          "children": [
+            {
+              "label": "0.665 medium"
+            }
+          ]
+        },
+        {
+          "label": "currency",
+          "children": [
+            {
+              "label": "namibian dollar south african rand"
+            }
+          ]
+        },
+        {
+          "label": "time_zone",
+          "children": [
+            {
+              "label": "utc +2"
+            }
+          ]
+        },
+        {
+          "label": "date_format",
+          "children": [
+            {
+              "label": "dd/mm/yyyy"
+            }
+          ]
+        },
+        {
+          "label": "calling_code",
+          "children": [
+            {
+              "label": "+264"
+            }
+          ]
+        },
+        {
+          "label": "iso_3166_code",
+          "children": [
+            {
+              "label": "na"
+            }
+          ]
+        },
+        {
+          "label": "internet_tld",
+          "children": [
+            {
+              "label": ".na"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

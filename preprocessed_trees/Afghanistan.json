@@ -1,0 +1,365 @@
+{
+  "label": "country",
+  "children": [
+    {
+      "label": "name",
+      "children": [
+        {
+          "label": "afghanistan"
+        }
+      ]
+    },
+    {
+      "label": "infobox_title",
+      "children": [
+        {
+          "label": "islamic emirate of afghanistan د افغانستان اسلامي امارت də afğānistān islāmi imārat امارت اسلامی افغانستان imārat-i islāmī-yi afğānistān"
+        }
+      ]
+    },
+    {
+      "label": "capital_and_largest_city",
+      "children": [
+        {
+          "label": "kabul / 34."
+        }
+      ]
+    },
+    {
+      "label": "official_languages",
+      "children": [
+        {
+          "label": "pashto"
+        },
+        {
+          "label": "dari"
+        }
+      ]
+    },
+    {
+      "label": "ethnic_groups_2010_unofficial_estimates",
+      "children": [
+        {
+          "label": "42% pashtun"
+        },
+        {
+          "label": "27% tajik"
+        },
+        {
+          "label": "9% hazara"
+        },
+        {
+          "label": "9% uzbek"
+        },
+        {
+          "label": "4% aimaq"
+        },
+        {
+          "label": "3% turkmen"
+        },
+        {
+          "label": "2% baloch"
+        },
+        {
+          "label": "4% other"
+        }
+      ]
+    },
+    {
+      "label": "religion_2020",
+      "children": [
+        {
+          "label": "99.9% islam"
+        },
+        {
+          "label": "89.1% sunni"
+        },
+        {
+          "label": "10.8% shia"
+        },
+        {
+          "label": "0.1% other"
+        }
+      ]
+    },
+    {
+      "label": "demonym",
+      "children": [
+        {
+          "label": "afghan"
+        }
+      ]
+    },
+    {
+      "label": "government",
+      "children": [
+        {
+          "label": "unitary totalitarian theocratic islamic emirate"
+        }
+      ]
+    },
+    {
+      "label": "supreme_leader",
+      "children": [
+        {
+          "label": "hibatullah akhundzada"
+        }
+      ]
+    },
+    {
+      "label": "prime_minister",
+      "children": [
+        {
+          "label": "hasan akhund"
+        }
+      ]
+    },
+    {
+      "label": "chief_justice",
+      "children": [
+        {
+          "label": "abdul hakim haqqani"
+        }
+      ]
+    },
+    {
+      "label": "legislature",
+      "children": [
+        {
+          "label": "none"
+        }
+      ]
+    },
+    {
+      "label": "formation",
+      "children": [
+        {
+          "label": "hotak_emirate",
+          "children": [
+            {
+              "label": "21 april 1709"
+            }
+          ]
+        },
+        {
+          "label": "durrani_empire",
+          "children": [
+            {
+              "label": "june 1747"
+            }
+          ]
+        },
+        {
+          "label": "barakzai_emirate",
+          "children": [
+            {
+              "label": "1823"
+            }
+          ]
+        },
+        {
+          "label": "unification",
+          "children": [
+            {
+              "label": "27 may 1863"
+            }
+          ]
+        },
+        {
+          "label": "independence",
+          "children": [
+            {
+              "label": "19 august 1919"
+            }
+          ]
+        },
+        {
+          "label": "kingdom",
+          "children": [
+            {
+              "label": "9 june 1926"
+            }
+          ]
+        },
+        {
+          "label": "republic",
+          "children": [
+            {
+              "label": "17 july 1973"
+            }
+          ]
+        },
+        {
+          "label": "democratic_republic",
+          "children": [
+            {
+              "label": "30 april 1978"
+            }
+          ]
+        },
+        {
+          "label": "islamic_state",
+          "children": [
+            {
+              "label": "28 april 1992"
+            }
+          ]
+        },
+        {
+          "label": "islamic_emirate",
+          "children": [
+            {
+              "label": "27 september 1996"
+            }
+          ]
+        },
+        {
+          "label": "islamic_republic",
+          "children": [
+            {
+              "label": "26 january 2004"
+            }
+          ]
+        },
+        {
+          "label": "restoration_of_islamic_emirate",
+          "children": [
+            {
+              "label": "15 august 2021"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "area",
+      "children": [
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "652,864 km"
+            }
+          ]
+        },
+        {
+          "label": "water",
+          "children": [
+            {
+              "label": "negligible"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "population",
+      "children": [
+        {
+          "label": "mid_2024_2025_estimate",
+          "children": [
+            {
+              "label": "35–50 million"
+            }
+          ]
+        },
+        {
+          "label": "density",
+          "children": [
+            {
+              "label": "64/km"
+            }
+          ]
+        },
+        {
+          "label": "gdp_ppp",
+          "children": [
+            {
+              "label": "2023 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$91.668 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$2,174"
+            }
+          ]
+        },
+        {
+          "label": "gdp_nominal",
+          "children": [
+            {
+              "label": "2023 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$17.329 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$411"
+            }
+          ]
+        },
+        {
+          "label": "hdi_2023",
+          "children": [
+            {
+              "label": "0.496 low"
+            }
+          ]
+        },
+        {
+          "label": "currency",
+          "children": [
+            {
+              "label": "afghani"
+            }
+          ]
+        },
+        {
+          "label": "time_zone",
+          "children": [
+            {
+              "label": "utc +4:30"
+            }
+          ]
+        },
+        {
+          "label": "iso_3166_code",
+          "children": [
+            {
+              "label": "af"
+            }
+          ]
+        },
+        {
+          "label": "internet_tld",
+          "children": [
+            {
+              "label": ".af"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

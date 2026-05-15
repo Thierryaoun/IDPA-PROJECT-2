@@ -1,0 +1,415 @@
+{
+  "country": "New Zealand",
+  "infobox_title": "New Zealand Aotearoa ( Māori )",
+  "data": [
+    {
+      "label": "Capital",
+      "value": "Wellington 41°18′S 174°47′E ﻿ / ﻿ 41.300°S 174.783°E",
+      "links": [
+        {
+          "text": "Wellington",
+          "href": "https://en.wikipedia.org/wiki/Wellington"
+        },
+        {
+          "text": "41°18′S174°47′E﻿ / ﻿41.300°S 174.783°E",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=New_Zealand&params=41_18_S_174_47_E_type:city_region:NZ"
+        }
+      ]
+    },
+    {
+      "label": "Largest city",
+      "value": "Auckland 36°52′S 174°45′E ﻿ / ﻿ 36.867°S 174.750°E",
+      "links": [
+        {
+          "text": "Auckland",
+          "href": "https://en.wikipedia.org/wiki/Auckland"
+        },
+        {
+          "text": "36°52′S174°45′E﻿ / ﻿36.867°S 174.750°E",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=New_Zealand&params=36_52_S_174_45_E_type:city_region:NZ"
+        }
+      ]
+    },
+    {
+      "label": "Official languages",
+      "value": "English Māori NZ Sign Language",
+      "links": [
+        {
+          "text": "English",
+          "href": "https://en.wikipedia.org/wiki/New_Zealand_English"
+        },
+        {
+          "text": "Māori",
+          "href": "https://en.wikipedia.org/wiki/M%C4%81ori_language"
+        },
+        {
+          "text": "NZ Sign Language",
+          "href": "https://en.wikipedia.org/wiki/New_Zealand_Sign_Language"
+        }
+      ],
+      "sub_items": [
+        "English",
+        "Māori",
+        "NZ Sign Language"
+      ]
+    },
+    {
+      "label": "Ethnic groups ( 2023 )",
+      "value": "67.8% European 19.6% Māori 17.3% Asian 8.9% Pacific peoples 1.9% ME / LA / African 1.1% other",
+      "links": [
+        {
+          "text": "European",
+          "href": "https://en.wikipedia.org/wiki/European_New_Zealanders"
+        },
+        {
+          "text": "Māori",
+          "href": "https://en.wikipedia.org/wiki/M%C4%81ori_people"
+        },
+        {
+          "text": "Asian",
+          "href": "https://en.wikipedia.org/wiki/Asian_New_Zealanders"
+        },
+        {
+          "text": "Pacific peoples",
+          "href": "https://en.wikipedia.org/wiki/Pasifika_New_Zealanders"
+        },
+        {
+          "text": "ME",
+          "href": "https://en.wikipedia.org/wiki/Ethnic_groups_in_the_Middle_East"
+        },
+        {
+          "text": "LA",
+          "href": "https://en.wikipedia.org/wiki/Latin_Americans"
+        },
+        {
+          "text": "African",
+          "href": "https://en.wikipedia.org/wiki/African_New_Zealanders"
+        }
+      ],
+      "sub_items": [
+        "67.8% European",
+        "19.6% Māori",
+        "17.3% Asian",
+        "8.9% Pacific peoples",
+        "1.9% ME / LA / African",
+        "1.1% other"
+      ]
+    },
+    {
+      "label": "Religion (2023)",
+      "value": "51.6% no religion 32.3% Christianity 2.9% Hinduism 6.3% other 6.9% undeclared",
+      "links": [
+        {
+          "text": "no religion",
+          "href": "https://en.wikipedia.org/wiki/Irreligion_in_New_Zealand"
+        },
+        {
+          "text": "Christianity",
+          "href": "https://en.wikipedia.org/wiki/Christianity_in_New_Zealand"
+        },
+        {
+          "text": "Hinduism",
+          "href": "https://en.wikipedia.org/wiki/Hinduism_in_New_Zealand"
+        },
+        {
+          "text": "other",
+          "href": "https://en.wikipedia.org/wiki/Religion_in_New_Zealand"
+        }
+      ],
+      "sub_items": [
+        "51.6% no religion",
+        "32.3% Christianity",
+        "2.9% Hinduism",
+        "6.3% other",
+        "6.9% undeclared"
+      ]
+    },
+    {
+      "label": "Demonyms",
+      "value": "New Zealander Kiwi (colloquial)",
+      "links": [
+        {
+          "text": "New Zealander",
+          "href": "https://en.wikipedia.org/wiki/New_Zealanders"
+        },
+        {
+          "text": "Kiwi",
+          "href": "https://en.wikipedia.org/wiki/Kiwi_(nickname)"
+        }
+      ],
+      "sub_items": [
+        "New Zealander",
+        "Kiwi (colloquial)"
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Unitary parliamentary constitutional monarchy",
+      "links": [
+        {
+          "text": "parliamentary constitutional monarchy",
+          "href": "https://en.wikipedia.org/wiki/Westminster_parliamentary_system"
+        }
+      ]
+    },
+    {
+      "label": "• Monarch",
+      "value": "Charles III",
+      "links": [
+        {
+          "text": "Charles III",
+          "href": "https://en.wikipedia.org/wiki/Charles_III"
+        }
+      ]
+    },
+    {
+      "label": "• Governor-General",
+      "value": "Cindy Kiro",
+      "links": [
+        {
+          "text": "Cindy Kiro",
+          "href": "https://en.wikipedia.org/wiki/Cindy_Kiro"
+        }
+      ]
+    },
+    {
+      "label": "• Prime Minister",
+      "value": "Christopher Luxon",
+      "links": [
+        {
+          "text": "Christopher Luxon",
+          "href": "https://en.wikipedia.org/wiki/Christopher_Luxon"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "Parliament",
+      "links": [
+        {
+          "text": "Parliament",
+          "href": "https://en.wikipedia.org/wiki/New_Zealand_Parliament"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Stages of independence from the United Kingdom",
+      "rows": [
+        {
+          "label": "• Treaty of Waitangi",
+          "value": "6 February 1840"
+        },
+        {
+          "label": "• Responsible government",
+          "value": "7 May 1856",
+          "links": [
+            {
+              "text": "7 May 1856",
+              "href": "https://en.wikipedia.org/wiki/1856_Sewell_Ministry"
+            }
+          ]
+        },
+        {
+          "label": "• Dominion",
+          "value": "26 September 1907"
+        },
+        {
+          "label": "• Statute of Westminster Adoption Act",
+          "value": "25 November 1947"
+        },
+        {
+          "label": "• Constitution Act 1986",
+          "value": "1 January 1987"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "263,310 km (101,660 sq mi) ( 75th )",
+          "links": [
+            {
+              "text": "75th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "1.6"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• March 2026 estimate",
+          "value": "5,344,680 ( 121st )",
+          "links": [
+            {
+              "text": "121st",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• 2023 census",
+          "value": "4,993,923"
+        },
+        {
+          "label": "• Density",
+          "value": "19.9/km (51.5/sq mi) ( 204th )",
+          "links": [
+            {
+              "text": "204th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$298.93 billion ( 67th )",
+          "links": [
+            {
+              "text": "67th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$55,450 ( 36th )",
+          "links": [
+            {
+              "text": "36th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$248.67 billion ( 52nd )",
+          "links": [
+            {
+              "text": "52nd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$46,013 ( 23rd )",
+          "links": [
+            {
+              "text": "23rd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "Gini (2022)",
+          "value": "30.0 medium inequality"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.938 very high ( 17th )",
+          "links": [
+            {
+              "text": "17th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "New Zealand dollar ($) ( NZD )",
+          "links": [
+            {
+              "text": "New Zealand dollar",
+              "href": "https://en.wikipedia.org/wiki/New_Zealand_dollar"
+            },
+            {
+              "text": "NZD",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC +12 ( NZST )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "NZST",
+              "href": "https://en.wikipedia.org/wiki/Time_in_New_Zealand"
+            }
+          ]
+        },
+        {
+          "label": "• Summer ( DST )",
+          "value": "UTC +13 ( NZDT )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "NZDT",
+              "href": "https://en.wikipedia.org/wiki/Time_in_New_Zealand"
+            }
+          ]
+        },
+        {
+          "label": "Date format",
+          "value": "dd / mm / yyyy"
+        },
+        {
+          "label": "Calling code",
+          "value": "+64",
+          "links": [
+            {
+              "text": "+64",
+              "href": "https://en.wikipedia.org/wiki/Telephone_numbers_in_New_Zealand"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "NZ",
+          "links": [
+            {
+              "text": "NZ",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:NZ"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".nz",
+          "links": [
+            {
+              "text": ".nz",
+              "href": "https://en.wikipedia.org/wiki/.nz"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

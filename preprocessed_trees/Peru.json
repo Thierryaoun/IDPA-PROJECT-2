@@ -1,0 +1,360 @@
+{
+  "label": "country",
+  "children": [
+    {
+      "label": "name",
+      "children": [
+        {
+          "label": "peru"
+        }
+      ]
+    },
+    {
+      "label": "infobox_title",
+      "children": [
+        {
+          "label": "republic of peru república del perú co-official names quechua : piruw ripuwlika aymara : piruwxa ripuwlika"
+        }
+      ]
+    },
+    {
+      "label": "quechua",
+      "children": [
+        {
+          "label": "piruw ripuwlika"
+        }
+      ]
+    },
+    {
+      "label": "quechua",
+      "children": [
+        {
+          "label": "piruw ripuwlika"
+        }
+      ]
+    },
+    {
+      "label": "aymara",
+      "children": [
+        {
+          "label": "piruwxa ripuwlika"
+        }
+      ]
+    },
+    {
+      "label": "capital_and_largest_city",
+      "children": [
+        {
+          "label": "lima 12°2.6′s 77°1.7′w / 12."
+        }
+      ]
+    },
+    {
+      "label": "official_languages",
+      "children": [
+        {
+          "label": "spanish"
+        }
+      ]
+    },
+    {
+      "label": "co_official_languages",
+      "children": [
+        {
+          "label": "quechua"
+        },
+        {
+          "label": "aymara"
+        },
+        {
+          "label": "other indigenous languages"
+        }
+      ]
+    },
+    {
+      "label": "ethnic_groups_2017",
+      "children": [
+        {
+          "label": "60.20% mestizo"
+        },
+        {
+          "label": "25.75% native"
+        },
+        {
+          "label": "5.89% white"
+        },
+        {
+          "label": "3.57% black"
+        },
+        {
+          "label": "0.16% east asian"
+        },
+        {
+          "label": "1.10% other"
+        },
+        {
+          "label": "3.32% no answer"
+        }
+      ]
+    },
+    {
+      "label": "religion_2017",
+      "children": [
+        {
+          "label": "94.5% christianity"
+        },
+        {
+          "label": "76.0% catholicism"
+        },
+        {
+          "label": "18.5% other christian"
+        },
+        {
+          "label": "5.1% no religion"
+        },
+        {
+          "label": "0.4% other"
+        }
+      ]
+    },
+    {
+      "label": "demonym",
+      "children": [
+        {
+          "label": "peruvian"
+        }
+      ]
+    },
+    {
+      "label": "government",
+      "children": [
+        {
+          "label": "unitary semi-presidential republic"
+        }
+      ]
+    },
+    {
+      "label": "president",
+      "children": [
+        {
+          "label": "josé maría balcázar"
+        }
+      ]
+    },
+    {
+      "label": "first_vice_president",
+      "children": [
+        {
+          "label": "vacant"
+        }
+      ]
+    },
+    {
+      "label": "prime_minister",
+      "children": [
+        {
+          "label": "luis arroyo sánchez"
+        }
+      ]
+    },
+    {
+      "label": "president_of_congress",
+      "children": [
+        {
+          "label": "fernando rospigliosi"
+        }
+      ]
+    },
+    {
+      "label": "legislature",
+      "children": [
+        {
+          "label": "congress of the republic"
+        }
+      ]
+    },
+    {
+      "label": "independence_from_spain",
+      "children": [
+        {
+          "label": "declared",
+          "children": [
+            {
+              "label": "28 july 1821"
+            }
+          ]
+        },
+        {
+          "label": "consolidated",
+          "children": [
+            {
+              "label": "9 december 1824"
+            }
+          ]
+        },
+        {
+          "label": "recognized",
+          "children": [
+            {
+              "label": "14 august 1879"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "area",
+      "children": [
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "1,285,216 km"
+            }
+          ]
+        },
+        {
+          "label": "water",
+          "children": [
+            {
+              "label": "0.41"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "population",
+      "children": [
+        {
+          "label": "2023_estimate",
+          "children": [
+            {
+              "label": "34,352,720"
+            }
+          ]
+        },
+        {
+          "label": "density",
+          "children": [
+            {
+              "label": "23/km"
+            }
+          ]
+        },
+        {
+          "label": "gdp_ppp",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$653.090 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$18,980"
+            }
+          ]
+        },
+        {
+          "label": "gdp_nominal",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$318.480 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$9,260"
+            }
+          ]
+        },
+        {
+          "label": "gini_2022",
+          "children": [
+            {
+              "label": "40.2 medium inequality"
+            }
+          ]
+        },
+        {
+          "label": "hdi_2023",
+          "children": [
+            {
+              "label": "0.794 high"
+            }
+          ]
+        },
+        {
+          "label": "currency",
+          "children": [
+            {
+              "label": "peruvian sol"
+            }
+          ]
+        },
+        {
+          "label": "time_zone",
+          "children": [
+            {
+              "label": "utc −05:00"
+            }
+          ]
+        },
+        {
+          "label": "date_format",
+          "children": [
+            {
+              "label": "dd/mm/yyyy"
+            }
+          ]
+        },
+        {
+          "label": "calling_code",
+          "children": [
+            {
+              "label": "+51"
+            }
+          ]
+        },
+        {
+          "label": "iso_3166_code",
+          "children": [
+            {
+              "label": "pe"
+            }
+          ]
+        },
+        {
+          "label": "internet_tld",
+          "children": [
+            {
+              "label": ".pe"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,380 @@
+{
+  "country": "Italy",
+  "infobox_title": "Italian Republic Repubblica Italiana",
+  "data": [
+    {
+      "label": "Capital and largest city",
+      "value": "Rome 41°54′N 12°29′E ﻿ / ﻿ 41.900°N 12.483°E",
+      "links": [
+        {
+          "text": "Rome",
+          "href": "https://en.wikipedia.org/wiki/Rome"
+        },
+        {
+          "text": "41°54′N12°29′E﻿ / ﻿41.900°N 12.483°E",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Italy&params=41_54_N_12_29_E_type:city"
+        }
+      ]
+    },
+    {
+      "label": "Official languages",
+      "value": "Italian",
+      "links": [
+        {
+          "text": "Italian",
+          "href": "https://en.wikipedia.org/wiki/Italian_language"
+        }
+      ]
+    },
+    {
+      "label": "Nationality (2021)",
+      "value": "91% Italian 9% other",
+      "sub_items": [
+        "91% Italian",
+        "9% other"
+      ]
+    },
+    {
+      "label": "Native languages",
+      "value": "See main article",
+      "links": [
+        {
+          "text": "main article",
+          "href": "https://en.wikipedia.org/wiki/Languages_of_Italy"
+        }
+      ]
+    },
+    {
+      "label": "Religion (2020)",
+      "value": "84% Christianity 12% irreligion 4% other",
+      "links": [
+        {
+          "text": "Christianity",
+          "href": "https://en.wikipedia.org/wiki/Christianity_in_Italy"
+        },
+        {
+          "text": "irreligion",
+          "href": "https://en.wikipedia.org/wiki/Irreligion_in_Italy"
+        },
+        {
+          "text": "other",
+          "href": "https://en.wikipedia.org/wiki/Religion_in_Italy"
+        }
+      ],
+      "sub_items": [
+        "84% Christianity",
+        "12% irreligion",
+        "4% other"
+      ]
+    },
+    {
+      "label": "Demonym",
+      "value": "Italian",
+      "links": [
+        {
+          "text": "Italian",
+          "href": "https://en.wikipedia.org/wiki/Italian_people"
+        }
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Unitary parliamentary republic",
+      "links": [
+        {
+          "text": "Unitary parliamentary republic",
+          "href": "https://en.wikipedia.org/wiki/Unitary_parliamentary_republic"
+        }
+      ]
+    },
+    {
+      "label": "• President",
+      "value": "Sergio Mattarella",
+      "links": [
+        {
+          "text": "Sergio Mattarella",
+          "href": "https://en.wikipedia.org/wiki/Sergio_Mattarella"
+        }
+      ]
+    },
+    {
+      "label": "• Prime Minister",
+      "value": "Giorgia Meloni",
+      "links": [
+        {
+          "text": "Giorgia Meloni",
+          "href": "https://en.wikipedia.org/wiki/Giorgia_Meloni"
+        }
+      ]
+    },
+    {
+      "label": "• President of the Senate",
+      "value": "Ignazio La Russa",
+      "links": [
+        {
+          "text": "Ignazio La Russa",
+          "href": "https://en.wikipedia.org/wiki/Ignazio_La_Russa"
+        }
+      ]
+    },
+    {
+      "label": "• President of the Chamber of Deputies",
+      "value": "Lorenzo Fontana",
+      "links": [
+        {
+          "text": "Lorenzo Fontana",
+          "href": "https://en.wikipedia.org/wiki/Lorenzo_Fontana"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "Parliament",
+      "links": [
+        {
+          "text": "Parliament",
+          "href": "https://en.wikipedia.org/wiki/Italian_Parliament"
+        }
+      ]
+    },
+    {
+      "label": "• Upper house",
+      "value": "Senate of the Republic",
+      "links": [
+        {
+          "text": "Senate of the Republic",
+          "href": "https://en.wikipedia.org/wiki/Senate_of_the_Republic_(Italy)"
+        }
+      ]
+    },
+    {
+      "label": "• Lower house",
+      "value": "Chamber of Deputies",
+      "links": [
+        {
+          "text": "Chamber of Deputies",
+          "href": "https://en.wikipedia.org/wiki/Chamber_of_Deputies_(Italy)"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Historical polities",
+      "rows": [
+        {
+          "label": "• Italic peoples",
+          "value": "Antiquity"
+        },
+        {
+          "label": "• Ancient Rome Roman Italy",
+          "value": "753 BC–476 AD"
+        },
+        {
+          "label": "• Roman-Barbarian kingdoms Byzantine Italy",
+          "value": "Early Middle Ages"
+        },
+        {
+          "label": "• Italian city-states and regional polities",
+          "value": "Middle Ages and Modern period",
+          "links": [
+            {
+              "text": "Middle Ages",
+              "href": "https://en.wikipedia.org/wiki/Italy_in_the_Middle_Ages"
+            }
+          ]
+        },
+        {
+          "label": "• Kingdom of Italy",
+          "value": "1861–1946 17 March 1861 ; 165 years ago"
+        },
+        {
+          "label": "• Italian Empire",
+          "value": "1882–1960"
+        },
+        {
+          "label": "• Italian Republic",
+          "value": "2 June 1946 ; 79 years ago"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "301,340 km (116,350 sq mi) ( 71st )",
+          "links": [
+            {
+              "text": "71st",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "1.24 (2015)"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2025 estimate",
+          "value": "58,915,561 ( 25th )",
+          "links": [
+            {
+              "text": "25th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• Density",
+          "value": "195.5/km (506.3/sq mi) ( 72nd )",
+          "links": [
+            {
+              "text": "72nd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$3.719 trillion ( 11th )",
+          "links": [
+            {
+              "text": "11th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$63,076 ( 29th )",
+          "links": [
+            {
+              "text": "29th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$2.423 trillion ( 8th )",
+          "links": [
+            {
+              "text": "8th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$41,091 ( 27th )",
+          "links": [
+            {
+              "text": "27th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "Gini (2020)",
+          "value": "32.5 medium inequality"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.915 very high ( 29th )",
+          "links": [
+            {
+              "text": "29th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "Euro (€) ( EUR )",
+          "links": [
+            {
+              "text": "Euro",
+              "href": "https://en.wikipedia.org/wiki/Euro"
+            },
+            {
+              "text": "EUR",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC +1 ( CET )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "CET",
+              "href": "https://en.wikipedia.org/wiki/Central_European_Time"
+            }
+          ]
+        },
+        {
+          "label": "• Summer ( DST )",
+          "value": "UTC +2 ( CEST )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "CEST",
+              "href": "https://en.wikipedia.org/wiki/Central_European_Summer_Time"
+            }
+          ]
+        },
+        {
+          "label": "Calling code",
+          "value": "+39",
+          "links": [
+            {
+              "text": "+39",
+              "href": "https://en.wikipedia.org/wiki/%2B39"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "IT",
+          "links": [
+            {
+              "text": "IT",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:IT"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".it",
+          "links": [
+            {
+              "text": ".it",
+              "href": "https://en.wikipedia.org/wiki/.it"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

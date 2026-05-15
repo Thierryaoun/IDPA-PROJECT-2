@@ -1,0 +1,449 @@
+{
+  "country": "United Republic of Tanzania",
+  "infobox_title": "United Republic of Tanzania Jamhuri ya Muungano wa Tanzania ( Swahili )",
+  "data": [
+    {
+      "label": "Capital",
+      "value": "Dodoma 6°10′S 35°44′E ﻿ / ﻿ 6.167°S 35.733°E",
+      "links": [
+        {
+          "text": "Dodoma",
+          "href": "https://en.wikipedia.org/wiki/Dodoma"
+        },
+        {
+          "text": "6°10′S35°44′E﻿ / ﻿6.167°S 35.733°E",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Tanzania&params=6_10_S_35_44_E_type:city"
+        }
+      ]
+    },
+    {
+      "label": "Largest city",
+      "value": "Dar es Salaam 06°48′S 39°16′E ﻿ / ﻿ 6.800°S 39.267°E",
+      "links": [
+        {
+          "text": "Dar es Salaam",
+          "href": "https://en.wikipedia.org/wiki/Dar_es_Salaam"
+        },
+        {
+          "text": "06°48′S39°16′E﻿ / ﻿6.800°S 39.267°E",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Tanzania&params=06_48_S_39_16_E_region:TZ-02_type:city(6,400,000)"
+        }
+      ]
+    },
+    {
+      "label": "Official languages",
+      "value": "Swahili English",
+      "links": [
+        {
+          "text": "Swahili",
+          "href": "https://en.wikipedia.org/wiki/Swahili_language"
+        },
+        {
+          "text": "English",
+          "href": "https://en.wikipedia.org/wiki/English_language"
+        }
+      ],
+      "sub_items": [
+        "Swahili",
+        "English"
+      ]
+    },
+    {
+      "label": "National language",
+      "value": "Swahili",
+      "links": [
+        {
+          "text": "Swahili",
+          "href": "https://en.wikipedia.org/wiki/Swahili_language"
+        }
+      ]
+    },
+    {
+      "label": "Other languages",
+      "value": "Over 100 languages , including (1m+): Shambala Sukuma Nyamwezi Chagga Ha Bena Gogo Haya Dholuo Iraqw Makonde Nyaturu Maasai Jita Pare",
+      "links": [
+        {
+          "text": "Over 100 languages",
+          "href": "https://en.wikipedia.org/wiki/Languages_of_Tanzania"
+        },
+        {
+          "text": "Shambala",
+          "href": "https://en.wikipedia.org/wiki/Shambala_language"
+        },
+        {
+          "text": "Sukuma",
+          "href": "https://en.wikipedia.org/wiki/Sukuma_language"
+        },
+        {
+          "text": "Nyamwezi",
+          "href": "https://en.wikipedia.org/wiki/Nyamwezi_language"
+        },
+        {
+          "text": "Chagga",
+          "href": "https://en.wikipedia.org/wiki/Chaga_languages"
+        },
+        {
+          "text": "Ha",
+          "href": "https://en.wikipedia.org/wiki/Ha_language"
+        },
+        {
+          "text": "Bena",
+          "href": "https://en.wikipedia.org/wiki/Bena_language"
+        },
+        {
+          "text": "Gogo",
+          "href": "https://en.wikipedia.org/wiki/Gogo_language"
+        },
+        {
+          "text": "Haya",
+          "href": "https://en.wikipedia.org/wiki/Haya_language"
+        },
+        {
+          "text": "Dholuo",
+          "href": "https://en.wikipedia.org/wiki/Dholuo"
+        },
+        {
+          "text": "Iraqw",
+          "href": "https://en.wikipedia.org/wiki/Iraqw_language"
+        },
+        {
+          "text": "Makonde",
+          "href": "https://en.wikipedia.org/wiki/Makonde_language"
+        },
+        {
+          "text": "Nyaturu",
+          "href": "https://en.wikipedia.org/wiki/Nyaturu_language"
+        },
+        {
+          "text": "Maasai",
+          "href": "https://en.wikipedia.org/wiki/Maasai_language"
+        },
+        {
+          "text": "Jita",
+          "href": "https://en.wikipedia.org/wiki/Jita_language"
+        },
+        {
+          "text": "Pare",
+          "href": "https://en.wikipedia.org/wiki/Pare_language"
+        }
+      ],
+      "sub_items": [
+        "Shambala",
+        "Sukuma",
+        "Nyamwezi",
+        "Chagga",
+        "Ha",
+        "Bena",
+        "Gogo",
+        "Haya",
+        "Dholuo",
+        "Iraqw",
+        "Makonde",
+        "Nyaturu",
+        "Maasai",
+        "Jita",
+        "Pare"
+      ]
+    },
+    {
+      "label": "Religion (2020)",
+      "value": "63.1% Christianity 34.1% Islam 1.5% no religion 1.2% traditional faiths 0.1% others",
+      "links": [
+        {
+          "text": "Christianity",
+          "href": "https://en.wikipedia.org/wiki/Christianity_in_Tanzania"
+        },
+        {
+          "text": "Islam",
+          "href": "https://en.wikipedia.org/wiki/Islam_in_Tanzania"
+        },
+        {
+          "text": "no religion",
+          "href": "https://en.wikipedia.org/wiki/Irreligion"
+        },
+        {
+          "text": "traditional faiths",
+          "href": "https://en.wikipedia.org/wiki/Traditional_African_religions"
+        }
+      ],
+      "sub_items": [
+        "63.1% Christianity",
+        "34.1% Islam",
+        "1.5% no religion",
+        "1.2% traditional faiths",
+        "0.1% others"
+      ]
+    },
+    {
+      "label": "Demonym",
+      "value": "Tanzanian",
+      "links": [
+        {
+          "text": "Tanzanian",
+          "href": "https://en.wikipedia.org/wiki/Demographics_of_Tanzania"
+        }
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Unitary dominant-party presidential republic",
+      "links": [
+        {
+          "text": "presidential republic",
+          "href": "https://en.wikipedia.org/wiki/Presidential_system"
+        }
+      ]
+    },
+    {
+      "label": "• President",
+      "value": "Samia Suluhu Hassan",
+      "links": [
+        {
+          "text": "Samia Suluhu Hassan",
+          "href": "https://en.wikipedia.org/wiki/Samia_Suluhu_Hassan"
+        }
+      ]
+    },
+    {
+      "label": "• Vice-President",
+      "value": "Emmanuel Nchimbi",
+      "links": [
+        {
+          "text": "Emmanuel Nchimbi",
+          "href": "https://en.wikipedia.org/wiki/Emmanuel_Nchimbi"
+        }
+      ]
+    },
+    {
+      "label": "• Prime Minister",
+      "value": "Mwigulu Nchemba",
+      "links": [
+        {
+          "text": "Mwigulu Nchemba",
+          "href": "https://en.wikipedia.org/wiki/Mwigulu_Nchemba"
+        }
+      ]
+    },
+    {
+      "label": "• Speaker",
+      "value": "Mussa Zungu",
+      "links": [
+        {
+          "text": "Mussa Zungu",
+          "href": "https://en.wikipedia.org/wiki/Mussa_Zungu"
+        }
+      ]
+    },
+    {
+      "label": "• Chief Justice",
+      "value": "George Mcheche Masaju",
+      "links": [
+        {
+          "text": "George Mcheche Masaju",
+          "href": "https://en.wikipedia.org/wiki/George_Mcheche_Masaju"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "National Assembly",
+      "links": [
+        {
+          "text": "National Assembly",
+          "href": "https://en.wikipedia.org/wiki/National_Assembly_(Tanzania)"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Independence from the United Kingdom",
+      "rows": [
+        {
+          "label": "• Tanganyika",
+          "value": "9 December 1961"
+        },
+        {
+          "label": "• Zanzibar",
+          "value": "10 December 1963"
+        },
+        {
+          "label": "• Unification of Tanganyika and Zanzibar",
+          "value": "26 April 1964"
+        },
+        {
+          "label": "• Current constitution",
+          "value": "25 April 1977"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "947,303 km (365,756 sq mi) ( 30th )",
+          "links": [
+            {
+              "text": "30th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "6.4"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2024 estimate",
+          "value": "67,462,121 ( 22nd )",
+          "links": [
+            {
+              "text": "22nd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• 2022 census",
+          "value": "61,741,120"
+        },
+        {
+          "label": "• Density",
+          "value": "65.2/km (168.9/sq mi) ( 147th )",
+          "links": [
+            {
+              "text": "147th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$293.59 billion ( 69th )",
+          "links": [
+            {
+              "text": "69th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$4,370 ( 158th )",
+          "links": [
+            {
+              "text": "158th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$88.980 billion ( 80th )",
+          "links": [
+            {
+              "text": "80th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$1,280 ( 162nd )",
+          "links": [
+            {
+              "text": "162nd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "Gini (2017)",
+          "value": "40.5 medium inequality"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.555 medium ( 165th )",
+          "links": [
+            {
+              "text": "165th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "Tanzanian shilling ( TZS )",
+          "links": [
+            {
+              "text": "Tanzanian shilling",
+              "href": "https://en.wikipedia.org/wiki/Tanzanian_shilling"
+            },
+            {
+              "text": "TZS",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC +3 ( East Africa Time )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "East Africa Time",
+              "href": "https://en.wikipedia.org/wiki/East_Africa_Time"
+            }
+          ]
+        },
+        {
+          "label": "Calling code",
+          "value": "+255",
+          "links": [
+            {
+              "text": "+255",
+              "href": "https://en.wikipedia.org/wiki/%2B255"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "TZ",
+          "links": [
+            {
+              "text": "TZ",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:TZ"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".tz",
+          "links": [
+            {
+              "text": ".tz",
+              "href": "https://en.wikipedia.org/wiki/.tz"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,394 @@
+{
+  "label": "country",
+  "children": [
+    {
+      "label": "name",
+      "children": [
+        {
+          "label": "guinea"
+        }
+      ]
+    },
+    {
+      "label": "infobox_title",
+      "children": [
+        {
+          "label": "republic of guinea république de guinée 𞤸𞤢𞤱𞤼𞤢𞥄𞤲𞤣𞤭 𞤺𞤭𞤲𞤫 ߖߌ߬ߣߍ߫ ߞߊ ߝߊߛߏߖߊߡߊߣߊ"
+        }
+      ]
+    },
+    {
+      "label": "capital_and_largest_city",
+      "children": [
+        {
+          "label": "conakry / 9."
+        }
+      ]
+    },
+    {
+      "label": "official_languages",
+      "children": [
+        {
+          "label": "french"
+        }
+      ]
+    },
+    {
+      "label": "spoken_languages",
+      "children": [
+        {
+          "label": "guinea-creole"
+        },
+        {
+          "label": "english"
+        },
+        {
+          "label": "french"
+        },
+        {
+          "label": "arabic"
+        },
+        {
+          "label": "portuguese"
+        },
+        {
+          "label": "fula"
+        },
+        {
+          "label": "malinké"
+        },
+        {
+          "label": "susu"
+        },
+        {
+          "label": "kissi"
+        },
+        {
+          "label": "kpelle"
+        },
+        {
+          "label": "toma"
+        },
+        {
+          "label": "badyara"
+        },
+        {
+          "label": "baga"
+        },
+        {
+          "label": "bambara"
+        },
+        {
+          "label": "bassari"
+        },
+        {
+          "label": "dan"
+        },
+        {
+          "label": "dyula"
+        },
+        {
+          "label": "landoma"
+        },
+        {
+          "label": "limba"
+        },
+        {
+          "label": "maninka"
+        },
+        {
+          "label": "mano"
+        },
+        {
+          "label": "pular"
+        },
+        {
+          "label": "sua"
+        },
+        {
+          "label": "wamey"
+        },
+        {
+          "label": "yalunka"
+        },
+        {
+          "label": "zialo"
+        }
+      ]
+    },
+    {
+      "label": "ethnic_groups_2018_est",
+      "children": [
+        {
+          "label": "33.4% fula"
+        },
+        {
+          "label": "29.4% mandinka"
+        },
+        {
+          "label": "21.2% susu"
+        },
+        {
+          "label": "7.8% kpelle"
+        },
+        {
+          "label": "6.2% kissi"
+        },
+        {
+          "label": "1.6% loma"
+        },
+        {
+          "label": "0.4% others"
+        }
+      ]
+    },
+    {
+      "label": "religion_2022",
+      "children": [
+        {
+          "label": "85.2% islam"
+        },
+        {
+          "label": "13.4% christianity"
+        },
+        {
+          "label": "0.2% animism"
+        },
+        {
+          "label": "1.2% none"
+        }
+      ]
+    },
+    {
+      "label": "demonym",
+      "children": [
+        {
+          "label": "guinean"
+        }
+      ]
+    },
+    {
+      "label": "government",
+      "children": [
+        {
+          "label": "unitary presidential republic"
+        }
+      ]
+    },
+    {
+      "label": "president",
+      "children": [
+        {
+          "label": "mamady doumbouya"
+        }
+      ]
+    },
+    {
+      "label": "prime_minister",
+      "children": [
+        {
+          "label": "bah oury"
+        }
+      ]
+    },
+    {
+      "label": "legislature",
+      "children": [
+        {
+          "label": "national council of the transition"
+        }
+      ]
+    },
+    {
+      "label": "independence",
+      "children": [
+        {
+          "label": "from_france",
+          "children": [
+            {
+              "label": "2 october 1958"
+            }
+          ]
+        },
+        {
+          "label": "republic",
+          "children": [
+            {
+              "label": "2 october 1958"
+            }
+          ]
+        },
+        {
+          "label": "4th_constitution",
+          "children": [
+            {
+              "label": "2 october 1958"
+            }
+          ]
+        },
+        {
+          "label": "second_republic_day",
+          "children": [
+            {
+              "label": "3 april 1984"
+            }
+          ]
+        },
+        {
+          "label": "2021_guinean_coup_d_état",
+          "children": [
+            {
+              "label": "5 september 2021"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "area",
+      "children": [
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "245,857 km"
+            }
+          ]
+        },
+        {
+          "label": "water",
+          "children": [
+            {
+              "label": "negligible"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "population",
+      "children": [
+        {
+          "label": "2024_estimate",
+          "children": [
+            {
+              "label": "13,986,179"
+            }
+          ]
+        },
+        {
+          "label": "density",
+          "children": [
+            {
+              "label": "40.9/km"
+            }
+          ]
+        },
+        {
+          "label": "gdp_ppp",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$75.050 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$4,075"
+            }
+          ]
+        },
+        {
+          "label": "gdp_nominal",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$30.090 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$1,670"
+            }
+          ]
+        },
+        {
+          "label": "gini_2012",
+          "children": [
+            {
+              "label": "33.7 medium inequality"
+            }
+          ]
+        },
+        {
+          "label": "hdi_2023",
+          "children": [
+            {
+              "label": "0.500 low"
+            }
+          ]
+        },
+        {
+          "label": "currency",
+          "children": [
+            {
+              "label": "guinean franc"
+            }
+          ]
+        },
+        {
+          "label": "time_zone",
+          "children": [
+            {
+              "label": "utc ±00:00"
+            }
+          ]
+        },
+        {
+          "label": "calling_code",
+          "children": [
+            {
+              "label": "+224"
+            }
+          ]
+        },
+        {
+          "label": "iso_3166_code",
+          "children": [
+            {
+              "label": "gn"
+            }
+          ]
+        },
+        {
+          "label": "internet_tld",
+          "children": [
+            {
+              "label": ".gn"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

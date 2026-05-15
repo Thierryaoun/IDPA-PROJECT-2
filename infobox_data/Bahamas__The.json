@@ -1,0 +1,353 @@
+{
+  "country": "Bahamas, The",
+  "infobox_title": "Commonwealth of the Bahamas",
+  "data": [
+    {
+      "label": "Capital and largest city",
+      "value": "Nassau 25°04′41″N 77°20′19″W ﻿ / ﻿ 25.07806°N 77.33861°W",
+      "links": [
+        {
+          "text": "Nassau",
+          "href": "https://en.wikipedia.org/wiki/Nassau,_The_Bahamas"
+        },
+        {
+          "text": "25°04′41″N77°20′19″W﻿ / ﻿25.07806°N 77.33861°W",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=The_Bahamas&params=25_04_41_N_77_20_19_W_type:city_region:BS-NP"
+        }
+      ]
+    },
+    {
+      "label": "Official languages",
+      "value": "English",
+      "links": [
+        {
+          "text": "English",
+          "href": "https://en.wikipedia.org/wiki/Bahamian_English"
+        }
+      ]
+    },
+    {
+      "label": "Ethnic groups (2020)",
+      "value": "90.6% African 4.7% White 2.1% mixed 1.9% other 0.7% unspecified",
+      "links": [
+        {
+          "text": "African",
+          "href": "https://en.wikipedia.org/wiki/Afro-Bahamians"
+        },
+        {
+          "text": "White",
+          "href": "https://en.wikipedia.org/wiki/White_Bahamian"
+        },
+        {
+          "text": "mixed",
+          "href": "https://en.wikipedia.org/wiki/Mixed_Race"
+        },
+        {
+          "text": "other",
+          "href": "https://en.wikipedia.org/wiki/Demographics_of_the_Bahamas#Ethnic_groups"
+        }
+      ],
+      "sub_items": [
+        "90.6% African",
+        "4.7% White",
+        "2.1% mixed",
+        "1.9% other",
+        "0.7% unspecified"
+      ]
+    },
+    {
+      "label": "Religion (2020)",
+      "value": "93.0% Christianity 75.1% Protestantism 17.9% other Christian 4.5% no religion 1.9% folk religions 0.6% other",
+      "links": [
+        {
+          "text": "Christianity",
+          "href": "https://en.wikipedia.org/wiki/Christianity"
+        },
+        {
+          "text": "Protestantism",
+          "href": "https://en.wikipedia.org/wiki/Protestantism"
+        },
+        {
+          "text": "Christian",
+          "href": "https://en.wikipedia.org/wiki/List_of_Christian_denominations"
+        },
+        {
+          "text": "no religion",
+          "href": "https://en.wikipedia.org/wiki/Irreligion"
+        },
+        {
+          "text": "folk religions",
+          "href": "https://en.wikipedia.org/wiki/Folk_religion"
+        }
+      ],
+      "sub_items": [
+        "93.0% Christianity 75.1% Protestantism 17.9% other Christian",
+        "93.0% Christianity 75.1% Protestantism 17.9% other Christian",
+        "75.1% Protestantism",
+        "17.9% other Christian",
+        "4.5% no religion",
+        "1.9% folk religions",
+        "0.6% other"
+      ]
+    },
+    {
+      "label": "Demonym",
+      "value": "Bahamian",
+      "links": [
+        {
+          "text": "Bahamian",
+          "href": "https://en.wikipedia.org/wiki/Bahamians"
+        }
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Unitary parliamentary constitutional monarchy",
+      "links": [
+        {
+          "text": "constitutional monarchy",
+          "href": "https://en.wikipedia.org/wiki/Constitutional_monarchy"
+        }
+      ]
+    },
+    {
+      "label": "• Monarch",
+      "value": "Charles III",
+      "links": [
+        {
+          "text": "Charles III",
+          "href": "https://en.wikipedia.org/wiki/Charles_III"
+        }
+      ]
+    },
+    {
+      "label": "• Governor-General",
+      "value": "Dame Cynthia A. Pratt",
+      "links": [
+        {
+          "text": "Dame Cynthia A. Pratt",
+          "href": "https://en.wikipedia.org/wiki/Dame_Cynthia_A._Pratt"
+        }
+      ]
+    },
+    {
+      "label": "• Prime Minister",
+      "value": "Philip Davis",
+      "links": [
+        {
+          "text": "Philip Davis",
+          "href": "https://en.wikipedia.org/wiki/Philip_Davis_(Bahamian_politician)"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "Parliament",
+      "links": [
+        {
+          "text": "Parliament",
+          "href": "https://en.wikipedia.org/wiki/Parliament_of_the_Bahamas"
+        }
+      ]
+    },
+    {
+      "label": "• Upper house",
+      "value": "Senate",
+      "links": [
+        {
+          "text": "Senate",
+          "href": "https://en.wikipedia.org/wiki/Senate_of_the_Bahamas"
+        }
+      ]
+    },
+    {
+      "label": "• Lower house",
+      "value": "House of Assembly",
+      "links": [
+        {
+          "text": "House of Assembly",
+          "href": "https://en.wikipedia.org/wiki/House_of_Assembly_of_the_Bahamas"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Independence from the United Kingdom",
+      "rows": [
+        {
+          "label": "• Realm",
+          "value": "10 July 1973"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "13,943 km (5,383 sq mi) ( 155th )",
+          "links": [
+            {
+              "text": "155th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "28%"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2023 census",
+          "value": "412,628"
+        },
+        {
+          "label": "• Density",
+          "value": "25.21/km (65.3/sq mi) ( 181st )",
+          "links": [
+            {
+              "text": "181st",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2024 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$18.989 billion ( 153rd )",
+          "links": [
+            {
+              "text": "153rd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$46,524 ( 46th )",
+          "links": [
+            {
+              "text": "46th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2024 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$14.390 billion ( 146th )",
+          "links": [
+            {
+              "text": "146th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$35,257 ( 29th )",
+          "links": [
+            {
+              "text": "29th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.820 very high ( 66th )",
+          "links": [
+            {
+              "text": "66th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "Bahamian dollar (BSD)",
+          "links": [
+            {
+              "text": "Bahamian dollar",
+              "href": "https://en.wikipedia.org/wiki/Bahamian_dollar"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC −05:00 ( EST )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "EST",
+              "href": "https://en.wikipedia.org/wiki/Eastern_Time_Zone"
+            }
+          ]
+        },
+        {
+          "label": "• Summer ( DST )",
+          "value": "UTC −04:00 ( EDT )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "EDT",
+              "href": "https://en.wikipedia.org/wiki/Eastern_Time_Zone"
+            }
+          ]
+        },
+        {
+          "label": "Date format",
+          "value": "dd.mm.yyyy ( CE )",
+          "links": [
+            {
+              "text": "CE",
+              "href": "https://en.wikipedia.org/wiki/Common_Era"
+            }
+          ]
+        },
+        {
+          "label": "Calling code",
+          "value": "+1"
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "BS",
+          "links": [
+            {
+              "text": "BS",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:BS"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".bs",
+          "links": [
+            {
+              "text": ".bs",
+              "href": "https://en.wikipedia.org/wiki/.bs"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

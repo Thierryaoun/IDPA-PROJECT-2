@@ -1,0 +1,323 @@
+{
+  "label": "country",
+  "children": [
+    {
+      "label": "name",
+      "children": [
+        {
+          "label": "france"
+        }
+      ]
+    },
+    {
+      "label": "infobox_title",
+      "children": [
+        {
+          "label": "french republic république française"
+        }
+      ]
+    },
+    {
+      "label": "capital_and_largest_city",
+      "children": [
+        {
+          "label": "paris / 48."
+        }
+      ]
+    },
+    {
+      "label": "official_language_and_national_language",
+      "children": [
+        {
+          "label": "french"
+        }
+      ]
+    },
+    {
+      "label": "regional_languages",
+      "children": [
+        {
+          "label": "see languages of france"
+        }
+      ]
+    },
+    {
+      "label": "religion_2021",
+      "children": [
+        {
+          "label": "50% christianity"
+        },
+        {
+          "label": "33% irreligion"
+        },
+        {
+          "label": "4% islam"
+        },
+        {
+          "label": "4% other religions"
+        }
+      ]
+    },
+    {
+      "label": "demonym",
+      "children": [
+        {
+          "label": "french"
+        }
+      ]
+    },
+    {
+      "label": "government",
+      "children": [
+        {
+          "label": "unitary semi-presidential republic"
+        }
+      ]
+    },
+    {
+      "label": "president",
+      "children": [
+        {
+          "label": "emmanuel macron"
+        }
+      ]
+    },
+    {
+      "label": "prime_minister",
+      "children": [
+        {
+          "label": "sébastien lecornu"
+        }
+      ]
+    },
+    {
+      "label": "president_of_the_senate",
+      "children": [
+        {
+          "label": "gérard larcher"
+        }
+      ]
+    },
+    {
+      "label": "president_of_the_national_assembly",
+      "children": [
+        {
+          "label": "yaël braun-pivet"
+        }
+      ]
+    },
+    {
+      "label": "legislature",
+      "children": [
+        {
+          "label": "parliament"
+        }
+      ]
+    },
+    {
+      "label": "upper_house",
+      "children": [
+        {
+          "label": "senate"
+        }
+      ]
+    },
+    {
+      "label": "lower_house",
+      "children": [
+        {
+          "label": "national assembly"
+        }
+      ]
+    },
+    {
+      "label": "area",
+      "children": [
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "632,702.3 km"
+            }
+          ]
+        },
+        {
+          "label": "water",
+          "children": [
+            {
+              "label": "0.86"
+            }
+          ]
+        },
+        {
+          "label": "metropolitan_france_dgcl",
+          "children": [
+            {
+              "label": "543,941 km"
+            }
+          ]
+        },
+        {
+          "label": "metropolitan_france_insee",
+          "children": [
+            {
+              "label": "543,908.3 km"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "population",
+      "children": [
+        {
+          "label": "january_2026_estimate",
+          "children": [
+            {
+              "label": "69,081,996"
+            }
+          ]
+        },
+        {
+          "label": "density",
+          "children": [
+            {
+              "label": "109/km"
+            }
+          ]
+        },
+        {
+          "label": "metropolitan_france_estimate_as_of_january_2026",
+          "children": [
+            {
+              "label": "66,792,845"
+            }
+          ]
+        },
+        {
+          "label": "density",
+          "children": [
+            {
+              "label": "123/km"
+            }
+          ]
+        },
+        {
+          "label": "gdp_ppp",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$4.504 trillion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$65,626"
+            }
+          ]
+        },
+        {
+          "label": "gdp_nominal",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$3.211 trillion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$46,792"
+            }
+          ]
+        },
+        {
+          "label": "gini_2022",
+          "children": [
+            {
+              "label": "29.8 low inequality"
+            }
+          ]
+        },
+        {
+          "label": "hdi_2023",
+          "children": [
+            {
+              "label": "0.920 very high"
+            }
+          ]
+        },
+        {
+          "label": "currency",
+          "children": [
+            {
+              "label": "euro"
+            },
+            {
+              "label": "cfp franc"
+            }
+          ]
+        },
+        {
+          "label": "time_zone",
+          "children": [
+            {
+              "label": "utc +1"
+            }
+          ]
+        },
+        {
+          "label": "summer_dst",
+          "children": [
+            {
+              "label": "utc +2"
+            }
+          ]
+        },
+        {
+          "label": "calling_code",
+          "children": [
+            {
+              "label": "+33"
+            }
+          ]
+        },
+        {
+          "label": "iso_3166_code",
+          "children": [
+            {
+              "label": "fr"
+            }
+          ]
+        },
+        {
+          "label": "internet_tld",
+          "children": [
+            {
+              "label": ".fr"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

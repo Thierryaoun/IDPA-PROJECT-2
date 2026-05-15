@@ -1,0 +1,510 @@
+{
+  "country": "Zimbabwe",
+  "infobox_title": "Republic of Zimbabwe Name in national languages Shona : Nyika yeZimbabwe Ndebele : Ilizwe laseZimbabwe Chewa : Dziko la Zimbabwe Tswana : Lefatshe la Zimbabwe Xitsonga : Tiko ra Zimbabwe Venda : Riphabuḽiki ya Zimbabwe Xhosa : IRiphabhulikhi yaseZimbabwe Sotho : Rephabliki ea Zimbabwe Ndau : Nyika yeZimbabwe",
+  "data": [
+    {
+      "label": "Shona :",
+      "value": "Nyika yeZimbabwe"
+    },
+    {
+      "label": "Shona :",
+      "value": "Nyika yeZimbabwe"
+    },
+    {
+      "label": "Ndebele :",
+      "value": "Ilizwe laseZimbabwe"
+    },
+    {
+      "label": "Chewa :",
+      "value": "Dziko la Zimbabwe"
+    },
+    {
+      "label": "Tswana :",
+      "value": "Lefatshe la Zimbabwe"
+    },
+    {
+      "label": "Xitsonga :",
+      "value": "Tiko ra Zimbabwe"
+    },
+    {
+      "label": "Venda :",
+      "value": "Riphabuḽiki ya Zimbabwe"
+    },
+    {
+      "label": "Xhosa :",
+      "value": "IRiphabhulikhi yaseZimbabwe"
+    },
+    {
+      "label": "Sotho :",
+      "value": "Rephabliki ea Zimbabwe"
+    },
+    {
+      "label": "Ndau :",
+      "value": "Nyika yeZimbabwe"
+    },
+    {
+      "label": "Capital and largest city",
+      "value": "Harare 17°49′45″S 31°03′08″E ﻿ / ﻿ 17.82917°S 31.05222°E",
+      "links": [
+        {
+          "text": "Harare",
+          "href": "https://en.wikipedia.org/wiki/Harare"
+        },
+        {
+          "text": "17°49′45″S31°03′08″E﻿ / ﻿17.82917°S 31.05222°E",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Zimbabwe&params=17_49_45_S_31_03_08_E_type:city_region:ZW"
+        }
+      ]
+    },
+    {
+      "label": "Official languages",
+      "value": "16 languages : Chewa Chibarwe English Kalanga Khoisan Nambya Ndau Ndebele Shangani Shona Sotho Tonga Tswana Venda Xhosa Zimbabwean sign language",
+      "links": [
+        {
+          "text": "16 languages",
+          "href": "https://en.wikipedia.org/wiki/Languages_of_Zimbabwe"
+        },
+        {
+          "text": "Chewa",
+          "href": "https://en.wikipedia.org/wiki/Chewa_language"
+        },
+        {
+          "text": "Chibarwe",
+          "href": "https://en.wikipedia.org/wiki/Chibarwe"
+        },
+        {
+          "text": "English",
+          "href": "https://en.wikipedia.org/wiki/Zimbabwean_English"
+        },
+        {
+          "text": "Kalanga",
+          "href": "https://en.wikipedia.org/wiki/Kalanga_language"
+        },
+        {
+          "text": "Khoisan",
+          "href": "https://en.wikipedia.org/wiki/Tjwao_dialect"
+        },
+        {
+          "text": "Nambya",
+          "href": "https://en.wikipedia.org/wiki/Nambya_language"
+        },
+        {
+          "text": "Ndau",
+          "href": "https://en.wikipedia.org/wiki/Ndau_language"
+        },
+        {
+          "text": "Ndebele",
+          "href": "https://en.wikipedia.org/wiki/Northern_Ndebele_language"
+        },
+        {
+          "text": "Shangani",
+          "href": "https://en.wikipedia.org/wiki/Shangani_language"
+        },
+        {
+          "text": "Shona",
+          "href": "https://en.wikipedia.org/wiki/Shona_language"
+        },
+        {
+          "text": "Sotho",
+          "href": "https://en.wikipedia.org/wiki/Sotho_language"
+        },
+        {
+          "text": "Tonga",
+          "href": "https://en.wikipedia.org/wiki/Tonga_language_(Zambia_and_Zimbabwe)"
+        },
+        {
+          "text": "Tswana",
+          "href": "https://en.wikipedia.org/wiki/Tswana_language"
+        },
+        {
+          "text": "Venda",
+          "href": "https://en.wikipedia.org/wiki/Venda_language"
+        },
+        {
+          "text": "Xhosa",
+          "href": "https://en.wikipedia.org/wiki/Xhosa_language"
+        },
+        {
+          "text": "Zimbabwean sign language",
+          "href": "https://en.wikipedia.org/wiki/Zimbabwean_sign_languages"
+        }
+      ],
+      "sub_items": [
+        "Chewa",
+        "Chibarwe",
+        "English",
+        "Kalanga",
+        "Khoisan",
+        "Nambya",
+        "Ndau",
+        "Ndebele",
+        "Shangani",
+        "Shona",
+        "Sotho",
+        "Tonga",
+        "Tswana",
+        "Venda",
+        "Xhosa",
+        "Zimbabwean sign language"
+      ]
+    },
+    {
+      "label": "Ethnic groups (2022 census)",
+      "value": "99.6% Black African 0.2% European 0.1% Coloured 0.1% other",
+      "links": [
+        {
+          "text": "Black African",
+          "href": "https://en.wikipedia.org/wiki/Demographics_of_Zimbabwe"
+        },
+        {
+          "text": "European",
+          "href": "https://en.wikipedia.org/wiki/White_Zimbabweans"
+        },
+        {
+          "text": "Coloured",
+          "href": "https://en.wikipedia.org/wiki/Coloured"
+        }
+      ],
+      "sub_items": [
+        "99.6% Black African",
+        "0.2% European",
+        "0.1% Coloured",
+        "0.1% other"
+      ]
+    },
+    {
+      "label": "Religion (2017)",
+      "value": "84.1% Christianity 69.2% Protestantism 14.9% other Christian 10.2% no religion 4.5% traditional faiths 1.2% others",
+      "links": [
+        {
+          "text": "Christianity",
+          "href": "https://en.wikipedia.org/wiki/Christianity_in_Zimbabwe"
+        },
+        {
+          "text": "Protestantism",
+          "href": "https://en.wikipedia.org/wiki/Protestantism"
+        },
+        {
+          "text": "Christian",
+          "href": "https://en.wikipedia.org/wiki/List_of_Christian_denominations"
+        },
+        {
+          "text": "no religion",
+          "href": "https://en.wikipedia.org/wiki/Irreligion_in_Africa"
+        },
+        {
+          "text": "traditional faiths",
+          "href": "https://en.wikipedia.org/wiki/Indigenous_religion_in_Zimbabwe"
+        }
+      ],
+      "sub_items": [
+        "84.1% Christianity 69.2% Protestantism 14.9% other Christian",
+        "84.1% Christianity 69.2% Protestantism 14.9% other Christian",
+        "69.2% Protestantism",
+        "14.9% other Christian",
+        "10.2% no religion",
+        "4.5% traditional faiths",
+        "1.2% others"
+      ]
+    },
+    {
+      "label": "Demonyms",
+      "value": "Zimbabwean Zimbo (colloquial)",
+      "sub_items": [
+        "Zimbabwean",
+        "Zimbo (colloquial)"
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Unitary presidential republic",
+      "links": [
+        {
+          "text": "presidential republic",
+          "href": "https://en.wikipedia.org/wiki/Presidential_system"
+        }
+      ]
+    },
+    {
+      "label": "• President",
+      "value": "Emmerson Mnangagwa",
+      "links": [
+        {
+          "text": "Emmerson Mnangagwa",
+          "href": "https://en.wikipedia.org/wiki/Emmerson_Mnangagwa"
+        }
+      ]
+    },
+    {
+      "label": "• First Vice-President",
+      "value": "Constantino Chiwenga",
+      "links": [
+        {
+          "text": "Constantino Chiwenga",
+          "href": "https://en.wikipedia.org/wiki/Constantino_Chiwenga"
+        }
+      ]
+    },
+    {
+      "label": "• Second Vice-President",
+      "value": "Kembo Mohadi",
+      "links": [
+        {
+          "text": "Kembo Mohadi",
+          "href": "https://en.wikipedia.org/wiki/Kembo_Mohadi"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "Parliament",
+      "links": [
+        {
+          "text": "Parliament",
+          "href": "https://en.wikipedia.org/wiki/Parliament_of_Zimbabwe"
+        }
+      ]
+    },
+    {
+      "label": "• Upper house",
+      "value": "Senate",
+      "links": [
+        {
+          "text": "Senate",
+          "href": "https://en.wikipedia.org/wiki/Senate_of_Zimbabwe"
+        }
+      ]
+    },
+    {
+      "label": "• Lower house",
+      "value": "National Assembly",
+      "links": [
+        {
+          "text": "National Assembly",
+          "href": "https://en.wikipedia.org/wiki/National_Assembly_of_Zimbabwe"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Independence from the United Kingdom",
+      "rows": [
+        {
+          "label": "• Declared",
+          "value": "11 November 1965"
+        },
+        {
+          "label": "• Republic",
+          "value": "2 March 1970"
+        },
+        {
+          "label": "• Zimbabwe Rhodesia",
+          "value": "1 June 1979"
+        },
+        {
+          "label": "• Independence recognised",
+          "value": "18 April 1980"
+        },
+        {
+          "label": "• Current constitution",
+          "value": "15 May 2013"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "390,757 km (150,872 sq mi) ( 60th )",
+          "links": [
+            {
+              "text": "60th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• February 2026 estimate",
+          "value": "17,166,852 ( 74th )",
+          "links": [
+            {
+              "text": "74th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• 2022 census",
+          "value": "15,178,957"
+        },
+        {
+          "label": "• Density",
+          "value": "45/km (116.5/sq mi) ( 179th )",
+          "links": [
+            {
+              "text": "179th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$93.870 billion ( 104th )",
+          "links": [
+            {
+              "text": "104th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$5,410 ( 151st )",
+          "links": [
+            {
+              "text": "151st",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$53.310 billion ( 101st )",
+          "links": [
+            {
+              "text": "101st",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$3,070 ( 152nd )",
+          "links": [
+            {
+              "text": "152nd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "Gini (2019)",
+          "value": "45.5 medium inequality"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.598 medium ( 153rd )",
+          "links": [
+            {
+              "text": "153rd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "De jure : Zimbabwe Gold ( ZWG ) De facto : United States dollar ( USD ) South African rand ( ZAR ); Other currencies",
+          "links": [
+            {
+              "text": "Zimbabwe Gold",
+              "href": "https://en.wikipedia.org/wiki/Zimbabwe_Gold"
+            },
+            {
+              "text": "ZWG",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            },
+            {
+              "text": "United States dollar",
+              "href": "https://en.wikipedia.org/wiki/United_States_dollar"
+            },
+            {
+              "text": "USD",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            },
+            {
+              "text": "South African rand",
+              "href": "https://en.wikipedia.org/wiki/South_African_rand"
+            },
+            {
+              "text": "ZAR",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ],
+          "sub_items": [
+            "Zimbabwe Gold ( ZWG )",
+            "United States dollar ( USD )",
+            "South African rand ( ZAR );",
+            "Other currencies"
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC +2 ( CAT )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "CAT",
+              "href": "https://en.wikipedia.org/wiki/Central_Africa_Time"
+            }
+          ]
+        },
+        {
+          "label": "Date format",
+          "value": "dd/mm/yyyy"
+        },
+        {
+          "label": "Calling code",
+          "value": "+263",
+          "links": [
+            {
+              "text": "+263",
+              "href": "https://en.wikipedia.org/wiki/%2B263"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "ZW",
+          "links": [
+            {
+              "text": "ZW",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:ZW"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".zw",
+          "links": [
+            {
+              "text": ".zw",
+              "href": "https://en.wikipedia.org/wiki/.zw"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

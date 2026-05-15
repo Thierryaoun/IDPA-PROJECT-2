@@ -1,0 +1,319 @@
+{
+  "label": "country",
+  "children": [
+    {
+      "label": "name",
+      "children": [
+        {
+          "label": "canada"
+        }
+      ]
+    },
+    {
+      "label": "infobox_title",
+      "children": [
+        {
+          "label": "canada"
+        }
+      ]
+    },
+    {
+      "label": "capital",
+      "children": [
+        {
+          "label": "ottawa / 45."
+        }
+      ]
+    },
+    {
+      "label": "largest_city",
+      "children": [
+        {
+          "label": "toronto"
+        }
+      ]
+    },
+    {
+      "label": "official_languages",
+      "children": [
+        {
+          "label": "english"
+        },
+        {
+          "label": "french"
+        }
+      ]
+    },
+    {
+      "label": "demonym",
+      "children": [
+        {
+          "label": "canadian"
+        }
+      ]
+    },
+    {
+      "label": "government",
+      "children": [
+        {
+          "label": "federal parliamentary constitutional monarchy"
+        }
+      ]
+    },
+    {
+      "label": "monarch",
+      "children": [
+        {
+          "label": "charles iii"
+        }
+      ]
+    },
+    {
+      "label": "governor_general",
+      "children": [
+        {
+          "label": "mary simon"
+        }
+      ]
+    },
+    {
+      "label": "prime_minister",
+      "children": [
+        {
+          "label": "mark carney"
+        }
+      ]
+    },
+    {
+      "label": "legislature",
+      "children": [
+        {
+          "label": "parliament"
+        }
+      ]
+    },
+    {
+      "label": "upper_house",
+      "children": [
+        {
+          "label": "senate"
+        }
+      ]
+    },
+    {
+      "label": "lower_house",
+      "children": [
+        {
+          "label": "house of commons"
+        }
+      ]
+    },
+    {
+      "label": "independence_from_the_united_kingdom",
+      "children": [
+        {
+          "label": "confederation",
+          "children": [
+            {
+              "label": "july 1, 1867"
+            }
+          ]
+        },
+        {
+          "label": "balfour_declaration",
+          "children": [
+            {
+              "label": "november 15, 1926"
+            }
+          ]
+        },
+        {
+          "label": "statute_of_westminster_1931",
+          "children": [
+            {
+              "label": "december 11, 1931"
+            }
+          ]
+        },
+        {
+          "label": "patriation",
+          "children": [
+            {
+              "label": "april 17, 1982"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "area",
+      "children": [
+        {
+          "label": "total_area",
+          "children": [
+            {
+              "label": "9,984,670 km"
+            }
+          ]
+        },
+        {
+          "label": "water",
+          "children": [
+            {
+              "label": "11.76"
+            }
+          ]
+        },
+        {
+          "label": "total_land_area",
+          "children": [
+            {
+              "label": "9,093,507 km"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "population",
+      "children": [
+        {
+          "label": "2025_q4_estimate",
+          "children": [
+            {
+              "label": "41,575,585"
+            }
+          ]
+        },
+        {
+          "label": "2021_census",
+          "children": [
+            {
+              "label": "36,991,981"
+            }
+          ]
+        },
+        {
+          "label": "density",
+          "children": [
+            {
+              "label": "4.2/km"
+            }
+          ]
+        },
+        {
+          "label": "gdp_ppp",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$2.723 trillion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$65,500"
+            }
+          ]
+        },
+        {
+          "label": "gdp_nominal",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$2.284 trillion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$54,935"
+            }
+          ]
+        },
+        {
+          "label": "gini_2024",
+          "children": [
+            {
+              "label": "29.2 low inequality"
+            }
+          ]
+        },
+        {
+          "label": "hdi_2023",
+          "children": [
+            {
+              "label": "0.939 very high"
+            }
+          ]
+        },
+        {
+          "label": "currency",
+          "children": [
+            {
+              "label": "canadian dollar"
+            }
+          ]
+        },
+        {
+          "label": "time_zone",
+          "children": [
+            {
+              "label": "utc −3.5 to −8"
+            }
+          ]
+        },
+        {
+          "label": "summer_dst",
+          "children": [
+            {
+              "label": "utc −2.5 to −7"
+            }
+          ]
+        },
+        {
+          "label": "calling_code",
+          "children": [
+            {
+              "label": "+1"
+            }
+          ]
+        },
+        {
+          "label": "iso_3166_code",
+          "children": [
+            {
+              "label": "ca"
+            }
+          ]
+        },
+        {
+          "label": "internet_tld",
+          "children": [
+            {
+              "label": ".ca"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

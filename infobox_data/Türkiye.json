@@ -1,0 +1,385 @@
+{
+  "country": "Türkiye",
+  "infobox_title": "Republic of Türkiye Türkiye Cumhuriyeti",
+  "data": [
+    {
+      "label": "Capital",
+      "value": "Ankara 39°55′N 32°51′E ﻿ / ﻿ 39.917°N 32.850°E",
+      "links": [
+        {
+          "text": "Ankara",
+          "href": "https://en.wikipedia.org/wiki/Ankara"
+        },
+        {
+          "text": "39°55′N32°51′E﻿ / ﻿39.917°N 32.850°E",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Turkey&params=39_55_N_32_51_E_type:city"
+        }
+      ]
+    },
+    {
+      "label": "Largest city",
+      "value": "Istanbul 41°1′N 28°57′E ﻿ / ﻿ 41.017°N 28.950°E",
+      "links": [
+        {
+          "text": "Istanbul",
+          "href": "https://en.wikipedia.org/wiki/Istanbul"
+        },
+        {
+          "text": "41°1′N28°57′E﻿ / ﻿41.017°N 28.950°E",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Turkey&params=41_1_N_28_57_E_"
+        }
+      ]
+    },
+    {
+      "label": "Official languages",
+      "value": "Turkish",
+      "links": [
+        {
+          "text": "Turkish",
+          "href": "https://en.wikipedia.org/wiki/Turkish_language"
+        }
+      ]
+    },
+    {
+      "label": "Spoken languages",
+      "value": "Predominantly Turkish List Kurdish Zaza Arabic Circassian Laz Greek Armenian Albanian Bosnian Bulgarian Other languages",
+      "links": [
+        {
+          "text": "Kurdish",
+          "href": "https://en.wikipedia.org/wiki/Kurmanji"
+        },
+        {
+          "text": "Zaza",
+          "href": "https://en.wikipedia.org/wiki/Zaza_language"
+        },
+        {
+          "text": "Arabic",
+          "href": "https://en.wikipedia.org/wiki/Arabic"
+        },
+        {
+          "text": "Circassian",
+          "href": "https://en.wikipedia.org/wiki/Circassian_languages"
+        },
+        {
+          "text": "Laz",
+          "href": "https://en.wikipedia.org/wiki/Laz_language"
+        },
+        {
+          "text": "Greek",
+          "href": "https://en.wikipedia.org/wiki/Greek_language"
+        },
+        {
+          "text": "Armenian",
+          "href": "https://en.wikipedia.org/wiki/Armenian_language"
+        },
+        {
+          "text": "Albanian",
+          "href": "https://en.wikipedia.org/wiki/Albanian_language"
+        },
+        {
+          "text": "Bosnian",
+          "href": "https://en.wikipedia.org/wiki/Bosnian_language"
+        },
+        {
+          "text": "Bulgarian",
+          "href": "https://en.wikipedia.org/wiki/Bulgarian_language"
+        },
+        {
+          "text": "Other languages",
+          "href": "https://en.wikipedia.org/wiki/Languages_of_Turkey"
+        }
+      ],
+      "sub_items": [
+        "Predominantly Turkish",
+        "Kurdish",
+        "Zaza",
+        "Arabic",
+        "Circassian",
+        "Laz",
+        "Greek",
+        "Armenian",
+        "Albanian",
+        "Bosnian",
+        "Bulgarian",
+        "Other languages"
+      ]
+    },
+    {
+      "label": "Demonyms",
+      "value": "Turkish Turk",
+      "links": [
+        {
+          "text": "Turkish",
+          "href": "https://en.wikipedia.org/wiki/Turkish_people"
+        }
+      ],
+      "sub_items": [
+        "Turkish",
+        "Turk"
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Unitary presidential republic",
+      "links": [
+        {
+          "text": "presidential republic",
+          "href": "https://en.wikipedia.org/wiki/Presidential_republic"
+        }
+      ]
+    },
+    {
+      "label": "• President",
+      "value": "Recep Tayyip Erdoğan",
+      "links": [
+        {
+          "text": "Recep Tayyip Erdoğan",
+          "href": "https://en.wikipedia.org/wiki/Recep_Tayyip_Erdo%C4%9Fan"
+        }
+      ]
+    },
+    {
+      "label": "• Vice President",
+      "value": "Cevdet Yılmaz",
+      "links": [
+        {
+          "text": "Cevdet Yılmaz",
+          "href": "https://en.wikipedia.org/wiki/Cevdet_Y%C4%B1lmaz"
+        }
+      ]
+    },
+    {
+      "label": "• Speaker",
+      "value": "Numan Kurtulmuş",
+      "links": [
+        {
+          "text": "Numan Kurtulmuş",
+          "href": "https://en.wikipedia.org/wiki/Numan_Kurtulmu%C5%9F"
+        }
+      ]
+    },
+    {
+      "label": "• Chief Justice",
+      "value": "Kadir Özkaya",
+      "links": [
+        {
+          "text": "Kadir Özkaya",
+          "href": "https://en.wikipedia.org/wiki/Kadir_%C3%96zkaya"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "Grand National Assembly",
+      "links": [
+        {
+          "text": "Grand National Assembly",
+          "href": "https://en.wikipedia.org/wiki/Grand_National_Assembly_of_Turkey"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Establishment",
+      "rows": [
+        {
+          "label": "• Ottoman Empire",
+          "value": "c. 1299"
+        },
+        {
+          "label": "• War of Independence",
+          "value": "19 May 1919"
+        },
+        {
+          "label": "• Government of the Grand National Assembly",
+          "value": "23 April 1920"
+        },
+        {
+          "label": "• Sultanate abolished",
+          "value": "1 November 1922"
+        },
+        {
+          "label": "• Treaty of Lausanne",
+          "value": "24 July 1923"
+        },
+        {
+          "label": "• Republic declared",
+          "value": "29 October 1923"
+        },
+        {
+          "label": "• Current constitution",
+          "value": "9 November 1982"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "783,562 km (302,535 sq mi) ( 36th )",
+          "links": [
+            {
+              "text": "36th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "2.03"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• December 2025 estimate",
+          "value": "86,092,168 ( 18th )",
+          "links": [
+            {
+              "text": "18th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• Density",
+          "value": "112 /km (290.1/sq mi) ( 83rd )",
+          "links": [
+            {
+              "text": "83rd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$3.77 trillion ( 11th )",
+          "links": [
+            {
+              "text": "11th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$43,790 ( 51st )",
+          "links": [
+            {
+              "text": "51st",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$1.57 trillion ( 16th )",
+          "links": [
+            {
+              "text": "16th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$18,200 ( 62nd )",
+          "links": [
+            {
+              "text": "62nd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "Gini (2022)",
+          "value": "44.5 medium inequality"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.853 very high ( 51st )",
+          "links": [
+            {
+              "text": "51st",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "Turkish lira ( ₺ ) ( TRY )",
+          "links": [
+            {
+              "text": "Turkish lira",
+              "href": "https://en.wikipedia.org/wiki/Turkish_lira"
+            },
+            {
+              "text": "₺",
+              "href": "https://en.wikipedia.org/wiki/Turkish_lira_sign"
+            },
+            {
+              "text": "TRY",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC +3 ( TRT )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "TRT",
+              "href": "https://en.wikipedia.org/wiki/Time_in_Turkey"
+            }
+          ]
+        },
+        {
+          "label": "Calling code",
+          "value": "+90",
+          "links": [
+            {
+              "text": "+90",
+              "href": "https://en.wikipedia.org/wiki/%2B90"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "TR",
+          "links": [
+            {
+              "text": "TR",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:TR"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".tr",
+          "links": [
+            {
+              "text": ".tr",
+              "href": "https://en.wikipedia.org/wiki/.tr"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

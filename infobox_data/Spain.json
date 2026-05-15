@@ -1,0 +1,430 @@
+{
+  "country": "Spain",
+  "infobox_title": "Kingdom of Spain Reino de España In co-official languages Basque : Espainiako Erresuma Catalan / Valencian : Regne d'Espanya Galician : Reino de España Occitan/Aranese : Reiaume d'Espanha",
+  "data": [
+    {
+      "label": "Basque :",
+      "value": "Espainiako Erresuma"
+    },
+    {
+      "label": "Basque :",
+      "value": "Espainiako Erresuma"
+    },
+    {
+      "label": "Catalan / Valencian :",
+      "value": "Regne d'Espanya"
+    },
+    {
+      "label": "Galician :",
+      "value": "Reino de España"
+    },
+    {
+      "label": "Occitan/Aranese :",
+      "value": "Reiaume d'Espanha"
+    },
+    {
+      "label": "Capital and largest city",
+      "value": "Madrid 40°26′N 3°42′W ﻿ / ﻿ 40.433°N 3.700°W",
+      "links": [
+        {
+          "text": "Madrid",
+          "href": "https://en.wikipedia.org/wiki/Madrid"
+        },
+        {
+          "text": "40°26′N3°42′W﻿ / ﻿40.433°N 3.700°W",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Spain&params=40_26_N_3_42_W_type:city"
+        }
+      ]
+    },
+    {
+      "label": "Official language",
+      "value": "Spanish",
+      "links": [
+        {
+          "text": "Spanish",
+          "href": "https://en.wikipedia.org/wiki/Spanish_language"
+        }
+      ]
+    },
+    {
+      "label": "Nationality (2026)",
+      "value": "85.4% Spanish 14.6% foreigners",
+      "links": [
+        {
+          "text": "Spanish",
+          "href": "https://en.wikipedia.org/wiki/Spanish_nationality_law"
+        },
+        {
+          "text": "foreigners",
+          "href": "https://en.wikipedia.org/wiki/Immigration_to_Spain"
+        }
+      ],
+      "sub_items": [
+        "85.4% Spanish",
+        "14.6% foreigners"
+      ]
+    },
+    {
+      "label": "Religion (2025)",
+      "value": "58.6% Roman Catholicism 40% non-practicing Catholic 18.6% practicing Catholic 13.3% atheist 11.7% indifferent or irreligious 11.1% agnostic 3.6% other religion 1.7% unanswered",
+      "links": [
+        {
+          "text": "Roman Catholicism",
+          "href": "https://en.wikipedia.org/wiki/Catholic_Church_in_Spain"
+        },
+        {
+          "text": "non-practicing Catholic",
+          "href": "https://en.wikipedia.org/wiki/Lapsed_Catholic"
+        },
+        {
+          "text": "atheist",
+          "href": "https://en.wikipedia.org/wiki/Atheism"
+        },
+        {
+          "text": "indifferent or irreligious",
+          "href": "https://en.wikipedia.org/wiki/Irreligion_in_Spain"
+        },
+        {
+          "text": "agnostic",
+          "href": "https://en.wikipedia.org/wiki/Agnosticism"
+        },
+        {
+          "text": "other religion",
+          "href": "https://en.wikipedia.org/wiki/Religion_in_Spain"
+        }
+      ],
+      "sub_items": [
+        "58.6% Roman Catholicism 40% non-practicing Catholic 18.6% practicing Catholic",
+        "40% non-practicing Catholic 18.6% practicing Catholic",
+        "40% non-practicing Catholic",
+        "18.6% practicing Catholic",
+        "13.3% atheist",
+        "11.7% indifferent or irreligious",
+        "11.1% agnostic",
+        "3.6% other religion",
+        "1.7% unanswered"
+      ]
+    },
+    {
+      "label": "Demonyms",
+      "value": "Spaniard Spanish",
+      "links": [
+        {
+          "text": "Spaniard",
+          "href": "https://en.wikipedia.org/wiki/Spaniard"
+        }
+      ],
+      "sub_items": [
+        "Spaniard",
+        "Spanish"
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Unitary parliamentary constitutional monarchy",
+      "links": [
+        {
+          "text": "parliamentary constitutional monarchy",
+          "href": "https://en.wikipedia.org/wiki/Parliamentary_constitutional_monarchy"
+        }
+      ]
+    },
+    {
+      "label": "• Monarch",
+      "value": "Felipe VI",
+      "links": [
+        {
+          "text": "Felipe VI",
+          "href": "https://en.wikipedia.org/wiki/Felipe_VI"
+        }
+      ]
+    },
+    {
+      "label": "• Prime Minister",
+      "value": "Pedro Sánchez",
+      "links": [
+        {
+          "text": "Pedro Sánchez",
+          "href": "https://en.wikipedia.org/wiki/Pedro_S%C3%A1nchez"
+        }
+      ]
+    },
+    {
+      "label": "• President of the Congress of Deputies",
+      "value": "Francina Armengol",
+      "links": [
+        {
+          "text": "Francina Armengol",
+          "href": "https://en.wikipedia.org/wiki/Francina_Armengol"
+        }
+      ]
+    },
+    {
+      "label": "• President of the Senate",
+      "value": "Pedro Rollán",
+      "links": [
+        {
+          "text": "Pedro Rollán",
+          "href": "https://en.wikipedia.org/wiki/Pedro_Roll%C3%A1n"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "Cortes Generales",
+      "links": [
+        {
+          "text": "Cortes Generales",
+          "href": "https://en.wikipedia.org/wiki/Cortes_Generales"
+        }
+      ]
+    },
+    {
+      "label": "• Upper house",
+      "value": "Senate",
+      "links": [
+        {
+          "text": "Senate",
+          "href": "https://en.wikipedia.org/wiki/Senate_of_Spain"
+        }
+      ]
+    },
+    {
+      "label": "• Lower house",
+      "value": "Congress of Deputies",
+      "links": [
+        {
+          "text": "Congress of Deputies",
+          "href": "https://en.wikipedia.org/wiki/Congress_of_Deputies"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Formation",
+      "rows": [
+        {
+          "label": "• Dynastic union",
+          "value": "20 January 1479"
+        },
+        {
+          "label": "• Sole sovereign",
+          "value": "14 March 1516"
+        },
+        {
+          "label": "• Centralised state",
+          "value": "9 June 1715"
+        },
+        {
+          "label": "• First constitution",
+          "value": "19 March 1812"
+        },
+        {
+          "label": "• Current constitution",
+          "value": "29 December 1978"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "506,030 km (195,380 sq mi) ( 50th )",
+          "links": [
+            {
+              "text": "50th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "0.89"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2026 estimate",
+          "value": "49,570,725 ( 31st )",
+          "links": [
+            {
+              "text": "31st",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• Density",
+          "value": "98/km (253.8/sq mi) ( 116th )",
+          "links": [
+            {
+              "text": "116th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$2.829 trillion ( 15th )",
+          "links": [
+            {
+              "text": "15th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$56,888 ( 35th )",
+          "links": [
+            {
+              "text": "35th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$1.891 trillion ( 12th )",
+          "links": [
+            {
+              "text": "12th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$38,040 ( 32nd )",
+          "links": [
+            {
+              "text": "32nd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "Gini (2024)",
+          "value": "31.2 medium inequality"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.918 very high ( 28th )",
+          "links": [
+            {
+              "text": "28th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "Euro ( € ) ( EUR )",
+          "links": [
+            {
+              "text": "Euro",
+              "href": "https://en.wikipedia.org/wiki/Euro"
+            },
+            {
+              "text": "€",
+              "href": "https://en.wikipedia.org/wiki/Euro_sign"
+            },
+            {
+              "text": "EUR",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC ⁠±0 to +1 ( WET and CET )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "WET",
+              "href": "https://en.wikipedia.org/wiki/Western_European_Time"
+            },
+            {
+              "text": "CET",
+              "href": "https://en.wikipedia.org/wiki/Central_European_Time"
+            }
+          ]
+        },
+        {
+          "label": "• Summer ( DST )",
+          "value": "UTC +1 to +2 ( WEST and CEST )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "WEST",
+              "href": "https://en.wikipedia.org/wiki/Western_European_Summer_Time"
+            },
+            {
+              "text": "CEST",
+              "href": "https://en.wikipedia.org/wiki/Central_European_Summer_Time"
+            }
+          ]
+        },
+        {
+          "label": "Date format",
+          "value": "DD/MM/YYYY",
+          "links": [
+            {
+              "text": "DD/MM/YYYY",
+              "href": "https://en.wikipedia.org/wiki/Date_format"
+            }
+          ]
+        },
+        {
+          "label": "Calling code",
+          "value": "+34",
+          "links": [
+            {
+              "text": "+34",
+              "href": "https://en.wikipedia.org/wiki/%2B34"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "ES",
+          "links": [
+            {
+              "text": "ES",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:ES"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".es",
+          "links": [
+            {
+              "text": ".es",
+              "href": "https://en.wikipedia.org/wiki/.es"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

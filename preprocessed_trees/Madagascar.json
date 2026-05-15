@@ -1,0 +1,417 @@
+{
+  "label": "country",
+  "children": [
+    {
+      "label": "name",
+      "children": [
+        {
+          "label": "madagascar"
+        }
+      ]
+    },
+    {
+      "label": "infobox_title",
+      "children": [
+        {
+          "label": "republic of madagascar repoblikan'i madagasikara république de madagascar"
+        }
+      ]
+    },
+    {
+      "label": "capital_and_largest_city",
+      "children": [
+        {
+          "label": "antananarivo / 18."
+        }
+      ]
+    },
+    {
+      "label": "official_languages",
+      "children": [
+        {
+          "label": "malagasy"
+        },
+        {
+          "label": "french"
+        }
+      ]
+    },
+    {
+      "label": "ethnic_groups_2017",
+      "children": [
+        {
+          "label": "26% merina"
+        },
+        {
+          "label": "15% betsimisaraka"
+        },
+        {
+          "label": "12% betsileo"
+        },
+        {
+          "label": "7% tsimihety"
+        },
+        {
+          "label": "6% sakalava"
+        },
+        {
+          "label": "5% antaisaka"
+        },
+        {
+          "label": "5% antandroy"
+        },
+        {
+          "label": "24% others"
+        }
+      ]
+    },
+    {
+      "label": "religion_2020",
+      "children": [
+        {
+          "label": "84.7% christianity"
+        },
+        {
+          "label": "45.8% protestantism"
+        },
+        {
+          "label": "38.1% catholicism"
+        },
+        {
+          "label": "0.8% other christian"
+        },
+        {
+          "label": "7.3% no religion"
+        },
+        {
+          "label": "4.7% traditional faiths"
+        },
+        {
+          "label": "3.1% islam"
+        },
+        {
+          "label": "0.3% others"
+        }
+      ]
+    },
+    {
+      "label": "demonym",
+      "children": [
+        {
+          "label": "malagasy"
+        }
+      ]
+    },
+    {
+      "label": "government",
+      "children": [
+        {
+          "label": "unitary semi-presidential republic under a transitional government"
+        }
+      ]
+    },
+    {
+      "label": "president",
+      "children": [
+        {
+          "label": "michael randrianirina"
+        }
+      ]
+    },
+    {
+      "label": "prime_minister",
+      "children": [
+        {
+          "label": "mamitiana rajaonarison"
+        }
+      ]
+    },
+    {
+      "label": "legislature",
+      "children": [
+        {
+          "label": "parliament"
+        }
+      ]
+    },
+    {
+      "label": "upper_house",
+      "children": [
+        {
+          "label": "senate"
+        }
+      ]
+    },
+    {
+      "label": "lower_house",
+      "children": [
+        {
+          "label": "national assembly"
+        }
+      ]
+    },
+    {
+      "label": "formation",
+      "children": [
+        {
+          "label": "kingdom",
+          "children": [
+            {
+              "label": "c. 1540"
+            }
+          ]
+        },
+        {
+          "label": "french_protectorate",
+          "children": [
+            {
+              "label": "c. 1882"
+            }
+          ]
+        },
+        {
+          "label": "french_colony",
+          "children": [
+            {
+              "label": "6 august 1896"
+            }
+          ]
+        },
+        {
+          "label": "republic_proclaimed",
+          "children": [
+            {
+              "label": "14 october 1958"
+            }
+          ]
+        },
+        {
+          "label": "declaration_of_independence",
+          "children": [
+            {
+              "label": "26 june 1960"
+            }
+          ]
+        },
+        {
+          "label": "referendum",
+          "children": [
+            {
+              "label": "21 december 1975"
+            }
+          ]
+        },
+        {
+          "label": "socialist_state",
+          "children": [
+            {
+              "label": "30 december 1975 – 12 january 1992"
+            }
+          ]
+        },
+        {
+          "label": "third_republic",
+          "children": [
+            {
+              "label": "12 january 1992 – 11 december 2010"
+            }
+          ]
+        },
+        {
+          "label": "referendum",
+          "children": [
+            {
+              "label": "17 november 2010"
+            }
+          ]
+        },
+        {
+          "label": "current_constitution",
+          "children": [
+            {
+              "label": "11 december 2010"
+            }
+          ]
+        },
+        {
+          "label": "2025_malagasy_protests",
+          "children": [
+            {
+              "label": "25 september – 14 october 2025"
+            }
+          ]
+        },
+        {
+          "label": "coup_d_etat",
+          "children": [
+            {
+              "label": "12–14 october 2025"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "area",
+      "children": [
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "592,796 km"
+            }
+          ]
+        },
+        {
+          "label": "water",
+          "children": [
+            {
+              "label": "5,501 km"
+            }
+          ]
+        },
+        {
+          "label": "water",
+          "children": [
+            {
+              "label": "0.9%"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "population",
+      "children": [
+        {
+          "label": "2024_estimate",
+          "children": [
+            {
+              "label": "31,964,956"
+            }
+          ]
+        },
+        {
+          "label": "density",
+          "children": [
+            {
+              "label": "55/km"
+            }
+          ]
+        },
+        {
+          "label": "gdp_ppp",
+          "children": [
+            {
+              "label": "2026 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$68.110 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$2,110"
+            }
+          ]
+        },
+        {
+          "label": "gdp_nominal",
+          "children": [
+            {
+              "label": "2026 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$21.090 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$652"
+            }
+          ]
+        },
+        {
+          "label": "gini_2012",
+          "children": [
+            {
+              "label": "42.6 medium inequality"
+            }
+          ]
+        },
+        {
+          "label": "hdi_2023",
+          "children": [
+            {
+              "label": "0.487 low"
+            }
+          ]
+        },
+        {
+          "label": "currency",
+          "children": [
+            {
+              "label": "ariary"
+            }
+          ]
+        },
+        {
+          "label": "time_zone",
+          "children": [
+            {
+              "label": "utc +3"
+            }
+          ]
+        },
+        {
+          "label": "date_format",
+          "children": [
+            {
+              "label": "dd/mm/yyyy"
+            }
+          ]
+        },
+        {
+          "label": "calling_code",
+          "children": [
+            {
+              "label": "+261"
+            }
+          ]
+        },
+        {
+          "label": "iso_3166_code",
+          "children": [
+            {
+              "label": "mg"
+            }
+          ]
+        },
+        {
+          "label": "internet_tld",
+          "children": [
+            {
+              "label": ".mg"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,486 @@
+{
+  "country": "Guyana",
+  "infobox_title": "Co-operative Republic of Guyana",
+  "data": [
+    {
+      "label": "Capital and largest city",
+      "value": "Georgetown 6°48′04″N 58°09′18″W ﻿ / ﻿ 6.80111°N 58.15500°W",
+      "links": [
+        {
+          "text": "Georgetown",
+          "href": "https://en.wikipedia.org/wiki/Georgetown,_Guyana"
+        },
+        {
+          "text": "6°48′04″N58°09′18″W﻿ / ﻿6.80111°N 58.15500°W",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Guyana&params=6_48_04_N_58_09_18_W_type:city"
+        }
+      ]
+    },
+    {
+      "label": "Official languages",
+      "value": "English",
+      "links": [
+        {
+          "text": "English",
+          "href": "https://en.wikipedia.org/wiki/English_language"
+        }
+      ]
+    },
+    {
+      "label": "Recognised regional languages",
+      "value": "10 indigenous languages Akawaio Macushi Waiwai Arawak (Lokono) Patamona Warao Carib Wapishana Pemon (Arekuna) Mawayana",
+      "links": [
+        {
+          "text": "indigenous languages",
+          "href": "https://en.wikipedia.org/wiki/Indigenous_languages_of_South_America"
+        },
+        {
+          "text": "Akawaio",
+          "href": "https://en.wikipedia.org/wiki/Kap%C3%B3ng_language"
+        },
+        {
+          "text": "Macushi",
+          "href": "https://en.wikipedia.org/wiki/Macushi_language"
+        },
+        {
+          "text": "Waiwai",
+          "href": "https://en.wikipedia.org/wiki/Waiwai_language"
+        },
+        {
+          "text": "Arawak (Lokono)",
+          "href": "https://en.wikipedia.org/wiki/Arawak_language"
+        },
+        {
+          "text": "Patamona",
+          "href": "https://en.wikipedia.org/wiki/Patamona_language"
+        },
+        {
+          "text": "Warao",
+          "href": "https://en.wikipedia.org/wiki/Warao_language"
+        },
+        {
+          "text": "Carib",
+          "href": "https://en.wikipedia.org/wiki/Carib_language"
+        },
+        {
+          "text": "Wapishana",
+          "href": "https://en.wikipedia.org/wiki/Wapishana_language"
+        },
+        {
+          "text": "Pemon (Arekuna)",
+          "href": "https://en.wikipedia.org/wiki/Pemon_language"
+        },
+        {
+          "text": "Mawayana",
+          "href": "https://en.wikipedia.org/wiki/Mawayana_language"
+        }
+      ],
+      "sub_items": [
+        "Akawaio",
+        "Macushi",
+        "Waiwai",
+        "Arawak (Lokono)",
+        "Patamona",
+        "Warao",
+        "Carib",
+        "Wapishana",
+        "Pemon (Arekuna)",
+        "Mawayana"
+      ]
+    },
+    {
+      "label": "Vernacular language",
+      "value": "Guyanese Creole",
+      "links": [
+        {
+          "text": "Guyanese Creole",
+          "href": "https://en.wikipedia.org/wiki/Guyanese_Creole"
+        }
+      ]
+    },
+    {
+      "label": "Other languages",
+      "value": "6 languages Guyanese Hindustani Portuguese Dutch Spanish Chinese",
+      "links": [
+        {
+          "text": "Guyanese Hindustani",
+          "href": "https://en.wikipedia.org/wiki/Caribbean_Hindustani#Guyanese_Hindustani"
+        },
+        {
+          "text": "Portuguese",
+          "href": "https://en.wikipedia.org/wiki/Portuguese_language"
+        },
+        {
+          "text": "Dutch",
+          "href": "https://en.wikipedia.org/wiki/Dutch_language"
+        },
+        {
+          "text": "Spanish",
+          "href": "https://en.wikipedia.org/wiki/Spanish_language"
+        },
+        {
+          "text": "Chinese",
+          "href": "https://en.wikipedia.org/wiki/Chinese_language"
+        }
+      ],
+      "sub_items": [
+        "Guyanese Hindustani Portuguese Dutch Spanish Chinese",
+        "Guyanese Hindustani",
+        "Portuguese",
+        "Dutch",
+        "Spanish",
+        "Chinese"
+      ]
+    },
+    {
+      "label": "Ethnic groups (2012)",
+      "value": "39.8% Indian 29.2% African 19.9% Mixed 10.5% Indigenous 0.3% European 0.2% Chinese",
+      "links": [
+        {
+          "text": "Indian",
+          "href": "https://en.wikipedia.org/wiki/Indo-Guyanese"
+        },
+        {
+          "text": "African",
+          "href": "https://en.wikipedia.org/wiki/Afro-Guyanese"
+        },
+        {
+          "text": "Mixed",
+          "href": "https://en.wikipedia.org/wiki/Multiracial_people#Trinidad,_Guyana,_and_Suriname"
+        },
+        {
+          "text": "Indigenous",
+          "href": "https://en.wikipedia.org/wiki/Indigenous_peoples_in_Guyana"
+        },
+        {
+          "text": "European",
+          "href": "https://en.wikipedia.org/wiki/White_Caribbeans"
+        },
+        {
+          "text": "Chinese",
+          "href": "https://en.wikipedia.org/wiki/Chinese_Guyanese"
+        }
+      ],
+      "sub_items": [
+        "39.8% Indian",
+        "29.2% African",
+        "19.9% Mixed",
+        "10.5% Indigenous",
+        "0.3% European",
+        "0.2% Chinese"
+      ]
+    },
+    {
+      "label": "Religion (2024)",
+      "value": "55.5% Christianity 31.0% Hinduism 9.5% Islam 4.2% no religion 3.3% others",
+      "links": [
+        {
+          "text": "Christianity",
+          "href": "https://en.wikipedia.org/wiki/Christianity"
+        },
+        {
+          "text": "Hinduism",
+          "href": "https://en.wikipedia.org/wiki/Hinduism_in_Guyana"
+        },
+        {
+          "text": "Islam",
+          "href": "https://en.wikipedia.org/wiki/Islam_in_Guyana"
+        },
+        {
+          "text": "no religion",
+          "href": "https://en.wikipedia.org/wiki/Irreligion"
+        },
+        {
+          "text": "others",
+          "href": "https://en.wikipedia.org/wiki/Religion_in_Guyana"
+        }
+      ],
+      "sub_items": [
+        "55.5% Christianity",
+        "31.0% Hinduism",
+        "9.5% Islam",
+        "4.2% no religion",
+        "3.3% others"
+      ]
+    },
+    {
+      "label": "Demonym",
+      "value": "Guyanese",
+      "links": [
+        {
+          "text": "Guyanese",
+          "href": "https://en.wikipedia.org/wiki/Guyanese_people"
+        }
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Unitary parliamentary republic with an executive presidency",
+      "links": [
+        {
+          "text": "parliamentary republic with an executive presidency",
+          "href": "https://en.wikipedia.org/wiki/Parliamentary_republics_with_an_executive_presidency"
+        }
+      ]
+    },
+    {
+      "label": "• President",
+      "value": "Irfaan Ali",
+      "links": [
+        {
+          "text": "Irfaan Ali",
+          "href": "https://en.wikipedia.org/wiki/Irfaan_Ali"
+        }
+      ]
+    },
+    {
+      "label": "• Prime Minister & First Vice President",
+      "value": "Mark Phillips",
+      "links": [
+        {
+          "text": "Mark Phillips",
+          "href": "https://en.wikipedia.org/wiki/Mark_Phillips_(Guyanese_politician)"
+        }
+      ]
+    },
+    {
+      "label": "• Second Vice President",
+      "value": "Bharrat Jagdeo",
+      "links": [
+        {
+          "text": "Bharrat Jagdeo",
+          "href": "https://en.wikipedia.org/wiki/Bharrat_Jagdeo"
+        }
+      ]
+    },
+    {
+      "label": "• Speaker of the National Assembly",
+      "value": "Manzoor Nadir",
+      "links": [
+        {
+          "text": "Manzoor Nadir",
+          "href": "https://en.wikipedia.org/wiki/Manzoor_Nadir"
+        }
+      ]
+    },
+    {
+      "label": "• Acting Chief Justice",
+      "value": "Roxane George-Wiltshire",
+      "links": [
+        {
+          "text": "Roxane George-Wiltshire",
+          "href": "https://en.wikipedia.org/wiki/Roxane_George-Wiltshire"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "National Assembly",
+      "links": [
+        {
+          "text": "National Assembly",
+          "href": "https://en.wikipedia.org/wiki/National_Assembly_(Guyana)"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Establishment",
+      "rows": [
+        {
+          "label": "• Dutch control",
+          "value": "1667–1815"
+        },
+        {
+          "label": "• British Guiana",
+          "value": "1831–1966"
+        },
+        {
+          "label": "• Independence from the United Kingdom as Guyana",
+          "value": "26 May 1966"
+        },
+        {
+          "label": "• Republic",
+          "value": "23 February 1970"
+        },
+        {
+          "label": "• Joined CARICOM at the Treaty of Chaguaramas",
+          "value": "1 August 1973"
+        },
+        {
+          "label": "• Current constitution",
+          "value": "6 October 1980"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "214,969 km (83,000 sq mi) ( 83rd )",
+          "links": [
+            {
+              "text": "83rd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "8.4"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2025 estimate",
+          "value": "950,986 ( 166th )",
+          "links": [
+            {
+              "text": "166th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• Density",
+          "value": "4.25/km (11.0/sq mi) ( 235th )",
+          "links": [
+            {
+              "text": "235th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$75.294 billion ( 110th )",
+          "links": [
+            {
+              "text": "110th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$94,258 ( 8th )",
+          "links": [
+            {
+              "text": "8th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$25.822 billion ( 119th )",
+          "links": [
+            {
+              "text": "119th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$32,326 ( 37th )",
+          "links": [
+            {
+              "text": "37th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "Gini (2007)",
+          "value": "44.6 medium inequality"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.776 high ( 89th )",
+          "links": [
+            {
+              "text": "89th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "Guyanese dollar ( GYD )",
+          "links": [
+            {
+              "text": "Guyanese dollar",
+              "href": "https://en.wikipedia.org/wiki/Guyanese_dollar"
+            },
+            {
+              "text": "GYD",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC -04:00 ( GYT )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "GYT",
+              "href": "https://en.wikipedia.org/wiki/Guyana_Time"
+            }
+          ]
+        },
+        {
+          "label": "Date format",
+          "value": "dd-mm-yyyy"
+        },
+        {
+          "label": "Calling code",
+          "value": "+592",
+          "links": [
+            {
+              "text": "+592",
+              "href": "https://en.wikipedia.org/wiki/%2B592"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "GY",
+          "links": [
+            {
+              "text": "GY",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:GY"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".gy",
+          "links": [
+            {
+              "text": ".gy",
+              "href": "https://en.wikipedia.org/wiki/.gy"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

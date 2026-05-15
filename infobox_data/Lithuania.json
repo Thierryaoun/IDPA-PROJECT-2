@@ -1,0 +1,392 @@
+{
+  "country": "Lithuania",
+  "infobox_title": "Republic of Lithuania Lietuvos Respublika ( Lithuanian )",
+  "data": [
+    {
+      "label": "Capital and largest city",
+      "value": "Vilnius 54°41′N 25°19′E ﻿ / ﻿ 54.683°N 25.317°E",
+      "links": [
+        {
+          "text": "Vilnius",
+          "href": "https://en.wikipedia.org/wiki/Vilnius"
+        },
+        {
+          "text": "54°41′N25°19′E﻿ / ﻿54.683°N 25.317°E",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Lithuania&params=54_41_N_25_19_E_type:city"
+        }
+      ]
+    },
+    {
+      "label": "Official languages",
+      "value": "Lithuanian",
+      "links": [
+        {
+          "text": "Lithuanian",
+          "href": "https://en.wikipedia.org/wiki/Lithuanian_language"
+        }
+      ]
+    },
+    {
+      "label": "Ethnic groups (2025 )",
+      "value": "82.3% Lithuanians 6.2% Poles 5.0% Russians 2.2% Ukrainians 2.1% Belarusians 2.2% others",
+      "links": [
+        {
+          "text": "Lithuanians",
+          "href": "https://en.wikipedia.org/wiki/Lithuanians"
+        },
+        {
+          "text": "Poles",
+          "href": "https://en.wikipedia.org/wiki/Poles_in_Lithuania"
+        },
+        {
+          "text": "Russians",
+          "href": "https://en.wikipedia.org/wiki/Russians_in_Lithuania"
+        },
+        {
+          "text": "Ukrainians",
+          "href": "https://en.wikipedia.org/wiki/Ukrainians_in_Lithuania"
+        },
+        {
+          "text": "Belarusians",
+          "href": "https://en.wikipedia.org/wiki/Belarusians_in_Lithuania"
+        },
+        {
+          "text": "others",
+          "href": "https://en.wikipedia.org/wiki/Ethnic_minorities_in_Lithuania"
+        }
+      ],
+      "sub_items": [
+        "82.3% Lithuanians",
+        "6.2% Poles",
+        "5.0% Russians",
+        "2.2% Ukrainians",
+        "2.1% Belarusians",
+        "2.2% others"
+      ]
+    },
+    {
+      "label": "Religion (2021 )",
+      "value": "79.4% Christianity 74.2% Catholicism 5.2% other Christian 6.1% no religion 0.8% others 13.7% no answer",
+      "links": [
+        {
+          "text": "Christianity",
+          "href": "https://en.wikipedia.org/wiki/Christianity"
+        },
+        {
+          "text": "Catholicism",
+          "href": "https://en.wikipedia.org/wiki/Catholic_Church_in_Lithuania"
+        },
+        {
+          "text": "Christian",
+          "href": "https://en.wikipedia.org/wiki/List_of_Christian_denominations"
+        },
+        {
+          "text": "no religion",
+          "href": "https://en.wikipedia.org/wiki/Irreligion"
+        },
+        {
+          "text": "others",
+          "href": "https://en.wikipedia.org/wiki/Religion_in_Lithuania"
+        }
+      ],
+      "sub_items": [
+        "79.4% Christianity 74.2% Catholicism 5.2% other Christian 6.1% no religion 0.8% others 13.7% no answer",
+        "79.4% Christianity 74.2% Catholicism 5.2% other Christian",
+        "74.2% Catholicism",
+        "5.2% other Christian",
+        "6.1% no religion",
+        "0.8% others",
+        "13.7% no answer"
+      ]
+    },
+    {
+      "label": "Demonym",
+      "value": "Lithuanian",
+      "links": [
+        {
+          "text": "Lithuanian",
+          "href": "https://en.wikipedia.org/wiki/Lithuanians"
+        }
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Unitary semi-presidential republic",
+      "links": [
+        {
+          "text": "semi-presidential republic",
+          "href": "https://en.wikipedia.org/wiki/Semi-presidential_republic"
+        }
+      ]
+    },
+    {
+      "label": "• President",
+      "value": "Gitanas Nausėda",
+      "links": [
+        {
+          "text": "Gitanas Nausėda",
+          "href": "https://en.wikipedia.org/wiki/Gitanas_Naus%C4%97da"
+        }
+      ]
+    },
+    {
+      "label": "• Prime Minister",
+      "value": "Inga Ruginienė",
+      "links": [
+        {
+          "text": "Inga Ruginienė",
+          "href": "https://en.wikipedia.org/wiki/Inga_Ruginien%C4%97"
+        }
+      ]
+    },
+    {
+      "label": "• Seimas Speaker",
+      "value": "Juozas Olekas",
+      "links": [
+        {
+          "text": "Juozas Olekas",
+          "href": "https://en.wikipedia.org/wiki/Juozas_Olekas"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "Seimas",
+      "links": [
+        {
+          "text": "Seimas",
+          "href": "https://en.wikipedia.org/wiki/Seimas"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Formation",
+      "rows": [
+        {
+          "label": "• First mentioned",
+          "value": "9 March 1009"
+        },
+        {
+          "label": "• Grand Duchy",
+          "value": "1236"
+        },
+        {
+          "label": "• Coronation of Mindaugas",
+          "value": "6 July 1253"
+        },
+        {
+          "label": "• Union with Poland",
+          "value": "2 February 1386"
+        },
+        {
+          "label": "• Commonwealth created",
+          "value": "1 July 1569"
+        },
+        {
+          "label": "• Partitioned",
+          "value": "24 October 1795"
+        },
+        {
+          "label": "• Independence reinstated",
+          "value": "16 February 1918"
+        },
+        {
+          "label": "• Soviet occupation",
+          "value": "16 June 1940"
+        },
+        {
+          "label": "• Independence restored",
+          "value": "11 March 1990"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "65,300 km (25,200 sq mi) ( 121st )",
+          "links": [
+            {
+              "text": "121st",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "1.98 (2015)"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2025 estimate",
+          "value": "2,897,430 ( 137th )",
+          "links": [
+            {
+              "text": "137th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• Density",
+          "value": "46/km (119.1/sq mi) ( 174th )",
+          "links": [
+            {
+              "text": "174th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$165.23 billion ( 88th )",
+          "links": [
+            {
+              "text": "88th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$57,201 ( 39th )",
+          "links": [
+            {
+              "text": "39th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$95.27 billion ( 78th )",
+          "links": [
+            {
+              "text": "78th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$32,982 ( 40th )",
+          "links": [
+            {
+              "text": "40th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "Gini (2023)",
+          "value": "35.7 medium inequality"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.895 very high ( 39th )",
+          "links": [
+            {
+              "text": "39th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "Euro ( € ) ( EUR )",
+          "links": [
+            {
+              "text": "Euro",
+              "href": "https://en.wikipedia.org/wiki/Euro"
+            },
+            {
+              "text": "€",
+              "href": "https://en.wikipedia.org/wiki/Euro_sign"
+            },
+            {
+              "text": "EUR",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC +2 ( EET )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "EET",
+              "href": "https://en.wikipedia.org/wiki/Eastern_European_Time"
+            }
+          ]
+        },
+        {
+          "label": "• Summer ( DST )",
+          "value": "UTC +3 ( EEST )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "EEST",
+              "href": "https://en.wikipedia.org/wiki/Eastern_European_Summer_Time"
+            }
+          ]
+        },
+        {
+          "label": "Date format",
+          "value": "yyyy - mm - dd"
+        },
+        {
+          "label": "Calling code",
+          "value": "+370",
+          "links": [
+            {
+              "text": "+370",
+              "href": "https://en.wikipedia.org/wiki/Telephone_numbers_in_Lithuania"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "LT",
+          "links": [
+            {
+              "text": "LT",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:LT"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".lt",
+          "links": [
+            {
+              "text": ".lt",
+              "href": "https://en.wikipedia.org/wiki/.lt"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

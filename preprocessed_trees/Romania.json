@@ -1,0 +1,394 @@
+{
+  "label": "country",
+  "children": [
+    {
+      "label": "name",
+      "children": [
+        {
+          "label": "romania"
+        }
+      ]
+    },
+    {
+      "label": "infobox_title",
+      "children": [
+        {
+          "label": "romania românia"
+        }
+      ]
+    },
+    {
+      "label": "capital_and_largest_city",
+      "children": [
+        {
+          "label": "bucharest / 44."
+        }
+      ]
+    },
+    {
+      "label": "official_languages",
+      "children": [
+        {
+          "label": "romanian"
+        }
+      ]
+    },
+    {
+      "label": "ethnic_groups_2021",
+      "children": [
+        {
+          "label": "89.3% romanians"
+        },
+        {
+          "label": "6.0% hungarians"
+        },
+        {
+          "label": "3.4% roma"
+        },
+        {
+          "label": "1.2% others"
+        }
+      ]
+    },
+    {
+      "label": "religion_2021",
+      "children": [
+        {
+          "label": "84.7% christianity"
+        },
+        {
+          "label": "73.6% romanian orthodoxy"
+        },
+        {
+          "label": "6.4% protestantism"
+        },
+        {
+          "label": "4.4% catholicism"
+        },
+        {
+          "label": "0.2% other christian"
+        },
+        {
+          "label": "0.8% no religion"
+        },
+        {
+          "label": "0.4% other"
+        },
+        {
+          "label": "13.9% unanswered"
+        }
+      ]
+    },
+    {
+      "label": "demonym",
+      "children": [
+        {
+          "label": "romanian"
+        }
+      ]
+    },
+    {
+      "label": "government",
+      "children": [
+        {
+          "label": "unitary semi-presidential republic"
+        }
+      ]
+    },
+    {
+      "label": "president",
+      "children": [
+        {
+          "label": "nicușor dan"
+        }
+      ]
+    },
+    {
+      "label": "prime_minister",
+      "children": [
+        {
+          "label": "ilie bolojan"
+        }
+      ]
+    },
+    {
+      "label": "president_of_the_senate",
+      "children": [
+        {
+          "label": "mircea abrudean"
+        }
+      ]
+    },
+    {
+      "label": "president_of_the_chamber_of_deputies",
+      "children": [
+        {
+          "label": "sorin grindeanu"
+        }
+      ]
+    },
+    {
+      "label": "legislature",
+      "children": [
+        {
+          "label": "parliament"
+        }
+      ]
+    },
+    {
+      "label": "upper_house",
+      "children": [
+        {
+          "label": "senate"
+        }
+      ]
+    },
+    {
+      "label": "lower_house",
+      "children": [
+        {
+          "label": "chamber of deputies"
+        }
+      ]
+    },
+    {
+      "label": "history",
+      "children": [
+        {
+          "label": "principality_of_wallachia",
+          "children": [
+            {
+              "label": "1330–1862"
+            }
+          ]
+        },
+        {
+          "label": "principality_of_moldavia",
+          "children": [
+            {
+              "label": "1346–1862"
+            }
+          ]
+        },
+        {
+          "label": "united_principalities",
+          "children": [
+            {
+              "label": "1859–1881"
+            }
+          ]
+        },
+        {
+          "label": "independence_from_the_ottoman_empire",
+          "children": [
+            {
+              "label": "10 may 1877"
+            }
+          ]
+        },
+        {
+          "label": "kingdom_of_romania",
+          "children": [
+            {
+              "label": "1881–1947"
+            }
+          ]
+        },
+        {
+          "label": "great_union",
+          "children": [
+            {
+              "label": "1 december 1918"
+            }
+          ]
+        },
+        {
+          "label": "socialist_romania",
+          "children": [
+            {
+              "label": "1947–1989"
+            }
+          ]
+        },
+        {
+          "label": "current_constitution",
+          "children": [
+            {
+              "label": "8 december 1991"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "area",
+      "children": [
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "238,397 km"
+            }
+          ]
+        },
+        {
+          "label": "water",
+          "children": [
+            {
+              "label": "3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "population",
+      "children": [
+        {
+          "label": "2025_estimate",
+          "children": [
+            {
+              "label": "19,043,151"
+            }
+          ]
+        },
+        {
+          "label": "2021_census",
+          "children": [
+            {
+              "label": "19,053,815"
+            }
+          ]
+        },
+        {
+          "label": "density",
+          "children": [
+            {
+              "label": "83/km"
+            }
+          ]
+        },
+        {
+          "label": "gdp_ppp",
+          "children": [
+            {
+              "label": "2026 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$949.332 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$50,726"
+            }
+          ]
+        },
+        {
+          "label": "gdp_nominal",
+          "children": [
+            {
+              "label": "2026 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$444.807 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$23,767"
+            }
+          ]
+        },
+        {
+          "label": "gini_2025",
+          "children": [
+            {
+              "label": "27.3 low inequality"
+            }
+          ]
+        },
+        {
+          "label": "hdi_2023",
+          "children": [
+            {
+              "label": "0.845 very high"
+            }
+          ]
+        },
+        {
+          "label": "currency",
+          "children": [
+            {
+              "label": "romanian leu"
+            }
+          ]
+        },
+        {
+          "label": "time_zone",
+          "children": [
+            {
+              "label": "utc +2"
+            }
+          ]
+        },
+        {
+          "label": "summer_dst",
+          "children": [
+            {
+              "label": "utc +3"
+            }
+          ]
+        },
+        {
+          "label": "date_format",
+          "children": [
+            {
+              "label": "dd.mm.yyyy"
+            }
+          ]
+        },
+        {
+          "label": "calling_code",
+          "children": [
+            {
+              "label": "+40"
+            }
+          ]
+        },
+        {
+          "label": "iso_3166_code",
+          "children": [
+            {
+              "label": "ro"
+            }
+          ]
+        },
+        {
+          "label": "internet_tld",
+          "children": [
+            {
+              "label": ".ro"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

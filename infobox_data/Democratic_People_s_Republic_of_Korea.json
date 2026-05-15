@@ -1,0 +1,330 @@
+{
+  "country": "Democratic People's Republic of Korea",
+  "infobox_title": "Democratic People's Republic of Korea 조선민주주의인민공화국 ( Korean ) Chosŏnminjujuŭiinmin'gonghwaguk",
+  "data": [
+    {
+      "label": "Capital and largest city",
+      "value": "Pyongyang 39°2′N 125°45′E ﻿ / ﻿ 39.033°N 125.750°E",
+      "links": [
+        {
+          "text": "Pyongyang",
+          "href": "https://en.wikipedia.org/wiki/Pyongyang"
+        },
+        {
+          "text": "39°2′N125°45′E﻿ / ﻿39.033°N 125.750°E",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=North_Korea&params=39_2_N_125_45_E_type:city"
+        }
+      ]
+    },
+    {
+      "label": "Official languages",
+      "value": "Korean ( Munhwaŏ )",
+      "links": [
+        {
+          "text": "Korean",
+          "href": "https://en.wikipedia.org/wiki/Korean_language"
+        },
+        {
+          "text": "Munhwaŏ",
+          "href": "https://en.wikipedia.org/wiki/North_Korean_standard_language"
+        }
+      ]
+    },
+    {
+      "label": "Official script",
+      "value": "Chosŏn'gŭl",
+      "links": [
+        {
+          "text": "Chosŏn'gŭl",
+          "href": "https://en.wikipedia.org/wiki/Chos%C5%8Fn%27g%C5%ADl"
+        }
+      ]
+    },
+    {
+      "label": "Religion (2020)",
+      "value": "73% no religion 13% Chondoism 12% Shamanism 1.5% Buddhism 0.5% other",
+      "links": [
+        {
+          "text": "no religion",
+          "href": "https://en.wikipedia.org/wiki/Irreligion_in_North_Korea"
+        },
+        {
+          "text": "Chondoism",
+          "href": "https://en.wikipedia.org/wiki/Cheondoism"
+        },
+        {
+          "text": "Shamanism",
+          "href": "https://en.wikipedia.org/wiki/Korean_shamanism"
+        },
+        {
+          "text": "Buddhism",
+          "href": "https://en.wikipedia.org/wiki/Korean_Buddhism"
+        }
+      ],
+      "sub_items": [
+        "73% no religion",
+        "13% Chondoism",
+        "12% Shamanism",
+        "1.5% Buddhism",
+        "0.5% other"
+      ]
+    },
+    {
+      "label": "Demonyms",
+      "value": "North Korean Korean",
+      "links": [
+        {
+          "text": "North Korean",
+          "href": "https://en.wikipedia.org/wiki/Demographics_of_North_Korea"
+        },
+        {
+          "text": "Korean",
+          "href": "https://en.wikipedia.org/wiki/Koreans"
+        }
+      ],
+      "sub_items": [
+        "North Korean",
+        "Korean"
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Unitary communist state under a totalitarian dictatorship",
+      "links": [
+        {
+          "text": "communist state",
+          "href": "https://en.wikipedia.org/wiki/Communist_state"
+        },
+        {
+          "text": "totalitarian",
+          "href": "https://en.wikipedia.org/wiki/Totalitarian"
+        }
+      ]
+    },
+    {
+      "label": "• WPK General Secretary and SAC President",
+      "value": "Kim Jong Un",
+      "links": [
+        {
+          "text": "Kim Jong Un",
+          "href": "https://en.wikipedia.org/wiki/Kim_Jong_Un"
+        }
+      ]
+    },
+    {
+      "label": "• Premier",
+      "value": "Pak Thae-song",
+      "links": [
+        {
+          "text": "Pak Thae-song",
+          "href": "https://en.wikipedia.org/wiki/Pak_Thae-song"
+        }
+      ]
+    },
+    {
+      "label": "• SPA Standing Committee Chairman",
+      "value": "Jo Yong-won",
+      "links": [
+        {
+          "text": "Jo Yong-won",
+          "href": "https://en.wikipedia.org/wiki/Jo_Yong-won"
+        }
+      ]
+    },
+    {
+      "label": "• SPA Chairman",
+      "value": "Jo Yong-won",
+      "links": [
+        {
+          "text": "Jo Yong-won",
+          "href": "https://en.wikipedia.org/wiki/Jo_Yong-won"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "Supreme People's Assembly",
+      "links": [
+        {
+          "text": "Supreme People's Assembly",
+          "href": "https://en.wikipedia.org/wiki/Supreme_People%27s_Assembly"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Establishment history",
+      "rows": [
+        {
+          "label": "• Surrender of Japan",
+          "value": "2 September 1945"
+        },
+        {
+          "label": "• Soviet administration north of the 38th parallel",
+          "value": "3 October 1945"
+        },
+        {
+          "label": "• 1st provisional government",
+          "value": "8 February 1946"
+        },
+        {
+          "label": "• DPRK established",
+          "value": "10 July 1948"
+        },
+        {
+          "label": "• Current constitution",
+          "value": "27 December 1972"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "120,538 km (46,540 sq mi) ( 98th )",
+          "links": [
+            {
+              "text": "98th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "0.11"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2024 estimate",
+          "value": "26,298,666 ( 54th )",
+          "links": [
+            {
+              "text": "54th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• 2008 census",
+          "value": "24,052,231"
+        },
+        {
+          "label": "• Density",
+          "value": "212/km (549.1/sq mi) ( 68th )",
+          "links": [
+            {
+              "text": "68th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2023 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$15.416 billion"
+        },
+        {
+          "label": "• Per capita",
+          "value": "$600"
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2024 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$32.036 billion"
+        },
+        {
+          "label": "• Per capita",
+          "value": "$1,261"
+        },
+        {
+          "label": "Gini (2020)",
+          "value": "16.6 low inequality"
+        },
+        {
+          "label": "Currency",
+          "value": "Korean People's won (₩) ( KPW )",
+          "links": [
+            {
+              "text": "Korean People's won",
+              "href": "https://en.wikipedia.org/wiki/North_Korean_won"
+            },
+            {
+              "text": "KPW",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC +09:00 ( PYT )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "PYT",
+              "href": "https://en.wikipedia.org/wiki/Time_in_North_Korea"
+            }
+          ]
+        },
+        {
+          "label": "Date format",
+          "value": "yy, yyyy년 mm월 dd일 yy, yyyy/mm/dd ( AD )",
+          "links": [
+            {
+              "text": "AD",
+              "href": "https://en.wikipedia.org/wiki/Anno_Domini"
+            }
+          ],
+          "sub_items": [
+            "yy, yyyy년 mm월 dd일",
+            "yy, yyyy/mm/dd ( AD )"
+          ]
+        },
+        {
+          "label": "Calling code",
+          "value": "+850",
+          "links": [
+            {
+              "text": "+850",
+              "href": "https://en.wikipedia.org/wiki/Telephone_numbers_in_North_Korea"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "KP",
+          "links": [
+            {
+              "text": "KP",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:KP"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".kp",
+          "links": [
+            {
+              "text": ".kp",
+              "href": "https://en.wikipedia.org/wiki/.kp"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,378 @@
+{
+  "country": "Belgium",
+  "infobox_title": "Kingdom of Belgium Koninkrijk België ( Dutch ) Royaume de Belgique ( French ) Königreich Belgien ( German )",
+  "data": [
+    {
+      "label": "Capital",
+      "value": "City of Brussels 50°51′N 4°21′E ﻿ / ﻿ 50.850°N 4.350°E",
+      "links": [
+        {
+          "text": "City of Brussels",
+          "href": "https://en.wikipedia.org/wiki/City_of_Brussels"
+        },
+        {
+          "text": "50°51′N4°21′E﻿ / ﻿50.850°N 4.350°E",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Belgium&params=50_51_N_4_21_E_type:city"
+        }
+      ]
+    },
+    {
+      "label": "Largest city",
+      "value": "Brussels-Capital Region",
+      "links": [
+        {
+          "text": "Brussels-Capital Region",
+          "href": "https://en.wikipedia.org/wiki/Brussels-Capital_Region"
+        }
+      ]
+    },
+    {
+      "label": "Official languages",
+      "value": "Dutch French German",
+      "links": [
+        {
+          "text": "Dutch",
+          "href": "https://en.wikipedia.org/wiki/Dutch_language"
+        },
+        {
+          "text": "French",
+          "href": "https://en.wikipedia.org/wiki/French_language"
+        },
+        {
+          "text": "German",
+          "href": "https://en.wikipedia.org/wiki/German_language"
+        }
+      ],
+      "sub_items": [
+        "Dutch",
+        "French",
+        "German"
+      ]
+    },
+    {
+      "label": "Ethnic groups (2025)",
+      "value": "86.1% Belgians 64% Belgian background 22.1% foreign background 13.8% non-Belgian",
+      "links": [
+        {
+          "text": "Belgians",
+          "href": "https://en.wikipedia.org/wiki/Belgians"
+        },
+        {
+          "text": "non-Belgian",
+          "href": "https://en.wikipedia.org/wiki/Demographics_of_Belgium"
+        }
+      ],
+      "sub_items": [
+        "86.1% Belgians 64% Belgian background 22.1% foreign background",
+        "64% Belgian background",
+        "22.1% foreign background"
+      ]
+    },
+    {
+      "label": "Religion (2023 )",
+      "value": "59% no religion 34% Christianity 31% Catholicism 3% other Christian 6% Islam 1% other",
+      "links": [
+        {
+          "text": "no religion",
+          "href": "https://en.wikipedia.org/wiki/Irreligion_in_Belgium"
+        },
+        {
+          "text": "Christianity",
+          "href": "https://en.wikipedia.org/wiki/Christianity_in_Belgium"
+        },
+        {
+          "text": "Catholicism",
+          "href": "https://en.wikipedia.org/wiki/Catholic_Church_in_Belgium"
+        },
+        {
+          "text": "other Christian",
+          "href": "https://en.wikipedia.org/wiki/List_of_Christian_denominations"
+        },
+        {
+          "text": "Islam",
+          "href": "https://en.wikipedia.org/wiki/Islam_in_Belgium"
+        }
+      ],
+      "sub_items": [
+        "59% no religion",
+        "34% Christianity 31% Catholicism 3% other Christian",
+        "31% Catholicism",
+        "3% other Christian",
+        "6% Islam",
+        "1% other"
+      ]
+    },
+    {
+      "label": "Demonym",
+      "value": "Belgian",
+      "links": [
+        {
+          "text": "Belgian",
+          "href": "https://en.wikipedia.org/wiki/Belgians"
+        }
+      ],
+      "sub_items": [
+        "Belgian"
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Federal parliamentary constitutional monarchy",
+      "links": [
+        {
+          "text": "Federal",
+          "href": "https://en.wikipedia.org/wiki/Federal_monarchy"
+        },
+        {
+          "text": "constitutional monarchy",
+          "href": "https://en.wikipedia.org/wiki/Constitutional_monarchy"
+        }
+      ]
+    },
+    {
+      "label": "• Monarch",
+      "value": "Philippe",
+      "links": [
+        {
+          "text": "Philippe",
+          "href": "https://en.wikipedia.org/wiki/Philippe_of_Belgium"
+        }
+      ]
+    },
+    {
+      "label": "• Prime Minister",
+      "value": "Bart De Wever",
+      "links": [
+        {
+          "text": "Bart De Wever",
+          "href": "https://en.wikipedia.org/wiki/Bart_De_Wever"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "Federal Parliament",
+      "links": [
+        {
+          "text": "Federal Parliament",
+          "href": "https://en.wikipedia.org/wiki/Belgian_Federal_Parliament"
+        }
+      ]
+    },
+    {
+      "label": "• Upper house",
+      "value": "Senate",
+      "links": [
+        {
+          "text": "Senate",
+          "href": "https://en.wikipedia.org/wiki/Senate_(Belgium)"
+        }
+      ]
+    },
+    {
+      "label": "• Lower house",
+      "value": "Chamber of Representatives",
+      "links": [
+        {
+          "text": "Chamber of Representatives",
+          "href": "https://en.wikipedia.org/wiki/Chamber_of_Representatives_(Belgium)"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Independence from the Netherlands",
+      "rows": [
+        {
+          "label": "• Declared",
+          "value": "4 October 1830"
+        },
+        {
+          "label": "• Recognized",
+          "value": "19 April 1839"
+        },
+        {
+          "label": "• Federal state",
+          "value": "1970"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "30,689 km (11,849 sq mi) ( 136th )",
+          "links": [
+            {
+              "text": "136th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "0.64 (2022)"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2025 census",
+          "value": "11,825,551"
+        },
+        {
+          "label": "• Density",
+          "value": "385 /km (997.1/sq mi) ( 35th )",
+          "links": [
+            {
+              "text": "35th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$889.833 billion ( 37th )",
+          "links": [
+            {
+              "text": "37th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$75,187 ( 20th )",
+          "links": [
+            {
+              "text": "20th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$689.364 billion ( 23rd )",
+          "links": [
+            {
+              "text": "23rd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$58,248 ( 16th )",
+          "links": [
+            {
+              "text": "16th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "Gini (2022)",
+          "value": "24.9 low inequality"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.951 very high ( 10th )",
+          "links": [
+            {
+              "text": "10th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "Euro ( € ) ( EUR )",
+          "links": [
+            {
+              "text": "Euro",
+              "href": "https://en.wikipedia.org/wiki/Euro"
+            },
+            {
+              "text": "€",
+              "href": "https://en.wikipedia.org/wiki/Euro_sign"
+            },
+            {
+              "text": "EUR",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC +1 ( CET )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "CET",
+              "href": "https://en.wikipedia.org/wiki/Central_European_Time"
+            }
+          ]
+        },
+        {
+          "label": "• Summer ( DST )",
+          "value": "UTC +2 ( CEST )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "CEST",
+              "href": "https://en.wikipedia.org/wiki/Central_European_Summer_Time"
+            }
+          ]
+        },
+        {
+          "label": "Calling code",
+          "value": "+32",
+          "links": [
+            {
+              "text": "+32",
+              "href": "https://en.wikipedia.org/wiki/Telephone_numbers_in_Belgium"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "BE",
+          "links": [
+            {
+              "text": "BE",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:BE"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".be",
+          "links": [
+            {
+              "text": ".be",
+              "href": "https://en.wikipedia.org/wiki/.be"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

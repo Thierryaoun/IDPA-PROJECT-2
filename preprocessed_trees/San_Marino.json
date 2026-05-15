@@ -1,0 +1,297 @@
+{
+  "label": "country",
+  "children": [
+    {
+      "label": "name",
+      "children": [
+        {
+          "label": "san marino"
+        }
+      ]
+    },
+    {
+      "label": "infobox_title",
+      "children": [
+        {
+          "label": "republic of san marino repubblica di san marino ripóbblica d' san marein"
+        }
+      ]
+    },
+    {
+      "label": "capital",
+      "children": [
+        {
+          "label": "city of san marino / 43."
+        }
+      ]
+    },
+    {
+      "label": "largest_settlement",
+      "children": [
+        {
+          "label": "dogana / 43."
+        }
+      ]
+    },
+    {
+      "label": "official_languages",
+      "children": [
+        {
+          "label": "italian"
+        }
+      ]
+    },
+    {
+      "label": "other_languages",
+      "children": [
+        {
+          "label": "romagnol"
+        }
+      ]
+    },
+    {
+      "label": "religion",
+      "children": [
+        {
+          "label": "90.3% catholicism"
+        },
+        {
+          "label": "7.5% no religion"
+        },
+        {
+          "label": "1.1% other christian denominations"
+        },
+        {
+          "label": "0.1% judaism"
+        },
+        {
+          "label": "0.46% islam"
+        },
+        {
+          "label": "0.34% other"
+        }
+      ]
+    },
+    {
+      "label": "demonym",
+      "children": [
+        {
+          "label": "sammarinese"
+        }
+      ]
+    },
+    {
+      "label": "government",
+      "children": [
+        {
+          "label": "unitary parliamentary diarchic directorial republic"
+        }
+      ]
+    },
+    {
+      "label": "captains_regent",
+      "children": [
+        {
+          "label": "matteo rossi"
+        },
+        {
+          "label": "lorenzo bugli"
+        }
+      ]
+    },
+    {
+      "label": "secretary_of_state_for_foreign_and_political_affairs",
+      "children": [
+        {
+          "label": "luca beccari"
+        }
+      ]
+    },
+    {
+      "label": "legislature",
+      "children": [
+        {
+          "label": "grand and general council"
+        }
+      ]
+    },
+    {
+      "label": "independence",
+      "children": [
+        {
+          "label": "from_the_roman_empire",
+          "children": [
+            {
+              "label": "3 september 301"
+            }
+          ]
+        },
+        {
+          "label": "from_the_papal_states",
+          "children": [
+            {
+              "label": "1291"
+            }
+          ]
+        },
+        {
+          "label": "constitution",
+          "children": [
+            {
+              "label": "8 october 1600"
+            },
+            {
+              "label": "8 july 1974"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "area",
+      "children": [
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "61.19 km"
+            }
+          ]
+        },
+        {
+          "label": "water",
+          "children": [
+            {
+              "label": "0.0059%"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "population",
+      "children": [
+        {
+          "label": "2026_estimate",
+          "children": [
+            {
+              "label": "34,172"
+            }
+          ]
+        },
+        {
+          "label": "density",
+          "children": [
+            {
+              "label": "579/km"
+            }
+          ]
+        },
+        {
+          "label": "gdp_ppp",
+          "children": [
+            {
+              "label": "2024 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$2.978 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$86,989"
+            }
+          ]
+        },
+        {
+          "label": "gdp_nominal",
+          "children": [
+            {
+              "label": "2024 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$2.034 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$59,405"
+            }
+          ]
+        },
+        {
+          "label": "hdi_2023",
+          "children": [
+            {
+              "label": "0.915 very high"
+            }
+          ]
+        },
+        {
+          "label": "currency",
+          "children": [
+            {
+              "label": "euro"
+            }
+          ]
+        },
+        {
+          "label": "time_zone",
+          "children": [
+            {
+              "label": "utc +01"
+            }
+          ]
+        },
+        {
+          "label": "summer_dst",
+          "children": [
+            {
+              "label": "utc +02"
+            }
+          ]
+        },
+        {
+          "label": "calling_code",
+          "children": [
+            {
+              "label": "+378"
+            }
+          ]
+        },
+        {
+          "label": "iso_3166_code",
+          "children": [
+            {
+              "label": "sm"
+            }
+          ]
+        },
+        {
+          "label": "internet_tld",
+          "children": [
+            {
+              "label": ".sm"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

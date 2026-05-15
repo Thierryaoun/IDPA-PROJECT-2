@@ -1,0 +1,385 @@
+{
+  "country": "Barbados",
+  "infobox_title": "Barbados",
+  "data": [
+    {
+      "label": "Capital and largest city",
+      "value": "Bridgetown 13°05′52″N 59°37′06″W ﻿ / ﻿ 13.09778°N 59.61833°W",
+      "links": [
+        {
+          "text": "Bridgetown",
+          "href": "https://en.wikipedia.org/wiki/Bridgetown"
+        },
+        {
+          "text": "13°05′52″N59°37′06″W﻿ / ﻿13.09778°N 59.61833°W",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Barbados&params=13_05_52_N_59_37_06_W_type:city"
+        }
+      ]
+    },
+    {
+      "label": "Official languages",
+      "value": "English",
+      "links": [
+        {
+          "text": "English",
+          "href": "https://en.wikipedia.org/wiki/English_in_Barbados"
+        }
+      ]
+    },
+    {
+      "label": "Vernacular language",
+      "value": "Bajan Creole",
+      "links": [
+        {
+          "text": "Bajan Creole",
+          "href": "https://en.wikipedia.org/wiki/Bajan_Creole"
+        }
+      ]
+    },
+    {
+      "label": "Ethnic groups (2020 )",
+      "value": "92.4% African 3.1% Mixed 2.7% White 1.3% Indian 0.3% others",
+      "links": [
+        {
+          "text": "African",
+          "href": "https://en.wikipedia.org/wiki/Afro-Barbadian"
+        },
+        {
+          "text": "Mixed",
+          "href": "https://en.wikipedia.org/wiki/Multiracial"
+        },
+        {
+          "text": "White",
+          "href": "https://en.wikipedia.org/wiki/White_Barbadian"
+        },
+        {
+          "text": "Indian",
+          "href": "https://en.wikipedia.org/wiki/Indians_in_Barbados"
+        }
+      ],
+      "sub_items": [
+        "92.4% African",
+        "3.1% Mixed",
+        "2.7% White",
+        "1.3% Indian",
+        "0.3% others"
+      ]
+    },
+    {
+      "label": "Religion (2020)",
+      "value": "75.6% Christianity 20.6% No religion 2.0% Baháʼí Faith 1.1% Hinduism 0.7% others",
+      "links": [
+        {
+          "text": "Christianity",
+          "href": "https://en.wikipedia.org/wiki/Christianity"
+        },
+        {
+          "text": "No religion",
+          "href": "https://en.wikipedia.org/wiki/Irreligion"
+        },
+        {
+          "text": "Baháʼí Faith",
+          "href": "https://en.wikipedia.org/wiki/Bah%C3%A1%CA%BC%C3%AD_Faith"
+        },
+        {
+          "text": "Hinduism",
+          "href": "https://en.wikipedia.org/wiki/Hinduism"
+        },
+        {
+          "text": "others",
+          "href": "https://en.wikipedia.org/wiki/Religion_in_Barbados"
+        }
+      ],
+      "sub_items": [
+        "75.6% Christianity",
+        "20.6% No religion",
+        "2.0% Baháʼí Faith",
+        "1.1% Hinduism",
+        "0.7% others"
+      ]
+    },
+    {
+      "label": "Demonyms",
+      "value": "Barbadian Bajan",
+      "links": [
+        {
+          "text": "Barbadian",
+          "href": "https://en.wikipedia.org/wiki/Barbadians"
+        },
+        {
+          "text": "Bajan",
+          "href": "https://en.wikipedia.org/wiki/Barbadians"
+        }
+      ],
+      "sub_items": [
+        "Barbadian",
+        "Bajan"
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Unitary parliamentary republic",
+      "links": [
+        {
+          "text": "Unitary parliamentary republic",
+          "href": "https://en.wikipedia.org/wiki/Unitary_parliamentary_republic"
+        }
+      ]
+    },
+    {
+      "label": "• President",
+      "value": "Jeffrey Bostic",
+      "links": [
+        {
+          "text": "Jeffrey Bostic",
+          "href": "https://en.wikipedia.org/wiki/Jeffrey_Bostic"
+        }
+      ]
+    },
+    {
+      "label": "• Prime Minister",
+      "value": "Mia Mottley",
+      "links": [
+        {
+          "text": "Mia Mottley",
+          "href": "https://en.wikipedia.org/wiki/Mia_Mottley"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "Parliament",
+      "links": [
+        {
+          "text": "Parliament",
+          "href": "https://en.wikipedia.org/wiki/Parliament_of_Barbados"
+        }
+      ]
+    },
+    {
+      "label": "• Upper house",
+      "value": "Senate",
+      "links": [
+        {
+          "text": "Senate",
+          "href": "https://en.wikipedia.org/wiki/Senate_of_Barbados"
+        }
+      ]
+    },
+    {
+      "label": "• Lower house",
+      "value": "House of Assembly",
+      "links": [
+        {
+          "text": "House of Assembly",
+          "href": "https://en.wikipedia.org/wiki/House_of_Assembly_of_Barbados"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Independence from the United Kingdom",
+      "rows": [
+        {
+          "label": "• Part of the West Indies Federation",
+          "value": "3 January 1958 – 31 May 1962"
+        },
+        {
+          "label": "• Barbados Independence Act 1966 as a Commonwealth realm",
+          "value": "30 November 1966"
+        },
+        {
+          "label": "• Admitted to the UN",
+          "value": "7 December 1966"
+        },
+        {
+          "label": "• Joined CARICOM at the Treaty of Chaguaramas",
+          "value": "1 August 1973"
+        },
+        {
+          "label": "• Republic established",
+          "value": "30 November 2021"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "439 km (169 sq mi) ( 183rd )",
+          "links": [
+            {
+              "text": "183rd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "Negligible"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2023 estimate",
+          "value": "281,998 ( 174th )",
+          "links": [
+            {
+              "text": "174th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• 2021 census",
+          "value": "269,090 ( 174th )",
+          "links": [
+            {
+              "text": "174th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• Density",
+          "value": "660/km (1,709.4/sq mi) ( 17th )",
+          "links": [
+            {
+              "text": "17th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2023 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$5.436 billion ( 175th )",
+          "links": [
+            {
+              "text": "175th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$18,738 ( 90th )",
+          "links": [
+            {
+              "text": "90th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2023 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$6.220 billion ( 165th )",
+          "links": [
+            {
+              "text": "165th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$21,442 ( 50th )",
+          "links": [
+            {
+              "text": "50th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "Gini (2016)",
+          "value": "34.1 medium inequality"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.811 very high ( 69th )",
+          "links": [
+            {
+              "text": "69th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "Barbadian dollar ($) ( BBD )",
+          "links": [
+            {
+              "text": "Barbadian dollar",
+              "href": "https://en.wikipedia.org/wiki/Barbadian_dollar"
+            },
+            {
+              "text": "BBD",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC −04:00 ( AST )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "AST",
+              "href": "https://en.wikipedia.org/wiki/Atlantic_Time_Zone"
+            }
+          ]
+        },
+        {
+          "label": "Date format",
+          "value": "dd/mm/yyyy"
+        },
+        {
+          "label": "Calling code",
+          "value": "+1",
+          "links": [
+            {
+              "text": "+1",
+              "href": "https://en.wikipedia.org/wiki/North_American_Numbering_Plan"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "BB",
+          "links": [
+            {
+              "text": "BB",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:BB"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".bb",
+          "links": [
+            {
+              "text": ".bb",
+              "href": "https://en.wikipedia.org/wiki/.bb"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

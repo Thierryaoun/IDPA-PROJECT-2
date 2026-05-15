@@ -1,0 +1,485 @@
+{
+  "country": "Venezuela (Bolivarian Republic of)",
+  "infobox_title": "Bolivarian Republic of Venezuela República Bolivariana de Venezuela ( Spanish )",
+  "data": [
+    {
+      "label": "Capital and largest city",
+      "value": "Caracas 10°30′22″N 66°54′52″W ﻿ / ﻿ 10.50611°N 66.91444°W",
+      "links": [
+        {
+          "text": "Caracas",
+          "href": "https://en.wikipedia.org/wiki/Caracas"
+        },
+        {
+          "text": "10°30′22″N66°54′52″W﻿ / ﻿10.50611°N 66.91444°W",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Venezuela&params=10_30_22_N_66_54_52_W_type:city(3,200,000)_region:VE-A"
+        }
+      ]
+    },
+    {
+      "label": "Official languages",
+      "value": "Spanish",
+      "links": [
+        {
+          "text": "Spanish",
+          "href": "https://en.wikipedia.org/wiki/Venezuelan_Spanish"
+        }
+      ]
+    },
+    {
+      "label": "Recognized regional languages",
+      "value": "26 languages Piapoco Baniwa Locono Wayúu Warao Pemón Panare Yek'uana Yukpa Carib Akawaio Japrería Mapoyo Yawarana Hodï Puinave Jivi Barí Uruak Sapé Pumé Piaroa Yanomamö Sanemá Yanam Yeral",
+      "links": [
+        {
+          "text": "26 languages",
+          "href": "https://en.wikipedia.org/wiki/Languages_of_Venezuela"
+        },
+        {
+          "text": "Piapoco",
+          "href": "https://en.wikipedia.org/wiki/Piapoco_language"
+        },
+        {
+          "text": "Baniwa",
+          "href": "https://en.wikipedia.org/wiki/Baniwa_of_I%C3%A7ana"
+        },
+        {
+          "text": "Locono",
+          "href": "https://en.wikipedia.org/wiki/Arawak_language"
+        },
+        {
+          "text": "Wayúu",
+          "href": "https://en.wikipedia.org/wiki/Wayuu_language"
+        },
+        {
+          "text": "Warao",
+          "href": "https://en.wikipedia.org/wiki/Warao_language"
+        },
+        {
+          "text": "Pemón",
+          "href": "https://en.wikipedia.org/wiki/Pemon_language"
+        },
+        {
+          "text": "Panare",
+          "href": "https://en.wikipedia.org/wiki/Panare_language"
+        },
+        {
+          "text": "Yek'uana",
+          "href": "https://en.wikipedia.org/wiki/Ye%27kuana_language"
+        },
+        {
+          "text": "Yukpa",
+          "href": "https://en.wikipedia.org/wiki/Yukpa_language"
+        },
+        {
+          "text": "Carib",
+          "href": "https://en.wikipedia.org/wiki/Carib_language"
+        },
+        {
+          "text": "Akawaio",
+          "href": "https://en.wikipedia.org/wiki/Kap%C3%B3ng_language"
+        },
+        {
+          "text": "Japrería",
+          "href": "https://en.wikipedia.org/wiki/Japreria_language"
+        },
+        {
+          "text": "Mapoyo",
+          "href": "https://en.wikipedia.org/wiki/Mapoyo-Yabarana_language"
+        },
+        {
+          "text": "Yawarana",
+          "href": "https://en.wikipedia.org/wiki/Mapoyo-Yabarana_language"
+        },
+        {
+          "text": "Hodï",
+          "href": "https://en.wikipedia.org/wiki/Hod%C3%AF_language"
+        },
+        {
+          "text": "Puinave",
+          "href": "https://en.wikipedia.org/wiki/Puinave_language"
+        },
+        {
+          "text": "Jivi",
+          "href": "https://en.wikipedia.org/wiki/Guahibo_language"
+        },
+        {
+          "text": "Barí",
+          "href": "https://en.wikipedia.org/wiki/Bar%C3%AD_language"
+        },
+        {
+          "text": "Uruak",
+          "href": "https://en.wikipedia.org/wiki/Arutani_language"
+        },
+        {
+          "text": "Sapé",
+          "href": "https://en.wikipedia.org/wiki/Sap%C3%A9_language"
+        },
+        {
+          "text": "Pumé",
+          "href": "https://en.wikipedia.org/wiki/Yaruro_language"
+        },
+        {
+          "text": "Piaroa",
+          "href": "https://en.wikipedia.org/wiki/Piaroa_language"
+        },
+        {
+          "text": "Yanomamö",
+          "href": "https://en.wikipedia.org/wiki/Yanomam%C3%B6_language"
+        },
+        {
+          "text": "Sanemá",
+          "href": "https://en.wikipedia.org/wiki/Sanum%C3%A1_language"
+        },
+        {
+          "text": "Yanam",
+          "href": "https://en.wikipedia.org/wiki/Ninam_language"
+        },
+        {
+          "text": "Yeral",
+          "href": "https://en.wikipedia.org/wiki/Nheengatu_language"
+        }
+      ],
+      "sub_items": [
+        "Piapoco",
+        "Baniwa",
+        "Locono",
+        "Wayúu",
+        "Warao",
+        "Pemón",
+        "Panare",
+        "Yek'uana",
+        "Yukpa",
+        "Carib",
+        "Akawaio",
+        "Japrería",
+        "Mapoyo",
+        "Yawarana",
+        "Hodï",
+        "Puinave",
+        "Jivi",
+        "Barí",
+        "Uruak",
+        "Sapé",
+        "Pumé",
+        "Piaroa",
+        "Yanomamö",
+        "Sanemá",
+        "Yanam",
+        "Yeral"
+      ]
+    },
+    {
+      "label": "Ethnic groups (2011)",
+      "value": "51.6% Moreno 43.6% White 3.6% Black 1.2% other",
+      "links": [
+        {
+          "text": "Moreno",
+          "href": "https://en.wikipedia.org/wiki/Moreno_Venezuelans"
+        },
+        {
+          "text": "White",
+          "href": "https://en.wikipedia.org/wiki/Venezuelans_of_European_descent"
+        },
+        {
+          "text": "Black",
+          "href": "https://en.wikipedia.org/wiki/Afro-Venezuelans"
+        }
+      ],
+      "sub_items": [
+        "51.6% Moreno",
+        "43.6% White",
+        "3.6% Black",
+        "1.2% other"
+      ]
+    },
+    {
+      "label": "Religion (2020)",
+      "value": "92.6% Christianity 80.5% Catholicism 11.2% Protestantism 0.9% other Christian 5.5% no religion 1.1% Spiritism , Birongo 0.8% other",
+      "links": [
+        {
+          "text": "Christianity",
+          "href": "https://en.wikipedia.org/wiki/Christianity"
+        },
+        {
+          "text": "Catholicism",
+          "href": "https://en.wikipedia.org/wiki/Catholic_Church_in_Venezuela"
+        },
+        {
+          "text": "Protestantism",
+          "href": "https://en.wikipedia.org/wiki/Protestantism"
+        },
+        {
+          "text": "Christian",
+          "href": "https://en.wikipedia.org/wiki/List_of_Christian_denominations"
+        },
+        {
+          "text": "no religion",
+          "href": "https://en.wikipedia.org/wiki/Irreligion_in_Latin_America"
+        },
+        {
+          "text": "Spiritism",
+          "href": "https://en.wikipedia.org/wiki/Maria_Lionza"
+        },
+        {
+          "text": "Birongo",
+          "href": "https://en.wikipedia.org/wiki/Birongo"
+        }
+      ],
+      "sub_items": [
+        "92.6% Christianity 80.5% Catholicism 11.2% Protestantism 0.9% other Christian",
+        "92.6% Christianity 80.5% Catholicism 11.2% Protestantism 0.9% other Christian",
+        "80.5% Catholicism",
+        "11.2% Protestantism",
+        "0.9% other Christian",
+        "5.5% no religion",
+        "1.1% Spiritism , Birongo",
+        "0.8% other"
+      ]
+    },
+    {
+      "label": "Demonym",
+      "value": "Venezuelan",
+      "links": [
+        {
+          "text": "Venezuelan",
+          "href": "https://en.wikipedia.org/wiki/Venezuelans"
+        }
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Federal presidential republic under an authoritarian dictatorship",
+      "links": [
+        {
+          "text": "presidential republic",
+          "href": "https://en.wikipedia.org/wiki/Presidential_republic"
+        },
+        {
+          "text": "authoritarian",
+          "href": "https://en.wikipedia.org/wiki/Authoritarianism"
+        }
+      ]
+    },
+    {
+      "label": "• President",
+      "value": "Delcy Rodríguez (acting) Nicolás Maduro (de jure)",
+      "links": [
+        {
+          "text": "Delcy Rodríguez",
+          "href": "https://en.wikipedia.org/wiki/Delcy_Rodr%C3%ADguez"
+        },
+        {
+          "text": "Nicolás Maduro",
+          "href": "https://en.wikipedia.org/wiki/Nicol%C3%A1s_Maduro"
+        }
+      ]
+    },
+    {
+      "label": "• Vice President",
+      "value": "Vacant"
+    },
+    {
+      "label": "Legislature",
+      "value": "National Assembly",
+      "links": [
+        {
+          "text": "National Assembly",
+          "href": "https://en.wikipedia.org/wiki/National_Assembly_of_Venezuela"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Independence from Spain",
+      "rows": [
+        {
+          "label": "• Declared",
+          "value": "5 July 1811"
+        },
+        {
+          "label": "• from Gran Colombia",
+          "value": "13 January 1830"
+        },
+        {
+          "label": "• Recognized",
+          "value": "29 March 1845"
+        },
+        {
+          "label": "• Current constitution",
+          "value": "20 December 1999"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "916,445 km (353,841 sq mi) ( 32nd )",
+          "links": [
+            {
+              "text": "32nd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "3.2%"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2025 estimate",
+          "value": "31,800,000 ( 53rd )",
+          "links": [
+            {
+              "text": "53rd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• Density",
+          "value": "32/km (82.9/sq mi) ( 184th )",
+          "links": [
+            {
+              "text": "184th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$234.340 billion ( 77th )",
+          "links": [
+            {
+              "text": "77th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$8,790 ( 133rd )",
+          "links": [
+            {
+              "text": "133rd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$82.770 billion ( 69th )",
+          "links": [
+            {
+              "text": "69th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$3,100 ( 127th )",
+          "links": [
+            {
+              "text": "127th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "Gini (2013)",
+          "value": "44.8 medium inequality"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.709 high ( 121st )",
+          "links": [
+            {
+              "text": "121st",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "Venezuelan bolívar (VED) (official)",
+          "links": [
+            {
+              "text": "Venezuelan bolívar",
+              "href": "https://en.wikipedia.org/wiki/Venezuelan_bol%C3%ADvar"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC −04:00 ( VET )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "VET",
+              "href": "https://en.wikipedia.org/wiki/Time_in_Venezuela"
+            }
+          ]
+        },
+        {
+          "label": "Date format",
+          "value": "dd/mm/yyyy ( CE )",
+          "links": [
+            {
+              "text": "CE",
+              "href": "https://en.wikipedia.org/wiki/Common_Era"
+            }
+          ]
+        },
+        {
+          "label": "Calling code",
+          "value": "+58",
+          "links": [
+            {
+              "text": "+58",
+              "href": "https://en.wikipedia.org/wiki/%2B58"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "VE",
+          "links": [
+            {
+              "text": "VE",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:VE"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".ve",
+          "links": [
+            {
+              "text": ".ve",
+              "href": "https://en.wikipedia.org/wiki/.ve"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

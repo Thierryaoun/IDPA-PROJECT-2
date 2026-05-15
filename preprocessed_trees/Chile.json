@@ -1,0 +1,348 @@
+{
+  "label": "country",
+  "children": [
+    {
+      "label": "name",
+      "children": [
+        {
+          "label": "chile"
+        }
+      ]
+    },
+    {
+      "label": "infobox_title",
+      "children": [
+        {
+          "label": "republic of chile república de chile"
+        }
+      ]
+    },
+    {
+      "label": "capital_and_largest_city",
+      "children": [
+        {
+          "label": "santiago / 33."
+        }
+      ]
+    },
+    {
+      "label": "national_language",
+      "children": [
+        {
+          "label": "spanish"
+        }
+      ]
+    },
+    {
+      "label": "other_spoken_languages",
+      "children": [
+        {
+          "label": "aymara"
+        },
+        {
+          "label": "kawésqar"
+        },
+        {
+          "label": "mapudungun"
+        },
+        {
+          "label": "quechua"
+        },
+        {
+          "label": "rapa nui"
+        }
+      ]
+    },
+    {
+      "label": "religion_2024",
+      "children": [
+        {
+          "label": "70% christianity"
+        },
+        {
+          "label": "54% catholicism"
+        },
+        {
+          "label": "16% protestantism"
+        },
+        {
+          "label": "26% no religion"
+        },
+        {
+          "label": "4% other"
+        }
+      ]
+    },
+    {
+      "label": "demonym",
+      "children": [
+        {
+          "label": "chilean"
+        }
+      ]
+    },
+    {
+      "label": "government",
+      "children": [
+        {
+          "label": "unitary presidential republic"
+        }
+      ]
+    },
+    {
+      "label": "president",
+      "children": [
+        {
+          "label": "josé antonio kast"
+        }
+      ]
+    },
+    {
+      "label": "president_of_the_senate",
+      "children": [
+        {
+          "label": "paulina núñez"
+        }
+      ]
+    },
+    {
+      "label": "president_of_the_chamber_of_deputies",
+      "children": [
+        {
+          "label": "jorge alessandri"
+        }
+      ]
+    },
+    {
+      "label": "president_of_supreme_court",
+      "children": [
+        {
+          "label": "gloria ana chevesich"
+        }
+      ]
+    },
+    {
+      "label": "legislature",
+      "children": [
+        {
+          "label": "national congress"
+        }
+      ]
+    },
+    {
+      "label": "upper_house",
+      "children": [
+        {
+          "label": "senate"
+        }
+      ]
+    },
+    {
+      "label": "lower_house",
+      "children": [
+        {
+          "label": "chamber of deputies"
+        }
+      ]
+    },
+    {
+      "label": "independence_from_spain",
+      "children": [
+        {
+          "label": "government_junta",
+          "children": [
+            {
+              "label": "18 september 1810"
+            }
+          ]
+        },
+        {
+          "label": "declared",
+          "children": [
+            {
+              "label": "12 february 1818"
+            }
+          ]
+        },
+        {
+          "label": "recognized",
+          "children": [
+            {
+              "label": "25 april 1844"
+            }
+          ]
+        },
+        {
+          "label": "current_constitution",
+          "children": [
+            {
+              "label": "11 march 1981"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "area",
+      "children": [
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "756,101.96 km"
+            }
+          ]
+        },
+        {
+          "label": "water",
+          "children": [
+            {
+              "label": "2.1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "population",
+      "children": [
+        {
+          "label": "2023_estimate",
+          "children": [
+            {
+              "label": "19,629,588"
+            }
+          ]
+        },
+        {
+          "label": "density",
+          "children": [
+            {
+              "label": "24/km"
+            }
+          ]
+        },
+        {
+          "label": "gdp_ppp",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$713.030 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$35,290"
+            }
+          ]
+        },
+        {
+          "label": "gdp_nominal",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$347.170 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$17,180"
+            }
+          ]
+        },
+        {
+          "label": "gini_2022",
+          "children": [
+            {
+              "label": "44.8 medium inequality"
+            }
+          ]
+        },
+        {
+          "label": "hdi_2023",
+          "children": [
+            {
+              "label": "0.878 very high"
+            }
+          ]
+        },
+        {
+          "label": "currency",
+          "children": [
+            {
+              "label": "chilean peso"
+            }
+          ]
+        },
+        {
+          "label": "time_zone",
+          "children": [
+            {
+              "label": "utc −3, −4, −6"
+            }
+          ]
+        },
+        {
+          "label": "summer_dst",
+          "children": [
+            {
+              "label": "utc −3, −5"
+            }
+          ]
+        },
+        {
+          "label": "date_format",
+          "children": [
+            {
+              "label": "dd/mm/yyyy"
+            }
+          ]
+        },
+        {
+          "label": "calling_code",
+          "children": [
+            {
+              "label": "+56"
+            }
+          ]
+        },
+        {
+          "label": "iso_3166_code",
+          "children": [
+            {
+              "label": "cl"
+            }
+          ]
+        },
+        {
+          "label": "internet_tld",
+          "children": [
+            {
+              "label": ".cl"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

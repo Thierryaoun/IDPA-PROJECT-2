@@ -1,0 +1,399 @@
+{
+  "country": "Finland",
+  "infobox_title": "Republic of Finland Suomen tasavalta ( Finnish ) Republiken Finland ( Swedish )",
+  "data": [
+    {
+      "label": "Capital and largest city",
+      "value": "Helsinki 60°10′15″N 24°56′15″E ﻿ / ﻿ 60.17083°N 24.93750°E",
+      "links": [
+        {
+          "text": "Helsinki",
+          "href": "https://en.wikipedia.org/wiki/Helsinki"
+        },
+        {
+          "text": "60°10′15″N24°56′15″E﻿ / ﻿60.17083°N 24.93750°E",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Finland&params=60_10_15_N_24_56_15_E_type:city_region:FI"
+        }
+      ]
+    },
+    {
+      "label": "Official languages",
+      "value": "Finnish Swedish",
+      "links": [
+        {
+          "text": "Finnish",
+          "href": "https://en.wikipedia.org/wiki/Finnish_language"
+        },
+        {
+          "text": "Swedish",
+          "href": "https://en.wikipedia.org/wiki/Swedish_language"
+        }
+      ],
+      "sub_items": [
+        "Finnish",
+        "Swedish"
+      ]
+    },
+    {
+      "label": "Recognized national languages",
+      "value": "Sámi Karelian Finnish Kalo Finnish Sign Language Finland-Swedish Sign Language",
+      "links": [
+        {
+          "text": "Sámi",
+          "href": "https://en.wikipedia.org/wiki/S%C3%A1mi_languages"
+        },
+        {
+          "text": "Karelian",
+          "href": "https://en.wikipedia.org/wiki/Karelian_language"
+        },
+        {
+          "text": "Finnish Kalo",
+          "href": "https://en.wikipedia.org/wiki/Finnish_Kalo_language"
+        },
+        {
+          "text": "Finnish Sign Language",
+          "href": "https://en.wikipedia.org/wiki/Finnish_Sign_Language"
+        },
+        {
+          "text": "Finland-Swedish Sign Language",
+          "href": "https://en.wikipedia.org/wiki/Finland-Swedish_Sign_Language"
+        }
+      ],
+      "sub_items": [
+        "Sámi",
+        "Karelian",
+        "Finnish Kalo",
+        "Finnish Sign Language",
+        "Finland-Swedish Sign Language"
+      ]
+    },
+    {
+      "label": "Ethnic groups (2024)",
+      "value": "88.9% Finns 11.1% others",
+      "links": [
+        {
+          "text": "Finns",
+          "href": "https://en.wikipedia.org/wiki/Finns"
+        },
+        {
+          "text": "others",
+          "href": "https://en.wikipedia.org/wiki/Immigration_to_Finland"
+        }
+      ],
+      "sub_items": [
+        "88.9% Finns",
+        "11.1% others"
+      ]
+    },
+    {
+      "label": "Religion (2024)",
+      "value": "64.2% Christianity 62.2% Lutheranism 1.0% Eastern Orthodoxy 1.0% other Christian 34.9% no religion 2.0% other",
+      "links": [
+        {
+          "text": "Christianity",
+          "href": "https://en.wikipedia.org/wiki/Christianity"
+        },
+        {
+          "text": "Lutheranism",
+          "href": "https://en.wikipedia.org/wiki/Evangelical_Lutheran_Church_of_Finland"
+        },
+        {
+          "text": "Eastern Orthodoxy",
+          "href": "https://en.wikipedia.org/wiki/Finnish_Orthodox_Church"
+        },
+        {
+          "text": "Christian",
+          "href": "https://en.wikipedia.org/wiki/Christians"
+        },
+        {
+          "text": "no religion",
+          "href": "https://en.wikipedia.org/wiki/Irreligion_in_Finland"
+        },
+        {
+          "text": "other",
+          "href": "https://en.wikipedia.org/wiki/Religion_in_Finland"
+        }
+      ],
+      "sub_items": [
+        "64.2% Christianity 62.2% Lutheranism 1.0% Eastern Orthodoxy 1.0% other Christian",
+        "64.2% Christianity 62.2% Lutheranism 1.0% Eastern Orthodoxy 1.0% other Christian",
+        "62.2% Lutheranism",
+        "1.0% Eastern Orthodoxy",
+        "1.0% other Christian",
+        "34.9% no religion",
+        "2.0% other"
+      ]
+    },
+    {
+      "label": "Demonyms",
+      "value": "Finnish Finn",
+      "links": [
+        {
+          "text": "Finnish",
+          "href": "https://en.wikipedia.org/wiki/Demographics_of_Finland"
+        },
+        {
+          "text": "Finn",
+          "href": "https://en.wikipedia.org/wiki/Finns"
+        }
+      ],
+      "sub_items": [
+        "Finnish",
+        "Finn"
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Unitary parliamentary republic",
+      "links": [
+        {
+          "text": "Unitary parliamentary republic",
+          "href": "https://en.wikipedia.org/wiki/Unitary_parliamentary_republic"
+        }
+      ]
+    },
+    {
+      "label": "• President",
+      "value": "Alexander Stubb",
+      "links": [
+        {
+          "text": "Alexander Stubb",
+          "href": "https://en.wikipedia.org/wiki/Alexander_Stubb"
+        }
+      ]
+    },
+    {
+      "label": "• Prime Minister",
+      "value": "Petteri Orpo",
+      "links": [
+        {
+          "text": "Petteri Orpo",
+          "href": "https://en.wikipedia.org/wiki/Petteri_Orpo"
+        }
+      ]
+    },
+    {
+      "label": "• Speaker of the Parliament",
+      "value": "Jussi Halla-aho",
+      "links": [
+        {
+          "text": "Jussi Halla-aho",
+          "href": "https://en.wikipedia.org/wiki/Jussi_Halla-aho"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "Parliament",
+      "links": [
+        {
+          "text": "Parliament",
+          "href": "https://en.wikipedia.org/wiki/Parliament_of_Finland"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Independence from Soviet Russia",
+      "rows": [
+        {
+          "label": "• Establishment of Grand Duchy of Finland",
+          "value": "29 March 1809 (from Sweden)"
+        },
+        {
+          "label": "• Declaration of independence",
+          "value": "6 December 1917"
+        },
+        {
+          "label": "• Constitution established",
+          "value": "17 July 1919"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "338,455 km (130,678 sq mi) ( 65th )",
+          "links": [
+            {
+              "text": "65th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "9.71 (2015)"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2024 census",
+          "value": "5,635,971"
+        },
+        {
+          "label": "• Density",
+          "value": "18.4/km (47.7/sq mi) ( 210th )",
+          "links": [
+            {
+              "text": "210th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$373.16 billion ( 61st )",
+          "links": [
+            {
+              "text": "61st",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$66,500 ( 23rd )",
+          "links": [
+            {
+              "text": "23rd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$303.95 billion ( 46th )",
+          "links": [
+            {
+              "text": "46th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$54,160 ( 19th )",
+          "links": [
+            {
+              "text": "19th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "Gini (2023)",
+          "value": "26.6 low inequality"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.948 very high ( 12th )",
+          "links": [
+            {
+              "text": "12th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "Euro ( € ) ( EUR )",
+          "links": [
+            {
+              "text": "Euro",
+              "href": "https://en.wikipedia.org/wiki/Euro"
+            },
+            {
+              "text": "€",
+              "href": "https://en.wikipedia.org/wiki/Euro_sign"
+            },
+            {
+              "text": "EUR",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC +2 ( EET )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "EET",
+              "href": "https://en.wikipedia.org/wiki/Eastern_European_Time"
+            }
+          ]
+        },
+        {
+          "label": "• Summer ( DST )",
+          "value": "UTC +3 ( EEST )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "EEST",
+              "href": "https://en.wikipedia.org/wiki/Eastern_European_Summer_Time"
+            }
+          ]
+        },
+        {
+          "label": "Date format",
+          "value": "dd . mm . yyyy"
+        },
+        {
+          "label": "Calling code",
+          "value": "+358",
+          "links": [
+            {
+              "text": "+358",
+              "href": "https://en.wikipedia.org/wiki/Telephone_numbers_in_Finland"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "FI",
+          "links": [
+            {
+              "text": "FI",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:FI"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".fi , .ax",
+          "links": [
+            {
+              "text": ".fi",
+              "href": "https://en.wikipedia.org/wiki/.fi"
+            },
+            {
+              "text": ".ax",
+              "href": "https://en.wikipedia.org/wiki/.ax"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,455 @@
+{
+  "label": "country",
+  "children": [
+    {
+      "label": "name",
+      "children": [
+        {
+          "label": "zambia"
+        }
+      ]
+    },
+    {
+      "label": "infobox_title",
+      "children": [
+        {
+          "label": "republic of zambia"
+        }
+      ]
+    },
+    {
+      "label": "capital_and_largest_city",
+      "children": [
+        {
+          "label": "lusaka / 15."
+        }
+      ]
+    },
+    {
+      "label": "official_languages",
+      "children": [
+        {
+          "label": "english"
+        }
+      ]
+    },
+    {
+      "label": "recognised_regional_languages",
+      "children": [
+        {
+          "label": "28.5% bemba"
+        },
+        {
+          "label": "13.8% nyanja"
+        },
+        {
+          "label": "11.4% tonga"
+        },
+        {
+          "label": "10.6% tumbuka"
+        },
+        {
+          "label": "5.5% lozi"
+        },
+        {
+          "label": "4.5% chewa"
+        },
+        {
+          "label": "3.0% nsenga"
+        },
+        {
+          "label": "1.9% lunda"
+        },
+        {
+          "label": "1.9% kaonde"
+        },
+        {
+          "label": "1.8% lala"
+        },
+        {
+          "label": "1.8% lamba"
+        },
+        {
+          "label": "1.7% english"
+        },
+        {
+          "label": "1.5% luvale"
+        },
+        {
+          "label": "1.3% mambwe"
+        },
+        {
+          "label": "1.2% lenje"
+        },
+        {
+          "label": "1.2% namwanga"
+        },
+        {
+          "label": "1.0% bisa"
+        },
+        {
+          "label": "0.9% ushi"
+        },
+        {
+          "label": "0.7% ila"
+        },
+        {
+          "label": "0.7% mbunda"
+        },
+        {
+          "label": "0.7% ngoni"
+        },
+        {
+          "label": "0.7% senga"
+        },
+        {
+          "label": "0.6% lungu"
+        },
+        {
+          "label": "0.5% toka-leya"
+        },
+        {
+          "label": "4.7% others"
+        }
+      ]
+    },
+    {
+      "label": "ethnic_groups_2010",
+      "children": [
+        {
+          "label": "19.0% bemba"
+        },
+        {
+          "label": "13.6% tonga"
+        },
+        {
+          "label": "7.5% tumbuka"
+        },
+        {
+          "label": "6.0% chewa"
+        },
+        {
+          "label": "5.7% lozi"
+        },
+        {
+          "label": "5.3% nsenga"
+        },
+        {
+          "label": "3.0% ngoni"
+        },
+        {
+          "label": "3.1% lala"
+        },
+        {
+          "label": "3.9% kaonde"
+        },
+        {
+          "label": "2.8% namwanga"
+        },
+        {
+          "label": "2.6% lunda"
+        },
+        {
+          "label": "2.5% mambwe"
+        },
+        {
+          "label": "2.2% luvale"
+        },
+        {
+          "label": "2.4% lamba"
+        },
+        {
+          "label": "1.9% ushi"
+        },
+        {
+          "label": "1.6% bisa"
+        },
+        {
+          "label": "1.6% lenje"
+        },
+        {
+          "label": "1.2% mbunda"
+        },
+        {
+          "label": "0.9% lunda"
+        },
+        {
+          "label": "0.9% senga"
+        },
+        {
+          "label": "0.8% ila"
+        },
+        {
+          "label": "0.8% lungu"
+        },
+        {
+          "label": "0.7% tabwa"
+        },
+        {
+          "label": "0.7% soli"
+        },
+        {
+          "label": "0.7% kunda"
+        },
+        {
+          "label": "0.6% ngumbo"
+        },
+        {
+          "label": "0.5% chishinga"
+        },
+        {
+          "label": "0.5% chokwe"
+        },
+        {
+          "label": "0.5% nkoya"
+        },
+        {
+          "label": "5.4% other ethnics"
+        },
+        {
+          "label": "0.8% major racial"
+        },
+        {
+          "label": "0.4% unclassified"
+        }
+      ]
+    },
+    {
+      "label": "religion_2023",
+      "children": [
+        {
+          "label": "95.5% christianity"
+        },
+        {
+          "label": "2.7% islam"
+        },
+        {
+          "label": "1.8% other / none"
+        }
+      ]
+    },
+    {
+      "label": "demonym",
+      "children": [
+        {
+          "label": "zambian"
+        }
+      ]
+    },
+    {
+      "label": "government",
+      "children": [
+        {
+          "label": "unitary presidential republic"
+        }
+      ]
+    },
+    {
+      "label": "president",
+      "children": [
+        {
+          "label": "hakainde hichilema"
+        }
+      ]
+    },
+    {
+      "label": "vice_president",
+      "children": [
+        {
+          "label": "mutale nalumango"
+        }
+      ]
+    },
+    {
+      "label": "speaker",
+      "children": [
+        {
+          "label": "nelly mutti"
+        }
+      ]
+    },
+    {
+      "label": "chief_justice",
+      "children": [
+        {
+          "label": "mumba malila"
+        }
+      ]
+    },
+    {
+      "label": "legislature",
+      "children": [
+        {
+          "label": "national assembly of zambia"
+        }
+      ]
+    },
+    {
+      "label": "independence_from_the_united_kingdom",
+      "children": [
+        {
+          "label": "declared",
+          "children": [
+            {
+              "label": "24 october 1964"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "area",
+      "children": [
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "752,617 km"
+            }
+          ]
+        },
+        {
+          "label": "water",
+          "children": [
+            {
+              "label": "1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "population",
+      "children": [
+        {
+          "label": "2023_estimate",
+          "children": [
+            {
+              "label": "20,216,029"
+            }
+          ]
+        },
+        {
+          "label": "density",
+          "children": [
+            {
+              "label": "17.2/km"
+            }
+          ]
+        },
+        {
+          "label": "gdp_ppp",
+          "children": [
+            {
+              "label": "2023 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$83.687 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$4,068"
+            }
+          ]
+        },
+        {
+          "label": "gdp_nominal",
+          "children": [
+            {
+              "label": "2023 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$29.536 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$1,435"
+            }
+          ]
+        },
+        {
+          "label": "gini_2022",
+          "children": [
+            {
+              "label": "51.5 high inequality"
+            }
+          ]
+        },
+        {
+          "label": "hdi_2023",
+          "children": [
+            {
+              "label": "0.595 medium"
+            }
+          ]
+        },
+        {
+          "label": "currency",
+          "children": [
+            {
+              "label": "zambian kwacha"
+            }
+          ]
+        },
+        {
+          "label": "time_zone",
+          "children": [
+            {
+              "label": "utc +2"
+            }
+          ]
+        },
+        {
+          "label": "date_format",
+          "children": [
+            {
+              "label": "dd/mm/yyyy"
+            }
+          ]
+        },
+        {
+          "label": "calling_code",
+          "children": [
+            {
+              "label": "+260"
+            }
+          ]
+        },
+        {
+          "label": "iso_3166_code",
+          "children": [
+            {
+              "label": "zm"
+            }
+          ]
+        },
+        {
+          "label": "internet_tld",
+          "children": [
+            {
+              "label": ".zm"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

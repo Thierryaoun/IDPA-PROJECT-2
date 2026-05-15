@@ -1,0 +1,306 @@
+{
+  "label": "country",
+  "children": [
+    {
+      "label": "name",
+      "children": [
+        {
+          "label": "mongolia"
+        }
+      ]
+    },
+    {
+      "label": "infobox_title",
+      "children": [
+        {
+          "label": "mongolia ᠮᠤᠩᠭᠤᠯ ᠤᠯᠤᠰ монгол улс"
+        }
+      ]
+    },
+    {
+      "label": "capital_and_largest_city",
+      "children": [
+        {
+          "label": "ulaanbaatar /"
+        }
+      ]
+    },
+    {
+      "label": "official_languages",
+      "children": [
+        {
+          "label": "( buriat"
+        },
+        {
+          "label": "khalkha"
+        },
+        {
+          "label": "oirat )"
+        }
+      ]
+    },
+    {
+      "label": "official_scripts",
+      "children": [
+        {
+          "label": "mongolian"
+        },
+        {
+          "label": "cyrillic"
+        }
+      ]
+    },
+    {
+      "label": "ethnic_groups_2020",
+      "children": [
+        {
+          "label": "95.6% mongols"
+        },
+        {
+          "label": "3.8% kazakhs"
+        },
+        {
+          "label": "0.6% other"
+        }
+      ]
+    },
+    {
+      "label": "religion_2020",
+      "children": [
+        {
+          "label": "51.7% buddhism"
+        },
+        {
+          "label": "40.6% no religion"
+        },
+        {
+          "label": "3.2% islam"
+        },
+        {
+          "label": "2.5% shamanism"
+        },
+        {
+          "label": "1.3% christianity"
+        },
+        {
+          "label": "0.7% other"
+        }
+      ]
+    },
+    {
+      "label": "demonyms",
+      "children": [
+        {
+          "label": "mongolian , mongol"
+        }
+      ]
+    },
+    {
+      "label": "government",
+      "children": [
+        {
+          "label": "unitary semi-presidential republic"
+        }
+      ]
+    },
+    {
+      "label": "president",
+      "children": [
+        {
+          "label": "ukhnaagiin khürelsükh"
+        }
+      ]
+    },
+    {
+      "label": "prime_minister",
+      "children": [
+        {
+          "label": "gombojavyn zandanshatar"
+        }
+      ]
+    },
+    {
+      "label": "chairman_of_the_state_great_khural",
+      "children": [
+        {
+          "label": "nyam-osoryn uchral"
+        }
+      ]
+    },
+    {
+      "label": "legislature",
+      "children": [
+        {
+          "label": "state great khural"
+        }
+      ]
+    },
+    {
+      "label": "formation",
+      "children": [
+        {
+          "label": "mongolian_people_s_republic",
+          "children": [
+            {
+              "label": "26 november 1924"
+            }
+          ]
+        },
+        {
+          "label": "current_constitution",
+          "children": [
+            {
+              "label": "12 february 1992"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "area",
+      "children": [
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "1,564,116 km"
+            }
+          ]
+        },
+        {
+          "label": "water",
+          "children": [
+            {
+              "label": "0.67"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "population",
+      "children": [
+        {
+          "label": "2023_estimate",
+          "children": [
+            {
+              "label": "3,504,741"
+            }
+          ]
+        },
+        {
+          "label": "density",
+          "children": [
+            {
+              "label": "2.24/km"
+            }
+          ]
+        },
+        {
+          "label": "gdp_ppp",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$73.280 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$20,450"
+            }
+          ]
+        },
+        {
+          "label": "gdp_nominal",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$25.800 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$7,200"
+            }
+          ]
+        },
+        {
+          "label": "gini_2018",
+          "children": [
+            {
+              "label": "32.7 medium inequality"
+            }
+          ]
+        },
+        {
+          "label": "hdi_2023",
+          "children": [
+            {
+              "label": "0.747 high"
+            }
+          ]
+        },
+        {
+          "label": "currency",
+          "children": [
+            {
+              "label": "tögrög"
+            }
+          ]
+        },
+        {
+          "label": "time_zone",
+          "children": [
+            {
+              "label": "utc +7/+8"
+            }
+          ]
+        },
+        {
+          "label": "calling_code",
+          "children": [
+            {
+              "label": "+976"
+            }
+          ]
+        },
+        {
+          "label": "iso_3166_code",
+          "children": [
+            {
+              "label": "mn"
+            }
+          ]
+        },
+        {
+          "label": "internet_tld",
+          "children": [
+            {
+              "label": ".mn , .мон"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

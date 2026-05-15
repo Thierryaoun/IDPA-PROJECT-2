@@ -1,0 +1,396 @@
+{
+  "label": "country",
+  "children": [
+    {
+      "label": "name",
+      "children": [
+        {
+          "label": "united states of america"
+        }
+      ]
+    },
+    {
+      "label": "infobox_title",
+      "children": [
+        {
+          "label": "united states of america"
+        }
+      ]
+    },
+    {
+      "label": "capital",
+      "children": [
+        {
+          "label": "washington, d.c. / 38."
+        }
+      ]
+    },
+    {
+      "label": "largest_city",
+      "children": [
+        {
+          "label": "new york city / 40."
+        }
+      ]
+    },
+    {
+      "label": "official_languages",
+      "children": [
+        {
+          "label": "english"
+        }
+      ]
+    },
+    {
+      "label": "ethnic_groups_2020",
+      "children": [
+        {
+          "label": "61.6% white"
+        },
+        {
+          "label": "12.4% black"
+        },
+        {
+          "label": "6% asian"
+        },
+        {
+          "label": "1.1% native american"
+        },
+        {
+          "label": "0.2% pacific islander"
+        },
+        {
+          "label": "10.2% two or more races"
+        },
+        {
+          "label": "8.4% other"
+        },
+        {
+          "label": "81.3% non- hispanic or latino"
+        },
+        {
+          "label": "18.7% hispanic or latino"
+        }
+      ]
+    },
+    {
+      "label": "religion_2025",
+      "children": [
+        {
+          "label": "65% christianity"
+        },
+        {
+          "label": "32% protestantism"
+        },
+        {
+          "label": "20% catholicism"
+        },
+        {
+          "label": "12% other christian"
+        },
+        {
+          "label": "1% mormonism"
+        },
+        {
+          "label": "24% unaffiliated"
+        },
+        {
+          "label": "2% judaism"
+        },
+        {
+          "label": "6% other religion"
+        },
+        {
+          "label": "3% unanswered"
+        }
+      ]
+    },
+    {
+      "label": "demonym",
+      "children": [
+        {
+          "label": "american"
+        }
+      ]
+    },
+    {
+      "label": "government",
+      "children": [
+        {
+          "label": "federal presidential republic"
+        }
+      ]
+    },
+    {
+      "label": "president",
+      "children": [
+        {
+          "label": "donald trump"
+        }
+      ]
+    },
+    {
+      "label": "vice_president",
+      "children": [
+        {
+          "label": "jd vance"
+        }
+      ]
+    },
+    {
+      "label": "house_speaker",
+      "children": [
+        {
+          "label": "mike johnson"
+        }
+      ]
+    },
+    {
+      "label": "chief_justice",
+      "children": [
+        {
+          "label": "john roberts"
+        }
+      ]
+    },
+    {
+      "label": "legislature",
+      "children": [
+        {
+          "label": "congress"
+        }
+      ]
+    },
+    {
+      "label": "upper_house",
+      "children": [
+        {
+          "label": "senate"
+        }
+      ]
+    },
+    {
+      "label": "lower_house",
+      "children": [
+        {
+          "label": "house of representatives"
+        }
+      ]
+    },
+    {
+      "label": "independence_from_great_britain",
+      "children": [
+        {
+          "label": "declaration",
+          "children": [
+            {
+              "label": "july 4, 1776 ; 249 years ago"
+            }
+          ]
+        },
+        {
+          "label": "confederation",
+          "children": [
+            {
+              "label": "march 1, 1781"
+            }
+          ]
+        },
+        {
+          "label": "recognition",
+          "children": [
+            {
+              "label": "september 3, 1783"
+            }
+          ]
+        },
+        {
+          "label": "constitution",
+          "children": [
+            {
+              "label": "march 4, 1789"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "area",
+      "children": [
+        {
+          "label": "total_area",
+          "children": [
+            {
+              "label": "3,796,742 sq mi"
+            }
+          ]
+        },
+        {
+          "label": "water",
+          "children": [
+            {
+              "label": "7.0"
+            }
+          ]
+        },
+        {
+          "label": "land_area",
+          "children": [
+            {
+              "label": "3,531,905 sq mi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "population",
+      "children": [
+        {
+          "label": "2025_estimate",
+          "children": [
+            {
+              "label": "341,784,857"
+            }
+          ]
+        },
+        {
+          "label": "2020_census",
+          "children": [
+            {
+              "label": "331,449,281"
+            }
+          ]
+        },
+        {
+          "label": "density",
+          "children": [
+            {
+              "label": "96.8/sq mi"
+            }
+          ]
+        },
+        {
+          "label": "gdp_ppp",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$30.616 trillion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$89,599"
+            }
+          ]
+        },
+        {
+          "label": "gdp_nominal",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$30.616 trillion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$89,599"
+            }
+          ]
+        },
+        {
+          "label": "gini_2024",
+          "children": [
+            {
+              "label": "41.8 medium inequality"
+            }
+          ]
+        },
+        {
+          "label": "hdi_2023",
+          "children": [
+            {
+              "label": "0.938 very high"
+            }
+          ]
+        },
+        {
+          "label": "currency",
+          "children": [
+            {
+              "label": "u.s. dollar"
+            }
+          ]
+        },
+        {
+          "label": "time_zone",
+          "children": [
+            {
+              "label": "utc −4 to −12 , +10 , +11"
+            }
+          ]
+        },
+        {
+          "label": "summer_dst",
+          "children": [
+            {
+              "label": "utc −4 to −10"
+            }
+          ]
+        },
+        {
+          "label": "date_format",
+          "children": [
+            {
+              "label": "mm / dd / yyyy"
+            }
+          ]
+        },
+        {
+          "label": "calling_code",
+          "children": [
+            {
+              "label": "+1"
+            }
+          ]
+        },
+        {
+          "label": "iso_3166_code",
+          "children": [
+            {
+              "label": "us"
+            }
+          ]
+        },
+        {
+          "label": "internet_tld",
+          "children": [
+            {
+              "label": ".com , .us"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

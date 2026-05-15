@@ -1,0 +1,332 @@
+{
+  "label": "country",
+  "children": [
+    {
+      "label": "name",
+      "children": [
+        {
+          "label": "republic of korea"
+        }
+      ]
+    },
+    {
+      "label": "infobox_title",
+      "children": [
+        {
+          "label": "republic of korea 대한민국 daehanminguk"
+        }
+      ]
+    },
+    {
+      "label": "capital_and_largest_city",
+      "children": [
+        {
+          "label": "seoul / 37."
+        }
+      ]
+    },
+    {
+      "label": "official_languages",
+      "children": [
+        {
+          "label": "korean korean sign language"
+        }
+      ]
+    },
+    {
+      "label": "official_script",
+      "children": [
+        {
+          "label": "hangul"
+        }
+      ]
+    },
+    {
+      "label": "ethnic_groups_2024",
+      "children": [
+        {
+          "label": "94.8% korean"
+        },
+        {
+          "label": "5.2% other"
+        }
+      ]
+    },
+    {
+      "label": "religion_2024",
+      "children": [
+        {
+          "label": "51% no religion"
+        },
+        {
+          "label": "31% christianity"
+        },
+        {
+          "label": "20% protestant"
+        },
+        {
+          "label": "11% catholic"
+        },
+        {
+          "label": "17% buddhism"
+        },
+        {
+          "label": "2% other"
+        }
+      ]
+    },
+    {
+      "label": "demonyms",
+      "children": [
+        {
+          "label": "south korean"
+        },
+        {
+          "label": "korean"
+        }
+      ]
+    },
+    {
+      "label": "government",
+      "children": [
+        {
+          "label": "unitary presidential republic"
+        }
+      ]
+    },
+    {
+      "label": "president",
+      "children": [
+        {
+          "label": "lee jae myung"
+        }
+      ]
+    },
+    {
+      "label": "prime_minister",
+      "children": [
+        {
+          "label": "kim min-seok"
+        }
+      ]
+    },
+    {
+      "label": "speaker_of_the_national_assembly",
+      "children": [
+        {
+          "label": "woo won-shik"
+        }
+      ]
+    },
+    {
+      "label": "chief_justice_of_the_supreme_court",
+      "children": [
+        {
+          "label": "cho hee-dae"
+        }
+      ]
+    },
+    {
+      "label": "president_of_the_constitutional_court",
+      "children": [
+        {
+          "label": "kim sanghwan"
+        }
+      ]
+    },
+    {
+      "label": "legislature",
+      "children": [
+        {
+          "label": "national assembly"
+        }
+      ]
+    },
+    {
+      "label": "establishment_history",
+      "children": [
+        {
+          "label": "provisional_government_in_exile",
+          "children": [
+            {
+              "label": "11 april 1919"
+            }
+          ]
+        },
+        {
+          "label": "american_administration_south_of_the_38th_parallel",
+          "children": [
+            {
+              "label": "8 september 1945"
+            }
+          ]
+        },
+        {
+          "label": "constitution_adopted",
+          "children": [
+            {
+              "label": "17 july 1948"
+            }
+          ]
+        },
+        {
+          "label": "rok_established",
+          "children": [
+            {
+              "label": "15 august 1948"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "area",
+      "children": [
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "100,363 km"
+            }
+          ]
+        },
+        {
+          "label": "water",
+          "children": [
+            {
+              "label": "0.3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "population",
+      "children": [
+        {
+          "label": "2024_estimate",
+          "children": [
+            {
+              "label": "52,081,799"
+            }
+          ]
+        },
+        {
+          "label": "density",
+          "children": [
+            {
+              "label": "507/km"
+            }
+          ]
+        },
+        {
+          "label": "gdp_ppp",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$3.363 trillion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$65,080"
+            }
+          ]
+        },
+        {
+          "label": "gdp_nominal",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$1.859 trillion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$35,962"
+            }
+          ]
+        },
+        {
+          "label": "gini_2021",
+          "children": [
+            {
+              "label": "33.3 medium inequality"
+            }
+          ]
+        },
+        {
+          "label": "hdi_2023",
+          "children": [
+            {
+              "label": "0.937 very high"
+            }
+          ]
+        },
+        {
+          "label": "currency",
+          "children": [
+            {
+              "label": "korean republic won"
+            }
+          ]
+        },
+        {
+          "label": "time_zone",
+          "children": [
+            {
+              "label": "utc +9"
+            }
+          ]
+        },
+        {
+          "label": "calling_code",
+          "children": [
+            {
+              "label": "+82"
+            }
+          ]
+        },
+        {
+          "label": "iso_3166_code",
+          "children": [
+            {
+              "label": "kr"
+            }
+          ]
+        },
+        {
+          "label": "internet_tld",
+          "children": [
+            {
+              "label": ".kr"
+            },
+            {
+              "label": ".한국"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

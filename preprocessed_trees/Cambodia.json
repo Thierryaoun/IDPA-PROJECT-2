@@ -1,0 +1,401 @@
+{
+  "label": "country",
+  "children": [
+    {
+      "label": "name",
+      "children": [
+        {
+          "label": "cambodia"
+        }
+      ]
+    },
+    {
+      "label": "infobox_title",
+      "children": [
+        {
+          "label": "kingdom of cambodia ព្រះរាជាណាចក្រកម្ពុជា preah reacheanachak kampuchea"
+        }
+      ]
+    },
+    {
+      "label": "capital_and_largest_city",
+      "children": [
+        {
+          "label": "phnom penh / 11."
+        }
+      ]
+    },
+    {
+      "label": "official_languages",
+      "children": [
+        {
+          "label": "khmer"
+        }
+      ]
+    },
+    {
+      "label": "official_script",
+      "children": [
+        {
+          "label": "khmer"
+        }
+      ]
+    },
+    {
+      "label": "ethnic_groups_2019_20",
+      "children": [
+        {
+          "label": "95.4% khmer"
+        },
+        {
+          "label": "2.4% cham"
+        },
+        {
+          "label": "1.5% chinese"
+        },
+        {
+          "label": "0.8% others"
+        }
+      ]
+    },
+    {
+      "label": "religion_2024",
+      "children": [
+        {
+          "label": "96.5% buddhism"
+        },
+        {
+          "label": "2.6% islam"
+        },
+        {
+          "label": "0.3% christianity"
+        },
+        {
+          "label": "0.5% others"
+        }
+      ]
+    },
+    {
+      "label": "demonym",
+      "children": [
+        {
+          "label": "cambodian"
+        }
+      ]
+    },
+    {
+      "label": "government",
+      "children": [
+        {
+          "label": "unitary parliamentary constitutional elective monarchy under a hereditary dictatorship"
+        }
+      ]
+    },
+    {
+      "label": "monarch",
+      "children": [
+        {
+          "label": "norodom sihamoni"
+        }
+      ]
+    },
+    {
+      "label": "prime_minister",
+      "children": [
+        {
+          "label": "hun manet"
+        }
+      ]
+    },
+    {
+      "label": "president_of_the_senate",
+      "children": [
+        {
+          "label": "hun sen"
+        }
+      ]
+    },
+    {
+      "label": "president_of_the_national_assembly",
+      "children": [
+        {
+          "label": "khuon sodary"
+        }
+      ]
+    },
+    {
+      "label": "legislature",
+      "children": [
+        {
+          "label": "parliament"
+        }
+      ]
+    },
+    {
+      "label": "upper_house",
+      "children": [
+        {
+          "label": "senate"
+        }
+      ]
+    },
+    {
+      "label": "lower_house",
+      "children": [
+        {
+          "label": "national assembly"
+        }
+      ]
+    },
+    {
+      "label": "formation",
+      "children": [
+        {
+          "label": "funan",
+          "children": [
+            {
+              "label": "68–550"
+            }
+          ]
+        },
+        {
+          "label": "chenla",
+          "children": [
+            {
+              "label": "550–802"
+            }
+          ]
+        },
+        {
+          "label": "khmer_empire",
+          "children": [
+            {
+              "label": "802–1431"
+            }
+          ]
+        },
+        {
+          "label": "middle_period",
+          "children": [
+            {
+              "label": "1431–1863"
+            }
+          ]
+        },
+        {
+          "label": "french_protectorate",
+          "children": [
+            {
+              "label": "11 august 1863"
+            }
+          ]
+        },
+        {
+          "label": "independence_from_france",
+          "children": [
+            {
+              "label": "9 november 1953"
+            }
+          ]
+        },
+        {
+          "label": "khmer_republic",
+          "children": [
+            {
+              "label": "9 october 1970"
+            }
+          ]
+        },
+        {
+          "label": "democratic_kampuchea",
+          "children": [
+            {
+              "label": "5 january 1976"
+            }
+          ]
+        },
+        {
+          "label": "people_s_republic_of_kampuchea",
+          "children": [
+            {
+              "label": "8 january 1979"
+            }
+          ]
+        },
+        {
+          "label": "state_of_cambodia",
+          "children": [
+            {
+              "label": "30 april 1989"
+            }
+          ]
+        },
+        {
+          "label": "united_nations_administered_cambodia",
+          "children": [
+            {
+              "label": "28 february 1992"
+            }
+          ]
+        },
+        {
+          "label": "monarchy_restored",
+          "children": [
+            {
+              "label": "24 september 1993"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "area",
+      "children": [
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "181,035 km"
+            }
+          ]
+        },
+        {
+          "label": "water",
+          "children": [
+            {
+              "label": "2.5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "population",
+      "children": [
+        {
+          "label": "2024_estimate",
+          "children": [
+            {
+              "label": "17,638,801"
+            }
+          ]
+        },
+        {
+          "label": "density",
+          "children": [
+            {
+              "label": "94.4/km"
+            }
+          ]
+        },
+        {
+          "label": "gdp_ppp",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$150.050 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$8,650"
+            }
+          ]
+        },
+        {
+          "label": "gdp_nominal",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$49.800 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$2,870"
+            }
+          ]
+        },
+        {
+          "label": "gini_2024",
+          "children": [
+            {
+              "label": "23.6 low inequality"
+            }
+          ]
+        },
+        {
+          "label": "hdi_2023",
+          "children": [
+            {
+              "label": "0.606 medium"
+            }
+          ]
+        },
+        {
+          "label": "currency",
+          "children": [
+            {
+              "label": "riel"
+            },
+            {
+              "label": "united states dollar"
+            }
+          ]
+        },
+        {
+          "label": "time_zone",
+          "children": [
+            {
+              "label": "utc +07:00"
+            }
+          ]
+        },
+        {
+          "label": "calling_code",
+          "children": [
+            {
+              "label": "+855"
+            }
+          ]
+        },
+        {
+          "label": "iso_3166_code",
+          "children": [
+            {
+              "label": "kh"
+            }
+          ]
+        },
+        {
+          "label": "internet_tld",
+          "children": [
+            {
+              "label": ".kh"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

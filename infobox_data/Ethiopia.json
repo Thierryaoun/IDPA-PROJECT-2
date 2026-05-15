@@ -1,0 +1,512 @@
+{
+  "country": "Ethiopia",
+  "infobox_title": "Federal Democratic Republic of Ethiopia የኢትዮጵያ ፌዴራላዊ ዴሞክራሲያዊ ሪፐብሊክ ( Amharic ) Yäʾityop̣p̣yawi Federalawi Demokrasiyawi Ripäblik in other official languages Afar : Itiyoppiya Federalih Demokrasih Ummuno Arabic : جمهورية إثيوبيا الاتحادية الديمقراطية Oromo : Rippabliikii Federaalawaa Dimokraatawaa Itoophiyaa Somali : Jamhuuriyadda Dimuqraadiga Federaalka Itoobiya Tigrinya : ናይኢትዮጵያ ፌዴራላዊ ዴሞክራሲያዊ ሪፐብሊክ",
+  "data": [
+    {
+      "label": "Afar :",
+      "value": "Itiyoppiya Federalih Demokrasih Ummuno"
+    },
+    {
+      "label": "Afar :",
+      "value": "Itiyoppiya Federalih Demokrasih Ummuno"
+    },
+    {
+      "label": "Arabic :",
+      "value": "جمهورية إثيوبيا الاتحادية الديمقراطية"
+    },
+    {
+      "label": "Oromo :",
+      "value": "Rippabliikii Federaalawaa Dimokraatawaa Itoophiyaa"
+    },
+    {
+      "label": "Somali :",
+      "value": "Jamhuuriyadda Dimuqraadiga Federaalka Itoobiya"
+    },
+    {
+      "label": "Tigrinya :",
+      "value": "ናይኢትዮጵያ ፌዴራላዊ ዴሞክራሲያዊ ሪፐብሊክ"
+    },
+    {
+      "label": "Capital and largest city",
+      "value": "Addis Ababa 9°1′N 38°45′E ﻿ / ﻿ 9.017°N 38.750°E",
+      "links": [
+        {
+          "text": "Addis Ababa",
+          "href": "https://en.wikipedia.org/wiki/Addis_Ababa"
+        },
+        {
+          "text": "9°1′N38°45′E﻿ / ﻿9.017°N 38.750°E",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Ethiopia&params=9_1_N_38_45_E_type:city(2,700,000)_region:ET-AA"
+        }
+      ]
+    },
+    {
+      "label": "Official languages",
+      "value": "Afar Amharic Oromo Somali Tigrinya",
+      "links": [
+        {
+          "text": "Afar",
+          "href": "https://en.wikipedia.org/wiki/Afar_language"
+        },
+        {
+          "text": "Amharic",
+          "href": "https://en.wikipedia.org/wiki/Amharic"
+        },
+        {
+          "text": "Oromo",
+          "href": "https://en.wikipedia.org/wiki/Oromo_language"
+        },
+        {
+          "text": "Somali",
+          "href": "https://en.wikipedia.org/wiki/Somali_language"
+        },
+        {
+          "text": "Tigrinya",
+          "href": "https://en.wikipedia.org/wiki/Tigrinya_language"
+        }
+      ],
+      "sub_items": [
+        "Afar",
+        "Amharic",
+        "Oromo",
+        "Somali",
+        "Tigrinya"
+      ]
+    },
+    {
+      "label": "Regional languages",
+      "value": "Harari Sidama Languages of Ethiopia",
+      "links": [
+        {
+          "text": "Harari",
+          "href": "https://en.wikipedia.org/wiki/Harari_language"
+        },
+        {
+          "text": "Sidama",
+          "href": "https://en.wikipedia.org/wiki/Sidamo_language"
+        },
+        {
+          "text": "Languages of Ethiopia",
+          "href": "https://en.wikipedia.org/wiki/Languages_of_Ethiopia"
+        }
+      ],
+      "sub_items": [
+        "Harari",
+        "Sidama",
+        "Languages of Ethiopia"
+      ]
+    },
+    {
+      "label": "Ethnic groups (2007 )",
+      "value": "34.5% Oromo 26.9% Amhara 6.2% Somali 6.1% Tigrayan 4.0% Sidama 2.5% Gurage 2.3% Welayta 1.7% Hadiya 1.7% Afar 1.5% Gamo 12.6% others",
+      "links": [
+        {
+          "text": "Oromo",
+          "href": "https://en.wikipedia.org/wiki/Oromo_people"
+        },
+        {
+          "text": "Amhara",
+          "href": "https://en.wikipedia.org/wiki/Amhara_people"
+        },
+        {
+          "text": "Somali",
+          "href": "https://en.wikipedia.org/wiki/Somalis_in_Ethiopia"
+        },
+        {
+          "text": "Tigrayan",
+          "href": "https://en.wikipedia.org/wiki/Tigrayans"
+        },
+        {
+          "text": "Sidama",
+          "href": "https://en.wikipedia.org/wiki/Sidama_people"
+        },
+        {
+          "text": "Gurage",
+          "href": "https://en.wikipedia.org/wiki/Gurage_people"
+        },
+        {
+          "text": "Welayta",
+          "href": "https://en.wikipedia.org/wiki/Welayta_people"
+        },
+        {
+          "text": "Hadiya",
+          "href": "https://en.wikipedia.org/wiki/Hadiya_people"
+        },
+        {
+          "text": "Afar",
+          "href": "https://en.wikipedia.org/wiki/Afar_people"
+        },
+        {
+          "text": "Gamo",
+          "href": "https://en.wikipedia.org/wiki/Gamo_people"
+        },
+        {
+          "text": "others",
+          "href": "https://en.wikipedia.org/wiki/List_of_ethnic_groups_in_Ethiopia"
+        }
+      ],
+      "sub_items": [
+        "34.5% Oromo",
+        "26.9% Amhara",
+        "6.2% Somali",
+        "6.1% Tigrayan",
+        "4.0% Sidama",
+        "2.5% Gurage",
+        "2.3% Welayta",
+        "1.7% Hadiya",
+        "1.7% Afar",
+        "1.5% Gamo",
+        "12.6% others"
+      ]
+    },
+    {
+      "label": "Religion (2016 )",
+      "value": "67.3% Christianity 43.8% Ethiopian Orthodoxy 22.8% P'ent'ay 0.7% other Christian 31.3% Islam 0.6% traditional faiths 0.8% others / none",
+      "links": [
+        {
+          "text": "Christianity",
+          "href": "https://en.wikipedia.org/wiki/Christianity_in_Ethiopia"
+        },
+        {
+          "text": "Ethiopian Orthodoxy",
+          "href": "https://en.wikipedia.org/wiki/Ethiopian_Orthodox_Church"
+        },
+        {
+          "text": "P'ent'ay",
+          "href": "https://en.wikipedia.org/wiki/P%27ent%27ay"
+        },
+        {
+          "text": "Christian",
+          "href": "https://en.wikipedia.org/wiki/Christians"
+        },
+        {
+          "text": "Islam",
+          "href": "https://en.wikipedia.org/wiki/Islam_in_Ethiopia"
+        },
+        {
+          "text": "traditional faiths",
+          "href": "https://en.wikipedia.org/wiki/Traditional_African_religion"
+        },
+        {
+          "text": "others",
+          "href": "https://en.wikipedia.org/wiki/Religion_in_Ethiopia"
+        },
+        {
+          "text": "none",
+          "href": "https://en.wikipedia.org/wiki/Irreligion"
+        }
+      ],
+      "sub_items": [
+        "67.3% Christianity 43.8% Ethiopian Orthodoxy 22.8% P'ent'ay 0.7% other Christian",
+        "67.3% Christianity 43.8% Ethiopian Orthodoxy 22.8% P'ent'ay 0.7% other Christian",
+        "43.8% Ethiopian Orthodoxy",
+        "22.8% P'ent'ay",
+        "0.7% other Christian",
+        "31.3% Islam",
+        "0.6% traditional faiths",
+        "0.8% others / none"
+      ]
+    },
+    {
+      "label": "Demonym",
+      "value": "Ethiopian",
+      "links": [
+        {
+          "text": "Ethiopian",
+          "href": "https://en.wikipedia.org/wiki/Ethiopians"
+        }
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Federal parliamentary republic under an authoritarian government",
+      "links": [
+        {
+          "text": "parliamentary republic",
+          "href": "https://en.wikipedia.org/wiki/Parliamentary_republic"
+        },
+        {
+          "text": "authoritarian",
+          "href": "https://en.wikipedia.org/wiki/Authoritarianism"
+        }
+      ]
+    },
+    {
+      "label": "• President",
+      "value": "Taye Atske Selassie",
+      "links": [
+        {
+          "text": "Taye Atske Selassie",
+          "href": "https://en.wikipedia.org/wiki/Taye_Atske_Selassie"
+        }
+      ]
+    },
+    {
+      "label": "• Prime Minister",
+      "value": "Abiy Ahmed",
+      "links": [
+        {
+          "text": "Abiy Ahmed",
+          "href": "https://en.wikipedia.org/wiki/Abiy_Ahmed"
+        }
+      ]
+    },
+    {
+      "label": "• Deputy Prime Ministers",
+      "value": "Temesgen Tiruneh Adem Farah",
+      "links": [
+        {
+          "text": "Temesgen Tiruneh",
+          "href": "https://en.wikipedia.org/wiki/Temesgen_Tiruneh"
+        },
+        {
+          "text": "Adem Farah",
+          "href": "https://en.wikipedia.org/wiki/Adem_Farah"
+        }
+      ]
+    },
+    {
+      "label": "• Chief Justice of the Federal Supreme Court",
+      "value": "Tewodros Mihret",
+      "links": [
+        {
+          "text": "Tewodros Mihret",
+          "href": "https://en.wikipedia.org/wiki/Tewodros_Mihret"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "Federal Parliamentary Assembly",
+      "links": [
+        {
+          "text": "Federal Parliamentary Assembly",
+          "href": "https://en.wikipedia.org/wiki/Federal_Parliamentary_Assembly"
+        }
+      ]
+    },
+    {
+      "label": "• Upper house",
+      "value": "House of Federation",
+      "links": [
+        {
+          "text": "House of Federation",
+          "href": "https://en.wikipedia.org/wiki/House_of_Federation"
+        }
+      ]
+    },
+    {
+      "label": "• Lower house",
+      "value": "House of Peoples' Representatives",
+      "links": [
+        {
+          "text": "House of Peoples' Representatives",
+          "href": "https://en.wikipedia.org/wiki/House_of_Peoples%27_Representatives"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Formation",
+      "rows": [
+        {
+          "label": "• Ethiopian Empire",
+          "value": "1270"
+        },
+        {
+          "label": "• Zemene Mesafint",
+          "value": "7 May 1769"
+        },
+        {
+          "label": "• Reunification",
+          "value": "11 February 1855"
+        },
+        {
+          "label": "• Centralisation",
+          "value": "1904"
+        },
+        {
+          "label": "• Occupied and annexed into Italian East Africa",
+          "value": "9 May 1936"
+        },
+        {
+          "label": "• Re-establishment of independence",
+          "value": "31 January 1942"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "1,104,300 km (426,400 sq mi) ( 26th )",
+          "links": [
+            {
+              "text": "26th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "0.7"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2025 estimate",
+          "value": "135,500,000 ( 10th )",
+          "links": [
+            {
+              "text": "10th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• 2007 census",
+          "value": "73,750,932"
+        },
+        {
+          "label": "• Density",
+          "value": "92.7/km (240.1/sq mi) ( 123rd )",
+          "links": [
+            {
+              "text": "123rd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2024 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$434.44 billion ( 55th )",
+          "links": [
+            {
+              "text": "55th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$4,050 ( 159th )",
+          "links": [
+            {
+              "text": "159th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2024 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$145.03 billion ( 59th )",
+          "links": [
+            {
+              "text": "59th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$1,350 ( 159th )",
+          "links": [
+            {
+              "text": "159th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "Gini (2015)",
+          "value": "35.0 medium inequality"
+        },
+        {
+          "label": "HDI (2022)",
+          "value": "0.492 low ( 176th )",
+          "links": [
+            {
+              "text": "176th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "Birr ( ETB )",
+          "links": [
+            {
+              "text": "Birr",
+              "href": "https://en.wikipedia.org/wiki/Ethiopian_birr"
+            },
+            {
+              "text": "ETB",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC +3 ( EAT )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "EAT",
+              "href": "https://en.wikipedia.org/wiki/East_Africa_Time"
+            }
+          ]
+        },
+        {
+          "label": "Date format",
+          "value": "dd/mm/yyyy"
+        },
+        {
+          "label": "Calling code",
+          "value": "+251",
+          "links": [
+            {
+              "text": "+251",
+              "href": "https://en.wikipedia.org/wiki/%2B251"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "ET",
+          "links": [
+            {
+              "text": "ET",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:ET"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".et",
+          "links": [
+            {
+              "text": ".et",
+              "href": "https://en.wikipedia.org/wiki/.et"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

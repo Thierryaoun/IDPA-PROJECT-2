@@ -1,0 +1,313 @@
+{
+  "label": "country",
+  "children": [
+    {
+      "label": "name",
+      "children": [
+        {
+          "label": "turkmenistan"
+        }
+      ]
+    },
+    {
+      "label": "infobox_title",
+      "children": [
+        {
+          "label": "turkmenistan türkmenistan"
+        }
+      ]
+    },
+    {
+      "label": "capital_and_largest_city",
+      "children": [
+        {
+          "label": "ashgabat / 37."
+        }
+      ]
+    },
+    {
+      "label": "official_languages",
+      "children": [
+        {
+          "label": "turkmen"
+        }
+      ]
+    },
+    {
+      "label": "ethnic_groups_2022",
+      "children": [
+        {
+          "label": "86.7% turkmens"
+        },
+        {
+          "label": "9.1% uzbeks"
+        },
+        {
+          "label": "1.6% russians"
+        },
+        {
+          "label": "1.2% baloch"
+        },
+        {
+          "label": "1.3% others"
+        }
+      ]
+    },
+    {
+      "label": "religion_2020",
+      "children": [
+        {
+          "label": "95.8% islam"
+        },
+        {
+          "label": "3.0% no religion"
+        },
+        {
+          "label": "1.1% christianity"
+        },
+        {
+          "label": "0.1% other"
+        }
+      ]
+    },
+    {
+      "label": "demonyms",
+      "children": [
+        {
+          "label": "turkmenistani turkmen"
+        }
+      ]
+    },
+    {
+      "label": "government",
+      "children": [
+        {
+          "label": "unitary presidential republic under a totalitarian hereditary dictatorship"
+        }
+      ]
+    },
+    {
+      "label": "president",
+      "children": [
+        {
+          "label": "serdar berdimuhamedow"
+        }
+      ]
+    },
+    {
+      "label": "deputy_chairman_of_the_cabinet_of_ministers",
+      "children": [
+        {
+          "label": "raşit meredow"
+        }
+      ]
+    },
+    {
+      "label": "chairman_of_the_people_s_council",
+      "children": [
+        {
+          "label": "gurbanguly berdimuhamedow"
+        }
+      ]
+    },
+    {
+      "label": "chairperson_of_the_assembly",
+      "children": [
+        {
+          "label": "dünýägözel gulmanowa"
+        }
+      ]
+    },
+    {
+      "label": "chairman_of_the_supreme_court",
+      "children": [
+        {
+          "label": "begenç hojamgulyýew"
+        }
+      ]
+    },
+    {
+      "label": "legislature",
+      "children": [
+        {
+          "label": "assembly"
+        }
+      ]
+    },
+    {
+      "label": "independence_from_the_soviet_union",
+      "children": [
+        {
+          "label": "declared",
+          "children": [
+            {
+              "label": "22 august 1990"
+            }
+          ]
+        },
+        {
+          "label": "recognized",
+          "children": [
+            {
+              "label": "26 december 1991"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "area",
+      "children": [
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "491,210 km"
+            }
+          ]
+        },
+        {
+          "label": "water",
+          "children": [
+            {
+              "label": "24,069 km"
+            }
+          ]
+        },
+        {
+          "label": "water",
+          "children": [
+            {
+              "label": "4.9"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "population",
+      "children": [
+        {
+          "label": "2022_census",
+          "children": [
+            {
+              "label": "7,057,841"
+            }
+          ]
+        },
+        {
+          "label": "density",
+          "children": [
+            {
+              "label": "14.4/km"
+            }
+          ]
+        },
+        {
+          "label": "gdp_ppp",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$186.11 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$27,887"
+            }
+          ]
+        },
+        {
+          "label": "gdp_nominal",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$89.05 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$13,334"
+            }
+          ]
+        },
+        {
+          "label": "gini_1998",
+          "children": [
+            {
+              "label": "40.8 medium inequality"
+            }
+          ]
+        },
+        {
+          "label": "hdi_2023",
+          "children": [
+            {
+              "label": "0.764 high"
+            }
+          ]
+        },
+        {
+          "label": "currency",
+          "children": [
+            {
+              "label": "manat"
+            }
+          ]
+        },
+        {
+          "label": "time_zone",
+          "children": [
+            {
+              "label": "utc +05:00"
+            }
+          ]
+        },
+        {
+          "label": "calling_code",
+          "children": [
+            {
+              "label": "+993"
+            }
+          ]
+        },
+        {
+          "label": "iso_3166_code",
+          "children": [
+            {
+              "label": "tm"
+            }
+          ]
+        },
+        {
+          "label": "internet_tld",
+          "children": [
+            {
+              "label": ".tm"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

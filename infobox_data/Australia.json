@@ -1,0 +1,384 @@
+{
+  "country": "Australia",
+  "infobox_title": "Commonwealth of Australia",
+  "data": [
+    {
+      "label": "Capital",
+      "value": "Canberra 35°18′29″S 149°07′28″E ﻿ / ﻿ 35.30806°S 149.12444°E",
+      "links": [
+        {
+          "text": "Canberra",
+          "href": "https://en.wikipedia.org/wiki/Canberra"
+        },
+        {
+          "text": "35°18′29″S149°07′28″E﻿ / ﻿35.30806°S 149.12444°E",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Australia&params=35_18_29_S_149_07_28_E_type:city_region:AU"
+        }
+      ]
+    },
+    {
+      "label": "Largest city",
+      "value": "Sydney (metropolitan) Melbourne (urban)",
+      "links": [
+        {
+          "text": "Sydney",
+          "href": "https://en.wikipedia.org/wiki/Sydney"
+        },
+        {
+          "text": "Melbourne",
+          "href": "https://en.wikipedia.org/wiki/Melbourne"
+        }
+      ]
+    },
+    {
+      "label": "National language",
+      "value": "English",
+      "links": [
+        {
+          "text": "English",
+          "href": "https://en.wikipedia.org/wiki/English_language"
+        }
+      ]
+    },
+    {
+      "label": "Religion ( 2021 )",
+      "value": "43.9% Christianity 38.9% no religion 3.2% Islam 2.7% Hinduism 2.4% Buddhism 1.7% other 7.2% unanswered",
+      "links": [
+        {
+          "text": "Christianity",
+          "href": "https://en.wikipedia.org/wiki/Christianity_in_Australia"
+        },
+        {
+          "text": "no religion",
+          "href": "https://en.wikipedia.org/wiki/Irreligion_in_Australia"
+        },
+        {
+          "text": "Islam",
+          "href": "https://en.wikipedia.org/wiki/Islam_in_Australia"
+        },
+        {
+          "text": "Hinduism",
+          "href": "https://en.wikipedia.org/wiki/Hinduism_in_Australia"
+        },
+        {
+          "text": "Buddhism",
+          "href": "https://en.wikipedia.org/wiki/Buddhism_in_Australia"
+        },
+        {
+          "text": "other",
+          "href": "https://en.wikipedia.org/wiki/Religion_in_Australia#Other_religions"
+        }
+      ],
+      "sub_items": [
+        "43.9% Christianity",
+        "38.9% no religion",
+        "3.2% Islam",
+        "2.7% Hinduism",
+        "2.4% Buddhism",
+        "1.7% other",
+        "7.2% unanswered"
+      ]
+    },
+    {
+      "label": "Demonyms",
+      "value": "Australian Aussie (colloquial)",
+      "links": [
+        {
+          "text": "Australian",
+          "href": "https://en.wikipedia.org/wiki/Australians"
+        }
+      ],
+      "sub_items": [
+        "Australian",
+        "Aussie (colloquial)"
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Federal parliamentary constitutional monarchy",
+      "links": [
+        {
+          "text": "Federal",
+          "href": "https://en.wikipedia.org/wiki/Federalism"
+        },
+        {
+          "text": "constitutional monarchy",
+          "href": "https://en.wikipedia.org/wiki/Constitutional_monarchy"
+        }
+      ]
+    },
+    {
+      "label": "• Monarch",
+      "value": "Charles III",
+      "links": [
+        {
+          "text": "Charles III",
+          "href": "https://en.wikipedia.org/wiki/Charles_III"
+        }
+      ]
+    },
+    {
+      "label": "• Governor-General",
+      "value": "Sam Mostyn",
+      "links": [
+        {
+          "text": "Sam Mostyn",
+          "href": "https://en.wikipedia.org/wiki/Sam_Mostyn"
+        }
+      ]
+    },
+    {
+      "label": "• Prime Minister",
+      "value": "Anthony Albanese",
+      "links": [
+        {
+          "text": "Anthony Albanese",
+          "href": "https://en.wikipedia.org/wiki/Anthony_Albanese"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "Parliament",
+      "links": [
+        {
+          "text": "Parliament",
+          "href": "https://en.wikipedia.org/wiki/Parliament_of_Australia"
+        }
+      ]
+    },
+    {
+      "label": "• Upper house",
+      "value": "Senate",
+      "links": [
+        {
+          "text": "Senate",
+          "href": "https://en.wikipedia.org/wiki/Australian_Senate"
+        }
+      ]
+    },
+    {
+      "label": "• Lower house",
+      "value": "House of Representatives",
+      "links": [
+        {
+          "text": "House of Representatives",
+          "href": "https://en.wikipedia.org/wiki/Australian_House_of_Representatives"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Independence from the United Kingdom",
+      "rows": [
+        {
+          "label": "• Federation",
+          "value": "1 January 1901"
+        },
+        {
+          "label": "• Balfour Declaration",
+          "value": "15 November 1926"
+        },
+        {
+          "label": "• Statute of Westminster Adoption Act",
+          "value": "9 October 1942"
+        },
+        {
+          "label": "• Australia Acts",
+          "value": "3 March 1986"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "7,688,287 km (2,968,464 sq mi) ( 6th )",
+          "links": [
+            {
+              "text": "6th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "1.79 (2015)"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2026 estimate",
+          "value": "27,840,775 ( 54th )",
+          "links": [
+            {
+              "text": "54th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• 2021 census",
+          "value": "25,890,773"
+        },
+        {
+          "label": "• Density",
+          "value": "3.7/km (9.6/sq mi) ( 237th )",
+          "links": [
+            {
+              "text": "237th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$1.982 trillion ( 22nd )",
+          "links": [
+            {
+              "text": "22nd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$71,431 ( 26th )",
+          "links": [
+            {
+              "text": "26th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$1.830 trillion ( 15th )",
+          "links": [
+            {
+              "text": "15th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$65,946 ( 13th )",
+          "links": [
+            {
+              "text": "13th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "Gini (2020)",
+          "value": "32.4 medium inequality"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.958 very high ( 7th )",
+          "links": [
+            {
+              "text": "7th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "Australian dollar ( $ ) ( AUD )",
+          "links": [
+            {
+              "text": "Australian dollar",
+              "href": "https://en.wikipedia.org/wiki/Australian_dollar"
+            },
+            {
+              "text": "$",
+              "href": "https://en.wikipedia.org/wiki/$"
+            },
+            {
+              "text": "AUD",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC +8; +9.5; +10 ( AWST, ACST, AEST )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "AWST, ACST, AEST",
+              "href": "https://en.wikipedia.org/wiki/Time_in_Australia"
+            }
+          ]
+        },
+        {
+          "label": "• Summer ( DST )",
+          "value": "UTC +10.5; +11 ( ACDT, AEDT )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "ACDT, AEDT",
+              "href": "https://en.wikipedia.org/wiki/Time_in_Australia"
+            }
+          ]
+        },
+        {
+          "label": "Date format",
+          "value": "dd / mm / yyyy"
+        },
+        {
+          "label": "Calling code",
+          "value": "+61",
+          "links": [
+            {
+              "text": "+61",
+              "href": "https://en.wikipedia.org/wiki/Telephone_numbers_in_Australia"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "AU",
+          "links": [
+            {
+              "text": "AU",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:AU"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".au",
+          "links": [
+            {
+              "text": ".au",
+              "href": "https://en.wikipedia.org/wiki/.au"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

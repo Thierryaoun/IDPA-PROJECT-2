@@ -1,0 +1,352 @@
+{
+  "label": "country",
+  "children": [
+    {
+      "label": "name",
+      "children": [
+        {
+          "label": "niger"
+        }
+      ]
+    },
+    {
+      "label": "infobox_title",
+      "children": [
+        {
+          "label": "republic of the niger jamhuriyar nijar"
+        }
+      ]
+    },
+    {
+      "label": "capital_and_largest_city",
+      "children": [
+        {
+          "label": "niamey / 13."
+        }
+      ]
+    },
+    {
+      "label": "official_languages",
+      "children": [
+        {
+          "label": "hausa"
+        }
+      ]
+    },
+    {
+      "label": "national_languages",
+      "children": [
+        {
+          "label": "arabic"
+        },
+        {
+          "label": "buduma"
+        },
+        {
+          "label": "fulfulde"
+        },
+        {
+          "label": "gourmanchéma"
+        },
+        {
+          "label": "kanuri"
+        },
+        {
+          "label": "songhai"
+        },
+        {
+          "label": "tamasheq"
+        },
+        {
+          "label": "tassawaq"
+        },
+        {
+          "label": "tebu"
+        },
+        {
+          "label": "zarma"
+        }
+      ]
+    },
+    {
+      "label": "ethnic_groups_2006",
+      "children": [
+        {
+          "label": "53.1% hausa"
+        },
+        {
+          "label": "21.2% zarma and songhay"
+        },
+        {
+          "label": "11.0% tuareg"
+        },
+        {
+          "label": "6.5% fulani"
+        },
+        {
+          "label": "5.9% kanuri"
+        },
+        {
+          "label": "0.8% gurma"
+        },
+        {
+          "label": "0.4% toubou"
+        },
+        {
+          "label": "0.4% arab"
+        },
+        {
+          "label": "0.9% others"
+        }
+      ]
+    },
+    {
+      "label": "religion_2012",
+      "children": [
+        {
+          "label": "99.3% islam"
+        },
+        {
+          "label": "0.3% christianity"
+        },
+        {
+          "label": "0.2% animism"
+        },
+        {
+          "label": "0.1% irreligion"
+        }
+      ]
+    },
+    {
+      "label": "demonym",
+      "children": [
+        {
+          "label": "nigerien"
+        }
+      ]
+    },
+    {
+      "label": "government",
+      "children": [
+        {
+          "label": "unitary semi-presidential republic under a military junta"
+        }
+      ]
+    },
+    {
+      "label": "president_and_president_of_the_national_council_for_the_safeguard_of_the_homeland",
+      "children": [
+        {
+          "label": "abdourahamane tchiani"
+        }
+      ]
+    },
+    {
+      "label": "vice_president_of_the_national_council_for_the_safeguard_of_the_homeland",
+      "children": [
+        {
+          "label": "salifou modi"
+        }
+      ]
+    },
+    {
+      "label": "prime_minister",
+      "children": [
+        {
+          "label": "ali lamine zeine"
+        }
+      ]
+    },
+    {
+      "label": "legislature",
+      "children": [
+        {
+          "label": "national council for the safeguard of the homeland"
+        }
+      ]
+    },
+    {
+      "label": "independence_from_france",
+      "children": [
+        {
+          "label": "republic_proclaimed",
+          "children": [
+            {
+              "label": "18 december 1958"
+            }
+          ]
+        },
+        {
+          "label": "declared",
+          "children": [
+            {
+              "label": "3 august 1960"
+            }
+          ]
+        },
+        {
+          "label": "2023_coup_d_état",
+          "children": [
+            {
+              "label": "26 july 2023"
+            }
+          ]
+        },
+        {
+          "label": "2025_transitional_charter",
+          "children": [
+            {
+              "label": "26 march 2025"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "area",
+      "children": [
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "1,267,000 km"
+            }
+          ]
+        },
+        {
+          "label": "water",
+          "children": [
+            {
+              "label": "0.02"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "population",
+      "children": [
+        {
+          "label": "2024_estimate",
+          "children": [
+            {
+              "label": "26,342,784"
+            }
+          ]
+        },
+        {
+          "label": "density",
+          "children": [
+            {
+              "label": "21/km"
+            }
+          ]
+        },
+        {
+          "label": "gdp_ppp",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$61.040 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$2,100"
+            }
+          ]
+        },
+        {
+          "label": "gdp_nominal",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$21.870 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$751"
+            }
+          ]
+        },
+        {
+          "label": "gini_2021",
+          "children": [
+            {
+              "label": "32.9 medium inequality"
+            }
+          ]
+        },
+        {
+          "label": "hdi_2023",
+          "children": [
+            {
+              "label": "0.419 low"
+            }
+          ]
+        },
+        {
+          "label": "currency",
+          "children": [
+            {
+              "label": "west african cfa franc"
+            }
+          ]
+        },
+        {
+          "label": "time_zone",
+          "children": [
+            {
+              "label": "utc +1"
+            }
+          ]
+        },
+        {
+          "label": "calling_code",
+          "children": [
+            {
+              "label": "+227"
+            }
+          ]
+        },
+        {
+          "label": "iso_3166_code",
+          "children": [
+            {
+              "label": "ne"
+            }
+          ]
+        },
+        {
+          "label": "internet_tld",
+          "children": [
+            {
+              "label": ".ne"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

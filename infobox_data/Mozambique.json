@@ -1,0 +1,342 @@
+{
+  "country": "Mozambique",
+  "infobox_title": "Republic of Mozambique República de Moçambique ( Portuguese )",
+  "data": [
+    {
+      "label": "Capital and largest city",
+      "value": "Maputo 25°57′S 32°35′E ﻿ / ﻿ 25.950°S 32.583°E",
+      "links": [
+        {
+          "text": "Maputo",
+          "href": "https://en.wikipedia.org/wiki/Maputo"
+        },
+        {
+          "text": "25°57′S32°35′E﻿ / ﻿25.950°S 32.583°E",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Mozambique&params=25_57_S_32_35_E_type:city_region:MZ"
+        }
+      ]
+    },
+    {
+      "label": "Official languages",
+      "value": "Portuguese",
+      "links": [
+        {
+          "text": "Portuguese",
+          "href": "https://en.wikipedia.org/wiki/Portuguese_language"
+        }
+      ]
+    },
+    {
+      "label": "Recognised regional languages",
+      "value": "Makhuwa , Sena , Tsonga , Lomwe , Swahili",
+      "links": [
+        {
+          "text": "Makhuwa",
+          "href": "https://en.wikipedia.org/wiki/Makhuwa_language"
+        },
+        {
+          "text": "Sena",
+          "href": "https://en.wikipedia.org/wiki/Sena_language"
+        },
+        {
+          "text": "Tsonga",
+          "href": "https://en.wikipedia.org/wiki/Tsonga_language"
+        },
+        {
+          "text": "Lomwe",
+          "href": "https://en.wikipedia.org/wiki/Lomwe_language"
+        },
+        {
+          "text": "Swahili",
+          "href": "https://en.wikipedia.org/wiki/Swahili_language"
+        }
+      ]
+    },
+    {
+      "label": "Ethnic groups (2017)",
+      "value": "99.0% African 0.8% Mestiço 0.1% White 0.1% other",
+      "links": [
+        {
+          "text": "African",
+          "href": "https://en.wikipedia.org/wiki/Demographics_of_Mozambique"
+        },
+        {
+          "text": "Mestiço",
+          "href": "https://en.wikipedia.org/wiki/Mesti%C3%A7o"
+        },
+        {
+          "text": "White",
+          "href": "https://en.wikipedia.org/wiki/Portuguese_Mozambicans"
+        }
+      ],
+      "sub_items": [
+        "99.0% African",
+        "0.8% Mestiço",
+        "0.1% White",
+        "0.1% other"
+      ]
+    },
+    {
+      "label": "Religion (2017)",
+      "value": "62.0% Christianity 19.1% Islam 13.5% no religion 4.3% other 1.2% unknown",
+      "links": [
+        {
+          "text": "Christianity",
+          "href": "https://en.wikipedia.org/wiki/Christianity_in_Mozambique"
+        },
+        {
+          "text": "Islam",
+          "href": "https://en.wikipedia.org/wiki/Islam_in_Mozambique"
+        },
+        {
+          "text": "no religion",
+          "href": "https://en.wikipedia.org/wiki/Irreligion"
+        }
+      ],
+      "sub_items": [
+        "62.0% Christianity",
+        "19.1% Islam",
+        "13.5% no religion",
+        "4.3% other",
+        "1.2% unknown"
+      ]
+    },
+    {
+      "label": "Demonym",
+      "value": "Mozambican",
+      "links": [
+        {
+          "text": "Mozambican",
+          "href": "https://en.wikipedia.org/wiki/Mozambican_people"
+        }
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Unitary dominant-party semi-presidential republic under an authoritarian government",
+      "links": [
+        {
+          "text": "semi-presidential republic",
+          "href": "https://en.wikipedia.org/wiki/Semi-presidential_system"
+        },
+        {
+          "text": "authoritarian",
+          "href": "https://en.wikipedia.org/wiki/Authoritarianism"
+        }
+      ]
+    },
+    {
+      "label": "• President",
+      "value": "Daniel Chapo",
+      "links": [
+        {
+          "text": "Daniel Chapo",
+          "href": "https://en.wikipedia.org/wiki/Daniel_Chapo"
+        }
+      ]
+    },
+    {
+      "label": "• Prime Minister",
+      "value": "Maria Benvinda Levy",
+      "links": [
+        {
+          "text": "Maria Benvinda Levy",
+          "href": "https://en.wikipedia.org/wiki/Maria_Benvinda_Levy"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "Assembly of the Republic",
+      "links": [
+        {
+          "text": "Assembly of the Republic",
+          "href": "https://en.wikipedia.org/wiki/Assembly_of_the_Republic_(Mozambique)"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Independence from Portugal",
+      "rows": [
+        {
+          "label": "• Granted",
+          "value": "25 June 1975"
+        },
+        {
+          "label": "• Civil War",
+          "value": "1977–1992"
+        },
+        {
+          "label": "• Current constitution",
+          "value": "21 December 2004"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "801,590 km (309,500 sq mi) ( 35th )",
+          "links": [
+            {
+              "text": "35th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "2.2"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2024 estimate",
+          "value": "34,881,007 ( 45th )",
+          "links": [
+            {
+              "text": "45th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• Density",
+          "value": "43.5/km (112.7/sq mi) ( 176th )",
+          "links": [
+            {
+              "text": "176th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$61.950 billion ( 126th )",
+          "links": [
+            {
+              "text": "126th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$1,730 ( 182nd )",
+          "links": [
+            {
+              "text": "182nd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$23.770 billion ( 120th )",
+          "links": [
+            {
+              "text": "120th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$663 ( 183rd )",
+          "links": [
+            {
+              "text": "183rd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "Gini (2019)",
+          "value": "50.4 high inequality"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.493 low ( 183rd )",
+          "links": [
+            {
+              "text": "183rd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "Metical ( MZN )",
+          "links": [
+            {
+              "text": "Metical",
+              "href": "https://en.wikipedia.org/wiki/Mozambican_metical"
+            },
+            {
+              "text": "MZN",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC +2 ( CAT )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "CAT",
+              "href": "https://en.wikipedia.org/wiki/Central_Africa_Time"
+            }
+          ]
+        },
+        {
+          "label": "Calling code",
+          "value": "+258",
+          "links": [
+            {
+              "text": "+258",
+              "href": "https://en.wikipedia.org/wiki/%2B258"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "MZ",
+          "links": [
+            {
+              "text": "MZ",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:MZ"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".mz",
+          "links": [
+            {
+              "text": ".mz",
+              "href": "https://en.wikipedia.org/wiki/.mz"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

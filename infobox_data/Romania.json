@@ -1,0 +1,424 @@
+{
+  "country": "Romania",
+  "infobox_title": "Romania România",
+  "data": [
+    {
+      "label": "Capital and largest city",
+      "value": "Bucharest 44°25′N 26°06′E ﻿ / ﻿ 44.417°N 26.100°E",
+      "links": [
+        {
+          "text": "Bucharest",
+          "href": "https://en.wikipedia.org/wiki/Bucharest"
+        },
+        {
+          "text": "44°25′N26°06′E﻿ / ﻿44.417°N 26.100°E",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Romania&params=44_25_N_26_06_E_type:city_region:RO-B"
+        }
+      ]
+    },
+    {
+      "label": "Official languages",
+      "value": "Romanian",
+      "links": [
+        {
+          "text": "Romanian",
+          "href": "https://en.wikipedia.org/wiki/Romanian_language"
+        }
+      ]
+    },
+    {
+      "label": "Ethnic groups (2021)",
+      "value": "89.3% Romanians 6.0% Hungarians 3.4% Roma 1.2% others",
+      "links": [
+        {
+          "text": "Romanians",
+          "href": "https://en.wikipedia.org/wiki/Romanians"
+        },
+        {
+          "text": "Hungarians",
+          "href": "https://en.wikipedia.org/wiki/Hungarians_in_Romania"
+        },
+        {
+          "text": "Roma",
+          "href": "https://en.wikipedia.org/wiki/Romani_people_in_Romania"
+        },
+        {
+          "text": "others",
+          "href": "https://en.wikipedia.org/wiki/Minorities_in_Romania"
+        }
+      ],
+      "sub_items": [
+        "89.3% Romanians",
+        "6.0% Hungarians",
+        "3.4% Roma",
+        "1.2% others"
+      ]
+    },
+    {
+      "label": "Religion (2021)",
+      "value": "84.7% Christianity 73.6% Romanian Orthodoxy 6.4% Protestantism 4.4% Catholicism 0.2% other Christian 0.8% no religion 0.4% other 13.9% unanswered",
+      "links": [
+        {
+          "text": "Christianity",
+          "href": "https://en.wikipedia.org/wiki/Christianity"
+        },
+        {
+          "text": "Romanian Orthodoxy",
+          "href": "https://en.wikipedia.org/wiki/Romanian_Orthodoxy"
+        },
+        {
+          "text": "Protestantism",
+          "href": "https://en.wikipedia.org/wiki/Protestantism"
+        },
+        {
+          "text": "Catholicism",
+          "href": "https://en.wikipedia.org/wiki/Catholic_Church_in_Romania"
+        },
+        {
+          "text": "Christian",
+          "href": "https://en.wikipedia.org/wiki/List_of_Christian_denominations"
+        },
+        {
+          "text": "no religion",
+          "href": "https://en.wikipedia.org/wiki/Irreligion_in_Romania"
+        },
+        {
+          "text": "other",
+          "href": "https://en.wikipedia.org/wiki/Religion_in_Romania"
+        }
+      ],
+      "sub_items": [
+        "84.7% Christianity 73.6% Romanian Orthodoxy 6.4% Protestantism 4.4% Catholicism 0.2% other Christian",
+        "84.7% Christianity 73.6% Romanian Orthodoxy 6.4% Protestantism 4.4% Catholicism 0.2% other Christian",
+        "73.6% Romanian Orthodoxy",
+        "6.4% Protestantism",
+        "4.4% Catholicism",
+        "0.2% other Christian",
+        "0.8% no religion",
+        "0.4% other",
+        "13.9% unanswered"
+      ]
+    },
+    {
+      "label": "Demonym",
+      "value": "Romanian",
+      "links": [
+        {
+          "text": "Romanian",
+          "href": "https://en.wikipedia.org/wiki/Romanians"
+        }
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Unitary semi-presidential republic",
+      "links": [
+        {
+          "text": "semi-presidential republic",
+          "href": "https://en.wikipedia.org/wiki/Semi-presidential_republic"
+        }
+      ]
+    },
+    {
+      "label": "• President",
+      "value": "Nicușor Dan",
+      "links": [
+        {
+          "text": "Nicușor Dan",
+          "href": "https://en.wikipedia.org/wiki/Nicu%C8%99or_Dan"
+        }
+      ]
+    },
+    {
+      "label": "• Prime Minister",
+      "value": "Ilie Bolojan",
+      "links": [
+        {
+          "text": "Ilie Bolojan",
+          "href": "https://en.wikipedia.org/wiki/Ilie_Bolojan"
+        }
+      ]
+    },
+    {
+      "label": "• President of the Senate",
+      "value": "Mircea Abrudean",
+      "links": [
+        {
+          "text": "Mircea Abrudean",
+          "href": "https://en.wikipedia.org/wiki/Mircea_Abrudean"
+        }
+      ]
+    },
+    {
+      "label": "• President of the Chamber of Deputies",
+      "value": "Sorin Grindeanu",
+      "links": [
+        {
+          "text": "Sorin Grindeanu",
+          "href": "https://en.wikipedia.org/wiki/Sorin_Grindeanu"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "Parliament",
+      "links": [
+        {
+          "text": "Parliament",
+          "href": "https://en.wikipedia.org/wiki/Parliament_of_Romania"
+        }
+      ]
+    },
+    {
+      "label": "• Upper house",
+      "value": "Senate",
+      "links": [
+        {
+          "text": "Senate",
+          "href": "https://en.wikipedia.org/wiki/Senate_of_Romania"
+        }
+      ]
+    },
+    {
+      "label": "• Lower house",
+      "value": "Chamber of Deputies",
+      "links": [
+        {
+          "text": "Chamber of Deputies",
+          "href": "https://en.wikipedia.org/wiki/Chamber_of_Deputies_(Romania)"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "History",
+      "rows": [
+        {
+          "label": "• Principality of Wallachia",
+          "value": "1330–1862"
+        },
+        {
+          "label": "• Principality of Moldavia",
+          "value": "1346–1862"
+        },
+        {
+          "label": "• United Principalities",
+          "value": "1859–1881"
+        },
+        {
+          "label": "• Independence from the Ottoman Empire",
+          "value": "10 May 1877"
+        },
+        {
+          "label": "• Kingdom of Romania",
+          "value": "1881–1947"
+        },
+        {
+          "label": "• Great Union",
+          "value": "1 December 1918"
+        },
+        {
+          "label": "• Socialist Romania",
+          "value": "1947–1989"
+        },
+        {
+          "label": "• Current constitution",
+          "value": "8 December 1991"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "238,397 km (92,046 sq mi) ( 81st )",
+          "links": [
+            {
+              "text": "81st",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "3"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2025 estimate",
+          "value": "19,043,151 ( 65th )",
+          "links": [
+            {
+              "text": "65th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• 2021 census",
+          "value": "19,053,815"
+        },
+        {
+          "label": "• Density",
+          "value": "83/km (215.0/sq mi) ( 132th )",
+          "links": [
+            {
+              "text": "132th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2026 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$949.332 billion ( 35th )",
+          "links": [
+            {
+              "text": "35th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$50,726 ( 44th )",
+          "links": [
+            {
+              "text": "44th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2026 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$444.807 billion ( 38th )",
+          "links": [
+            {
+              "text": "38th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$23,767 ( 54th )",
+          "links": [
+            {
+              "text": "54th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "Gini (2025)",
+          "value": "27.3 low inequality"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.845 very high ( 55th )",
+          "links": [
+            {
+              "text": "55th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "Romanian leu ( RON )",
+          "links": [
+            {
+              "text": "Romanian leu",
+              "href": "https://en.wikipedia.org/wiki/Romanian_leu"
+            },
+            {
+              "text": "RON",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC +2 ( EET )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "EET",
+              "href": "https://en.wikipedia.org/wiki/Eastern_European_Time"
+            }
+          ]
+        },
+        {
+          "label": "• Summer ( DST )",
+          "value": "UTC +3 ( EEST )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "EEST",
+              "href": "https://en.wikipedia.org/wiki/EEST"
+            }
+          ]
+        },
+        {
+          "label": "Date format",
+          "value": "dd.mm.yyyy ( CE )",
+          "links": [
+            {
+              "text": "CE",
+              "href": "https://en.wikipedia.org/wiki/Common_Era"
+            }
+          ]
+        },
+        {
+          "label": "Calling code",
+          "value": "+40",
+          "links": [
+            {
+              "text": "+40",
+              "href": "https://en.wikipedia.org/wiki/%2B40"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "RO",
+          "links": [
+            {
+              "text": "RO",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:RO"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".ro",
+          "links": [
+            {
+              "text": ".ro",
+              "href": "https://en.wikipedia.org/wiki/.ro"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,294 @@
+{
+  "label": "country",
+  "children": [
+    {
+      "label": "name",
+      "children": [
+        {
+          "label": "sao tome and principe"
+        }
+      ]
+    },
+    {
+      "label": "infobox_title",
+      "children": [
+        {
+          "label": "democratic republic of são tomé and príncipe república democrática de são tomé e príncipe"
+        }
+      ]
+    },
+    {
+      "label": "capital_and_largest_city",
+      "children": [
+        {
+          "label": "são tomé / 0."
+        }
+      ]
+    },
+    {
+      "label": "recognised_regional_languages",
+      "children": [
+        {
+          "label": "forro creole"
+        },
+        {
+          "label": "angolar creole"
+        },
+        {
+          "label": "principense creole"
+        }
+      ]
+    },
+    {
+      "label": "official_language_and_national_language",
+      "children": [
+        {
+          "label": "portuguese"
+        }
+      ]
+    },
+    {
+      "label": "religion_2020",
+      "children": [
+        {
+          "label": "81.1% christianity"
+        },
+        {
+          "label": "13.2% no religion"
+        },
+        {
+          "label": "3.1% folk religions"
+        },
+        {
+          "label": "2.4% others"
+        }
+      ]
+    },
+    {
+      "label": "demonyms",
+      "children": [
+        {
+          "label": "são toméan"
+        },
+        {
+          "label": "santomean"
+        }
+      ]
+    },
+    {
+      "label": "government",
+      "children": [
+        {
+          "label": "unitary semi-presidential republic"
+        }
+      ]
+    },
+    {
+      "label": "president",
+      "children": [
+        {
+          "label": "carlos vila nova"
+        }
+      ]
+    },
+    {
+      "label": "prime_minister",
+      "children": [
+        {
+          "label": "américo ramos"
+        }
+      ]
+    },
+    {
+      "label": "legislature",
+      "children": [
+        {
+          "label": "national assembly"
+        }
+      ]
+    },
+    {
+      "label": "independence_from_portugal",
+      "children": [
+        {
+          "label": "granted",
+          "children": [
+            {
+              "label": "12 july 1975"
+            }
+          ]
+        },
+        {
+          "label": "admitted_to_the_united_nations",
+          "children": [
+            {
+              "label": "16 september 1975"
+            }
+          ]
+        },
+        {
+          "label": "constitutional_reform",
+          "children": [
+            {
+              "label": "22 august 1990"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "area",
+      "children": [
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "964 km"
+            }
+          ]
+        },
+        {
+          "label": "water",
+          "children": [
+            {
+              "label": "negligible"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "population",
+      "children": [
+        {
+          "label": "2023_estimate",
+          "children": [
+            {
+              "label": "220,372"
+            }
+          ]
+        },
+        {
+          "label": "density",
+          "children": [
+            {
+              "label": "199.7/km"
+            }
+          ]
+        },
+        {
+          "label": "gdp_ppp",
+          "children": [
+            {
+              "label": "2024 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$1 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$4,238"
+            }
+          ]
+        },
+        {
+          "label": "gdp_nominal",
+          "children": [
+            {
+              "label": "2024 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$751 million"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$3,167"
+            }
+          ]
+        },
+        {
+          "label": "gini_2017",
+          "children": [
+            {
+              "label": "40.7 medium inequality"
+            }
+          ]
+        },
+        {
+          "label": "hdi_2023",
+          "children": [
+            {
+              "label": "0.637 medium"
+            }
+          ]
+        },
+        {
+          "label": "currency",
+          "children": [
+            {
+              "label": "dobra"
+            }
+          ]
+        },
+        {
+          "label": "time_zone",
+          "children": [
+            {
+              "label": "utc +0"
+            }
+          ]
+        },
+        {
+          "label": "date_format",
+          "children": [
+            {
+              "label": "dd/mm/yyyy"
+            }
+          ]
+        },
+        {
+          "label": "calling_code",
+          "children": [
+            {
+              "label": "+239"
+            }
+          ]
+        },
+        {
+          "label": "iso_3166_code",
+          "children": [
+            {
+              "label": "st"
+            }
+          ]
+        },
+        {
+          "label": "internet_tld",
+          "children": [
+            {
+              "label": ".st"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

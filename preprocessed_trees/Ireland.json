@@ -1,0 +1,384 @@
+{
+  "label": "country",
+  "children": [
+    {
+      "label": "name",
+      "children": [
+        {
+          "label": "ireland"
+        }
+      ]
+    },
+    {
+      "label": "infobox_title",
+      "children": [
+        {
+          "label": "ireland éire"
+        }
+      ]
+    },
+    {
+      "label": "capital_and_largest_city",
+      "children": [
+        {
+          "label": "dublin 53°20.65′n 6°16.05′w / 53."
+        }
+      ]
+    },
+    {
+      "label": "official_languages",
+      "children": [
+        {
+          "label": "irish"
+        },
+        {
+          "label": "english"
+        }
+      ]
+    },
+    {
+      "label": "ethnic_groups_2022",
+      "children": [
+        {
+          "label": "76.6% white irish"
+        },
+        {
+          "label": "10.8% other white"
+        },
+        {
+          "label": "3.3% asian"
+        },
+        {
+          "label": "1.5% black"
+        },
+        {
+          "label": "1.7% other"
+        },
+        {
+          "label": "6.2% not stated"
+        }
+      ]
+    },
+    {
+      "label": "religion_2022",
+      "children": [
+        {
+          "label": "75.7% christianity"
+        },
+        {
+          "label": "69.1% catholicism"
+        },
+        {
+          "label": "2.5% anglicanism"
+        },
+        {
+          "label": "4.1% other christian"
+        },
+        {
+          "label": "14.5% no religion"
+        },
+        {
+          "label": "3.1% other"
+        },
+        {
+          "label": "6.7% not stated"
+        }
+      ]
+    },
+    {
+      "label": "demonym",
+      "children": [
+        {
+          "label": "irish"
+        }
+      ]
+    },
+    {
+      "label": "government",
+      "children": [
+        {
+          "label": "unitary parliamentary republic"
+        }
+      ]
+    },
+    {
+      "label": "president",
+      "children": [
+        {
+          "label": "catherine connolly"
+        }
+      ]
+    },
+    {
+      "label": "taoiseach",
+      "children": [
+        {
+          "label": "micheál martin"
+        }
+      ]
+    },
+    {
+      "label": "tánaiste",
+      "children": [
+        {
+          "label": "simon harris"
+        }
+      ]
+    },
+    {
+      "label": "chief_justice",
+      "children": [
+        {
+          "label": "donal o'donnell"
+        }
+      ]
+    },
+    {
+      "label": "legislature",
+      "children": [
+        {
+          "label": "oireachtas"
+        }
+      ]
+    },
+    {
+      "label": "upper_house",
+      "children": [
+        {
+          "label": "seanad"
+        }
+      ]
+    },
+    {
+      "label": "lower_house",
+      "children": [
+        {
+          "label": "dáil"
+        }
+      ]
+    },
+    {
+      "label": "independence_from_the_united_kingdom",
+      "children": [
+        {
+          "label": "proclamation",
+          "children": [
+            {
+              "label": "24 april 1916"
+            }
+          ]
+        },
+        {
+          "label": "declaration",
+          "children": [
+            {
+              "label": "21 january 1919"
+            }
+          ]
+        },
+        {
+          "label": "anglo_irish_treaty",
+          "children": [
+            {
+              "label": "6 december 1921"
+            }
+          ]
+        },
+        {
+          "label": "1922_constitution",
+          "children": [
+            {
+              "label": "6 december 1922"
+            }
+          ]
+        },
+        {
+          "label": "1937_constitution",
+          "children": [
+            {
+              "label": "29 december 1937"
+            }
+          ]
+        },
+        {
+          "label": "republic_act",
+          "children": [
+            {
+              "label": "18 april 1949"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "area",
+      "children": [
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "70,273 km"
+            }
+          ]
+        },
+        {
+          "label": "water",
+          "children": [
+            {
+              "label": "2.0%"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "population",
+      "children": [
+        {
+          "label": "april_2025_estimate",
+          "children": [
+            {
+              "label": "5,458,600"
+            }
+          ]
+        },
+        {
+          "label": "2022_census",
+          "children": [
+            {
+              "label": "5,149,139"
+            }
+          ]
+        },
+        {
+          "label": "density",
+          "children": [
+            {
+              "label": "76.6/km"
+            }
+          ]
+        },
+        {
+          "label": "gdp_ppp",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$736.73 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$134,000"
+            }
+          ]
+        },
+        {
+          "label": "gdp_nominal",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$598.84 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$108,920"
+            }
+          ]
+        },
+        {
+          "label": "gini_2022",
+          "children": [
+            {
+              "label": "27.9 low inequality"
+            }
+          ]
+        },
+        {
+          "label": "hdi_2023",
+          "children": [
+            {
+              "label": "0.949 very high"
+            }
+          ]
+        },
+        {
+          "label": "currency",
+          "children": [
+            {
+              "label": "euro"
+            }
+          ]
+        },
+        {
+          "label": "time_zone",
+          "children": [
+            {
+              "label": "utc"
+            }
+          ]
+        },
+        {
+          "label": "summer_dst",
+          "children": [
+            {
+              "label": "utc +1"
+            }
+          ]
+        },
+        {
+          "label": "date_format",
+          "children": [
+            {
+              "label": "dd/mm/yyyy"
+            }
+          ]
+        },
+        {
+          "label": "calling_code",
+          "children": [
+            {
+              "label": "+353"
+            }
+          ]
+        },
+        {
+          "label": "iso_3166_code",
+          "children": [
+            {
+              "label": "ie"
+            }
+          ]
+        },
+        {
+          "label": "internet_tld",
+          "children": [
+            {
+              "label": ".ie"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

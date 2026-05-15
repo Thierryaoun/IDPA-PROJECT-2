@@ -1,0 +1,291 @@
+{
+  "label": "country",
+  "children": [
+    {
+      "label": "name",
+      "children": [
+        {
+          "label": "mauritania"
+        }
+      ]
+    },
+    {
+      "label": "infobox_title",
+      "children": [
+        {
+          "label": "islamic republic of mauritania الجمهورية الإسلامية الموريتانية al-jumhūriyyah al-islāmiyyah al-mūrītāniyyah"
+        }
+      ]
+    },
+    {
+      "label": "capital_and_largest_city",
+      "children": [
+        {
+          "label": "nouakchott / 18."
+        }
+      ]
+    },
+    {
+      "label": "official_languages",
+      "children": [
+        {
+          "label": "arabic"
+        }
+      ]
+    },
+    {
+      "label": "recognised_national_languages",
+      "children": [
+        {
+          "label": "arabic"
+        },
+        {
+          "label": "pulaar"
+        },
+        {
+          "label": "soninke"
+        },
+        {
+          "label": "wolof"
+        }
+      ]
+    },
+    {
+      "label": "ethnic_groups",
+      "children": [
+        {
+          "label": "40% haratin"
+        },
+        {
+          "label": "30% beidane"
+        },
+        {
+          "label": "30% halpulaar , fulani , soninké , and wolof"
+        }
+      ]
+    },
+    {
+      "label": "religion",
+      "children": [
+        {
+          "label": "sunni islam"
+        }
+      ]
+    },
+    {
+      "label": "demonym",
+      "children": [
+        {
+          "label": "mauritanian"
+        }
+      ]
+    },
+    {
+      "label": "government",
+      "children": [
+        {
+          "label": "unitary semi-presidential islamic republic"
+        }
+      ]
+    },
+    {
+      "label": "president",
+      "children": [
+        {
+          "label": "mohamed ould ghazouani"
+        }
+      ]
+    },
+    {
+      "label": "prime_minister",
+      "children": [
+        {
+          "label": "mokhtar ould djay"
+        }
+      ]
+    },
+    {
+      "label": "president_of_the_national_assembly",
+      "children": [
+        {
+          "label": "mohamed ould meguett"
+        }
+      ]
+    },
+    {
+      "label": "legislature",
+      "children": [
+        {
+          "label": "national assembly"
+        }
+      ]
+    },
+    {
+      "label": "independence_from_france",
+      "children": [
+        {
+          "label": "republic_established",
+          "children": [
+            {
+              "label": "28 november 1958"
+            }
+          ]
+        },
+        {
+          "label": "independence_from_france",
+          "children": [
+            {
+              "label": "28 november 1960"
+            }
+          ]
+        },
+        {
+          "label": "current_constitution",
+          "children": [
+            {
+              "label": "12 july 1991"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "area",
+      "children": [
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "1,030,000 km"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "population",
+      "children": [
+        {
+          "label": "2026_estimate",
+          "children": [
+            {
+              "label": "5,461,319‎"
+            }
+          ]
+        },
+        {
+          "label": "density",
+          "children": [
+            {
+              "label": "3.4/km"
+            }
+          ]
+        },
+        {
+          "label": "gdp_ppp",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$40.060 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$8,650"
+            }
+          ]
+        },
+        {
+          "label": "gdp_nominal",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$11.470 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$2,480"
+            }
+          ]
+        },
+        {
+          "label": "gini_2014",
+          "children": [
+            {
+              "label": "32.6 medium inequality"
+            }
+          ]
+        },
+        {
+          "label": "hdi_2023",
+          "children": [
+            {
+              "label": "0.563 medium"
+            }
+          ]
+        },
+        {
+          "label": "currency",
+          "children": [
+            {
+              "label": "ouguiya"
+            }
+          ]
+        },
+        {
+          "label": "time_zone",
+          "children": [
+            {
+              "label": "utc ±00:00"
+            }
+          ]
+        },
+        {
+          "label": "calling_code",
+          "children": [
+            {
+              "label": "+222"
+            }
+          ]
+        },
+        {
+          "label": "iso_3166_code",
+          "children": [
+            {
+              "label": "mr"
+            }
+          ]
+        },
+        {
+          "label": "internet_tld",
+          "children": [
+            {
+              "label": ".mr"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

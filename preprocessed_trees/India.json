@@ -1,0 +1,435 @@
+{
+  "label": "country",
+  "children": [
+    {
+      "label": "name",
+      "children": [
+        {
+          "label": "india"
+        }
+      ]
+    },
+    {
+      "label": "infobox_title",
+      "children": [
+        {
+          "label": "republic of india bhārat gaṇarājya"
+        }
+      ]
+    },
+    {
+      "label": "capital",
+      "children": [
+        {
+          "label": "new delhi / 28."
+        }
+      ]
+    },
+    {
+      "label": "largest_city_by_city_proper_population",
+      "children": [
+        {
+          "label": "mumbai"
+        }
+      ]
+    },
+    {
+      "label": "largest_city_by_metropolitan_area_population",
+      "children": [
+        {
+          "label": "delhi"
+        }
+      ]
+    },
+    {
+      "label": "official_languages",
+      "children": [
+        {
+          "label": "hindi"
+        },
+        {
+          "label": "english"
+        }
+      ]
+    },
+    {
+      "label": "recognised_regional_languages",
+      "children": [
+        {
+          "label": "eighth schedule assamese bengali boro dogri gujarati hindi kannada kashmiri konkani maithili malayalam manipuri marathi nepali odia punjabi sanskrit santali sindhi tamil telugu urdu"
+        },
+        {
+          "label": "assamese"
+        },
+        {
+          "label": "bengali"
+        },
+        {
+          "label": "boro"
+        },
+        {
+          "label": "dogri"
+        },
+        {
+          "label": "gujarati"
+        },
+        {
+          "label": "hindi"
+        },
+        {
+          "label": "kannada"
+        },
+        {
+          "label": "kashmiri"
+        },
+        {
+          "label": "konkani"
+        },
+        {
+          "label": "maithili"
+        },
+        {
+          "label": "malayalam"
+        },
+        {
+          "label": "manipuri"
+        },
+        {
+          "label": "marathi"
+        },
+        {
+          "label": "nepali"
+        },
+        {
+          "label": "odia"
+        },
+        {
+          "label": "punjabi"
+        },
+        {
+          "label": "sanskrit"
+        },
+        {
+          "label": "santali"
+        },
+        {
+          "label": "sindhi"
+        },
+        {
+          "label": "tamil"
+        },
+        {
+          "label": "telugu"
+        },
+        {
+          "label": "urdu"
+        },
+        {
+          "label": "state level kokborok lepcha mizo sikkimese all the 8th scheduled languages – except sindhi , kashmiri and dogri"
+        },
+        {
+          "label": "kokborok"
+        },
+        {
+          "label": "lepcha"
+        },
+        {
+          "label": "mizo"
+        },
+        {
+          "label": "sikkimese"
+        },
+        {
+          "label": "all the 8th scheduled languages – except sindhi , kashmiri and dogri"
+        }
+      ]
+    },
+    {
+      "label": "native_languages",
+      "children": [
+        {
+          "label": "424 languages"
+        }
+      ]
+    },
+    {
+      "label": "religion_2011",
+      "children": [
+        {
+          "label": "79.8% hinduism"
+        },
+        {
+          "label": "14.2% islam"
+        },
+        {
+          "label": "2.3% christianity"
+        },
+        {
+          "label": "1.7% sikhism"
+        },
+        {
+          "label": "0.7% buddhism"
+        },
+        {
+          "label": "0.4% jainism"
+        },
+        {
+          "label": "0.23% unaffiliated"
+        },
+        {
+          "label": "0.65% other"
+        }
+      ]
+    },
+    {
+      "label": "demonyms",
+      "children": [
+        {
+          "label": "indian"
+        },
+        {
+          "label": "others"
+        }
+      ]
+    },
+    {
+      "label": "government",
+      "children": [
+        {
+          "label": "federal parliamentary republic"
+        }
+      ]
+    },
+    {
+      "label": "president",
+      "children": [
+        {
+          "label": "droupadi murmu"
+        }
+      ]
+    },
+    {
+      "label": "vice_president",
+      "children": [
+        {
+          "label": "c. p. radhakrishnan"
+        }
+      ]
+    },
+    {
+      "label": "prime_minister",
+      "children": [
+        {
+          "label": "narendra modi"
+        }
+      ]
+    },
+    {
+      "label": "legislature",
+      "children": [
+        {
+          "label": "parliament"
+        }
+      ]
+    },
+    {
+      "label": "upper_house",
+      "children": [
+        {
+          "label": "rajya sabha"
+        }
+      ]
+    },
+    {
+      "label": "lower_house",
+      "children": [
+        {
+          "label": "lok sabha"
+        }
+      ]
+    },
+    {
+      "label": "independence_from_the_united_kingdom",
+      "children": [
+        {
+          "label": "dominion",
+          "children": [
+            {
+              "label": "15 august 1947"
+            }
+          ]
+        },
+        {
+          "label": "republic",
+          "children": [
+            {
+              "label": "26 january 1950"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "area",
+      "children": [
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "3,287,263 km"
+            }
+          ]
+        },
+        {
+          "label": "water",
+          "children": [
+            {
+              "label": "9.6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "population",
+      "children": [
+        {
+          "label": "2023_estimate",
+          "children": [
+            {
+              "label": "1,428,627,663"
+            }
+          ]
+        },
+        {
+          "label": "2011_census",
+          "children": [
+            {
+              "label": "1,210,854,977"
+            }
+          ]
+        },
+        {
+          "label": "density",
+          "children": [
+            {
+              "label": "433.6/km"
+            }
+          ]
+        },
+        {
+          "label": "gdp_ppp",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$17.647 trillion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$12,132"
+            }
+          ]
+        },
+        {
+          "label": "gdp_nominal",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$4.187 trillion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$2,878"
+            }
+          ]
+        },
+        {
+          "label": "gini_2022",
+          "children": [
+            {
+              "label": "25.5 low inequality"
+            }
+          ]
+        },
+        {
+          "label": "hdi_2023",
+          "children": [
+            {
+              "label": "0.685 medium"
+            }
+          ]
+        },
+        {
+          "label": "currency",
+          "children": [
+            {
+              "label": "indian rupee"
+            }
+          ]
+        },
+        {
+          "label": "time_zone",
+          "children": [
+            {
+              "label": "utc +05:30"
+            }
+          ]
+        },
+        {
+          "label": "date_format",
+          "children": [
+            {
+              "label": "dd - mm - yyyy"
+            }
+          ]
+        },
+        {
+          "label": "calling_code",
+          "children": [
+            {
+              "label": "+91"
+            }
+          ]
+        },
+        {
+          "label": "iso_3166_code",
+          "children": [
+            {
+              "label": "in"
+            }
+          ]
+        },
+        {
+          "label": "internet_tld",
+          "children": [
+            {
+              "label": ".in"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

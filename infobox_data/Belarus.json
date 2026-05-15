@@ -1,0 +1,399 @@
+{
+  "country": "Belarus",
+  "infobox_title": "Republic of Belarus Рэспубліка Беларусь ( Belarusian ) Республика Беларусь ( Russian )",
+  "data": [
+    {
+      "label": "Capital and largest city",
+      "value": "Minsk 53°55′N 27°33′E ﻿ / ﻿ 53.917°N 27.550°E",
+      "links": [
+        {
+          "text": "Minsk",
+          "href": "https://en.wikipedia.org/wiki/Minsk"
+        },
+        {
+          "text": "53°55′N27°33′E﻿ / ﻿53.917°N 27.550°E",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Belarus&params=53_55_N_27_33_E_type:city(2000000)_region:BY"
+        }
+      ]
+    },
+    {
+      "label": "Official languages",
+      "value": "Belarusian Russian",
+      "links": [
+        {
+          "text": "Belarusian",
+          "href": "https://en.wikipedia.org/wiki/Belarusian_language"
+        },
+        {
+          "text": "Russian",
+          "href": "https://en.wikipedia.org/wiki/Russian_language"
+        }
+      ],
+      "sub_items": [
+        "Belarusian",
+        "Russian"
+      ]
+    },
+    {
+      "label": "Widely used minority languages",
+      "value": "Polish Ukrainian Yiddish",
+      "links": [
+        {
+          "text": "Polish",
+          "href": "https://en.wikipedia.org/wiki/Polish_language"
+        },
+        {
+          "text": "Ukrainian",
+          "href": "https://en.wikipedia.org/wiki/Ukrainian_language"
+        },
+        {
+          "text": "Yiddish",
+          "href": "https://en.wikipedia.org/wiki/Yiddish_language"
+        }
+      ],
+      "sub_items": [
+        "Polish",
+        "Ukrainian",
+        "Yiddish"
+      ]
+    },
+    {
+      "label": "Ethnic groups (2019)",
+      "value": "84.9% Belarusians 7.5% Russians 3.1% Poles 1.7% Ukrainians 2.8% other",
+      "links": [
+        {
+          "text": "Belarusians",
+          "href": "https://en.wikipedia.org/wiki/Belarusians"
+        },
+        {
+          "text": "Russians",
+          "href": "https://en.wikipedia.org/wiki/Russians_in_Belarus"
+        },
+        {
+          "text": "Poles",
+          "href": "https://en.wikipedia.org/wiki/Poles_in_Belarus"
+        },
+        {
+          "text": "Ukrainians",
+          "href": "https://en.wikipedia.org/wiki/Ukrainians"
+        }
+      ],
+      "sub_items": [
+        "84.9% Belarusians",
+        "7.5% Russians",
+        "3.1% Poles",
+        "1.7% Ukrainians",
+        "2.8% other"
+      ]
+    },
+    {
+      "label": "Religion (2020)",
+      "value": "91.0% Christianity 83.3% Eastern Orthodoxy 7.7% other Christian 7.8% no religion 1.2% other",
+      "links": [
+        {
+          "text": "Christianity",
+          "href": "https://en.wikipedia.org/wiki/Christianity"
+        },
+        {
+          "text": "Eastern Orthodoxy",
+          "href": "https://en.wikipedia.org/wiki/Eastern_Orthodoxy"
+        },
+        {
+          "text": "Christian",
+          "href": "https://en.wikipedia.org/wiki/List_of_Christian_denominations"
+        },
+        {
+          "text": "no religion",
+          "href": "https://en.wikipedia.org/wiki/Irreligion"
+        }
+      ],
+      "sub_items": [
+        "91.0% Christianity 83.3% Eastern Orthodoxy 7.7% other Christian",
+        "91.0% Christianity 83.3% Eastern Orthodoxy 7.7% other Christian",
+        "83.3% Eastern Orthodoxy",
+        "7.7% other Christian",
+        "7.8% no religion",
+        "1.2% other"
+      ]
+    },
+    {
+      "label": "Demonym",
+      "value": "Belarusian",
+      "links": [
+        {
+          "text": "Belarusian",
+          "href": "https://en.wikipedia.org/wiki/Belarusians"
+        }
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Unitary semi-presidential republic under an authoritarian dictatorship",
+      "links": [
+        {
+          "text": "semi-presidential republic",
+          "href": "https://en.wikipedia.org/wiki/Semi-presidential_republic"
+        },
+        {
+          "text": "authoritarian",
+          "href": "https://en.wikipedia.org/wiki/Authoritarian"
+        }
+      ]
+    },
+    {
+      "label": "• President",
+      "value": "Alexander Lukashenko",
+      "links": [
+        {
+          "text": "Alexander Lukashenko",
+          "href": "https://en.wikipedia.org/wiki/Alexander_Lukashenko"
+        }
+      ]
+    },
+    {
+      "label": "• Prime Minister",
+      "value": "Alexander Turchin",
+      "links": [
+        {
+          "text": "Alexander Turchin",
+          "href": "https://en.wikipedia.org/wiki/Alexander_Turchin"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "National Assembly",
+      "links": [
+        {
+          "text": "National Assembly",
+          "href": "https://en.wikipedia.org/wiki/National_Assembly_of_the_Republic_of_Belarus"
+        }
+      ]
+    },
+    {
+      "label": "• Upper house",
+      "value": "Council of the Republic",
+      "links": [
+        {
+          "text": "Council of the Republic",
+          "href": "https://en.wikipedia.org/wiki/Council_of_the_Republic_(Belarus)"
+        }
+      ]
+    },
+    {
+      "label": "• Lower house",
+      "value": "House of Representatives",
+      "links": [
+        {
+          "text": "House of Representatives",
+          "href": "https://en.wikipedia.org/wiki/House_of_Representatives_(Belarus)"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Formation",
+      "rows": [
+        {
+          "label": "• Kievan Rus'",
+          "value": "882"
+        },
+        {
+          "label": "• Belarusian People's Republic",
+          "value": "25 March 1918"
+        },
+        {
+          "label": "• Byelorussian Soviet Socialist Republic",
+          "value": "31 July 1920"
+        },
+        {
+          "label": "• Declaration of Independence",
+          "value": "25 August 1991"
+        },
+        {
+          "label": "• Internationally recognised ( dissolution of the Soviet Union )",
+          "value": "26 December 1991"
+        },
+        {
+          "label": "• Current constitution",
+          "value": "15 March 1994"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "207,600 km (80,200 sq mi) ( 84th )",
+          "links": [
+            {
+              "text": "84th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "2.26% (4.700 km or 1.815 sq mi)"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2025 estimate",
+          "value": "9,109,280 ( 98th )",
+          "links": [
+            {
+              "text": "98th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• Density",
+          "value": "43.9/km (113.7/sq mi)"
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2023 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$221.186 billion ( 73rd )",
+          "links": [
+            {
+              "text": "73rd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$24,016 ( 71st )",
+          "links": [
+            {
+              "text": "71st",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2023 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$68.864 billion ( 74th )",
+          "links": [
+            {
+              "text": "74th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$7,477 ( 82nd )",
+          "links": [
+            {
+              "text": "82nd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "Gini (2019)",
+          "value": "25.3 low inequality"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.824 very high ( 65th )",
+          "links": [
+            {
+              "text": "65th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "Belarusian ruble ( BYN )",
+          "links": [
+            {
+              "text": "Belarusian ruble",
+              "href": "https://en.wikipedia.org/wiki/Belarusian_ruble"
+            },
+            {
+              "text": "BYN",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC +3 ( MSK )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "+3",
+              "href": "https://en.wikipedia.org/wiki/UTC%2B03:00"
+            },
+            {
+              "text": "MSK",
+              "href": "https://en.wikipedia.org/wiki/Moscow_Time"
+            }
+          ]
+        },
+        {
+          "label": "Date format",
+          "value": "dd.mm.yyyy"
+        },
+        {
+          "label": "Calling code",
+          "value": "+375",
+          "links": [
+            {
+              "text": "+375",
+              "href": "https://en.wikipedia.org/wiki/%2B375"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "BY",
+          "links": [
+            {
+              "text": "BY",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:BY"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".by .бел",
+          "links": [
+            {
+              "text": ".by",
+              "href": "https://en.wikipedia.org/wiki/.by"
+            },
+            {
+              "text": ".бел",
+              "href": "https://en.wikipedia.org/wiki/.%D0%B1%D0%B5%D0%BB"
+            }
+          ],
+          "sub_items": [
+            ".by",
+            ".бел"
+          ]
+        }
+      ]
+    }
+  ]
+}

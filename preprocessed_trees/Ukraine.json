@@ -1,0 +1,363 @@
+{
+  "label": "country",
+  "children": [
+    {
+      "label": "name",
+      "children": [
+        {
+          "label": "ukraine"
+        }
+      ]
+    },
+    {
+      "label": "infobox_title",
+      "children": [
+        {
+          "label": "ukraine україна"
+        }
+      ]
+    },
+    {
+      "label": "capital_and_largest_city",
+      "children": [
+        {
+          "label": "kyiv / 50."
+        }
+      ]
+    },
+    {
+      "label": "official_language_and_national_language",
+      "children": [
+        {
+          "label": "ukrainian"
+        }
+      ]
+    },
+    {
+      "label": "ethnic_groups_2001",
+      "children": [
+        {
+          "label": "78% ukrainians"
+        },
+        {
+          "label": "17% russians"
+        },
+        {
+          "label": "4.9% other"
+        }
+      ]
+    },
+    {
+      "label": "religion_2018",
+      "children": [
+        {
+          "label": "87.3% christianity"
+        },
+        {
+          "label": "11.0% no religion"
+        },
+        {
+          "label": "0.8% other"
+        }
+      ]
+    },
+    {
+      "label": "demonym",
+      "children": [
+        {
+          "label": "ukrainian"
+        }
+      ]
+    },
+    {
+      "label": "government",
+      "children": [
+        {
+          "label": "unitary semi-presidential republic"
+        }
+      ]
+    },
+    {
+      "label": "president",
+      "children": [
+        {
+          "label": "volodymyr zelenskyy"
+        }
+      ]
+    },
+    {
+      "label": "prime_minister",
+      "children": [
+        {
+          "label": "yulia svyrydenko"
+        }
+      ]
+    },
+    {
+      "label": "legislature",
+      "children": [
+        {
+          "label": "verkhovna rada"
+        }
+      ]
+    },
+    {
+      "label": "formation",
+      "children": [
+        {
+          "label": "kievan_rus",
+          "children": [
+            {
+              "label": "882"
+            }
+          ]
+        },
+        {
+          "label": "galicia_volhynia",
+          "children": [
+            {
+              "label": "1199"
+            }
+          ]
+        },
+        {
+          "label": "zaporozhian_sich",
+          "children": [
+            {
+              "label": "1552"
+            }
+          ]
+        },
+        {
+          "label": "cossack_hetmanate",
+          "children": [
+            {
+              "label": "18 august 1649"
+            }
+          ]
+        },
+        {
+          "label": "people_s_republic",
+          "children": [
+            {
+              "label": "20 november 1917"
+            }
+          ]
+        },
+        {
+          "label": "second_hetmanate",
+          "children": [
+            {
+              "label": "29 april 1918"
+            }
+          ]
+        },
+        {
+          "label": "people_s_republic",
+          "children": [
+            {
+              "label": "14 december 1918"
+            }
+          ]
+        },
+        {
+          "label": "soviet_republic",
+          "children": [
+            {
+              "label": "10 march 1919"
+            }
+          ]
+        },
+        {
+          "label": "un_membership",
+          "children": [
+            {
+              "label": "24 october 1945"
+            }
+          ]
+        },
+        {
+          "label": "independence_declared",
+          "children": [
+            {
+              "label": "24 august 1991"
+            }
+          ]
+        },
+        {
+          "label": "current_constitution",
+          "children": [
+            {
+              "label": "28 june 1996"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "area",
+      "children": [
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "603,628 km"
+            }
+          ]
+        },
+        {
+          "label": "water",
+          "children": [
+            {
+              "label": "3.8"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "population",
+      "children": [
+        {
+          "label": "april_2025_estimate",
+          "children": [
+            {
+              "label": "32,862,000"
+            }
+          ]
+        },
+        {
+          "label": "density",
+          "children": [
+            {
+              "label": "54.4/km"
+            }
+          ]
+        },
+        {
+          "label": "gdp_ppp",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$690.059 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$20,999"
+            }
+          ]
+        },
+        {
+          "label": "gdp_nominal",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$205.742 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$6,261"
+            }
+          ]
+        },
+        {
+          "label": "gini_2020",
+          "children": [
+            {
+              "label": "25.6 low inequality"
+            }
+          ]
+        },
+        {
+          "label": "hdi_2023",
+          "children": [
+            {
+              "label": "0.779 high"
+            }
+          ]
+        },
+        {
+          "label": "currency",
+          "children": [
+            {
+              "label": "ukrainian hryvnia"
+            }
+          ]
+        },
+        {
+          "label": "time_zone",
+          "children": [
+            {
+              "label": "utc +2"
+            }
+          ]
+        },
+        {
+          "label": "summer_dst",
+          "children": [
+            {
+              "label": "utc +3"
+            }
+          ]
+        },
+        {
+          "label": "date_format",
+          "children": [
+            {
+              "label": "dd.mm.yyyy"
+            }
+          ]
+        },
+        {
+          "label": "calling_code",
+          "children": [
+            {
+              "label": "+380"
+            }
+          ]
+        },
+        {
+          "label": "iso_3166_code",
+          "children": [
+            {
+              "label": "ua"
+            }
+          ]
+        },
+        {
+          "label": "internet_tld",
+          "children": [
+            {
+              "label": ".ua"
+            },
+            {
+              "label": ".укр"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

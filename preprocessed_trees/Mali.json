@@ -1,0 +1,464 @@
+{
+  "label": "country",
+  "children": [
+    {
+      "label": "name",
+      "children": [
+        {
+          "label": "mali"
+        }
+      ]
+    },
+    {
+      "label": "infobox_title",
+      "children": [
+        {
+          "label": "republic of mali official names bambara : mali ka fasojamana / ߡߊ߬ߟߌ ߞߊ ߝߊߛߏߖߊߡߊߣߊ fula : republik bu maali / 𞤪𞤫𞤨𞤵𞤦𞤤𞤭𞤳 𞤦𞤵 𞤥𞤢𞥄𞤤𞤭 hassaniya : جُمْهُورِيَّةْ مَالِي soninke : mali jamaane tamasheq : tagduda n mali / ⵜⴰⴳⴷⵓⴷⴰ ⵏ ⵎⴰⵍⵉ songhay : mali laamaa"
+        }
+      ]
+    },
+    {
+      "label": "bambara",
+      "children": [
+        {
+          "label": "mali ka fasojamana / ߡߊ߬ߟߌ ߞߊ ߝߊߛߏߖߊߡߊߣߊ"
+        }
+      ]
+    },
+    {
+      "label": "bambara",
+      "children": [
+        {
+          "label": "mali ka fasojamana / ߡߊ߬ߟߌ ߞߊ ߝߊߛߏߖߊߡߊߣߊ"
+        }
+      ]
+    },
+    {
+      "label": "fula",
+      "children": [
+        {
+          "label": "republik bu maali / 𞤪𞤫𞤨𞤵𞤦𞤤𞤭𞤳 𞤦𞤵 𞤥𞤢𞥄𞤤𞤭"
+        }
+      ]
+    },
+    {
+      "label": "hassaniya",
+      "children": [
+        {
+          "label": "جُمْهُورِيَّةْ مَالِي"
+        }
+      ]
+    },
+    {
+      "label": "soninke",
+      "children": [
+        {
+          "label": "mali jamaane"
+        }
+      ]
+    },
+    {
+      "label": "tamasheq",
+      "children": [
+        {
+          "label": "tagduda n mali / ⵜⴰⴳⴷⵓⴷⴰ ⵏ ⵎⴰⵍⵉ"
+        }
+      ]
+    },
+    {
+      "label": "songhay",
+      "children": [
+        {
+          "label": "mali laamaa"
+        }
+      ]
+    },
+    {
+      "label": "capital_and_largest_city",
+      "children": [
+        {
+          "label": "bamako / 12."
+        }
+      ]
+    },
+    {
+      "label": "official_languages",
+      "children": [
+        {
+          "label": "bambara"
+        },
+        {
+          "label": "bobo"
+        },
+        {
+          "label": "hassaniya arabic"
+        },
+        {
+          "label": "bozo"
+        },
+        {
+          "label": "dogon, toro so"
+        },
+        {
+          "label": "fula"
+        },
+        {
+          "label": "kassonke"
+        },
+        {
+          "label": "maninke"
+        },
+        {
+          "label": "minyanka"
+        },
+        {
+          "label": "senufo, senara"
+        },
+        {
+          "label": "songhay, koyraboro senni"
+        },
+        {
+          "label": "soninke"
+        },
+        {
+          "label": "tamasheq"
+        }
+      ]
+    },
+    {
+      "label": "spoken_languages",
+      "children": [
+        {
+          "label": "bambara"
+        },
+        {
+          "label": "fula"
+        },
+        {
+          "label": "arabic"
+        },
+        {
+          "label": "soninke"
+        },
+        {
+          "label": "songhay"
+        },
+        {
+          "label": "mandinka"
+        },
+        {
+          "label": "minyanka"
+        },
+        {
+          "label": "tamasheq"
+        },
+        {
+          "label": "senufo"
+        },
+        {
+          "label": "bobo"
+        },
+        {
+          "label": "bozo"
+        },
+        {
+          "label": "kassonke"
+        },
+        {
+          "label": "samogo"
+        },
+        {
+          "label": "dafing"
+        },
+        {
+          "label": "dogon"
+        }
+      ]
+    },
+    {
+      "label": "working_language",
+      "children": [
+        {
+          "label": "french"
+        }
+      ]
+    },
+    {
+      "label": "ethnic_groups",
+      "children": [
+        {
+          "label": "33.3% bambara"
+        },
+        {
+          "label": "13.3% fula"
+        },
+        {
+          "label": "9.6% soninke"
+        },
+        {
+          "label": "9.6% senufo / bwa"
+        },
+        {
+          "label": "8.8% malinke"
+        },
+        {
+          "label": "8.7% dogon"
+        },
+        {
+          "label": "5.9% songhai"
+        },
+        {
+          "label": "3.5% tuareg"
+        },
+        {
+          "label": "2.1% bobo"
+        },
+        {
+          "label": "4.5% other"
+        }
+      ]
+    },
+    {
+      "label": "religion_2021",
+      "children": [
+        {
+          "label": "95% islam"
+        },
+        {
+          "label": "5% other"
+        }
+      ]
+    },
+    {
+      "label": "demonym",
+      "children": [
+        {
+          "label": "malian"
+        }
+      ]
+    },
+    {
+      "label": "government",
+      "children": [
+        {
+          "label": "unitary presidential republic under a military junta"
+        }
+      ]
+    },
+    {
+      "label": "president",
+      "children": [
+        {
+          "label": "assimi goïta"
+        }
+      ]
+    },
+    {
+      "label": "prime_minister",
+      "children": [
+        {
+          "label": "abdoulaye maïga"
+        }
+      ]
+    },
+    {
+      "label": "legislature",
+      "children": [
+        {
+          "label": "national assembly"
+        }
+      ]
+    },
+    {
+      "label": "formation",
+      "children": [
+        {
+          "label": "establishment_of_the_sudanese_republic",
+          "children": [
+            {
+              "label": "24 november 1958"
+            }
+          ]
+        },
+        {
+          "label": "merger_with_senegal_to_create_the_mali_federation",
+          "children": [
+            {
+              "label": "4 april 1959"
+            }
+          ]
+        },
+        {
+          "label": "independence_from_france",
+          "children": [
+            {
+              "label": "20 june 1960"
+            }
+          ]
+        },
+        {
+          "label": "dissolution_of_the_mali_federation",
+          "children": [
+            {
+              "label": "20 august 1960"
+            }
+          ]
+        },
+        {
+          "label": "declaration_of_the_republic_of_mali",
+          "children": [
+            {
+              "label": "22 september 1960"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "area",
+      "children": [
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "1,240,192 km"
+            }
+          ]
+        },
+        {
+          "label": "water",
+          "children": [
+            {
+              "label": "1.6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "population",
+      "children": [
+        {
+          "label": "2024_estimate",
+          "children": [
+            {
+              "label": "21,990,607"
+            }
+          ]
+        },
+        {
+          "label": "density",
+          "children": [
+            {
+              "label": "11.7/km"
+            }
+          ]
+        },
+        {
+          "label": "gdp_ppp",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$72.74 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$2,930"
+            }
+          ]
+        },
+        {
+          "label": "gdp_nominal",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$23.21 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$936"
+            }
+          ]
+        },
+        {
+          "label": "gini_2010",
+          "children": [
+            {
+              "label": "33.0 medium inequality"
+            }
+          ]
+        },
+        {
+          "label": "hdi_2023",
+          "children": [
+            {
+              "label": "0.419 low"
+            }
+          ]
+        },
+        {
+          "label": "currency",
+          "children": [
+            {
+              "label": "west african cfa franc"
+            }
+          ]
+        },
+        {
+          "label": "time_zone",
+          "children": [
+            {
+              "label": "utc ±00:00"
+            }
+          ]
+        },
+        {
+          "label": "calling_code",
+          "children": [
+            {
+              "label": "+223"
+            }
+          ]
+        },
+        {
+          "label": "iso_3166_code",
+          "children": [
+            {
+              "label": "ml"
+            }
+          ]
+        },
+        {
+          "label": "internet_tld",
+          "children": [
+            {
+              "label": ".ml"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

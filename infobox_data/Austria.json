@@ -1,0 +1,423 @@
+{
+  "country": "Austria",
+  "infobox_title": "Republic of Austria Republik Österreich",
+  "data": [
+    {
+      "label": "Capital and largest city",
+      "value": "Vienna 48°12′N 16°21′E ﻿ / ﻿ 48.200°N 16.350°E",
+      "links": [
+        {
+          "text": "Vienna",
+          "href": "https://en.wikipedia.org/wiki/Vienna"
+        },
+        {
+          "text": "48°12′N16°21′E﻿ / ﻿48.200°N 16.350°E",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Austria&params=48_12_N_16_21_E_type:city(2,000,000)_region:AT-9"
+        }
+      ]
+    },
+    {
+      "label": "Official language",
+      "value": "German",
+      "links": [
+        {
+          "text": "German",
+          "href": "https://en.wikipedia.org/wiki/Austrian_German"
+        }
+      ]
+    },
+    {
+      "label": "Official regional languages",
+      "value": "Hungarian Slovene Burgenland Croatian",
+      "links": [
+        {
+          "text": "Hungarian",
+          "href": "https://en.wikipedia.org/wiki/Hungarian_language"
+        },
+        {
+          "text": "Slovene",
+          "href": "https://en.wikipedia.org/wiki/Slovene_language"
+        },
+        {
+          "text": "Burgenland Croatian",
+          "href": "https://en.wikipedia.org/wiki/Burgenland_Croatian"
+        }
+      ],
+      "sub_items": [
+        "Hungarian",
+        "Slovene",
+        "Burgenland Croatian"
+      ]
+    },
+    {
+      "label": "Ethnic groups (2024)",
+      "value": "72.2% Austrians 27.8% other",
+      "links": [
+        {
+          "text": "Austrians",
+          "href": "https://en.wikipedia.org/wiki/Austrians"
+        },
+        {
+          "text": "other",
+          "href": "https://en.wikipedia.org/wiki/Demographics_of_Austria#Ethnic_groups"
+        }
+      ],
+      "sub_items": [
+        "72.2% Austrians",
+        "27.8% other"
+      ]
+    },
+    {
+      "label": "Religion (2021)",
+      "value": "68.2% Christianity 55.2% Catholicism 4.9% Orthodoxy 3.8% Protestantism 4.3% other Christian 22.4% no religion 8.3% Islam 1.1% other",
+      "links": [
+        {
+          "text": "Christianity",
+          "href": "https://en.wikipedia.org/wiki/Christianity"
+        },
+        {
+          "text": "Catholicism",
+          "href": "https://en.wikipedia.org/wiki/Catholic_Church_in_Austria"
+        },
+        {
+          "text": "Orthodoxy",
+          "href": "https://en.wikipedia.org/wiki/Eastern_Orthodoxy_in_Austria"
+        },
+        {
+          "text": "Protestantism",
+          "href": "https://en.wikipedia.org/wiki/Protestantism"
+        },
+        {
+          "text": "other Christian",
+          "href": "https://en.wikipedia.org/wiki/Christian_denomination"
+        },
+        {
+          "text": "no religion",
+          "href": "https://en.wikipedia.org/wiki/Irreligion"
+        },
+        {
+          "text": "Islam",
+          "href": "https://en.wikipedia.org/wiki/Islam_in_Austria"
+        },
+        {
+          "text": "other",
+          "href": "https://en.wikipedia.org/wiki/Religion_in_Austria"
+        }
+      ],
+      "sub_items": [
+        "68.2% Christianity 55.2% Catholicism 4.9% Orthodoxy 3.8% Protestantism 4.3% other Christian",
+        "68.2% Christianity 55.2% Catholicism 4.9% Orthodoxy 3.8% Protestantism 4.3% other Christian",
+        "55.2% Catholicism",
+        "4.9% Orthodoxy",
+        "3.8% Protestantism",
+        "4.3% other Christian",
+        "22.4% no religion",
+        "8.3% Islam",
+        "1.1% other"
+      ]
+    },
+    {
+      "label": "Demonym",
+      "value": "Austrian",
+      "links": [
+        {
+          "text": "Austrian",
+          "href": "https://en.wikipedia.org/wiki/Austrians"
+        }
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Federal semi-presidential republic",
+      "links": [
+        {
+          "text": "semi-presidential republic",
+          "href": "https://en.wikipedia.org/wiki/Semi-presidential_republic"
+        }
+      ]
+    },
+    {
+      "label": "• President",
+      "value": "Alexander Van der Bellen",
+      "links": [
+        {
+          "text": "Alexander Van der Bellen",
+          "href": "https://en.wikipedia.org/wiki/Alexander_Van_der_Bellen"
+        }
+      ]
+    },
+    {
+      "label": "• Chancellor",
+      "value": "Christian Stocker",
+      "links": [
+        {
+          "text": "Christian Stocker",
+          "href": "https://en.wikipedia.org/wiki/Christian_Stocker"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "Parliament",
+      "links": [
+        {
+          "text": "Parliament",
+          "href": "https://en.wikipedia.org/wiki/Austrian_Parliament"
+        }
+      ]
+    },
+    {
+      "label": "• Upper house",
+      "value": "Federal Council",
+      "links": [
+        {
+          "text": "Federal Council",
+          "href": "https://en.wikipedia.org/wiki/Federal_Council_(Austria)"
+        }
+      ]
+    },
+    {
+      "label": "• Lower house",
+      "value": "National Council",
+      "links": [
+        {
+          "text": "National Council",
+          "href": "https://en.wikipedia.org/wiki/National_Council_(Austria)"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Formation",
+      "rows": [
+        {
+          "label": "• Margraviate ( oldest naming )",
+          "value": "1 November 996"
+        },
+        {
+          "label": "• Duchy",
+          "value": "17 September 1156"
+        },
+        {
+          "label": "• Archduchy",
+          "value": "6 January 1453"
+        },
+        {
+          "label": "• Imperial circle",
+          "value": "1512"
+        },
+        {
+          "label": "• Empire",
+          "value": "11 August 1804"
+        },
+        {
+          "label": "• Austria-Hungary",
+          "value": "30 March 1867"
+        },
+        {
+          "label": "• First Republic",
+          "value": "10 September 1919"
+        },
+        {
+          "label": "• Federal State",
+          "value": "1 May 1934"
+        },
+        {
+          "label": "• Anschluss",
+          "value": "13 March 1938"
+        },
+        {
+          "label": "• Second Republic",
+          "value": "27 April 1945"
+        },
+        {
+          "label": "• State Treaty",
+          "value": "27 July 1955"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "83,879 km (32,386 sq mi) ( 113th )",
+          "links": [
+            {
+              "text": "113th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "0.84 (2015)"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2024 estimate",
+          "value": "9,110,079 ( 99th )",
+          "links": [
+            {
+              "text": "99th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• Density",
+          "value": "107.6/km (278.7/sq mi) ( 106th )",
+          "links": [
+            {
+              "text": "106th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$682.86 billion ( 46th )",
+          "links": [
+            {
+              "text": "46th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$74,370 ( 18th )",
+          "links": [
+            {
+              "text": "18th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$534.30 billion ( 30th )",
+          "links": [
+            {
+              "text": "30th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$58,190 ( 13th )",
+          "links": [
+            {
+              "text": "13th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "Gini (2023)",
+          "value": "28.1 low inequality"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.930 very high ( 22nd )",
+          "links": [
+            {
+              "text": "22nd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "Euro ( € ) ( EUR )",
+          "links": [
+            {
+              "text": "Euro",
+              "href": "https://en.wikipedia.org/wiki/Euro"
+            },
+            {
+              "text": "€",
+              "href": "https://en.wikipedia.org/wiki/Euro_sign"
+            },
+            {
+              "text": "EUR",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC +1 ( CET )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "CET",
+              "href": "https://en.wikipedia.org/wiki/Central_European_Time"
+            }
+          ]
+        },
+        {
+          "label": "• Summer ( DST )",
+          "value": "UTC +2 ( CEST )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "CEST",
+              "href": "https://en.wikipedia.org/wiki/Central_European_Summer_Time"
+            }
+          ]
+        },
+        {
+          "label": "Calling code",
+          "value": "+43",
+          "links": [
+            {
+              "text": "+43",
+              "href": "https://en.wikipedia.org/wiki/Telephone_numbers_in_Austria"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "AT",
+          "links": [
+            {
+              "text": "AT",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:AT"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".at",
+          "links": [
+            {
+              "text": ".at",
+              "href": "https://en.wikipedia.org/wiki/.at"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

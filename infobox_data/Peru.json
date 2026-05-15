@@ -1,0 +1,387 @@
+{
+  "country": "Peru",
+  "infobox_title": "Republic of Peru República del Perú ( Spanish ) Co-official names Quechua : Piruw Ripuwlika Aymara : Piruwxa Ripuwlika",
+  "data": [
+    {
+      "label": "Quechua :",
+      "value": "Piruw Ripuwlika"
+    },
+    {
+      "label": "Quechua :",
+      "value": "Piruw Ripuwlika"
+    },
+    {
+      "label": "Aymara :",
+      "value": "Piruwxa Ripuwlika"
+    },
+    {
+      "label": "Capital and largest city",
+      "value": "Lima 12°2.6′S 77°1.7′W ﻿ / ﻿ 12.0433°S 77.0283°W",
+      "links": [
+        {
+          "text": "Lima",
+          "href": "https://en.wikipedia.org/wiki/Lima"
+        },
+        {
+          "text": "12°2.6′S77°1.7′W﻿ / ﻿12.0433°S 77.0283°W",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Peru&params=12_2.6_S_77_1.7_W_region:PE-LIM_type:city(9,500,000)"
+        }
+      ]
+    },
+    {
+      "label": "Official languages",
+      "value": "Spanish",
+      "links": [
+        {
+          "text": "Spanish",
+          "href": "https://en.wikipedia.org/wiki/Peruvian_Spanish"
+        }
+      ]
+    },
+    {
+      "label": "Co-official languages",
+      "value": "Quechua Aymara Other Indigenous languages",
+      "links": [
+        {
+          "text": "Quechua",
+          "href": "https://en.wikipedia.org/wiki/Quechuan_languages"
+        },
+        {
+          "text": "Aymara",
+          "href": "https://en.wikipedia.org/wiki/Aymara_language"
+        },
+        {
+          "text": "Other Indigenous languages",
+          "href": "https://en.wikipedia.org/wiki/Languages_of_Peru"
+        }
+      ],
+      "sub_items": [
+        "Quechua",
+        "Aymara",
+        "Other Indigenous languages"
+      ]
+    },
+    {
+      "label": "Ethnic groups (2017)",
+      "value": "60.20% Mestizo 25.75% Native 5.89% White 3.57% Black 0.16% East Asian 1.10% other 3.32% no answer",
+      "links": [
+        {
+          "text": "Mestizo",
+          "href": "https://en.wikipedia.org/wiki/Mestizos"
+        },
+        {
+          "text": "Native",
+          "href": "https://en.wikipedia.org/wiki/Indigenous_peoples_of_Peru"
+        },
+        {
+          "text": "White",
+          "href": "https://en.wikipedia.org/wiki/White_Peruvians"
+        },
+        {
+          "text": "Black",
+          "href": "https://en.wikipedia.org/wiki/Black_Peruvians"
+        },
+        {
+          "text": "East Asian",
+          "href": "https://en.wikipedia.org/wiki/Asian_Peruvians"
+        }
+      ],
+      "sub_items": [
+        "60.20% Mestizo",
+        "25.75% Native",
+        "5.89% White",
+        "3.57% Black",
+        "0.16% East Asian",
+        "1.10% other",
+        "3.32% no answer"
+      ]
+    },
+    {
+      "label": "Religion (2017 )",
+      "value": "94.5% Christianity 76.0% Catholicism 18.5% other Christian 5.1% no religion 0.4% other",
+      "links": [
+        {
+          "text": "Christianity",
+          "href": "https://en.wikipedia.org/wiki/Religion_in_Peru#Christianity"
+        },
+        {
+          "text": "Catholicism",
+          "href": "https://en.wikipedia.org/wiki/Catholic_Church_in_Peru"
+        },
+        {
+          "text": "Christian",
+          "href": "https://en.wikipedia.org/wiki/List_of_Christian_denominations"
+        },
+        {
+          "text": "no religion",
+          "href": "https://en.wikipedia.org/wiki/Irreligion_in_Latin_America"
+        }
+      ],
+      "sub_items": [
+        "94.5% Christianity 76.0% Catholicism 18.5% other Christian",
+        "94.5% Christianity 76.0% Catholicism 18.5% other Christian",
+        "76.0% Catholicism",
+        "18.5% other Christian",
+        "5.1% no religion",
+        "0.4% other"
+      ]
+    },
+    {
+      "label": "Demonym",
+      "value": "Peruvian",
+      "links": [
+        {
+          "text": "Peruvian",
+          "href": "https://en.wikipedia.org/wiki/Peruvians"
+        }
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Unitary semi-presidential republic",
+      "links": [
+        {
+          "text": "semi-presidential republic",
+          "href": "https://en.wikipedia.org/wiki/Semi-presidential_republic"
+        }
+      ]
+    },
+    {
+      "label": "• President",
+      "value": "José María Balcázar",
+      "links": [
+        {
+          "text": "José María Balcázar",
+          "href": "https://en.wikipedia.org/wiki/Jos%C3%A9_Mar%C3%ADa_Balc%C3%A1zar"
+        }
+      ]
+    },
+    {
+      "label": "• First Vice President",
+      "value": "Vacant"
+    },
+    {
+      "label": "• Prime Minister",
+      "value": "Luis Arroyo Sánchez",
+      "links": [
+        {
+          "text": "Luis Arroyo Sánchez",
+          "href": "https://en.wikipedia.org/wiki/Luis_Arroyo_S%C3%A1nchez"
+        }
+      ]
+    },
+    {
+      "label": "• President of Congress",
+      "value": "Fernando Rospigliosi (acting)",
+      "links": [
+        {
+          "text": "Fernando Rospigliosi",
+          "href": "https://en.wikipedia.org/wiki/Fernando_Rospigliosi"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "Congress of the Republic",
+      "links": [
+        {
+          "text": "Congress of the Republic",
+          "href": "https://en.wikipedia.org/wiki/Congress_of_the_Republic_of_Peru"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Independence from Spain",
+      "rows": [
+        {
+          "label": "• Declared",
+          "value": "28 July 1821"
+        },
+        {
+          "label": "• Consolidated",
+          "value": "9 December 1824"
+        },
+        {
+          "label": "• Recognized",
+          "value": "14 August 1879"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "1,285,216 km (496,225 sq mi) ( 19th )",
+          "links": [
+            {
+              "text": "19th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "0.41"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2023 estimate",
+          "value": "34,352,720 ( 43rd )",
+          "links": [
+            {
+              "text": "43rd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• Density",
+          "value": "23/km (59.6/sq mi) ( 198th )",
+          "links": [
+            {
+              "text": "198th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$653.090 billion ( 47th )",
+          "links": [
+            {
+              "text": "47th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$18,980 ( 99th )",
+          "links": [
+            {
+              "text": "99th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$318.480 billion ( 47th )",
+          "links": [
+            {
+              "text": "47th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$9,260 ( 86th )",
+          "links": [
+            {
+              "text": "86th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "Gini (2022)",
+          "value": "40.2 medium inequality"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.794 high ( 79th )",
+          "links": [
+            {
+              "text": "79th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "Peruvian sol ( PEN )",
+          "links": [
+            {
+              "text": "Peruvian sol",
+              "href": "https://en.wikipedia.org/wiki/Peruvian_sol"
+            },
+            {
+              "text": "PEN",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC −05:00 ( PET )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "PET",
+              "href": "https://en.wikipedia.org/wiki/Time_in_Peru"
+            }
+          ]
+        },
+        {
+          "label": "Date format",
+          "value": "dd/mm/yyyy ( CE )",
+          "links": [
+            {
+              "text": "CE",
+              "href": "https://en.wikipedia.org/wiki/Common_Era"
+            }
+          ]
+        },
+        {
+          "label": "Calling code",
+          "value": "+51",
+          "links": [
+            {
+              "text": "+51",
+              "href": "https://en.wikipedia.org/wiki/Telephone_numbers_in_Peru"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "PE",
+          "links": [
+            {
+              "text": "PE",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:PE"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".pe",
+          "links": [
+            {
+              "text": ".pe",
+              "href": "https://en.wikipedia.org/wiki/.pe"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

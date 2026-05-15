@@ -1,0 +1,402 @@
+{
+  "country": "Ecuador",
+  "infobox_title": "Republic of Ecuador República del Ecuador ( Spanish )",
+  "data": [
+    {
+      "label": "Capital",
+      "value": "Quito 00°13′12″S 78°30′43″W ﻿ / ﻿ 0.22000°S 78.51194°W",
+      "links": [
+        {
+          "text": "Quito",
+          "href": "https://en.wikipedia.org/wiki/Quito"
+        },
+        {
+          "text": "00°13′12″S78°30′43″W﻿ / ﻿0.22000°S 78.51194°W",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Ecuador&params=00_13_12_S_78_30_43_W_type:city"
+        }
+      ]
+    },
+    {
+      "label": "Largest city",
+      "value": "Guayaquil",
+      "links": [
+        {
+          "text": "Guayaquil",
+          "href": "https://en.wikipedia.org/wiki/Guayaquil"
+        }
+      ]
+    },
+    {
+      "label": "Official languages",
+      "value": "Spanish",
+      "links": [
+        {
+          "text": "Spanish",
+          "href": "https://en.wikipedia.org/wiki/Spanish_language"
+        }
+      ]
+    },
+    {
+      "label": "Recognized regional languages",
+      "value": "Kichwa , Shuar and others \"are in official use for indigenous peoples\"",
+      "links": [
+        {
+          "text": "Kichwa",
+          "href": "https://en.wikipedia.org/wiki/Kichwa_language"
+        },
+        {
+          "text": "Shuar",
+          "href": "https://en.wikipedia.org/wiki/Shuar_language"
+        }
+      ]
+    },
+    {
+      "label": "Ethnic groups (2022 )",
+      "value": "77.47% Mestizo (mixed White & Indigenous ) 7.70% Montubio (coastal Mestizo ) 7.69% Indigenous 4.81% Black 2.21% White 0.12% other",
+      "links": [
+        {
+          "text": "Mestizo",
+          "href": "https://en.wikipedia.org/wiki/Mestizo"
+        },
+        {
+          "text": "White",
+          "href": "https://en.wikipedia.org/wiki/White_Ecuadorians"
+        },
+        {
+          "text": "Indigenous",
+          "href": "https://en.wikipedia.org/wiki/Indigenous_peoples_in_Ecuador"
+        },
+        {
+          "text": "Montubio",
+          "href": "https://en.wikipedia.org/wiki/Montubio"
+        },
+        {
+          "text": "Mestizo",
+          "href": "https://en.wikipedia.org/wiki/Mestizo"
+        },
+        {
+          "text": "Indigenous",
+          "href": "https://en.wikipedia.org/wiki/Indigenous_peoples_of_Ecuador"
+        },
+        {
+          "text": "Black",
+          "href": "https://en.wikipedia.org/wiki/Afro-Ecuadorians"
+        },
+        {
+          "text": "White",
+          "href": "https://en.wikipedia.org/wiki/White_Ecuadorians"
+        }
+      ],
+      "sub_items": [
+        "77.47% Mestizo (mixed White & Indigenous )",
+        "7.70% Montubio (coastal Mestizo )",
+        "7.69% Indigenous",
+        "4.81% Black",
+        "2.21% White",
+        "0.12% other"
+      ]
+    },
+    {
+      "label": "Religion (2023)",
+      "value": "89.3% Christianity 68.2% Catholic 18% Evangelical 3.1% other 8.9% no religion 2% other",
+      "links": [
+        {
+          "text": "Christianity",
+          "href": "https://en.wikipedia.org/wiki/Religion_in_Ecuador"
+        },
+        {
+          "text": "Catholic",
+          "href": "https://en.wikipedia.org/wiki/Catholic_Church_in_Ecuador"
+        },
+        {
+          "text": "no religion",
+          "href": "https://en.wikipedia.org/wiki/Irreligion_in_Latin_America"
+        }
+      ],
+      "sub_items": [
+        "89.3% Christianity 68.2% Catholic 18% Evangelical 3.1% other",
+        "89.3% Christianity 68.2% Catholic 18% Evangelical 3.1% other",
+        "68.2% Catholic",
+        "18% Evangelical",
+        "3.1% other",
+        "8.9% no religion",
+        "2% other"
+      ]
+    },
+    {
+      "label": "Demonym",
+      "value": "Ecuadorian",
+      "links": [
+        {
+          "text": "Ecuadorian",
+          "href": "https://en.wikipedia.org/wiki/Ecuadorians"
+        }
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Unitary presidential republic",
+      "links": [
+        {
+          "text": "presidential republic",
+          "href": "https://en.wikipedia.org/wiki/Presidential_republic"
+        }
+      ]
+    },
+    {
+      "label": "• President",
+      "value": "Daniel Noboa",
+      "links": [
+        {
+          "text": "Daniel Noboa",
+          "href": "https://en.wikipedia.org/wiki/Daniel_Noboa"
+        }
+      ]
+    },
+    {
+      "label": "• Vice President",
+      "value": "María José Pinto",
+      "links": [
+        {
+          "text": "María José Pinto",
+          "href": "https://en.wikipedia.org/wiki/Mar%C3%ADa_Jos%C3%A9_Pinto"
+        }
+      ]
+    },
+    {
+      "label": "• President of the National Assembly",
+      "value": "Niels Olsen Peet",
+      "links": [
+        {
+          "text": "Niels Olsen Peet",
+          "href": "https://en.wikipedia.org/wiki/Niels_Olsen_Peet"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "National Assembly",
+      "links": [
+        {
+          "text": "National Assembly",
+          "href": "https://en.wikipedia.org/wiki/National_Assembly_(Ecuador)"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Independence",
+      "rows": [
+        {
+          "label": "• Declared",
+          "value": "10 August 1809"
+        },
+        {
+          "label": "• from Spain",
+          "value": "24 May 1822"
+        },
+        {
+          "label": "• from Gran Colombia",
+          "value": "13 May 1830"
+        },
+        {
+          "label": "• Recognized by Spain",
+          "value": "16 February 1840"
+        },
+        {
+          "label": "• Liberal Revolution",
+          "value": "5 June 1895"
+        },
+        {
+          "label": "• Current constitution",
+          "value": "28 September 2008"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "283,561 km (109,484 sq mi) ( 73rd )",
+          "links": [
+            {
+              "text": "73rd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Excluding the Galapagos Islands",
+          "value": "276,841 km (106,889 sq mi)"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2023 estimate",
+          "value": "17,483,326"
+        },
+        {
+          "label": "• 2022 census",
+          "value": "16,938,986 ( 73rd )",
+          "links": [
+            {
+              "text": "73rd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• Density",
+          "value": "69/km (178.7/sq mi) ( 148th )",
+          "links": [
+            {
+              "text": "148th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$304.230 billion ( 66th )",
+          "links": [
+            {
+              "text": "66th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$16,180 ( 109th )",
+          "links": [
+            {
+              "text": "109th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$130.530 billion ( 63rd )",
+          "links": [
+            {
+              "text": "63rd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$7,210 ( 95th )",
+          "links": [
+            {
+              "text": "95th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "Gini (2024)",
+          "value": "45.2 medium inequality"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.777 high ( 88th )",
+          "links": [
+            {
+              "text": "88th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "United States dollar ( USD )",
+          "links": [
+            {
+              "text": "United States dollar",
+              "href": "https://en.wikipedia.org/wiki/United_States_dollar"
+            },
+            {
+              "text": "USD",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC −5 / −6 ( ECT / GALT )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "−5",
+              "href": "https://en.wikipedia.org/wiki/UTC%E2%88%9205:00"
+            },
+            {
+              "text": "−6",
+              "href": "https://en.wikipedia.org/wiki/UTC%E2%88%9206:00"
+            },
+            {
+              "text": "ECT",
+              "href": "https://en.wikipedia.org/wiki/Time_in_Ecuador"
+            },
+            {
+              "text": "GALT",
+              "href": "https://en.wikipedia.org/wiki/Gal%C3%A1pagos_Time"
+            }
+          ]
+        },
+        {
+          "label": "Date format",
+          "value": "dd/mm/yyyy"
+        },
+        {
+          "label": "Calling code",
+          "value": "+593",
+          "links": [
+            {
+              "text": "+593",
+              "href": "https://en.wikipedia.org/wiki/Telephone_numbers_in_Ecuador"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "EC",
+          "links": [
+            {
+              "text": "EC",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:EC"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".ec",
+          "links": [
+            {
+              "text": ".ec",
+              "href": "https://en.wikipedia.org/wiki/.ec"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

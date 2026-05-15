@@ -1,0 +1,416 @@
+{
+  "label": "country",
+  "children": [
+    {
+      "label": "name",
+      "children": [
+        {
+          "label": "sri lanka"
+        }
+      ]
+    },
+    {
+      "label": "infobox_title",
+      "children": [
+        {
+          "label": "democratic socialist republic of sri lanka ශ් රී ලංකා ප් රජාතාන්ත් රික සමාජවාදී ජනරජය இலங்கை சனநாயக சோசலிசக் குடியரசு sinhala : śrī laṅkā prajātāntrika samājavādī janarajaya tamil : ilaṅkai caṉanāyaka cōcalicak kuṭiyaracu"
+        }
+      ]
+    },
+    {
+      "label": "sinhala",
+      "children": [
+        {
+          "label": "śrī laṅkā prajātāntrika samājavādī janarajaya"
+        }
+      ]
+    },
+    {
+      "label": "sinhala",
+      "children": [
+        {
+          "label": "śrī laṅkā prajātāntrika samājavādī janarajaya"
+        }
+      ]
+    },
+    {
+      "label": "tamil",
+      "children": [
+        {
+          "label": "ilaṅkai caṉanāyaka cōcalicak kuṭiyaracu"
+        }
+      ]
+    },
+    {
+      "label": "capital",
+      "children": [
+        {
+          "label": "sri jayawardenepura kotte"
+        },
+        {
+          "label": "colombo / 6."
+        }
+      ]
+    },
+    {
+      "label": "largest_city",
+      "children": [
+        {
+          "label": "colombo"
+        }
+      ]
+    },
+    {
+      "label": "official_languages_and_recognised_national_languages",
+      "children": [
+        {
+          "label": "sinhala"
+        },
+        {
+          "label": "tamil"
+        }
+      ]
+    },
+    {
+      "label": "recognised_language",
+      "children": [
+        {
+          "label": "english"
+        }
+      ]
+    },
+    {
+      "label": "ethnic_groups_2024",
+      "children": [
+        {
+          "label": "74.1% sinhalese"
+        },
+        {
+          "label": "12.3% sri lankan tamils"
+        },
+        {
+          "label": "10.5% sri lankan moors"
+        },
+        {
+          "label": "2.8% indian tamils"
+        },
+        {
+          "label": "0.3% other"
+        }
+      ]
+    },
+    {
+      "label": "religion_2024",
+      "children": [
+        {
+          "label": "69.8% buddhism"
+        },
+        {
+          "label": "12.6% hinduism"
+        },
+        {
+          "label": "10.7% islam"
+        },
+        {
+          "label": "6.9% christianity"
+        },
+        {
+          "label": "0.1% other/none"
+        }
+      ]
+    },
+    {
+      "label": "demonym",
+      "children": [
+        {
+          "label": "sri lankan"
+        }
+      ]
+    },
+    {
+      "label": "government",
+      "children": [
+        {
+          "label": "unitary semi-presidential republic"
+        }
+      ]
+    },
+    {
+      "label": "president",
+      "children": [
+        {
+          "label": "anura kumara dissanayake"
+        }
+      ]
+    },
+    {
+      "label": "prime_minister",
+      "children": [
+        {
+          "label": "harini amarasuriya"
+        }
+      ]
+    },
+    {
+      "label": "speaker_of_the_parliament",
+      "children": [
+        {
+          "label": "jagath wickramaratne"
+        }
+      ]
+    },
+    {
+      "label": "chief_justice",
+      "children": [
+        {
+          "label": "padman surasena"
+        }
+      ]
+    },
+    {
+      "label": "legislature",
+      "children": [
+        {
+          "label": "parliament"
+        }
+      ]
+    },
+    {
+      "label": "formation",
+      "children": [
+        {
+          "label": "sinhala_kingdom_established",
+          "children": [
+            {
+              "label": "543 bce"
+            }
+          ]
+        },
+        {
+          "label": "anuradhapura_period",
+          "children": [
+            {
+              "label": "377 bce – 1017 ce"
+            }
+          ]
+        },
+        {
+          "label": "polonnaruwa_period",
+          "children": [
+            {
+              "label": "1017–1232"
+            }
+          ]
+        },
+        {
+          "label": "transitional_period",
+          "children": [
+            {
+              "label": "1232–1592"
+            }
+          ]
+        },
+        {
+          "label": "kandyan_period",
+          "children": [
+            {
+              "label": "1592–1815"
+            }
+          ]
+        },
+        {
+          "label": "british_ceylon_period",
+          "children": [
+            {
+              "label": "1815–1948"
+            }
+          ]
+        },
+        {
+          "label": "independence",
+          "children": [
+            {
+              "label": "4 february 1948"
+            }
+          ]
+        },
+        {
+          "label": "republic",
+          "children": [
+            {
+              "label": "22 may 1972"
+            }
+          ]
+        },
+        {
+          "label": "current_constitution",
+          "children": [
+            {
+              "label": "7 september 1978"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "area",
+      "children": [
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "67,240 km"
+            }
+          ]
+        },
+        {
+          "label": "water",
+          "children": [
+            {
+              "label": "4.4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "population",
+      "children": [
+        {
+          "label": "2026_estimate",
+          "children": [
+            {
+              "label": "23,300,000"
+            }
+          ]
+        },
+        {
+          "label": "2024_census",
+          "children": [
+            {
+              "label": "21,781,800"
+            }
+          ]
+        },
+        {
+          "label": "density",
+          "children": [
+            {
+              "label": "337.7/km"
+            }
+          ]
+        },
+        {
+          "label": "gdp_ppp",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$342.6 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$15,632"
+            }
+          ]
+        },
+        {
+          "label": "gdp_nominal",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$98.9 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$4,516"
+            }
+          ]
+        },
+        {
+          "label": "gini_2023",
+          "children": [
+            {
+              "label": "39.8 medium inequality"
+            }
+          ]
+        },
+        {
+          "label": "hdi_2023",
+          "children": [
+            {
+              "label": "0.776 high"
+            }
+          ]
+        },
+        {
+          "label": "currency",
+          "children": [
+            {
+              "label": "sri lankan rupee"
+            }
+          ]
+        },
+        {
+          "label": "time_zone",
+          "children": [
+            {
+              "label": "utc +5:30"
+            }
+          ]
+        },
+        {
+          "label": "calling_code",
+          "children": [
+            {
+              "label": "+94"
+            }
+          ]
+        },
+        {
+          "label": "iso_3166_code",
+          "children": [
+            {
+              "label": "lk"
+            }
+          ]
+        },
+        {
+          "label": "internet_tld",
+          "children": [
+            {
+              "label": ".lk"
+            },
+            {
+              "label": ".ලංකා"
+            },
+            {
+              "label": ".இலங்கை"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

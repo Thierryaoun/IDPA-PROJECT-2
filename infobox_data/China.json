@@ -1,0 +1,460 @@
+{
+  "country": "China",
+  "infobox_title": "People's Republic of China 中华人民共和国 Zhōnghuá Rénmín Gònghéguó",
+  "data": [
+    {
+      "label": "Capital",
+      "value": "Beijing 39°55′N 116°23′E ﻿ / ﻿ 39.917°N 116.383°E",
+      "links": [
+        {
+          "text": "Beijing",
+          "href": "https://en.wikipedia.org/wiki/Beijing"
+        },
+        {
+          "text": "39°55′N116°23′E﻿ / ﻿39.917°N 116.383°E",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=China&params=39_55_N_116_23_E_type:city(21,000,000)_region:CN-BJ"
+        }
+      ]
+    },
+    {
+      "label": "Largest city by municipal population",
+      "value": "Chongqing",
+      "links": [
+        {
+          "text": "Chongqing",
+          "href": "https://en.wikipedia.org/wiki/Chongqing"
+        }
+      ]
+    },
+    {
+      "label": "Largest city by urban population",
+      "value": "Shanghai",
+      "links": [
+        {
+          "text": "Shanghai",
+          "href": "https://en.wikipedia.org/wiki/Shanghai"
+        }
+      ]
+    },
+    {
+      "label": "Official languages",
+      "value": "Standard Chinese (de facto)",
+      "links": [
+        {
+          "text": "Standard Chinese",
+          "href": "https://en.wikipedia.org/wiki/Standard_Chinese"
+        }
+      ]
+    },
+    {
+      "label": "Official script",
+      "value": "Simplified Chinese ( Mainland ), Traditional Chinese ( Hong Kong , Macau )",
+      "links": [
+        {
+          "text": "Simplified Chinese",
+          "href": "https://en.wikipedia.org/wiki/Simplified_Chinese"
+        },
+        {
+          "text": "Mainland",
+          "href": "https://en.wikipedia.org/wiki/Mainland_China"
+        },
+        {
+          "text": "Traditional Chinese",
+          "href": "https://en.wikipedia.org/wiki/Traditional_Chinese"
+        },
+        {
+          "text": "Hong Kong",
+          "href": "https://en.wikipedia.org/wiki/Hong_Kong"
+        },
+        {
+          "text": "Macau",
+          "href": "https://en.wikipedia.org/wiki/Macau"
+        }
+      ]
+    },
+    {
+      "label": "Ethnic groups (2020)",
+      "value": "91.11% Han Chinese 1.39% Zhuang 0.84% Uyghur 0.81% Hui 0.79% Miao 0.74% Manchu 0.70% Yi 0.68% Tujia 0.50% Tibetan 2.44% others",
+      "links": [
+        {
+          "text": "Han Chinese",
+          "href": "https://en.wikipedia.org/wiki/Han_Chinese"
+        },
+        {
+          "text": "Zhuang",
+          "href": "https://en.wikipedia.org/wiki/Zhuang_people"
+        },
+        {
+          "text": "Uyghur",
+          "href": "https://en.wikipedia.org/wiki/Uyghur_people"
+        },
+        {
+          "text": "Hui",
+          "href": "https://en.wikipedia.org/wiki/Hui_people"
+        },
+        {
+          "text": "Miao",
+          "href": "https://en.wikipedia.org/wiki/Miao_people"
+        },
+        {
+          "text": "Manchu",
+          "href": "https://en.wikipedia.org/wiki/Manchu_people"
+        },
+        {
+          "text": "Yi",
+          "href": "https://en.wikipedia.org/wiki/Yi_people"
+        },
+        {
+          "text": "Tujia",
+          "href": "https://en.wikipedia.org/wiki/Tujia_people"
+        },
+        {
+          "text": "Tibetan",
+          "href": "https://en.wikipedia.org/wiki/Tibetan_people"
+        },
+        {
+          "text": "others",
+          "href": "https://en.wikipedia.org/wiki/List_of_ethnic_groups_in_China"
+        }
+      ],
+      "sub_items": [
+        "91.11% Han Chinese",
+        "1.39% Zhuang",
+        "0.84% Uyghur",
+        "0.81% Hui",
+        "0.79% Miao",
+        "0.74% Manchu",
+        "0.70% Yi",
+        "0.68% Tujia",
+        "0.50% Tibetan",
+        "2.44% others"
+      ]
+    },
+    {
+      "label": "Demonym",
+      "value": "Chinese",
+      "links": [
+        {
+          "text": "Chinese",
+          "href": "https://en.wikipedia.org/wiki/Chinese_people"
+        }
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Unitary communist state",
+      "links": [
+        {
+          "text": "communist state",
+          "href": "https://en.wikipedia.org/wiki/Communist_state"
+        }
+      ]
+    },
+    {
+      "label": "• CCP General Secretary and President",
+      "value": "Xi Jinping",
+      "links": [
+        {
+          "text": "Xi Jinping",
+          "href": "https://en.wikipedia.org/wiki/Xi_Jinping"
+        }
+      ]
+    },
+    {
+      "label": "• Premier",
+      "value": "Li Qiang",
+      "links": [
+        {
+          "text": "Li Qiang",
+          "href": "https://en.wikipedia.org/wiki/Li_Qiang"
+        }
+      ]
+    },
+    {
+      "label": "• Congress Chairman",
+      "value": "Zhao Leji",
+      "links": [
+        {
+          "text": "Zhao Leji",
+          "href": "https://en.wikipedia.org/wiki/Zhao_Leji"
+        }
+      ]
+    },
+    {
+      "label": "• CPPCC Chairman",
+      "value": "Wang Huning",
+      "links": [
+        {
+          "text": "Wang Huning",
+          "href": "https://en.wikipedia.org/wiki/Wang_Huning"
+        }
+      ]
+    },
+    {
+      "label": "• Vice President",
+      "value": "Han Zheng",
+      "links": [
+        {
+          "text": "Han Zheng",
+          "href": "https://en.wikipedia.org/wiki/Han_Zheng"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "National People's Congress",
+      "links": [
+        {
+          "text": "National People's Congress",
+          "href": "https://en.wikipedia.org/wiki/National_People%27s_Congress"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Formation",
+      "rows": [
+        {
+          "label": "• First pre-imperial dynasty",
+          "value": "c. 2070 BCE"
+        },
+        {
+          "label": "• First imperial dynasty",
+          "value": "221 BCE"
+        },
+        {
+          "label": "• Establishment of the Republic of China",
+          "value": "1 January 1912"
+        },
+        {
+          "label": "• Proclamation of the People's Republic",
+          "value": "1 October 1949"
+        },
+        {
+          "label": "• Current constitution",
+          "value": "4 December 1982"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "9,596,961 km (3,705,407 sq mi) ( 3rd/4th )",
+          "links": [
+            {
+              "text": "3rd/4th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "2.8"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2025 estimate",
+          "value": "1,404,890,000 ( 2nd )",
+          "links": [
+            {
+              "text": "2nd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• Density",
+          "value": "146/km (378.1/sq mi) ( 83rd )",
+          "links": [
+            {
+              "text": "83rd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$41.016 trillion ( 1st )",
+          "links": [
+            {
+              "text": "1st",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$29,191 ( 74th )",
+          "links": [
+            {
+              "text": "74th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$19.399 trillion ( 2nd )",
+          "links": [
+            {
+              "text": "2nd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$13,806 ( 75th )",
+          "links": [
+            {
+              "text": "75th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "Gini (2022)",
+          "value": "36.0 medium inequality"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.797 high ( 78th )",
+          "links": [
+            {
+              "text": "78th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "Renminbi (元/¥) ( CNY )",
+          "links": [
+            {
+              "text": "Renminbi",
+              "href": "https://en.wikipedia.org/wiki/Renminbi"
+            },
+            {
+              "text": "CNY",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC +8 ( CST )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "+8",
+              "href": "https://en.wikipedia.org/wiki/UTC%2B08:00"
+            },
+            {
+              "text": "CST",
+              "href": "https://en.wikipedia.org/wiki/Time_in_China"
+            }
+          ]
+        },
+        {
+          "label": "Calling code",
+          "value": "+86 (Mainland) +852 (Hong Kong) +853 (Macau)",
+          "links": [
+            {
+              "text": "+86",
+              "href": "https://en.wikipedia.org/wiki/%2B86"
+            },
+            {
+              "text": "+852",
+              "href": "https://en.wikipedia.org/wiki/%2B852"
+            },
+            {
+              "text": "+853",
+              "href": "https://en.wikipedia.org/wiki/%2B853"
+            }
+          ],
+          "sub_items": [
+            "+86 (Mainland)",
+            "+852 (Hong Kong)",
+            "+853 (Macau)"
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "CN",
+          "links": [
+            {
+              "text": "CN",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:CN"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".cn .中国 .中國 (Mainland) .hk .香港 (Hong Kong) .mo .澳门 .澳門 (Macau)",
+          "links": [
+            {
+              "text": ".cn",
+              "href": "https://en.wikipedia.org/wiki/.cn"
+            },
+            {
+              "text": ".中国",
+              "href": "https://en.wikipedia.org/wiki/.%E4%B8%AD%E5%9B%BD"
+            },
+            {
+              "text": ".中國",
+              "href": "https://en.wikipedia.org/wiki/.%E4%B8%AD%E5%9C%8B"
+            },
+            {
+              "text": ".hk",
+              "href": "https://en.wikipedia.org/wiki/.hk"
+            },
+            {
+              "text": ".香港",
+              "href": "https://en.wikipedia.org/wiki/.%E9%A6%99%E6%B8%AF"
+            },
+            {
+              "text": ".mo",
+              "href": "https://en.wikipedia.org/wiki/.mo"
+            },
+            {
+              "text": ".澳门",
+              "href": "https://en.wikipedia.org/wiki/.%E6%BE%B3%E9%97%A8"
+            },
+            {
+              "text": ".澳門",
+              "href": "https://en.wikipedia.org/wiki/.%E6%BE%B3%E9%96%80"
+            }
+          ],
+          "sub_items": [
+            ".cn",
+            ".中国",
+            ".中國 (Mainland)",
+            ".hk",
+            ".香港 (Hong Kong)",
+            ".mo",
+            ".澳门",
+            ".澳門 (Macau)"
+          ]
+        }
+      ]
+    }
+  ]
+}

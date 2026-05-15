@@ -1,0 +1,397 @@
+{
+  "country": "Belize",
+  "infobox_title": "Belize Bileez ( Belizean Creole ) Belice ( Spanish ) Belize ( Q'eqchi' Mayan ) Belice ( Yucatec Mayan )",
+  "data": [
+    {
+      "label": "Capital",
+      "value": "Belmopan 17°15′N 88°46′W ﻿ / ﻿ 17.250°N 88.767°W",
+      "links": [
+        {
+          "text": "Belmopan",
+          "href": "https://en.wikipedia.org/wiki/Belmopan"
+        },
+        {
+          "text": "17°15′N88°46′W﻿ / ﻿17.250°N 88.767°W",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Belize&params=17_15_N_88_46_W_type:city_region:BZ"
+        }
+      ]
+    },
+    {
+      "label": "Largest city",
+      "value": "Belize City 17°29′N 88°11′W ﻿ / ﻿ 17.483°N 88.183°W",
+      "links": [
+        {
+          "text": "Belize City",
+          "href": "https://en.wikipedia.org/wiki/Belize_City"
+        },
+        {
+          "text": "17°29′N88°11′W﻿ / ﻿17.483°N 88.183°W",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Belize&params=17_29_N_88_11_W_type:city_region:BZ"
+        }
+      ]
+    },
+    {
+      "label": "Official languages",
+      "value": "English",
+      "links": [
+        {
+          "text": "English",
+          "href": "https://en.wikipedia.org/wiki/Belizean_English"
+        }
+      ]
+    },
+    {
+      "label": "Spoken languages",
+      "value": "Belizean Creole Spanish Mayan",
+      "links": [
+        {
+          "text": "Belizean Creole",
+          "href": "https://en.wikipedia.org/wiki/Belizean_Creole"
+        },
+        {
+          "text": "Spanish",
+          "href": "https://en.wikipedia.org/wiki/Belizean_Spanish"
+        },
+        {
+          "text": "Mayan",
+          "href": "https://en.wikipedia.org/wiki/Mayan_languages"
+        }
+      ],
+      "sub_items": [
+        "Belizean Creole",
+        "Spanish",
+        "Mayan"
+      ]
+    },
+    {
+      "label": "Ethnic groups (2010)",
+      "value": "52.9% Mestizo 25.9% Creole 11.3% Mayan 6.1% Garifuna 3.9% East Indian 3.6% Mennonite 1.2% White 1.0% Asian 1.2% Other 0.3% Unknown",
+      "links": [
+        {
+          "text": "Mestizo",
+          "href": "https://en.wikipedia.org/wiki/Mestizo"
+        },
+        {
+          "text": "Creole",
+          "href": "https://en.wikipedia.org/wiki/Afro-Caribbean_people"
+        },
+        {
+          "text": "Mayan",
+          "href": "https://en.wikipedia.org/wiki/Maya_peoples"
+        },
+        {
+          "text": "Garifuna",
+          "href": "https://en.wikipedia.org/wiki/Garifuna"
+        },
+        {
+          "text": "East Indian",
+          "href": "https://en.wikipedia.org/wiki/Indo-Caribbean_people"
+        },
+        {
+          "text": "Mennonite",
+          "href": "https://en.wikipedia.org/wiki/Ethnic_Mennonites"
+        },
+        {
+          "text": "White",
+          "href": "https://en.wikipedia.org/wiki/White_Caribbean_people"
+        },
+        {
+          "text": "Asian",
+          "href": "https://en.wikipedia.org/wiki/Asian_Caribbean_people"
+        }
+      ],
+      "sub_items": [
+        "52.9% Mestizo",
+        "25.9% Creole",
+        "11.3% Mayan",
+        "6.1% Garifuna",
+        "3.9% East Indian",
+        "3.6% Mennonite",
+        "1.2% White",
+        "1.0% Asian",
+        "1.2% Other",
+        "0.3% Unknown"
+      ]
+    },
+    {
+      "label": "Religion (2022)",
+      "value": "61.9% Christianity 31.8% no religion 6.3% other",
+      "links": [
+        {
+          "text": "Christianity",
+          "href": "https://en.wikipedia.org/wiki/Christianity_in_Belize"
+        },
+        {
+          "text": "no religion",
+          "href": "https://en.wikipedia.org/wiki/Irreligion"
+        },
+        {
+          "text": "other",
+          "href": "https://en.wikipedia.org/wiki/Religion_in_Belize"
+        }
+      ],
+      "sub_items": [
+        "61.9% Christianity",
+        "31.8% no religion",
+        "6.3% other"
+      ]
+    },
+    {
+      "label": "Demonym",
+      "value": "Belizean",
+      "links": [
+        {
+          "text": "Belizean",
+          "href": "https://en.wikipedia.org/wiki/Belizeans"
+        }
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Unitary parliamentary constitutional monarchy",
+      "links": [
+        {
+          "text": "parliamentary constitutional monarchy",
+          "href": "https://en.wikipedia.org/wiki/Parliamentary_constitutional_monarchy"
+        }
+      ]
+    },
+    {
+      "label": "• Monarch",
+      "value": "Charles III",
+      "links": [
+        {
+          "text": "Charles III",
+          "href": "https://en.wikipedia.org/wiki/Charles_III"
+        }
+      ]
+    },
+    {
+      "label": "• Governor-General",
+      "value": "Froyla Tzalam",
+      "links": [
+        {
+          "text": "Froyla Tzalam",
+          "href": "https://en.wikipedia.org/wiki/Froyla_Tzalam"
+        }
+      ]
+    },
+    {
+      "label": "• Prime Minister",
+      "value": "Johnny Briceño",
+      "links": [
+        {
+          "text": "Johnny Briceño",
+          "href": "https://en.wikipedia.org/wiki/Johnny_Brice%C3%B1o"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "National Assembly",
+      "links": [
+        {
+          "text": "National Assembly",
+          "href": "https://en.wikipedia.org/wiki/National_Assembly_(Belize)"
+        }
+      ]
+    },
+    {
+      "label": "• Upper house",
+      "value": "Senate",
+      "links": [
+        {
+          "text": "Senate",
+          "href": "https://en.wikipedia.org/wiki/Senate_(Belize)"
+        }
+      ]
+    },
+    {
+      "label": "• Lower house",
+      "value": "House of Representatives",
+      "links": [
+        {
+          "text": "House of Representatives",
+          "href": "https://en.wikipedia.org/wiki/House_of_Representatives_(Belize)"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Independence from the United Kingdom",
+      "rows": [
+        {
+          "label": "• Self-governance",
+          "value": "January 1964"
+        },
+        {
+          "label": "• Realm",
+          "value": "21 September 1981"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "22,966 km (8,867 sq mi) ( 147th )",
+          "links": [
+            {
+              "text": "147th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "0.8"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2022 census",
+          "value": "397,483"
+        },
+        {
+          "label": "• Density",
+          "value": "17.31/km (44.8/sq mi)"
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$6.414 billion ( 180th )",
+          "links": [
+            {
+              "text": "180th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$15,363 ( 123rd )",
+          "links": [
+            {
+              "text": "123rd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$3.488 billion ( 179th )",
+          "links": [
+            {
+              "text": "179th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$8,355 ( 98th )",
+          "links": [
+            {
+              "text": "98th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "Gini (2013)",
+          "value": "53.1 high inequality"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.721 high ( 115th )",
+          "links": [
+            {
+              "text": "115th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "Belize dollar ($) ( BZD )",
+          "links": [
+            {
+              "text": "Belize dollar",
+              "href": "https://en.wikipedia.org/wiki/Belize_dollar"
+            },
+            {
+              "text": "BZD",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC −06:00 ( CST )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "CST",
+              "href": "https://en.wikipedia.org/wiki/Central_Time_Zone"
+            }
+          ]
+        },
+        {
+          "label": "Date format",
+          "value": "dd / mm / yyyy ( AD )",
+          "links": [
+            {
+              "text": "AD",
+              "href": "https://en.wikipedia.org/wiki/Anno_Domini"
+            }
+          ]
+        },
+        {
+          "label": "Calling code",
+          "value": "+501",
+          "links": [
+            {
+              "text": "+501",
+              "href": "https://en.wikipedia.org/wiki/%2B501"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "BZ",
+          "links": [
+            {
+              "text": "BZ",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:BZ"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".bz",
+          "links": [
+            {
+              "text": ".bz",
+              "href": "https://en.wikipedia.org/wiki/.bz"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

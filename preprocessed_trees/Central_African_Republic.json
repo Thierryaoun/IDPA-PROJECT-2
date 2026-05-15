@@ -1,0 +1,364 @@
+{
+  "label": "country",
+  "children": [
+    {
+      "label": "name",
+      "children": [
+        {
+          "label": "central african republic"
+        }
+      ]
+    },
+    {
+      "label": "infobox_title",
+      "children": [
+        {
+          "label": "central african republic ködörösêse tî bêafrîka république centrafricaine"
+        }
+      ]
+    },
+    {
+      "label": "capital_and_largest_city",
+      "children": [
+        {
+          "label": "bangui / 4."
+        }
+      ]
+    },
+    {
+      "label": "official_languages",
+      "children": [
+        {
+          "label": "french"
+        },
+        {
+          "label": "sango"
+        }
+      ]
+    },
+    {
+      "label": "recognised_national_languages",
+      "children": [
+        {
+          "label": "sango"
+        }
+      ]
+    },
+    {
+      "label": "ethnic_groups",
+      "children": [
+        {
+          "label": "baggara arabs"
+        },
+        {
+          "label": "baka"
+        },
+        {
+          "label": "banda"
+        },
+        {
+          "label": "bayaka"
+        },
+        {
+          "label": "fula"
+        },
+        {
+          "label": "gula"
+        },
+        {
+          "label": "gbaya"
+        },
+        {
+          "label": "kara"
+        },
+        {
+          "label": "kresh"
+        },
+        {
+          "label": "mbaka"
+        },
+        {
+          "label": "mandja"
+        },
+        {
+          "label": "ngbandi"
+        },
+        {
+          "label": "runga"
+        },
+        {
+          "label": "sara"
+        },
+        {
+          "label": "vidiri"
+        },
+        {
+          "label": "wodaabe"
+        },
+        {
+          "label": "yakoma"
+        },
+        {
+          "label": "yulu"
+        },
+        {
+          "label": "kanuri"
+        },
+        {
+          "label": "zande"
+        },
+        {
+          "label": "other"
+        }
+      ]
+    },
+    {
+      "label": "religion_2020",
+      "children": [
+        {
+          "label": "73.2% christianity"
+        },
+        {
+          "label": "13.9% islam"
+        },
+        {
+          "label": "12.0% traditional faiths"
+        },
+        {
+          "label": "0.9% other / none"
+        }
+      ]
+    },
+    {
+      "label": "demonym",
+      "children": [
+        {
+          "label": "central african"
+        }
+      ]
+    },
+    {
+      "label": "government",
+      "children": [
+        {
+          "label": "unitary presidential republic"
+        }
+      ]
+    },
+    {
+      "label": "president",
+      "children": [
+        {
+          "label": "faustin-archange touadéra"
+        }
+      ]
+    },
+    {
+      "label": "prime_minister",
+      "children": [
+        {
+          "label": "félix moloua"
+        }
+      ]
+    },
+    {
+      "label": "president_of_the_national_assembly",
+      "children": [
+        {
+          "label": "simplice sarandji"
+        }
+      ]
+    },
+    {
+      "label": "legislature",
+      "children": [
+        {
+          "label": "national assembly"
+        }
+      ]
+    },
+    {
+      "label": "independence",
+      "children": [
+        {
+          "label": "republic_established",
+          "children": [
+            {
+              "label": "1 december 1958"
+            }
+          ]
+        },
+        {
+          "label": "from_france",
+          "children": [
+            {
+              "label": "13 august 1960"
+            }
+          ]
+        },
+        {
+          "label": "central_african_empire_established",
+          "children": [
+            {
+              "label": "4 december 1976"
+            }
+          ]
+        },
+        {
+          "label": "coronation_of_bokassa_i",
+          "children": [
+            {
+              "label": "4 december 1977"
+            }
+          ]
+        },
+        {
+          "label": "bokassa_i_s_overthrow_and_republic_restored",
+          "children": [
+            {
+              "label": "21 september 1979"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "area",
+      "children": [
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "622,984 km"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "population",
+      "children": [
+        {
+          "label": "2024_estimate",
+          "children": [
+            {
+              "label": "5,650,957"
+            }
+          ]
+        },
+        {
+          "label": "density",
+          "children": [
+            {
+              "label": "8.6/km"
+            }
+          ]
+        },
+        {
+          "label": "gdp_ppp",
+          "children": [
+            {
+              "label": "2026 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$7.940 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$1,390"
+            }
+          ]
+        },
+        {
+          "label": "gdp_nominal",
+          "children": [
+            {
+              "label": "2026 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$3.710 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$650"
+            }
+          ]
+        },
+        {
+          "label": "gini_2021",
+          "children": [
+            {
+              "label": "43 medium inequality"
+            }
+          ]
+        },
+        {
+          "label": "hdi_2023",
+          "children": [
+            {
+              "label": "0.414 low"
+            }
+          ]
+        },
+        {
+          "label": "currency",
+          "children": [
+            {
+              "label": "central african cfa franc"
+            }
+          ]
+        },
+        {
+          "label": "time_zone",
+          "children": [
+            {
+              "label": "utc +01:00"
+            }
+          ]
+        },
+        {
+          "label": "calling_code",
+          "children": [
+            {
+              "label": "+236"
+            }
+          ]
+        },
+        {
+          "label": "iso_3166_code",
+          "children": [
+            {
+              "label": "cf"
+            }
+          ]
+        },
+        {
+          "label": "internet_tld",
+          "children": [
+            {
+              "label": ".cf"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

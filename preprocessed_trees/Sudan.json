@@ -1,0 +1,351 @@
+{
+  "label": "country",
+  "children": [
+    {
+      "label": "name",
+      "children": [
+        {
+          "label": "sudan"
+        }
+      ]
+    },
+    {
+      "label": "infobox_title",
+      "children": [
+        {
+          "label": "republic of the sudan جمهورية السودان jumhūriyyat as-sūdān"
+        }
+      ]
+    },
+    {
+      "label": "capital_and_largest_city",
+      "children": [
+        {
+          "label": "khartoum / 15."
+        }
+      ]
+    },
+    {
+      "label": "official_languages",
+      "children": [
+        {
+          "label": "arabic"
+        },
+        {
+          "label": "english"
+        }
+      ]
+    },
+    {
+      "label": "ethnic_groups",
+      "children": [
+        {
+          "label": "70% sudanese arab"
+        },
+        {
+          "label": "5.9% beja"
+        },
+        {
+          "label": "2.5% nuba"
+        },
+        {
+          "label": "2% fur"
+        },
+        {
+          "label": "2% egyptian"
+        },
+        {
+          "label": "1.3% nubian"
+        },
+        {
+          "label": "16.3% others"
+        }
+      ]
+    },
+    {
+      "label": "religion_2022",
+      "children": [
+        {
+          "label": "97% sunni islam"
+        },
+        {
+          "label": "3% christianity"
+        }
+      ]
+    },
+    {
+      "label": "demonym",
+      "children": [
+        {
+          "label": "sudanese"
+        }
+      ]
+    },
+    {
+      "label": "government",
+      "children": [
+        {
+          "label": "federal republic under a military junta"
+        }
+      ]
+    },
+    {
+      "label": "president_of_the_transitional_sovereignty_council",
+      "children": [
+        {
+          "label": "abdel fattah al-burhan"
+        }
+      ]
+    },
+    {
+      "label": "vice_president_of_the_transitional_sovereignty_council",
+      "children": [
+        {
+          "label": "malik agar"
+        }
+      ]
+    },
+    {
+      "label": "prime_minister",
+      "children": [
+        {
+          "label": "kamil idris"
+        }
+      ]
+    },
+    {
+      "label": "legislature",
+      "children": [
+        {
+          "label": "transitional legislative authority"
+        }
+      ]
+    },
+    {
+      "label": "formation",
+      "children": [
+        {
+          "label": "kingdom_of_kerma",
+          "children": [
+            {
+              "label": "2500 bc"
+            }
+          ]
+        },
+        {
+          "label": "kingdom_of_kush",
+          "children": [
+            {
+              "label": "780 bc"
+            }
+          ]
+        },
+        {
+          "label": "turco_egyptian_sudan",
+          "children": [
+            {
+              "label": "1820"
+            }
+          ]
+        },
+        {
+          "label": "mahdist_state",
+          "children": [
+            {
+              "label": "1885"
+            }
+          ]
+        },
+        {
+          "label": "anglo_egyptian_condominium",
+          "children": [
+            {
+              "label": "1899"
+            }
+          ]
+        },
+        {
+          "label": "independence",
+          "children": [
+            {
+              "label": "1 january 1956"
+            }
+          ]
+        },
+        {
+          "label": "democratic_republic_of_sudan",
+          "children": [
+            {
+              "label": "25 may 1969"
+            }
+          ]
+        },
+        {
+          "label": "republic_of_sudan_1985_2019",
+          "children": [
+            {
+              "label": "6 april 1985"
+            }
+          ]
+        },
+        {
+          "label": "secession_of_south_sudan",
+          "children": [
+            {
+              "label": "9 july 2011"
+            }
+          ]
+        },
+        {
+          "label": "2019_draft_constitutional_declaration_effective",
+          "children": [
+            {
+              "label": "20 august 2019"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "area",
+      "children": [
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "1,886,068 km"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "population",
+      "children": [
+        {
+          "label": "2025_estimate",
+          "children": [
+            {
+              "label": "51,767,437"
+            }
+          ]
+        },
+        {
+          "label": "density",
+          "children": [
+            {
+              "label": "21.3/km"
+            }
+          ]
+        },
+        {
+          "label": "gdp_ppp",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$117.77 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$2,034"
+            }
+          ]
+        },
+        {
+          "label": "gdp_nominal",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$31.510 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$624"
+            }
+          ]
+        },
+        {
+          "label": "gini_2014",
+          "children": [
+            {
+              "label": "34.2 medium inequality"
+            }
+          ]
+        },
+        {
+          "label": "hdi_2023",
+          "children": [
+            {
+              "label": "0.511 low"
+            }
+          ]
+        },
+        {
+          "label": "currency",
+          "children": [
+            {
+              "label": "sudanese pound"
+            }
+          ]
+        },
+        {
+          "label": "time_zone",
+          "children": [
+            {
+              "label": "utc +2"
+            }
+          ]
+        },
+        {
+          "label": "calling_code",
+          "children": [
+            {
+              "label": "+249"
+            }
+          ]
+        },
+        {
+          "label": "iso_3166_code",
+          "children": [
+            {
+              "label": "sd"
+            }
+          ]
+        },
+        {
+          "label": "internet_tld",
+          "children": [
+            {
+              "label": ".sd"
+            },
+            {
+              "label": ".السودان"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

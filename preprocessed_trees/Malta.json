@@ -1,0 +1,303 @@
+{
+  "label": "country",
+  "children": [
+    {
+      "label": "name",
+      "children": [
+        {
+          "label": "malta"
+        }
+      ]
+    },
+    {
+      "label": "infobox_title",
+      "children": [
+        {
+          "label": "republic of malta repubblika ta' malta"
+        }
+      ]
+    },
+    {
+      "label": "capital",
+      "children": [
+        {
+          "label": "valletta / 35."
+        }
+      ]
+    },
+    {
+      "label": "official_languages",
+      "children": [
+        {
+          "label": "maltese"
+        },
+        {
+          "label": "english"
+        },
+        {
+          "label": "maltese sign language"
+        }
+      ]
+    },
+    {
+      "label": "other_languages",
+      "children": [
+        {
+          "label": "italian"
+        }
+      ]
+    },
+    {
+      "label": "ethnic_groups_2021",
+      "children": [
+        {
+          "label": "77.7% maltese"
+        },
+        {
+          "label": "22.3% other ethnic groups"
+        }
+      ]
+    },
+    {
+      "label": "religion_2021",
+      "children": [
+        {
+          "label": "88.5% christianity"
+        },
+        {
+          "label": "82.6% catholicism"
+        },
+        {
+          "label": "5.9% other christian"
+        },
+        {
+          "label": "5.1% no religion"
+        },
+        {
+          "label": "3.9% islam"
+        },
+        {
+          "label": "1.4% hinduism"
+        },
+        {
+          "label": "1.1% other"
+        }
+      ]
+    },
+    {
+      "label": "demonym",
+      "children": [
+        {
+          "label": "maltese"
+        }
+      ]
+    },
+    {
+      "label": "government",
+      "children": [
+        {
+          "label": "unitary parliamentary republic"
+        }
+      ]
+    },
+    {
+      "label": "president",
+      "children": [
+        {
+          "label": "myriam spiteri debono"
+        }
+      ]
+    },
+    {
+      "label": "prime_minister",
+      "children": [
+        {
+          "label": "robert abela"
+        }
+      ]
+    },
+    {
+      "label": "legislature",
+      "children": [
+        {
+          "label": "parliament of malta"
+        }
+      ]
+    },
+    {
+      "label": "independence_from_the_united_kingdom",
+      "children": [
+        {
+          "label": "state_of_malta",
+          "children": [
+            {
+              "label": "21 september 1964"
+            }
+          ]
+        },
+        {
+          "label": "republic",
+          "children": [
+            {
+              "label": "13 december 1974"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "area",
+      "children": [
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "316 km"
+            }
+          ]
+        },
+        {
+          "label": "water",
+          "children": [
+            {
+              "label": "0.001"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "population",
+      "children": [
+        {
+          "label": "2021_census",
+          "children": [
+            {
+              "label": "519,562"
+            }
+          ]
+        },
+        {
+          "label": "density",
+          "children": [
+            {
+              "label": "1,649/km"
+            }
+          ]
+        },
+        {
+          "label": "gdp_ppp",
+          "children": [
+            {
+              "label": "2024 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$36.870 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$67,682"
+            }
+          ]
+        },
+        {
+          "label": "gdp_nominal",
+          "children": [
+            {
+              "label": "2024 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$22.737 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$41,738"
+            }
+          ]
+        },
+        {
+          "label": "gini_2020",
+          "children": [
+            {
+              "label": "31.4 medium inequality"
+            }
+          ]
+        },
+        {
+          "label": "hdi_2023",
+          "children": [
+            {
+              "label": "0.924 very high"
+            }
+          ]
+        },
+        {
+          "label": "currency",
+          "children": [
+            {
+              "label": "euro"
+            }
+          ]
+        },
+        {
+          "label": "time_zone",
+          "children": [
+            {
+              "label": "utc +1"
+            }
+          ]
+        },
+        {
+          "label": "summer_dst",
+          "children": [
+            {
+              "label": "utc +2"
+            }
+          ]
+        },
+        {
+          "label": "calling_code",
+          "children": [
+            {
+              "label": "+356"
+            }
+          ]
+        },
+        {
+          "label": "iso_3166_code",
+          "children": [
+            {
+              "label": "mt"
+            }
+          ]
+        },
+        {
+          "label": "internet_tld",
+          "children": [
+            {
+              "label": ".mt"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

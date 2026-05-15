@@ -1,0 +1,359 @@
+{
+  "label": "country",
+  "children": [
+    {
+      "label": "name",
+      "children": [
+        {
+          "label": "iraq"
+        }
+      ]
+    },
+    {
+      "label": "infobox_title",
+      "children": [
+        {
+          "label": "republic of iraq جُمْهُورِيَّة ٱلْعِرَاق jumhūriyyat al-ʿirāq کۆماری عێراق komarî êraq"
+        }
+      ]
+    },
+    {
+      "label": "capital_and_largest_city",
+      "children": [
+        {
+          "label": "baghdad / 33."
+        }
+      ]
+    },
+    {
+      "label": "official_languages",
+      "children": [
+        {
+          "label": "arabic"
+        },
+        {
+          "label": "kurdish"
+        }
+      ]
+    },
+    {
+      "label": "recognised_regional_languages",
+      "children": [
+        {
+          "label": "assyrian"
+        },
+        {
+          "label": "armenian"
+        },
+        {
+          "label": "turkmen"
+        }
+      ]
+    },
+    {
+      "label": "ethnic_groups_1987",
+      "children": [
+        {
+          "label": "80% arabs"
+        },
+        {
+          "label": "20% kurds"
+        },
+        {
+          "label": "5–10% assyrians , turkmen , jews , persians , yazidis , mandaeans , and others"
+        }
+      ]
+    },
+    {
+      "label": "religion_2020",
+      "children": [
+        {
+          "label": "95% islam"
+        },
+        {
+          "label": "61% shia"
+        },
+        {
+          "label": "35% sunni"
+        },
+        {
+          "label": "5–10% christianity , mandaeism , yazidism , judaism , yarsanism , irreligion and others"
+        }
+      ]
+    },
+    {
+      "label": "demonym",
+      "children": [
+        {
+          "label": "iraqi"
+        }
+      ]
+    },
+    {
+      "label": "government",
+      "children": [
+        {
+          "label": "federal parliamentary republic"
+        }
+      ]
+    },
+    {
+      "label": "president",
+      "children": [
+        {
+          "label": "abdul latif rashid"
+        }
+      ]
+    },
+    {
+      "label": "prime_minister",
+      "children": [
+        {
+          "label": "mohammed shia' al-sudani"
+        }
+      ]
+    },
+    {
+      "label": "speaker",
+      "children": [
+        {
+          "label": "haibat al-halbousi"
+        }
+      ]
+    },
+    {
+      "label": "legislature",
+      "children": [
+        {
+          "label": "council of representatives"
+        }
+      ]
+    },
+    {
+      "label": "upper_house",
+      "children": [
+        {
+          "label": "federation council"
+        }
+      ]
+    },
+    {
+      "label": "lower_house",
+      "children": [
+        {
+          "label": "council of representatives"
+        }
+      ]
+    },
+    {
+      "label": "establishment",
+      "children": [
+        {
+          "label": "sumer",
+          "children": [
+            {
+              "label": "c. 3300 bc"
+            }
+          ]
+        },
+        {
+          "label": "akkadian_empire",
+          "children": [
+            {
+              "label": "c. 2334 bc"
+            }
+          ]
+        },
+        {
+          "label": "babylonia",
+          "children": [
+            {
+              "label": "c. 1890 bc"
+            }
+          ]
+        },
+        {
+          "label": "abbasid_caliphate",
+          "children": [
+            {
+              "label": "750 ad"
+            }
+          ]
+        },
+        {
+          "label": "independence_declared",
+          "children": [
+            {
+              "label": "3 october 1932"
+            }
+          ]
+        },
+        {
+          "label": "republic_declared",
+          "children": [
+            {
+              "label": "14 july 1958"
+            }
+          ]
+        },
+        {
+          "label": "current_constitution",
+          "children": [
+            {
+              "label": "15 october 2005"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "area",
+      "children": [
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "438,317 km"
+            }
+          ]
+        },
+        {
+          "label": "water",
+          "children": [
+            {
+              "label": "4.93"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "population",
+      "children": [
+        {
+          "label": "2024_census",
+          "children": [
+            {
+              "label": "46,118,793"
+            }
+          ]
+        },
+        {
+          "label": "density",
+          "children": [
+            {
+              "label": "82.7/km"
+            }
+          ]
+        },
+        {
+          "label": "gdp_ppp",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$690.090 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$15,180"
+            }
+          ]
+        },
+        {
+          "label": "gdp_nominal",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$258.020 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$5,670"
+            }
+          ]
+        },
+        {
+          "label": "gini_2012",
+          "children": [
+            {
+              "label": "29.5 low inequality"
+            }
+          ]
+        },
+        {
+          "label": "hdi_2024",
+          "children": [
+            {
+              "label": "0.712 high"
+            }
+          ]
+        },
+        {
+          "label": "currency",
+          "children": [
+            {
+              "label": "iraqi dinar"
+            }
+          ]
+        },
+        {
+          "label": "time_zone",
+          "children": [
+            {
+              "label": "utc +3"
+            }
+          ]
+        },
+        {
+          "label": "calling_code",
+          "children": [
+            {
+              "label": "+964"
+            }
+          ]
+        },
+        {
+          "label": "iso_3166_code",
+          "children": [
+            {
+              "label": "iq"
+            }
+          ]
+        },
+        {
+          "label": "internet_tld",
+          "children": [
+            {
+              "label": ".iq"
+            },
+            {
+              "label": ".العراق"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

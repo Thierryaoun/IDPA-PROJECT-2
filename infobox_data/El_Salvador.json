@@ -1,0 +1,365 @@
+{
+  "country": "El Salvador",
+  "infobox_title": "Republic of El Salvador República de El Salvador ( Spanish )",
+  "data": [
+    {
+      "label": "Capital and largest city",
+      "value": "San Salvador 13°42′N 89°12′W ﻿ / ﻿ 13.700°N 89.200°W",
+      "links": [
+        {
+          "text": "San Salvador",
+          "href": "https://en.wikipedia.org/wiki/San_Salvador"
+        },
+        {
+          "text": "13°42′N89°12′W﻿ / ﻿13.700°N 89.200°W",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=El_Salvador&params=13_42_N_89_12_W_type:city_region:SV-SS"
+        }
+      ]
+    },
+    {
+      "label": "Official languages",
+      "value": "Spanish",
+      "links": [
+        {
+          "text": "Spanish",
+          "href": "https://en.wikipedia.org/wiki/Salvadoran_Spanish"
+        }
+      ]
+    },
+    {
+      "label": "Recognized languages",
+      "value": "Nawat",
+      "links": [
+        {
+          "text": "Nawat",
+          "href": "https://en.wikipedia.org/wiki/Nawat_language"
+        }
+      ]
+    },
+    {
+      "label": "Ethnic groups (2007)",
+      "value": "86.3% Mestizo (mixed White and Indigenous ) 12.7% White 0.2% Indigenous 0.1% Black 0.6% other",
+      "links": [
+        {
+          "text": "Mestizo",
+          "href": "https://en.wikipedia.org/wiki/Mestizo"
+        },
+        {
+          "text": "White",
+          "href": "https://en.wikipedia.org/wiki/White_Latin_Americans"
+        },
+        {
+          "text": "Indigenous",
+          "href": "https://en.wikipedia.org/wiki/Indigenous_peoples_of_the_Americas#El_Salvador"
+        },
+        {
+          "text": "White",
+          "href": "https://en.wikipedia.org/wiki/White_Latin_Americans"
+        },
+        {
+          "text": "Indigenous",
+          "href": "https://en.wikipedia.org/wiki/Indigenous_peoples_of_the_Americas#El_Salvador"
+        },
+        {
+          "text": "Black",
+          "href": "https://en.wikipedia.org/wiki/Afro-Salvadorans"
+        }
+      ],
+      "sub_items": [
+        "86.3% Mestizo (mixed White and Indigenous )",
+        "12.7% White",
+        "0.2% Indigenous",
+        "0.1% Black",
+        "0.6% other"
+      ]
+    },
+    {
+      "label": "Religion (2022)",
+      "value": "81.5% Christianity 42.2% Catholicism 36.6% Protestantism 2.7% other Christian 17% no religion 1.5% other",
+      "links": [
+        {
+          "text": "Christianity",
+          "href": "https://en.wikipedia.org/wiki/Christianity"
+        },
+        {
+          "text": "Catholicism",
+          "href": "https://en.wikipedia.org/wiki/Catholic_Church_in_El_Salvador"
+        },
+        {
+          "text": "Protestantism",
+          "href": "https://en.wikipedia.org/wiki/Protestantism"
+        },
+        {
+          "text": "Christian",
+          "href": "https://en.wikipedia.org/wiki/List_of_Christian_denominations"
+        },
+        {
+          "text": "no religion",
+          "href": "https://en.wikipedia.org/wiki/Irreligion_in_Latin_America"
+        },
+        {
+          "text": "other",
+          "href": "https://en.wikipedia.org/wiki/Religion_in_El_Salvador"
+        }
+      ],
+      "sub_items": [
+        "81.5% Christianity 42.2% Catholicism 36.6% Protestantism 2.7% other Christian",
+        "81.5% Christianity 42.2% Catholicism 36.6% Protestantism 2.7% other Christian",
+        "42.2% Catholicism",
+        "36.6% Protestantism",
+        "2.7% other Christian",
+        "17% no religion",
+        "1.5% other"
+      ]
+    },
+    {
+      "label": "Demonym",
+      "value": "Salvadoran",
+      "links": [
+        {
+          "text": "Salvadoran",
+          "href": "https://en.wikipedia.org/wiki/Salvadoran"
+        }
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Unitary presidential republic",
+      "links": [
+        {
+          "text": "presidential republic",
+          "href": "https://en.wikipedia.org/wiki/Presidential_republic"
+        }
+      ]
+    },
+    {
+      "label": "• President",
+      "value": "Nayib Bukele",
+      "links": [
+        {
+          "text": "Nayib Bukele",
+          "href": "https://en.wikipedia.org/wiki/Nayib_Bukele"
+        }
+      ]
+    },
+    {
+      "label": "• Vice President",
+      "value": "Félix Ulloa",
+      "links": [
+        {
+          "text": "Félix Ulloa",
+          "href": "https://en.wikipedia.org/wiki/F%C3%A9lix_Ulloa"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "Legislative Assembly",
+      "links": [
+        {
+          "text": "Legislative Assembly",
+          "href": "https://en.wikipedia.org/wiki/Legislative_Assembly_of_El_Salvador"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Independence",
+      "rows": [
+        {
+          "label": "• Declared from Spain",
+          "value": "15 September 1821"
+        },
+        {
+          "label": "• Declared from the First Mexican Empire",
+          "value": "1 July 1823"
+        },
+        {
+          "label": "• Declared from the Federal Republic of Central America",
+          "value": "30 January 1841"
+        },
+        {
+          "label": "• International recognition",
+          "value": "18 February 1841"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "21,041 km (8,124 sq mi) ( 149th )",
+          "links": [
+            {
+              "text": "149th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "1.5"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2024 census",
+          "value": "6,029,976 ( 114th )",
+          "links": [
+            {
+              "text": "114th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• Density",
+          "value": "286.6/km (742.3/sq mi) ( 46th )",
+          "links": [
+            {
+              "text": "46th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$88.323 billion ( 107th )",
+          "links": [
+            {
+              "text": "107th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$13,753 ( 114th )",
+          "links": [
+            {
+              "text": "114th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$37.843 billion ( 104th )",
+          "links": [
+            {
+              "text": "104th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$5,893 ( 108th )",
+          "links": [
+            {
+              "text": "108th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "Gini (2022)",
+          "value": "38.8 medium inequality"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.678 medium ( 132nd )",
+          "links": [
+            {
+              "text": "132nd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "United States dollar ( USD ; since 2001) Salvadoran colón (no longer in circulation, still legal)",
+          "links": [
+            {
+              "text": "United States dollar",
+              "href": "https://en.wikipedia.org/wiki/United_States_dollar"
+            },
+            {
+              "text": "USD",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            },
+            {
+              "text": "Salvadoran colón",
+              "href": "https://en.wikipedia.org/wiki/Salvadoran_col%C3%B3n"
+            }
+          ],
+          "sub_items": [
+            "United States dollar ( USD ; since 2001)",
+            "Salvadoran colón (no longer in circulation, still legal)"
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC −6 ( CST )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "CST",
+              "href": "https://en.wikipedia.org/wiki/Central_Time_Zone"
+            }
+          ]
+        },
+        {
+          "label": "Date format",
+          "value": "dd/mm/yyyy"
+        },
+        {
+          "label": "Calling code",
+          "value": "+503",
+          "links": [
+            {
+              "text": "+503",
+              "href": "https://en.wikipedia.org/wiki/Telephone_numbers_in_El_Salvador"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "SV",
+          "links": [
+            {
+              "text": "SV",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:SV"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".sv",
+          "links": [
+            {
+              "text": ".sv",
+              "href": "https://en.wikipedia.org/wiki/.sv"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

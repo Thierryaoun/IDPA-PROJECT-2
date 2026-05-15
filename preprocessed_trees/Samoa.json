@@ -1,0 +1,343 @@
+{
+  "label": "country",
+  "children": [
+    {
+      "label": "name",
+      "children": [
+        {
+          "label": "samoa"
+        }
+      ]
+    },
+    {
+      "label": "infobox_title",
+      "children": [
+        {
+          "label": "independent state of samoa malo saʻoloto tutoʻatasi o sāmoa"
+        }
+      ]
+    },
+    {
+      "label": "capital_and_largest_city",
+      "children": [
+        {
+          "label": "apia / 13."
+        }
+      ]
+    },
+    {
+      "label": "official_languages",
+      "children": [
+        {
+          "label": "samoan , english"
+        }
+      ]
+    },
+    {
+      "label": "ethnic_groups_2021",
+      "children": [
+        {
+          "label": "92.6% samoans"
+        },
+        {
+          "label": "7.0% euronesians"
+        },
+        {
+          "label": "0.3% europeans"
+        },
+        {
+          "label": "0.1% others"
+        }
+      ]
+    },
+    {
+      "label": "religion_2021",
+      "children": [
+        {
+          "label": "97.9% christianity"
+        },
+        {
+          "label": "54.9% protestantism"
+        },
+        {
+          "label": "18.8% catholicism"
+        },
+        {
+          "label": "16.9% mormonism"
+        },
+        {
+          "label": "7.3% other christian"
+        },
+        {
+          "label": "1.7% no religion"
+        },
+        {
+          "label": "0.4% others"
+        }
+      ]
+    },
+    {
+      "label": "demonym",
+      "children": [
+        {
+          "label": "samoan"
+        }
+      ]
+    },
+    {
+      "label": "government",
+      "children": [
+        {
+          "label": "unitary parliamentary republic"
+        }
+      ]
+    },
+    {
+      "label": "o_le_ao_o_le_malo",
+      "children": [
+        {
+          "label": "tuimalealiʻifano vaʻaletoʻa sualauvi ii"
+        }
+      ]
+    },
+    {
+      "label": "prime_minister",
+      "children": [
+        {
+          "label": "laʻauli leuatea schmidt"
+        }
+      ]
+    },
+    {
+      "label": "assembly_speaker",
+      "children": [
+        {
+          "label": "auapaʻau mulipola aloitafua"
+        }
+      ]
+    },
+    {
+      "label": "legislature",
+      "children": [
+        {
+          "label": "legislative assembly"
+        }
+      ]
+    },
+    {
+      "label": "independence_from_new_zealand",
+      "children": [
+        {
+          "label": "treaty_of_berlin",
+          "children": [
+            {
+              "label": "14 june 1889"
+            }
+          ]
+        },
+        {
+          "label": "tripartite_convention",
+          "children": [
+            {
+              "label": "16 february 1900"
+            }
+          ]
+        },
+        {
+          "label": "colonisation_by_germany",
+          "children": [
+            {
+              "label": "1 march 1900"
+            }
+          ]
+        },
+        {
+          "label": "occupied_by_new_zealand",
+          "children": [
+            {
+              "label": "30 august 1914"
+            }
+          ]
+        },
+        {
+          "label": "league_mandate",
+          "children": [
+            {
+              "label": "17 december 1920"
+            }
+          ]
+        },
+        {
+          "label": "un_trusteeship",
+          "children": [
+            {
+              "label": "13 december 1946"
+            }
+          ]
+        },
+        {
+          "label": "western_samoa_act_1961",
+          "children": [
+            {
+              "label": "1 january 1962"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "area",
+      "children": [
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "2,831 km"
+            }
+          ]
+        },
+        {
+          "label": "water",
+          "children": [
+            {
+              "label": "0.3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "population",
+      "children": [
+        {
+          "label": "november_2021_census",
+          "children": [
+            {
+              "label": "205,557"
+            }
+          ]
+        },
+        {
+          "label": "density",
+          "children": [
+            {
+              "label": "70/km"
+            }
+          ]
+        },
+        {
+          "label": "gdp_ppp",
+          "children": [
+            {
+              "label": "2024 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$1.225 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$5,962"
+            }
+          ]
+        },
+        {
+          "label": "gdp_nominal",
+          "children": [
+            {
+              "label": "2024 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$908.561 million"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$4,420"
+            }
+          ]
+        },
+        {
+          "label": "gini_2013",
+          "children": [
+            {
+              "label": "38.7 medium inequality"
+            }
+          ]
+        },
+        {
+          "label": "hdi_2023",
+          "children": [
+            {
+              "label": "0.708 high"
+            }
+          ]
+        },
+        {
+          "label": "currency",
+          "children": [
+            {
+              "label": "tālā"
+            }
+          ]
+        },
+        {
+          "label": "time_zone",
+          "children": [
+            {
+              "label": "utc +13"
+            }
+          ]
+        },
+        {
+          "label": "date_format",
+          "children": [
+            {
+              "label": "dd/mm/yyyy"
+            }
+          ]
+        },
+        {
+          "label": "calling_code",
+          "children": [
+            {
+              "label": "+685"
+            }
+          ]
+        },
+        {
+          "label": "iso_3166_code",
+          "children": [
+            {
+              "label": "ws"
+            }
+          ]
+        },
+        {
+          "label": "internet_tld",
+          "children": [
+            {
+              "label": ".ws"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

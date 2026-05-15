@@ -1,0 +1,328 @@
+{
+  "country": "Chad",
+  "infobox_title": "Republic of Chad République du Tchad ( French ) جمهورية تشاد ( Arabic ) Jumhūriyyat Tshād",
+  "data": [
+    {
+      "label": "Capital and largest city",
+      "value": "N'Djamena 12°06′19″N 15°02′41″E ﻿ / ﻿ 12.10528°N 15.04472°E",
+      "links": [
+        {
+          "text": "N'Djamena",
+          "href": "https://en.wikipedia.org/wiki/N%27Djamena"
+        },
+        {
+          "text": "12°06′19″N15°02′41″E﻿ / ﻿12.10528°N 15.04472°E",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Chad&params=12_06_19_N_15_02_41_E_type:city"
+        }
+      ]
+    },
+    {
+      "label": "Official languages",
+      "value": "Arabic French",
+      "links": [
+        {
+          "text": "Arabic",
+          "href": "https://en.wikipedia.org/wiki/Arabic"
+        },
+        {
+          "text": "French",
+          "href": "https://en.wikipedia.org/wiki/French_language"
+        }
+      ],
+      "sub_items": [
+        "Arabic",
+        "French"
+      ]
+    },
+    {
+      "label": "Religion (2020)",
+      "value": "55.1% Islam 41.1% Christianity 2.4% no religion 1.3% Animism 0.1% others",
+      "links": [
+        {
+          "text": "Islam",
+          "href": "https://en.wikipedia.org/wiki/Islam_in_Chad"
+        },
+        {
+          "text": "Christianity",
+          "href": "https://en.wikipedia.org/wiki/Christianity_in_Chad"
+        },
+        {
+          "text": "no religion",
+          "href": "https://en.wikipedia.org/wiki/Irreligion"
+        },
+        {
+          "text": "Animism",
+          "href": "https://en.wikipedia.org/wiki/African_Traditional_Religion"
+        }
+      ],
+      "sub_items": [
+        "55.1% Islam",
+        "41.1% Christianity",
+        "2.4% no religion",
+        "1.3% Animism",
+        "0.1% others"
+      ]
+    },
+    {
+      "label": "Demonym",
+      "value": "Chadian",
+      "links": [
+        {
+          "text": "Chadian",
+          "href": "https://en.wikipedia.org/wiki/Chadian_people"
+        }
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Unitary semi-presidential republic under a hereditary dictatorship",
+      "links": [
+        {
+          "text": "semi-presidential republic",
+          "href": "https://en.wikipedia.org/wiki/Semi-presidential_system"
+        },
+        {
+          "text": "hereditary",
+          "href": "https://en.wikipedia.org/wiki/Dynasty"
+        },
+        {
+          "text": "dictatorship",
+          "href": "https://en.wikipedia.org/wiki/Dictatorship"
+        }
+      ]
+    },
+    {
+      "label": "• President",
+      "value": "Mahamat Déby",
+      "links": [
+        {
+          "text": "Mahamat Déby",
+          "href": "https://en.wikipedia.org/wiki/Mahamat_D%C3%A9by"
+        }
+      ]
+    },
+    {
+      "label": "• Prime Minister",
+      "value": "Allamaye Halina",
+      "links": [
+        {
+          "text": "Allamaye Halina",
+          "href": "https://en.wikipedia.org/wiki/Allamaye_Halina"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "Bicameral parliament",
+      "links": [
+        {
+          "text": "Bicameral parliament",
+          "href": "https://en.wikipedia.org/wiki/Bicameral_parliament"
+        }
+      ]
+    },
+    {
+      "label": "• Upper house",
+      "value": "Senate",
+      "links": [
+        {
+          "text": "Senate",
+          "href": "https://en.wikipedia.org/wiki/Senate_of_Chad"
+        }
+      ]
+    },
+    {
+      "label": "• Lower house",
+      "value": "National Assembly",
+      "links": [
+        {
+          "text": "National Assembly",
+          "href": "https://en.wikipedia.org/wiki/National_Assembly_of_Chad"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Independence from France",
+      "rows": [
+        {
+          "label": "• Colony established",
+          "value": "5 September 1900"
+        },
+        {
+          "label": "• Autonomy granted",
+          "value": "28 November 1958"
+        },
+        {
+          "label": "• Sovereign state",
+          "value": "11 August 1960"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "1,280,000 km (490,000 sq mi) ( 20th )",
+          "links": [
+            {
+              "text": "20th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "1.9"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2024 estimate",
+          "value": "19,093,595 ( 66th )",
+          "links": [
+            {
+              "text": "66th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• Density",
+          "value": "14.4/km (37.3/sq mi) ( 218th )",
+          "links": [
+            {
+              "text": "218th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2026 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$63.070 billion ( 147th )",
+          "links": [
+            {
+              "text": "147th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$3,240 ( 179th )",
+          "links": [
+            {
+              "text": "179th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2026 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$23.560 billion ( 145th )",
+          "links": [
+            {
+              "text": "145th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$1,210 ( 183rd )",
+          "links": [
+            {
+              "text": "183rd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "Gini (2022)",
+          "value": "37.4 medium inequality"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.416 low ( 190th )",
+          "links": [
+            {
+              "text": "190th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "Central African CFA franc ( XAF )",
+          "links": [
+            {
+              "text": "Central African CFA franc",
+              "href": "https://en.wikipedia.org/wiki/Central_African_CFA_franc"
+            },
+            {
+              "text": "XAF",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC +01:00 ( WAT )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "WAT",
+              "href": "https://en.wikipedia.org/wiki/West_Africa_Time"
+            }
+          ]
+        },
+        {
+          "label": "Calling code",
+          "value": "+235",
+          "links": [
+            {
+              "text": "+235",
+              "href": "https://en.wikipedia.org/wiki/%2B235"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "TD",
+          "links": [
+            {
+              "text": "TD",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:TD"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".td",
+          "links": [
+            {
+              "text": ".td",
+              "href": "https://en.wikipedia.org/wiki/.td"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

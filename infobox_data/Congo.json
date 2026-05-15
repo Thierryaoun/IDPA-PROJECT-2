@@ -1,0 +1,392 @@
+{
+  "country": "Congo",
+  "infobox_title": "Republic of the Congo République du Congo ( French ) Republíki ya Kongó ( Lingala ) Repubilika ya Kôngo ( Kituba )",
+  "data": [
+    {
+      "label": "Capital and largest city",
+      "value": "Brazzaville 4°16′S 15°17′E ﻿ / ﻿ 4.267°S 15.283°E",
+      "links": [
+        {
+          "text": "Brazzaville",
+          "href": "https://en.wikipedia.org/wiki/Brazzaville"
+        },
+        {
+          "text": "4°16′S15°17′E﻿ / ﻿4.267°S 15.283°E",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Republic_of_the_Congo&params=4_16_S_15_17_E_type:city"
+        }
+      ]
+    },
+    {
+      "label": "Official languages",
+      "value": "French",
+      "links": [
+        {
+          "text": "French",
+          "href": "https://en.wikipedia.org/wiki/French_language"
+        }
+      ]
+    },
+    {
+      "label": "Recognised national languages",
+      "value": "Kituba Lingala",
+      "links": [
+        {
+          "text": "Kituba",
+          "href": "https://en.wikipedia.org/wiki/Kituba_language"
+        },
+        {
+          "text": "Lingala",
+          "href": "https://en.wikipedia.org/wiki/Lingala"
+        }
+      ],
+      "sub_items": [
+        "Kituba",
+        "Lingala"
+      ]
+    },
+    {
+      "label": "Ethnic groups",
+      "value": "41% Bakongo 16.9% Bateke 13.1% Mbochi 5.6% Sangha 2% Mbenga Pygmies and others",
+      "links": [
+        {
+          "text": "Bakongo",
+          "href": "https://en.wikipedia.org/wiki/Kongo_people"
+        },
+        {
+          "text": "Bateke",
+          "href": "https://en.wikipedia.org/wiki/Teke_people"
+        },
+        {
+          "text": "Mbochi",
+          "href": "https://en.wikipedia.org/wiki/Mbochi_people"
+        },
+        {
+          "text": "Sangha",
+          "href": "https://en.wikipedia.org/wiki/Sangha_people"
+        },
+        {
+          "text": "Mbenga Pygmies",
+          "href": "https://en.wikipedia.org/wiki/Pygmy_people"
+        }
+      ],
+      "sub_items": [
+        "41% Bakongo",
+        "16.9% Bateke",
+        "13.1% Mbochi",
+        "5.6% Sangha",
+        "2% Mbenga Pygmies",
+        "and others"
+      ]
+    },
+    {
+      "label": "Religion (2020)",
+      "value": "87.1% Christianity 8.0% no religion 2.7% traditional faiths 1.2% Islam 1.0% others",
+      "links": [
+        {
+          "text": "Christianity",
+          "href": "https://en.wikipedia.org/wiki/Christianity"
+        },
+        {
+          "text": "no religion",
+          "href": "https://en.wikipedia.org/wiki/Irreligion"
+        },
+        {
+          "text": "traditional faiths",
+          "href": "https://en.wikipedia.org/wiki/African_Traditional_Religion"
+        },
+        {
+          "text": "Islam",
+          "href": "https://en.wikipedia.org/wiki/Islam"
+        }
+      ],
+      "sub_items": [
+        "87.1% Christianity",
+        "8.0% no religion",
+        "2.7% traditional faiths",
+        "1.2% Islam",
+        "1.0% others"
+      ]
+    },
+    {
+      "label": "Demonyms",
+      "value": "Congolese Congo",
+      "links": [
+        {
+          "text": "Congolese",
+          "href": "https://en.wikipedia.org/wiki/Demographics_of_the_Republic_of_the_Congo"
+        },
+        {
+          "text": "Congo",
+          "href": "https://en.wikipedia.org/wiki/Demographics_of_the_Republic_of_the_Congo"
+        }
+      ],
+      "sub_items": [
+        "Congolese",
+        "Congo"
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Unitary semi-presidential republic under a dictatorship",
+      "links": [
+        {
+          "text": "semi-presidential republic",
+          "href": "https://en.wikipedia.org/wiki/Semi-presidential_system"
+        }
+      ]
+    },
+    {
+      "label": "• President",
+      "value": "Denis Sassou Nguesso",
+      "links": [
+        {
+          "text": "Denis Sassou Nguesso",
+          "href": "https://en.wikipedia.org/wiki/Denis_Sassou_Nguesso"
+        }
+      ]
+    },
+    {
+      "label": "• Prime Minister",
+      "value": "Anatole Collinet Makosso",
+      "links": [
+        {
+          "text": "Anatole Collinet Makosso",
+          "href": "https://en.wikipedia.org/wiki/Anatole_Collinet_Makosso"
+        }
+      ]
+    },
+    {
+      "label": "• President of Senate",
+      "value": "Pierre Ngolo",
+      "links": [
+        {
+          "text": "Pierre Ngolo",
+          "href": "https://en.wikipedia.org/wiki/Pierre_Ngolo"
+        }
+      ]
+    },
+    {
+      "label": "• President of the National Assembly",
+      "value": "Isidore Mvouba",
+      "links": [
+        {
+          "text": "Isidore Mvouba",
+          "href": "https://en.wikipedia.org/wiki/Isidore_Mvouba"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "Parliament",
+      "links": [
+        {
+          "text": "Parliament",
+          "href": "https://en.wikipedia.org/wiki/Parliament_of_the_Republic_of_the_Congo"
+        }
+      ]
+    },
+    {
+      "label": "• Upper house",
+      "value": "Senate",
+      "links": [
+        {
+          "text": "Senate",
+          "href": "https://en.wikipedia.org/wiki/Senate_(Republic_of_the_Congo)"
+        }
+      ]
+    },
+    {
+      "label": "• Lower house",
+      "value": "National Assembly",
+      "links": [
+        {
+          "text": "National Assembly",
+          "href": "https://en.wikipedia.org/wiki/National_Assembly_(Republic_of_the_Congo)"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Independence",
+      "rows": [
+        {
+          "label": "• Republic established",
+          "value": "28 November 1958"
+        },
+        {
+          "label": "• from France",
+          "value": "15 August 1960"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "342,000 km (132,000 sq mi) ( 64th )",
+          "links": [
+            {
+              "text": "64th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "3.3"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2023 estimate",
+          "value": "6,228,784 ( 116th )",
+          "links": [
+            {
+              "text": "116th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• 2023 census",
+          "value": "6,142,180"
+        },
+        {
+          "label": "• Density",
+          "value": "19/km (49.2/sq mi) ( 212th )",
+          "links": [
+            {
+              "text": "212th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$42.760 billion ( 140th )",
+          "links": [
+            {
+              "text": "140th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$6,590 ( 143rd )",
+          "links": [
+            {
+              "text": "143rd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$15.281 billion ( 141st )",
+          "links": [
+            {
+              "text": "141st",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$2,360 ( 151st )",
+          "links": [
+            {
+              "text": "151st",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "Gini (2011)",
+          "value": "40.2 medium inequality"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.649 medium ( 138th )",
+          "links": [
+            {
+              "text": "138th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "Central African CFA franc ( XAF )",
+          "links": [
+            {
+              "text": "Central African CFA franc",
+              "href": "https://en.wikipedia.org/wiki/Central_African_CFA_franc"
+            },
+            {
+              "text": "XAF",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC +1 ( WAT )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "WAT",
+              "href": "https://en.wikipedia.org/wiki/West_Africa_Time"
+            }
+          ]
+        },
+        {
+          "label": "Calling code",
+          "value": "+242",
+          "links": [
+            {
+              "text": "+242",
+              "href": "https://en.wikipedia.org/wiki/%2B242"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "CG",
+          "links": [
+            {
+              "text": "CG",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:CG"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".cg",
+          "links": [
+            {
+              "text": ".cg",
+              "href": "https://en.wikipedia.org/wiki/.cg"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

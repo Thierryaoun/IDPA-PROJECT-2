@@ -1,0 +1,334 @@
+{
+  "label": "country",
+  "children": [
+    {
+      "label": "name",
+      "children": [
+        {
+          "label": "liechtenstein"
+        }
+      ]
+    },
+    {
+      "label": "infobox_title",
+      "children": [
+        {
+          "label": "principality of liechtenstein fürstentum liechtenstein"
+        }
+      ]
+    },
+    {
+      "label": "capital",
+      "children": [
+        {
+          "label": "vaduz"
+        }
+      ]
+    },
+    {
+      "label": "largest_municipality",
+      "children": [
+        {
+          "label": "schaan / 47."
+        }
+      ]
+    },
+    {
+      "label": "official_languages",
+      "children": [
+        {
+          "label": "german"
+        }
+      ]
+    },
+    {
+      "label": "nationality_2017",
+      "children": [
+        {
+          "label": "66.2 % liechtensteiners"
+        },
+        {
+          "label": "9.5 % swiss"
+        },
+        {
+          "label": "5.8 % austrians"
+        },
+        {
+          "label": "4.2 % germans"
+        },
+        {
+          "label": "3.1 % italians"
+        },
+        {
+          "label": "1.9 % portuguese"
+        },
+        {
+          "label": "1.6 % turks"
+        },
+        {
+          "label": "1.1 % albanians"
+        },
+        {
+          "label": "1.0 % spaniards"
+        },
+        {
+          "label": "5.6 % other"
+        }
+      ]
+    },
+    {
+      "label": "religion_2020",
+      "children": [
+        {
+          "label": "79.4 % christianity 69.6 % catholicism 9.8 % other christian"
+        },
+        {
+          "label": "69.6 % catholicism"
+        },
+        {
+          "label": "9.8 % other christian"
+        },
+        {
+          "label": "9.6 % no religion"
+        },
+        {
+          "label": "6.0 % islam"
+        },
+        {
+          "label": "5.0 % other"
+        }
+      ]
+    },
+    {
+      "label": "demonym",
+      "children": [
+        {
+          "label": "liechtensteiner"
+        }
+      ]
+    },
+    {
+      "label": "government",
+      "children": [
+        {
+          "label": "unitary parliamentary semi- constitutional monarchy with elements of a direct democracy"
+        }
+      ]
+    },
+    {
+      "label": "monarch",
+      "children": [
+        {
+          "label": "hans-adam ii"
+        }
+      ]
+    },
+    {
+      "label": "regent_and_heir_apparent",
+      "children": [
+        {
+          "label": "alois"
+        }
+      ]
+    },
+    {
+      "label": "prime_minister",
+      "children": [
+        {
+          "label": "brigitte haas"
+        }
+      ]
+    },
+    {
+      "label": "deputy_prime_minister",
+      "children": [
+        {
+          "label": "sabine monauni"
+        }
+      ]
+    },
+    {
+      "label": "legislature",
+      "children": [
+        {
+          "label": "landtag"
+        }
+      ]
+    },
+    {
+      "label": "independence_as_principality",
+      "children": [
+        {
+          "label": "union_between_vaduz_and_schellenberg",
+          "children": [
+            {
+              "label": "23 january 1719"
+            }
+          ]
+        },
+        {
+          "label": "treaty_of_pressburg",
+          "children": [
+            {
+              "label": "12 july 1806"
+            }
+          ]
+        },
+        {
+          "label": "separation_from_german_confederation",
+          "children": [
+            {
+              "label": "23 august 1866"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "area",
+      "children": [
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "160.50 km"
+            }
+          ]
+        },
+        {
+          "label": "water",
+          "children": [
+            {
+              "label": "2.7"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "population",
+      "children": [
+        {
+          "label": "2023_estimate",
+          "children": [
+            {
+              "label": "41,232"
+            }
+          ]
+        },
+        {
+          "label": "density",
+          "children": [
+            {
+              "label": "249/km"
+            }
+          ]
+        },
+        {
+          "label": "gdp_ppp",
+          "children": [
+            {
+              "label": "2024 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$7.172 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$210,600"
+            }
+          ]
+        },
+        {
+          "label": "gdp_nominal",
+          "children": [
+            {
+              "label": "2023 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$8.288 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$207,974"
+            }
+          ]
+        },
+        {
+          "label": "hdi_2023",
+          "children": [
+            {
+              "label": "0.938 very high"
+            }
+          ]
+        },
+        {
+          "label": "currency",
+          "children": [
+            {
+              "label": "swiss franc"
+            }
+          ]
+        },
+        {
+          "label": "time_zone",
+          "children": [
+            {
+              "label": "utc +01:00"
+            }
+          ]
+        },
+        {
+          "label": "summer_dst",
+          "children": [
+            {
+              "label": "utc +02:00"
+            }
+          ]
+        },
+        {
+          "label": "calling_code",
+          "children": [
+            {
+              "label": "+423"
+            }
+          ]
+        },
+        {
+          "label": "iso_3166_code",
+          "children": [
+            {
+              "label": "li"
+            }
+          ]
+        },
+        {
+          "label": "internet_tld",
+          "children": [
+            {
+              "label": ".li"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

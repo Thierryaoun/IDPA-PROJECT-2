@@ -1,0 +1,434 @@
+{
+  "label": "country",
+  "children": [
+    {
+      "label": "name",
+      "children": [
+        {
+          "label": "switzerland"
+        }
+      ]
+    },
+    {
+      "label": "infobox_title",
+      "children": [
+        {
+          "label": "swiss confederation name in official languages and latin german : schweizerische eidgenossenschaft french : confédération suisse italian : confederazione svizzera romansh : confederaziun svizra latin : confoederatio helvetica"
+        }
+      ]
+    },
+    {
+      "label": "german",
+      "children": [
+        {
+          "label": "schweizerische eidgenossenschaft"
+        }
+      ]
+    },
+    {
+      "label": "german",
+      "children": [
+        {
+          "label": "schweizerische eidgenossenschaft"
+        }
+      ]
+    },
+    {
+      "label": "french",
+      "children": [
+        {
+          "label": "confédération suisse"
+        }
+      ]
+    },
+    {
+      "label": "italian",
+      "children": [
+        {
+          "label": "confederazione svizzera"
+        }
+      ]
+    },
+    {
+      "label": "romansh",
+      "children": [
+        {
+          "label": "confederaziun svizra"
+        }
+      ]
+    },
+    {
+      "label": "latin",
+      "children": [
+        {
+          "label": "confoederatio helvetica"
+        }
+      ]
+    },
+    {
+      "label": "capital",
+      "children": [
+        {
+          "label": "bern"
+        }
+      ]
+    },
+    {
+      "label": "federal_city",
+      "children": [
+        {
+          "label": "bern"
+        }
+      ]
+    },
+    {
+      "label": "largest_city",
+      "children": [
+        {
+          "label": "zurich"
+        }
+      ]
+    },
+    {
+      "label": "official_languages",
+      "children": [
+        {
+          "label": "german , french , italian , romansh"
+        }
+      ]
+    },
+    {
+      "label": "nationality_2024",
+      "children": [
+        {
+          "label": "72.6% swiss"
+        },
+        {
+          "label": "27.4% foreign nationals"
+        }
+      ]
+    },
+    {
+      "label": "religion_2024",
+      "children": [
+        {
+          "label": "54.7% christianity"
+        },
+        {
+          "label": "30% catholicism"
+        },
+        {
+          "label": "18.7% protestantism"
+        },
+        {
+          "label": "6% other christian"
+        },
+        {
+          "label": "36.8% no religion"
+        },
+        {
+          "label": "6% islam"
+        },
+        {
+          "label": "1.5% other religions"
+        },
+        {
+          "label": "0.9% unanswered"
+        }
+      ]
+    },
+    {
+      "label": "demonyms",
+      "children": [
+        {
+          "label": "english: swiss"
+        },
+        {
+          "label": "german: schweizer/schweizerin"
+        },
+        {
+          "label": "french: suisse/suissesse"
+        },
+        {
+          "label": "italian : svizzero/svizzera or elvetico/elvetica"
+        },
+        {
+          "label": "romansh : svizzer/svizra"
+        }
+      ]
+    },
+    {
+      "label": "government",
+      "children": [
+        {
+          "label": "federal assembly-independent directorial republic"
+        }
+      ]
+    },
+    {
+      "label": "federal_council",
+      "children": [
+        {
+          "label": "guy parmelin"
+        },
+        {
+          "label": "ignazio cassis"
+        },
+        {
+          "label": "karin keller-sutter"
+        },
+        {
+          "label": "albert rösti"
+        },
+        {
+          "label": "élisabeth baume-schneider"
+        },
+        {
+          "label": "beat jans"
+        },
+        {
+          "label": "martin pfister"
+        }
+      ]
+    },
+    {
+      "label": "federal_chancellor",
+      "children": [
+        {
+          "label": "viktor rossi"
+        }
+      ]
+    },
+    {
+      "label": "legislature",
+      "children": [
+        {
+          "label": "federal assembly"
+        }
+      ]
+    },
+    {
+      "label": "upper_house",
+      "children": [
+        {
+          "label": "council of states"
+        }
+      ]
+    },
+    {
+      "label": "lower_house",
+      "children": [
+        {
+          "label": "national council"
+        }
+      ]
+    },
+    {
+      "label": "history",
+      "children": [
+        {
+          "label": "founded",
+          "children": [
+            {
+              "label": "1 august 1291"
+            }
+          ]
+        },
+        {
+          "label": "sovereignty_recognised_peace_of_westphalia",
+          "children": [
+            {
+              "label": "24 october 1648"
+            }
+          ]
+        },
+        {
+          "label": "federal_treaty",
+          "children": [
+            {
+              "label": "7 august 1815"
+            }
+          ]
+        },
+        {
+          "label": "federal_state",
+          "children": [
+            {
+              "label": "12 september 1848"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "area",
+      "children": [
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "41,291 km"
+            }
+          ]
+        },
+        {
+          "label": "water",
+          "children": [
+            {
+              "label": "4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "population",
+      "children": [
+        {
+          "label": "2025_estimate",
+          "children": [
+            {
+              "label": "9,060,598"
+            }
+          ]
+        },
+        {
+          "label": "2015_census",
+          "children": [
+            {
+              "label": "8,327,126"
+            }
+          ]
+        },
+        {
+          "label": "density",
+          "children": [
+            {
+              "label": "207/km"
+            }
+          ]
+        },
+        {
+          "label": "gdp_ppp",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$881.083 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$97,660"
+            }
+          ]
+        },
+        {
+          "label": "gdp_nominal",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$1.003 trillion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$111,047"
+            }
+          ]
+        },
+        {
+          "label": "gini_2023",
+          "children": [
+            {
+              "label": "31.5 medium inequality"
+            }
+          ]
+        },
+        {
+          "label": "hdi_2023",
+          "children": [
+            {
+              "label": "0.970 very high"
+            }
+          ]
+        },
+        {
+          "label": "currency",
+          "children": [
+            {
+              "label": "swiss franc"
+            }
+          ]
+        },
+        {
+          "label": "time_zone",
+          "children": [
+            {
+              "label": "utc +1"
+            }
+          ]
+        },
+        {
+          "label": "summer_dst",
+          "children": [
+            {
+              "label": "utc +2"
+            }
+          ]
+        },
+        {
+          "label": "date_format",
+          "children": [
+            {
+              "label": "dd.mm.yyyy"
+            }
+          ]
+        },
+        {
+          "label": "calling_code",
+          "children": [
+            {
+              "label": "+41"
+            }
+          ]
+        },
+        {
+          "label": "iso_3166_code",
+          "children": [
+            {
+              "label": "ch"
+            }
+          ]
+        },
+        {
+          "label": "internet_tld",
+          "children": [
+            {
+              "label": ".ch , .swiss"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,418 @@
+{
+  "label": "country",
+  "children": [
+    {
+      "label": "name",
+      "children": [
+        {
+          "label": "norway"
+        }
+      ]
+    },
+    {
+      "label": "infobox_title",
+      "children": [
+        {
+          "label": "kingdom of norway kongeriket norge kongeriket noreg in other official languages northern sami : norgga gonagasriika lule sami : vuona gånågisrijkka southern sami : nöörjen gånkarïjhke kven : norjan kuninkhaanvaltakunta"
+        }
+      ]
+    },
+    {
+      "label": "northern_sami",
+      "children": [
+        {
+          "label": "norgga gonagasriika"
+        }
+      ]
+    },
+    {
+      "label": "northern_sami",
+      "children": [
+        {
+          "label": "norgga gonagasriika"
+        }
+      ]
+    },
+    {
+      "label": "lule_sami",
+      "children": [
+        {
+          "label": "vuona gånågisrijkka"
+        }
+      ]
+    },
+    {
+      "label": "southern_sami",
+      "children": [
+        {
+          "label": "nöörjen gånkarïjhke"
+        }
+      ]
+    },
+    {
+      "label": "kven",
+      "children": [
+        {
+          "label": "norjan kuninkhaanvaltakunta"
+        }
+      ]
+    },
+    {
+      "label": "capital_and_largest_city",
+      "children": [
+        {
+          "label": "oslo / 59."
+        }
+      ]
+    },
+    {
+      "label": "official_languages",
+      "children": [
+        {
+          "label": "norwegian"
+        },
+        {
+          "label": "sámi"
+        }
+      ]
+    },
+    {
+      "label": "recognised_national_languages",
+      "children": [
+        {
+          "label": "kven"
+        },
+        {
+          "label": "romani"
+        },
+        {
+          "label": "scandoromani"
+        },
+        {
+          "label": "norwegian sign language"
+        }
+      ]
+    },
+    {
+      "label": "ethnic_groups_2025",
+      "children": [
+        {
+          "label": "78.6% norwegian"
+        },
+        {
+          "label": "21.4% non-norwegian"
+        }
+      ]
+    },
+    {
+      "label": "religion_2024",
+      "children": [
+        {
+          "label": "68.5% christianity"
+        },
+        {
+          "label": "61.7% church of norway"
+        },
+        {
+          "label": "6.8% other christian"
+        },
+        {
+          "label": "27.3% no religion"
+        },
+        {
+          "label": "3.4% islam"
+        },
+        {
+          "label": "0.8% other"
+        }
+      ]
+    },
+    {
+      "label": "demonym",
+      "children": [
+        {
+          "label": "norwegian"
+        }
+      ]
+    },
+    {
+      "label": "government",
+      "children": [
+        {
+          "label": "unitary parliamentary constitutional monarchy"
+        }
+      ]
+    },
+    {
+      "label": "monarch",
+      "children": [
+        {
+          "label": "harald v"
+        }
+      ]
+    },
+    {
+      "label": "prime_minister",
+      "children": [
+        {
+          "label": "jonas gahr støre"
+        }
+      ]
+    },
+    {
+      "label": "president_of_the_storting",
+      "children": [
+        {
+          "label": "masud gharahkhani"
+        }
+      ]
+    },
+    {
+      "label": "chief_justice",
+      "children": [
+        {
+          "label": "toril marie øie"
+        }
+      ]
+    },
+    {
+      "label": "legislature",
+      "children": [
+        {
+          "label": "storting"
+        }
+      ]
+    },
+    {
+      "label": "unification_of_the_petty_kingdoms",
+      "children": [
+        {
+          "label": "state_established",
+          "children": [
+            {
+              "label": "872"
+            }
+          ]
+        },
+        {
+          "label": "peak_extent_of_the_old_kingdom",
+          "children": [
+            {
+              "label": "1263"
+            }
+          ]
+        },
+        {
+          "label": "kalmar_union_personal_union",
+          "children": [
+            {
+              "label": "1397"
+            }
+          ]
+        },
+        {
+          "label": "denmark_norway_real_union",
+          "children": [
+            {
+              "label": "1524"
+            }
+          ]
+        },
+        {
+          "label": "state_re_established",
+          "children": [
+            {
+              "label": "25 february 1814"
+            }
+          ]
+        },
+        {
+          "label": "constitution",
+          "children": [
+            {
+              "label": "17 may 1814"
+            }
+          ]
+        },
+        {
+          "label": "kingdoms_of_sweden_norway_personal_union",
+          "children": [
+            {
+              "label": "4 november 1814"
+            }
+          ]
+        },
+        {
+          "label": "union_dissolved",
+          "children": [
+            {
+              "label": "7 june 1905"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "area",
+      "children": [
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "385,207 km"
+            }
+          ]
+        },
+        {
+          "label": "water",
+          "children": [
+            {
+              "label": "5.32"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "population",
+      "children": [
+        {
+          "label": "2026_estimate",
+          "children": [
+            {
+              "label": "5,627,400"
+            }
+          ]
+        },
+        {
+          "label": "density",
+          "children": [
+            {
+              "label": "14.6/km"
+            }
+          ]
+        },
+        {
+          "label": "gdp_ppp",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$606.590 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$107,890"
+            }
+          ]
+        },
+        {
+          "label": "gdp_nominal",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$504.280 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$89,690"
+            }
+          ]
+        },
+        {
+          "label": "gini_2020",
+          "children": [
+            {
+              "label": "25.3 low inequality"
+            }
+          ]
+        },
+        {
+          "label": "hdi_2023",
+          "children": [
+            {
+              "label": "0.970 very high"
+            }
+          ]
+        },
+        {
+          "label": "currency",
+          "children": [
+            {
+              "label": "norwegian krone"
+            }
+          ]
+        },
+        {
+          "label": "time_zone",
+          "children": [
+            {
+              "label": "utc +1"
+            }
+          ]
+        },
+        {
+          "label": "summer_dst",
+          "children": [
+            {
+              "label": "utc +2"
+            }
+          ]
+        },
+        {
+          "label": "date_format",
+          "children": [
+            {
+              "label": "dd . mm . yyyy"
+            }
+          ]
+        },
+        {
+          "label": "calling_code",
+          "children": [
+            {
+              "label": "+47"
+            }
+          ]
+        },
+        {
+          "label": "iso_3166_code",
+          "children": [
+            {
+              "label": "no"
+            }
+          ]
+        },
+        {
+          "label": "internet_tld",
+          "children": [
+            {
+              "label": ".no"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

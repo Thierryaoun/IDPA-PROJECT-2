@@ -1,0 +1,307 @@
+{
+  "label": "country",
+  "children": [
+    {
+      "label": "name",
+      "children": [
+        {
+          "label": "bahrain"
+        }
+      ]
+    },
+    {
+      "label": "infobox_title",
+      "children": [
+        {
+          "label": "kingdom of bahrain مملكة البحرين mamlakat al-baḥrayn"
+        }
+      ]
+    },
+    {
+      "label": "capital_and_largest_city",
+      "children": [
+        {
+          "label": "manama / 26."
+        }
+      ]
+    },
+    {
+      "label": "official_language_and_national_language",
+      "children": [
+        {
+          "label": "arabic"
+        }
+      ]
+    },
+    {
+      "label": "ethnic_groups_2020",
+      "children": [
+        {
+          "label": "53.2% arabs"
+        },
+        {
+          "label": "43.4% south asians"
+        },
+        {
+          "label": "1.4% africans"
+        },
+        {
+          "label": "1.1% north americans"
+        },
+        {
+          "label": "0.1% others"
+        }
+      ]
+    },
+    {
+      "label": "religion_2020",
+      "children": [
+        {
+          "label": "74.0% islam"
+        },
+        {
+          "label": "26.0% non-muslim"
+        }
+      ]
+    },
+    {
+      "label": "demonym",
+      "children": [
+        {
+          "label": "bahraini"
+        }
+      ]
+    },
+    {
+      "label": "government",
+      "children": [
+        {
+          "label": "unitary semi-constitutional monarchy under an authoritarian government"
+        }
+      ]
+    },
+    {
+      "label": "king",
+      "children": [
+        {
+          "label": "hamad bin isa al khalifa"
+        }
+      ]
+    },
+    {
+      "label": "crown_prince_and_prime_minister",
+      "children": [
+        {
+          "label": "salman bin hamad al khalifa"
+        }
+      ]
+    },
+    {
+      "label": "legislature",
+      "children": [
+        {
+          "label": "national assembly"
+        }
+      ]
+    },
+    {
+      "label": "upper_house",
+      "children": [
+        {
+          "label": "consultative council"
+        }
+      ]
+    },
+    {
+      "label": "lower_house",
+      "children": [
+        {
+          "label": "council of representatives"
+        }
+      ]
+    },
+    {
+      "label": "establishment",
+      "children": [
+        {
+          "label": "al_khalifa_dynasty",
+          "children": [
+            {
+              "label": "1783"
+            }
+          ]
+        },
+        {
+          "label": "declared_independence",
+          "children": [
+            {
+              "label": "14 august 1971"
+            }
+          ]
+        },
+        {
+          "label": "independence_from_united_kingdom",
+          "children": [
+            {
+              "label": "15 august 1971"
+            }
+          ]
+        },
+        {
+          "label": "kingdom_of_bahrain",
+          "children": [
+            {
+              "label": "14 february 2002"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "area",
+      "children": [
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "786.8 km"
+            }
+          ]
+        },
+        {
+          "label": "water",
+          "children": [
+            {
+              "label": "negligible"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "population",
+      "children": [
+        {
+          "label": "2021_estimate",
+          "children": [
+            {
+              "label": "1,463,265"
+            }
+          ]
+        },
+        {
+          "label": "2020_census",
+          "children": [
+            {
+              "label": "1,501,635"
+            }
+          ]
+        },
+        {
+          "label": "density",
+          "children": [
+            {
+              "label": "1,864/km"
+            }
+          ]
+        },
+        {
+          "label": "gdp_ppp",
+          "children": [
+            {
+              "label": "2026 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$118.060 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$71,460"
+            }
+          ]
+        },
+        {
+          "label": "gdp_nominal",
+          "children": [
+            {
+              "label": "2026 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$49.190 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$29,780"
+            }
+          ]
+        },
+        {
+          "label": "hdi_2023",
+          "children": [
+            {
+              "label": "0.899 very high"
+            }
+          ]
+        },
+        {
+          "label": "currency",
+          "children": [
+            {
+              "label": "bahraini dinar"
+            }
+          ]
+        },
+        {
+          "label": "time_zone",
+          "children": [
+            {
+              "label": "utc +3"
+            }
+          ]
+        },
+        {
+          "label": "calling_code",
+          "children": [
+            {
+              "label": "+973"
+            }
+          ]
+        },
+        {
+          "label": "iso_3166_code",
+          "children": [
+            {
+              "label": "bh"
+            }
+          ]
+        },
+        {
+          "label": "internet_tld",
+          "children": [
+            {
+              "label": ".bh"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

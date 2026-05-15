@@ -1,0 +1,284 @@
+{
+  "country": "Germany",
+  "infobox_title": "Federal Republic of Germany Bundesrepublik Deutschland",
+  "data": [
+    {
+      "label": "Capital and largest city",
+      "value": "Berlin 52°31′N 13°23′E ﻿ / ﻿ 52.517°N 13.383°E",
+      "links": [
+        {
+          "text": "Berlin",
+          "href": "https://en.wikipedia.org/wiki/Berlin"
+        },
+        {
+          "text": "52°31′N13°23′E﻿ / ﻿52.517°N 13.383°E",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Germany&params=52_31_N_13_23_E_type:city"
+        }
+      ]
+    },
+    {
+      "label": "Official languages",
+      "value": "German",
+      "links": [
+        {
+          "text": "German",
+          "href": "https://en.wikipedia.org/wiki/German_language"
+        }
+      ]
+    },
+    {
+      "label": "Demonym",
+      "value": "German",
+      "links": [
+        {
+          "text": "German",
+          "href": "https://en.wikipedia.org/wiki/Germans"
+        }
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Federal parliamentary republic",
+      "links": [
+        {
+          "text": "parliamentary republic",
+          "href": "https://en.wikipedia.org/wiki/Parliamentary_republic"
+        }
+      ]
+    },
+    {
+      "label": "• President",
+      "value": "Frank-Walter Steinmeier",
+      "links": [
+        {
+          "text": "Frank-Walter Steinmeier",
+          "href": "https://en.wikipedia.org/wiki/Frank-Walter_Steinmeier"
+        }
+      ]
+    },
+    {
+      "label": "• Chancellor",
+      "value": "Friedrich Merz",
+      "links": [
+        {
+          "text": "Friedrich Merz",
+          "href": "https://en.wikipedia.org/wiki/Friedrich_Merz"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "Bundestag Bundesrat",
+      "links": [
+        {
+          "text": "Bundestag",
+          "href": "https://en.wikipedia.org/wiki/Bundestag"
+        },
+        {
+          "text": "Bundesrat",
+          "href": "https://en.wikipedia.org/wiki/German_Bundesrat"
+        }
+      ],
+      "sub_items": [
+        "Bundestag",
+        "Bundesrat"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "357,022 km (137,847 sq mi) ( 63rd )",
+          "links": [
+            {
+              "text": "63rd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "1.27"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• Q3 2025 estimate",
+          "value": "83,497,147"
+        },
+        {
+          "label": "• 2022 census",
+          "value": "82,719,540 ( 19th )",
+          "links": [
+            {
+              "text": "19th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• Density",
+          "value": "233/km (603.5/sq mi) ( 63rd )",
+          "links": [
+            {
+              "text": "63rd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$6.154 trillion ( 6th )",
+          "links": [
+            {
+              "text": "6th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$73,553 ( 23rd )",
+          "links": [
+            {
+              "text": "23rd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$5.014 trillion ( 3rd )",
+          "links": [
+            {
+              "text": "3rd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$59,925 ( 19th )",
+          "links": [
+            {
+              "text": "19th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "Gini (2023)",
+          "value": "29.4 low inequality"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.959 very high ( 5th )",
+          "links": [
+            {
+              "text": "5th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "Euro ( € ) ( EUR )",
+          "links": [
+            {
+              "text": "Euro",
+              "href": "https://en.wikipedia.org/wiki/Euro"
+            },
+            {
+              "text": "€",
+              "href": "https://en.wikipedia.org/wiki/Euro_sign"
+            },
+            {
+              "text": "EUR",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC +1 ( CET )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "CET",
+              "href": "https://en.wikipedia.org/wiki/Central_European_Time"
+            }
+          ]
+        },
+        {
+          "label": "• Summer ( DST )",
+          "value": "UTC +2 ( CEST )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "CEST",
+              "href": "https://en.wikipedia.org/wiki/Central_European_Summer_Time"
+            }
+          ]
+        },
+        {
+          "label": "Date format",
+          "value": "Day, month, year Year, month, day",
+          "sub_items": [
+            "Day, month, year",
+            "Year, month, day"
+          ]
+        },
+        {
+          "label": "Calling code",
+          "value": "+49",
+          "links": [
+            {
+              "text": "+49",
+              "href": "https://en.wikipedia.org/wiki/Telephone_numbers_in_Germany"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "DE",
+          "links": [
+            {
+              "text": "DE",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:DE"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".de",
+          "links": [
+            {
+              "text": ".de",
+              "href": "https://en.wikipedia.org/wiki/.de"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

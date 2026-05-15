@@ -1,0 +1,345 @@
+{
+  "label": "country",
+  "children": [
+    {
+      "label": "name",
+      "children": [
+        {
+          "label": "australia"
+        }
+      ]
+    },
+    {
+      "label": "infobox_title",
+      "children": [
+        {
+          "label": "commonwealth of australia"
+        }
+      ]
+    },
+    {
+      "label": "capital",
+      "children": [
+        {
+          "label": "canberra / 35."
+        }
+      ]
+    },
+    {
+      "label": "largest_city",
+      "children": [
+        {
+          "label": "sydney melbourne"
+        }
+      ]
+    },
+    {
+      "label": "national_language",
+      "children": [
+        {
+          "label": "english"
+        }
+      ]
+    },
+    {
+      "label": "religion_2021",
+      "children": [
+        {
+          "label": "43.9% christianity"
+        },
+        {
+          "label": "38.9% no religion"
+        },
+        {
+          "label": "3.2% islam"
+        },
+        {
+          "label": "2.7% hinduism"
+        },
+        {
+          "label": "2.4% buddhism"
+        },
+        {
+          "label": "1.7% other"
+        },
+        {
+          "label": "7.2% unanswered"
+        }
+      ]
+    },
+    {
+      "label": "demonyms",
+      "children": [
+        {
+          "label": "australian"
+        },
+        {
+          "label": "aussie"
+        }
+      ]
+    },
+    {
+      "label": "government",
+      "children": [
+        {
+          "label": "federal parliamentary constitutional monarchy"
+        }
+      ]
+    },
+    {
+      "label": "monarch",
+      "children": [
+        {
+          "label": "charles iii"
+        }
+      ]
+    },
+    {
+      "label": "governor_general",
+      "children": [
+        {
+          "label": "sam mostyn"
+        }
+      ]
+    },
+    {
+      "label": "prime_minister",
+      "children": [
+        {
+          "label": "anthony albanese"
+        }
+      ]
+    },
+    {
+      "label": "legislature",
+      "children": [
+        {
+          "label": "parliament"
+        }
+      ]
+    },
+    {
+      "label": "upper_house",
+      "children": [
+        {
+          "label": "senate"
+        }
+      ]
+    },
+    {
+      "label": "lower_house",
+      "children": [
+        {
+          "label": "house of representatives"
+        }
+      ]
+    },
+    {
+      "label": "independence_from_the_united_kingdom",
+      "children": [
+        {
+          "label": "federation",
+          "children": [
+            {
+              "label": "1 january 1901"
+            }
+          ]
+        },
+        {
+          "label": "balfour_declaration",
+          "children": [
+            {
+              "label": "15 november 1926"
+            }
+          ]
+        },
+        {
+          "label": "statute_of_westminster_adoption_act",
+          "children": [
+            {
+              "label": "9 october 1942"
+            }
+          ]
+        },
+        {
+          "label": "australia_acts",
+          "children": [
+            {
+              "label": "3 march 1986"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "area",
+      "children": [
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "7,688,287 km"
+            }
+          ]
+        },
+        {
+          "label": "water",
+          "children": [
+            {
+              "label": "1.79"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "population",
+      "children": [
+        {
+          "label": "2026_estimate",
+          "children": [
+            {
+              "label": "27,840,775"
+            }
+          ]
+        },
+        {
+          "label": "2021_census",
+          "children": [
+            {
+              "label": "25,890,773"
+            }
+          ]
+        },
+        {
+          "label": "density",
+          "children": [
+            {
+              "label": "3.7/km"
+            }
+          ]
+        },
+        {
+          "label": "gdp_ppp",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$1.982 trillion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$71,431"
+            }
+          ]
+        },
+        {
+          "label": "gdp_nominal",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$1.830 trillion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$65,946"
+            }
+          ]
+        },
+        {
+          "label": "gini_2020",
+          "children": [
+            {
+              "label": "32.4 medium inequality"
+            }
+          ]
+        },
+        {
+          "label": "hdi_2023",
+          "children": [
+            {
+              "label": "0.958 very high"
+            }
+          ]
+        },
+        {
+          "label": "currency",
+          "children": [
+            {
+              "label": "australian dollar"
+            }
+          ]
+        },
+        {
+          "label": "time_zone",
+          "children": [
+            {
+              "label": "utc +8; +9.5; +10"
+            }
+          ]
+        },
+        {
+          "label": "summer_dst",
+          "children": [
+            {
+              "label": "utc +10.5; +11"
+            }
+          ]
+        },
+        {
+          "label": "date_format",
+          "children": [
+            {
+              "label": "dd / mm / yyyy"
+            }
+          ]
+        },
+        {
+          "label": "calling_code",
+          "children": [
+            {
+              "label": "+61"
+            }
+          ]
+        },
+        {
+          "label": "iso_3166_code",
+          "children": [
+            {
+              "label": "au"
+            }
+          ]
+        },
+        {
+          "label": "internet_tld",
+          "children": [
+            {
+              "label": ".au"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

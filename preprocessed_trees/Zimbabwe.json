@@ -1,0 +1,485 @@
+{
+  "label": "country",
+  "children": [
+    {
+      "label": "name",
+      "children": [
+        {
+          "label": "zimbabwe"
+        }
+      ]
+    },
+    {
+      "label": "infobox_title",
+      "children": [
+        {
+          "label": "republic of zimbabwe name in national languages shona : nyika yezimbabwe ndebele : ilizwe lasezimbabwe chewa : dziko la zimbabwe tswana : lefatshe la zimbabwe xitsonga : tiko ra zimbabwe venda : riphabuḽiki ya zimbabwe xhosa : iriphabhulikhi yasezimbabwe sotho : rephabliki ea zimbabwe ndau : nyika yezimbabwe"
+        }
+      ]
+    },
+    {
+      "label": "shona",
+      "children": [
+        {
+          "label": "nyika yezimbabwe"
+        }
+      ]
+    },
+    {
+      "label": "shona",
+      "children": [
+        {
+          "label": "nyika yezimbabwe"
+        }
+      ]
+    },
+    {
+      "label": "ndebele",
+      "children": [
+        {
+          "label": "ilizwe lasezimbabwe"
+        }
+      ]
+    },
+    {
+      "label": "chewa",
+      "children": [
+        {
+          "label": "dziko la zimbabwe"
+        }
+      ]
+    },
+    {
+      "label": "tswana",
+      "children": [
+        {
+          "label": "lefatshe la zimbabwe"
+        }
+      ]
+    },
+    {
+      "label": "xitsonga",
+      "children": [
+        {
+          "label": "tiko ra zimbabwe"
+        }
+      ]
+    },
+    {
+      "label": "venda",
+      "children": [
+        {
+          "label": "riphabuḽiki ya zimbabwe"
+        }
+      ]
+    },
+    {
+      "label": "xhosa",
+      "children": [
+        {
+          "label": "iriphabhulikhi yasezimbabwe"
+        }
+      ]
+    },
+    {
+      "label": "sotho",
+      "children": [
+        {
+          "label": "rephabliki ea zimbabwe"
+        }
+      ]
+    },
+    {
+      "label": "ndau",
+      "children": [
+        {
+          "label": "nyika yezimbabwe"
+        }
+      ]
+    },
+    {
+      "label": "capital_and_largest_city",
+      "children": [
+        {
+          "label": "harare / 17."
+        }
+      ]
+    },
+    {
+      "label": "official_languages",
+      "children": [
+        {
+          "label": "chewa"
+        },
+        {
+          "label": "chibarwe"
+        },
+        {
+          "label": "english"
+        },
+        {
+          "label": "kalanga"
+        },
+        {
+          "label": "khoisan"
+        },
+        {
+          "label": "nambya"
+        },
+        {
+          "label": "ndau"
+        },
+        {
+          "label": "ndebele"
+        },
+        {
+          "label": "shangani"
+        },
+        {
+          "label": "shona"
+        },
+        {
+          "label": "sotho"
+        },
+        {
+          "label": "tonga"
+        },
+        {
+          "label": "tswana"
+        },
+        {
+          "label": "venda"
+        },
+        {
+          "label": "xhosa"
+        },
+        {
+          "label": "zimbabwean sign language"
+        }
+      ]
+    },
+    {
+      "label": "ethnic_groups_2022_census",
+      "children": [
+        {
+          "label": "99.6% black african"
+        },
+        {
+          "label": "0.2% european"
+        },
+        {
+          "label": "0.1% coloured"
+        },
+        {
+          "label": "0.1% other"
+        }
+      ]
+    },
+    {
+      "label": "religion_2017",
+      "children": [
+        {
+          "label": "84.1% christianity"
+        },
+        {
+          "label": "69.2% protestantism"
+        },
+        {
+          "label": "14.9% other christian"
+        },
+        {
+          "label": "10.2% no religion"
+        },
+        {
+          "label": "4.5% traditional faiths"
+        },
+        {
+          "label": "1.2% others"
+        }
+      ]
+    },
+    {
+      "label": "demonyms",
+      "children": [
+        {
+          "label": "zimbabwean"
+        },
+        {
+          "label": "zimbo"
+        }
+      ]
+    },
+    {
+      "label": "government",
+      "children": [
+        {
+          "label": "unitary presidential republic"
+        }
+      ]
+    },
+    {
+      "label": "president",
+      "children": [
+        {
+          "label": "emmerson mnangagwa"
+        }
+      ]
+    },
+    {
+      "label": "first_vice_president",
+      "children": [
+        {
+          "label": "constantino chiwenga"
+        }
+      ]
+    },
+    {
+      "label": "second_vice_president",
+      "children": [
+        {
+          "label": "kembo mohadi"
+        }
+      ]
+    },
+    {
+      "label": "legislature",
+      "children": [
+        {
+          "label": "parliament"
+        }
+      ]
+    },
+    {
+      "label": "upper_house",
+      "children": [
+        {
+          "label": "senate"
+        }
+      ]
+    },
+    {
+      "label": "lower_house",
+      "children": [
+        {
+          "label": "national assembly"
+        }
+      ]
+    },
+    {
+      "label": "independence_from_the_united_kingdom",
+      "children": [
+        {
+          "label": "declared",
+          "children": [
+            {
+              "label": "11 november 1965"
+            }
+          ]
+        },
+        {
+          "label": "republic",
+          "children": [
+            {
+              "label": "2 march 1970"
+            }
+          ]
+        },
+        {
+          "label": "zimbabwe_rhodesia",
+          "children": [
+            {
+              "label": "1 june 1979"
+            }
+          ]
+        },
+        {
+          "label": "independence_recognised",
+          "children": [
+            {
+              "label": "18 april 1980"
+            }
+          ]
+        },
+        {
+          "label": "current_constitution",
+          "children": [
+            {
+              "label": "15 may 2013"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "area",
+      "children": [
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "390,757 km"
+            }
+          ]
+        },
+        {
+          "label": "water",
+          "children": [
+            {
+              "label": "1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "population",
+      "children": [
+        {
+          "label": "february_2026_estimate",
+          "children": [
+            {
+              "label": "17,166,852"
+            }
+          ]
+        },
+        {
+          "label": "2022_census",
+          "children": [
+            {
+              "label": "15,178,957"
+            }
+          ]
+        },
+        {
+          "label": "density",
+          "children": [
+            {
+              "label": "45/km"
+            }
+          ]
+        },
+        {
+          "label": "gdp_ppp",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$93.870 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$5,410"
+            }
+          ]
+        },
+        {
+          "label": "gdp_nominal",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$53.310 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$3,070"
+            }
+          ]
+        },
+        {
+          "label": "gini_2019",
+          "children": [
+            {
+              "label": "45.5 medium inequality"
+            }
+          ]
+        },
+        {
+          "label": "hdi_2023",
+          "children": [
+            {
+              "label": "0.598 medium"
+            }
+          ]
+        },
+        {
+          "label": "currency",
+          "children": [
+            {
+              "label": "zimbabwe gold"
+            },
+            {
+              "label": "united states dollar"
+            },
+            {
+              "label": "south african rand ;"
+            },
+            {
+              "label": "other currencies"
+            }
+          ]
+        },
+        {
+          "label": "time_zone",
+          "children": [
+            {
+              "label": "utc +2"
+            }
+          ]
+        },
+        {
+          "label": "date_format",
+          "children": [
+            {
+              "label": "dd/mm/yyyy"
+            }
+          ]
+        },
+        {
+          "label": "calling_code",
+          "children": [
+            {
+              "label": "+263"
+            }
+          ]
+        },
+        {
+          "label": "iso_3166_code",
+          "children": [
+            {
+              "label": "zw"
+            }
+          ]
+        },
+        {
+          "label": "internet_tld",
+          "children": [
+            {
+              "label": ".zw"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

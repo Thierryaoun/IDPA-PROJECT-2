@@ -1,0 +1,301 @@
+{
+  "country": "Comoros",
+  "infobox_title": "Union of the Comoros Udzima wa Komori ( Ngazidja Comorian ) Union de lis Comores ( French ) جمهورية القمر المتحدة ( Arabic ) Jumhuriyat al-Qumur al-Muttaḥida",
+  "data": [
+    {
+      "label": "Capital and largest city",
+      "value": "Moroni 11°41′S 43°16′E ﻿ / ﻿ 11.69°S 43.26°E",
+      "links": [
+        {
+          "text": "Moroni",
+          "href": "https://en.wikipedia.org/wiki/Moroni,_Comoros"
+        },
+        {
+          "text": "11°41′S43°16′E﻿ / ﻿11.69°S 43.26°E",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Comoros&params=11.69_S_43.26_E_type:city"
+        }
+      ]
+    },
+    {
+      "label": "Official languages",
+      "value": "Comorian French Arabic",
+      "links": [
+        {
+          "text": "Comorian",
+          "href": "https://en.wikipedia.org/wiki/Comorian_languages"
+        },
+        {
+          "text": "French",
+          "href": "https://en.wikipedia.org/wiki/French_language"
+        },
+        {
+          "text": "Arabic",
+          "href": "https://en.wikipedia.org/wiki/Modern_Standard_Arabic"
+        }
+      ],
+      "sub_items": [
+        "Comorian",
+        "French",
+        "Arabic"
+      ]
+    },
+    {
+      "label": "Ethnic groups (2000)",
+      "value": "97.1% Comorians 1.6% Makua 1.3% Others",
+      "links": [
+        {
+          "text": "Comorians",
+          "href": "https://en.wikipedia.org/wiki/Comorians"
+        },
+        {
+          "text": "Makua",
+          "href": "https://en.wikipedia.org/wiki/Makua_people"
+        },
+        {
+          "text": "Others",
+          "href": "https://en.wikipedia.org/wiki/Demographics_of_the_Comoros"
+        }
+      ],
+      "sub_items": [
+        "97.1% Comorians",
+        "1.6% Makua",
+        "1.3% Others"
+      ]
+    },
+    {
+      "label": "Demonyms",
+      "value": "Comorian Comorese",
+      "sub_items": [
+        "Comorian",
+        "Comorese"
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Federal presidential republic",
+      "links": [
+        {
+          "text": "presidential republic",
+          "href": "https://en.wikipedia.org/wiki/Presidential_republic"
+        }
+      ]
+    },
+    {
+      "label": "• President",
+      "value": "Azali Assoumani",
+      "links": [
+        {
+          "text": "Azali Assoumani",
+          "href": "https://en.wikipedia.org/wiki/Azali_Assoumani"
+        }
+      ]
+    },
+    {
+      "label": "• President of the Assembly",
+      "value": "Moustadroine Abdou",
+      "links": [
+        {
+          "text": "Moustadroine Abdou",
+          "href": "https://en.wikipedia.org/wiki/Moustadroine_Abdou"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "Assembly of the Union",
+      "links": [
+        {
+          "text": "Assembly of the Union",
+          "href": "https://en.wikipedia.org/wiki/Assembly_of_the_Union_of_the_Comoros"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Formation",
+      "rows": [
+        {
+          "label": "• Discovery by Portuguese explorers",
+          "value": "1503"
+        },
+        {
+          "label": "• Ngazidja , Ndzuwani , Mwali under French rule",
+          "value": "1886"
+        },
+        {
+          "label": "• Protectorate of the Comoros",
+          "value": "6 September 1887"
+        },
+        {
+          "label": "• Territory under French Madagascar",
+          "value": "9 April 1908"
+        },
+        {
+          "label": "• Overseas territory",
+          "value": "27 October 1946"
+        },
+        {
+          "label": "• State of Comoros",
+          "value": "22 December 1961"
+        },
+        {
+          "label": "• Independence from France",
+          "value": "6 July 1975"
+        },
+        {
+          "label": "• Federal Islamic Republic of Comoros",
+          "value": "1 October 1978"
+        },
+        {
+          "label": "• Union of the Comoros",
+          "value": "23 December 2001"
+        },
+        {
+          "label": "• Current constitution",
+          "value": "17 May 2009"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "2,235 km (863 sq mi) ( 170th )",
+          "links": [
+            {
+              "text": "170th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "negligible"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2024 estimate",
+          "value": "883,075 ( 159th )",
+          "links": [
+            {
+              "text": "159th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• Density",
+          "value": "457/km (1,183.6/sq mi) ( 27th )",
+          "links": [
+            {
+              "text": "27th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2023 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$3.432 billion"
+        },
+        {
+          "label": "• Per capita",
+          "value": "$3,463"
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2023 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$1.364 billion"
+        },
+        {
+          "label": "• Per capita",
+          "value": "$1,377"
+        },
+        {
+          "label": "Gini (2014)",
+          "value": "45.3 medium inequality"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.603 medium ( 152nd )",
+          "links": [
+            {
+              "text": "152nd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "Comorian franc ( KMF )",
+          "links": [
+            {
+              "text": "Comorian franc",
+              "href": "https://en.wikipedia.org/wiki/Comorian_franc"
+            },
+            {
+              "text": "KMF",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC +3 ( EAT )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "EAT",
+              "href": "https://en.wikipedia.org/wiki/East_Africa_Time"
+            }
+          ]
+        },
+        {
+          "label": "Calling code",
+          "value": "+269",
+          "links": [
+            {
+              "text": "+269",
+              "href": "https://en.wikipedia.org/wiki/%2B269"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "KM",
+          "links": [
+            {
+              "text": "KM",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:KM"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".km",
+          "links": [
+            {
+              "text": ".km",
+              "href": "https://en.wikipedia.org/wiki/.km"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

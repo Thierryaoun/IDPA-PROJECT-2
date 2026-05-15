@@ -1,0 +1,470 @@
+{
+  "country": "United States of America",
+  "infobox_title": "United States of America",
+  "data": [
+    {
+      "label": "Capital",
+      "value": "Washington, D.C. 38°53′N 77°1′W ﻿ / ﻿ 38.883°N 77.017°W",
+      "links": [
+        {
+          "text": "Washington, D.C.",
+          "href": "https://en.wikipedia.org/wiki/Washington,_D.C."
+        },
+        {
+          "text": "38°53′N77°1′W﻿ / ﻿38.883°N 77.017°W",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=United_States&params=38_53_N_77_1_W_"
+        }
+      ]
+    },
+    {
+      "label": "Largest city",
+      "value": "New York City 40°43′N 74°0′W ﻿ / ﻿ 40.717°N 74.000°W",
+      "links": [
+        {
+          "text": "New York City",
+          "href": "https://en.wikipedia.org/wiki/New_York_City"
+        },
+        {
+          "text": "40°43′N74°0′W﻿ / ﻿40.717°N 74.000°W",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=United_States&params=40_43_N_74_0_W_"
+        }
+      ]
+    },
+    {
+      "label": "Official languages",
+      "value": "English",
+      "links": [
+        {
+          "text": "English",
+          "href": "https://en.wikipedia.org/wiki/English_language"
+        }
+      ]
+    },
+    {
+      "label": "Ethnic groups (2020)",
+      "value": "By race: 61.6% White 12.4% Black 6% Asian 1.1% Native American 0.2% Pacific Islander 10.2% two or more races 8.4% other By origin: 81.3% non- Hispanic or Latino 18.7% Hispanic or Latino",
+      "links": [
+        {
+          "text": "White",
+          "href": "https://en.wikipedia.org/wiki/White_Americans"
+        },
+        {
+          "text": "Black",
+          "href": "https://en.wikipedia.org/wiki/African_Americans"
+        },
+        {
+          "text": "Asian",
+          "href": "https://en.wikipedia.org/wiki/Asian_Americans"
+        },
+        {
+          "text": "Native American",
+          "href": "https://en.wikipedia.org/wiki/Native_Americans_in_the_United_States"
+        },
+        {
+          "text": "Pacific Islander",
+          "href": "https://en.wikipedia.org/wiki/Pacific_Islander_Americans"
+        },
+        {
+          "text": "two or more races",
+          "href": "https://en.wikipedia.org/wiki/Multiracial_Americans"
+        },
+        {
+          "text": "other",
+          "href": "https://en.wikipedia.org/wiki/Race_and_ethnicity_in_the_United_States_census"
+        },
+        {
+          "text": "Hispanic or Latino",
+          "href": "https://en.wikipedia.org/wiki/Hispanic_and_Latino_Americans"
+        }
+      ],
+      "sub_items": [
+        "61.6% White",
+        "12.4% Black",
+        "6% Asian",
+        "1.1% Native American",
+        "0.2% Pacific Islander",
+        "10.2% two or more races",
+        "8.4% other",
+        "81.3% non- Hispanic or Latino",
+        "18.7% Hispanic or Latino"
+      ]
+    },
+    {
+      "label": "Religion (2025)",
+      "value": "65% Christianity 32% Protestantism 20% Catholicism 12% other Christian 1% Mormonism 24% unaffiliated 2% Judaism 6% other religion 3% unanswered",
+      "links": [
+        {
+          "text": "Christianity",
+          "href": "https://en.wikipedia.org/wiki/Christianity_in_the_United_States"
+        },
+        {
+          "text": "Protestantism",
+          "href": "https://en.wikipedia.org/wiki/Protestantism_in_the_United_States"
+        },
+        {
+          "text": "Catholicism",
+          "href": "https://en.wikipedia.org/wiki/Catholic_Church_in_the_United_States"
+        },
+        {
+          "text": "Christian",
+          "href": "https://en.wikipedia.org/wiki/List_of_Christian_denominations"
+        },
+        {
+          "text": "Mormonism",
+          "href": "https://en.wikipedia.org/wiki/Mormonism"
+        },
+        {
+          "text": "unaffiliated",
+          "href": "https://en.wikipedia.org/wiki/Irreligion_in_the_United_States"
+        },
+        {
+          "text": "Judaism",
+          "href": "https://en.wikipedia.org/wiki/American_Jews"
+        },
+        {
+          "text": "other religion",
+          "href": "https://en.wikipedia.org/wiki/Religion_in_the_United_States"
+        }
+      ],
+      "sub_items": [
+        "65% Christianity 32% Protestantism 20% Catholicism 12% other Christian 1% Mormonism",
+        "65% Christianity 32% Protestantism 20% Catholicism 12% other Christian 1% Mormonism",
+        "32% Protestantism",
+        "20% Catholicism",
+        "12% other Christian",
+        "1% Mormonism",
+        "24% unaffiliated",
+        "2% Judaism",
+        "6% other religion",
+        "3% unanswered"
+      ]
+    },
+    {
+      "label": "Demonym",
+      "value": "American",
+      "links": [
+        {
+          "text": "American",
+          "href": "https://en.wikipedia.org/wiki/Americans"
+        }
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Federal presidential republic",
+      "links": [
+        {
+          "text": "presidential republic",
+          "href": "https://en.wikipedia.org/wiki/Presidential_system"
+        }
+      ]
+    },
+    {
+      "label": "• President",
+      "value": "Donald Trump",
+      "links": [
+        {
+          "text": "Donald Trump",
+          "href": "https://en.wikipedia.org/wiki/Donald_Trump"
+        }
+      ]
+    },
+    {
+      "label": "• Vice President",
+      "value": "JD Vance",
+      "links": [
+        {
+          "text": "JD Vance",
+          "href": "https://en.wikipedia.org/wiki/JD_Vance"
+        }
+      ]
+    },
+    {
+      "label": "• House Speaker",
+      "value": "Mike Johnson",
+      "links": [
+        {
+          "text": "Mike Johnson",
+          "href": "https://en.wikipedia.org/wiki/Mike_Johnson"
+        }
+      ]
+    },
+    {
+      "label": "• Chief Justice",
+      "value": "John Roberts",
+      "links": [
+        {
+          "text": "John Roberts",
+          "href": "https://en.wikipedia.org/wiki/John_Roberts"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "Congress",
+      "links": [
+        {
+          "text": "Congress",
+          "href": "https://en.wikipedia.org/wiki/United_States_Congress"
+        }
+      ]
+    },
+    {
+      "label": "• Upper house",
+      "value": "Senate",
+      "links": [
+        {
+          "text": "Senate",
+          "href": "https://en.wikipedia.org/wiki/United_States_Senate"
+        }
+      ]
+    },
+    {
+      "label": "• Lower house",
+      "value": "House of Representatives",
+      "links": [
+        {
+          "text": "House of Representatives",
+          "href": "https://en.wikipedia.org/wiki/United_States_House_of_Representatives"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Independence from Great Britain",
+      "rows": [
+        {
+          "label": "• Declaration",
+          "value": "July 4, 1776 ; 249 years ago"
+        },
+        {
+          "label": "• Confederation",
+          "value": "March 1, 1781"
+        },
+        {
+          "label": "• Recognition",
+          "value": "September 3, 1783"
+        },
+        {
+          "label": "• Constitution",
+          "value": "March 4, 1789"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total area",
+          "value": "3,796,742 sq mi (9,833,520 km ) ( 3rd )",
+          "links": [
+            {
+              "text": "3rd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "7.0 (2010)"
+        },
+        {
+          "label": "• Land area",
+          "value": "3,531,905 sq mi (9,147,590 km ) (3rd)"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2025 estimate",
+          "value": "341,784,857"
+        },
+        {
+          "label": "• 2020 census",
+          "value": "331,449,281 ( 3rd )",
+          "links": [
+            {
+              "text": "3rd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• Density",
+          "value": "96.8/sq mi (37.4/km ) ( 180th )",
+          "links": [
+            {
+              "text": "180th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$30.616 trillion ( 2nd )",
+          "links": [
+            {
+              "text": "2nd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$89,599 ( 10th )",
+          "links": [
+            {
+              "text": "10th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$30.616 trillion ( 1st )",
+          "links": [
+            {
+              "text": "1st",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$89,599 ( 8th )",
+          "links": [
+            {
+              "text": "8th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "Gini (2024)",
+          "value": "41.8 medium inequality"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.938 very high ( 17th )",
+          "links": [
+            {
+              "text": "17th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "U.S. dollar ( $ ) ( USD )",
+          "links": [
+            {
+              "text": "U.S. dollar",
+              "href": "https://en.wikipedia.org/wiki/United_States_dollar"
+            },
+            {
+              "text": "$",
+              "href": "https://en.wikipedia.org/wiki/$"
+            },
+            {
+              "text": "USD",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC −4 to −12 , +10 , +11",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "−4",
+              "href": "https://en.wikipedia.org/wiki/UTC%E2%88%9204:00"
+            },
+            {
+              "text": "−12",
+              "href": "https://en.wikipedia.org/wiki/UTC%E2%88%9212:00"
+            },
+            {
+              "text": "+10",
+              "href": "https://en.wikipedia.org/wiki/UTC%2B10:00"
+            },
+            {
+              "text": "+11",
+              "href": "https://en.wikipedia.org/wiki/UTC%2B11:00"
+            }
+          ]
+        },
+        {
+          "label": "• Summer ( DST )",
+          "value": "UTC −4 to −10",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "−4",
+              "href": "https://en.wikipedia.org/wiki/UTC%E2%88%9204:00"
+            },
+            {
+              "text": "−10",
+              "href": "https://en.wikipedia.org/wiki/UTC%E2%88%9210:00"
+            }
+          ]
+        },
+        {
+          "label": "Date format",
+          "value": "mm / dd / yyyy"
+        },
+        {
+          "label": "Calling code",
+          "value": "+1",
+          "links": [
+            {
+              "text": "+1",
+              "href": "https://en.wikipedia.org/wiki/North_American_Numbering_Plan"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "US",
+          "links": [
+            {
+              "text": "US",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:US"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".com , .us",
+          "links": [
+            {
+              "text": ".com",
+              "href": "https://en.wikipedia.org/wiki/.com"
+            },
+            {
+              "text": ".us",
+              "href": "https://en.wikipedia.org/wiki/.us"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

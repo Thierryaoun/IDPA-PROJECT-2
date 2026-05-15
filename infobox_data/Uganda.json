@@ -1,0 +1,400 @@
+{
+  "country": "Uganda",
+  "infobox_title": "Republic of Uganda Jamhuri ya Uganda ( Swahili ) Official name in local languages Luganda : Lipabuliika ya Uganda Lusoga : Uganda Eryetwala Lumasaba : Linambo lya Uganda",
+  "data": [
+    {
+      "label": "Luganda :",
+      "value": "Lipabuliika ya Uganda"
+    },
+    {
+      "label": "Luganda :",
+      "value": "Lipabuliika ya Uganda"
+    },
+    {
+      "label": "Lusoga :",
+      "value": "Uganda Eryetwala"
+    },
+    {
+      "label": "Lumasaba :",
+      "value": "Linambo lya Uganda"
+    },
+    {
+      "label": "Capital and largest city",
+      "value": "Kampala",
+      "links": [
+        {
+          "text": "Kampala",
+          "href": "https://en.wikipedia.org/wiki/Kampala"
+        }
+      ]
+    },
+    {
+      "label": "Official languages",
+      "value": "English Swahili",
+      "links": [
+        {
+          "text": "English",
+          "href": "https://en.wikipedia.org/wiki/Ugandan_English"
+        },
+        {
+          "text": "Swahili",
+          "href": "https://en.wikipedia.org/wiki/Swahili_language"
+        }
+      ],
+      "sub_items": [
+        "English",
+        "Swahili"
+      ]
+    },
+    {
+      "label": "Other languages",
+      "value": "See Languages of Uganda",
+      "links": [
+        {
+          "text": "Languages of Uganda",
+          "href": "https://en.wikipedia.org/wiki/Languages_of_Uganda"
+        }
+      ]
+    },
+    {
+      "label": "Dialect of English",
+      "value": "Uglish",
+      "links": [
+        {
+          "text": "Uglish",
+          "href": "https://en.wikipedia.org/wiki/Ugandan_English"
+        }
+      ]
+    },
+    {
+      "label": "Ethnic groups (2024 census)",
+      "value": "15.3% Baganda 9.1% Banyankole 8.1% Basoga 6.4% Bakiga 6.8% Iteso 5.9% Langi 4.5% Bagisu 4.2% Acholi 2.6% Lugbara 37.1% others",
+      "links": [
+        {
+          "text": "Baganda",
+          "href": "https://en.wikipedia.org/wiki/Baganda"
+        },
+        {
+          "text": "Banyankole",
+          "href": "https://en.wikipedia.org/wiki/Nkole_people"
+        },
+        {
+          "text": "Basoga",
+          "href": "https://en.wikipedia.org/wiki/Soga_people"
+        },
+        {
+          "text": "Bakiga",
+          "href": "https://en.wikipedia.org/wiki/Kiga_people"
+        },
+        {
+          "text": "Iteso",
+          "href": "https://en.wikipedia.org/wiki/Teso_people"
+        },
+        {
+          "text": "Langi",
+          "href": "https://en.wikipedia.org/wiki/Lango_people"
+        },
+        {
+          "text": "Bagisu",
+          "href": "https://en.wikipedia.org/wiki/Gisu_people"
+        },
+        {
+          "text": "Acholi",
+          "href": "https://en.wikipedia.org/wiki/Acholi_people"
+        },
+        {
+          "text": "Lugbara",
+          "href": "https://en.wikipedia.org/wiki/Lugbara_people"
+        },
+        {
+          "text": "others",
+          "href": "https://en.wikipedia.org/wiki/Demographics_of_Uganda"
+        }
+      ],
+      "sub_items": [
+        "15.3% Baganda",
+        "9.1% Banyankole",
+        "8.1% Basoga",
+        "6.4% Bakiga",
+        "6.8% Iteso",
+        "5.9% Langi",
+        "4.5% Bagisu",
+        "4.2% Acholi",
+        "2.6% Lugbara",
+        "37.1% others"
+      ]
+    },
+    {
+      "label": "Religion (2024 census)",
+      "value": "81.7% Christianity 42% Roman Catholic 29% Protestant 13.2% Islam 3.3% unclassified 1.6% others 0.2% no religion",
+      "links": [
+        {
+          "text": "Christianity",
+          "href": "https://en.wikipedia.org/wiki/Christianity_in_Uganda"
+        },
+        {
+          "text": "Roman Catholic",
+          "href": "https://en.wikipedia.org/wiki/Roman_Catholic"
+        },
+        {
+          "text": "Protestant",
+          "href": "https://en.wikipedia.org/wiki/Protestant"
+        },
+        {
+          "text": "Islam",
+          "href": "https://en.wikipedia.org/wiki/Islam_in_Uganda"
+        },
+        {
+          "text": "no religion",
+          "href": "https://en.wikipedia.org/wiki/Irreligion_in_Uganda"
+        }
+      ],
+      "sub_items": [
+        "81.7% Christianity 42% Roman Catholic 29% Protestant",
+        "42% Roman Catholic",
+        "29% Protestant",
+        "13.2% Islam",
+        "3.3% unclassified",
+        "1.6% others",
+        "0.2% no religion"
+      ]
+    },
+    {
+      "label": "Demonym",
+      "value": "Ugandan",
+      "links": [
+        {
+          "text": "Ugandan",
+          "href": "https://en.wikipedia.org/wiki/Ugandans"
+        }
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Unitary presidential republic under a dictatorship",
+      "links": [
+        {
+          "text": "presidential republic",
+          "href": "https://en.wikipedia.org/wiki/Presidential_republic"
+        }
+      ]
+    },
+    {
+      "label": "• President",
+      "value": "Yoweri Museveni",
+      "links": [
+        {
+          "text": "Yoweri Museveni",
+          "href": "https://en.wikipedia.org/wiki/Yoweri_Museveni"
+        }
+      ]
+    },
+    {
+      "label": "• Vice-President",
+      "value": "Jessica Alupo",
+      "links": [
+        {
+          "text": "Jessica Alupo",
+          "href": "https://en.wikipedia.org/wiki/Jessica_Alupo"
+        }
+      ]
+    },
+    {
+      "label": "• Prime Minister",
+      "value": "Robinah Nabbanja",
+      "links": [
+        {
+          "text": "Robinah Nabbanja",
+          "href": "https://en.wikipedia.org/wiki/Robinah_Nabbanja"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "Parliament",
+      "links": [
+        {
+          "text": "Parliament",
+          "href": "https://en.wikipedia.org/wiki/Parliament_of_Uganda"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Independence from the United Kingdom",
+      "rows": [
+        {
+          "label": "• Dominion",
+          "value": "9 October 1962"
+        },
+        {
+          "label": "• Republic declared",
+          "value": "9 October 1963"
+        },
+        {
+          "label": "• Current constitution",
+          "value": "8 October 1995"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "241,038 km (93,065 sq mi) ( 79th )",
+          "links": [
+            {
+              "text": "79th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "15.39"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2024 census",
+          "value": "= 45,905,417"
+        },
+        {
+          "label": "• Density",
+          "value": "157.1/km (406.9/sq mi) ( 75th )",
+          "links": [
+            {
+              "text": "75th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$187.11 billion ( 82th )",
+          "links": [
+            {
+              "text": "82th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$3,900 ( 161st )",
+          "links": [
+            {
+              "text": "161st",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$64.280 billion ( 88th )",
+          "links": [
+            {
+              "text": "88th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$1,340 ( 160th )",
+          "links": [
+            {
+              "text": "160th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "Gini (2016)",
+          "value": "42.0 medium inequality"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.582 medium ( 157th )",
+          "links": [
+            {
+              "text": "157th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "Ugandan shilling ( UGX )",
+          "links": [
+            {
+              "text": "Ugandan shilling",
+              "href": "https://en.wikipedia.org/wiki/Ugandan_shilling"
+            },
+            {
+              "text": "UGX",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC +3 ( EAT )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "EAT",
+              "href": "https://en.wikipedia.org/wiki/East_Africa_Time"
+            }
+          ]
+        },
+        {
+          "label": "Calling code",
+          "value": "+256",
+          "links": [
+            {
+              "text": "+256",
+              "href": "https://en.wikipedia.org/wiki/%2B256"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "UG",
+          "links": [
+            {
+              "text": "UG",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:UG"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".ug",
+          "links": [
+            {
+              "text": ".ug",
+              "href": "https://en.wikipedia.org/wiki/.ug"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,309 @@
+{
+  "label": "country",
+  "children": [
+    {
+      "label": "name",
+      "children": [
+        {
+          "label": "luxembourg"
+        }
+      ]
+    },
+    {
+      "label": "infobox_title",
+      "children": [
+        {
+          "label": "grand duchy of luxembourg groussherzogtum lëtzebuerg grand-duché de luxembourg großherzogtum luxemburg"
+        }
+      ]
+    },
+    {
+      "label": "capital_and_largest_city",
+      "children": [
+        {
+          "label": "luxembourg / 49."
+        }
+      ]
+    },
+    {
+      "label": "official_languages",
+      "children": [
+        {
+          "label": "luxembourgish"
+        },
+        {
+          "label": "german"
+        },
+        {
+          "label": "french"
+        }
+      ]
+    },
+    {
+      "label": "nationality_2025",
+      "children": [
+        {
+          "label": "53% luxembourgers"
+        },
+        {
+          "label": "13.2% portuguese"
+        },
+        {
+          "label": "7.2% french"
+        },
+        {
+          "label": "3.7% italians"
+        },
+        {
+          "label": "23% other"
+        }
+      ]
+    },
+    {
+      "label": "religion_2021",
+      "children": [
+        {
+          "label": "53% christianity"
+        },
+        {
+          "label": "46% catholicism"
+        },
+        {
+          "label": "7% other christian"
+        },
+        {
+          "label": "38% no religion"
+        },
+        {
+          "label": "9% other"
+        }
+      ]
+    },
+    {
+      "label": "demonyms",
+      "children": [
+        {
+          "label": "luxembourger"
+        },
+        {
+          "label": "luxembourgish"
+        }
+      ]
+    },
+    {
+      "label": "government",
+      "children": [
+        {
+          "label": "unitary parliamentary constitutional monarchy"
+        }
+      ]
+    },
+    {
+      "label": "grand_duke",
+      "children": [
+        {
+          "label": "guillaume v"
+        }
+      ]
+    },
+    {
+      "label": "prime_minister",
+      "children": [
+        {
+          "label": "luc frieden"
+        }
+      ]
+    },
+    {
+      "label": "legislature",
+      "children": [
+        {
+          "label": "chamber of deputies"
+        }
+      ]
+    },
+    {
+      "label": "establishment",
+      "children": [
+        {
+          "label": "from_the_french_empire_and_elevation_to_grand_duchy_of_luxembourg",
+          "children": [
+            {
+              "label": "9 june 1815"
+            }
+          ]
+        },
+        {
+          "label": "independence_in_personal_union_with_the_netherlands_treaty_of_london",
+          "children": [
+            {
+              "label": "19 april 1839"
+            }
+          ]
+        },
+        {
+          "label": "end_of_personal_union_with_the_kingdom_of_the_netherlands",
+          "children": [
+            {
+              "label": "23 november 1890"
+            }
+          ]
+        },
+        {
+          "label": "liberation_from_the_greater_german_reich",
+          "children": [
+            {
+              "label": "1944/1945"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "area",
+      "children": [
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "2,586.4 km"
+            }
+          ]
+        },
+        {
+          "label": "water",
+          "children": [
+            {
+              "label": "0.23"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "population",
+      "children": [
+        {
+          "label": "december_2025_estimate",
+          "children": [
+            {
+              "label": "690,947"
+            }
+          ]
+        },
+        {
+          "label": "2021_census",
+          "children": [
+            {
+              "label": "643,941"
+            }
+          ]
+        },
+        {
+          "label": "density",
+          "children": [
+            {
+              "label": "264/km"
+            }
+          ]
+        },
+        {
+          "label": "gdp_ppp",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$106.505 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$154,914"
+            }
+          ]
+        },
+        {
+          "label": "gdp_nominal",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$96.993 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$141,079"
+            }
+          ]
+        },
+        {
+          "label": "gini_2023",
+          "children": [
+            {
+              "label": "30.6 medium inequality"
+            }
+          ]
+        },
+        {
+          "label": "hdi_2023",
+          "children": [
+            {
+              "label": "0.922 very high"
+            }
+          ]
+        },
+        {
+          "label": "currency",
+          "children": [
+            {
+              "label": "euro"
+            }
+          ]
+        },
+        {
+          "label": "calling_code",
+          "children": [
+            {
+              "label": "+352"
+            }
+          ]
+        },
+        {
+          "label": "iso_3166_code",
+          "children": [
+            {
+              "label": "lu"
+            }
+          ]
+        },
+        {
+          "label": "internet_tld",
+          "children": [
+            {
+              "label": ".lu"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

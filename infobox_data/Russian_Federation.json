@@ -1,0 +1,417 @@
+{
+  "country": "Russian Federation",
+  "infobox_title": "Russian Federation Российская Федерация",
+  "data": [
+    {
+      "label": "Capital and largest city",
+      "value": "Moscow 55°45′21″N 37°37′02″E ﻿ / ﻿ 55.75583°N 37.61722°E",
+      "links": [
+        {
+          "text": "Moscow",
+          "href": "https://en.wikipedia.org/wiki/Moscow"
+        },
+        {
+          "text": "55°45′21″N37°37′02″E﻿ / ﻿55.75583°N 37.61722°E",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Russia&params=55_45_21_N_37_37_02_E_type:city"
+        }
+      ]
+    },
+    {
+      "label": "Official language and national language",
+      "value": "Russian",
+      "links": [
+        {
+          "text": "Russian",
+          "href": "https://en.wikipedia.org/wiki/Russian_language"
+        }
+      ]
+    },
+    {
+      "label": "Recognised regional languages",
+      "value": "35 regional official languages",
+      "links": [
+        {
+          "text": "regional official languages",
+          "href": "https://en.wikipedia.org/wiki/Languages_of_Russia#Official_languages"
+        }
+      ]
+    },
+    {
+      "label": "Ethnic groups (2021; including Crimea )",
+      "value": "71.7% Russian 3.2% Tatar 1.1% Bashkir 1.1% Chechen 11.3% other 11.6% not reported",
+      "links": [
+        {
+          "text": "Russian",
+          "href": "https://en.wikipedia.org/wiki/Russians"
+        },
+        {
+          "text": "Tatar",
+          "href": "https://en.wikipedia.org/wiki/Tatars"
+        },
+        {
+          "text": "Bashkir",
+          "href": "https://en.wikipedia.org/wiki/Bashkirs"
+        },
+        {
+          "text": "Chechen",
+          "href": "https://en.wikipedia.org/wiki/Chechens"
+        },
+        {
+          "text": "other",
+          "href": "https://en.wikipedia.org/wiki/Ethnic_groups_in_Russia"
+        }
+      ],
+      "sub_items": [
+        "71.7% Russian",
+        "3.2% Tatar",
+        "1.1% Bashkir",
+        "1.1% Chechen",
+        "11.3% other",
+        "11.6% not reported"
+      ]
+    },
+    {
+      "label": "Religion (2025)",
+      "value": "68% Christianity 67% Eastern Orthodoxy 1% other Christian 14% no religion 7% Islam 1% Buddhism 4% other religion 4% unsure 2% not answered",
+      "links": [
+        {
+          "text": "Christianity",
+          "href": "https://en.wikipedia.org/wiki/Christianity_in_Russia"
+        },
+        {
+          "text": "Eastern Orthodoxy",
+          "href": "https://en.wikipedia.org/wiki/Eastern_Orthodoxy_in_Russia"
+        },
+        {
+          "text": "Christian",
+          "href": "https://en.wikipedia.org/wiki/List_of_Christian_denominations"
+        },
+        {
+          "text": "no religion",
+          "href": "https://en.wikipedia.org/wiki/Irreligion_in_Russia"
+        },
+        {
+          "text": "Islam",
+          "href": "https://en.wikipedia.org/wiki/Islam_in_Russia"
+        },
+        {
+          "text": "Buddhism",
+          "href": "https://en.wikipedia.org/wiki/Buddhism_in_Russia"
+        },
+        {
+          "text": "other religion",
+          "href": "https://en.wikipedia.org/wiki/Religion_in_Russia"
+        }
+      ],
+      "sub_items": [
+        "68% Christianity 67% Eastern Orthodoxy 1% other Christian 14% no religion 7% Islam 1% Buddhism 4% other religion 4% unsure 2% not answered",
+        "68% Christianity 67% Eastern Orthodoxy 1% other Christian",
+        "67% Eastern Orthodoxy",
+        "1% other Christian",
+        "14% no religion",
+        "7% Islam",
+        "1% Buddhism",
+        "4% other religion",
+        "4% unsure",
+        "2% not answered"
+      ]
+    },
+    {
+      "label": "Demonym",
+      "value": "Russian",
+      "links": [
+        {
+          "text": "Russian",
+          "href": "https://en.wikipedia.org/wiki/Russian_people"
+        }
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Federal semi-presidential republic under an authoritarian dictatorship",
+      "links": [
+        {
+          "text": "semi-presidential republic",
+          "href": "https://en.wikipedia.org/wiki/Semi-presidential_republic"
+        },
+        {
+          "text": "authoritarian",
+          "href": "https://en.wikipedia.org/wiki/Authoritarianism"
+        }
+      ]
+    },
+    {
+      "label": "• President",
+      "value": "Vladimir Putin",
+      "links": [
+        {
+          "text": "Vladimir Putin",
+          "href": "https://en.wikipedia.org/wiki/Vladimir_Putin"
+        }
+      ]
+    },
+    {
+      "label": "• Prime Minister",
+      "value": "Mikhail Mishustin",
+      "links": [
+        {
+          "text": "Mikhail Mishustin",
+          "href": "https://en.wikipedia.org/wiki/Mikhail_Mishustin"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "Federal Assembly",
+      "links": [
+        {
+          "text": "Federal Assembly",
+          "href": "https://en.wikipedia.org/wiki/Federal_Assembly_(Russia)"
+        }
+      ]
+    },
+    {
+      "label": "• Upper house",
+      "value": "Federation Council",
+      "links": [
+        {
+          "text": "Federation Council",
+          "href": "https://en.wikipedia.org/wiki/Federation_Council_(Russia)"
+        }
+      ]
+    },
+    {
+      "label": "• Lower house",
+      "value": "State Duma",
+      "links": [
+        {
+          "text": "State Duma",
+          "href": "https://en.wikipedia.org/wiki/State_Duma"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Formation",
+      "rows": [
+        {
+          "label": "• Kievan Rus'",
+          "value": "882"
+        },
+        {
+          "label": "• Vladimir-Suzdal",
+          "value": "1157"
+        },
+        {
+          "label": "• Principality of Moscow",
+          "value": "1282"
+        },
+        {
+          "label": "• Tsardom of Russia",
+          "value": "16 January 1547"
+        },
+        {
+          "label": "• Russian Empire",
+          "value": "2 November 1721"
+        },
+        {
+          "label": "• Monarchy abolished",
+          "value": "15 March 1917"
+        },
+        {
+          "label": "• Soviet Union",
+          "value": "30 December 1922"
+        },
+        {
+          "label": "• Declaration of State Sovereignty",
+          "value": "12 June 1990"
+        },
+        {
+          "label": "• Russian Federation",
+          "value": "12 December 1991"
+        },
+        {
+          "label": "• Current constitution",
+          "value": "12 December 1993"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "17,098,246 km (6,601,670 sq mi) (within internationally recognised borders)"
+        },
+        {
+          "label": "• Water (%)",
+          "value": "13 (including swamps)"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2025 estimate",
+          "value": "146,028,325 (including Crimea) 143,569,049 (excluding Crimea) ( 9th )",
+          "links": [
+            {
+              "text": "9th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ],
+          "sub_items": [
+            "146,028,325",
+            "(including Crimea)",
+            "143,569,049",
+            "(excluding Crimea)"
+          ]
+        },
+        {
+          "label": "• Density",
+          "value": "8.4/km (21.8/sq mi) ( 187th )",
+          "links": [
+            {
+              "text": "187th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$7.143 trillion ( 4th )",
+          "links": [
+            {
+              "text": "4th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$49,049 ( 49th )",
+          "links": [
+            {
+              "text": "49th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$2.541 trillion ( 9th )",
+          "links": [
+            {
+              "text": "9th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$17,446 ( 68th )",
+          "links": [
+            {
+              "text": "68th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "Gini (2020)",
+          "value": "36.0 medium inequality"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.832 very high ( 64th )",
+          "links": [
+            {
+              "text": "64th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "Russian ruble ( ₽ ) ( RUB )",
+          "links": [
+            {
+              "text": "Russian ruble",
+              "href": "https://en.wikipedia.org/wiki/Russian_ruble"
+            },
+            {
+              "text": "₽",
+              "href": "https://en.wikipedia.org/wiki/%E2%82%BD"
+            },
+            {
+              "text": "RUB",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC +2 to +12",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "+2 to +12",
+              "href": "https://en.wikipedia.org/wiki/Time_in_Russia"
+            }
+          ]
+        },
+        {
+          "label": "Calling code",
+          "value": "+7",
+          "links": [
+            {
+              "text": "+7",
+              "href": "https://en.wikipedia.org/wiki/Telephone_numbers_in_Russia"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "RU",
+          "links": [
+            {
+              "text": "RU",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:RU"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".ru .рф",
+          "links": [
+            {
+              "text": ".ru",
+              "href": "https://en.wikipedia.org/wiki/.ru"
+            },
+            {
+              "text": ".рф",
+              "href": "https://en.wikipedia.org/wiki/.%D1%80%D1%84"
+            }
+          ],
+          "sub_items": [
+            ".ru",
+            ".рф"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+╔═══════════════════════════════════════════════════════════════════════════════╗
+║                               REPUBLIC OF ZAMBIA                              ║
+╠═══════════════════════════════════════════════════════════════════════════════╣
+║  Name                                          : Zambia                       ║
+║  Capital And Largest City                      : Lusaka / 15                  ║
+║  Official Languages                            : English                      ║
+║  Recognised Regional Languages                 : % Bemba                      ║
+║  Recognised Regional Languages                 : % Nyanja                     ║
+║  Recognised Regional Languages                 : % Tonga                      ║
+║  Recognised Regional Languages                 : % Tumbuka                    ║
+║  Recognised Regional Languages                 : % Lozi                       ║
+║  Recognised Regional Languages                 : % Chewa                      ║
+║  Recognised Regional Languages                 : % Nsenga                     ║
+║  Recognised Regional Languages                 : % Lunda                      ║
+║  Recognised Regional Languages                 : % Kaonde                     ║
+║  Recognised Regional Languages                 : % Lala                       ║
+║  Recognised Regional Languages                 : % Lamba                      ║
+║  Recognised Regional Languages                 : % English                    ║
+║  Recognised Regional Languages                 : % Luvale                     ║
+║  Recognised Regional Languages                 : % Mambwe                     ║
+║  Recognised Regional Languages                 : % Lenje                      ║
+║  Recognised Regional Languages                 : % Namwanga                   ║
+║  Recognised Regional Languages                 : % Bisa                       ║
+║  Recognised Regional Languages                 : % Ushi                       ║
+║  Recognised Regional Languages                 : % Ila                        ║
+║  Recognised Regional Languages                 : % Mbunda                     ║
+║  Recognised Regional Languages                 : % Ngoni                      ║
+║  Recognised Regional Languages                 : % Senga                      ║
+║  Recognised Regional Languages                 : % Lungu                      ║
+║  Recognised Regional Languages                 : % Toka-Leya                  ║
+║  Recognised Regional Languages                 : % Others                     ║
+║  Ethnic Groups 2010                            : % Bemba                      ║
+║  Ethnic Groups 2010                            : % Tonga                      ║
+║  Ethnic Groups 2010                            : % Tumbuka                    ║
+║  Ethnic Groups 2010                            : % Chewa                      ║
+║  Ethnic Groups 2010                            : % Lozi                       ║
+║  Ethnic Groups 2010                            : % Nsenga                     ║
+║  Ethnic Groups 2010                            : % Ngoni                      ║
+║  Ethnic Groups 2010                            : % Lala                       ║
+║  Ethnic Groups 2010                            : % Kaonde                     ║
+║  Ethnic Groups 2010                            : % Namwanga                   ║
+║  Ethnic Groups 2010                            : % Lunda                      ║
+║  Ethnic Groups 2010                            : % Mambwe                     ║
+║  Ethnic Groups 2010                            : % Luvale                     ║
+║  Ethnic Groups 2010                            : % Lamba                      ║
+║  Ethnic Groups 2010                            : % Ushi                       ║
+║  Ethnic Groups 2010                            : % Bisa                       ║
+║  Ethnic Groups 2010                            : % Lenje                      ║
+║  Ethnic Groups 2010                            : % Mbunda                     ║
+║  Ethnic Groups 2010                            : % Lunda                      ║
+║  Ethnic Groups 2010                            : % Senga                      ║
+║  Ethnic Groups 2010                            : % Ila                        ║
+║  Ethnic Groups 2010                            : % Lungu                      ║
+║  Ethnic Groups 2010                            : % Tabwa                      ║
+║  Ethnic Groups 2010                            : % Soli                       ║
+║  Ethnic Groups 2010                            : % Kunda                      ║
+║  Ethnic Groups 2010                            : % Ngumbo                     ║
+║  Ethnic Groups 2010                            : % Chishinga                  ║
+║  Ethnic Groups 2010                            : % Chokwe                     ║
+║  Ethnic Groups 2010                            : % Nkoya                      ║
+║  Ethnic Groups 2010                            : % Other Ethnics              ║
+║  Ethnic Groups 2010                            : % Major Racial               ║
+║  Ethnic Groups 2010                            : % Unclassified               ║
+║  Religion 2023                                 : % Christianity               ║
+║  Religion 2023                                 : % Islam                      ║
+║  Religion 2023                                 : % Other / None               ║
+║  Demonym                                       : Zambian                      ║
+║  Government                                    : Unitary Presidential Republic ║
+║  President                                     : Hakainde Hichilema           ║
+║  Vice President                                : Mutale Nalumango             ║
+║  Speaker                                       : Nelly Mutti                  ║
+║  Chief Justice                                 : Mumba Malila                 ║
+║  Legislature                                   : National Assembly Of Zambia  ║
+║  Independence From The United Kingdom Declared : 24 october 1964              ║
+║  Area Total                                    : 752,617 km (290,587 sq mi    ║
+║  Area Water                                    : 1                            ║
+║  Population 2023 Estimate                      : 20,216,029                   ║
+║  Population Density                            : Km (/Sq Mi                   ║
+║  Population Gdp Ppp                            : 2023 estimate                ║
+║  Population Total                              : $Billion                     ║
+║  Population Total                              : $Billion                     ║
+║  Population Per Capita                         : $4,068                       ║
+║  Population Per Capita                         : $1,435                       ║
+║  Population Gdp Nominal                        : 2023 estimate                ║
+║  Population Gini 2022                          : High Inequality              ║
+║  Population Hdi 2023                           : Medium                       ║
+║  Population Currency                           : Zambian Kwacha               ║
+║  Population Time Zone                          : Utc +2                       ║
+║  Population Date Format                        : Dd/Mm/Yyyy                   ║
+║  Population Calling Code                       : +260                         ║
+║  Population Iso 3166 Code                      : Zm                           ║
+║  Population Internet Tld                       : Zm                           ║
+╚═══════════════════════════════════════════════════════════════════════════════╝

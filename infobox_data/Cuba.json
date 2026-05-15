@@ -1,0 +1,329 @@
+{
+  "country": "Cuba",
+  "infobox_title": "Republic of Cuba República de Cuba ( Spanish )",
+  "data": [
+    {
+      "label": "Capital and largest city",
+      "value": "Havana 23°8′N 82°23′W ﻿ / ﻿ 23.133°N 82.383°W",
+      "links": [
+        {
+          "text": "Havana",
+          "href": "https://en.wikipedia.org/wiki/Havana"
+        },
+        {
+          "text": "23°8′N82°23′W﻿ / ﻿23.133°N 82.383°W",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Cuba&params=23_8_N_82_23_W_type:city"
+        }
+      ]
+    },
+    {
+      "label": "Official languages",
+      "value": "Spanish",
+      "links": [
+        {
+          "text": "Spanish",
+          "href": "https://en.wikipedia.org/wiki/Cuban_Spanish"
+        }
+      ]
+    },
+    {
+      "label": "Religion (2020)",
+      "value": "58.9% Christianity 23.2% no religion 17.6% folk religions 0.3% other",
+      "links": [
+        {
+          "text": "Christianity",
+          "href": "https://en.wikipedia.org/wiki/Christianity_in_Cuba"
+        },
+        {
+          "text": "no religion",
+          "href": "https://en.wikipedia.org/wiki/Irreligion_in_Latin_America"
+        },
+        {
+          "text": "folk religions",
+          "href": "https://en.wikipedia.org/wiki/Folk_religion"
+        }
+      ],
+      "sub_items": [
+        "58.9% Christianity",
+        "23.2% no religion",
+        "17.6% folk religions",
+        "0.3% other"
+      ]
+    },
+    {
+      "label": "Demonym",
+      "value": "Cuban",
+      "links": [
+        {
+          "text": "Cuban",
+          "href": "https://en.wikipedia.org/wiki/Cubans"
+        }
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Communist state",
+      "links": [
+        {
+          "text": "Communist state",
+          "href": "https://en.wikipedia.org/wiki/Communist_state"
+        }
+      ]
+    },
+    {
+      "label": "• First Secretary and President",
+      "value": "Miguel Díaz-Canel",
+      "links": [
+        {
+          "text": "Miguel Díaz-Canel",
+          "href": "https://en.wikipedia.org/wiki/Miguel_D%C3%ADaz-Canel"
+        }
+      ]
+    },
+    {
+      "label": "• Vice President",
+      "value": "Salvador Valdés Mesa",
+      "links": [
+        {
+          "text": "Salvador Valdés Mesa",
+          "href": "https://en.wikipedia.org/wiki/Salvador_Vald%C3%A9s_Mesa"
+        }
+      ]
+    },
+    {
+      "label": "• Prime Minister",
+      "value": "Manuel Marrero Cruz",
+      "links": [
+        {
+          "text": "Manuel Marrero Cruz",
+          "href": "https://en.wikipedia.org/wiki/Manuel_Marrero_Cruz"
+        }
+      ]
+    },
+    {
+      "label": "• President of the National Assembly",
+      "value": "Esteban Lazo Hernández",
+      "links": [
+        {
+          "text": "Esteban Lazo Hernández",
+          "href": "https://en.wikipedia.org/wiki/Esteban_Lazo_Hern%C3%A1ndez"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "National Assembly of People's Power",
+      "links": [
+        {
+          "text": "National Assembly of People's Power",
+          "href": "https://en.wikipedia.org/wiki/National_Assembly_of_People%27s_Power"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Independence from Spain",
+      "rows": [
+        {
+          "label": "• Declaration of Independence",
+          "value": "10 October 1868"
+        },
+        {
+          "label": "• War of Independence",
+          "value": "24 February 1895"
+        },
+        {
+          "label": "• Recognized (sovereignty relinquished by Spain)",
+          "value": "10 December 1898"
+        },
+        {
+          "label": "• Republic declared (end of United States occupation )",
+          "value": "20 May 1902"
+        },
+        {
+          "label": "• Cuban Revolution",
+          "value": "26 July 1953 – 1 January 1959"
+        },
+        {
+          "label": "• Current constitution",
+          "value": "10 April 2019"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "110,860 km (42,800 sq mi) ( 104th )",
+          "links": [
+            {
+              "text": "104th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "0.94"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2024 estimate",
+          "value": "9,748,007 ( 95th )",
+          "links": [
+            {
+              "text": "95th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• 2022 census",
+          "value": "11,089,511"
+        },
+        {
+          "label": "• Density",
+          "value": "89.8/km (232.6/sq mi) ( 125th )",
+          "links": [
+            {
+              "text": "125th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2015 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$254.865 billion"
+        },
+        {
+          "label": "• Per capita",
+          "value": "$22,237"
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2024 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$252.063 billion ( 59th )",
+          "links": [
+            {
+              "text": "59th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$22,957 ( 60th )",
+          "links": [
+            {
+              "text": "60th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "Gini (2000)",
+          "value": "38.0 medium inequality"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.762 high ( 97th )",
+          "links": [
+            {
+              "text": "97th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "Cuban peso ( CUP )",
+          "links": [
+            {
+              "text": "Cuban peso",
+              "href": "https://en.wikipedia.org/wiki/Cuban_peso"
+            },
+            {
+              "text": "CUP",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC −05:00 ( CST )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "CST",
+              "href": "https://en.wikipedia.org/wiki/UTC%E2%88%9205:00"
+            }
+          ]
+        },
+        {
+          "label": "• Summer ( DST )",
+          "value": "UTC −04:00 ( CDT )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "CDT",
+              "href": "https://en.wikipedia.org/wiki/UTC%E2%88%9204:00"
+            }
+          ]
+        },
+        {
+          "label": "Date format",
+          "value": "dd/mm/yyyy"
+        },
+        {
+          "label": "Calling code",
+          "value": "+53",
+          "links": [
+            {
+              "text": "+53",
+              "href": "https://en.wikipedia.org/wiki/Telephone_numbers_in_Cuba"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "CU",
+          "links": [
+            {
+              "text": "CU",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:CU"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".cu",
+          "links": [
+            {
+              "text": ".cu",
+              "href": "https://en.wikipedia.org/wiki/.cu"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

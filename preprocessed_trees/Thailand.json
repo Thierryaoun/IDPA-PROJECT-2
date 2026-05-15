@@ -1,0 +1,389 @@
+{
+  "label": "country",
+  "children": [
+    {
+      "label": "name",
+      "children": [
+        {
+          "label": "thailand"
+        }
+      ]
+    },
+    {
+      "label": "infobox_title",
+      "children": [
+        {
+          "label": "kingdom of thailand ราชอาณาจักรไทย ratcha-anachak thai"
+        }
+      ]
+    },
+    {
+      "label": "capital_and_largest_city",
+      "children": [
+        {
+          "label": "bangkok / 13."
+        }
+      ]
+    },
+    {
+      "label": "official_languages",
+      "children": [
+        {
+          "label": "thai"
+        }
+      ]
+    },
+    {
+      "label": "other_languages",
+      "children": [
+        {
+          "label": "isan"
+        },
+        {
+          "label": "northern thai"
+        },
+        {
+          "label": "southern thai"
+        },
+        {
+          "label": "karen"
+        },
+        {
+          "label": "pattani malay"
+        },
+        {
+          "label": "bangkok malay"
+        },
+        {
+          "label": "teochew"
+        },
+        {
+          "label": "hokkien"
+        }
+      ]
+    },
+    {
+      "label": "ethnic_groups",
+      "children": [
+        {
+          "label": "80% thai"
+        },
+        {
+          "label": "37% central thai"
+        },
+        {
+          "label": "25% isan"
+        },
+        {
+          "label": "8% northern thai"
+        },
+        {
+          "label": "8% southern thai"
+        },
+        {
+          "label": "2% western thai"
+        },
+        {
+          "label": "12% thai chinese"
+        },
+        {
+          "label": "4% northern khmer"
+        },
+        {
+          "label": "4% thai malays"
+        }
+      ]
+    },
+    {
+      "label": "religion_2018_census",
+      "children": [
+        {
+          "label": "93.46% buddhism"
+        },
+        {
+          "label": "5.37% islam"
+        },
+        {
+          "label": "1.13% christianity"
+        },
+        {
+          "label": "0.03% other"
+        }
+      ]
+    },
+    {
+      "label": "demonym",
+      "children": [
+        {
+          "label": "thai"
+        }
+      ]
+    },
+    {
+      "label": "government",
+      "children": [
+        {
+          "label": "unitary parliamentary constitutional monarchy"
+        }
+      ]
+    },
+    {
+      "label": "monarch",
+      "children": [
+        {
+          "label": "vajiralongkorn"
+        }
+      ]
+    },
+    {
+      "label": "prime_minister",
+      "children": [
+        {
+          "label": "anutin charnvirakul"
+        }
+      ]
+    },
+    {
+      "label": "legislature",
+      "children": [
+        {
+          "label": "national assembly"
+        }
+      ]
+    },
+    {
+      "label": "upper_house",
+      "children": [
+        {
+          "label": "senate"
+        }
+      ]
+    },
+    {
+      "label": "lower_house",
+      "children": [
+        {
+          "label": "house of representatives"
+        }
+      ]
+    },
+    {
+      "label": "formation",
+      "children": [
+        {
+          "label": "sukhothai_kingdom",
+          "children": [
+            {
+              "label": "1238–1438"
+            }
+          ]
+        },
+        {
+          "label": "ayutthaya_kingdom",
+          "children": [
+            {
+              "label": "1351–1767"
+            }
+          ]
+        },
+        {
+          "label": "thonburi_kingdom",
+          "children": [
+            {
+              "label": "1767–1782"
+            }
+          ]
+        },
+        {
+          "label": "rattanakosin_kingdom",
+          "children": [
+            {
+              "label": "6 april 1782"
+            }
+          ]
+        },
+        {
+          "label": "constitutional_monarchy",
+          "children": [
+            {
+              "label": "24 june 1932"
+            }
+          ]
+        },
+        {
+          "label": "current_constitution",
+          "children": [
+            {
+              "label": "6 april 2017"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "area",
+      "children": [
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "513,120 km"
+            }
+          ]
+        },
+        {
+          "label": "water",
+          "children": [
+            {
+              "label": "0.4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "population",
+      "children": [
+        {
+          "label": "2024_estimate",
+          "children": [
+            {
+              "label": "65,975,198"
+            }
+          ]
+        },
+        {
+          "label": "2010_census",
+          "children": [
+            {
+              "label": "64,785,909"
+            }
+          ]
+        },
+        {
+          "label": "density",
+          "children": [
+            {
+              "label": "132.1/km"
+            }
+          ]
+        },
+        {
+          "label": "gdp_ppp",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$1.853 trillion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$26,358"
+            }
+          ]
+        },
+        {
+          "label": "gdp_nominal",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$558.573 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$7,942"
+            }
+          ]
+        },
+        {
+          "label": "gini_2023",
+          "children": [
+            {
+              "label": "33.5 medium inequality"
+            }
+          ]
+        },
+        {
+          "label": "hdi_2023",
+          "children": [
+            {
+              "label": "0.798 high"
+            }
+          ]
+        },
+        {
+          "label": "currency",
+          "children": [
+            {
+              "label": "thai baht"
+            }
+          ]
+        },
+        {
+          "label": "time_zone",
+          "children": [
+            {
+              "label": "utc +7"
+            }
+          ]
+        },
+        {
+          "label": "date_format",
+          "children": [
+            {
+              "label": "dd/mm/yyyy"
+            }
+          ]
+        },
+        {
+          "label": "calling_code",
+          "children": [
+            {
+              "label": "+66"
+            }
+          ]
+        },
+        {
+          "label": "iso_3166_code",
+          "children": [
+            {
+              "label": "th"
+            }
+          ]
+        },
+        {
+          "label": "internet_tld",
+          "children": [
+            {
+              "label": ".th"
+            },
+            {
+              "label": ".ไทย"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

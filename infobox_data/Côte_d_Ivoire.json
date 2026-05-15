@@ -1,0 +1,456 @@
+{
+  "country": "Côte d'Ivoire",
+  "infobox_title": "Republic of Côte d'Ivoire République de Côte d'Ivoire ( French ) Kɔdiwari Jamana ( Dyula )",
+  "data": [
+    {
+      "label": "Capital",
+      "value": "Yamoussoukro 6°51′N 5°18′W ﻿ / ﻿ 6.850°N 5.300°W",
+      "links": [
+        {
+          "text": "Yamoussoukro",
+          "href": "https://en.wikipedia.org/wiki/Yamoussoukro"
+        },
+        {
+          "text": "6°51′N5°18′W﻿ / ﻿6.850°N 5.300°W",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Ivory_Coast&params=6_51_N_5_18_W_type:city"
+        }
+      ]
+    },
+    {
+      "label": "Largest city",
+      "value": "Abidjan",
+      "links": [
+        {
+          "text": "Abidjan",
+          "href": "https://en.wikipedia.org/wiki/Abidjan"
+        }
+      ]
+    },
+    {
+      "label": "Official languages",
+      "value": "French",
+      "links": [
+        {
+          "text": "French",
+          "href": "https://en.wikipedia.org/wiki/African_French"
+        }
+      ],
+      "sub_items": [
+        "French"
+      ]
+    },
+    {
+      "label": "Vernacular languages",
+      "value": "English French Arabic Bété Dyula Baoulé Abron Agni Senoufo others",
+      "links": [
+        {
+          "text": "English",
+          "href": "https://en.wikipedia.org/wiki/English_language"
+        },
+        {
+          "text": "French",
+          "href": "https://en.wikipedia.org/wiki/French_language"
+        },
+        {
+          "text": "Arabic",
+          "href": "https://en.wikipedia.org/wiki/Arabic"
+        },
+        {
+          "text": "Bété",
+          "href": "https://en.wikipedia.org/wiki/B%C3%A9t%C3%A9_languages"
+        },
+        {
+          "text": "Dyula",
+          "href": "https://en.wikipedia.org/wiki/Dyula_language"
+        },
+        {
+          "text": "Baoulé",
+          "href": "https://en.wikipedia.org/wiki/Baoul%C3%A9_language"
+        },
+        {
+          "text": "Abron",
+          "href": "https://en.wikipedia.org/wiki/Bono_dialect"
+        },
+        {
+          "text": "Agni",
+          "href": "https://en.wikipedia.org/wiki/Agni_language"
+        },
+        {
+          "text": "Senoufo",
+          "href": "https://en.wikipedia.org/wiki/Senufo_languages"
+        },
+        {
+          "text": "others",
+          "href": "https://en.wikipedia.org/wiki/Languages_of_Ivory_Coast"
+        }
+      ],
+      "sub_items": [
+        "English",
+        "French",
+        "Arabic",
+        "Bété",
+        "Dyula",
+        "Baoulé",
+        "Abron",
+        "Agni",
+        "Senoufo",
+        "others"
+      ]
+    },
+    {
+      "label": "Ethnic groups (2021 census)",
+      "value": "78.0% Ivorian 38.0% Akan 22.0% Northern Mande 22.0% Voltaiques/Gur 9.1% Kru 8.6% Southern Mande 0.3% Naturalized Ivorian 22.0% non-Ivorian",
+      "links": [
+        {
+          "text": "Akan",
+          "href": "https://en.wikipedia.org/wiki/Akan_people"
+        },
+        {
+          "text": "Northern Mande",
+          "href": "https://en.wikipedia.org/wiki/Mand%C3%A9_peoples"
+        },
+        {
+          "text": "Kru",
+          "href": "https://en.wikipedia.org/wiki/Kru_people"
+        },
+        {
+          "text": "Southern Mande",
+          "href": "https://en.wikipedia.org/wiki/Mand%C3%A9_peoples"
+        },
+        {
+          "text": "non-Ivorian",
+          "href": "https://en.wikipedia.org/wiki/Demographics_of_Ivory_Coast"
+        }
+      ],
+      "sub_items": [
+        "78.0% Ivorian 38.0% Akan 22.0% Northern Mande 22.0% Voltaiques/Gur 9.1% Kru 8.6% Southern Mande 0.3% Naturalized Ivorian",
+        "38.0% Akan",
+        "22.0% Northern Mande",
+        "22.0% Voltaiques/Gur",
+        "9.1% Kru",
+        "8.6% Southern Mande",
+        "0.3% Naturalized Ivorian",
+        "22.0% non-Ivorian"
+      ]
+    },
+    {
+      "label": "Religion (2021 census)",
+      "value": "42.5% Islam 39.8% Christianity 12.6% no religion 2.2% traditional faiths 2.2% unanswered 0.7% other religions",
+      "links": [
+        {
+          "text": "Islam",
+          "href": "https://en.wikipedia.org/wiki/Islam_in_Ivory_Coast"
+        },
+        {
+          "text": "Christianity",
+          "href": "https://en.wikipedia.org/wiki/Christianity_in_Ivory_Coast"
+        },
+        {
+          "text": "no religion",
+          "href": "https://en.wikipedia.org/wiki/Irreligion"
+        },
+        {
+          "text": "traditional faiths",
+          "href": "https://en.wikipedia.org/wiki/Traditional_African_religions"
+        },
+        {
+          "text": "other religions",
+          "href": "https://en.wikipedia.org/wiki/Religion_in_Ivory_Coast"
+        }
+      ],
+      "sub_items": [
+        "42.5% Islam",
+        "39.8% Christianity",
+        "12.6% no religion",
+        "2.2% traditional faiths",
+        "2.2% unanswered",
+        "0.7% other religions"
+      ]
+    },
+    {
+      "label": "Demonyms",
+      "value": "Ivorian Ivory Coasters",
+      "links": [
+        {
+          "text": "Ivorian",
+          "href": "https://en.wikipedia.org/wiki/Ivorian_people"
+        }
+      ],
+      "sub_items": [
+        "Ivorian",
+        "Ivory Coasters"
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Unitary presidential republic under an authoritarian regime",
+      "links": [
+        {
+          "text": "presidential republic",
+          "href": "https://en.wikipedia.org/wiki/Presidential_system"
+        },
+        {
+          "text": "authoritarian regime",
+          "href": "https://en.wikipedia.org/wiki/Authoritarianism"
+        }
+      ]
+    },
+    {
+      "label": "• President",
+      "value": "Alassane Ouattara",
+      "links": [
+        {
+          "text": "Alassane Ouattara",
+          "href": "https://en.wikipedia.org/wiki/Alassane_Ouattara"
+        }
+      ]
+    },
+    {
+      "label": "• Vice President",
+      "value": "Tiémoko Meyliet Koné",
+      "links": [
+        {
+          "text": "Tiémoko Meyliet Koné",
+          "href": "https://en.wikipedia.org/wiki/Ti%C3%A9moko_Meyliet_Kon%C3%A9"
+        }
+      ]
+    },
+    {
+      "label": "• Prime Minister",
+      "value": "Robert Beugré Mambé",
+      "links": [
+        {
+          "text": "Robert Beugré Mambé",
+          "href": "https://en.wikipedia.org/wiki/Robert_Beugr%C3%A9_Mamb%C3%A9"
+        }
+      ]
+    },
+    {
+      "label": "• Deputy/Vice-Prime Minister",
+      "value": "Téné Birahima Ouattara",
+      "links": [
+        {
+          "text": "Téné Birahima Ouattara",
+          "href": "https://en.wikipedia.org/wiki/T%C3%A9n%C3%A9_Birahima_Ouattara"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "Parliament of Ivory Coast",
+      "links": [
+        {
+          "text": "Parliament of Ivory Coast",
+          "href": "https://en.wikipedia.org/wiki/Parliament_of_Ivory_Coast"
+        }
+      ]
+    },
+    {
+      "label": "• Upper house",
+      "value": "Senate",
+      "links": [
+        {
+          "text": "Senate",
+          "href": "https://en.wikipedia.org/wiki/Senate_of_Ivory_Coast"
+        }
+      ]
+    },
+    {
+      "label": "• Lower house",
+      "value": "National Assembly",
+      "links": [
+        {
+          "text": "National Assembly",
+          "href": "https://en.wikipedia.org/wiki/National_Assembly_(Ivory_Coast)"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "History",
+      "rows": [
+        {
+          "label": "• Republic established",
+          "value": "4 December 1958"
+        },
+        {
+          "label": "• Independence from France",
+          "value": "7 August 1960"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "322,462 km (124,503 sq mi) ( 68th )",
+          "links": [
+            {
+              "text": "68th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "1.4"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• July 2024 estimate",
+          "value": "31,500,000 ( 49th )",
+          "links": [
+            {
+              "text": "49th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• December 2021 census",
+          "value": "29,389,150"
+        },
+        {
+          "label": "• Density",
+          "value": "97.7/km (253.0/sq mi) ( 139th )",
+          "links": [
+            {
+              "text": "139th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2023 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$202.647 billion ( 78th )",
+          "links": [
+            {
+              "text": "78th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$6,960 ( 138th )",
+          "links": [
+            {
+              "text": "138th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2023 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$79.430 billion ( 84th )",
+          "links": [
+            {
+              "text": "84th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$2,728 ( 141st )",
+          "links": [
+            {
+              "text": "141st",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "Gini (2021)",
+          "value": "35.3 medium inequality"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.582 medium ( 157th )",
+          "links": [
+            {
+              "text": "157th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "West African CFA franc ( XOF )",
+          "links": [
+            {
+              "text": "West African CFA franc",
+              "href": "https://en.wikipedia.org/wiki/West_African_CFA_franc"
+            },
+            {
+              "text": "XOF",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC ±00:00 ( GMT )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "GMT",
+              "href": "https://en.wikipedia.org/wiki/Greenwich_Mean_Time"
+            }
+          ]
+        },
+        {
+          "label": "Date format",
+          "value": "dd/mm/yyyy"
+        },
+        {
+          "label": "Calling code",
+          "value": "+225",
+          "links": [
+            {
+              "text": "+225",
+              "href": "https://en.wikipedia.org/wiki/Telephone_numbers_in_Ivory_Coast"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "CI",
+          "links": [
+            {
+              "text": "CI",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:CI"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".ci",
+          "links": [
+            {
+              "text": ".ci",
+              "href": "https://en.wikipedia.org/wiki/.ci"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

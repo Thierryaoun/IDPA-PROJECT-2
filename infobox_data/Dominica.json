@@ -1,0 +1,318 @@
+{
+  "country": "Dominica",
+  "infobox_title": "Commonwealth of Dominica Waitukubuli ( Island Carib ) Komwèl Donmnik ( Dominican Creole French ) Kamanwel a Domineeka ( Kokoy )",
+  "data": [
+    {
+      "label": "Capital and largest city",
+      "value": "Roseau 15°18′N 61°23′W ﻿ / ﻿ 15.300°N 61.383°W",
+      "links": [
+        {
+          "text": "Roseau",
+          "href": "https://en.wikipedia.org/wiki/Roseau"
+        },
+        {
+          "text": "15°18′N61°23′W﻿ / ﻿15.300°N 61.383°W",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Dominica&params=15_18_N_61_23_W_type:city(17,000)_region:DM"
+        }
+      ]
+    },
+    {
+      "label": "Official languages",
+      "value": "English",
+      "links": [
+        {
+          "text": "English",
+          "href": "https://en.wikipedia.org/wiki/English_language"
+        }
+      ]
+    },
+    {
+      "label": "Vernacular languages",
+      "value": "Dominican Creole French , Kokoy",
+      "links": [
+        {
+          "text": "Dominican Creole French",
+          "href": "https://en.wikipedia.org/wiki/Dominican_Creole_French"
+        },
+        {
+          "text": "Kokoy",
+          "href": "https://en.wikipedia.org/wiki/Kokoy"
+        }
+      ]
+    },
+    {
+      "label": "Ethnic groups (2014 )",
+      "value": "75% African 19% multiracial 4% Kalinago 0.8% European or other 0.2% unspecified",
+      "links": [
+        {
+          "text": "African",
+          "href": "https://en.wikipedia.org/wiki/Afro-Dominican_(Dominica)"
+        },
+        {
+          "text": "multiracial",
+          "href": "https://en.wikipedia.org/wiki/Multiracial"
+        },
+        {
+          "text": "Kalinago",
+          "href": "https://en.wikipedia.org/wiki/Kalinago"
+        },
+        {
+          "text": "European",
+          "href": "https://en.wikipedia.org/wiki/White_Dominican_(Dominica)"
+        }
+      ],
+      "sub_items": [
+        "75% African",
+        "19% multiracial",
+        "4% Kalinago",
+        "0.8% European or other",
+        "0.2% unspecified"
+      ]
+    },
+    {
+      "label": "Religion (2020)",
+      "value": "94.4% Christianity 3.0% folk religions 1.7% other 0.9% none",
+      "links": [
+        {
+          "text": "Christianity",
+          "href": "https://en.wikipedia.org/wiki/Christianity"
+        },
+        {
+          "text": "folk religions",
+          "href": "https://en.wikipedia.org/wiki/Religion_in_Dominica"
+        },
+        {
+          "text": "other",
+          "href": "https://en.wikipedia.org/wiki/Religion_in_Dominica"
+        },
+        {
+          "text": "none",
+          "href": "https://en.wikipedia.org/wiki/Irreligion"
+        }
+      ],
+      "sub_items": [
+        "94.4% Christianity",
+        "3.0% folk religions",
+        "1.7% other",
+        "0.9% none"
+      ]
+    },
+    {
+      "label": "Demonyms",
+      "value": "Dominican (pronounced / ˌ d ɒ m ɪ ˈ n iː k ə n / )",
+      "links": [
+        {
+          "text": "Dominican",
+          "href": "https://en.wikipedia.org/wiki/Demographics_of_Dominica"
+        },
+        {
+          "text": "/ˌdɒmɪˈniːkən/",
+          "href": "https://en.wikipedia.org/wiki/Help:IPA/English"
+        }
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Unitary parliamentary republic",
+      "links": [
+        {
+          "text": "Unitary parliamentary republic",
+          "href": "https://en.wikipedia.org/wiki/Unitary_parliamentary_republic"
+        }
+      ]
+    },
+    {
+      "label": "• President",
+      "value": "Sylvanie Burton",
+      "links": [
+        {
+          "text": "Sylvanie Burton",
+          "href": "https://en.wikipedia.org/wiki/Sylvanie_Burton"
+        }
+      ]
+    },
+    {
+      "label": "• Prime Minister",
+      "value": "Roosevelt Skerrit",
+      "links": [
+        {
+          "text": "Roosevelt Skerrit",
+          "href": "https://en.wikipedia.org/wiki/Roosevelt_Skerrit"
+        }
+      ]
+    },
+    {
+      "label": "• Speaker of the House of Assembly",
+      "value": "Joseph Isaac",
+      "links": [
+        {
+          "text": "Joseph Isaac",
+          "href": "https://en.wikipedia.org/wiki/Joseph_Isaac"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "House of Assembly",
+      "links": [
+        {
+          "text": "House of Assembly",
+          "href": "https://en.wikipedia.org/wiki/House_of_Assembly_of_Dominica"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Independence from the United Kingdom",
+      "rows": [
+        {
+          "label": "• West Indies Associated States",
+          "value": "1 March 1967"
+        },
+        {
+          "label": "• Sovereignty and constitution",
+          "value": "3 November 1978"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "750 km (290 sq mi) ( 174th )",
+          "links": [
+            {
+              "text": "174th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "1.6"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2021 estimate",
+          "value": "72,412 ( 186th )",
+          "links": [
+            {
+              "text": "186th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• 2011 census",
+          "value": "71,293"
+        },
+        {
+          "label": "• Density",
+          "value": "105/km (271.9/sq mi) ( 95th )",
+          "links": [
+            {
+              "text": "95th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2018 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$688 million"
+        },
+        {
+          "label": "• Per capita",
+          "value": "$9,726"
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2018 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$485 million"
+        },
+        {
+          "label": "• Per capita",
+          "value": "$7,860"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.761 high ( 98th )",
+          "links": [
+            {
+              "text": "98th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "East Caribbean dollar ( XCD )",
+          "links": [
+            {
+              "text": "East Caribbean dollar",
+              "href": "https://en.wikipedia.org/wiki/East_Caribbean_dollar"
+            },
+            {
+              "text": "XCD",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC –4 ( AST )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "AST",
+              "href": "https://en.wikipedia.org/wiki/Atlantic_Standard_Time"
+            }
+          ]
+        },
+        {
+          "label": "Date format",
+          "value": "dd/mm/yyyy"
+        },
+        {
+          "label": "Calling code",
+          "value": "+767"
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "DM",
+          "links": [
+            {
+              "text": "DM",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:DM"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".dm",
+          "links": [
+            {
+              "text": ".dm",
+              "href": "https://en.wikipedia.org/wiki/.dm"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

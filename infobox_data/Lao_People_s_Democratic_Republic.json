@@ -1,0 +1,428 @@
+{
+  "country": "Lao People's Democratic Republic",
+  "infobox_title": "Lao People's Democratic Republic ສາທາລະນະລັດ ປະຊາທິປະໄຕ ປະຊາຊົນລາວ ( Lao ) Sathalanalat Paxathipatai Paxaxon Lao",
+  "data": [
+    {
+      "label": "Capital and largest city",
+      "value": "Vientiane 17°58′N 102°36′E ﻿ / ﻿ 17.967°N 102.600°E",
+      "links": [
+        {
+          "text": "Vientiane",
+          "href": "https://en.wikipedia.org/wiki/Vientiane"
+        },
+        {
+          "text": "17°58′N102°36′E﻿ / ﻿17.967°N 102.600°E",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Laos&params=17_58_N_102_36_E_type:city"
+        }
+      ]
+    },
+    {
+      "label": "Official languages",
+      "value": "Lao",
+      "links": [
+        {
+          "text": "Lao",
+          "href": "https://en.wikipedia.org/wiki/Lao_language"
+        }
+      ]
+    },
+    {
+      "label": "Spoken languages",
+      "value": "Lao Khmu Hmong Phu Thai Tai",
+      "links": [
+        {
+          "text": "Lao",
+          "href": "https://en.wikipedia.org/wiki/Lao_language"
+        },
+        {
+          "text": "Khmu",
+          "href": "https://en.wikipedia.org/wiki/Khmu_language"
+        },
+        {
+          "text": "Hmong",
+          "href": "https://en.wikipedia.org/wiki/Hmong_language"
+        },
+        {
+          "text": "Phu Thai",
+          "href": "https://en.wikipedia.org/wiki/Phu_Thai_language"
+        },
+        {
+          "text": "Tai",
+          "href": "https://en.wikipedia.org/wiki/Tai_language"
+        }
+      ],
+      "sub_items": [
+        "Lao",
+        "Khmu",
+        "Hmong",
+        "Phu Thai",
+        "Tai"
+      ]
+    },
+    {
+      "label": "Ethnic groups (2015 )",
+      "value": "53.2% Lao 11% Khmu 9.2% Hmong 3.4% Phu Thai 3.1% Tai 2.5% Makong 2.2% Katang 2.0% Lue 1.8% Akha 11.6% other",
+      "links": [
+        {
+          "text": "Lao",
+          "href": "https://en.wikipedia.org/wiki/Lao_people"
+        },
+        {
+          "text": "Khmu",
+          "href": "https://en.wikipedia.org/wiki/Khmu_people"
+        },
+        {
+          "text": "Hmong",
+          "href": "https://en.wikipedia.org/wiki/Hmong_people"
+        },
+        {
+          "text": "Phu Thai",
+          "href": "https://en.wikipedia.org/wiki/Phu_Thai_language#Speakers"
+        },
+        {
+          "text": "Tai",
+          "href": "https://en.wikipedia.org/wiki/Tai_peoples"
+        },
+        {
+          "text": "Katang",
+          "href": "https://en.wikipedia.org/wiki/Katang_people"
+        },
+        {
+          "text": "Lue",
+          "href": "https://en.wikipedia.org/wiki/Lu_people"
+        },
+        {
+          "text": "Akha",
+          "href": "https://en.wikipedia.org/wiki/Akha_people"
+        }
+      ],
+      "sub_items": [
+        "53.2% Lao",
+        "11% Khmu",
+        "9.2% Hmong",
+        "3.4% Phu Thai",
+        "3.1% Tai",
+        "2.5% Makong",
+        "2.2% Katang",
+        "2.0% Lue",
+        "1.8% Akha",
+        "11.6% other"
+      ]
+    },
+    {
+      "label": "Religion",
+      "value": "66.0% Buddhism 30.7% Tai folk religion 1.5% Christianity 1.8% other / none",
+      "links": [
+        {
+          "text": "Buddhism",
+          "href": "https://en.wikipedia.org/wiki/Buddhism_in_Laos"
+        },
+        {
+          "text": "Tai folk religion",
+          "href": "https://en.wikipedia.org/wiki/Tai_folk_religion"
+        },
+        {
+          "text": "Christianity",
+          "href": "https://en.wikipedia.org/wiki/Christianity_in_Laos"
+        },
+        {
+          "text": "other",
+          "href": "https://en.wikipedia.org/wiki/Religion_in_Laos"
+        },
+        {
+          "text": "none",
+          "href": "https://en.wikipedia.org/wiki/Irreligion"
+        }
+      ],
+      "sub_items": [
+        "66.0% Buddhism",
+        "30.7% Tai folk religion",
+        "1.5% Christianity",
+        "1.8% other / none"
+      ]
+    },
+    {
+      "label": "Demonym",
+      "value": "Laotian",
+      "links": [
+        {
+          "text": "Laotian",
+          "href": "https://en.wikipedia.org/wiki/Laotian_people"
+        }
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Unitary communist state",
+      "links": [
+        {
+          "text": "communist state",
+          "href": "https://en.wikipedia.org/wiki/Communist_state"
+        }
+      ]
+    },
+    {
+      "label": "• General Secretary , and President",
+      "value": "Thongloun Sisoulith",
+      "links": [
+        {
+          "text": "Thongloun Sisoulith",
+          "href": "https://en.wikipedia.org/wiki/Thongloun_Sisoulith"
+        }
+      ]
+    },
+    {
+      "label": "• Prime Minister",
+      "value": "Sonexay Siphandone",
+      "links": [
+        {
+          "text": "Sonexay Siphandone",
+          "href": "https://en.wikipedia.org/wiki/Sonexay_Siphandone"
+        }
+      ]
+    },
+    {
+      "label": "• Vice President",
+      "value": "Bounthong Chitmany Pany Yathotou",
+      "links": [
+        {
+          "text": "Bounthong Chitmany",
+          "href": "https://en.wikipedia.org/wiki/Bounthong_Chitmany"
+        },
+        {
+          "text": "Pany Yathotou",
+          "href": "https://en.wikipedia.org/wiki/Pany_Yathotou"
+        }
+      ]
+    },
+    {
+      "label": "• President of the National Assembly",
+      "value": "Saysomphone Phomvihane",
+      "links": [
+        {
+          "text": "Saysomphone Phomvihane",
+          "href": "https://en.wikipedia.org/wiki/Saysomphone_Phomvihane"
+        }
+      ]
+    },
+    {
+      "label": "• Chief Justice",
+      "value": "Viengthong Siphandone",
+      "links": [
+        {
+          "text": "Viengthong Siphandone",
+          "href": "https://en.wikipedia.org/wiki/Viengthong_Siphandone"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "National Assembly",
+      "links": [
+        {
+          "text": "National Assembly",
+          "href": "https://en.wikipedia.org/wiki/National_Assembly_(Laos)"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Formation",
+      "rows": [
+        {
+          "label": "• Kingdom of Lan Xang",
+          "value": "1353–1707"
+        },
+        {
+          "label": "• Kingdoms of Luang Prabang , Vientiane and Champasak",
+          "value": "1707–1778"
+        },
+        {
+          "label": "• Vassals of Siam",
+          "value": "1778–1893"
+        },
+        {
+          "label": "• French protectorate",
+          "value": "1893–1953"
+        },
+        {
+          "label": "• Unified kingdom",
+          "value": "11 May 1947"
+        },
+        {
+          "label": "• Independence from France",
+          "value": "22 October 1953"
+        },
+        {
+          "label": "• Communist state established",
+          "value": "2 December 1975"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "236,800 km (91,400 sq mi) ( 82nd )",
+          "links": [
+            {
+              "text": "82nd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "2"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2024 estimate",
+          "value": "7,953,557 ( 103rd )",
+          "links": [
+            {
+              "text": "103rd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• Density",
+          "value": "33.21/km (86.0/sq mi) ( 183rd )",
+          "links": [
+            {
+              "text": "183rd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$78.850 billion ( 108th )",
+          "links": [
+            {
+              "text": "108th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$10,120 ( 126th )",
+          "links": [
+            {
+              "text": "126th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$16.320 billion ( 138th )",
+          "links": [
+            {
+              "text": "138th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$2,100 ( 150th )",
+          "links": [
+            {
+              "text": "150th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "Gini (2012)",
+          "value": "36.4 medium inequality"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.617 medium ( 147th )",
+          "links": [
+            {
+              "text": "147th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "Kip (₭) ( LAK )",
+          "links": [
+            {
+              "text": "Kip",
+              "href": "https://en.wikipedia.org/wiki/Lao_kip"
+            },
+            {
+              "text": "LAK",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC +7 ( ICT )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "ICT",
+              "href": "https://en.wikipedia.org/wiki/Time_in_Laos"
+            }
+          ]
+        },
+        {
+          "label": "Calling code",
+          "value": "+856",
+          "links": [
+            {
+              "text": "+856",
+              "href": "https://en.wikipedia.org/wiki/%2B856"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "LA",
+          "links": [
+            {
+              "text": "LA",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:LA"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".la",
+          "links": [
+            {
+              "text": ".la",
+              "href": "https://en.wikipedia.org/wiki/.la"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,352 @@
+{
+  "country": "Tajikistan",
+  "infobox_title": "Republic of Tajikistan Ҷумҳурии Тоҷикистон ( Tajik ) Республика Таджикистан ( Russian )",
+  "data": [
+    {
+      "label": "Capital and largest city",
+      "value": "Dushanbe 38°33′N 68°48′E ﻿ / ﻿ 38.550°N 68.800°E",
+      "links": [
+        {
+          "text": "Dushanbe",
+          "href": "https://en.wikipedia.org/wiki/Dushanbe"
+        },
+        {
+          "text": "38°33′N68°48′E﻿ / ﻿38.550°N 68.800°E",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Tajikistan&params=38_33_N_68_48_E_type:city"
+        }
+      ]
+    },
+    {
+      "label": "Official languages",
+      "value": "Tajik Russian",
+      "links": [
+        {
+          "text": "Tajik",
+          "href": "https://en.wikipedia.org/wiki/Tajik_language"
+        },
+        {
+          "text": "Russian",
+          "href": "https://en.wikipedia.org/wiki/Russian_language"
+        }
+      ],
+      "sub_items": [
+        "Tajik",
+        "Russian"
+      ]
+    },
+    {
+      "label": "Ethnic groups (2020)",
+      "value": "86.1% Tajiks 11.3% Uzbeks 0.4% Kyrgyz 0.3% Russians 1.9% other",
+      "links": [
+        {
+          "text": "Tajiks",
+          "href": "https://en.wikipedia.org/wiki/Tajiks"
+        },
+        {
+          "text": "Uzbeks",
+          "href": "https://en.wikipedia.org/wiki/Uzbeks"
+        },
+        {
+          "text": "Kyrgyz",
+          "href": "https://en.wikipedia.org/wiki/Kyrgyz_people"
+        },
+        {
+          "text": "Russians",
+          "href": "https://en.wikipedia.org/wiki/Russians"
+        },
+        {
+          "text": "other",
+          "href": "https://en.wikipedia.org/wiki/List_of_ethnic_groups_in_Tajikistan"
+        }
+      ],
+      "sub_items": [
+        "86.1% Tajiks",
+        "11.3% Uzbeks",
+        "0.4% Kyrgyz",
+        "0.3% Russians",
+        "1.9% other"
+      ]
+    },
+    {
+      "label": "Religion (2020)",
+      "value": "97.5% Islam 0.7% Christianity 1.7% irreligion 0.2% others",
+      "links": [
+        {
+          "text": "Islam",
+          "href": "https://en.wikipedia.org/wiki/Islam_in_Tajikistan"
+        },
+        {
+          "text": "Christianity",
+          "href": "https://en.wikipedia.org/wiki/Christianity_in_Tajikistan"
+        },
+        {
+          "text": "irreligion",
+          "href": "https://en.wikipedia.org/wiki/Irreligion"
+        },
+        {
+          "text": "others",
+          "href": "https://en.wikipedia.org/wiki/Religion_in_Tajikistan#Other_religions"
+        }
+      ]
+    },
+    {
+      "label": "Demonyms",
+      "value": "Tajikistani Tajik",
+      "links": [
+        {
+          "text": "Tajik",
+          "href": "https://en.wikipedia.org/wiki/Tajiks"
+        }
+      ],
+      "sub_items": [
+        "Tajikistani",
+        "Tajik"
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Unitary presidential republic under an authoritarian dictatorship",
+      "links": [
+        {
+          "text": "presidential republic",
+          "href": "https://en.wikipedia.org/wiki/Presidential_system"
+        },
+        {
+          "text": "authoritarian",
+          "href": "https://en.wikipedia.org/wiki/Authoritarianism"
+        }
+      ]
+    },
+    {
+      "label": "• President",
+      "value": "Emomali Rahmon",
+      "links": [
+        {
+          "text": "Emomali Rahmon",
+          "href": "https://en.wikipedia.org/wiki/Emomali_Rahmon"
+        }
+      ]
+    },
+    {
+      "label": "• Prime Minister",
+      "value": "Kokhir Rasulzoda",
+      "links": [
+        {
+          "text": "Kokhir Rasulzoda",
+          "href": "https://en.wikipedia.org/wiki/Kokhir_Rasulzoda"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "Supreme Assembly",
+      "links": [
+        {
+          "text": "Supreme Assembly",
+          "href": "https://en.wikipedia.org/wiki/Supreme_Assembly_(Tajikistan)"
+        }
+      ]
+    },
+    {
+      "label": "• Upper house",
+      "value": "National Assembly",
+      "links": [
+        {
+          "text": "National Assembly",
+          "href": "https://en.wikipedia.org/wiki/National_Assembly_of_Tajikistan"
+        }
+      ]
+    },
+    {
+      "label": "• Lower house",
+      "value": "Assembly of Representatives",
+      "links": [
+        {
+          "text": "Assembly of Representatives",
+          "href": "https://en.wikipedia.org/wiki/Assembly_of_Representatives_(Tajikistan)"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Independence from the Soviet Union",
+      "rows": [
+        {
+          "label": "• Declared",
+          "value": "9 September 1991"
+        },
+        {
+          "label": "• Recognised",
+          "value": "26 December 1991"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "143,100 km (55,300 sq mi) ( 94th )",
+          "links": [
+            {
+              "text": "94th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water",
+          "value": "2,575 km (994 sq mi)"
+        },
+        {
+          "label": "• Water (%)",
+          "value": "1.8"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2025 estimate",
+          "value": "10,786,734"
+        },
+        {
+          "label": "• Density",
+          "value": "75.4/km (195.3/sq mi)"
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2026 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$67.75 billion ( 124th )",
+          "links": [
+            {
+              "text": "124th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$6,434 ( 147th )",
+          "links": [
+            {
+              "text": "147th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2026 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$18.94 billion ( 139st )",
+          "links": [
+            {
+              "text": "139st",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$1,799 ( 156th )",
+          "links": [
+            {
+              "text": "156th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "Gini (2015)",
+          "value": "34 medium inequality"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.691 medium ( 128th )",
+          "links": [
+            {
+              "text": "128th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "Somoni ( TJS )",
+          "links": [
+            {
+              "text": "Somoni",
+              "href": "https://en.wikipedia.org/wiki/Tajikistani_somoni"
+            },
+            {
+              "text": "TJS",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC +5 ( TJT )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "TJT",
+              "href": "https://en.wikipedia.org/wiki/Tajikistan_Time"
+            }
+          ]
+        },
+        {
+          "label": "Date format",
+          "value": "dd.mm.yyyy",
+          "links": [
+            {
+              "text": "dd.mm.yyyy",
+              "href": "https://en.wikipedia.org/wiki/Date_format"
+            }
+          ]
+        },
+        {
+          "label": "Calling code",
+          "value": "+992",
+          "links": [
+            {
+              "text": "+992",
+              "href": "https://en.wikipedia.org/wiki/%2B992"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "TJ",
+          "links": [
+            {
+              "text": "TJ",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:TJ"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".tj",
+          "links": [
+            {
+              "text": ".tj",
+              "href": "https://en.wikipedia.org/wiki/.tj"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

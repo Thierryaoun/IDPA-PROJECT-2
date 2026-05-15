@@ -1,0 +1,334 @@
+{
+  "country": "Mauritania",
+  "infobox_title": "Islamic Republic of Mauritania الجمهورية الإسلامية الموريتانية ( Arabic ) al-Jumhūriyyah al-Islāmiyyah al-Mūrītāniyyah",
+  "data": [
+    {
+      "label": "Capital and largest city",
+      "value": "Nouakchott 18°09′N 15°58′W ﻿ / ﻿ 18.150°N 15.967°W",
+      "links": [
+        {
+          "text": "Nouakchott",
+          "href": "https://en.wikipedia.org/wiki/Nouakchott"
+        },
+        {
+          "text": "18°09′N15°58′W﻿ / ﻿18.150°N 15.967°W",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Mauritania&params=18_09_N_15_58_W_type:city(1,200,000_region:MR"
+        }
+      ]
+    },
+    {
+      "label": "Official languages",
+      "value": "Arabic",
+      "links": [
+        {
+          "text": "Arabic",
+          "href": "https://en.wikipedia.org/wiki/Modern_Standard_Arabic"
+        }
+      ]
+    },
+    {
+      "label": "Recognised national languages",
+      "value": "Arabic Pulaar Soninke Wolof",
+      "links": [
+        {
+          "text": "Arabic",
+          "href": "https://en.wikipedia.org/wiki/Arabic"
+        },
+        {
+          "text": "Pulaar",
+          "href": "https://en.wikipedia.org/wiki/Pulaar_language"
+        },
+        {
+          "text": "Soninke",
+          "href": "https://en.wikipedia.org/wiki/Soninke_language"
+        },
+        {
+          "text": "Wolof",
+          "href": "https://en.wikipedia.org/wiki/Wolof_language"
+        }
+      ],
+      "sub_items": [
+        "Arabic",
+        "Pulaar",
+        "Soninke",
+        "Wolof"
+      ]
+    },
+    {
+      "label": "Ethnic groups",
+      "value": "40% Haratin 30% Beidane 30% Halpulaar , Fulani , Soninké , and Wolof",
+      "links": [
+        {
+          "text": "Haratin",
+          "href": "https://en.wikipedia.org/wiki/Haratin"
+        },
+        {
+          "text": "Beidane",
+          "href": "https://en.wikipedia.org/wiki/Beidane"
+        },
+        {
+          "text": "Halpulaar",
+          "href": "https://en.wikipedia.org/wiki/Halpulaar"
+        },
+        {
+          "text": "Fulani",
+          "href": "https://en.wikipedia.org/wiki/Fulani"
+        },
+        {
+          "text": "Soninké",
+          "href": "https://en.wikipedia.org/wiki/Soninke_people"
+        },
+        {
+          "text": "Wolof",
+          "href": "https://en.wikipedia.org/wiki/Wolof_people"
+        }
+      ],
+      "sub_items": [
+        "40% Haratin",
+        "30% Beidane",
+        "30% Halpulaar , Fulani , Soninké , and Wolof"
+      ]
+    },
+    {
+      "label": "Religion",
+      "value": "Sunni Islam ( official )",
+      "links": [
+        {
+          "text": "Sunni Islam",
+          "href": "https://en.wikipedia.org/wiki/Islam_in_Mauritania"
+        },
+        {
+          "text": "official",
+          "href": "https://en.wikipedia.org/wiki/State_religion"
+        }
+      ]
+    },
+    {
+      "label": "Demonym",
+      "value": "Mauritanian",
+      "links": [
+        {
+          "text": "Mauritanian",
+          "href": "https://en.wikipedia.org/wiki/Demographics_of_Mauritania"
+        }
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Unitary semi-presidential Islamic republic",
+      "links": [
+        {
+          "text": "Islamic republic",
+          "href": "https://en.wikipedia.org/wiki/Islamic_republic"
+        }
+      ]
+    },
+    {
+      "label": "• President",
+      "value": "Mohamed Ould Ghazouani",
+      "links": [
+        {
+          "text": "Mohamed Ould Ghazouani",
+          "href": "https://en.wikipedia.org/wiki/Mohamed_Ould_Ghazouani"
+        }
+      ]
+    },
+    {
+      "label": "• Prime Minister",
+      "value": "Mokhtar Ould Djay",
+      "links": [
+        {
+          "text": "Mokhtar Ould Djay",
+          "href": "https://en.wikipedia.org/wiki/Mokhtar_Ould_Djay"
+        }
+      ]
+    },
+    {
+      "label": "• President of the National Assembly",
+      "value": "Mohamed Ould Meguett"
+    },
+    {
+      "label": "Legislature",
+      "value": "National Assembly",
+      "links": [
+        {
+          "text": "National Assembly",
+          "href": "https://en.wikipedia.org/wiki/National_Assembly_(Mauritania)"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Independence from France",
+      "rows": [
+        {
+          "label": "• Republic established",
+          "value": "28 November 1958"
+        },
+        {
+          "label": "• Independence from France",
+          "value": "28 November 1960"
+        },
+        {
+          "label": "• Current constitution",
+          "value": "12 July 1991"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "1,030,000 km (400,000 sq mi) ( 28th )",
+          "links": [
+            {
+              "text": "28th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2026 estimate",
+          "value": "5,461,319‎ ( 123rd )",
+          "links": [
+            {
+              "text": "123rd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• Density",
+          "value": "3.4/km (8.8/sq mi)"
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$40.060 billion ( 143rd )",
+          "links": [
+            {
+              "text": "143rd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$8,650 ( 130th )",
+          "links": [
+            {
+              "text": "130th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$11.470 billion ( 149th )",
+          "links": [
+            {
+              "text": "149th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$2,480 ( 144th )",
+          "links": [
+            {
+              "text": "144th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "Gini (2014)",
+          "value": "32.6 medium inequality"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.563 medium ( 163rd )",
+          "links": [
+            {
+              "text": "163rd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "Ouguiya ( MRU )",
+          "links": [
+            {
+              "text": "Ouguiya",
+              "href": "https://en.wikipedia.org/wiki/Mauritanian_ouguiya"
+            },
+            {
+              "text": "MRU",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC ±00:00 ( GMT )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "GMT",
+              "href": "https://en.wikipedia.org/wiki/Greenwich_Mean_Time"
+            }
+          ]
+        },
+        {
+          "label": "Calling code",
+          "value": "+222",
+          "links": [
+            {
+              "text": "+222",
+              "href": "https://en.wikipedia.org/wiki/%2B222"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "MR",
+          "links": [
+            {
+              "text": "MR",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:MR"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".mr",
+          "links": [
+            {
+              "text": ".mr",
+              "href": "https://en.wikipedia.org/wiki/.mr"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,308 @@
+{
+  "label": "country",
+  "children": [
+    {
+      "label": "name",
+      "children": [
+        {
+          "label": "marshall islands"
+        }
+      ]
+    },
+    {
+      "label": "infobox_title",
+      "children": [
+        {
+          "label": "republic of the marshall islands aolepān aorōkin m̧ajeļ"
+        }
+      ]
+    },
+    {
+      "label": "status",
+      "children": [
+        {
+          "label": "un member state under a compact of free association with the united states"
+        }
+      ]
+    },
+    {
+      "label": "capital_and_largest_city",
+      "children": [
+        {
+          "label": "majuro / 7."
+        }
+      ]
+    },
+    {
+      "label": "official_languages",
+      "children": [
+        {
+          "label": "marshallese"
+        },
+        {
+          "label": "english"
+        }
+      ]
+    },
+    {
+      "label": "ethnic_groups_2021",
+      "children": [
+        {
+          "label": "95.6% marshallese"
+        },
+        {
+          "label": "4.4% others"
+        }
+      ]
+    },
+    {
+      "label": "religion_2026",
+      "children": [
+        {
+          "label": "96.2% christianity"
+        },
+        {
+          "label": "79.9% protestantism"
+        },
+        {
+          "label": "9.3% catholicism"
+        },
+        {
+          "label": "7.0% other christian"
+        },
+        {
+          "label": "1.1% no religion"
+        },
+        {
+          "label": "2.7% others"
+        }
+      ]
+    },
+    {
+      "label": "demonym",
+      "children": [
+        {
+          "label": "marshallese"
+        }
+      ]
+    },
+    {
+      "label": "government",
+      "children": [
+        {
+          "label": "unitary parliamentary republic with an executive president"
+        }
+      ]
+    },
+    {
+      "label": "president",
+      "children": [
+        {
+          "label": "hilda heine"
+        }
+      ]
+    },
+    {
+      "label": "speaker",
+      "children": [
+        {
+          "label": "brenson s. wase"
+        }
+      ]
+    },
+    {
+      "label": "minister_in_assistance_to_the_president",
+      "children": [
+        {
+          "label": "bremity lakjohn"
+        }
+      ]
+    },
+    {
+      "label": "legislature",
+      "children": [
+        {
+          "label": "nitijela"
+        }
+      ]
+    },
+    {
+      "label": "independence_from_the_united_states",
+      "children": [
+        {
+          "label": "self_government",
+          "children": [
+            {
+              "label": "may 1, 1979"
+            }
+          ]
+        },
+        {
+          "label": "compact_of_free_association",
+          "children": [
+            {
+              "label": "october 21, 1986"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "area",
+      "children": [
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "181.43 km"
+            }
+          ]
+        },
+        {
+          "label": "water",
+          "children": [
+            {
+              "label": "negligible"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "population",
+      "children": [
+        {
+          "label": "2021_census",
+          "children": [
+            {
+              "label": "42,418"
+            }
+          ]
+        },
+        {
+          "label": "density",
+          "children": [
+            {
+              "label": "233/km"
+            }
+          ]
+        },
+        {
+          "label": "gdp_ppp",
+          "children": [
+            {
+              "label": "2019 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$215 million"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$3,789"
+            }
+          ]
+        },
+        {
+          "label": "gdp_nominal",
+          "children": [
+            {
+              "label": "2019 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$220 million"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$3,866"
+            }
+          ]
+        },
+        {
+          "label": "hdi_2023",
+          "children": [
+            {
+              "label": "0.733 high"
+            }
+          ]
+        },
+        {
+          "label": "currency",
+          "children": [
+            {
+              "label": "united states dollar"
+            },
+            {
+              "label": "sovereign"
+            }
+          ]
+        },
+        {
+          "label": "time_zone",
+          "children": [
+            {
+              "label": "utc +12"
+            }
+          ]
+        },
+        {
+          "label": "summer_dst",
+          "children": [
+            {
+              "label": "not observed"
+            }
+          ]
+        },
+        {
+          "label": "date_format",
+          "children": [
+            {
+              "label": "mm/dd/yyyy"
+            }
+          ]
+        },
+        {
+          "label": "calling_code",
+          "children": [
+            {
+              "label": "+692"
+            }
+          ]
+        },
+        {
+          "label": "iso_3166_code",
+          "children": [
+            {
+              "label": "mh"
+            }
+          ]
+        },
+        {
+          "label": "internet_tld",
+          "children": [
+            {
+              "label": ".mh"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

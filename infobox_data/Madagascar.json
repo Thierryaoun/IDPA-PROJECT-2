@@ -1,0 +1,436 @@
+{
+  "country": "Madagascar",
+  "infobox_title": "Republic of Madagascar Repoblikan'i Madagasikara ( Malagasy ) République de Madagascar ( French )",
+  "data": [
+    {
+      "label": "Capital and largest city",
+      "value": "Antananarivo 18°55′S 47°31′E ﻿ / ﻿ 18.917°S 47.517°E",
+      "links": [
+        {
+          "text": "Antananarivo",
+          "href": "https://en.wikipedia.org/wiki/Antananarivo"
+        },
+        {
+          "text": "18°55′S47°31′E﻿ / ﻿18.917°S 47.517°E",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Madagascar&params=18_55_S_47_31_E_type:city"
+        }
+      ]
+    },
+    {
+      "label": "Official languages",
+      "value": "Malagasy French",
+      "links": [
+        {
+          "text": "Malagasy",
+          "href": "https://en.wikipedia.org/wiki/Malagasy_language"
+        },
+        {
+          "text": "French",
+          "href": "https://en.wikipedia.org/wiki/French_language"
+        }
+      ],
+      "sub_items": [
+        "Malagasy",
+        "French"
+      ]
+    },
+    {
+      "label": "Ethnic groups (2017)",
+      "value": "26% Merina 15% Betsimisaraka 12% Betsileo 7% Tsimihety 6% Sakalava 5% Antaisaka 5% Antandroy 24% others",
+      "links": [
+        {
+          "text": "Merina",
+          "href": "https://en.wikipedia.org/wiki/Merina_people"
+        },
+        {
+          "text": "Betsimisaraka",
+          "href": "https://en.wikipedia.org/wiki/Betsimisaraka_people"
+        },
+        {
+          "text": "Betsileo",
+          "href": "https://en.wikipedia.org/wiki/Betsileo_people"
+        },
+        {
+          "text": "Tsimihety",
+          "href": "https://en.wikipedia.org/wiki/Tsimihety_people"
+        },
+        {
+          "text": "Sakalava",
+          "href": "https://en.wikipedia.org/wiki/Sakalava_people"
+        },
+        {
+          "text": "Antaisaka",
+          "href": "https://en.wikipedia.org/wiki/Antaisaka_people"
+        },
+        {
+          "text": "Antandroy",
+          "href": "https://en.wikipedia.org/wiki/Antandroy"
+        },
+        {
+          "text": "others",
+          "href": "https://en.wikipedia.org/wiki/Ethnic_groups_of_Madagascar"
+        }
+      ],
+      "sub_items": [
+        "26% Merina",
+        "15% Betsimisaraka",
+        "12% Betsileo",
+        "7% Tsimihety",
+        "6% Sakalava",
+        "5% Antaisaka",
+        "5% Antandroy",
+        "24% others"
+      ]
+    },
+    {
+      "label": "Religion (2020)",
+      "value": "84.7% Christianity 45.8% Protestantism 38.1% Catholicism 0.8% other Christian 7.3% no religion 4.7% traditional faiths 3.1% Islam 0.3% others",
+      "links": [
+        {
+          "text": "Christianity",
+          "href": "https://en.wikipedia.org/wiki/Christianity_in_Madagascar"
+        },
+        {
+          "text": "Protestantism",
+          "href": "https://en.wikipedia.org/wiki/Protestantism"
+        },
+        {
+          "text": "Catholicism",
+          "href": "https://en.wikipedia.org/wiki/Catholic_Church_in_Madagascar"
+        },
+        {
+          "text": "Christian",
+          "href": "https://en.wikipedia.org/wiki/List_of_Christian_denominations"
+        },
+        {
+          "text": "no religion",
+          "href": "https://en.wikipedia.org/wiki/Irreligion_in_Africa"
+        },
+        {
+          "text": "traditional faiths",
+          "href": "https://en.wikipedia.org/wiki/Malagasy_mythology"
+        },
+        {
+          "text": "Islam",
+          "href": "https://en.wikipedia.org/wiki/Islam_in_Madagascar"
+        },
+        {
+          "text": "others",
+          "href": "https://en.wikipedia.org/wiki/Religion_in_Madagascar"
+        }
+      ],
+      "sub_items": [
+        "84.7% Christianity 45.8% Protestantism 38.1% Catholicism 0.8% other Christian",
+        "84.7% Christianity 45.8% Protestantism 38.1% Catholicism 0.8% other Christian",
+        "45.8% Protestantism",
+        "38.1% Catholicism",
+        "0.8% other Christian",
+        "7.3% no religion",
+        "4.7% traditional faiths",
+        "3.1% Islam",
+        "0.3% others"
+      ]
+    },
+    {
+      "label": "Demonym",
+      "value": "Malagasy",
+      "links": [
+        {
+          "text": "Malagasy",
+          "href": "https://en.wikipedia.org/wiki/Malagasy_peoples"
+        }
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Unitary semi-presidential republic under a transitional government",
+      "links": [
+        {
+          "text": "semi-presidential republic",
+          "href": "https://en.wikipedia.org/wiki/Semi-presidential_republic"
+        },
+        {
+          "text": "transitional government",
+          "href": "https://en.wikipedia.org/wiki/Council_of_the_Presidency_for_the_Re-Foundation_of_the_Republic_of_Madagascar"
+        }
+      ]
+    },
+    {
+      "label": "• President",
+      "value": "Michael Randrianirina",
+      "links": [
+        {
+          "text": "Michael Randrianirina",
+          "href": "https://en.wikipedia.org/wiki/Michael_Randrianirina"
+        }
+      ]
+    },
+    {
+      "label": "• Prime Minister",
+      "value": "Mamitiana Rajaonarison",
+      "links": [
+        {
+          "text": "Mamitiana Rajaonarison",
+          "href": "https://en.wikipedia.org/wiki/Mamitiana_Rajaonarison"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "Parliament",
+      "links": [
+        {
+          "text": "Parliament",
+          "href": "https://en.wikipedia.org/wiki/Parliament_of_Madagascar"
+        }
+      ]
+    },
+    {
+      "label": "• Upper house",
+      "value": "Senate (suspended)",
+      "links": [
+        {
+          "text": "Senate",
+          "href": "https://en.wikipedia.org/wiki/Senate_of_Madagascar"
+        }
+      ]
+    },
+    {
+      "label": "• Lower house",
+      "value": "National Assembly",
+      "links": [
+        {
+          "text": "National Assembly",
+          "href": "https://en.wikipedia.org/wiki/National_Assembly_of_Madagascar"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Formation",
+      "rows": [
+        {
+          "label": "• Kingdom",
+          "value": "c. 1540"
+        },
+        {
+          "label": "• French protectorate",
+          "value": "c. 1882"
+        },
+        {
+          "label": "• French colony",
+          "value": "6 August 1896"
+        },
+        {
+          "label": "• Republic proclaimed",
+          "value": "14 October 1958"
+        },
+        {
+          "label": "• Declaration of independence",
+          "value": "26 June 1960"
+        },
+        {
+          "label": "• Referendum",
+          "value": "21 December 1975"
+        },
+        {
+          "label": "• Socialist state",
+          "value": "30 December 1975 – 12 January 1992"
+        },
+        {
+          "label": "• Third Republic",
+          "value": "12 January 1992 – 11 December 2010"
+        },
+        {
+          "label": "• Referendum",
+          "value": "17 November 2010"
+        },
+        {
+          "label": "• Current constitution",
+          "value": "11 December 2010"
+        },
+        {
+          "label": "• 2025 Malagasy protests",
+          "value": "25 September – 14 October 2025"
+        },
+        {
+          "label": "• Coup d'etat",
+          "value": "12–14 October 2025"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "592,796 km (228,880 sq mi) ( 46th )",
+          "links": [
+            {
+              "text": "46th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water",
+          "value": "5,501 km (2,124 sq mi)"
+        },
+        {
+          "label": "• Water (%)",
+          "value": "0.9%"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2024 estimate",
+          "value": "31,964,956 ( 49th )",
+          "links": [
+            {
+              "text": "49th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• Density",
+          "value": "55/km (142.4/sq mi) ( 164th )",
+          "links": [
+            {
+              "text": "164th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2026 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$68.110 billion ( 117th )",
+          "links": [
+            {
+              "text": "117th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$2,110 ( 182nd )",
+          "links": [
+            {
+              "text": "182nd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2026 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$21.090 billion ( 139th )",
+          "links": [
+            {
+              "text": "139th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$652 ( 188th )",
+          "links": [
+            {
+              "text": "188th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "Gini (2012)",
+          "value": "42.6 medium inequality"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.487 low ( 183rd )",
+          "links": [
+            {
+              "text": "183rd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "Ariary ( MGA )",
+          "links": [
+            {
+              "text": "Ariary",
+              "href": "https://en.wikipedia.org/wiki/Malagasy_ariary"
+            },
+            {
+              "text": "MGA",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC +3 ( EAT )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "EAT",
+              "href": "https://en.wikipedia.org/wiki/East_Africa_Time"
+            }
+          ]
+        },
+        {
+          "label": "Date format",
+          "value": "dd/mm/yyyy"
+        },
+        {
+          "label": "Calling code",
+          "value": "+261",
+          "links": [
+            {
+              "text": "+261",
+              "href": "https://en.wikipedia.org/wiki/%2B261"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "MG",
+          "links": [
+            {
+              "text": "MG",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:MG"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".mg",
+          "links": [
+            {
+              "text": ".mg",
+              "href": "https://en.wikipedia.org/wiki/.mg"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

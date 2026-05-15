@@ -1,0 +1,421 @@
+{
+  "country": "Serbia",
+  "infobox_title": "Republic of Serbia Република Србија Republika Srbija",
+  "data": [
+    {
+      "label": "Capital and largest city",
+      "value": "Belgrade 44°48′N 20°28′E ﻿ / ﻿ 44.800°N 20.467°E",
+      "links": [
+        {
+          "text": "Belgrade",
+          "href": "https://en.wikipedia.org/wiki/Belgrade"
+        },
+        {
+          "text": "44°48′N20°28′E﻿ / ﻿44.800°N 20.467°E",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Serbia&params=44_48_N_20_28_E_type:city"
+        }
+      ]
+    },
+    {
+      "label": "Official languages",
+      "value": "Serbian",
+      "links": [
+        {
+          "text": "Serbian",
+          "href": "https://en.wikipedia.org/wiki/Serbian_language"
+        }
+      ]
+    },
+    {
+      "label": "Ethnic groups (2022)",
+      "value": "80.6% Serbs 2.8% Hungarians 2.3% Bosniaks 2% Roma 5.4% others 6.9% undeclared/unknown",
+      "links": [
+        {
+          "text": "Serbs",
+          "href": "https://en.wikipedia.org/wiki/Serbs"
+        },
+        {
+          "text": "Hungarians",
+          "href": "https://en.wikipedia.org/wiki/Hungarians_in_Serbia"
+        },
+        {
+          "text": "Bosniaks",
+          "href": "https://en.wikipedia.org/wiki/Bosniaks_in_Serbia"
+        },
+        {
+          "text": "Roma",
+          "href": "https://en.wikipedia.org/wiki/Romani_people_in_Serbia"
+        }
+      ],
+      "sub_items": [
+        "80.6% Serbs",
+        "2.8% Hungarians",
+        "2.3% Bosniaks",
+        "2% Roma",
+        "5.4% others",
+        "6.9% undeclared/unknown"
+      ]
+    },
+    {
+      "label": "Religion (2022)",
+      "value": "86.6% Christianity 81.1% Eastern Orthodoxy 3.9% Catholicism 1.7% other 4.2% Islam 1.1% no religion 7.9% undeclared/unknown",
+      "links": [
+        {
+          "text": "Christianity",
+          "href": "https://en.wikipedia.org/wiki/Christianity_in_Serbia"
+        },
+        {
+          "text": "Eastern Orthodoxy",
+          "href": "https://en.wikipedia.org/wiki/Eastern_Orthodoxy_in_Serbia"
+        },
+        {
+          "text": "Catholicism",
+          "href": "https://en.wikipedia.org/wiki/Catholic_Church_in_Serbia"
+        },
+        {
+          "text": "other",
+          "href": "https://en.wikipedia.org/wiki/Christians"
+        },
+        {
+          "text": "Islam",
+          "href": "https://en.wikipedia.org/wiki/Islam_in_Serbia"
+        },
+        {
+          "text": "no religion",
+          "href": "https://en.wikipedia.org/wiki/Irreligion"
+        }
+      ],
+      "sub_items": [
+        "86.6% Christianity 81.1% Eastern Orthodoxy 3.9% Catholicism 1.7% other",
+        "86.6% Christianity 81.1% Eastern Orthodoxy 3.9% Catholicism 1.7% other",
+        "81.1% Eastern Orthodoxy",
+        "3.9% Catholicism",
+        "1.7% other",
+        "4.2% Islam",
+        "1.1% no religion",
+        "7.9% undeclared/unknown"
+      ]
+    },
+    {
+      "label": "Demonym",
+      "value": "Serbian",
+      "links": [
+        {
+          "text": "Serbian",
+          "href": "https://en.wikipedia.org/wiki/Serbs"
+        }
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Unitary parliamentary republic",
+      "links": [
+        {
+          "text": "Unitary parliamentary republic",
+          "href": "https://en.wikipedia.org/wiki/Unitary_parliamentary_republic"
+        }
+      ]
+    },
+    {
+      "label": "• President",
+      "value": "Aleksandar Vučić",
+      "links": [
+        {
+          "text": "Aleksandar Vučić",
+          "href": "https://en.wikipedia.org/wiki/Aleksandar_Vu%C4%8Di%C4%87"
+        }
+      ]
+    },
+    {
+      "label": "• Prime Minister",
+      "value": "Đuro Macut",
+      "links": [
+        {
+          "text": "Đuro Macut",
+          "href": "https://en.wikipedia.org/wiki/%C4%90uro_Macut"
+        }
+      ]
+    },
+    {
+      "label": "• President of the National Assembly",
+      "value": "Ana Brnabić",
+      "links": [
+        {
+          "text": "Ana Brnabić",
+          "href": "https://en.wikipedia.org/wiki/Ana_Brnabi%C4%87"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "National Assembly",
+      "links": [
+        {
+          "text": "National Assembly",
+          "href": "https://en.wikipedia.org/wiki/National_Assembly_(Serbia)"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Establishment history",
+      "rows": [
+        {
+          "label": "• Principality",
+          "value": "7th century"
+        },
+        {
+          "label": "• Kingdom",
+          "value": "1217"
+        },
+        {
+          "label": "• Empire",
+          "value": "1346"
+        },
+        {
+          "label": "• Despotate",
+          "value": "1402"
+        },
+        {
+          "label": "• Principality of Serbia",
+          "value": "1815"
+        },
+        {
+          "label": "• Kingdom of Serbia",
+          "value": "1882"
+        },
+        {
+          "label": "• Kingdom of Yugoslavia",
+          "value": "1918"
+        },
+        {
+          "label": "• Socialist Yugoslavia ( constituent republic )",
+          "value": "1945"
+        },
+        {
+          "label": "• Serbia and Montenegro ( constituent state )",
+          "value": "1992"
+        },
+        {
+          "label": "• Republic of Serbia",
+          "value": "2006"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "88,499 km (34,170 sq mi) ( 111th )",
+          "links": [
+            {
+              "text": "111th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Excluding Kosovo",
+          "value": "77,589 km (29,957 sq mi) (115th)"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2025 estimate",
+          "value": "6,567,783 ( 107th )",
+          "links": [
+            {
+              "text": "107th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• 2022 census",
+          "value": "6,647,003 ( 107th )",
+          "links": [
+            {
+              "text": "107th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• Density",
+          "value": "85/km (220.1/sq mi) ( 127th )",
+          "links": [
+            {
+              "text": "127th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2026 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$225.55 billion ( 78th )",
+          "links": [
+            {
+              "text": "78th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$34,790 ( 66th )",
+          "links": [
+            {
+              "text": "66th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2026 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$112.11 billion ( 69th )",
+          "links": [
+            {
+              "text": "69th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$17,290 ( 66th )",
+          "links": [
+            {
+              "text": "66th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "Gini (2025)",
+          "value": "32 medium inequality"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.833 very high ( 62nd )",
+          "links": [
+            {
+              "text": "62nd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "Serbian dinar ( RSD )",
+          "links": [
+            {
+              "text": "Serbian dinar",
+              "href": "https://en.wikipedia.org/wiki/Serbian_dinar"
+            },
+            {
+              "text": "RSD",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC +1 ( CET )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "+1",
+              "href": "https://en.wikipedia.org/wiki/UTC%2B01:00"
+            },
+            {
+              "text": "CET",
+              "href": "https://en.wikipedia.org/wiki/Central_European_Time"
+            }
+          ]
+        },
+        {
+          "label": "• Summer ( DST )",
+          "value": "UTC +2 ( CEST )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "+2",
+              "href": "https://en.wikipedia.org/wiki/UTC%2B02:00"
+            },
+            {
+              "text": "CEST",
+              "href": "https://en.wikipedia.org/wiki/Central_European_Summer_Time"
+            }
+          ]
+        },
+        {
+          "label": "Date format",
+          "value": "mm/dd/yyyy ( AD )",
+          "links": [
+            {
+              "text": "AD",
+              "href": "https://en.wikipedia.org/wiki/AD"
+            }
+          ]
+        },
+        {
+          "label": "Calling code",
+          "value": "+381",
+          "links": [
+            {
+              "text": "+381",
+              "href": "https://en.wikipedia.org/wiki/Telephone_numbers_in_Serbia"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "RS",
+          "links": [
+            {
+              "text": "RS",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:RS"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".rs .срб",
+          "links": [
+            {
+              "text": ".rs",
+              "href": "https://en.wikipedia.org/wiki/.rs"
+            },
+            {
+              "text": ".срб",
+              "href": "https://en.wikipedia.org/wiki/.%D1%81%D1%80%D0%B1"
+            }
+          ],
+          "sub_items": [
+            ".rs",
+            ".срб"
+          ]
+        }
+      ]
+    }
+  ]
+}

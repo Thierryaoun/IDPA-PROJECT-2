@@ -1,0 +1,392 @@
+{
+  "label": "country",
+  "children": [
+    {
+      "label": "name",
+      "children": [
+        {
+          "label": "netherlands"
+        }
+      ]
+    },
+    {
+      "label": "infobox_title",
+      "children": [
+        {
+          "label": "kingdom of the netherlands koninkrijk der nederlanden keninkryk fan de nederlannen reino hulandes"
+        }
+      ]
+    },
+    {
+      "label": "capital_and_largest_city",
+      "children": [
+        {
+          "label": "amsterdam / 52."
+        }
+      ]
+    },
+    {
+      "label": "government_seat",
+      "children": [
+        {
+          "label": "the hague"
+        }
+      ]
+    },
+    {
+      "label": "official_languages",
+      "children": [
+        {
+          "label": "dutch"
+        }
+      ]
+    },
+    {
+      "label": "official_regional_languages",
+      "children": [
+        {
+          "label": "english"
+        },
+        {
+          "label": "papiamento"
+        },
+        {
+          "label": "west frisian"
+        }
+      ]
+    },
+    {
+      "label": "recognised_languages",
+      "children": [
+        {
+          "label": "dutch low saxon"
+        },
+        {
+          "label": "dutch sign language"
+        },
+        {
+          "label": "limburgish"
+        },
+        {
+          "label": "sinte romani"
+        },
+        {
+          "label": "yiddish"
+        }
+      ]
+    },
+    {
+      "label": "demonym",
+      "children": [
+        {
+          "label": "dutch"
+        }
+      ]
+    },
+    {
+      "label": "countries_non_sovereign_parts",
+      "children": [
+        {
+          "label": "netherlands"
+        },
+        {
+          "label": "aruba"
+        },
+        {
+          "label": "curaçao"
+        },
+        {
+          "label": "sint maarten"
+        }
+      ]
+    },
+    {
+      "label": "government",
+      "children": [
+        {
+          "label": "devolved unitary parliamentary constitutional monarchy"
+        }
+      ]
+    },
+    {
+      "label": "monarch",
+      "children": [
+        {
+          "label": "willem-alexander"
+        }
+      ]
+    },
+    {
+      "label": "prime_minister",
+      "children": [
+        {
+          "label": "rob jetten"
+        }
+      ]
+    },
+    {
+      "label": "minister_plenipotentiary_of_aruba",
+      "children": [
+        {
+          "label": "ady thijsen"
+        }
+      ]
+    },
+    {
+      "label": "minister_plenipotentiary_of_curaçao",
+      "children": [
+        {
+          "label": "carlson manuel"
+        }
+      ]
+    },
+    {
+      "label": "minister_plenipotentiary_of_sint_maarten",
+      "children": [
+        {
+          "label": "rene violenus"
+        }
+      ]
+    },
+    {
+      "label": "independence_from_spain_and_france",
+      "children": [
+        {
+          "label": "dutch_republic",
+          "children": [
+            {
+              "label": "26 july 1581 30 january 1648"
+            }
+          ]
+        },
+        {
+          "label": "batavian_republic",
+          "children": [
+            {
+              "label": "19 january 1795"
+            }
+          ]
+        },
+        {
+          "label": "kingdom_of_holland",
+          "children": [
+            {
+              "label": "5 june 1806"
+            }
+          ]
+        },
+        {
+          "label": "annexation_by_first_french_empire",
+          "children": [
+            {
+              "label": "1 july 1810"
+            }
+          ]
+        },
+        {
+          "label": "kingdom_of_the_netherlands",
+          "children": [
+            {
+              "label": "16 march 1815"
+            }
+          ]
+        },
+        {
+          "label": "secession_of_belgium",
+          "children": [
+            {
+              "label": "4 october 1830 19 april 1839"
+            }
+          ]
+        },
+        {
+          "label": "admitted_to_the_united_nations",
+          "children": [
+            {
+              "label": "24 october 1945"
+            }
+          ]
+        },
+        {
+          "label": "charter_for_the_kingdom_colonial_inclusion",
+          "children": [
+            {
+              "label": "15 december 1954"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "area",
+      "children": [
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "42,531 km"
+            }
+          ]
+        },
+        {
+          "label": "water",
+          "children": [
+            {
+              "label": "18.96"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "population",
+      "children": [
+        {
+          "label": "2026_estimate",
+          "children": [
+            {
+              "label": "18,290,379"
+            }
+          ]
+        },
+        {
+          "label": "density",
+          "children": [
+            {
+              "label": "532/km"
+            }
+          ]
+        },
+        {
+          "label": "gdp_ppp",
+          "children": [
+            {
+              "label": "2026 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$1.581 trillion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$87,173"
+            }
+          ]
+        },
+        {
+          "label": "gdp_nominal",
+          "children": [
+            {
+              "label": "2026 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$1.326 trillion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$73,091"
+            }
+          ]
+        },
+        {
+          "label": "currency",
+          "children": [
+            {
+              "label": "euro"
+            },
+            {
+              "label": "united states dollar"
+            },
+            {
+              "label": "caribbean guilder"
+            },
+            {
+              "label": "aruban florin"
+            }
+          ]
+        },
+        {
+          "label": "time_zone",
+          "children": [
+            {
+              "label": "european netherlands: cet cest caribbean netherlands: ast dst not observed"
+            }
+          ]
+        },
+        {
+          "label": "date_format",
+          "children": [
+            {
+              "label": "dd-mm-yyyy"
+            }
+          ]
+        },
+        {
+          "label": "calling_code",
+          "children": [
+            {
+              "label": "+31"
+            },
+            {
+              "label": "+297"
+            },
+            {
+              "label": "+599"
+            },
+            {
+              "label": "+1 721"
+            }
+          ]
+        },
+        {
+          "label": "iso_3166_code",
+          "children": [
+            {
+              "label": "nl"
+            }
+          ]
+        },
+        {
+          "label": "internet_tld",
+          "children": [
+            {
+              "label": ".nl"
+            },
+            {
+              "label": ".frl"
+            },
+            {
+              "label": ".aw"
+            },
+            {
+              "label": ".cw"
+            },
+            {
+              "label": ".sx"
+            },
+            {
+              "label": ".bq"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

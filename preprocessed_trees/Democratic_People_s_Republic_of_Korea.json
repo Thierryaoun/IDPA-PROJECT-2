@@ -1,0 +1,326 @@
+{
+  "label": "country",
+  "children": [
+    {
+      "label": "name",
+      "children": [
+        {
+          "label": "democratic people's republic of korea"
+        }
+      ]
+    },
+    {
+      "label": "infobox_title",
+      "children": [
+        {
+          "label": "democratic people's republic of korea 조선민주주의인민공화국 chosŏnminjujuŭiinmin'gonghwaguk"
+        }
+      ]
+    },
+    {
+      "label": "capital_and_largest_city",
+      "children": [
+        {
+          "label": "pyongyang / 39."
+        }
+      ]
+    },
+    {
+      "label": "official_languages",
+      "children": [
+        {
+          "label": "korean"
+        }
+      ]
+    },
+    {
+      "label": "official_script",
+      "children": [
+        {
+          "label": "chosŏn'gŭl"
+        }
+      ]
+    },
+    {
+      "label": "religion_2020",
+      "children": [
+        {
+          "label": "73% no religion"
+        },
+        {
+          "label": "13% chondoism"
+        },
+        {
+          "label": "12% shamanism"
+        },
+        {
+          "label": "1.5% buddhism"
+        },
+        {
+          "label": "0.5% other"
+        }
+      ]
+    },
+    {
+      "label": "demonyms",
+      "children": [
+        {
+          "label": "north korean"
+        },
+        {
+          "label": "korean"
+        }
+      ]
+    },
+    {
+      "label": "government",
+      "children": [
+        {
+          "label": "unitary communist state under a totalitarian dictatorship"
+        }
+      ]
+    },
+    {
+      "label": "wpk_general_secretary_and_sac_president",
+      "children": [
+        {
+          "label": "kim jong un"
+        }
+      ]
+    },
+    {
+      "label": "premier",
+      "children": [
+        {
+          "label": "pak thae-song"
+        }
+      ]
+    },
+    {
+      "label": "spa_standing_committee_chairman",
+      "children": [
+        {
+          "label": "jo yong-won"
+        }
+      ]
+    },
+    {
+      "label": "spa_chairman",
+      "children": [
+        {
+          "label": "jo yong-won"
+        }
+      ]
+    },
+    {
+      "label": "legislature",
+      "children": [
+        {
+          "label": "supreme people's assembly"
+        }
+      ]
+    },
+    {
+      "label": "establishment_history",
+      "children": [
+        {
+          "label": "surrender_of_japan",
+          "children": [
+            {
+              "label": "2 september 1945"
+            }
+          ]
+        },
+        {
+          "label": "soviet_administration_north_of_the_38th_parallel",
+          "children": [
+            {
+              "label": "3 october 1945"
+            }
+          ]
+        },
+        {
+          "label": "1st_provisional_government",
+          "children": [
+            {
+              "label": "8 february 1946"
+            }
+          ]
+        },
+        {
+          "label": "dprk_established",
+          "children": [
+            {
+              "label": "10 july 1948"
+            }
+          ]
+        },
+        {
+          "label": "current_constitution",
+          "children": [
+            {
+              "label": "27 december 1972"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "area",
+      "children": [
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "120,538 km"
+            }
+          ]
+        },
+        {
+          "label": "water",
+          "children": [
+            {
+              "label": "0.11"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "population",
+      "children": [
+        {
+          "label": "2024_estimate",
+          "children": [
+            {
+              "label": "26,298,666"
+            }
+          ]
+        },
+        {
+          "label": "2008_census",
+          "children": [
+            {
+              "label": "24,052,231"
+            }
+          ]
+        },
+        {
+          "label": "density",
+          "children": [
+            {
+              "label": "212/km"
+            }
+          ]
+        },
+        {
+          "label": "gdp_ppp",
+          "children": [
+            {
+              "label": "2023 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$15.416 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$600"
+            }
+          ]
+        },
+        {
+          "label": "gdp_nominal",
+          "children": [
+            {
+              "label": "2024 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$32.036 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$1,261"
+            }
+          ]
+        },
+        {
+          "label": "gini_2020",
+          "children": [
+            {
+              "label": "16.6 low inequality"
+            }
+          ]
+        },
+        {
+          "label": "currency",
+          "children": [
+            {
+              "label": "korean people's won"
+            }
+          ]
+        },
+        {
+          "label": "time_zone",
+          "children": [
+            {
+              "label": "utc +09:00"
+            }
+          ]
+        },
+        {
+          "label": "date_format",
+          "children": [
+            {
+              "label": "yy, yyyy년 mm월 dd일"
+            },
+            {
+              "label": "yy, yyyy/mm/dd"
+            }
+          ]
+        },
+        {
+          "label": "calling_code",
+          "children": [
+            {
+              "label": "+850"
+            }
+          ]
+        },
+        {
+          "label": "iso_3166_code",
+          "children": [
+            {
+              "label": "kp"
+            }
+          ]
+        },
+        {
+          "label": "internet_tld",
+          "children": [
+            {
+              "label": ".kp"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

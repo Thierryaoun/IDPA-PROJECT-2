@@ -1,0 +1,373 @@
+{
+  "label": "country",
+  "children": [
+    {
+      "label": "name",
+      "children": [
+        {
+          "label": "timor-leste"
+        }
+      ]
+    },
+    {
+      "label": "infobox_title",
+      "children": [
+        {
+          "label": "democratic republic of timor-leste república democrática de timor-leste repúblika demokrátika timór lorosa'e"
+        }
+      ]
+    },
+    {
+      "label": "capital_and_largest_city",
+      "children": [
+        {
+          "label": "dili / 8."
+        }
+      ]
+    },
+    {
+      "label": "official_languages",
+      "children": [
+        {
+          "label": "portuguese"
+        },
+        {
+          "label": "tetum"
+        }
+      ]
+    },
+    {
+      "label": "recognised_languages",
+      "children": [
+        {
+          "label": "atauru baikeno bekais bunak fataluku galoli habun idalaka kawaimina kemak makalero makasae makuva mambai tokodede"
+        },
+        {
+          "label": "atauru"
+        },
+        {
+          "label": "baikeno"
+        },
+        {
+          "label": "bekais"
+        },
+        {
+          "label": "bunak"
+        },
+        {
+          "label": "fataluku"
+        },
+        {
+          "label": "galoli"
+        },
+        {
+          "label": "habun"
+        },
+        {
+          "label": "idalaka"
+        },
+        {
+          "label": "kawaimina"
+        },
+        {
+          "label": "kemak"
+        },
+        {
+          "label": "makalero"
+        },
+        {
+          "label": "makasae"
+        },
+        {
+          "label": "makuva"
+        },
+        {
+          "label": "mambai"
+        },
+        {
+          "label": "tokodede"
+        },
+        {
+          "label": "english indonesian"
+        },
+        {
+          "label": "english"
+        },
+        {
+          "label": "indonesian"
+        }
+      ]
+    },
+    {
+      "label": "religion_2015_census",
+      "children": [
+        {
+          "label": "99.53% christianity"
+        },
+        {
+          "label": "97.57% catholicism"
+        },
+        {
+          "label": "1.96% protestantism"
+        },
+        {
+          "label": "0.24% islam"
+        },
+        {
+          "label": "0.23% other"
+        }
+      ]
+    },
+    {
+      "label": "demonyms",
+      "children": [
+        {
+          "label": "east timorese"
+        },
+        {
+          "label": "timorese"
+        },
+        {
+          "label": "maubere"
+        }
+      ]
+    },
+    {
+      "label": "government",
+      "children": [
+        {
+          "label": "unitary semi-presidential republic"
+        }
+      ]
+    },
+    {
+      "label": "president",
+      "children": [
+        {
+          "label": "josé ramos-horta"
+        }
+      ]
+    },
+    {
+      "label": "prime_minister",
+      "children": [
+        {
+          "label": "xanana gusmão"
+        }
+      ]
+    },
+    {
+      "label": "legislature",
+      "children": [
+        {
+          "label": "national parliament"
+        }
+      ]
+    },
+    {
+      "label": "independence_from_portugal_indonesia_and_united_nations_administered_east_timor",
+      "children": [
+        {
+          "label": "portuguese_timor",
+          "children": [
+            {
+              "label": "early 18th century"
+            }
+          ]
+        },
+        {
+          "label": "independence_declared",
+          "children": [
+            {
+              "label": "28 november 1975"
+            }
+          ]
+        },
+        {
+          "label": "annexation_by_indonesia",
+          "children": [
+            {
+              "label": "17 july 1976"
+            }
+          ]
+        },
+        {
+          "label": "administered_by_untaet",
+          "children": [
+            {
+              "label": "25 october 1999"
+            }
+          ]
+        },
+        {
+          "label": "independence_restored",
+          "children": [
+            {
+              "label": "20 may 2002"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "area",
+      "children": [
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "15,007 km"
+            }
+          ]
+        },
+        {
+          "label": "water",
+          "children": [
+            {
+              "label": "negligible"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "population",
+      "children": [
+        {
+          "label": "2023_estimate",
+          "children": [
+            {
+              "label": "1,354,662"
+            }
+          ]
+        },
+        {
+          "label": "2022_census",
+          "children": [
+            {
+              "label": "1,341,737"
+            }
+          ]
+        },
+        {
+          "label": "density",
+          "children": [
+            {
+              "label": "94/km"
+            }
+          ]
+        },
+        {
+          "label": "gdp_ppp",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$6.970 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$4,920"
+            }
+          ]
+        },
+        {
+          "label": "gdp_nominal",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$2.120 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$1,490"
+            }
+          ]
+        },
+        {
+          "label": "gini_2014",
+          "children": [
+            {
+              "label": "28.7 low inequality"
+            }
+          ]
+        },
+        {
+          "label": "hdi_2023",
+          "children": [
+            {
+              "label": "0.634 medium"
+            }
+          ]
+        },
+        {
+          "label": "currency",
+          "children": [
+            {
+              "label": "united states dollar timor-leste centavo"
+            },
+            {
+              "label": "united states dollar"
+            },
+            {
+              "label": "timor-leste centavo"
+            }
+          ]
+        },
+        {
+          "label": "time_zone",
+          "children": [
+            {
+              "label": "utc +9"
+            }
+          ]
+        },
+        {
+          "label": "calling_code",
+          "children": [
+            {
+              "label": "+670"
+            }
+          ]
+        },
+        {
+          "label": "iso_3166_code",
+          "children": [
+            {
+              "label": "tl"
+            }
+          ]
+        },
+        {
+          "label": "internet_tld",
+          "children": [
+            {
+              "label": ".tl"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

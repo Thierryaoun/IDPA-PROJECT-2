@@ -1,0 +1,333 @@
+{
+  "country": "Luxembourg",
+  "infobox_title": "Grand Duchy of Luxembourg Groussherzogtum Lëtzebuerg ( Luxembourgish ) Grand-Duché de Luxembourg ( French ) Großherzogtum Luxemburg ( German )",
+  "data": [
+    {
+      "label": "Capital and largest city",
+      "value": "Luxembourg 49°36′38″N 6°07′58″E ﻿ / ﻿ 49.6106°N 6.1328°E",
+      "links": [
+        {
+          "text": "Luxembourg",
+          "href": "https://en.wikipedia.org/wiki/Luxembourg_City"
+        },
+        {
+          "text": "49°36′38″N6°07′58″E﻿ / ﻿49.6106°N 6.1328°E",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Luxembourg&params=49.6106_N_6.1328_E_type:city(124,500)_region:LU"
+        }
+      ]
+    },
+    {
+      "label": "Official languages",
+      "value": "National language: Luxembourgish Administrative languages: Luxembourgish German French",
+      "links": [
+        {
+          "text": "Luxembourgish",
+          "href": "https://en.wikipedia.org/wiki/Luxembourgish"
+        },
+        {
+          "text": "German",
+          "href": "https://en.wikipedia.org/wiki/German_language"
+        },
+        {
+          "text": "French",
+          "href": "https://en.wikipedia.org/wiki/French_language"
+        }
+      ],
+      "sub_items": [
+        "Luxembourgish",
+        "German",
+        "French"
+      ]
+    },
+    {
+      "label": "Nationality (2025)",
+      "value": "53% Luxembourgers 13.2% Portuguese 7.2% French 3.7% Italians 23% other",
+      "links": [
+        {
+          "text": "Luxembourgers",
+          "href": "https://en.wikipedia.org/wiki/Luxembourgers"
+        },
+        {
+          "text": "Portuguese",
+          "href": "https://en.wikipedia.org/wiki/Portuguese_Luxembourger"
+        }
+      ],
+      "sub_items": [
+        "53% Luxembourgers",
+        "13.2% Portuguese",
+        "7.2% French",
+        "3.7% Italians",
+        "23% other"
+      ]
+    },
+    {
+      "label": "Religion (2021 )",
+      "value": "53% Christianity 46% Catholicism 7% other Christian 38% no religion 9% other",
+      "links": [
+        {
+          "text": "Christianity",
+          "href": "https://en.wikipedia.org/wiki/Religion_in_Luxembourg"
+        },
+        {
+          "text": "Catholicism",
+          "href": "https://en.wikipedia.org/wiki/Catholic_Church_in_Luxembourg"
+        },
+        {
+          "text": "Christian",
+          "href": "https://en.wikipedia.org/wiki/List_of_Christian_denominations"
+        },
+        {
+          "text": "no religion",
+          "href": "https://en.wikipedia.org/wiki/Irreligion"
+        }
+      ],
+      "sub_items": [
+        "53% Christianity 46% Catholicism 7% other Christian",
+        "53% Christianity 46% Catholicism 7% other Christian",
+        "46% Catholicism",
+        "7% other Christian",
+        "38% no religion",
+        "9% other"
+      ]
+    },
+    {
+      "label": "Demonyms",
+      "value": "Luxembourger Luxembourgish",
+      "links": [
+        {
+          "text": "Luxembourger",
+          "href": "https://en.wikipedia.org/wiki/Luxembourgers"
+        },
+        {
+          "text": "Luxembourgish",
+          "href": "https://en.wikipedia.org/wiki/Luxembourgers"
+        }
+      ],
+      "sub_items": [
+        "Luxembourger",
+        "Luxembourgish"
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Unitary parliamentary constitutional monarchy",
+      "links": [
+        {
+          "text": "parliamentary constitutional monarchy",
+          "href": "https://en.wikipedia.org/wiki/Parliamentary_constitutional_monarchy"
+        }
+      ]
+    },
+    {
+      "label": "• Grand Duke",
+      "value": "Guillaume V",
+      "links": [
+        {
+          "text": "Guillaume V",
+          "href": "https://en.wikipedia.org/wiki/Guillaume_V,_Grand_Duke_of_Luxembourg"
+        }
+      ]
+    },
+    {
+      "label": "• Prime Minister",
+      "value": "Luc Frieden",
+      "links": [
+        {
+          "text": "Luc Frieden",
+          "href": "https://en.wikipedia.org/wiki/Luc_Frieden"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "Chamber of Deputies",
+      "links": [
+        {
+          "text": "Chamber of Deputies",
+          "href": "https://en.wikipedia.org/wiki/Chamber_of_Deputies_(Luxembourg)"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Establishment",
+      "rows": [
+        {
+          "label": "• From the French Empire and elevation to Grand Duchy of Luxembourg",
+          "value": "9 June 1815"
+        },
+        {
+          "label": "• Independence in personal Union with the Netherlands ( Treaty of London )",
+          "value": "19 April 1839"
+        },
+        {
+          "label": "• End of personal union with the Kingdom of the Netherlands",
+          "value": "23 November 1890"
+        },
+        {
+          "label": "• Liberation from the Greater German Reich",
+          "value": "1944/1945"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "2,586.4 km (998.6 sq mi) ( 168th )",
+          "links": [
+            {
+              "text": "168th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "0.23 (2015)"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• December 2025 estimate",
+          "value": "690,947 ( 163rd )",
+          "links": [
+            {
+              "text": "163rd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• 2021 census",
+          "value": "643,941"
+        },
+        {
+          "label": "• Density",
+          "value": "264/km (683.8/sq mi) ( 55th )",
+          "links": [
+            {
+              "text": "55th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$106.505 billion ( 100th )",
+          "links": [
+            {
+              "text": "100th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$154,914 ( 1st )",
+          "links": [
+            {
+              "text": "1st",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$96.993 billion ( 73rd )",
+          "links": [
+            {
+              "text": "73rd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$141,079 ( 1st )",
+          "links": [
+            {
+              "text": "1st",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "Gini (2023)",
+          "value": "30.6 medium inequality"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.922 very high ( 25th )",
+          "links": [
+            {
+              "text": "25th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "Euro ( € ) ( EUR )",
+          "links": [
+            {
+              "text": "Euro",
+              "href": "https://en.wikipedia.org/wiki/Euro"
+            },
+            {
+              "text": "€",
+              "href": "https://en.wikipedia.org/wiki/Euro_sign"
+            },
+            {
+              "text": "EUR",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Calling code",
+          "value": "+352",
+          "links": [
+            {
+              "text": "+352",
+              "href": "https://en.wikipedia.org/wiki/Telephone_numbers_in_Luxembourg"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "LU",
+          "links": [
+            {
+              "text": "LU",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:LU"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".lu",
+          "links": [
+            {
+              "text": ".lu",
+              "href": "https://en.wikipedia.org/wiki/.lu"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

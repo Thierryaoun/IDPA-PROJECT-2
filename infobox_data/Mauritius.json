@@ -1,0 +1,381 @@
+{
+  "country": "Mauritius",
+  "infobox_title": "Republic of Mauritius République de Maurice ( French ) Repiblik Moris ( Morisyen )",
+  "data": [
+    {
+      "label": "Capital and largest city",
+      "value": "Port Louis 20°12′S 57°30′E ﻿ / ﻿ 20.2°S 57.5°E",
+      "links": [
+        {
+          "text": "Port Louis",
+          "href": "https://en.wikipedia.org/wiki/Port_Louis"
+        },
+        {
+          "text": "20°12′S57°30′E﻿ / ﻿20.2°S 57.5°E",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Mauritius&params=20.2_S_57.5_E_type:country"
+        }
+      ]
+    },
+    {
+      "label": "Official languages",
+      "value": "None ( de jure ) English French ( de facto )",
+      "links": [
+        {
+          "text": "English",
+          "href": "https://en.wikipedia.org/wiki/English_language"
+        },
+        {
+          "text": "French",
+          "href": "https://en.wikipedia.org/wiki/French_language"
+        }
+      ],
+      "sub_items": [
+        "English",
+        "French"
+      ]
+    },
+    {
+      "label": "Language spoken at home (2022)",
+      "value": "90.0% Mauritian Creole 5.1% Bhojpuri 4.4% French 0.6% English",
+      "links": [
+        {
+          "text": "Mauritian Creole",
+          "href": "https://en.wikipedia.org/wiki/Mauritian_Creole"
+        },
+        {
+          "text": "Bhojpuri",
+          "href": "https://en.wikipedia.org/wiki/Bhojpuri_language"
+        }
+      ],
+      "sub_items": [
+        "90.0% Mauritian Creole",
+        "5.1% Bhojpuri",
+        "4.4% French",
+        "0.6% English"
+      ]
+    },
+    {
+      "label": "Ethnic groups",
+      "value": "67% Indian 28% Creole 3% Chinese 2% French",
+      "links": [
+        {
+          "text": "Indian",
+          "href": "https://en.wikipedia.org/wiki/Mauritians_of_Indian_origin"
+        },
+        {
+          "text": "Creole",
+          "href": "https://en.wikipedia.org/wiki/Mauritian_Creoles"
+        },
+        {
+          "text": "Chinese",
+          "href": "https://en.wikipedia.org/wiki/Mauritians_of_Chinese_origin"
+        },
+        {
+          "text": "French",
+          "href": "https://en.wikipedia.org/wiki/Franco-Mauritians"
+        }
+      ],
+      "sub_items": [
+        "67% Indian",
+        "28% Creole",
+        "3% Chinese",
+        "2% French"
+      ]
+    },
+    {
+      "label": "Religion (2022)",
+      "value": "47.9% Hinduism 32.3% Christianity 18.2% Islam 1.6% others / none",
+      "links": [
+        {
+          "text": "Hinduism",
+          "href": "https://en.wikipedia.org/wiki/Hinduism_in_Mauritius"
+        },
+        {
+          "text": "Christianity",
+          "href": "https://en.wikipedia.org/wiki/Christianity_in_Mauritius"
+        },
+        {
+          "text": "Islam",
+          "href": "https://en.wikipedia.org/wiki/Islam_in_Mauritius"
+        },
+        {
+          "text": "others",
+          "href": "https://en.wikipedia.org/wiki/Religion_in_Mauritius"
+        },
+        {
+          "text": "none",
+          "href": "https://en.wikipedia.org/wiki/Irreligion"
+        }
+      ],
+      "sub_items": [
+        "47.9% Hinduism",
+        "32.3% Christianity",
+        "18.2% Islam",
+        "1.6% others / none"
+      ]
+    },
+    {
+      "label": "Demonym",
+      "value": "Mauritian",
+      "links": [
+        {
+          "text": "Mauritian",
+          "href": "https://en.wikipedia.org/wiki/Mauritian"
+        }
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Unitary parliamentary republic",
+      "links": [
+        {
+          "text": "Unitary parliamentary republic",
+          "href": "https://en.wikipedia.org/wiki/Unitary_parliamentary_republic"
+        }
+      ]
+    },
+    {
+      "label": "• President",
+      "value": "Dharam Gokhool",
+      "links": [
+        {
+          "text": "Dharam Gokhool",
+          "href": "https://en.wikipedia.org/wiki/Dharam_Gokhool"
+        }
+      ]
+    },
+    {
+      "label": "• Vice-President",
+      "value": "Robert Hungley",
+      "links": [
+        {
+          "text": "Robert Hungley",
+          "href": "https://en.wikipedia.org/wiki/Robert_Hungley"
+        }
+      ]
+    },
+    {
+      "label": "• Prime Minister",
+      "value": "Navin Ramgoolam",
+      "links": [
+        {
+          "text": "Navin Ramgoolam",
+          "href": "https://en.wikipedia.org/wiki/Navin_Ramgoolam"
+        }
+      ]
+    },
+    {
+      "label": "• Deputy Prime Minister",
+      "value": "Vacant",
+      "links": [
+        {
+          "text": "Vacant",
+          "href": "https://en.wikipedia.org/wiki/Casual_vacancy"
+        }
+      ]
+    },
+    {
+      "label": "• Speaker of the National Assembly",
+      "value": "Shirin Aumeeruddy-Cziffra",
+      "links": [
+        {
+          "text": "Shirin Aumeeruddy-Cziffra",
+          "href": "https://en.wikipedia.org/wiki/Shirin_Aumeeruddy-Cziffra"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "National Assembly",
+      "links": [
+        {
+          "text": "National Assembly",
+          "href": "https://en.wikipedia.org/wiki/National_Assembly_(Mauritius)"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Independence from the United Kingdom",
+      "rows": [
+        {
+          "label": "• Constitution of Mauritius",
+          "value": "12 March 1968"
+        },
+        {
+          "label": "• Republic",
+          "value": "12 March 1992"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "2,040 km (790 sq mi) ( 169th )",
+          "links": [
+            {
+              "text": "169th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "0.07"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2022 census",
+          "value": "1,235,260"
+        },
+        {
+          "label": "• Density",
+          "value": "605.5/km (1,568.2/sq mi) ( 18th )",
+          "links": [
+            {
+              "text": "18th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$42.810 billion ( 137th )",
+          "links": [
+            {
+              "text": "137th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$33,954 ( 60th )",
+          "links": [
+            {
+              "text": "60th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$16.515 billion ( 133rd )",
+          "links": [
+            {
+              "text": "133rd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$13,099 ( 69th )",
+          "links": [
+            {
+              "text": "69th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "Gini (2017)",
+          "value": "36.8 medium inequality"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.806 very high ( 73rd )",
+          "links": [
+            {
+              "text": "73rd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "Mauritian rupee ( MUR )",
+          "links": [
+            {
+              "text": "Mauritian rupee",
+              "href": "https://en.wikipedia.org/wiki/Mauritian_rupee"
+            },
+            {
+              "text": "MUR",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC +4 ( MUT )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "MUT",
+              "href": "https://en.wikipedia.org/wiki/Mauritius_Time"
+            }
+          ]
+        },
+        {
+          "label": "Date format",
+          "value": "dd/mm/yyyy ( AD )",
+          "links": [
+            {
+              "text": "AD",
+              "href": "https://en.wikipedia.org/wiki/Anno_Domini"
+            }
+          ]
+        },
+        {
+          "label": "Calling code",
+          "value": "+230",
+          "links": [
+            {
+              "text": "+230",
+              "href": "https://en.wikipedia.org/wiki/%2B230"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "MU",
+          "links": [
+            {
+              "text": "MU",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:MU"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".mu",
+          "links": [
+            {
+              "text": ".mu",
+              "href": "https://en.wikipedia.org/wiki/.mu"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

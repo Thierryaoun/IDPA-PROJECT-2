@@ -1,0 +1,388 @@
+{
+  "country": "Singapore",
+  "infobox_title": "Republic of Singapore Republik Singapura ( Malay ) 新加坡共和国 ( Chinese ) Xīnjiāpō Gònghéguó ( pinyin ) சிங்கப்பூர் குடியரசு ( Tamil ) Ciṅkappūr Kuṭiyaracu",
+  "data": [
+    {
+      "label": "Capital",
+      "value": "Singapore ( city-state ) 1°17′N 103°50′E ﻿ / ﻿ 1.283°N 103.833°E",
+      "links": [
+        {
+          "text": "city-state",
+          "href": "https://en.wikipedia.org/wiki/City-state"
+        },
+        {
+          "text": "1°17′N103°50′E﻿ / ﻿1.283°N 103.833°E",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Singapore&params=1_17_N_103_50_E_type:city(5,700,000)_region:SG"
+        }
+      ]
+    },
+    {
+      "label": "Largest planning area by population",
+      "value": "Tampines",
+      "links": [
+        {
+          "text": "Tampines",
+          "href": "https://en.wikipedia.org/wiki/Tampines"
+        }
+      ]
+    },
+    {
+      "label": "Official languages",
+      "value": "English Malay Mandarin Tamil",
+      "links": [
+        {
+          "text": "English",
+          "href": "https://en.wikipedia.org/wiki/Singapore_English"
+        },
+        {
+          "text": "Malay",
+          "href": "https://en.wikipedia.org/wiki/Malay_Language"
+        },
+        {
+          "text": "Mandarin",
+          "href": "https://en.wikipedia.org/wiki/Singaporean_Mandarin"
+        },
+        {
+          "text": "Tamil",
+          "href": "https://en.wikipedia.org/wiki/Tamil_language"
+        }
+      ],
+      "sub_items": [
+        "English",
+        "Malay",
+        "Mandarin",
+        "Tamil"
+      ]
+    },
+    {
+      "label": "National language",
+      "value": "Malay",
+      "links": [
+        {
+          "text": "Malay",
+          "href": "https://en.wikipedia.org/wiki/Malay_language"
+        }
+      ]
+    },
+    {
+      "label": "Ethnic groups (2023)",
+      "value": "74.3% Chinese 13.5% Malay 9.0% Indian 3.2% Other",
+      "links": [
+        {
+          "text": "Chinese",
+          "href": "https://en.wikipedia.org/wiki/Chinese_Singaporeans"
+        },
+        {
+          "text": "Malay",
+          "href": "https://en.wikipedia.org/wiki/Malay_Singaporeans"
+        },
+        {
+          "text": "Indian",
+          "href": "https://en.wikipedia.org/wiki/Indian_Singaporeans"
+        },
+        {
+          "text": "Other",
+          "href": "https://en.wikipedia.org/wiki/Demographics_of_Singapore#Ethnic_groups"
+        }
+      ],
+      "sub_items": [
+        "74.3% Chinese 13.5% Malay 9.0% Indian 3.2% Other",
+        "74.3% Chinese",
+        "13.5% Malay",
+        "9.0% Indian",
+        "3.2% Other"
+      ]
+    },
+    {
+      "label": "Religion (2020)",
+      "value": "31.1% Buddhism 20.0% No religion 18.9% Christianity 15.6% Islam 8.8% Taoism 5.0% Hinduism 0.3% Sikhism 0.3% Other",
+      "links": [
+        {
+          "text": "Buddhism",
+          "href": "https://en.wikipedia.org/wiki/Buddhism_in_Singapore"
+        },
+        {
+          "text": "No religion",
+          "href": "https://en.wikipedia.org/wiki/Irreligion_in_Singapore"
+        },
+        {
+          "text": "Christianity",
+          "href": "https://en.wikipedia.org/wiki/Christianity_in_Singapore"
+        },
+        {
+          "text": "Islam",
+          "href": "https://en.wikipedia.org/wiki/Islam_in_Singapore"
+        },
+        {
+          "text": "Taoism",
+          "href": "https://en.wikipedia.org/wiki/Taoism_in_Singapore"
+        },
+        {
+          "text": "Hinduism",
+          "href": "https://en.wikipedia.org/wiki/Hinduism_in_Singapore"
+        },
+        {
+          "text": "Sikhism",
+          "href": "https://en.wikipedia.org/wiki/Sikhism_in_Singapore"
+        },
+        {
+          "text": "Other",
+          "href": "https://en.wikipedia.org/wiki/Religion_in_Singapore"
+        }
+      ],
+      "sub_items": [
+        "31.1% Buddhism",
+        "20.0% No religion",
+        "18.9% Christianity",
+        "15.6% Islam",
+        "8.8% Taoism",
+        "5.0% Hinduism",
+        "0.3% Sikhism",
+        "0.3% Other"
+      ]
+    },
+    {
+      "label": "Demonym",
+      "value": "Singaporean",
+      "links": [
+        {
+          "text": "Singaporean",
+          "href": "https://en.wikipedia.org/wiki/Singaporeans"
+        }
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Unitary parliamentary republic",
+      "links": [
+        {
+          "text": "Unitary parliamentary republic",
+          "href": "https://en.wikipedia.org/wiki/Unitary_parliamentary_republic"
+        }
+      ]
+    },
+    {
+      "label": "• President",
+      "value": "Tharman Shanmugaratnam",
+      "links": [
+        {
+          "text": "Tharman Shanmugaratnam",
+          "href": "https://en.wikipedia.org/wiki/Tharman_Shanmugaratnam"
+        }
+      ]
+    },
+    {
+      "label": "• Prime Minister",
+      "value": "Lawrence Wong",
+      "links": [
+        {
+          "text": "Lawrence Wong",
+          "href": "https://en.wikipedia.org/wiki/Lawrence_Wong"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "Parliament",
+      "links": [
+        {
+          "text": "Parliament",
+          "href": "https://en.wikipedia.org/wiki/Parliament_of_Singapore"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Independence from the United Kingdom and Malaysia",
+      "rows": [
+        {
+          "label": "• Self-governance",
+          "value": "3 June 1959"
+        },
+        {
+          "label": "• Malaysia Agreement",
+          "value": "16 September 1963"
+        },
+        {
+          "label": "• Proclamation of Singapore",
+          "value": "9 August 1965"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "744.3 km (287.4 sq mi) ( 176th )",
+          "links": [
+            {
+              "text": "176th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "1.43%"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2025 estimate",
+          "value": "6,110,200 ( 111th )",
+          "links": [
+            {
+              "text": "111th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• Density",
+          "value": "8,290/km (21,471.0/sq mi) ( 3rd )",
+          "links": [
+            {
+              "text": "3rd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$952.600 billion ( 34th )",
+          "links": [
+            {
+              "text": "34th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$156,755 ( 1st )",
+          "links": [
+            {
+              "text": "1st",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$564.700 billion ( 27th )",
+          "links": [
+            {
+              "text": "27th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$93,956 ( 4th )",
+          "links": [
+            {
+              "text": "4th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "Gini (2023)",
+          "value": "43.3 medium inequality"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.946 very high ( 13th )",
+          "links": [
+            {
+              "text": "13th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "Singapore dollar (S$) ( SGD )",
+          "links": [
+            {
+              "text": "Singapore dollar",
+              "href": "https://en.wikipedia.org/wiki/Singapore_dollar"
+            },
+            {
+              "text": "SGD",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC +8 ( SGT )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "SGT",
+              "href": "https://en.wikipedia.org/wiki/Singapore_Standard_Time"
+            }
+          ]
+        },
+        {
+          "label": "Date format",
+          "value": "dd-mm-yyyy ( AD )",
+          "links": [
+            {
+              "text": "AD",
+              "href": "https://en.wikipedia.org/wiki/Anno_Domini"
+            }
+          ]
+        },
+        {
+          "label": "Calling code",
+          "value": "+65",
+          "links": [
+            {
+              "text": "+65",
+              "href": "https://en.wikipedia.org/wiki/%2B65"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "SG",
+          "links": [
+            {
+              "text": "SG",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:SG"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".sg",
+          "links": [
+            {
+              "text": ".sg",
+              "href": "https://en.wikipedia.org/wiki/.sg"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

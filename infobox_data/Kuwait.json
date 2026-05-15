@@ -1,0 +1,336 @@
+{
+  "country": "Kuwait",
+  "infobox_title": "State of Kuwait دَوْلَةُ الكويت ( Arabic ) Dawlat al-Kuwayt",
+  "data": [
+    {
+      "label": "Capital and largest city",
+      "value": "Kuwait City",
+      "links": [
+        {
+          "text": "Kuwait City",
+          "href": "https://en.wikipedia.org/wiki/Kuwait_City"
+        }
+      ]
+    },
+    {
+      "label": "Official languages",
+      "value": "Arabic",
+      "links": [
+        {
+          "text": "Arabic",
+          "href": "https://en.wikipedia.org/wiki/Modern_Standard_Arabic"
+        }
+      ]
+    },
+    {
+      "label": "Ethnic groups (2018)",
+      "value": "57.8% Arab 40.3% South Asian 1.0% African 0.9% other",
+      "links": [
+        {
+          "text": "Arab",
+          "href": "https://en.wikipedia.org/wiki/Arab"
+        },
+        {
+          "text": "South Asian",
+          "href": "https://en.wikipedia.org/wiki/South_Asian_ethnic_groups"
+        },
+        {
+          "text": "African",
+          "href": "https://en.wikipedia.org/wiki/List_of_ethnic_groups_of_Africa"
+        },
+        {
+          "text": "other",
+          "href": "https://en.wikipedia.org/wiki/Demographics_of_Kuwait"
+        }
+      ],
+      "sub_items": [
+        "57.8% Arab",
+        "40.3% South Asian",
+        "1.0% African",
+        "0.9% other"
+      ]
+    },
+    {
+      "label": "Religion (2013)",
+      "value": "74.6% Islam ( official ) 18.2% Christianity 7.2% other",
+      "links": [
+        {
+          "text": "Islam",
+          "href": "https://en.wikipedia.org/wiki/Islam_in_Kuwait"
+        },
+        {
+          "text": "official",
+          "href": "https://en.wikipedia.org/wiki/State_religion"
+        },
+        {
+          "text": "Christianity",
+          "href": "https://en.wikipedia.org/wiki/Christianity_in_Kuwait"
+        },
+        {
+          "text": "other",
+          "href": "https://en.wikipedia.org/wiki/Religion_in_Kuwait"
+        }
+      ],
+      "sub_items": [
+        "74.6% Islam ( official )",
+        "18.2% Christianity",
+        "7.2% other"
+      ]
+    },
+    {
+      "label": "Demonym",
+      "value": "Kuwaiti",
+      "links": [
+        {
+          "text": "Kuwaiti",
+          "href": "https://en.wikipedia.org/wiki/Demographics_of_Kuwait"
+        }
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Unitary semi-constitutional monarchy",
+      "links": [
+        {
+          "text": "semi-constitutional monarchy",
+          "href": "https://en.wikipedia.org/wiki/Semi-constitutional_monarchy"
+        }
+      ]
+    },
+    {
+      "label": "• Emir",
+      "value": "Mishal Al-Ahmad Al-Jaber Al-Sabah",
+      "links": [
+        {
+          "text": "Mishal Al-Ahmad Al-Jaber Al-Sabah",
+          "href": "https://en.wikipedia.org/wiki/Mishal_Al-Ahmad_Al-Jaber_Al-Sabah"
+        }
+      ]
+    },
+    {
+      "label": "• Crown Prince",
+      "value": "Sabah Al-Khalid Al-Sabah",
+      "links": [
+        {
+          "text": "Sabah Al-Khalid Al-Sabah",
+          "href": "https://en.wikipedia.org/wiki/Sabah_Al-Khalid_Al-Sabah"
+        }
+      ]
+    },
+    {
+      "label": "• Prime Minister",
+      "value": "Ahmad Al-Abdullah Al-Sabah",
+      "links": [
+        {
+          "text": "Ahmad Al-Abdullah Al-Sabah",
+          "href": "https://en.wikipedia.org/wiki/Ahmad_Al-Abdullah_Al-Sabah"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "The National Assembly (suspended)",
+      "links": [
+        {
+          "text": "The National Assembly",
+          "href": "https://en.wikipedia.org/wiki/National_Assembly_(Kuwait)"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Establishment",
+      "rows": [
+        {
+          "label": "• Independence from Bani Khalid",
+          "value": "1752"
+        },
+        {
+          "label": "• Anglo-Kuwaiti Agreement",
+          "value": "23 January 1899"
+        },
+        {
+          "label": "• Anglo-Ottoman Convention",
+          "value": "29 July 1913"
+        },
+        {
+          "label": "• End of British Protectorate",
+          "value": "19 June 1961"
+        },
+        {
+          "label": "• Current Constitution",
+          "value": "11 November 1962"
+        },
+        {
+          "label": "• Iraqi invasion of Kuwait",
+          "value": "28 August 1990"
+        },
+        {
+          "label": "• Liberation of Kuwait",
+          "value": "28 February 1991"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "17,818 km (6,880 sq mi) ( 152nd )",
+          "links": [
+            {
+              "text": "152nd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "negligible"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2025 estimate",
+          "value": "4,985,716 ( 128th )",
+          "links": [
+            {
+              "text": "128th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• Density",
+          "value": "200.2/km (518.5/sq mi) ( 62nd )",
+          "links": [
+            {
+              "text": "62nd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$260.500 billion ( 74th )",
+          "links": [
+            {
+              "text": "74th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$50,960 ( 40th )",
+          "links": [
+            {
+              "text": "40th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$153.100 billion ( 59th )",
+          "links": [
+            {
+              "text": "59th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$29,950 ( 41st )",
+          "links": [
+            {
+              "text": "41st",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.852 very high ( 52nd )",
+          "links": [
+            {
+              "text": "52nd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "Kuwaiti dinar ( KWD )",
+          "links": [
+            {
+              "text": "Kuwaiti dinar",
+              "href": "https://en.wikipedia.org/wiki/Kuwaiti_dinar"
+            },
+            {
+              "text": "KWD",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC +3 ( AST )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "AST",
+              "href": "https://en.wikipedia.org/wiki/UTC%2B03:00#Arabia_Standard_Time"
+            }
+          ]
+        },
+        {
+          "label": "Calling code",
+          "value": "+965",
+          "links": [
+            {
+              "text": "+965",
+              "href": "https://en.wikipedia.org/wiki/Telephone_numbers_in_Kuwait"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "KW",
+          "links": [
+            {
+              "text": "KW",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:KW"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".kw",
+          "links": [
+            {
+              "text": ".kw",
+              "href": "https://en.wikipedia.org/wiki/.kw"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

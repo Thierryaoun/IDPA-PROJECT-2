@@ -1,0 +1,351 @@
+{
+  "label": "country",
+  "children": [
+    {
+      "label": "name",
+      "children": [
+        {
+          "label": "egypt"
+        }
+      ]
+    },
+    {
+      "label": "infobox_title",
+      "children": [
+        {
+          "label": "arab republic of egypt جمهورية مصر العربية jumhūriyyat miṣr al-ʻarabiyyah"
+        }
+      ]
+    },
+    {
+      "label": "capital_and_largest_city",
+      "children": [
+        {
+          "label": "cairo / 30."
+        }
+      ]
+    },
+    {
+      "label": "official_languages",
+      "children": [
+        {
+          "label": "arabic"
+        }
+      ]
+    },
+    {
+      "label": "national_language",
+      "children": [
+        {
+          "label": "egyptian arabic"
+        }
+      ]
+    },
+    {
+      "label": "religion",
+      "children": [
+        {
+          "label": "see religion in egypt"
+        }
+      ]
+    },
+    {
+      "label": "demonym",
+      "children": [
+        {
+          "label": "egyptian"
+        }
+      ]
+    },
+    {
+      "label": "government",
+      "children": [
+        {
+          "label": "unitary semi-presidential republic under an authoritarian government"
+        }
+      ]
+    },
+    {
+      "label": "president",
+      "children": [
+        {
+          "label": "abdel fattah el-sisi"
+        }
+      ]
+    },
+    {
+      "label": "prime_minister",
+      "children": [
+        {
+          "label": "mostafa madbouly"
+        }
+      ]
+    },
+    {
+      "label": "legislature",
+      "children": [
+        {
+          "label": "parliament"
+        }
+      ]
+    },
+    {
+      "label": "upper_house",
+      "children": [
+        {
+          "label": "senate"
+        }
+      ]
+    },
+    {
+      "label": "lower_house",
+      "children": [
+        {
+          "label": "house of representatives"
+        }
+      ]
+    },
+    {
+      "label": "establishment",
+      "children": [
+        {
+          "label": "unification_of_upper_and_lower_egypt",
+          "children": [
+            {
+              "label": "c. 3150 bc"
+            }
+          ]
+        },
+        {
+          "label": "fatimid_caliphate",
+          "children": [
+            {
+              "label": "c. 973"
+            }
+          ]
+        },
+        {
+          "label": "ayyubid_dynasty_inaugurated",
+          "children": [
+            {
+              "label": "c. 1171"
+            }
+          ]
+        },
+        {
+          "label": "mamluk_egypt",
+          "children": [
+            {
+              "label": "c. 1261"
+            }
+          ]
+        },
+        {
+          "label": "alawiyya_dynasty_inaugurated",
+          "children": [
+            {
+              "label": "9 july 1805"
+            }
+          ]
+        },
+        {
+          "label": "declaration_of_independence",
+          "children": [
+            {
+              "label": "28 february 1922"
+            }
+          ]
+        },
+        {
+          "label": "revolution_day",
+          "children": [
+            {
+              "label": "23 july 1952"
+            }
+          ]
+        },
+        {
+          "label": "republic_declared",
+          "children": [
+            {
+              "label": "18 june 1953"
+            }
+          ]
+        },
+        {
+          "label": "current_constitution",
+          "children": [
+            {
+              "label": "18 january 2014"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "area",
+      "children": [
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "1,010,408 km"
+            }
+          ]
+        },
+        {
+          "label": "water",
+          "children": [
+            {
+              "label": "0.632"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "population",
+      "children": [
+        {
+          "label": "july_2025_estimate",
+          "children": [
+            {
+              "label": "107,868,296"
+            }
+          ]
+        },
+        {
+          "label": "2017_census",
+          "children": [
+            {
+              "label": "94,798,827"
+            }
+          ]
+        },
+        {
+          "label": "density",
+          "children": [
+            {
+              "label": "106.8/km"
+            }
+          ]
+        },
+        {
+          "label": "gdp_ppp",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$2.372 trillion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$21,668"
+            }
+          ]
+        },
+        {
+          "label": "gdp_nominal",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$347.342 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$3,174"
+            }
+          ]
+        },
+        {
+          "label": "gini_2021",
+          "children": [
+            {
+              "label": "28.5 low inequality"
+            }
+          ]
+        },
+        {
+          "label": "hdi_2023",
+          "children": [
+            {
+              "label": "0.754 high"
+            }
+          ]
+        },
+        {
+          "label": "currency",
+          "children": [
+            {
+              "label": "egyptian pound"
+            }
+          ]
+        },
+        {
+          "label": "time_zone",
+          "children": [
+            {
+              "label": "utc +2"
+            }
+          ]
+        },
+        {
+          "label": "summer_dst",
+          "children": [
+            {
+              "label": "utc +3"
+            }
+          ]
+        },
+        {
+          "label": "calling_code",
+          "children": [
+            {
+              "label": "+20"
+            }
+          ]
+        },
+        {
+          "label": "iso_3166_code",
+          "children": [
+            {
+              "label": "eg"
+            }
+          ]
+        },
+        {
+          "label": "internet_tld",
+          "children": [
+            {
+              "label": ".eg"
+            },
+            {
+              "label": "مصر."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

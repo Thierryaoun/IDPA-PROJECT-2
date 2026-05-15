@@ -1,0 +1,349 @@
+{
+  "label": "country",
+  "children": [
+    {
+      "label": "name",
+      "children": [
+        {
+          "label": "fiji"
+        }
+      ]
+    },
+    {
+      "label": "infobox_title",
+      "children": [
+        {
+          "label": "republic of fiji matanitu tugalala o viti फ़िजी गणराज्य; fijī gaṇarājya"
+        }
+      ]
+    },
+    {
+      "label": "capital_and_largest_city",
+      "children": [
+        {
+          "label": "suva / 18."
+        }
+      ]
+    },
+    {
+      "label": "recognised_national_languages",
+      "children": [
+        {
+          "label": "fijian"
+        },
+        {
+          "label": "english"
+        },
+        {
+          "label": "standard hindi"
+        },
+        {
+          "label": "fiji hindi"
+        }
+      ]
+    },
+    {
+      "label": "recognised_regional_languages",
+      "children": [
+        {
+          "label": "rotuman"
+        }
+      ]
+    },
+    {
+      "label": "ethnic_groups_2016",
+      "children": [
+        {
+          "label": "56.8% indigenous fijians"
+        },
+        {
+          "label": "37.5% indo-fijians"
+        },
+        {
+          "label": "1.2% rotumans"
+        },
+        {
+          "label": "4.5% others"
+        }
+      ]
+    },
+    {
+      "label": "religion",
+      "children": [
+        {
+          "label": "64.4% christianity"
+        },
+        {
+          "label": "34.6% methodism"
+        },
+        {
+          "label": "29.8% other christian"
+        },
+        {
+          "label": "27.9% hinduism"
+        },
+        {
+          "label": "6.3% islam"
+        },
+        {
+          "label": "1.4% others / none"
+        }
+      ]
+    },
+    {
+      "label": "demonym",
+      "children": [
+        {
+          "label": "fijian"
+        }
+      ]
+    },
+    {
+      "label": "government",
+      "children": [
+        {
+          "label": "unitary parliamentary republic"
+        }
+      ]
+    },
+    {
+      "label": "president",
+      "children": [
+        {
+          "label": "naiqama lalabalavu"
+        }
+      ]
+    },
+    {
+      "label": "prime_minister",
+      "children": [
+        {
+          "label": "sitiveni rabuka"
+        }
+      ]
+    },
+    {
+      "label": "deputy_prime_minister",
+      "children": [
+        {
+          "label": "viliame gavoka"
+        }
+      ]
+    },
+    {
+      "label": "parliament_speaker",
+      "children": [
+        {
+          "label": "filimone jitoko"
+        }
+      ]
+    },
+    {
+      "label": "chief_justice",
+      "children": [
+        {
+          "label": "salesi temo"
+        }
+      ]
+    },
+    {
+      "label": "legislature",
+      "children": [
+        {
+          "label": "parliament"
+        }
+      ]
+    },
+    {
+      "label": "independence_from_the_united_kingdom",
+      "children": [
+        {
+          "label": "independence",
+          "children": [
+            {
+              "label": "10 october 1970"
+            }
+          ]
+        },
+        {
+          "label": "republic",
+          "children": [
+            {
+              "label": "6 october 1987"
+            }
+          ]
+        },
+        {
+          "label": "current_constitution",
+          "children": [
+            {
+              "label": "6 september 2013"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "area",
+      "children": [
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "18,274 km"
+            }
+          ]
+        },
+        {
+          "label": "water",
+          "children": [
+            {
+              "label": "negligible"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "population",
+      "children": [
+        {
+          "label": "2018_estimate",
+          "children": [
+            {
+              "label": "926,276"
+            }
+          ]
+        },
+        {
+          "label": "2017_census",
+          "children": [
+            {
+              "label": "884,887"
+            }
+          ]
+        },
+        {
+          "label": "density",
+          "children": [
+            {
+              "label": "46.4/km"
+            }
+          ]
+        },
+        {
+          "label": "gdp_ppp",
+          "children": [
+            {
+              "label": "2023 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$15.152 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$16,563"
+            }
+          ]
+        },
+        {
+          "label": "gdp_nominal",
+          "children": [
+            {
+              "label": "2023 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$5.511 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$6,024"
+            }
+          ]
+        },
+        {
+          "label": "gini_2019",
+          "children": [
+            {
+              "label": "30.7 medium inequality"
+            }
+          ]
+        },
+        {
+          "label": "hdi_2023",
+          "children": [
+            {
+              "label": "0.731 high"
+            }
+          ]
+        },
+        {
+          "label": "currency",
+          "children": [
+            {
+              "label": "fijian dollar"
+            }
+          ]
+        },
+        {
+          "label": "time_zone",
+          "children": [
+            {
+              "label": "utc +12"
+            }
+          ]
+        },
+        {
+          "label": "date_format",
+          "children": [
+            {
+              "label": "dd/mm/yyyy"
+            }
+          ]
+        },
+        {
+          "label": "calling_code",
+          "children": [
+            {
+              "label": "+679"
+            }
+          ]
+        },
+        {
+          "label": "iso_3166_code",
+          "children": [
+            {
+              "label": "fj"
+            }
+          ]
+        },
+        {
+          "label": "internet_tld",
+          "children": [
+            {
+              "label": ".fj"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

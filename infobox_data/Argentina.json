@@ -1,0 +1,415 @@
+{
+  "country": "Argentina",
+  "infobox_title": "Argentine Republic República Argentina ( Spanish )",
+  "data": [
+    {
+      "label": "Capital and largest city",
+      "value": "Buenos Aires 34°36′S 58°23′W ﻿ / ﻿ 34.600°S 58.383°W",
+      "links": [
+        {
+          "text": "Buenos Aires",
+          "href": "https://en.wikipedia.org/wiki/Buenos_Aires"
+        },
+        {
+          "text": "34°36′S58°23′W﻿ / ﻿34.600°S 58.383°W",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Argentina&params=34_36_S_58_23_W_type:city"
+        }
+      ]
+    },
+    {
+      "label": "National language",
+      "value": "Spanish",
+      "links": [
+        {
+          "text": "Spanish",
+          "href": "https://en.wikipedia.org/wiki/Spanish_language"
+        }
+      ]
+    },
+    {
+      "label": "Regional languages",
+      "value": "Guaraní in Corrientes Quechua in Santiago del Estero Qom , Mocoví , and Wichí in Chaco",
+      "links": [
+        {
+          "text": "Guaraní",
+          "href": "https://en.wikipedia.org/wiki/Guarani_language"
+        },
+        {
+          "text": "Corrientes",
+          "href": "https://en.wikipedia.org/wiki/Corrientes_Province"
+        },
+        {
+          "text": "Quechua",
+          "href": "https://en.wikipedia.org/wiki/Southern_Quechua"
+        },
+        {
+          "text": "Santiago del Estero",
+          "href": "https://en.wikipedia.org/wiki/Santiago_del_Estero_Province"
+        },
+        {
+          "text": "Qom",
+          "href": "https://en.wikipedia.org/wiki/Toba_Qom_language"
+        },
+        {
+          "text": "Mocoví",
+          "href": "https://en.wikipedia.org/wiki/Mocov%C3%AD_language"
+        },
+        {
+          "text": "Wichí",
+          "href": "https://en.wikipedia.org/wiki/Wich%C3%AD_languages"
+        },
+        {
+          "text": "Chaco",
+          "href": "https://en.wikipedia.org/wiki/Chaco_Province"
+        }
+      ],
+      "sub_items": [
+        "Guaraní in Corrientes",
+        "Quechua in Santiago del Estero",
+        "Qom , Mocoví , and Wichí in Chaco"
+      ]
+    },
+    {
+      "label": "Religion (2019)",
+      "value": "78.2% Christianity 62.9% Catholicism 15.3% other Christian 20.5% no religion 1.3% other",
+      "links": [
+        {
+          "text": "Christianity",
+          "href": "https://en.wikipedia.org/wiki/Christianity"
+        },
+        {
+          "text": "Catholicism",
+          "href": "https://en.wikipedia.org/wiki/Catholic_Church_in_Argentina"
+        },
+        {
+          "text": "Christian",
+          "href": "https://en.wikipedia.org/wiki/Christian"
+        },
+        {
+          "text": "no religion",
+          "href": "https://en.wikipedia.org/wiki/Irreligion_in_Latin_America"
+        }
+      ],
+      "sub_items": [
+        "78.2% Christianity 62.9% Catholicism 15.3% other Christian",
+        "78.2% Christianity 62.9% Catholicism 15.3% other Christian",
+        "62.9% Catholicism",
+        "15.3% other Christian",
+        "20.5% no religion",
+        "1.3% other"
+      ]
+    },
+    {
+      "label": "Demonyms",
+      "value": "Argentine Argentinian Argentinean",
+      "links": [
+        {
+          "text": "Argentine",
+          "href": "https://en.wikipedia.org/wiki/Argentines"
+        }
+      ],
+      "sub_items": [
+        "Argentine",
+        "Argentinian",
+        "Argentinean"
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Federal presidential republic",
+      "links": [
+        {
+          "text": "presidential republic",
+          "href": "https://en.wikipedia.org/wiki/Presidential_republic"
+        }
+      ]
+    },
+    {
+      "label": "• President",
+      "value": "Javier Milei",
+      "links": [
+        {
+          "text": "Javier Milei",
+          "href": "https://en.wikipedia.org/wiki/Javier_Milei"
+        }
+      ]
+    },
+    {
+      "label": "• Vice President",
+      "value": "Victoria Villarruel",
+      "links": [
+        {
+          "text": "Victoria Villarruel",
+          "href": "https://en.wikipedia.org/wiki/Victoria_Villarruel"
+        }
+      ]
+    },
+    {
+      "label": "• Chief of the Cabinet of Ministers",
+      "value": "Manuel Adorni",
+      "links": [
+        {
+          "text": "Manuel Adorni",
+          "href": "https://en.wikipedia.org/wiki/Manuel_Adorni"
+        }
+      ]
+    },
+    {
+      "label": "• President of the Chamber of Deputies",
+      "value": "Martín Menem",
+      "links": [
+        {
+          "text": "Martín Menem",
+          "href": "https://en.wikipedia.org/wiki/Mart%C3%ADn_Menem"
+        }
+      ]
+    },
+    {
+      "label": "• President of Supreme Court",
+      "value": "Horacio Rosatti",
+      "links": [
+        {
+          "text": "Horacio Rosatti",
+          "href": "https://en.wikipedia.org/wiki/Horacio_Rosatti"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "National Congress",
+      "links": [
+        {
+          "text": "National Congress",
+          "href": "https://en.wikipedia.org/wiki/National_Congress_of_Argentina"
+        }
+      ]
+    },
+    {
+      "label": "• Upper house",
+      "value": "Chamber of Senators",
+      "links": [
+        {
+          "text": "Chamber of Senators",
+          "href": "https://en.wikipedia.org/wiki/Argentine_Senate"
+        }
+      ]
+    },
+    {
+      "label": "• Lower house",
+      "value": "Chamber of Deputies",
+      "links": [
+        {
+          "text": "Chamber of Deputies",
+          "href": "https://en.wikipedia.org/wiki/Argentine_Chamber_of_Deputies"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Independence from Spain",
+      "rows": [
+        {
+          "label": "• May Revolution",
+          "value": "25 May 1810"
+        },
+        {
+          "label": "• Declared",
+          "value": "9 July 1816"
+        },
+        {
+          "label": "• Constitution",
+          "value": "1 May 1853"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "2,780,085 km (1,073,397 sq mi) ( 8th )",
+          "links": [
+            {
+              "text": "8th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "1.57"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2025 estimate",
+          "value": "46,735,004 ( 33rd )",
+          "links": [
+            {
+              "text": "33rd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• 2022 census",
+          "value": "46,044,703 ( 32nd )",
+          "links": [
+            {
+              "text": "32nd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• Density",
+          "value": "16.8/km (43.5/sq mi) ( 214th )",
+          "links": [
+            {
+              "text": "214th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$1.493 trillion ( 28th )",
+          "links": [
+            {
+              "text": "28th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$31,379 ( 68th )",
+          "links": [
+            {
+              "text": "68th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$683.533 billion ( 23rd )",
+          "links": [
+            {
+              "text": "23rd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$14,362 ( 66th )",
+          "links": [
+            {
+              "text": "66th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "Gini (2022)",
+          "value": "40.7 medium inequality"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.865 very high ( 47th )",
+          "links": [
+            {
+              "text": "47th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "Argentine peso ( $ ) ( ARS )",
+          "links": [
+            {
+              "text": "Argentine peso",
+              "href": "https://en.wikipedia.org/wiki/Argentine_peso"
+            },
+            {
+              "text": "$",
+              "href": "https://en.wikipedia.org/wiki/Dollar_sign"
+            },
+            {
+              "text": "ARS",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC – 03:00 ( ART )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "ART",
+              "href": "https://en.wikipedia.org/wiki/Time_in_Argentina"
+            }
+          ]
+        },
+        {
+          "label": "Date format",
+          "value": "dd / mm / yyyy ( CE )",
+          "links": [
+            {
+              "text": "CE",
+              "href": "https://en.wikipedia.org/wiki/Common_Era"
+            }
+          ]
+        },
+        {
+          "label": "Calling code",
+          "value": "+54",
+          "links": [
+            {
+              "text": "+54",
+              "href": "https://en.wikipedia.org/wiki/%2B54"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "AR",
+          "links": [
+            {
+              "text": "AR",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:AR"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".ar",
+          "links": [
+            {
+              "text": ".ar",
+              "href": "https://en.wikipedia.org/wiki/.ar"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

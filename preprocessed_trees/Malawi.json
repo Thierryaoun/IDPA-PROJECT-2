@@ -1,0 +1,365 @@
+{
+  "label": "country",
+  "children": [
+    {
+      "label": "name",
+      "children": [
+        {
+          "label": "malawi"
+        }
+      ]
+    },
+    {
+      "label": "infobox_title",
+      "children": [
+        {
+          "label": "republic of malawi dziko la malaŵi charu cha malaŵi"
+        }
+      ]
+    },
+    {
+      "label": "capital_and_largest_city",
+      "children": [
+        {
+          "label": "lilongwe / 13."
+        }
+      ]
+    },
+    {
+      "label": "official_languages",
+      "children": [
+        {
+          "label": "english"
+        }
+      ]
+    },
+    {
+      "label": "recognised_regional_languages",
+      "children": [
+        {
+          "label": "chichewa"
+        },
+        {
+          "label": "chitumbuka"
+        }
+      ]
+    },
+    {
+      "label": "ethnic_groups_2024_census",
+      "children": [
+        {
+          "label": "25.2% chewa"
+        },
+        {
+          "label": "20.4% tumbuka"
+        },
+        {
+          "label": "16.4% lomwe"
+        },
+        {
+          "label": "15.3% yao"
+        },
+        {
+          "label": "6.4% ngoni"
+        },
+        {
+          "label": "5.9% sena"
+        },
+        {
+          "label": "3.8% mang'anja"
+        },
+        {
+          "label": "1.8% tonga"
+        },
+        {
+          "label": "1.5% ngonde"
+        },
+        {
+          "label": "0.6% lambya"
+        },
+        {
+          "label": "0.5% sukwa"
+        },
+        {
+          "label": "1.1% other"
+        }
+      ]
+    },
+    {
+      "label": "religion_2018_census",
+      "children": [
+        {
+          "label": "82.3% christianity"
+        },
+        {
+          "label": "58.5% protestantism"
+        },
+        {
+          "label": "17.2% catholicism"
+        },
+        {
+          "label": "6.6% other christian"
+        },
+        {
+          "label": "13.8% islam"
+        },
+        {
+          "label": "2.1% none"
+        },
+        {
+          "label": "1.2% traditional faiths"
+        },
+        {
+          "label": "0.6% other"
+        }
+      ]
+    },
+    {
+      "label": "demonym",
+      "children": [
+        {
+          "label": "malawian"
+        }
+      ]
+    },
+    {
+      "label": "government",
+      "children": [
+        {
+          "label": "unitary presidential republic"
+        }
+      ]
+    },
+    {
+      "label": "president",
+      "children": [
+        {
+          "label": "peter mutharika"
+        }
+      ]
+    },
+    {
+      "label": "vice_president",
+      "children": [
+        {
+          "label": "jane ansah"
+        }
+      ]
+    },
+    {
+      "label": "house_speaker",
+      "children": [
+        {
+          "label": "sameer suleman"
+        }
+      ]
+    },
+    {
+      "label": "chief_justice",
+      "children": [
+        {
+          "label": "rizine mzikamanda"
+        }
+      ]
+    },
+    {
+      "label": "legislature",
+      "children": [
+        {
+          "label": "national assembly"
+        }
+      ]
+    },
+    {
+      "label": "independence_from_the_united_kingdom",
+      "children": [
+        {
+          "label": "dominion",
+          "children": [
+            {
+              "label": "6 july 1964"
+            }
+          ]
+        },
+        {
+          "label": "republic",
+          "children": [
+            {
+              "label": "6 july 1966"
+            }
+          ]
+        },
+        {
+          "label": "current_constitution",
+          "children": [
+            {
+              "label": "18 may 1994"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "area",
+      "children": [
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "118,484 km"
+            }
+          ]
+        },
+        {
+          "label": "water",
+          "children": [
+            {
+              "label": "20.6%"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "population",
+      "children": [
+        {
+          "label": "2024_estimate",
+          "children": [
+            {
+              "label": "21,240,689"
+            }
+          ]
+        },
+        {
+          "label": "2018_census",
+          "children": [
+            {
+              "label": "17,563,749"
+            }
+          ]
+        },
+        {
+          "label": "density",
+          "children": [
+            {
+              "label": "153.1/km"
+            }
+          ]
+        },
+        {
+          "label": "gdp_ppp",
+          "children": [
+            {
+              "label": "2023 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$37.919 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$1,668"
+            }
+          ]
+        },
+        {
+          "label": "gdp_nominal",
+          "children": [
+            {
+              "label": "2023 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$13.176 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$579"
+            }
+          ]
+        },
+        {
+          "label": "gini_2016",
+          "children": [
+            {
+              "label": "44.7 medium inequality"
+            }
+          ]
+        },
+        {
+          "label": "hdi_2023",
+          "children": [
+            {
+              "label": "0.517 low"
+            }
+          ]
+        },
+        {
+          "label": "currency",
+          "children": [
+            {
+              "label": "malawian kwacha"
+            }
+          ]
+        },
+        {
+          "label": "time_zone",
+          "children": [
+            {
+              "label": "utc +2"
+            }
+          ]
+        },
+        {
+          "label": "date_format",
+          "children": [
+            {
+              "label": "dd/mm/yyyy"
+            }
+          ]
+        },
+        {
+          "label": "calling_code",
+          "children": [
+            {
+              "label": "+265"
+            }
+          ]
+        },
+        {
+          "label": "iso_3166_code",
+          "children": [
+            {
+              "label": "mw"
+            }
+          ]
+        },
+        {
+          "label": "internet_tld",
+          "children": [
+            {
+              "label": ".mw"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

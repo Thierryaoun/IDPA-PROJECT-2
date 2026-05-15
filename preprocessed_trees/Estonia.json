@@ -1,0 +1,314 @@
+{
+  "label": "country",
+  "children": [
+    {
+      "label": "name",
+      "children": [
+        {
+          "label": "estonia"
+        }
+      ]
+    },
+    {
+      "label": "infobox_title",
+      "children": [
+        {
+          "label": "republic of estonia eesti vabariik"
+        }
+      ]
+    },
+    {
+      "label": "capital_and_largest_city",
+      "children": [
+        {
+          "label": "tallinn / 59."
+        }
+      ]
+    },
+    {
+      "label": "official_language",
+      "children": [
+        {
+          "label": "estonian"
+        }
+      ]
+    },
+    {
+      "label": "ethnic_groups_2025",
+      "children": [
+        {
+          "label": "68.5% estonians"
+        },
+        {
+          "label": "20.9% russians"
+        },
+        {
+          "label": "5.4% ukrainians"
+        },
+        {
+          "label": "4.6% other"
+        },
+        {
+          "label": "0.6% undeclared"
+        }
+      ]
+    },
+    {
+      "label": "religion_2021",
+      "children": [
+        {
+          "label": "58.4% no religion"
+        },
+        {
+          "label": "26.7% christianity"
+        },
+        {
+          "label": "16.3% eastern orthodoxy"
+        },
+        {
+          "label": "7.7% lutheranism"
+        },
+        {
+          "label": "2.7% other christian"
+        },
+        {
+          "label": "12.7% undeclared"
+        },
+        {
+          "label": "2.1% other"
+        }
+      ]
+    },
+    {
+      "label": "demonym",
+      "children": [
+        {
+          "label": "estonian"
+        }
+      ]
+    },
+    {
+      "label": "government",
+      "children": [
+        {
+          "label": "unitary parliamentary republic"
+        }
+      ]
+    },
+    {
+      "label": "president",
+      "children": [
+        {
+          "label": "alar karis"
+        }
+      ]
+    },
+    {
+      "label": "prime_minister",
+      "children": [
+        {
+          "label": "kristen michal"
+        }
+      ]
+    },
+    {
+      "label": "legislature",
+      "children": [
+        {
+          "label": "riigikogu"
+        }
+      ]
+    },
+    {
+      "label": "independence_from_russian_and_german_empires",
+      "children": [
+        {
+          "label": "declaration_of_independence",
+          "children": [
+            {
+              "label": "24 february 1918"
+            }
+          ]
+        },
+        {
+          "label": "german_and_soviet_occupations",
+          "children": [
+            {
+              "label": "1940–1991"
+            }
+          ]
+        },
+        {
+          "label": "restoration_of_independence",
+          "children": [
+            {
+              "label": "20 august 1991"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "area",
+      "children": [
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "45,335 km"
+            }
+          ]
+        },
+        {
+          "label": "water",
+          "children": [
+            {
+              "label": "4.6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "population",
+      "children": [
+        {
+          "label": "2026_estimate",
+          "children": [
+            {
+              "label": "1,362,954"
+            }
+          ]
+        },
+        {
+          "label": "2021_census",
+          "children": [
+            {
+              "label": "1,331,824"
+            }
+          ]
+        },
+        {
+          "label": "density",
+          "children": [
+            {
+              "label": "30.3/km"
+            }
+          ]
+        },
+        {
+          "label": "gdp_ppp",
+          "children": [
+            {
+              "label": "2026 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$68.240 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$50,758"
+            }
+          ]
+        },
+        {
+          "label": "gdp_nominal",
+          "children": [
+            {
+              "label": "2026 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$45.00 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$37,195"
+            }
+          ]
+        },
+        {
+          "label": "gini_2021",
+          "children": [
+            {
+              "label": "30.6 medium inequality"
+            }
+          ]
+        },
+        {
+          "label": "hdi_2023",
+          "children": [
+            {
+              "label": "0.905 very high"
+            }
+          ]
+        },
+        {
+          "label": "currency",
+          "children": [
+            {
+              "label": "euro"
+            }
+          ]
+        },
+        {
+          "label": "time_zone",
+          "children": [
+            {
+              "label": "utc +02:00"
+            }
+          ]
+        },
+        {
+          "label": "summer_dst",
+          "children": [
+            {
+              "label": "utc +03:00"
+            }
+          ]
+        },
+        {
+          "label": "calling_code",
+          "children": [
+            {
+              "label": "+372"
+            }
+          ]
+        },
+        {
+          "label": "iso_3166_code",
+          "children": [
+            {
+              "label": "ee"
+            }
+          ]
+        },
+        {
+          "label": "internet_tld",
+          "children": [
+            {
+              "label": ".ee"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

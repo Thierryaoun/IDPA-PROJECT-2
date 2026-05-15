@@ -1,0 +1,425 @@
+{
+  "label": "country",
+  "children": [
+    {
+      "label": "name",
+      "children": [
+        {
+          "label": "nepal"
+        }
+      ]
+    },
+    {
+      "label": "infobox_title",
+      "children": [
+        {
+          "label": "federal democratic republic of nepal सङ्घीय लोकतान्त्रिक गणतन्त्र नेपाल saṅghīya lokatāntrika gaṇatantra nepāla"
+        }
+      ]
+    },
+    {
+      "label": "capital_and_largest_city",
+      "children": [
+        {
+          "label": "kathmandu / 28."
+        }
+      ]
+    },
+    {
+      "label": "official_languages",
+      "children": [
+        {
+          "label": "nepali"
+        }
+      ]
+    },
+    {
+      "label": "recognised_national_languages",
+      "children": [
+        {
+          "label": "all mother-tongues"
+        }
+      ]
+    },
+    {
+      "label": "ethnic_groups_2021",
+      "children": [
+        {
+          "label": "35% janajati"
+        },
+        {
+          "label": "6.9% magar"
+        },
+        {
+          "label": "6.2% tharu"
+        },
+        {
+          "label": "5.6% tamang"
+        },
+        {
+          "label": "4.6% newar"
+        },
+        {
+          "label": "2.2% rai"
+        },
+        {
+          "label": "1.8% gurung"
+        },
+        {
+          "label": "1.5% limbu"
+        },
+        {
+          "label": "6.2% other"
+        },
+        {
+          "label": "30% khas arya"
+        },
+        {
+          "label": "16.4% chhetri"
+        },
+        {
+          "label": "11.2% bahun"
+        },
+        {
+          "label": "1.7% thakuri"
+        },
+        {
+          "label": "0.7% other"
+        },
+        {
+          "label": "16% madheshi"
+        },
+        {
+          "label": "4.2% yadav"
+        },
+        {
+          "label": "1.4% teli"
+        },
+        {
+          "label": "1.3% chamar"
+        },
+        {
+          "label": "1.2% kushwaha"
+        },
+        {
+          "label": "8.5% other"
+        },
+        {
+          "label": "14% dalit"
+        },
+        {
+          "label": "5% kami"
+        },
+        {
+          "label": "1.9% damai"
+        },
+        {
+          "label": "1.5% sarki"
+        },
+        {
+          "label": "5.6% other"
+        },
+        {
+          "label": "5% musalman"
+        }
+      ]
+    },
+    {
+      "label": "religion_2021",
+      "children": [
+        {
+          "label": "81% hinduism"
+        },
+        {
+          "label": "8% buddhism"
+        },
+        {
+          "label": "5% islam"
+        },
+        {
+          "label": "3% kirat"
+        },
+        {
+          "label": "2% christianity"
+        },
+        {
+          "label": "1% other"
+        }
+      ]
+    },
+    {
+      "label": "demonyms",
+      "children": [
+        {
+          "label": "nepali"
+        },
+        {
+          "label": "nepalese"
+        }
+      ]
+    },
+    {
+      "label": "government",
+      "children": [
+        {
+          "label": "federal parliamentary republic under an interim government"
+        }
+      ]
+    },
+    {
+      "label": "president",
+      "children": [
+        {
+          "label": "ram chandra poudel"
+        }
+      ]
+    },
+    {
+      "label": "vice_president",
+      "children": [
+        {
+          "label": "ram sahaya yadav"
+        }
+      ]
+    },
+    {
+      "label": "prime_minister",
+      "children": [
+        {
+          "label": "sushila karki"
+        }
+      ]
+    },
+    {
+      "label": "chief_justice",
+      "children": [
+        {
+          "label": "prakash man singh raut"
+        }
+      ]
+    },
+    {
+      "label": "legislature",
+      "children": [
+        {
+          "label": "federal parliament"
+        }
+      ]
+    },
+    {
+      "label": "upper_house",
+      "children": [
+        {
+          "label": "national assembly"
+        }
+      ]
+    },
+    {
+      "label": "lower_house",
+      "children": [
+        {
+          "label": "house of representatives"
+        }
+      ]
+    },
+    {
+      "label": "formation",
+      "children": [
+        {
+          "label": "unification",
+          "children": [
+            {
+              "label": "25 september 1768"
+            }
+          ]
+        },
+        {
+          "label": "treaty_of_sugauli",
+          "children": [
+            {
+              "label": "4 march 1816"
+            }
+          ]
+        },
+        {
+          "label": "nepal_britain_treaty_of_1923",
+          "children": [
+            {
+              "label": "21 december 1923"
+            }
+          ]
+        },
+        {
+          "label": "federal_republic",
+          "children": [
+            {
+              "label": "28 may 2008"
+            }
+          ]
+        },
+        {
+          "label": "current_constitution",
+          "children": [
+            {
+              "label": "20 september 2015"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "area",
+      "children": [
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "147,516 km"
+            }
+          ]
+        },
+        {
+          "label": "water",
+          "children": [
+            {
+              "label": "2.8%"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "population",
+      "children": [
+        {
+          "label": "2024_estimate",
+          "children": [
+            {
+              "label": "31,122,387"
+            }
+          ]
+        },
+        {
+          "label": "density",
+          "children": [
+            {
+              "label": "180/km"
+            }
+          ]
+        },
+        {
+          "label": "gdp_ppp",
+          "children": [
+            {
+              "label": "2024 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$169.120 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$5,348"
+            }
+          ]
+        },
+        {
+          "label": "gdp_nominal",
+          "children": [
+            {
+              "label": "2024 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$43.673 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$1,381"
+            }
+          ]
+        },
+        {
+          "label": "gini_2022",
+          "children": [
+            {
+              "label": "30.0 medium inequality"
+            }
+          ]
+        },
+        {
+          "label": "hdi_2023",
+          "children": [
+            {
+              "label": "0.622 medium"
+            }
+          ]
+        },
+        {
+          "label": "currency",
+          "children": [
+            {
+              "label": "nepalese rupee"
+            }
+          ]
+        },
+        {
+          "label": "time_zone",
+          "children": [
+            {
+              "label": "utc +05:45"
+            }
+          ]
+        },
+        {
+          "label": "date_format",
+          "children": [
+            {
+              "label": "yyyy/mm/dd"
+            }
+          ]
+        },
+        {
+          "label": "calling_code",
+          "children": [
+            {
+              "label": "+977"
+            }
+          ]
+        },
+        {
+          "label": "iso_3166_code",
+          "children": [
+            {
+              "label": "np"
+            }
+          ]
+        },
+        {
+          "label": "internet_tld",
+          "children": [
+            {
+              "label": ".np"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

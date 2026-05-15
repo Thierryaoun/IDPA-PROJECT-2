@@ -1,0 +1,471 @@
+{
+  "country": "Indonesia",
+  "infobox_title": "Republic of Indonesia Republik Indonesia ( Indonesian )",
+  "data": [
+    {
+      "label": "Capital and largest city",
+      "value": "Jakarta 6°10′S 106°49′E ﻿ / ﻿ 6.167°S 106.817°E",
+      "links": [
+        {
+          "text": "Jakarta",
+          "href": "https://en.wikipedia.org/wiki/Jakarta"
+        },
+        {
+          "text": "6°10′S106°49′E﻿ / ﻿6.167°S 106.817°E",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Indonesia&params=6_10_S_106_49_E_type:city_region:ID-JK"
+        }
+      ]
+    },
+    {
+      "label": "Official languages",
+      "value": "Indonesian",
+      "links": [
+        {
+          "text": "Indonesian",
+          "href": "https://en.wikipedia.org/wiki/Indonesian_language"
+        }
+      ]
+    },
+    {
+      "label": "Indigenous languages",
+      "value": "718 languages",
+      "links": [
+        {
+          "text": "718 languages",
+          "href": "https://en.wikipedia.org/wiki/Languages_of_Indonesia"
+        }
+      ]
+    },
+    {
+      "label": "Writing system",
+      "value": "Latin (predominantly) Regional Balinese Batak Javanese Jawi - Pegon Lontara Makasar Sundanese Ulu",
+      "links": [
+        {
+          "text": "Latin",
+          "href": "https://en.wikipedia.org/wiki/Latin_script"
+        },
+        {
+          "text": "Balinese",
+          "href": "https://en.wikipedia.org/wiki/Balinese_script"
+        },
+        {
+          "text": "Batak",
+          "href": "https://en.wikipedia.org/wiki/Batak_script"
+        },
+        {
+          "text": "Javanese",
+          "href": "https://en.wikipedia.org/wiki/Javanese_script"
+        },
+        {
+          "text": "Jawi",
+          "href": "https://en.wikipedia.org/wiki/Jawi_script"
+        },
+        {
+          "text": "Pegon",
+          "href": "https://en.wikipedia.org/wiki/Pegon_script"
+        },
+        {
+          "text": "Lontara",
+          "href": "https://en.wikipedia.org/wiki/Lontara_script"
+        },
+        {
+          "text": "Makasar",
+          "href": "https://en.wikipedia.org/wiki/Makasar_script"
+        },
+        {
+          "text": "Sundanese",
+          "href": "https://en.wikipedia.org/wiki/Sundanese_script"
+        },
+        {
+          "text": "Ulu",
+          "href": "https://en.wikipedia.org/wiki/Ulu_scripts"
+        }
+      ],
+      "sub_items": [
+        "Balinese",
+        "Batak",
+        "Javanese",
+        "Jawi - Pegon",
+        "Lontara",
+        "Makasar",
+        "Sundanese",
+        "Ulu"
+      ]
+    },
+    {
+      "label": "Ethnic groups (2010)",
+      "value": "40.2% Javanese 15.5% Sundanese 3.7% Malay 3.6% Batak 3.0% Madurese 34.0% others ( 600+ ethnic groups )",
+      "links": [
+        {
+          "text": "Javanese",
+          "href": "https://en.wikipedia.org/wiki/Javanese_people"
+        },
+        {
+          "text": "Sundanese",
+          "href": "https://en.wikipedia.org/wiki/Sundanese_people"
+        },
+        {
+          "text": "Malay",
+          "href": "https://en.wikipedia.org/wiki/Malay_Indonesians"
+        },
+        {
+          "text": "Batak",
+          "href": "https://en.wikipedia.org/wiki/Batak"
+        },
+        {
+          "text": "Madurese",
+          "href": "https://en.wikipedia.org/wiki/Madurese_people"
+        },
+        {
+          "text": "600+ ethnic groups",
+          "href": "https://en.wikipedia.org/wiki/Ethnic_groups_in_Indonesia"
+        }
+      ],
+      "sub_items": [
+        "40.2% Javanese",
+        "15.5% Sundanese",
+        "3.7% Malay",
+        "3.6% Batak",
+        "3.0% Madurese",
+        "34.0% others ( 600+ ethnic groups )"
+      ]
+    },
+    {
+      "label": "Religion (2024)",
+      "value": "87.1% Islam 10.45% Christianity 7.38% Protestantism 3.07% Catholicism 1.7% Hinduism 0.8% Buddhism , Folk , Confucianism , and others",
+      "links": [
+        {
+          "text": "Islam",
+          "href": "https://en.wikipedia.org/wiki/Islam_in_Indonesia"
+        },
+        {
+          "text": "Christianity",
+          "href": "https://en.wikipedia.org/wiki/Christianity_in_Indonesia"
+        },
+        {
+          "text": "Protestantism",
+          "href": "https://en.wikipedia.org/wiki/Protestantism_in_Indonesia"
+        },
+        {
+          "text": "Catholicism",
+          "href": "https://en.wikipedia.org/wiki/Catholicism_in_Indonesia"
+        },
+        {
+          "text": "Hinduism",
+          "href": "https://en.wikipedia.org/wiki/Hinduism_in_Indonesia"
+        },
+        {
+          "text": "Buddhism",
+          "href": "https://en.wikipedia.org/wiki/Buddhism_in_Indonesia"
+        },
+        {
+          "text": "Folk",
+          "href": "https://en.wikipedia.org/wiki/Aliran_Kepercayaan"
+        },
+        {
+          "text": "Confucianism",
+          "href": "https://en.wikipedia.org/wiki/Confucianism"
+        },
+        {
+          "text": "others",
+          "href": "https://en.wikipedia.org/wiki/Religion_in_Indonesia"
+        }
+      ],
+      "sub_items": [
+        "87.1% Islam",
+        "10.45% Christianity 7.38% Protestantism 3.07% Catholicism",
+        "7.38% Protestantism",
+        "3.07% Catholicism",
+        "1.7% Hinduism",
+        "0.8% Buddhism , Folk , Confucianism , and others"
+      ]
+    },
+    {
+      "label": "Demonym",
+      "value": "Indonesian",
+      "links": [
+        {
+          "text": "Indonesian",
+          "href": "https://en.wikipedia.org/wiki/Indonesians"
+        }
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Unitary presidential republic",
+      "links": [
+        {
+          "text": "presidential republic",
+          "href": "https://en.wikipedia.org/wiki/Presidential_republic"
+        }
+      ]
+    },
+    {
+      "label": "• President",
+      "value": "Prabowo Subianto",
+      "links": [
+        {
+          "text": "Prabowo Subianto",
+          "href": "https://en.wikipedia.org/wiki/Prabowo_Subianto"
+        }
+      ]
+    },
+    {
+      "label": "• Vice President",
+      "value": "Gibran Rakabuming Raka",
+      "links": [
+        {
+          "text": "Gibran Rakabuming Raka",
+          "href": "https://en.wikipedia.org/wiki/Gibran_Rakabuming_Raka"
+        }
+      ]
+    },
+    {
+      "label": "• House Speaker",
+      "value": "Puan Maharani",
+      "links": [
+        {
+          "text": "Puan Maharani",
+          "href": "https://en.wikipedia.org/wiki/Puan_Maharani"
+        }
+      ]
+    },
+    {
+      "label": "• Supreme Court",
+      "value": "Sunarto",
+      "links": [
+        {
+          "text": "Sunarto",
+          "href": "https://en.wikipedia.org/wiki/Sunarto_(judge)"
+        }
+      ]
+    },
+    {
+      "label": "• Constitutional Court",
+      "value": "Suhartoyo",
+      "links": [
+        {
+          "text": "Suhartoyo",
+          "href": "https://en.wikipedia.org/wiki/Suhartoyo"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "People's Consultative Assembly (MPR)",
+      "links": [
+        {
+          "text": "People's Consultative Assembly",
+          "href": "https://en.wikipedia.org/wiki/People%27s_Consultative_Assembly"
+        }
+      ]
+    },
+    {
+      "label": "• Upper house",
+      "value": "Regional Representative Council (DPD)",
+      "links": [
+        {
+          "text": "Regional Representative Council",
+          "href": "https://en.wikipedia.org/wiki/Regional_Representative_Council"
+        }
+      ]
+    },
+    {
+      "label": "• Lower house",
+      "value": "House of Representatives (DPR)",
+      "links": [
+        {
+          "text": "House of Representatives",
+          "href": "https://en.wikipedia.org/wiki/House_of_Representatives_(Indonesia)"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Independence from the Netherlands",
+      "rows": [
+        {
+          "label": "• Proclaimed",
+          "value": "17 August 1945"
+        },
+        {
+          "label": "• Recognised",
+          "value": "27 December 1949"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "1,904,569 km (735,358 sq mi) ( 14th )",
+          "links": [
+            {
+              "text": "14th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "4.85"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2025 estimate",
+          "value": "288.315.089 ( 4th )",
+          "links": [
+            {
+              "text": "4th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• 2020 census",
+          "value": "270,203,917"
+        },
+        {
+          "label": "• Density",
+          "value": "143/km (370.4/sq mi) ( 88th )",
+          "links": [
+            {
+              "text": "88th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$5.009 trillion ( 7th )",
+          "links": [
+            {
+              "text": "7th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$17,612 ( 103rd )",
+          "links": [
+            {
+              "text": "103rd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$1.430 trillion ( 17th )",
+          "links": [
+            {
+              "text": "17th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$5,027 ( 116th )",
+          "links": [
+            {
+              "text": "116th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "Gini (2024)",
+          "value": "37.9 medium inequality"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.728 high ( 113th )",
+          "links": [
+            {
+              "text": "113th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "Indonesian rupiah (Rp) ( IDR )",
+          "links": [
+            {
+              "text": "Indonesian rupiah",
+              "href": "https://en.wikipedia.org/wiki/Indonesian_rupiah"
+            },
+            {
+              "text": "IDR",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC +7, +8, +9 ( WIB, WITA, WIT )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "WIB, WITA, WIT",
+              "href": "https://en.wikipedia.org/wiki/Time_in_Indonesia"
+            }
+          ]
+        },
+        {
+          "label": "Date format",
+          "value": "DD/MM/YYYY"
+        },
+        {
+          "label": "Calling code",
+          "value": "+62",
+          "links": [
+            {
+              "text": "+62",
+              "href": "https://en.wikipedia.org/wiki/%2B62"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "ID",
+          "links": [
+            {
+              "text": "ID",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:ID"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".id",
+          "links": [
+            {
+              "text": ".id",
+              "href": "https://en.wikipedia.org/wiki/.id"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

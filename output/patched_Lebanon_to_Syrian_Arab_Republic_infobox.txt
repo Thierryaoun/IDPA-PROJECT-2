@@ -1,0 +1,52 @@
+╔══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                              SYRIAN ARAB REPUBLIC اَلْجُمْهُورِيَّةُ ٱلْعَرَبِيَّةُ ٱلْسُوْرِيَّة AL-JUMHŪRIYYAH AL-ʿARABIYYAH AS-SŪRIYYAH                               ║
+╠══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╣
+║  Name                                                     : Syrian Arab Republic                                                                                         ║
+║  Capital And Largest City                                 : Damascus / 33.                                                                                               ║
+║  Official Languages                                       : Arabic                                                                                                       ║
+║  Recognized National Languages                            : Kurdish                                                                                                      ║
+║  Spoken Languages                                         : Predominantly Arabic                                                                                         ║
+║  Spoken Languages                                         : Kurdish                                                                                                      ║
+║  Spoken Languages                                         : Turkish                                                                                                      ║
+║  Spoken Languages                                         : Neo-Aramaic                                                                                                  ║
+║  Spoken Languages                                         : Syriac                                                                                                       ║
+║  Spoken Languages                                         : Circassian                                                                                                   ║
+║  Spoken Languages                                         : Chechen                                                                                                      ║
+║  Spoken Languages                                         : Armenian                                                                                                     ║
+║  Spoken Languages                                         : Greek                                                                                                        ║
+║  Spoken Languages                                         : Domari                                                                                                       ║
+║  Ethnic Groups 2021                                       : 10% others                                                                                                   ║
+║  Religion 2020                                            : 94.17% islam                                                                                                 ║
+║  Religion 2020                                            : 79.19% sunni                                                                                                 ║
+║  Religion 2020                                            : 13% alawites                                                                                                 ║
+║  Religion 2020                                            : 3.84% christianity                                                                                           ║
+║  Religion 2020                                            : 1.99% other                                                                                                  ║
+║  Demonym                                                  : Syrian                                                                                                       ║
+║  Government                                               : Unitary Presidential Republic Under A Provisional Government                                                 ║
+║  President                                                : Ahmed Al-Sharaa                                                                                              ║
+║  Legislature                                              : People'S Assembly                                                                                            ║
+║  Establishment Arab Kingdom Of Syria                      : 8 march 1920                                                                                                 ║
+║  Establishment State Of Syria Under French Mandate        : 1 december 1924                                                                                              ║
+║  Establishment First Syrian Republic                      : 14 may 1930                                                                                                  ║
+║  Establishment End Of The French Mandate                  : 17 april 1946                                                                                                ║
+║  Establishment Part Of The United Arab Republic           : 22 february 1958 – 28 september 1961                                                                         ║
+║  Establishment Ba Athist Syria                            : 8 march 1963 – 8 december 2024                                                                               ║
+║  Establishment Current Provisional Government Established : 29 march 2025                                                                                                ║
+║  Area Total                                               : 185,180 km                                                                                                   ║
+║  Area Water                                               : 1.1                                                                                                          ║
+║  Population 2025 Estimate                                 : 26,019,711                                                                                                   ║
+║  Population Density                                       : 118.3/km                                                                                                     ║
+║  Population Gdp Ppp                                       : 2021 estimate                                                                                                ║
+║  Population Total                                         : $50.28 Billion                                                                                               ║
+║  Population Total                                         : $9.8 Billion                                                                                                 ║
+║  Population Per Capita                                    : $3,300                                                                                                       ║
+║  Population Per Capita                                    : $800                                                                                                         ║
+║  Population Gdp Nominal                                   : 2022 estimate                                                                                                ║
+║  Population Gini 2022                                     : 26.6 low inequality                                                                                          ║
+║  Population Currency                                      : Syrian Pound                                                                                                 ║
+║  Population Time Zone                                     : Utc +03:00                                                                                                   ║
+║  Population Date Format                                   : Dd-Mm-Yyyy                                                                                                   ║
+║  Population Calling Code                                  : +963                                                                                                         ║
+║  Population Iso 3166 Code                                 : Sy                                                                                                           ║
+║  Population Internet Tld                                  : .Sy سوريا.                                                                                                   ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╝

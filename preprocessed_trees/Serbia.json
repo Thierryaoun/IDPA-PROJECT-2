@@ -1,0 +1,392 @@
+{
+  "label": "country",
+  "children": [
+    {
+      "label": "name",
+      "children": [
+        {
+          "label": "serbia"
+        }
+      ]
+    },
+    {
+      "label": "infobox_title",
+      "children": [
+        {
+          "label": "republic of serbia република србија republika srbija"
+        }
+      ]
+    },
+    {
+      "label": "capital_and_largest_city",
+      "children": [
+        {
+          "label": "belgrade / 44."
+        }
+      ]
+    },
+    {
+      "label": "official_languages",
+      "children": [
+        {
+          "label": "serbian"
+        }
+      ]
+    },
+    {
+      "label": "ethnic_groups_2022",
+      "children": [
+        {
+          "label": "80.6% serbs"
+        },
+        {
+          "label": "2.8% hungarians"
+        },
+        {
+          "label": "2.3% bosniaks"
+        },
+        {
+          "label": "2% roma"
+        },
+        {
+          "label": "5.4% others"
+        },
+        {
+          "label": "6.9% undeclared/unknown"
+        }
+      ]
+    },
+    {
+      "label": "religion_2022",
+      "children": [
+        {
+          "label": "86.6% christianity"
+        },
+        {
+          "label": "81.1% eastern orthodoxy"
+        },
+        {
+          "label": "3.9% catholicism"
+        },
+        {
+          "label": "1.7% other"
+        },
+        {
+          "label": "4.2% islam"
+        },
+        {
+          "label": "1.1% no religion"
+        },
+        {
+          "label": "7.9% undeclared/unknown"
+        }
+      ]
+    },
+    {
+      "label": "demonym",
+      "children": [
+        {
+          "label": "serbian"
+        }
+      ]
+    },
+    {
+      "label": "government",
+      "children": [
+        {
+          "label": "unitary parliamentary republic"
+        }
+      ]
+    },
+    {
+      "label": "president",
+      "children": [
+        {
+          "label": "aleksandar vučić"
+        }
+      ]
+    },
+    {
+      "label": "prime_minister",
+      "children": [
+        {
+          "label": "đuro macut"
+        }
+      ]
+    },
+    {
+      "label": "president_of_the_national_assembly",
+      "children": [
+        {
+          "label": "ana brnabić"
+        }
+      ]
+    },
+    {
+      "label": "legislature",
+      "children": [
+        {
+          "label": "national assembly"
+        }
+      ]
+    },
+    {
+      "label": "establishment_history",
+      "children": [
+        {
+          "label": "principality",
+          "children": [
+            {
+              "label": "7th century"
+            }
+          ]
+        },
+        {
+          "label": "kingdom",
+          "children": [
+            {
+              "label": "1217"
+            }
+          ]
+        },
+        {
+          "label": "empire",
+          "children": [
+            {
+              "label": "1346"
+            }
+          ]
+        },
+        {
+          "label": "despotate",
+          "children": [
+            {
+              "label": "1402"
+            }
+          ]
+        },
+        {
+          "label": "principality_of_serbia",
+          "children": [
+            {
+              "label": "1815"
+            }
+          ]
+        },
+        {
+          "label": "kingdom_of_serbia",
+          "children": [
+            {
+              "label": "1882"
+            }
+          ]
+        },
+        {
+          "label": "kingdom_of_yugoslavia",
+          "children": [
+            {
+              "label": "1918"
+            }
+          ]
+        },
+        {
+          "label": "socialist_yugoslavia_constituent_republic",
+          "children": [
+            {
+              "label": "1945"
+            }
+          ]
+        },
+        {
+          "label": "serbia_and_montenegro_constituent_state",
+          "children": [
+            {
+              "label": "1992"
+            }
+          ]
+        },
+        {
+          "label": "republic_of_serbia",
+          "children": [
+            {
+              "label": "2006"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "area",
+      "children": [
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "88,499 km"
+            }
+          ]
+        },
+        {
+          "label": "excluding_kosovo",
+          "children": [
+            {
+              "label": "77,589 km"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "population",
+      "children": [
+        {
+          "label": "2025_estimate",
+          "children": [
+            {
+              "label": "6,567,783"
+            }
+          ]
+        },
+        {
+          "label": "2022_census",
+          "children": [
+            {
+              "label": "6,647,003"
+            }
+          ]
+        },
+        {
+          "label": "density",
+          "children": [
+            {
+              "label": "85/km"
+            }
+          ]
+        },
+        {
+          "label": "gdp_ppp",
+          "children": [
+            {
+              "label": "2026 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$225.55 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$34,790"
+            }
+          ]
+        },
+        {
+          "label": "gdp_nominal",
+          "children": [
+            {
+              "label": "2026 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$112.11 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$17,290"
+            }
+          ]
+        },
+        {
+          "label": "gini_2025",
+          "children": [
+            {
+              "label": "32 medium inequality"
+            }
+          ]
+        },
+        {
+          "label": "hdi_2023",
+          "children": [
+            {
+              "label": "0.833 very high"
+            }
+          ]
+        },
+        {
+          "label": "currency",
+          "children": [
+            {
+              "label": "serbian dinar"
+            }
+          ]
+        },
+        {
+          "label": "time_zone",
+          "children": [
+            {
+              "label": "utc +1"
+            }
+          ]
+        },
+        {
+          "label": "summer_dst",
+          "children": [
+            {
+              "label": "utc +2"
+            }
+          ]
+        },
+        {
+          "label": "date_format",
+          "children": [
+            {
+              "label": "mm/dd/yyyy"
+            }
+          ]
+        },
+        {
+          "label": "calling_code",
+          "children": [
+            {
+              "label": "+381"
+            }
+          ]
+        },
+        {
+          "label": "iso_3166_code",
+          "children": [
+            {
+              "label": "rs"
+            }
+          ]
+        },
+        {
+          "label": "internet_tld",
+          "children": [
+            {
+              "label": ".rs"
+            },
+            {
+              "label": ".срб"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

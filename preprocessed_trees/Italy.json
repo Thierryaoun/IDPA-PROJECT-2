@@ -1,0 +1,357 @@
+{
+  "label": "country",
+  "children": [
+    {
+      "label": "name",
+      "children": [
+        {
+          "label": "italy"
+        }
+      ]
+    },
+    {
+      "label": "infobox_title",
+      "children": [
+        {
+          "label": "italian republic repubblica italiana"
+        }
+      ]
+    },
+    {
+      "label": "capital_and_largest_city",
+      "children": [
+        {
+          "label": "rome / 41."
+        }
+      ]
+    },
+    {
+      "label": "official_languages",
+      "children": [
+        {
+          "label": "italian"
+        }
+      ]
+    },
+    {
+      "label": "nationality_2021",
+      "children": [
+        {
+          "label": "91% italian"
+        },
+        {
+          "label": "9% other"
+        }
+      ]
+    },
+    {
+      "label": "native_languages",
+      "children": [
+        {
+          "label": "see main article"
+        }
+      ]
+    },
+    {
+      "label": "religion_2020",
+      "children": [
+        {
+          "label": "84% christianity"
+        },
+        {
+          "label": "12% irreligion"
+        },
+        {
+          "label": "4% other"
+        }
+      ]
+    },
+    {
+      "label": "demonym",
+      "children": [
+        {
+          "label": "italian"
+        }
+      ]
+    },
+    {
+      "label": "government",
+      "children": [
+        {
+          "label": "unitary parliamentary republic"
+        }
+      ]
+    },
+    {
+      "label": "president",
+      "children": [
+        {
+          "label": "sergio mattarella"
+        }
+      ]
+    },
+    {
+      "label": "prime_minister",
+      "children": [
+        {
+          "label": "giorgia meloni"
+        }
+      ]
+    },
+    {
+      "label": "president_of_the_senate",
+      "children": [
+        {
+          "label": "ignazio la russa"
+        }
+      ]
+    },
+    {
+      "label": "president_of_the_chamber_of_deputies",
+      "children": [
+        {
+          "label": "lorenzo fontana"
+        }
+      ]
+    },
+    {
+      "label": "legislature",
+      "children": [
+        {
+          "label": "parliament"
+        }
+      ]
+    },
+    {
+      "label": "upper_house",
+      "children": [
+        {
+          "label": "senate of the republic"
+        }
+      ]
+    },
+    {
+      "label": "lower_house",
+      "children": [
+        {
+          "label": "chamber of deputies"
+        }
+      ]
+    },
+    {
+      "label": "historical_polities",
+      "children": [
+        {
+          "label": "italic_peoples",
+          "children": [
+            {
+              "label": "antiquity"
+            }
+          ]
+        },
+        {
+          "label": "ancient_rome_roman_italy",
+          "children": [
+            {
+              "label": "753 bc–476 ad"
+            }
+          ]
+        },
+        {
+          "label": "roman_barbarian_kingdoms_byzantine_italy",
+          "children": [
+            {
+              "label": "early middle ages"
+            }
+          ]
+        },
+        {
+          "label": "italian_city_states_and_regional_polities",
+          "children": [
+            {
+              "label": "middle ages and modern period"
+            }
+          ]
+        },
+        {
+          "label": "kingdom_of_italy",
+          "children": [
+            {
+              "label": "1861–1946 17 march 1861 ; 165 years ago"
+            }
+          ]
+        },
+        {
+          "label": "italian_empire",
+          "children": [
+            {
+              "label": "1882–1960"
+            }
+          ]
+        },
+        {
+          "label": "italian_republic",
+          "children": [
+            {
+              "label": "2 june 1946 ; 79 years ago"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "area",
+      "children": [
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "301,340 km"
+            }
+          ]
+        },
+        {
+          "label": "water",
+          "children": [
+            {
+              "label": "1.24"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "population",
+      "children": [
+        {
+          "label": "2025_estimate",
+          "children": [
+            {
+              "label": "58,915,561"
+            }
+          ]
+        },
+        {
+          "label": "density",
+          "children": [
+            {
+              "label": "195.5/km"
+            }
+          ]
+        },
+        {
+          "label": "gdp_ppp",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$3.719 trillion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$63,076"
+            }
+          ]
+        },
+        {
+          "label": "gdp_nominal",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$2.423 trillion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$41,091"
+            }
+          ]
+        },
+        {
+          "label": "gini_2020",
+          "children": [
+            {
+              "label": "32.5 medium inequality"
+            }
+          ]
+        },
+        {
+          "label": "hdi_2023",
+          "children": [
+            {
+              "label": "0.915 very high"
+            }
+          ]
+        },
+        {
+          "label": "currency",
+          "children": [
+            {
+              "label": "euro"
+            }
+          ]
+        },
+        {
+          "label": "time_zone",
+          "children": [
+            {
+              "label": "utc +1"
+            }
+          ]
+        },
+        {
+          "label": "summer_dst",
+          "children": [
+            {
+              "label": "utc +2"
+            }
+          ]
+        },
+        {
+          "label": "calling_code",
+          "children": [
+            {
+              "label": "+39"
+            }
+          ]
+        },
+        {
+          "label": "iso_3166_code",
+          "children": [
+            {
+              "label": "it"
+            }
+          ]
+        },
+        {
+          "label": "internet_tld",
+          "children": [
+            {
+              "label": ".it"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

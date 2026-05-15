@@ -1,0 +1,382 @@
+{
+  "country": "Poland",
+  "infobox_title": "Republic of Poland Rzeczpospolita Polska",
+  "data": [
+    {
+      "label": "Capital and largest city",
+      "value": "Warsaw 52°13′N 21°02′E ﻿ / ﻿ 52.217°N 21.033°E",
+      "links": [
+        {
+          "text": "Warsaw",
+          "href": "https://en.wikipedia.org/wiki/Warsaw"
+        },
+        {
+          "text": "52°13′N21°02′E﻿ / ﻿52.217°N 21.033°E",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Poland&params=52_13_N_21_02_E_type:city"
+        }
+      ]
+    },
+    {
+      "label": "Official language",
+      "value": "Polish",
+      "links": [
+        {
+          "text": "Polish",
+          "href": "https://en.wikipedia.org/wiki/Polish_language"
+        }
+      ]
+    },
+    {
+      "label": "Ethnic groups (2021)",
+      "value": "98.8% Polish 96.3% only Polish 2.6% Polish and others 1.1% only non-Polish",
+      "links": [
+        {
+          "text": "Polish",
+          "href": "https://en.wikipedia.org/wiki/Polish_people"
+        },
+        {
+          "text": "non-Polish",
+          "href": "https://en.wikipedia.org/wiki/Ethnic_minorities_in_Poland"
+        }
+      ],
+      "sub_items": [
+        "98.8% Polish 96.3% only Polish 2.6% Polish and others",
+        "96.3% only Polish",
+        "2.6% Polish and others",
+        "1.1% only non-Polish"
+      ]
+    },
+    {
+      "label": "Religion (2021 )",
+      "value": "72.4% Christianity 71.3% Catholicism 1.1% other Christian 6.9% no religion 0.1% other 20.6% unanswered",
+      "links": [
+        {
+          "text": "Christianity",
+          "href": "https://en.wikipedia.org/wiki/Christianity"
+        },
+        {
+          "text": "Catholicism",
+          "href": "https://en.wikipedia.org/wiki/Catholic_Church_in_Poland"
+        },
+        {
+          "text": "other Christian",
+          "href": "https://en.wikipedia.org/wiki/List_of_Christian_denominations"
+        },
+        {
+          "text": "no religion",
+          "href": "https://en.wikipedia.org/wiki/Irreligion"
+        },
+        {
+          "text": "other",
+          "href": "https://en.wikipedia.org/wiki/Religion_in_Poland"
+        }
+      ],
+      "sub_items": [
+        "72.4% Christianity 71.3% Catholicism 1.1% other Christian",
+        "72.4% Christianity 71.3% Catholicism 1.1% other Christian",
+        "71.3% Catholicism",
+        "1.1% other Christian",
+        "6.9% no religion",
+        "0.1% other",
+        "20.6% unanswered"
+      ]
+    },
+    {
+      "label": "Demonyms",
+      "value": "Polish Pole",
+      "links": [
+        {
+          "text": "Polish",
+          "href": "https://en.wikipedia.org/wiki/Polish_people"
+        }
+      ],
+      "sub_items": [
+        "Polish",
+        "Pole"
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Unitary parliamentary republic",
+      "links": [
+        {
+          "text": "Unitary parliamentary republic",
+          "href": "https://en.wikipedia.org/wiki/Unitary_parliamentary_republic"
+        }
+      ]
+    },
+    {
+      "label": "• President",
+      "value": "Karol Nawrocki",
+      "links": [
+        {
+          "text": "Karol Nawrocki",
+          "href": "https://en.wikipedia.org/wiki/Karol_Nawrocki"
+        }
+      ]
+    },
+    {
+      "label": "• Prime Minister",
+      "value": "Donald Tusk",
+      "links": [
+        {
+          "text": "Donald Tusk",
+          "href": "https://en.wikipedia.org/wiki/Donald_Tusk"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "Parliament",
+      "links": [
+        {
+          "text": "Parliament",
+          "href": "https://en.wikipedia.org/wiki/Parliament_of_Poland"
+        }
+      ]
+    },
+    {
+      "label": "• Upper house",
+      "value": "Senate",
+      "links": [
+        {
+          "text": "Senate",
+          "href": "https://en.wikipedia.org/wiki/Senate_of_Poland"
+        }
+      ]
+    },
+    {
+      "label": "• Lower house",
+      "value": "Sejm",
+      "links": [
+        {
+          "text": "Sejm",
+          "href": "https://en.wikipedia.org/wiki/Sejm"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Formation",
+      "rows": [
+        {
+          "label": "• Baptism of Poland",
+          "value": "14 April 966"
+        },
+        {
+          "label": "• Kingdom of Poland",
+          "value": "18 April 1025"
+        },
+        {
+          "label": "• Polish–Lithuanian Commonwealth",
+          "value": "1 July 1569"
+        },
+        {
+          "label": "• Second Republic",
+          "value": "11 November 1918"
+        },
+        {
+          "label": "• Government-in-exile",
+          "value": "17 September 1939"
+        },
+        {
+          "label": "• People's Republic",
+          "value": "22 July 1944"
+        },
+        {
+          "label": "• Third Republic",
+          "value": "31 December 1989"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "312,696 km (120,733 sq mi) ( 69th )",
+          "links": [
+            {
+              "text": "69th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "1.48 (2015)"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2026 census",
+          "value": "37,893,970 ( 38th )",
+          "links": [
+            {
+              "text": "38th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• Density",
+          "value": "126/km (326.3/sq mi) ( 98th )",
+          "links": [
+            {
+              "text": "98th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$2.019 trillion ( 19th )",
+          "links": [
+            {
+              "text": "19th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$55,340 ( 37th )",
+          "links": [
+            {
+              "text": "37th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$1.039 trillion ( 20th )",
+          "links": [
+            {
+              "text": "20th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$28,484 ( 44th )",
+          "links": [
+            {
+              "text": "44th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "Gini (2022)",
+          "value": "26.3 low inequality"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.906 very high ( 35th )",
+          "links": [
+            {
+              "text": "35th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "Złoty ( PLN )",
+          "links": [
+            {
+              "text": "Złoty",
+              "href": "https://en.wikipedia.org/wiki/Polish_z%C5%82oty"
+            },
+            {
+              "text": "PLN",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC +1 ( CET )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "CET",
+              "href": "https://en.wikipedia.org/wiki/Central_European_Time"
+            }
+          ]
+        },
+        {
+          "label": "• Summer ( DST )",
+          "value": "UTC +2 ( CEST )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "CEST",
+              "href": "https://en.wikipedia.org/wiki/Central_European_Summer_Time"
+            }
+          ]
+        },
+        {
+          "label": "Date format",
+          "value": "dd.mm.yyyy ( CE )",
+          "links": [
+            {
+              "text": "CE",
+              "href": "https://en.wikipedia.org/wiki/Common_Era"
+            }
+          ]
+        },
+        {
+          "label": "Calling code",
+          "value": "+48",
+          "links": [
+            {
+              "text": "+48",
+              "href": "https://en.wikipedia.org/wiki/Telephone_numbers_in_Poland"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "PL",
+          "links": [
+            {
+              "text": "PL",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:PL"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".pl",
+          "links": [
+            {
+              "text": ".pl",
+              "href": "https://en.wikipedia.org/wiki/.pl"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

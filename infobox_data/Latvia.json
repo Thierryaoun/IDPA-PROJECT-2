@@ -1,0 +1,402 @@
+{
+  "country": "Latvia",
+  "infobox_title": "Republic of Latvia Latvijas Republika ( Latvian ) Latvejas Republika ( Latgalian ) Lețmō Vabāmō ( Livonian )",
+  "data": [
+    {
+      "label": "Capital and largest city",
+      "value": "Riga 56°57′N 24°6′E ﻿ / ﻿ 56.950°N 24.100°E",
+      "links": [
+        {
+          "text": "Riga",
+          "href": "https://en.wikipedia.org/wiki/Riga"
+        },
+        {
+          "text": "56°57′N24°6′E﻿ / ﻿56.950°N 24.100°E",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Latvia&params=56_57_N_24_6_E_type:city"
+        }
+      ]
+    },
+    {
+      "label": "Official languages",
+      "value": "Latvian",
+      "links": [
+        {
+          "text": "Latvian",
+          "href": "https://en.wikipedia.org/wiki/Latvian_language"
+        }
+      ]
+    },
+    {
+      "label": "Recognized languages",
+      "value": "Livonian Latgalian",
+      "links": [
+        {
+          "text": "Livonian",
+          "href": "https://en.wikipedia.org/wiki/Livonian_language"
+        },
+        {
+          "text": "Latgalian",
+          "href": "https://en.wikipedia.org/wiki/Latgalian_language"
+        }
+      ]
+    },
+    {
+      "label": "Ethnic groups (2025 )",
+      "value": "65.5% Latvians 24.1% Russians 2.9% Belarusians 2.9% Ukrainians 1.9% Poles 1.1% Lithuanians 1.6% others",
+      "links": [
+        {
+          "text": "Latvians",
+          "href": "https://en.wikipedia.org/wiki/Latvians"
+        },
+        {
+          "text": "Russians",
+          "href": "https://en.wikipedia.org/wiki/Russians_in_Latvia"
+        },
+        {
+          "text": "Belarusians",
+          "href": "https://en.wikipedia.org/wiki/Belarusians_in_Latvia"
+        },
+        {
+          "text": "Ukrainians",
+          "href": "https://en.wikipedia.org/wiki/Ukrainians"
+        },
+        {
+          "text": "Poles",
+          "href": "https://en.wikipedia.org/wiki/Poles_in_Latvia"
+        },
+        {
+          "text": "Lithuanians",
+          "href": "https://en.wikipedia.org/wiki/Lithuanians"
+        },
+        {
+          "text": "others",
+          "href": "https://en.wikipedia.org/wiki/Demographics_of_Latvia"
+        }
+      ],
+      "sub_items": [
+        "65.5% Latvians",
+        "24.1% Russians",
+        "2.9% Belarusians",
+        "2.9% Ukrainians",
+        "1.9% Poles",
+        "1.1% Lithuanians",
+        "1.6% others"
+      ]
+    },
+    {
+      "label": "Religion (2018)",
+      "value": "64% Christianity 36% Lutheranism 17% Catholicism 9% Orthodoxy 2% other Christian 35% no religion 1% others",
+      "links": [
+        {
+          "text": "Christianity",
+          "href": "https://en.wikipedia.org/wiki/Christianity"
+        },
+        {
+          "text": "Lutheranism",
+          "href": "https://en.wikipedia.org/wiki/Evangelical_Lutheran_Church_of_Latvia"
+        },
+        {
+          "text": "Catholicism",
+          "href": "https://en.wikipedia.org/wiki/Catholic_Church_in_Latvia"
+        },
+        {
+          "text": "Orthodoxy",
+          "href": "https://en.wikipedia.org/wiki/Latvian_Orthodox_Church"
+        },
+        {
+          "text": "Christian",
+          "href": "https://en.wikipedia.org/wiki/List_of_Christian_denominations"
+        },
+        {
+          "text": "no religion",
+          "href": "https://en.wikipedia.org/wiki/Irreligion"
+        },
+        {
+          "text": "others",
+          "href": "https://en.wikipedia.org/wiki/Religion_in_Latvia"
+        }
+      ],
+      "sub_items": [
+        "64% Christianity 36% Lutheranism 17% Catholicism 9% Orthodoxy 2% other Christian",
+        "64% Christianity 36% Lutheranism 17% Catholicism 9% Orthodoxy 2% other Christian",
+        "36% Lutheranism",
+        "17% Catholicism",
+        "9% Orthodoxy",
+        "2% other Christian",
+        "35% no religion",
+        "1% others"
+      ]
+    },
+    {
+      "label": "Demonym",
+      "value": "Latvian",
+      "links": [
+        {
+          "text": "Latvian",
+          "href": "https://en.wikipedia.org/wiki/Latvians"
+        }
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Unitary parliamentary republic",
+      "links": [
+        {
+          "text": "Unitary parliamentary republic",
+          "href": "https://en.wikipedia.org/wiki/Unitary_parliamentary_republic"
+        }
+      ]
+    },
+    {
+      "label": "• President",
+      "value": "Edgars Rinkēvičs",
+      "links": [
+        {
+          "text": "Edgars Rinkēvičs",
+          "href": "https://en.wikipedia.org/wiki/Edgars_Rink%C4%93vi%C4%8Ds"
+        }
+      ]
+    },
+    {
+      "label": "• Prime Minister",
+      "value": "Evika Siliņa",
+      "links": [
+        {
+          "text": "Evika Siliņa",
+          "href": "https://en.wikipedia.org/wiki/Evika_Sili%C5%86a"
+        }
+      ]
+    },
+    {
+      "label": "• Speaker of the Saeima",
+      "value": "Daiga Mieriņa",
+      "links": [
+        {
+          "text": "Daiga Mieriņa",
+          "href": "https://en.wikipedia.org/wiki/Daiga_Mieri%C5%86a"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "Saeima",
+      "links": [
+        {
+          "text": "Saeima",
+          "href": "https://en.wikipedia.org/wiki/Saeima"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Independence from Germany and Russia",
+      "rows": [
+        {
+          "label": "• Declared",
+          "value": "18 November 1918"
+        },
+        {
+          "label": "• Recognised",
+          "value": "26 January 1921"
+        },
+        {
+          "label": "• Constitution adopted",
+          "value": "7 November 1922"
+        },
+        {
+          "label": "• Restored",
+          "value": "21 August 1991",
+          "links": [
+            {
+              "text": "21 August 1991",
+              "href": "https://en.wikipedia.org/wiki/1991_Soviet_coup_d%27%C3%A9tat_attempt"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "64,589 km (24,938 sq mi) ( 122nd )",
+          "links": [
+            {
+              "text": "122nd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "2.09 (2015)"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2022 estimate",
+          "value": "1,842,226 ( 146th )",
+          "links": [
+            {
+              "text": "146th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• Density",
+          "value": "29.6/km (76.7/sq mi) ( 147th )",
+          "links": [
+            {
+              "text": "147th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$82.400 billion ( 104th )",
+          "links": [
+            {
+              "text": "104th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$44,110 ( 51st )",
+          "links": [
+            {
+              "text": "51st",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$47.880 billion ( 96th )",
+          "links": [
+            {
+              "text": "96th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$25,630 ( 42nd )",
+          "links": [
+            {
+              "text": "42nd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "Gini (2021)",
+          "value": "35.7 medium inequality"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.889 very high ( 41st )",
+          "links": [
+            {
+              "text": "41st",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "Euro ( € ) ( EUR )",
+          "links": [
+            {
+              "text": "Euro",
+              "href": "https://en.wikipedia.org/wiki/Euro"
+            },
+            {
+              "text": "€",
+              "href": "https://en.wikipedia.org/wiki/Euro_sign"
+            },
+            {
+              "text": "EUR",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC +2 ( EET )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "EET",
+              "href": "https://en.wikipedia.org/wiki/Eastern_European_Time"
+            }
+          ]
+        },
+        {
+          "label": "• Summer ( DST )",
+          "value": "UTC +3 ( EEST )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "EEST",
+              "href": "https://en.wikipedia.org/wiki/Eastern_European_Summer_Time"
+            }
+          ]
+        },
+        {
+          "label": "Calling code",
+          "value": "+371",
+          "links": [
+            {
+              "text": "+371",
+              "href": "https://en.wikipedia.org/wiki/Telephone_numbers_in_Latvia"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "LV",
+          "links": [
+            {
+              "text": "LV",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:LV"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".lv",
+          "links": [
+            {
+              "text": ".lv",
+              "href": "https://en.wikipedia.org/wiki/.lv"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

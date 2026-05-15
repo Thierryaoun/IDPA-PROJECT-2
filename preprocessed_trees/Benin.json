@@ -1,0 +1,434 @@
+{
+  "label": "country",
+  "children": [
+    {
+      "label": "name",
+      "children": [
+        {
+          "label": "benin"
+        }
+      ]
+    },
+    {
+      "label": "infobox_title",
+      "children": [
+        {
+          "label": "republic of benin république du bénin"
+        }
+      ]
+    },
+    {
+      "label": "capital",
+      "children": [
+        {
+          "label": "porto-novo"
+        }
+      ]
+    },
+    {
+      "label": "largest_city",
+      "children": [
+        {
+          "label": "cotonou"
+        }
+      ]
+    },
+    {
+      "label": "official_languages",
+      "children": [
+        {
+          "label": "french"
+        }
+      ]
+    },
+    {
+      "label": "national_languages",
+      "children": [
+        {
+          "label": "arabic"
+        },
+        {
+          "label": "english"
+        },
+        {
+          "label": "aguna"
+        },
+        {
+          "label": "aja"
+        },
+        {
+          "label": "alada"
+        },
+        {
+          "label": "fon"
+        },
+        {
+          "label": "gbe"
+        },
+        {
+          "label": "gen"
+        },
+        {
+          "label": "gun"
+        },
+        {
+          "label": "pherá"
+        },
+        {
+          "label": "phla"
+        },
+        {
+          "label": "tofin"
+        },
+        {
+          "label": "tɔli"
+        },
+        {
+          "label": "waci"
+        },
+        {
+          "label": "berba"
+        },
+        {
+          "label": "kabye"
+        },
+        {
+          "label": "lama"
+        },
+        {
+          "label": "lukpa"
+        },
+        {
+          "label": "mbelime"
+        },
+        {
+          "label": "mossi"
+        },
+        {
+          "label": "nateni"
+        },
+        {
+          "label": "ngangam"
+        },
+        {
+          "label": "tammari"
+        },
+        {
+          "label": "tem"
+        },
+        {
+          "label": "waama"
+        },
+        {
+          "label": "yom"
+        },
+        {
+          "label": "kwa"
+        },
+        {
+          "label": "chakosi"
+        },
+        {
+          "label": "foodo"
+        },
+        {
+          "label": "ede"
+        },
+        {
+          "label": "ifè"
+        },
+        {
+          "label": "mokole"
+        },
+        {
+          "label": "yoruba"
+        },
+        {
+          "label": "yoruboid"
+        },
+        {
+          "label": "bariba"
+        },
+        {
+          "label": "dendi"
+        },
+        {
+          "label": "fula"
+        },
+        {
+          "label": "hausa"
+        }
+      ]
+    },
+    {
+      "label": "ethnic_groups_2013",
+      "children": [
+        {
+          "label": "38.4% fon"
+        },
+        {
+          "label": "15.1% adja and mina"
+        },
+        {
+          "label": "12% yoruba"
+        },
+        {
+          "label": "9.6% bariba"
+        },
+        {
+          "label": "8.6% fula"
+        },
+        {
+          "label": "6.1% ottamari"
+        },
+        {
+          "label": "4.3% yoa-lokpa"
+        },
+        {
+          "label": "2.9% dendi"
+        },
+        {
+          "label": "2.8% other"
+        }
+      ]
+    },
+    {
+      "label": "religion_2020",
+      "children": [
+        {
+          "label": "52.2% christianity"
+        },
+        {
+          "label": "24.6% islam"
+        },
+        {
+          "label": "17.9% traditional faiths"
+        },
+        {
+          "label": "5.2% no religion"
+        },
+        {
+          "label": "0.1% other"
+        }
+      ]
+    },
+    {
+      "label": "demonyms",
+      "children": [
+        {
+          "label": "beninese"
+        },
+        {
+          "label": "beninoise"
+        }
+      ]
+    },
+    {
+      "label": "government",
+      "children": [
+        {
+          "label": "unitary presidential republic"
+        }
+      ]
+    },
+    {
+      "label": "president",
+      "children": [
+        {
+          "label": "patrice talon"
+        }
+      ]
+    },
+    {
+      "label": "vice_president",
+      "children": [
+        {
+          "label": "mariam chabi talata"
+        }
+      ]
+    },
+    {
+      "label": "legislature",
+      "children": [
+        {
+          "label": "national assembly"
+        }
+      ]
+    },
+    {
+      "label": "independence_from_france",
+      "children": [
+        {
+          "label": "republic_of_dahomey_established_within_the_french_community",
+          "children": [
+            {
+              "label": "11 december 1958"
+            }
+          ]
+        },
+        {
+          "label": "independence",
+          "children": [
+            {
+              "label": "1 august 1960"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "area",
+      "children": [
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "114,763 km"
+            }
+          ]
+        },
+        {
+          "label": "water",
+          "children": [
+            {
+              "label": "0.4%"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "population",
+      "children": [
+        {
+          "label": "2022_estimate",
+          "children": [
+            {
+              "label": "13,754,688"
+            }
+          ]
+        },
+        {
+          "label": "density",
+          "children": [
+            {
+              "label": "94.8/km"
+            }
+          ]
+        },
+        {
+          "label": "gdp_ppp",
+          "children": [
+            {
+              "label": "2026 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$76.510 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$4,980"
+            }
+          ]
+        },
+        {
+          "label": "gdp_nominal",
+          "children": [
+            {
+              "label": "2026 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$27.450 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$1,790"
+            }
+          ]
+        },
+        {
+          "label": "gini_2021",
+          "children": [
+            {
+              "label": "34.4 medium inequality"
+            }
+          ]
+        },
+        {
+          "label": "hdi_2023",
+          "children": [
+            {
+              "label": "0.515 low"
+            }
+          ]
+        },
+        {
+          "label": "currency",
+          "children": [
+            {
+              "label": "west african cfa franc"
+            }
+          ]
+        },
+        {
+          "label": "time_zone",
+          "children": [
+            {
+              "label": "utc +1"
+            }
+          ]
+        },
+        {
+          "label": "date_format",
+          "children": [
+            {
+              "label": "dd/mm/yyyy"
+            }
+          ]
+        },
+        {
+          "label": "calling_code",
+          "children": [
+            {
+              "label": "+229"
+            }
+          ]
+        },
+        {
+          "label": "iso_3166_code",
+          "children": [
+            {
+              "label": "bj"
+            }
+          ]
+        },
+        {
+          "label": "internet_tld",
+          "children": [
+            {
+              "label": ".bj"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,390 @@
+{
+  "country": "Costa Rica",
+  "infobox_title": "Republic of Costa Rica República de Costa Rica",
+  "data": [
+    {
+      "label": "Capital and largest city",
+      "value": "San José 9°56′N 84°5′W ﻿ / ﻿ 9.933°N 84.083°W",
+      "links": [
+        {
+          "text": "San José",
+          "href": "https://en.wikipedia.org/wiki/San_Jos%C3%A9,_Costa_Rica"
+        },
+        {
+          "text": "9°56′N84°5′W﻿ / ﻿9.933°N 84.083°W",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Costa_Rica&params=9_56_N_84_5_W_type:city"
+        }
+      ]
+    },
+    {
+      "label": "Official languages",
+      "value": "Spanish",
+      "links": [
+        {
+          "text": "Spanish",
+          "href": "https://en.wikipedia.org/wiki/Costa_Rican_Spanish"
+        }
+      ]
+    },
+    {
+      "label": "Recognized regional languages",
+      "value": "Mekatelyu Bribri Patois",
+      "links": [
+        {
+          "text": "Mekatelyu",
+          "href": "https://en.wikipedia.org/wiki/Limonese_Creole"
+        },
+        {
+          "text": "Bribri",
+          "href": "https://en.wikipedia.org/wiki/Bribri_language"
+        },
+        {
+          "text": "Patois",
+          "href": "https://en.wikipedia.org/wiki/Jamaican_Patois"
+        }
+      ],
+      "sub_items": [
+        "Mekatelyu",
+        "Bribri",
+        "Patois"
+      ]
+    },
+    {
+      "label": "Ethnic groups (2021 )",
+      "value": "83.6% White or Mestizo 6.7% Mulatto (mixed Black and White ) 2.4% Indigenous 1.1% Black 6.2% others",
+      "links": [
+        {
+          "text": "White",
+          "href": "https://en.wikipedia.org/wiki/White_Latin_Americans"
+        },
+        {
+          "text": "Mestizo",
+          "href": "https://en.wikipedia.org/wiki/Mestizo"
+        },
+        {
+          "text": "Mulatto",
+          "href": "https://en.wikipedia.org/wiki/Mulatto"
+        },
+        {
+          "text": "Black",
+          "href": "https://en.wikipedia.org/wiki/Afro-Costa_Rican"
+        },
+        {
+          "text": "White",
+          "href": "https://en.wikipedia.org/wiki/White_Latin_Americans"
+        },
+        {
+          "text": "Indigenous",
+          "href": "https://en.wikipedia.org/wiki/Indigenous_peoples_of_Costa_Rica"
+        },
+        {
+          "text": "Black",
+          "href": "https://en.wikipedia.org/wiki/Afro-Costa_Rican"
+        }
+      ],
+      "sub_items": [
+        "83.6% White or Mestizo",
+        "6.7% Mulatto (mixed Black and White )",
+        "2.4% Indigenous",
+        "1.1% Black",
+        "6.2% others"
+      ]
+    },
+    {
+      "label": "Religion (2021)",
+      "value": "72.6% Christianity 47.5% Catholicism ( official ) 22.5% Protestantism 2.6% other Christian 27.0% no religion 0.4% others",
+      "links": [
+        {
+          "text": "Christianity",
+          "href": "https://en.wikipedia.org/wiki/Christianity"
+        },
+        {
+          "text": "Catholicism",
+          "href": "https://en.wikipedia.org/wiki/Catholic_Church_in_Costa_Rica"
+        },
+        {
+          "text": "official",
+          "href": "https://en.wikipedia.org/wiki/State_religion"
+        },
+        {
+          "text": "Protestantism",
+          "href": "https://en.wikipedia.org/wiki/Protestantism"
+        },
+        {
+          "text": "Christian",
+          "href": "https://en.wikipedia.org/wiki/List_of_Christian_denominations"
+        },
+        {
+          "text": "no religion",
+          "href": "https://en.wikipedia.org/wiki/Irreligion_in_Latin_America"
+        }
+      ],
+      "sub_items": [
+        "72.6% Christianity 47.5% Catholicism ( official ) 22.5% Protestantism 2.6% other Christian",
+        "72.6% Christianity 47.5% Catholicism ( official ) 22.5% Protestantism 2.6% other Christian",
+        "47.5% Catholicism ( official )",
+        "22.5% Protestantism",
+        "2.6% other Christian",
+        "27.0% no religion",
+        "0.4% others"
+      ]
+    },
+    {
+      "label": "Demonyms",
+      "value": "Costa Rican Tico(a)",
+      "links": [
+        {
+          "text": "Costa Rican",
+          "href": "https://en.wikipedia.org/wiki/Costa_Ricans"
+        }
+      ],
+      "sub_items": [
+        "Costa Rican",
+        "Tico(a)"
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Unitary presidential republic",
+      "links": [
+        {
+          "text": "presidential republic",
+          "href": "https://en.wikipedia.org/wiki/Presidential_republic"
+        }
+      ]
+    },
+    {
+      "label": "• President",
+      "value": "Rodrigo Chaves",
+      "links": [
+        {
+          "text": "Rodrigo Chaves",
+          "href": "https://en.wikipedia.org/wiki/Rodrigo_Chaves_Robles"
+        }
+      ]
+    },
+    {
+      "label": "• First Vice President",
+      "value": "Mary Munive",
+      "links": [
+        {
+          "text": "Mary Munive",
+          "href": "https://en.wikipedia.org/wiki/Mary_Munive"
+        }
+      ]
+    },
+    {
+      "label": "• Second Vice President",
+      "value": "Vacant"
+    },
+    {
+      "label": "Legislature",
+      "value": "Legislative Assembly",
+      "links": [
+        {
+          "text": "Legislative Assembly",
+          "href": "https://en.wikipedia.org/wiki/Legislative_Assembly_of_Costa_Rica"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Independence from",
+      "rows": [
+        {
+          "label": "• from Spain",
+          "value": "15 September 1821"
+        },
+        {
+          "label": "• from First Mexican Empire",
+          "value": "1 July 1823"
+        },
+        {
+          "label": "• from the Federal Republic of Central America",
+          "value": "14 November 1838"
+        },
+        {
+          "label": "• Current constitution",
+          "value": "7 November 1949"
+        },
+        {
+          "label": "• Recognized by Spain",
+          "value": "10 May 1850"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "51,179.92 km (19,760.68 sq mi) ( 126th )",
+          "links": [
+            {
+              "text": "126th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "1.05 (as of 2015)"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2026 estimate",
+          "value": "5,160,700 ( 127th )",
+          "links": [
+            {
+              "text": "127th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• 2022 census",
+          "value": "5,044,197"
+        },
+        {
+          "label": "• Density",
+          "value": "220/sq mi (84.9/km ) ( 107th )",
+          "links": [
+            {
+              "text": "107th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$169.034 billion ( 90th )",
+          "links": [
+            {
+              "text": "90th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$31,462 ( 66th )",
+          "links": [
+            {
+              "text": "66th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$102.591 billion ( 85th )",
+          "links": [
+            {
+              "text": "85th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$19,095 ( 64th )",
+          "links": [
+            {
+              "text": "64th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "Gini (2022)",
+          "value": "47.2 high inequality"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.833 very high ( 62nd )",
+          "links": [
+            {
+              "text": "62nd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "Costa Rican colón ( CRC )",
+          "links": [
+            {
+              "text": "Costa Rican colón",
+              "href": "https://en.wikipedia.org/wiki/Costa_Rican_col%C3%B3n"
+            },
+            {
+              "text": "CRC",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC −6 ( CST )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "CST",
+              "href": "https://en.wikipedia.org/wiki/Central_Time_Zone"
+            }
+          ]
+        },
+        {
+          "label": "Date format",
+          "value": "dd/mm/yyyy"
+        },
+        {
+          "label": "Calling code",
+          "value": "+506",
+          "links": [
+            {
+              "text": "+506",
+              "href": "https://en.wikipedia.org/wiki/Telephone_numbers_in_Costa_Rica"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "CR",
+          "links": [
+            {
+              "text": "CR",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:CR"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".cr .co.cr",
+          "links": [
+            {
+              "text": ".cr",
+              "href": "https://en.wikipedia.org/wiki/.cr"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

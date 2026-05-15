@@ -1,0 +1,414 @@
+{
+  "country": "Guinea Bissau",
+  "infobox_title": "Republic of Guinea-Bissau República da Guiné-Bissau ( Portuguese ) 𞤘𞤭𞤲𞤫 𞤄𞤭𞤧𞤢𞤱𞤮 ( Pular ) ߖߌߣߍ ߓߌߛߊߥߏ ( Mandinka )",
+  "data": [
+    {
+      "label": "Capital and largest city",
+      "value": "Bissau 11°52′N 15°36′W ﻿ / ﻿ 11.867°N 15.600°W",
+      "links": [
+        {
+          "text": "Bissau",
+          "href": "https://en.wikipedia.org/wiki/Bissau"
+        },
+        {
+          "text": "11°52′N15°36′W﻿ / ﻿11.867°N 15.600°W",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Guinea-Bissau&params=11_52_N_15_36_W_type:city"
+        }
+      ]
+    },
+    {
+      "label": "Official languages",
+      "value": "Portuguese",
+      "links": [
+        {
+          "text": "Portuguese",
+          "href": "https://en.wikipedia.org/wiki/Guinean_Portuguese"
+        }
+      ]
+    },
+    {
+      "label": "Spoken languages",
+      "value": "List: Guinea-Bissau Creole English French Balanta Hassaniya Jola-Fonyi Mandinka Mandjak Mankanya Noon Portuguese Pulaar Serer Soninke",
+      "links": [
+        {
+          "text": "Guinea-Bissau Creole",
+          "href": "https://en.wikipedia.org/wiki/Guinea-Bissau_Creole"
+        },
+        {
+          "text": "English",
+          "href": "https://en.wikipedia.org/wiki/English_language"
+        },
+        {
+          "text": "French",
+          "href": "https://en.wikipedia.org/wiki/French_language"
+        },
+        {
+          "text": "Balanta",
+          "href": "https://en.wikipedia.org/wiki/Balanta_languages"
+        },
+        {
+          "text": "Hassaniya",
+          "href": "https://en.wikipedia.org/wiki/Hassaniya"
+        },
+        {
+          "text": "Jola-Fonyi",
+          "href": "https://en.wikipedia.org/wiki/Jola-Fonyi_language"
+        },
+        {
+          "text": "Mandinka",
+          "href": "https://en.wikipedia.org/wiki/Mandinka_language"
+        },
+        {
+          "text": "Mandjak",
+          "href": "https://en.wikipedia.org/wiki/Manjak_language"
+        },
+        {
+          "text": "Mankanya",
+          "href": "https://en.wikipedia.org/wiki/Mankanya_language"
+        },
+        {
+          "text": "Noon",
+          "href": "https://en.wikipedia.org/wiki/Noon_language"
+        },
+        {
+          "text": "Portuguese",
+          "href": "https://en.wikipedia.org/wiki/Portuguese_language"
+        },
+        {
+          "text": "Pulaar",
+          "href": "https://en.wikipedia.org/wiki/Pulaar_language"
+        },
+        {
+          "text": "Serer",
+          "href": "https://en.wikipedia.org/wiki/Serer_language"
+        },
+        {
+          "text": "Soninke",
+          "href": "https://en.wikipedia.org/wiki/Soninke_language"
+        }
+      ],
+      "sub_items": [
+        "Guinea-Bissau Creole",
+        "English",
+        "French",
+        "Balanta",
+        "Hassaniya",
+        "Jola-Fonyi",
+        "Mandinka",
+        "Mandjak",
+        "Mankanya",
+        "Noon",
+        "Portuguese",
+        "Pulaar",
+        "Serer",
+        "Soninke"
+      ]
+    },
+    {
+      "label": "Ethnic groups (2019)",
+      "value": "30% Balanta 30% Fula 14% Manjak 13% Mandinka 7% Papel 6% other / unspecified",
+      "links": [
+        {
+          "text": "Balanta",
+          "href": "https://en.wikipedia.org/wiki/Balanta_people"
+        },
+        {
+          "text": "Fula",
+          "href": "https://en.wikipedia.org/wiki/Fula_people"
+        },
+        {
+          "text": "Manjak",
+          "href": "https://en.wikipedia.org/wiki/Manjak_people"
+        },
+        {
+          "text": "Mandinka",
+          "href": "https://en.wikipedia.org/wiki/Mandinka_people"
+        },
+        {
+          "text": "Papel",
+          "href": "https://en.wikipedia.org/wiki/Papel_people"
+        }
+      ],
+      "sub_items": [
+        "30% Balanta",
+        "30% Fula",
+        "14% Manjak",
+        "13% Mandinka",
+        "7% Papel",
+        "6% other / unspecified"
+      ]
+    },
+    {
+      "label": "Religion (2020)",
+      "value": "46.1% Islam 30.6% Traditional 18.9% Christianity 3% No religion 1% others",
+      "links": [
+        {
+          "text": "Islam",
+          "href": "https://en.wikipedia.org/wiki/Islam"
+        },
+        {
+          "text": "Traditional",
+          "href": "https://en.wikipedia.org/wiki/African_traditional_religions"
+        },
+        {
+          "text": "Christianity",
+          "href": "https://en.wikipedia.org/wiki/Christianity"
+        },
+        {
+          "text": "No religion",
+          "href": "https://en.wikipedia.org/wiki/Irreligion"
+        },
+        {
+          "text": "others",
+          "href": "https://en.wikipedia.org/wiki/Religion_in_Guinea-Bissau"
+        }
+      ],
+      "sub_items": [
+        "46.1% Islam",
+        "30.6% Traditional",
+        "18.9% Christianity",
+        "3% No religion",
+        "1% others"
+      ]
+    },
+    {
+      "label": "Demonyms",
+      "value": "Guinean Bissau-Guinean"
+    },
+    {
+      "label": "Government",
+      "value": "Unitary semi-presidential republic under a military junta",
+      "links": [
+        {
+          "text": "semi-presidential republic",
+          "href": "https://en.wikipedia.org/wiki/Semi-presidential_system"
+        },
+        {
+          "text": "military junta",
+          "href": "https://en.wikipedia.org/wiki/Military_junta"
+        }
+      ]
+    },
+    {
+      "label": "• Head of the HMCRNSPO",
+      "value": "Horta Inta-A Na Man",
+      "links": [
+        {
+          "text": "Horta Inta-A Na Man",
+          "href": "https://en.wikipedia.org/wiki/Horta_Inta-A_Na_Man"
+        }
+      ]
+    },
+    {
+      "label": "• Transitional President",
+      "value": "Horta Inta-A Na Man"
+    },
+    {
+      "label": "• Prime Minister",
+      "value": "Ilídio Vieira Té",
+      "links": [
+        {
+          "text": "Ilídio Vieira Té",
+          "href": "https://en.wikipedia.org/wiki/Il%C3%ADdio_Vieira_T%C3%A9"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "National Transitional Council (transitional) National People's Assembly (suspended)",
+      "links": [
+        {
+          "text": "National Transitional Council",
+          "href": "/w/index.php?title=National_Transitional_Council_(Guinea-Bissau)&action=edit&redlink=1"
+        },
+        {
+          "text": "National People's Assembly",
+          "href": "https://en.wikipedia.org/wiki/National_People%27s_Assembly_(Guinea-Bissau)"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Independence from Portugal",
+      "rows": [
+        {
+          "label": "• Declaration",
+          "value": "24 September 1973"
+        },
+        {
+          "label": "• Recognition",
+          "value": "10 September 1974"
+        },
+        {
+          "label": "• 2025 Guinea-Bissau coup d'état",
+          "value": "26 November 2025"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "36,125 km (13,948 sq mi) ( 134th )",
+          "links": [
+            {
+              "text": "134th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "22.4"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2023 estimate",
+          "value": "2,080,000 ( 150th )",
+          "links": [
+            {
+              "text": "150th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• Density",
+          "value": "47/km (121.7/sq mi) ( 154th )",
+          "links": [
+            {
+              "text": "154th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$6.620 billion ( 172th )",
+          "links": [
+            {
+              "text": "172th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$3,280 ( 168th )",
+          "links": [
+            {
+              "text": "168th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$2.270 billion ( 174th )",
+          "links": [
+            {
+              "text": "174th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$1,130 ( 165th )",
+          "links": [
+            {
+              "text": "165th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "Gini (2021)",
+          "value": "33.4 medium inequality"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.514 low ( 174th )",
+          "links": [
+            {
+              "text": "174th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "West African CFA franc ( XOF )",
+          "links": [
+            {
+              "text": "West African CFA franc",
+              "href": "https://en.wikipedia.org/wiki/West_African_CFA_franc"
+            },
+            {
+              "text": "XOF",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC ±00:00 ( GMT )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "GMT",
+              "href": "https://en.wikipedia.org/wiki/Greenwich_Mean_Time"
+            }
+          ]
+        },
+        {
+          "label": "Calling code",
+          "value": "+245",
+          "links": [
+            {
+              "text": "+245",
+              "href": "https://en.wikipedia.org/wiki/Telephone_numbers_in_Guinea-Bissau"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "GW",
+          "links": [
+            {
+              "text": "GW",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:GW"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".gw",
+          "links": [
+            {
+              "text": ".gw",
+              "href": "https://en.wikipedia.org/wiki/.gw"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

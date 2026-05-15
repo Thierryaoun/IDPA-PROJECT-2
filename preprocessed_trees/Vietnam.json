@@ -1,0 +1,404 @@
+{
+  "label": "country",
+  "children": [
+    {
+      "label": "name",
+      "children": [
+        {
+          "label": "vietnam"
+        }
+      ]
+    },
+    {
+      "label": "infobox_title",
+      "children": [
+        {
+          "label": "socialist republic of viet nam cộng hòa xã hội chủ nghĩa việt nam"
+        }
+      ]
+    },
+    {
+      "label": "capital",
+      "children": [
+        {
+          "label": "hanoi / 21."
+        }
+      ]
+    },
+    {
+      "label": "largest_city_by_municipal_boundary",
+      "children": [
+        {
+          "label": "da nang / 16."
+        }
+      ]
+    },
+    {
+      "label": "largest_city_by_urban_population",
+      "children": [
+        {
+          "label": "ho chi minh city / 10."
+        }
+      ]
+    },
+    {
+      "label": "official_language",
+      "children": [
+        {
+          "label": "vietnamese"
+        }
+      ]
+    },
+    {
+      "label": "ethnic_groups_2019",
+      "children": [
+        {
+          "label": "85.32% kinh vietnamese"
+        },
+        {
+          "label": "14.68% other"
+        }
+      ]
+    },
+    {
+      "label": "religion_2019",
+      "children": [
+        {
+          "label": "86.32% no religion / folk"
+        },
+        {
+          "label": "6.1% catholicism"
+        },
+        {
+          "label": "4.79% buddhism"
+        },
+        {
+          "label": "1.02% hoahaoism"
+        },
+        {
+          "label": "1% protestantism"
+        },
+        {
+          "label": "0.58% caodaism"
+        },
+        {
+          "label": "0.07% islam"
+        },
+        {
+          "label": "0.12% other"
+        }
+      ]
+    },
+    {
+      "label": "demonyms",
+      "children": [
+        {
+          "label": "vietnamese viet"
+        }
+      ]
+    },
+    {
+      "label": "government",
+      "children": [
+        {
+          "label": "unitary communist state"
+        }
+      ]
+    },
+    {
+      "label": "general_secretary",
+      "children": [
+        {
+          "label": "tô lâm"
+        }
+      ]
+    },
+    {
+      "label": "president",
+      "children": [
+        {
+          "label": "lương cường"
+        }
+      ]
+    },
+    {
+      "label": "prime_minister",
+      "children": [
+        {
+          "label": "phạm minh chính"
+        }
+      ]
+    },
+    {
+      "label": "national_assembly_chairman",
+      "children": [
+        {
+          "label": "trần thanh mẫn"
+        }
+      ]
+    },
+    {
+      "label": "legislature",
+      "children": [
+        {
+          "label": "national assembly"
+        }
+      ]
+    },
+    {
+      "label": "formation",
+      "children": [
+        {
+          "label": "văn_lang",
+          "children": [
+            {
+              "label": "7th century bc"
+            }
+          ]
+        },
+        {
+          "label": "âu_lạc",
+          "children": [
+            {
+              "label": "3rd century bc"
+            }
+          ]
+        },
+        {
+          "label": "han_s_annexation",
+          "children": [
+            {
+              "label": "111 bc"
+            }
+          ]
+        },
+        {
+          "label": "independence_from_china",
+          "children": [
+            {
+              "label": "939"
+            }
+          ]
+        },
+        {
+          "label": "regaining_independence",
+          "children": [
+            {
+              "label": "1428"
+            }
+          ]
+        },
+        {
+          "label": "nguyễn_s_unification",
+          "children": [
+            {
+              "label": "1802"
+            }
+          ]
+        },
+        {
+          "label": "protectorate_treaty",
+          "children": [
+            {
+              "label": "25 august 1883"
+            }
+          ]
+        },
+        {
+          "label": "declaration_of_independence",
+          "children": [
+            {
+              "label": "2 september 1945"
+            }
+          ]
+        },
+        {
+          "label": "north_south_partition",
+          "children": [
+            {
+              "label": "21 july 1954"
+            }
+          ]
+        },
+        {
+          "label": "end_of_vietnam_war",
+          "children": [
+            {
+              "label": "30 april 1975"
+            }
+          ]
+        },
+        {
+          "label": "reunification",
+          "children": [
+            {
+              "label": "2 july 1976"
+            }
+          ]
+        },
+        {
+          "label": "current_constitution",
+          "children": [
+            {
+              "label": "28 november 2013"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "area",
+      "children": [
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "331,344.82 km"
+            }
+          ]
+        },
+        {
+          "label": "water",
+          "children": [
+            {
+              "label": "6.38"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "population",
+      "children": [
+        {
+          "label": "2025_estimate",
+          "children": [
+            {
+              "label": "102,300,000"
+            }
+          ]
+        },
+        {
+          "label": "2019_census",
+          "children": [
+            {
+              "label": "96,208,984"
+            }
+          ]
+        },
+        {
+          "label": "density",
+          "children": [
+            {
+              "label": "309/km"
+            }
+          ]
+        },
+        {
+          "label": "gdp_ppp",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$1.786 trillion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$17,484"
+            }
+          ]
+        },
+        {
+          "label": "gdp_nominal",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$490.970 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$4,806"
+            }
+          ]
+        },
+        {
+          "label": "gini_2022",
+          "children": [
+            {
+              "label": "36.1 medium inequality"
+            }
+          ]
+        },
+        {
+          "label": "hdi_2023",
+          "children": [
+            {
+              "label": "0.766 high"
+            }
+          ]
+        },
+        {
+          "label": "currency",
+          "children": [
+            {
+              "label": "vietnamese đồng"
+            }
+          ]
+        },
+        {
+          "label": "time_zone",
+          "children": [
+            {
+              "label": "utc +07:00"
+            }
+          ]
+        },
+        {
+          "label": "calling_code",
+          "children": [
+            {
+              "label": "+84"
+            }
+          ]
+        },
+        {
+          "label": "iso_3166_code",
+          "children": [
+            {
+              "label": "vn"
+            }
+          ]
+        },
+        {
+          "label": "internet_tld",
+          "children": [
+            {
+              "label": ".vn"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

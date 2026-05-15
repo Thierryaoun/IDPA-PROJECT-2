@@ -1,0 +1,487 @@
+{
+  "country": "Switzerland",
+  "infobox_title": "Swiss Confederation Name in official languages and Latin German : Schweizerische Eidgenossenschaft French : Confédération suisse Italian : Confederazione Svizzera Romansh : Confederaziun svizra Latin : Confoederatio helvetica (CH)",
+  "data": [
+    {
+      "label": "German :",
+      "value": "Schweizerische Eidgenossenschaft"
+    },
+    {
+      "label": "German :",
+      "value": "Schweizerische Eidgenossenschaft"
+    },
+    {
+      "label": "French :",
+      "value": "Confédération suisse"
+    },
+    {
+      "label": "Italian :",
+      "value": "Confederazione Svizzera"
+    },
+    {
+      "label": "Romansh :",
+      "value": "Confederaziun svizra"
+    },
+    {
+      "label": "Latin :",
+      "value": "Confoederatio helvetica (CH)"
+    },
+    {
+      "label": "Capital",
+      "value": "Bern ( de facto )",
+      "links": [
+        {
+          "text": "Bern",
+          "href": "https://en.wikipedia.org/wiki/Bern"
+        },
+        {
+          "text": "de facto",
+          "href": "https://en.wikipedia.org/wiki/De_facto"
+        }
+      ]
+    },
+    {
+      "label": "Federal city",
+      "value": "Bern"
+    },
+    {
+      "label": "Largest city",
+      "value": "Zurich",
+      "links": [
+        {
+          "text": "Zurich",
+          "href": "https://en.wikipedia.org/wiki/Zurich"
+        }
+      ]
+    },
+    {
+      "label": "Official languages",
+      "value": "German (62%), French (23%), Italian (8%), Romansh (0.5%)",
+      "links": [
+        {
+          "text": "German",
+          "href": "https://en.wikipedia.org/wiki/German_language"
+        },
+        {
+          "text": "French",
+          "href": "https://en.wikipedia.org/wiki/French_language"
+        },
+        {
+          "text": "Italian",
+          "href": "https://en.wikipedia.org/wiki/Italian_language"
+        },
+        {
+          "text": "Romansh",
+          "href": "https://en.wikipedia.org/wiki/Romansh_language"
+        }
+      ]
+    },
+    {
+      "label": "Nationality (2024)",
+      "value": "72.6% Swiss 27.4% foreign nationals",
+      "links": [
+        {
+          "text": "Swiss",
+          "href": "https://en.wikipedia.org/wiki/Swiss_nationality_law"
+        },
+        {
+          "text": "foreign nationals",
+          "href": "https://en.wikipedia.org/wiki/Immigration_to_Switzerland"
+        }
+      ],
+      "sub_items": [
+        "72.6% Swiss",
+        "27.4% foreign nationals"
+      ]
+    },
+    {
+      "label": "Religion (2024)",
+      "value": "54.7% Christianity 30% Catholicism 18.7% Protestantism 6% other Christian 36.8% no religion 6% Islam 1.5% other religions 0.9% unanswered",
+      "links": [
+        {
+          "text": "Christianity",
+          "href": "https://en.wikipedia.org/wiki/Christianity"
+        },
+        {
+          "text": "Catholicism",
+          "href": "https://en.wikipedia.org/wiki/Catholic_Church_in_Switzerland"
+        },
+        {
+          "text": "Protestantism",
+          "href": "https://en.wikipedia.org/wiki/Protestantism_in_Switzerland"
+        },
+        {
+          "text": "Christian",
+          "href": "https://en.wikipedia.org/wiki/Christian_denomination"
+        },
+        {
+          "text": "no religion",
+          "href": "https://en.wikipedia.org/wiki/Irreligion"
+        },
+        {
+          "text": "Islam",
+          "href": "https://en.wikipedia.org/wiki/Islam_in_Switzerland"
+        },
+        {
+          "text": "other religions",
+          "href": "https://en.wikipedia.org/wiki/Religion_in_Switzerland"
+        }
+      ],
+      "sub_items": [
+        "54.7% Christianity 30% Catholicism 18.7% Protestantism 6% other Christian",
+        "30% Catholicism",
+        "18.7% Protestantism",
+        "6% other Christian",
+        "36.8% no religion",
+        "6% Islam",
+        "1.5% other religions",
+        "0.9% unanswered"
+      ]
+    },
+    {
+      "label": "Demonyms",
+      "value": "English: Swiss German: Schweizer/Schweizerin French: Suisse/Suissesse Italian : svizzero/svizzera or elvetico/elvetica Romansh : Svizzer/Svizra",
+      "links": [
+        {
+          "text": "Swiss",
+          "href": "https://en.wikipedia.org/wiki/Swiss_people"
+        },
+        {
+          "text": "Italian",
+          "href": "https://en.wikipedia.org/wiki/Italian_language"
+        },
+        {
+          "text": "Romansh",
+          "href": "https://en.wikipedia.org/wiki/Romansh_language"
+        }
+      ],
+      "sub_items": [
+        "English: Swiss",
+        "German: Schweizer/Schweizerin",
+        "French: Suisse/Suissesse",
+        "Italian : svizzero/svizzera or elvetico/elvetica",
+        "Romansh : Svizzer/Svizra"
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Federal assembly-independent directorial republic",
+      "links": [
+        {
+          "text": "assembly-independent",
+          "href": "https://en.wikipedia.org/wiki/List_of_countries_by_system_of_government#Assembly-independent_republics"
+        }
+      ]
+    },
+    {
+      "label": "• Federal Council",
+      "value": "Guy Parmelin ( President ) Ignazio Cassis ( Vice president ) Karin Keller-Sutter Albert Rösti Élisabeth Baume-Schneider Beat Jans Martin Pfister",
+      "links": [
+        {
+          "text": "Guy Parmelin",
+          "href": "https://en.wikipedia.org/wiki/Guy_Parmelin"
+        },
+        {
+          "text": "President",
+          "href": "https://en.wikipedia.org/wiki/President_of_the_Swiss_Confederation"
+        },
+        {
+          "text": "Ignazio Cassis",
+          "href": "https://en.wikipedia.org/wiki/Ignazio_Cassis"
+        },
+        {
+          "text": "Vice president",
+          "href": "https://en.wikipedia.org/wiki/President_of_the_Swiss_Confederation#Vice-President_of_the_Federal_Council"
+        },
+        {
+          "text": "Karin Keller-Sutter",
+          "href": "https://en.wikipedia.org/wiki/Karin_Keller-Sutter"
+        },
+        {
+          "text": "Albert Rösti",
+          "href": "https://en.wikipedia.org/wiki/Albert_R%C3%B6sti"
+        },
+        {
+          "text": "Élisabeth Baume-Schneider",
+          "href": "https://en.wikipedia.org/wiki/%C3%89lisabeth_Baume-Schneider"
+        },
+        {
+          "text": "Beat Jans",
+          "href": "https://en.wikipedia.org/wiki/Beat_Jans"
+        },
+        {
+          "text": "Martin Pfister",
+          "href": "https://en.wikipedia.org/wiki/Martin_Pfister"
+        }
+      ],
+      "sub_items": [
+        "Guy Parmelin ( President )",
+        "Ignazio Cassis ( Vice president )",
+        "Karin Keller-Sutter",
+        "Albert Rösti",
+        "Élisabeth Baume-Schneider",
+        "Beat Jans",
+        "Martin Pfister"
+      ]
+    },
+    {
+      "label": "• Federal Chancellor",
+      "value": "Viktor Rossi",
+      "links": [
+        {
+          "text": "Viktor Rossi",
+          "href": "https://en.wikipedia.org/wiki/Viktor_Rossi"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "Federal Assembly",
+      "links": [
+        {
+          "text": "Federal Assembly",
+          "href": "https://en.wikipedia.org/wiki/Federal_Assembly_(Switzerland)"
+        }
+      ]
+    },
+    {
+      "label": "• Upper house",
+      "value": "Council of States",
+      "links": [
+        {
+          "text": "Council of States",
+          "href": "https://en.wikipedia.org/wiki/Council_of_States_(Switzerland)"
+        }
+      ]
+    },
+    {
+      "label": "• Lower house",
+      "value": "National Council",
+      "links": [
+        {
+          "text": "National Council",
+          "href": "https://en.wikipedia.org/wiki/National_Council_(Switzerland)"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "History",
+      "rows": [
+        {
+          "label": "• Founded",
+          "value": "1 August 1291"
+        },
+        {
+          "label": "• Sovereignty recognised ( Peace of Westphalia )",
+          "value": "24 October 1648"
+        },
+        {
+          "label": "• Federal Treaty",
+          "value": "7 August 1815"
+        },
+        {
+          "label": "• Federal state",
+          "value": "12 September 1848"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "41,291 km (15,943 sq mi) ( 132th )",
+          "links": [
+            {
+              "text": "132th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "4"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2025 estimate",
+          "value": "9,060,598 ( 99th )",
+          "links": [
+            {
+              "text": "99th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• 2015 census",
+          "value": "8,327,126"
+        },
+        {
+          "label": "• Density",
+          "value": "207/km (536.1/sq mi) ( 67th )",
+          "links": [
+            {
+              "text": "67th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$881.083 billion ( 35th )",
+          "links": [
+            {
+              "text": "35th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$97,660 ( 6th )",
+          "links": [
+            {
+              "text": "6th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$1.003 trillion ( 20th )",
+          "links": [
+            {
+              "text": "20th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$111,047 ( 3rd )",
+          "links": [
+            {
+              "text": "3rd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "Gini (2023)",
+          "value": "31.5 medium inequality"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.970 very high ( 2nd )",
+          "links": [
+            {
+              "text": "2nd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "Swiss franc ( CHF )",
+          "links": [
+            {
+              "text": "Swiss franc",
+              "href": "https://en.wikipedia.org/wiki/Swiss_franc"
+            },
+            {
+              "text": "CHF",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC +1 ( CET )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "CET",
+              "href": "https://en.wikipedia.org/wiki/Central_European_Time"
+            }
+          ]
+        },
+        {
+          "label": "• Summer ( DST )",
+          "value": "UTC +2 ( CEST )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "CEST",
+              "href": "https://en.wikipedia.org/wiki/Central_European_Summer_Time"
+            }
+          ]
+        },
+        {
+          "label": "Date format",
+          "value": "dd.mm.yyyy ( AD )",
+          "links": [
+            {
+              "text": "AD",
+              "href": "https://en.wikipedia.org/wiki/AD"
+            }
+          ]
+        },
+        {
+          "label": "Calling code",
+          "value": "+41",
+          "links": [
+            {
+              "text": "+41",
+              "href": "https://en.wikipedia.org/wiki/%2B41"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "CH",
+          "links": [
+            {
+              "text": "CH",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:CH"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".ch , .swiss",
+          "links": [
+            {
+              "text": ".ch",
+              "href": "https://en.wikipedia.org/wiki/.ch"
+            },
+            {
+              "text": ".swiss",
+              "href": "https://en.wikipedia.org/wiki/.swiss"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,404 @@
+{
+  "country": "Eswatini",
+  "infobox_title": "Kingdom of Eswatini Umbuso weSwatini ( Swazi )",
+  "data": [
+    {
+      "label": "Capital",
+      "value": "Mbabane (executive) Lobamba (legislative) 26°30′S 31°30′E ﻿ / ﻿ 26.500°S 31.500°E",
+      "links": [
+        {
+          "text": "Mbabane",
+          "href": "https://en.wikipedia.org/wiki/Mbabane"
+        },
+        {
+          "text": "Lobamba",
+          "href": "https://en.wikipedia.org/wiki/Lobamba"
+        },
+        {
+          "text": "26°30′S31°30′E﻿ / ﻿26.500°S 31.500°E",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Eswatini&params=26_30_S_31_30_E_type:city"
+        }
+      ],
+      "sub_items": [
+        "Mbabane (executive)",
+        "Lobamba (legislative)"
+      ]
+    },
+    {
+      "label": "Largest city",
+      "value": "Mbabane",
+      "links": [
+        {
+          "text": "Mbabane",
+          "href": "https://en.wikipedia.org/wiki/Mbabane"
+        }
+      ]
+    },
+    {
+      "label": "Official languages",
+      "value": "Swazi English",
+      "links": [
+        {
+          "text": "Swazi",
+          "href": "https://en.wikipedia.org/wiki/Swazi_language"
+        },
+        {
+          "text": "English",
+          "href": "https://en.wikipedia.org/wiki/English_language"
+        }
+      ],
+      "sub_items": [
+        "Swazi",
+        "English"
+      ]
+    },
+    {
+      "label": "Ethnic groups (2017)",
+      "value": "84% Swazi 10% Zulu 6% others",
+      "links": [
+        {
+          "text": "Swazi",
+          "href": "https://en.wikipedia.org/wiki/Swazi_people"
+        },
+        {
+          "text": "Zulu",
+          "href": "https://en.wikipedia.org/wiki/Zulu_people"
+        }
+      ],
+      "sub_items": [
+        "84% Swazi",
+        "10% Zulu",
+        "6% others"
+      ]
+    },
+    {
+      "label": "Religion (2017)",
+      "value": "89.3% Christianity 84.2% Protestantism 3.7% Roman Catholic 1.4% other Christian 7.4% no religion 2.5% traditional faiths 0.8% others",
+      "links": [
+        {
+          "text": "Christianity",
+          "href": "https://en.wikipedia.org/wiki/Christianity_in_Eswatini"
+        },
+        {
+          "text": "Protestantism",
+          "href": "https://en.wikipedia.org/wiki/Protestantism"
+        },
+        {
+          "text": "Roman Catholic",
+          "href": "https://en.wikipedia.org/wiki/Catholic_church"
+        },
+        {
+          "text": "Christian",
+          "href": "https://en.wikipedia.org/wiki/List_of_Christian_denominations"
+        },
+        {
+          "text": "no religion",
+          "href": "https://en.wikipedia.org/wiki/Irreligion"
+        },
+        {
+          "text": "traditional faiths",
+          "href": "https://en.wikipedia.org/wiki/African_traditional_religion"
+        }
+      ],
+      "sub_items": [
+        "89.3% Christianity 84.2% Protestantism 3.7% Roman Catholic 1.4% other Christian",
+        "89.3% Christianity 84.2% Protestantism 3.7% Roman Catholic 1.4% other Christian",
+        "84.2% Protestantism",
+        "3.7% Roman Catholic",
+        "1.4% other Christian",
+        "7.4% no religion",
+        "2.5% traditional faiths",
+        "0.8% others"
+      ]
+    },
+    {
+      "label": "Demonym",
+      "value": "Swazi",
+      "links": [
+        {
+          "text": "Swazi",
+          "href": "https://en.wikipedia.org/wiki/Swazi_people"
+        }
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Unitary diarchic absolute monarchy",
+      "links": [
+        {
+          "text": "diarchic",
+          "href": "https://en.wikipedia.org/wiki/Diarchic"
+        },
+        {
+          "text": "absolute monarchy",
+          "href": "https://en.wikipedia.org/wiki/Absolute_monarchy"
+        }
+      ]
+    },
+    {
+      "label": "• King",
+      "value": "Mswati III",
+      "links": [
+        {
+          "text": "Mswati III",
+          "href": "https://en.wikipedia.org/wiki/Mswati_III"
+        }
+      ]
+    },
+    {
+      "label": "• Queen Mother",
+      "value": "Ntfombi",
+      "links": [
+        {
+          "text": "Ntfombi",
+          "href": "https://en.wikipedia.org/wiki/Ntfombi"
+        }
+      ]
+    },
+    {
+      "label": "• Prime Minister",
+      "value": "Russell Dlamini",
+      "links": [
+        {
+          "text": "Russell Dlamini",
+          "href": "https://en.wikipedia.org/wiki/Russell_Dlamini"
+        }
+      ]
+    },
+    {
+      "label": "• Chief Justice",
+      "value": "Bheki Maphalala",
+      "links": [
+        {
+          "text": "Bheki Maphalala",
+          "href": "https://en.wikipedia.org/wiki/Bheki_Maphalala"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "Parliament",
+      "links": [
+        {
+          "text": "Parliament",
+          "href": "https://en.wikipedia.org/wiki/Parliament_of_Eswatini"
+        }
+      ]
+    },
+    {
+      "label": "• Upper house",
+      "value": "Senate",
+      "links": [
+        {
+          "text": "Senate",
+          "href": "https://en.wikipedia.org/wiki/Senate_of_Eswatini"
+        }
+      ]
+    },
+    {
+      "label": "• Lower house",
+      "value": "House of Assembly",
+      "links": [
+        {
+          "text": "House of Assembly",
+          "href": "https://en.wikipedia.org/wiki/House_of_Assembly_of_Eswatini"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Independence from the United Kingdom",
+      "rows": [
+        {
+          "label": "• Independence granted",
+          "value": "6 September 1968"
+        },
+        {
+          "label": "• United Nations membership",
+          "value": "24 September 1968"
+        },
+        {
+          "label": "• Current constitution",
+          "value": "2005"
+        },
+        {
+          "label": "• Renaming",
+          "value": "19 April 2018"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "17,364 km (6,704 sq mi) ( 153rd )",
+          "links": [
+            {
+              "text": "153rd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "0.9"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2023 estimate",
+          "value": "1,236,126 ( 155th )",
+          "links": [
+            {
+              "text": "155th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• 2017 census",
+          "value": "1,093,238"
+        },
+        {
+          "label": "• Density",
+          "value": "66.8/km (173.0/sq mi) ( 135th )",
+          "links": [
+            {
+              "text": "135th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2023 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$13.797 billion ( 158th )",
+          "links": [
+            {
+              "text": "158th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$11,858 ( 113th )",
+          "links": [
+            {
+              "text": "113th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2023 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$4.648 billion ( 168th )",
+          "links": [
+            {
+              "text": "168th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$3,995 ( 122nd )",
+          "links": [
+            {
+              "text": "122nd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "Gini (2016)",
+          "value": "54.6 high inequality"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.695 medium ( 126th )",
+          "links": [
+            {
+              "text": "126th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "Lilangeni (SZL) South African rand (ZAR)",
+          "links": [
+            {
+              "text": "Lilangeni",
+              "href": "https://en.wikipedia.org/wiki/Swazi_lilangeni"
+            },
+            {
+              "text": "South African rand",
+              "href": "https://en.wikipedia.org/wiki/South_African_rand"
+            }
+          ],
+          "sub_items": [
+            "Lilangeni (SZL)",
+            "South African rand (ZAR)"
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC +2 ( SAST )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "SAST",
+              "href": "https://en.wikipedia.org/wiki/South_African_Standard_Time"
+            }
+          ]
+        },
+        {
+          "label": "Calling code",
+          "value": "+268",
+          "links": [
+            {
+              "text": "+268",
+              "href": "https://en.wikipedia.org/wiki/%2B268"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "SZ",
+          "links": [
+            {
+              "text": "SZ",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:SZ"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".sz",
+          "links": [
+            {
+              "text": ".sz",
+              "href": "https://en.wikipedia.org/wiki/.sz"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

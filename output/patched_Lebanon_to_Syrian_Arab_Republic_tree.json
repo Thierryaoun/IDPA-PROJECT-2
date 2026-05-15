@@ -1,0 +1,337 @@
+{
+  "label": "country",
+  "children": [
+    {
+      "label": "name",
+      "children": [
+        {
+          "label": "syrian arab republic"
+        }
+      ]
+    },
+    {
+      "label": "infobox_title",
+      "children": [
+        {
+          "label": "syrian arab republic اَلْجُمْهُورِيَّةُ ٱلْعَرَبِيَّةُ ٱلْسُوْرِيَّة al-jumhūriyyah al-ʿarabiyyah as-sūriyyah"
+        }
+      ]
+    },
+    {
+      "label": "capital_and_largest_city",
+      "children": [
+        {
+          "label": "damascus / 33."
+        }
+      ]
+    },
+    {
+      "label": "official_languages",
+      "children": [
+        {
+          "label": "arabic"
+        }
+      ]
+    },
+    {
+      "label": "recognized_national_languages",
+      "children": [
+        {
+          "label": "kurdish"
+        }
+      ]
+    },
+    {
+      "label": "spoken_languages",
+      "children": [
+        {
+          "label": "predominantly arabic"
+        },
+        {
+          "label": "kurdish"
+        },
+        {
+          "label": "turkish"
+        },
+        {
+          "label": "neo-aramaic"
+        },
+        {
+          "label": "syriac"
+        },
+        {
+          "label": "circassian"
+        },
+        {
+          "label": "chechen"
+        },
+        {
+          "label": "armenian"
+        },
+        {
+          "label": "greek"
+        },
+        {
+          "label": "domari"
+        }
+      ]
+    },
+    {
+      "label": "ethnic_groups_2021",
+      "children": [
+        {
+          "label": "10% others"
+        }
+      ]
+    },
+    {
+      "label": "religion_2020",
+      "children": [
+        {
+          "label": "94.17% islam"
+        },
+        {
+          "label": "79.19% sunni"
+        },
+        {
+          "label": "13% alawites"
+        },
+        {
+          "label": "3.84% christianity"
+        },
+        {
+          "label": "1.99% other"
+        }
+      ]
+    },
+    {
+      "label": "demonym",
+      "children": [
+        {
+          "label": "syrian"
+        }
+      ]
+    },
+    {
+      "label": "government",
+      "children": [
+        {
+          "label": "unitary presidential republic under a provisional government"
+        }
+      ]
+    },
+    {
+      "label": "president",
+      "children": [
+        {
+          "label": "ahmed al-sharaa"
+        }
+      ]
+    },
+    {
+      "label": "legislature",
+      "children": [
+        {
+          "label": "people's assembly"
+        }
+      ]
+    },
+    {
+      "label": "establishment",
+      "children": [
+        {
+          "label": "arab_kingdom_of_syria",
+          "children": [
+            {
+              "label": "8 march 1920"
+            }
+          ]
+        },
+        {
+          "label": "state_of_syria_under_french_mandate",
+          "children": [
+            {
+              "label": "1 december 1924"
+            }
+          ]
+        },
+        {
+          "label": "first_syrian_republic",
+          "children": [
+            {
+              "label": "14 may 1930"
+            }
+          ]
+        },
+        {
+          "label": "end_of_the_french_mandate",
+          "children": [
+            {
+              "label": "17 april 1946"
+            }
+          ]
+        },
+        {
+          "label": "part_of_the_united_arab_republic",
+          "children": [
+            {
+              "label": "22 february 1958 – 28 september 1961"
+            }
+          ]
+        },
+        {
+          "label": "ba_athist_syria",
+          "children": [
+            {
+              "label": "8 march 1963 – 8 december 2024"
+            }
+          ]
+        },
+        {
+          "label": "current_provisional_government_established",
+          "children": [
+            {
+              "label": "29 march 2025"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "area",
+      "children": [
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "185,180 km"
+            }
+          ]
+        },
+        {
+          "label": "water",
+          "children": [
+            {
+              "label": "1.1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "population",
+      "children": [
+        {
+          "label": "2025_estimate",
+          "children": [
+            {
+              "label": "26,019,711"
+            }
+          ]
+        },
+        {
+          "label": "density",
+          "children": [
+            {
+              "label": "118.3/km"
+            }
+          ]
+        },
+        {
+          "label": "gdp_ppp",
+          "children": [
+            {
+              "label": "2021 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$50.28 billion"
+            },
+            {
+              "label": "$9.8 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$3,300"
+            },
+            {
+              "label": "$800"
+            }
+          ]
+        },
+        {
+          "label": "gdp_nominal",
+          "children": [
+            {
+              "label": "2022 estimate"
+            }
+          ]
+        },
+        {
+          "label": "gini_2022",
+          "children": [
+            {
+              "label": "26.6 low inequality"
+            }
+          ]
+        },
+        {
+          "label": "currency",
+          "children": [
+            {
+              "label": "syrian pound"
+            }
+          ]
+        },
+        {
+          "label": "time_zone",
+          "children": [
+            {
+              "label": "utc +03:00"
+            }
+          ]
+        },
+        {
+          "label": "date_format",
+          "children": [
+            {
+              "label": "dd-mm-yyyy"
+            }
+          ]
+        },
+        {
+          "label": "calling_code",
+          "children": [
+            {
+              "label": "+963"
+            }
+          ]
+        },
+        {
+          "label": "iso_3166_code",
+          "children": [
+            {
+              "label": "sy"
+            }
+          ]
+        },
+        {
+          "label": "internet_tld",
+          "children": [
+            {
+              "label": ".sy سوريا."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

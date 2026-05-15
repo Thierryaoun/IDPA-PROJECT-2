@@ -1,0 +1,382 @@
+{
+  "country": "Antigua and Barbuda",
+  "infobox_title": "Antigua and Barbuda Aanteega an' Baabyuuda ( Antiguan and Barbudan Creole )",
+  "data": [
+    {
+      "label": "Capital and largest city",
+      "value": "St. John's 17°7′N 61°51′W ﻿ / ﻿ 17.117°N 61.850°W",
+      "links": [
+        {
+          "text": "St. John's",
+          "href": "https://en.wikipedia.org/wiki/St._John%27s,_Antigua_and_Barbuda"
+        },
+        {
+          "text": "17°7′N61°51′W﻿ / ﻿17.117°N 61.850°W",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Antigua_and_Barbuda&params=17_7_N_61_51_W_type:city"
+        }
+      ]
+    },
+    {
+      "label": "Official languages",
+      "value": "English",
+      "links": [
+        {
+          "text": "English",
+          "href": "https://en.wikipedia.org/wiki/English_language"
+        }
+      ]
+    },
+    {
+      "label": "Vernacular language",
+      "value": "Antiguan and Barbudan Creole",
+      "links": [
+        {
+          "text": "Antiguan and Barbudan Creole",
+          "href": "https://en.wikipedia.org/wiki/Antiguan_and_Barbudan_Creole"
+        }
+      ]
+    },
+    {
+      "label": "Ethnic groups (2011 )",
+      "value": "87.3% African 4.7% Multiracial 2.8% Hispanic 1.7% European 1.1% East Indian 0.7% Syrian or Lebanese 1.8% other",
+      "links": [
+        {
+          "text": "African",
+          "href": "https://en.wikipedia.org/wiki/Afro%E2%80%93Antiguans_and_Barbudans"
+        },
+        {
+          "text": "Multiracial",
+          "href": "https://en.wikipedia.org/wiki/Multiracial_Antiguans_and_Barbudans"
+        },
+        {
+          "text": "Hispanic",
+          "href": "https://en.wikipedia.org/wiki/Hispanic_Antiguans_and_Barbudans"
+        },
+        {
+          "text": "European",
+          "href": "https://en.wikipedia.org/wiki/White_Antiguans_and_Barbudans"
+        },
+        {
+          "text": "East Indian",
+          "href": "https://en.wikipedia.org/wiki/Indian_Antiguans_and_Barbudans"
+        },
+        {
+          "text": "Syrian or Lebanese",
+          "href": "https://en.wikipedia.org/wiki/Syrian_and_Lebanese_Antiguans_and_Barbudans"
+        },
+        {
+          "text": "other",
+          "href": "https://en.wikipedia.org/wiki/Ethnicity_in_Antigua_and_Barbuda"
+        }
+      ],
+      "sub_items": [
+        "87.3% African",
+        "4.7% Multiracial",
+        "2.8% Hispanic",
+        "1.7% European",
+        "1.1% East Indian",
+        "0.7% Syrian or Lebanese",
+        "1.8% other"
+      ]
+    },
+    {
+      "label": "Religion (2020 )",
+      "value": "92.7% Christianity 66.6% Protestantism 26.1% other Christian 3.6% Rastafari 1.9% no religion 1.1% Baháʼí Faith 0.7% other",
+      "links": [
+        {
+          "text": "Christianity",
+          "href": "https://en.wikipedia.org/wiki/Christianity"
+        },
+        {
+          "text": "Protestantism",
+          "href": "https://en.wikipedia.org/wiki/Protestantism"
+        },
+        {
+          "text": "Christian",
+          "href": "https://en.wikipedia.org/wiki/List_of_Christian_denominations"
+        },
+        {
+          "text": "Rastafari",
+          "href": "https://en.wikipedia.org/wiki/Rastafari"
+        },
+        {
+          "text": "no religion",
+          "href": "https://en.wikipedia.org/wiki/Irreligion"
+        },
+        {
+          "text": "Baháʼí Faith",
+          "href": "https://en.wikipedia.org/wiki/Bah%C3%A1%CA%BC%C3%AD_Faith"
+        }
+      ],
+      "sub_items": [
+        "92.7% Christianity 66.6% Protestantism 26.1% other Christian",
+        "92.7% Christianity 66.6% Protestantism 26.1% other Christian",
+        "66.6% Protestantism",
+        "26.1% other Christian",
+        "3.6% Rastafari",
+        "1.9% no religion",
+        "1.1% Baháʼí Faith",
+        "0.7% other"
+      ]
+    },
+    {
+      "label": "Demonym",
+      "value": "Antiguan and Barbudan",
+      "links": [
+        {
+          "text": "Antiguan and Barbudan",
+          "href": "https://en.wikipedia.org/wiki/Antiguans_and_Barbudans"
+        }
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Unitary parliamentary constitutional monarchy",
+      "links": [
+        {
+          "text": "constitutional monarchy",
+          "href": "https://en.wikipedia.org/wiki/Constitutional_monarchy"
+        }
+      ]
+    },
+    {
+      "label": "• Monarch",
+      "value": "Charles III",
+      "links": [
+        {
+          "text": "Charles III",
+          "href": "https://en.wikipedia.org/wiki/Charles_III"
+        }
+      ]
+    },
+    {
+      "label": "• Governor-General",
+      "value": "Sir Rodney Williams",
+      "links": [
+        {
+          "text": "Sir Rodney Williams",
+          "href": "https://en.wikipedia.org/wiki/Rodney_Williams_(governor-general)"
+        }
+      ]
+    },
+    {
+      "label": "• Prime Minister",
+      "value": "Gaston Browne",
+      "links": [
+        {
+          "text": "Gaston Browne",
+          "href": "https://en.wikipedia.org/wiki/Gaston_Browne"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "Parliament",
+      "links": [
+        {
+          "text": "Parliament",
+          "href": "https://en.wikipedia.org/wiki/Parliament_of_Antigua_and_Barbuda"
+        }
+      ]
+    },
+    {
+      "label": "• Upper house",
+      "value": "Senate",
+      "links": [
+        {
+          "text": "Senate",
+          "href": "https://en.wikipedia.org/wiki/Senate_(Antigua_and_Barbuda)"
+        }
+      ]
+    },
+    {
+      "label": "• Lower house",
+      "value": "House of Representatives",
+      "links": [
+        {
+          "text": "House of Representatives",
+          "href": "https://en.wikipedia.org/wiki/House_of_Representatives_(Antigua_and_Barbuda)"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Formation",
+      "rows": [
+        {
+          "label": "• Union",
+          "value": "1 August 1860"
+        },
+        {
+          "label": "• Redonda",
+          "value": "26 March 1872"
+        },
+        {
+          "label": "• Associated state",
+          "value": "27 February 1967"
+        },
+        {
+          "label": "• Independence",
+          "value": "1 November 1981"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "440 km (170 sq mi) ( 182nd )",
+          "links": [
+            {
+              "text": "182nd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "negligible"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2026 estimate",
+          "value": "106,365 ( 182nd )",
+          "links": [
+            {
+              "text": "182nd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• 2011 census",
+          "value": "84,816"
+        },
+        {
+          "label": "• Density",
+          "value": "186/km (481.7/sq mi)"
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$3.3 billion ( 180th )",
+          "links": [
+            {
+              "text": "180th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$31,781 ( 66th )",
+          "links": [
+            {
+              "text": "66th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$2.37 billion ( 171st )",
+          "links": [
+            {
+              "text": "171st",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$22,630 ( 51st )",
+          "links": [
+            {
+              "text": "51st",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.851 very high ( 53rd )",
+          "links": [
+            {
+              "text": "53rd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "Eastern Caribbean dollar ( XCD )",
+          "links": [
+            {
+              "text": "Eastern Caribbean dollar",
+              "href": "https://en.wikipedia.org/wiki/Eastern_Caribbean_dollar"
+            },
+            {
+              "text": "XCD",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC -04:00 ( AST )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "AST",
+              "href": "https://en.wikipedia.org/wiki/Atlantic_Time_Zone"
+            }
+          ]
+        },
+        {
+          "label": "Date format",
+          "value": "dd/mm/yyyy"
+        },
+        {
+          "label": "Calling code",
+          "value": "+1"
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "AG",
+          "links": [
+            {
+              "text": "AG",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:AG"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".ag",
+          "links": [
+            {
+              "text": ".ag",
+              "href": "https://en.wikipedia.org/wiki/.ag"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

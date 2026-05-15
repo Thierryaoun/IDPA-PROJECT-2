@@ -1,0 +1,290 @@
+{
+  "country": "Honduras",
+  "infobox_title": "Republic of Honduras República de Honduras",
+  "data": [
+    {
+      "label": "Capital and largest city",
+      "value": "Tegucigalpa 14°6′N 87°13′W ﻿ / ﻿ 14.100°N 87.217°W",
+      "links": [
+        {
+          "text": "Tegucigalpa",
+          "href": "https://en.wikipedia.org/wiki/Tegucigalpa"
+        },
+        {
+          "text": "14°6′N87°13′W﻿ / ﻿14.100°N 87.217°W",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Honduras&params=14_6_N_87_13_W_type:city"
+        }
+      ]
+    },
+    {
+      "label": "Official languages",
+      "value": "Spanish",
+      "links": [
+        {
+          "text": "Spanish",
+          "href": "https://en.wikipedia.org/wiki/Honduran_Spanish"
+        }
+      ]
+    },
+    {
+      "label": "Ethnic groups (2013)",
+      "value": "82.93% Mestizo 7.87% White 7.25% Indigenous 1.39% Black 0.55% other",
+      "links": [
+        {
+          "text": "Mestizo",
+          "href": "https://en.wikipedia.org/wiki/Mestizo"
+        },
+        {
+          "text": "White",
+          "href": "https://en.wikipedia.org/wiki/White_Latin_Americans"
+        },
+        {
+          "text": "Indigenous",
+          "href": "https://en.wikipedia.org/wiki/Indigenous_peoples_of_the_Americas"
+        },
+        {
+          "text": "Black",
+          "href": "https://en.wikipedia.org/wiki/Afro-Honduran"
+        }
+      ],
+      "sub_items": [
+        "82.93% Mestizo",
+        "7.87% White",
+        "7.25% Indigenous",
+        "1.39% Black",
+        "0.55% other"
+      ]
+    },
+    {
+      "label": "Demonyms",
+      "value": "Honduran Catracho",
+      "links": [
+        {
+          "text": "Honduran",
+          "href": "https://en.wikipedia.org/wiki/Hondurans"
+        }
+      ],
+      "sub_items": [
+        "Honduran",
+        "Catracho"
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Unitary presidential republic",
+      "links": [
+        {
+          "text": "presidential republic",
+          "href": "https://en.wikipedia.org/wiki/Presidential_system"
+        }
+      ]
+    },
+    {
+      "label": "• President",
+      "value": "Nasry Asfura",
+      "links": [
+        {
+          "text": "Nasry Asfura",
+          "href": "https://en.wikipedia.org/wiki/Nasry_Asfura"
+        }
+      ]
+    },
+    {
+      "label": "• Vice Presidents",
+      "value": "María Antonieta Mejía Carlos Flores Guifarro Diana Herrera",
+      "links": [
+        {
+          "text": "María Antonieta Mejía",
+          "href": "https://en.wikipedia.org/wiki/Mar%C3%ADa_Antonieta_Mej%C3%ADa"
+        },
+        {
+          "text": "Carlos Flores Guifarro",
+          "href": "https://en.wikipedia.org/wiki/Carlos_Flores_Guifarro"
+        },
+        {
+          "text": "Diana Herrera",
+          "href": "https://en.wikipedia.org/wiki/Diana_Herrera"
+        }
+      ]
+    },
+    {
+      "label": "• President of National Congress",
+      "value": "Tomás Zambrano",
+      "links": [
+        {
+          "text": "Tomás Zambrano",
+          "href": "/w/index.php?title=Tom%C3%A1s_Zambrano&action=edit&redlink=1"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "National Congress",
+      "links": [
+        {
+          "text": "National Congress",
+          "href": "https://en.wikipedia.org/wiki/National_Congress_of_Honduras"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Independence",
+      "rows": [
+        {
+          "label": "• Declared from Spain",
+          "value": "15 September 1821"
+        },
+        {
+          "label": "• Declared from the First Mexican Empire",
+          "value": "1 July 1823"
+        },
+        {
+          "label": "• Declared, as Honduras, from the Federal Republic of Central America",
+          "value": "5 November 1838"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "112,492 km (43,433 sq mi) ( 101st )",
+          "links": [
+            {
+              "text": "101st",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2023 estimate",
+          "value": "9,571,352 ( 95th )",
+          "links": [
+            {
+              "text": "95th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• Density",
+          "value": "85/km (220.1/sq mi) ( 128th )",
+          "links": [
+            {
+              "text": "128th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$86.290 billion"
+        },
+        {
+          "label": "• Per capita",
+          "value": "$7,960"
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$39.450 billion"
+        },
+        {
+          "label": "• Per capita",
+          "value": "$3,640"
+        },
+        {
+          "label": "Gini (2018)",
+          "value": "52.1 high inequality"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.645 medium ( 139th )",
+          "links": [
+            {
+              "text": "139th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "Lempira ( HNL )",
+          "links": [
+            {
+              "text": "Lempira",
+              "href": "https://en.wikipedia.org/wiki/Honduran_lempira"
+            },
+            {
+              "text": "HNL",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC −6 ( CST )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "CST",
+              "href": "https://en.wikipedia.org/wiki/Central_Time_Zone"
+            }
+          ]
+        },
+        {
+          "label": "Date format",
+          "value": "dd/mm/yyyy"
+        },
+        {
+          "label": "Calling code",
+          "value": "+504",
+          "links": [
+            {
+              "text": "+504",
+              "href": "https://en.wikipedia.org/wiki/%2B504"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "HN",
+          "links": [
+            {
+              "text": "HN",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:HN"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".hn",
+          "links": [
+            {
+              "text": ".hn",
+              "href": "https://en.wikipedia.org/wiki/.hn"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

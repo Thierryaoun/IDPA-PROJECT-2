@@ -1,0 +1,321 @@
+{
+  "label": "country",
+  "children": [
+    {
+      "label": "name",
+      "children": [
+        {
+          "label": "greece"
+        }
+      ]
+    },
+    {
+      "label": "infobox_title",
+      "children": [
+        {
+          "label": "hellenic republic ελληνική δημοκρατία ellinikí dimokratía"
+        }
+      ]
+    },
+    {
+      "label": "capital_and_largest_city",
+      "children": [
+        {
+          "label": "athens / 37."
+        }
+      ]
+    },
+    {
+      "label": "official_language",
+      "children": [
+        {
+          "label": "greek"
+        }
+      ]
+    },
+    {
+      "label": "religion_2017",
+      "children": [
+        {
+          "label": "93% christianity"
+        },
+        {
+          "label": "90% greek orthodoxy"
+        },
+        {
+          "label": "3% other christian"
+        },
+        {
+          "label": "4% no religion"
+        },
+        {
+          "label": "2% islam"
+        },
+        {
+          "label": "1% others"
+        }
+      ]
+    },
+    {
+      "label": "demonyms",
+      "children": [
+        {
+          "label": "greek"
+        },
+        {
+          "label": "hellene"
+        }
+      ]
+    },
+    {
+      "label": "government",
+      "children": [
+        {
+          "label": "unitary parliamentary republic"
+        }
+      ]
+    },
+    {
+      "label": "president",
+      "children": [
+        {
+          "label": "konstantinos tasoulas"
+        }
+      ]
+    },
+    {
+      "label": "prime_minister",
+      "children": [
+        {
+          "label": "kyriakos mitsotakis"
+        }
+      ]
+    },
+    {
+      "label": "president_of_the_parliament",
+      "children": [
+        {
+          "label": "nikitas kaklamanis"
+        }
+      ]
+    },
+    {
+      "label": "legislature",
+      "children": [
+        {
+          "label": "hellenic parliament"
+        }
+      ]
+    },
+    {
+      "label": "establishment_history",
+      "children": [
+        {
+          "label": "greek_war_of_independence_against_the_ottoman_empire",
+          "children": [
+            {
+              "label": "25 march 1821"
+            }
+          ]
+        },
+        {
+          "label": "official_declaration",
+          "children": [
+            {
+              "label": "1 january 1822"
+            }
+          ]
+        },
+        {
+          "label": "recognition",
+          "children": [
+            {
+              "label": "3 february 1830"
+            }
+          ]
+        },
+        {
+          "label": "third_hellenic_republic",
+          "children": [
+            {
+              "label": "24 july 1974"
+            }
+          ]
+        },
+        {
+          "label": "current_constitution",
+          "children": [
+            {
+              "label": "11 june 1975"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "area",
+      "children": [
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "131,957 km"
+            }
+          ]
+        },
+        {
+          "label": "water",
+          "children": [
+            {
+              "label": "1.51"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "population",
+      "children": [
+        {
+          "label": "2025_estimate",
+          "children": [
+            {
+              "label": "10,372,335"
+            }
+          ]
+        },
+        {
+          "label": "2021_census",
+          "children": [
+            {
+              "label": "10,432,481"
+            }
+          ]
+        },
+        {
+          "label": "density",
+          "children": [
+            {
+              "label": "78.9/km"
+            }
+          ]
+        },
+        {
+          "label": "gdp_ppp",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$466.945 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$44,985"
+            }
+          ]
+        },
+        {
+          "label": "gdp_nominal",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$282.019 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$27,170"
+            }
+          ]
+        },
+        {
+          "label": "gini_2025",
+          "children": [
+            {
+              "label": "31.6 medium inequality"
+            }
+          ]
+        },
+        {
+          "label": "hdi_2023",
+          "children": [
+            {
+              "label": "0.908 very high"
+            }
+          ]
+        },
+        {
+          "label": "currency",
+          "children": [
+            {
+              "label": "euro"
+            }
+          ]
+        },
+        {
+          "label": "time_zone",
+          "children": [
+            {
+              "label": "utc +02:00"
+            }
+          ]
+        },
+        {
+          "label": "summer_dst",
+          "children": [
+            {
+              "label": "utc +03:00"
+            }
+          ]
+        },
+        {
+          "label": "calling_code",
+          "children": [
+            {
+              "label": "+30"
+            }
+          ]
+        },
+        {
+          "label": "iso_3166_code",
+          "children": [
+            {
+              "label": "gr"
+            }
+          ]
+        },
+        {
+          "label": "internet_tld",
+          "children": [
+            {
+              "label": ".gr"
+            },
+            {
+              "label": ".ελ"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

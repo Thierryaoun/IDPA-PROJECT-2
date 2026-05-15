@@ -1,0 +1,394 @@
+{
+  "label": "country",
+  "children": [
+    {
+      "label": "name",
+      "children": [
+        {
+          "label": "rwanda"
+        }
+      ]
+    },
+    {
+      "label": "infobox_title",
+      "children": [
+        {
+          "label": "republic of rwanda repubulika y'u rwanda république du rwanda jamhuri ya rwanda"
+        }
+      ]
+    },
+    {
+      "label": "capital_and_largest_city",
+      "children": [
+        {
+          "label": "kigali / 1."
+        }
+      ]
+    },
+    {
+      "label": "official_languages",
+      "children": [
+        {
+          "label": "kinyarwanda"
+        },
+        {
+          "label": "english"
+        },
+        {
+          "label": "french"
+        },
+        {
+          "label": "swahili"
+        }
+      ]
+    },
+    {
+      "label": "national_language",
+      "children": [
+        {
+          "label": "kinyarwanda"
+        }
+      ]
+    },
+    {
+      "label": "working_language",
+      "children": [
+        {
+          "label": "english"
+        }
+      ]
+    },
+    {
+      "label": "ethnic_groups_1994",
+      "children": [
+        {
+          "label": "100% banyarwanda"
+        },
+        {
+          "label": "85% hutu"
+        },
+        {
+          "label": "14% tutsi"
+        },
+        {
+          "label": "1% twa"
+        }
+      ]
+    },
+    {
+      "label": "religion",
+      "children": [
+        {
+          "label": "93.8% christianity"
+        },
+        {
+          "label": "3.0% no religion"
+        },
+        {
+          "label": "2.2% islam"
+        },
+        {
+          "label": "1.0% other"
+        }
+      ]
+    },
+    {
+      "label": "demonyms",
+      "children": [
+        {
+          "label": "rwandan"
+        },
+        {
+          "label": "rwandese"
+        }
+      ]
+    },
+    {
+      "label": "government",
+      "children": [
+        {
+          "label": "unitary semi-presidential republic under an authoritarian dictatorship"
+        }
+      ]
+    },
+    {
+      "label": "president",
+      "children": [
+        {
+          "label": "paul kagame"
+        }
+      ]
+    },
+    {
+      "label": "prime_minister",
+      "children": [
+        {
+          "label": "justin nsengiyumva"
+        }
+      ]
+    },
+    {
+      "label": "speaker_of_the_chamber_of_deputies",
+      "children": [
+        {
+          "label": "gertrude kazarwa"
+        }
+      ]
+    },
+    {
+      "label": "legislature",
+      "children": [
+        {
+          "label": "parliament"
+        }
+      ]
+    },
+    {
+      "label": "upper_house",
+      "children": [
+        {
+          "label": "senate"
+        }
+      ]
+    },
+    {
+      "label": "lower_house",
+      "children": [
+        {
+          "label": "chamber of deputies"
+        }
+      ]
+    },
+    {
+      "label": "formation",
+      "children": [
+        {
+          "label": "kingdom_of_rwanda",
+          "children": [
+            {
+              "label": "15th century"
+            }
+          ]
+        },
+        {
+          "label": "part_of_german_east_africa",
+          "children": [
+            {
+              "label": "1897–1916"
+            }
+          ]
+        },
+        {
+          "label": "part_of_ruanda_urundi",
+          "children": [
+            {
+              "label": "1916–1962"
+            }
+          ]
+        },
+        {
+          "label": "rwandan_revolution",
+          "children": [
+            {
+              "label": "1959–1961"
+            }
+          ]
+        },
+        {
+          "label": "republic_declared",
+          "children": [
+            {
+              "label": "28 january 1961"
+            }
+          ]
+        },
+        {
+          "label": "independence_from_belgium",
+          "children": [
+            {
+              "label": "1 july 1962"
+            }
+          ]
+        },
+        {
+          "label": "admitted_to_the_un",
+          "children": [
+            {
+              "label": "18 september 1962"
+            }
+          ]
+        },
+        {
+          "label": "current_constitution",
+          "children": [
+            {
+              "label": "26 may 2003"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "area",
+      "children": [
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "26,338 km"
+            }
+          ]
+        },
+        {
+          "label": "water",
+          "children": [
+            {
+              "label": "6.3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "population",
+      "children": [
+        {
+          "label": "2025_estimate",
+          "children": [
+            {
+              "label": "14,104,969"
+            }
+          ]
+        },
+        {
+          "label": "2022_census",
+          "children": [
+            {
+              "label": "13,206,731"
+            }
+          ]
+        },
+        {
+          "label": "density",
+          "children": [
+            {
+              "label": "578/km"
+            }
+          ]
+        },
+        {
+          "label": "gdp_ppp",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$58.120 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$4,100"
+            }
+          ]
+        },
+        {
+          "label": "gdp_nominal",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$14.789 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$1,040"
+            }
+          ]
+        },
+        {
+          "label": "gini_2023",
+          "children": [
+            {
+              "label": "39.4 medium inequality"
+            }
+          ]
+        },
+        {
+          "label": "hdi_2023",
+          "children": [
+            {
+              "label": "0.578 medium"
+            }
+          ]
+        },
+        {
+          "label": "currency",
+          "children": [
+            {
+              "label": "rwandan franc"
+            }
+          ]
+        },
+        {
+          "label": "time_zone",
+          "children": [
+            {
+              "label": "utc +2"
+            }
+          ]
+        },
+        {
+          "label": "date_format",
+          "children": [
+            {
+              "label": "dd/mm/yyyy"
+            }
+          ]
+        },
+        {
+          "label": "calling_code",
+          "children": [
+            {
+              "label": "+250"
+            }
+          ]
+        },
+        {
+          "label": "iso_3166_code",
+          "children": [
+            {
+              "label": "rw"
+            }
+          ]
+        },
+        {
+          "label": "internet_tld",
+          "children": [
+            {
+              "label": ".rw"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,370 @@
+{
+  "label": "country",
+  "children": [
+    {
+      "label": "name",
+      "children": [
+        {
+          "label": "iceland"
+        }
+      ]
+    },
+    {
+      "label": "infobox_title",
+      "children": [
+        {
+          "label": "iceland ísland"
+        }
+      ]
+    },
+    {
+      "label": "capital_and_largest_city",
+      "children": [
+        {
+          "label": "reykjavík / 64."
+        }
+      ]
+    },
+    {
+      "label": "official_language",
+      "children": [
+        {
+          "label": "icelandic"
+        }
+      ]
+    },
+    {
+      "label": "ethnic_groups_2021",
+      "children": [
+        {
+          "label": "86% icelandic"
+        },
+        {
+          "label": "6% polish"
+        },
+        {
+          "label": "1% lithuanian"
+        },
+        {
+          "label": "0.8% filipino"
+        },
+        {
+          "label": "7% other"
+        }
+      ]
+    },
+    {
+      "label": "religion_2022",
+      "children": [
+        {
+          "label": "72.4% christianity"
+        },
+        {
+          "label": "60.9% church of iceland"
+        },
+        {
+          "label": "11.5% other christian"
+        },
+        {
+          "label": "25.2% no religion"
+        },
+        {
+          "label": "1.5% ásatrúarfélagið"
+        },
+        {
+          "label": "0.9% other"
+        }
+      ]
+    },
+    {
+      "label": "demonyms",
+      "children": [
+        {
+          "label": "icelander"
+        },
+        {
+          "label": "icelandic"
+        }
+      ]
+    },
+    {
+      "label": "government",
+      "children": [
+        {
+          "label": "unitary parliamentary republic"
+        }
+      ]
+    },
+    {
+      "label": "president",
+      "children": [
+        {
+          "label": "halla tómasdóttir"
+        }
+      ]
+    },
+    {
+      "label": "prime_minister",
+      "children": [
+        {
+          "label": "kristrún frostadóttir"
+        }
+      ]
+    },
+    {
+      "label": "speaker_of_the_althing",
+      "children": [
+        {
+          "label": "þórunn sveinbjarnardóttir"
+        }
+      ]
+    },
+    {
+      "label": "legislature",
+      "children": [
+        {
+          "label": "althing"
+        }
+      ]
+    },
+    {
+      "label": "formation",
+      "children": [
+        {
+          "label": "settlement",
+          "children": [
+            {
+              "label": "9th century"
+            }
+          ]
+        },
+        {
+          "label": "commonwealth",
+          "children": [
+            {
+              "label": "930–1262"
+            }
+          ]
+        },
+        {
+          "label": "union_with_norway",
+          "children": [
+            {
+              "label": "1262–1397"
+            }
+          ]
+        },
+        {
+          "label": "kalmar_union",
+          "children": [
+            {
+              "label": "1397–1523"
+            }
+          ]
+        },
+        {
+          "label": "denmark_norway",
+          "children": [
+            {
+              "label": "1523–1814"
+            }
+          ]
+        },
+        {
+          "label": "ceded_to_denmark",
+          "children": [
+            {
+              "label": "14 january 1814"
+            }
+          ]
+        },
+        {
+          "label": "constitution_and_limited_home_rule",
+          "children": [
+            {
+              "label": "5 january 1874"
+            }
+          ]
+        },
+        {
+          "label": "extended_home_rule",
+          "children": [
+            {
+              "label": "1 february 1904"
+            }
+          ]
+        },
+        {
+          "label": "sovereignty_and_personal_union_with_denmark",
+          "children": [
+            {
+              "label": "1 december 1918"
+            }
+          ]
+        },
+        {
+          "label": "republic",
+          "children": [
+            {
+              "label": "17 june 1944 ; 81 years ago"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "area",
+      "children": [
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "103,125 km"
+            }
+          ]
+        },
+        {
+          "label": "water",
+          "children": [
+            {
+              "label": "2.07"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "population",
+      "children": [
+        {
+          "label": "2026_census",
+          "children": [
+            {
+              "label": "394,324"
+            }
+          ]
+        },
+        {
+          "label": "density",
+          "children": [
+            {
+              "label": "3.82/km"
+            }
+          ]
+        },
+        {
+          "label": "gdp_ppp",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$31.076 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$81,220"
+            }
+          ]
+        },
+        {
+          "label": "gdp_nominal",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$35.310 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$90,280"
+            }
+          ]
+        },
+        {
+          "label": "gini_2018",
+          "children": [
+            {
+              "label": "23.2 low inequality"
+            }
+          ]
+        },
+        {
+          "label": "hdi_2023",
+          "children": [
+            {
+              "label": "0.972 very high"
+            }
+          ]
+        },
+        {
+          "label": "currency",
+          "children": [
+            {
+              "label": "icelandic króna"
+            }
+          ]
+        },
+        {
+          "label": "time_zone",
+          "children": [
+            {
+              "label": "utc ±00:00"
+            }
+          ]
+        },
+        {
+          "label": "date_format",
+          "children": [
+            {
+              "label": "dd.mm.yyyy"
+            }
+          ]
+        },
+        {
+          "label": "calling_code",
+          "children": [
+            {
+              "label": "+354"
+            }
+          ]
+        },
+        {
+          "label": "iso_3166_code",
+          "children": [
+            {
+              "label": "is"
+            }
+          ]
+        },
+        {
+          "label": "internet_tld",
+          "children": [
+            {
+              "label": ".is"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,344 @@
+{
+  "label": "country",
+  "children": [
+    {
+      "label": "name",
+      "children": [
+        {
+          "label": "north macedonia"
+        }
+      ]
+    },
+    {
+      "label": "infobox_title",
+      "children": [
+        {
+          "label": "republic of north macedonia република северна македонија republika e maqedonisë së veriut"
+        }
+      ]
+    },
+    {
+      "label": "capital_and_largest_city",
+      "children": [
+        {
+          "label": "skopje / 42."
+        }
+      ]
+    },
+    {
+      "label": "official_languages",
+      "children": [
+        {
+          "label": "macedonian"
+        },
+        {
+          "label": "albanian"
+        }
+      ]
+    },
+    {
+      "label": "official_regional_languages",
+      "children": [
+        {
+          "label": "turkish"
+        },
+        {
+          "label": "romani"
+        },
+        {
+          "label": "serbian"
+        },
+        {
+          "label": "bosnian"
+        },
+        {
+          "label": "aromanian"
+        }
+      ]
+    },
+    {
+      "label": "ethnic_groups_2021",
+      "children": [
+        {
+          "label": "58.4% macedonians"
+        },
+        {
+          "label": "24.3% albanians"
+        },
+        {
+          "label": "3.9% turks"
+        },
+        {
+          "label": "2.5% roma"
+        },
+        {
+          "label": "1.3% serbs"
+        },
+        {
+          "label": "0.9% bosniaks"
+        },
+        {
+          "label": "0.5% aromanians"
+        },
+        {
+          "label": "1.0% other"
+        },
+        {
+          "label": "7.2% persons for whom data are taken from administrative sources"
+        }
+      ]
+    },
+    {
+      "label": "religion_2021",
+      "children": [
+        {
+          "label": "60.4% christianity"
+        },
+        {
+          "label": "46.1% eastern orthodoxy"
+        },
+        {
+          "label": "14.3% other christian"
+        },
+        {
+          "label": "32.2% islam"
+        },
+        {
+          "label": "0.1% no religion"
+        },
+        {
+          "label": "0.1% other"
+        },
+        {
+          "label": "7.2% data taken from administrative sources"
+        }
+      ]
+    },
+    {
+      "label": "demonym",
+      "children": [
+        {
+          "label": "macedonian"
+        }
+      ]
+    },
+    {
+      "label": "government",
+      "children": [
+        {
+          "label": "unitary parliamentary republic"
+        }
+      ]
+    },
+    {
+      "label": "president",
+      "children": [
+        {
+          "label": "gordana siljanovska-davkova"
+        }
+      ]
+    },
+    {
+      "label": "prime_minister",
+      "children": [
+        {
+          "label": "hristijan mickoski"
+        }
+      ]
+    },
+    {
+      "label": "chairman_of_the_assembly",
+      "children": [
+        {
+          "label": "afrim gashi"
+        }
+      ]
+    },
+    {
+      "label": "legislature",
+      "children": [
+        {
+          "label": "assembly"
+        }
+      ]
+    },
+    {
+      "label": "establishment_history",
+      "children": [
+        {
+          "label": "socialist_republic_of_macedonia",
+          "children": [
+            {
+              "label": "2 august 1944"
+            }
+          ]
+        },
+        {
+          "label": "independence_referendum",
+          "children": [
+            {
+              "label": "8 september 1991"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "area",
+      "children": [
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "25,436 km"
+            }
+          ]
+        },
+        {
+          "label": "water",
+          "children": [
+            {
+              "label": "1.1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "population",
+      "children": [
+        {
+          "label": "2021_census",
+          "children": [
+            {
+              "label": "1,836,713"
+            }
+          ]
+        },
+        {
+          "label": "density",
+          "children": [
+            {
+              "label": "71.43/km"
+            }
+          ]
+        },
+        {
+          "label": "gdp_ppp",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$53.345 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$29,475"
+            }
+          ]
+        },
+        {
+          "label": "gdp_nominal",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$17.885 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$9,882"
+            }
+          ]
+        },
+        {
+          "label": "gini_2022",
+          "children": [
+            {
+              "label": "29.8 low inequality"
+            }
+          ]
+        },
+        {
+          "label": "hdi_2023",
+          "children": [
+            {
+              "label": "0.815 very high"
+            }
+          ]
+        },
+        {
+          "label": "currency",
+          "children": [
+            {
+              "label": "macedonian denar"
+            }
+          ]
+        },
+        {
+          "label": "time_zone",
+          "children": [
+            {
+              "label": "utc +1"
+            }
+          ]
+        },
+        {
+          "label": "summer_dst",
+          "children": [
+            {
+              "label": "utc +2"
+            }
+          ]
+        },
+        {
+          "label": "calling_code",
+          "children": [
+            {
+              "label": "+389"
+            }
+          ]
+        },
+        {
+          "label": "iso_3166_code",
+          "children": [
+            {
+              "label": "mk"
+            }
+          ]
+        },
+        {
+          "label": "internet_tld",
+          "children": [
+            {
+              "label": ".mk"
+            },
+            {
+              "label": ".мкд"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

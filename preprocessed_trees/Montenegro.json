@@ -1,0 +1,401 @@
+{
+  "label": "country",
+  "children": [
+    {
+      "label": "name",
+      "children": [
+        {
+          "label": "montenegro"
+        }
+      ]
+    },
+    {
+      "label": "infobox_title",
+      "children": [
+        {
+          "label": "montenegro crna gora , црна гора crna gora , црна гора crna gora crna gora mali i zi"
+        }
+      ]
+    },
+    {
+      "label": "capital_and_largest_city",
+      "children": [
+        {
+          "label": "podgorica / 42."
+        }
+      ]
+    },
+    {
+      "label": "official_languages",
+      "children": [
+        {
+          "label": "montenegrin"
+        }
+      ]
+    },
+    {
+      "label": "languages_in_official_use",
+      "children": [
+        {
+          "label": "albanian"
+        },
+        {
+          "label": "bosnian"
+        },
+        {
+          "label": "croatian"
+        },
+        {
+          "label": "serbian"
+        }
+      ]
+    },
+    {
+      "label": "ethnic_groups_2023_census",
+      "children": [
+        {
+          "label": "41.1% montenegrins"
+        },
+        {
+          "label": "32.9% serbs"
+        },
+        {
+          "label": "11.1% bosniaks or muslims"
+        },
+        {
+          "label": "5.0% albanians"
+        },
+        {
+          "label": "2.1% russians"
+        },
+        {
+          "label": "5.8% others or undeclared"
+        }
+      ]
+    },
+    {
+      "label": "religion_2023_census",
+      "children": [
+        {
+          "label": "74.9% christianity"
+        },
+        {
+          "label": "71.1% eastern orthodoxy"
+        },
+        {
+          "label": "3.2% catholicism"
+        },
+        {
+          "label": "0.6% other christian"
+        },
+        {
+          "label": "19.9% islam"
+        },
+        {
+          "label": "2.7% no religion"
+        },
+        {
+          "label": "0.3% other"
+        },
+        {
+          "label": "2.2% not stated"
+        }
+      ]
+    },
+    {
+      "label": "demonym",
+      "children": [
+        {
+          "label": "montenegrin"
+        }
+      ]
+    },
+    {
+      "label": "government",
+      "children": [
+        {
+          "label": "unitary parliamentary republic"
+        }
+      ]
+    },
+    {
+      "label": "president",
+      "children": [
+        {
+          "label": "jakov milatović"
+        }
+      ]
+    },
+    {
+      "label": "prime_minister",
+      "children": [
+        {
+          "label": "milojko spajić"
+        }
+      ]
+    },
+    {
+      "label": "president_of_the_parliament",
+      "children": [
+        {
+          "label": "andrija mandić"
+        }
+      ]
+    },
+    {
+      "label": "legislature",
+      "children": [
+        {
+          "label": "parliament"
+        }
+      ]
+    },
+    {
+      "label": "establishment_history",
+      "children": [
+        {
+          "label": "duklja",
+          "children": [
+            {
+              "label": "10th century"
+            }
+          ]
+        },
+        {
+          "label": "zeta",
+          "children": [
+            {
+              "label": "1356"
+            }
+          ]
+        },
+        {
+          "label": "prince_bishopric_of_montenegro",
+          "children": [
+            {
+              "label": "1516"
+            }
+          ]
+        },
+        {
+          "label": "principality_of_montenegro",
+          "children": [
+            {
+              "label": "13 march 1852"
+            }
+          ]
+        },
+        {
+          "label": "treaty_of_berlin",
+          "children": [
+            {
+              "label": "13 july 1878"
+            }
+          ]
+        },
+        {
+          "label": "kingdom_of_montenegro",
+          "children": [
+            {
+              "label": "28 august 1910"
+            }
+          ]
+        },
+        {
+          "label": "kingdom_of_yugoslavia",
+          "children": [
+            {
+              "label": "26 november 1918"
+            }
+          ]
+        },
+        {
+          "label": "sfr_yugoslavia",
+          "children": [
+            {
+              "label": "29 november 1945"
+            }
+          ]
+        },
+        {
+          "label": "serbia_and_montenegro",
+          "children": [
+            {
+              "label": "27 april 1992"
+            }
+          ]
+        },
+        {
+          "label": "independence_declared",
+          "children": [
+            {
+              "label": "3 june 2006"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "area",
+      "children": [
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "13,883 km"
+            }
+          ]
+        },
+        {
+          "label": "water",
+          "children": [
+            {
+              "label": "3.1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "population",
+      "children": [
+        {
+          "label": "january_2025_estimate",
+          "children": [
+            {
+              "label": "623,327"
+            }
+          ]
+        },
+        {
+          "label": "2023_census",
+          "children": [
+            {
+              "label": "623,633"
+            }
+          ]
+        },
+        {
+          "label": "density",
+          "children": [
+            {
+              "label": "43.6/km"
+            }
+          ]
+        },
+        {
+          "label": "gdp_ppp",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$21.480 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$34,410"
+            }
+          ]
+        },
+        {
+          "label": "gdp_nominal",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$9.350 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$14,990"
+            }
+          ]
+        },
+        {
+          "label": "gini_2023",
+          "children": [
+            {
+              "label": "29.4 low inequality"
+            }
+          ]
+        },
+        {
+          "label": "hdi_2023",
+          "children": [
+            {
+              "label": "0.862 very high"
+            }
+          ]
+        },
+        {
+          "label": "currency",
+          "children": [
+            {
+              "label": "euro"
+            }
+          ]
+        },
+        {
+          "label": "time_zone",
+          "children": [
+            {
+              "label": "utc +1"
+            }
+          ]
+        },
+        {
+          "label": "summer_dst",
+          "children": [
+            {
+              "label": "utc +2"
+            }
+          ]
+        },
+        {
+          "label": "calling_code",
+          "children": [
+            {
+              "label": "+382"
+            }
+          ]
+        },
+        {
+          "label": "iso_3166_code",
+          "children": [
+            {
+              "label": "me"
+            }
+          ]
+        },
+        {
+          "label": "internet_tld",
+          "children": [
+            {
+              "label": ".me"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

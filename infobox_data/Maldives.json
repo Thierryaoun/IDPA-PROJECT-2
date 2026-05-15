@@ -1,0 +1,311 @@
+{
+  "country": "Maldives",
+  "infobox_title": "Republic of Maldives ދިވެހިރާއްޖޭގެ ޖުމްހޫރިއްޔާ ( Dhivehi ) Dhivehi Raajjeyge Jumhooriyyaa",
+  "data": [
+    {
+      "label": "Capital and largest city",
+      "value": "Malé 4°10′31″N 73°30′32″E ﻿ / ﻿ 4.17528°N 73.50889°E",
+      "links": [
+        {
+          "text": "Malé",
+          "href": "https://en.wikipedia.org/wiki/Mal%C3%A9"
+        },
+        {
+          "text": "4°10′31″N73°30′32″E﻿ / ﻿4.17528°N 73.50889°E",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Maldives&params=4_10_31_N_73_30_32_E_type:city"
+        }
+      ]
+    },
+    {
+      "label": "Official language and national language",
+      "value": "Dhivehi",
+      "links": [
+        {
+          "text": "Dhivehi",
+          "href": "https://en.wikipedia.org/wiki/Maldivian_language"
+        }
+      ]
+    },
+    {
+      "label": "Common language",
+      "value": "English",
+      "links": [
+        {
+          "text": "English",
+          "href": "https://en.wikipedia.org/wiki/English_language"
+        }
+      ]
+    },
+    {
+      "label": "Religion",
+      "value": "Sunni Islam ( official )",
+      "links": [
+        {
+          "text": "Sunni Islam",
+          "href": "https://en.wikipedia.org/wiki/Sunni_Islam"
+        },
+        {
+          "text": "official",
+          "href": "https://en.wikipedia.org/wiki/State_religion"
+        }
+      ]
+    },
+    {
+      "label": "Demonym",
+      "value": "Maldivian",
+      "links": [
+        {
+          "text": "Maldivian",
+          "href": "https://en.wikipedia.org/wiki/Maldivians"
+        }
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Unitary presidential republic",
+      "links": [
+        {
+          "text": "presidential republic",
+          "href": "https://en.wikipedia.org/wiki/Presidential_republic"
+        }
+      ]
+    },
+    {
+      "label": "• President",
+      "value": "Mohamed Muizzu",
+      "links": [
+        {
+          "text": "Mohamed Muizzu",
+          "href": "https://en.wikipedia.org/wiki/Mohamed_Muizzu"
+        }
+      ]
+    },
+    {
+      "label": "• Vice President",
+      "value": "Hussain Mohamed Latheef",
+      "links": [
+        {
+          "text": "Hussain Mohamed Latheef",
+          "href": "https://en.wikipedia.org/wiki/Hussain_Mohamed_Latheef"
+        }
+      ]
+    },
+    {
+      "label": "• Speaker",
+      "value": "Abdul Raheem Abdulla",
+      "links": [
+        {
+          "text": "Abdul Raheem Abdulla",
+          "href": "https://en.wikipedia.org/wiki/Abdul_Raheem_Abdulla"
+        }
+      ]
+    },
+    {
+      "label": "• Chief Justice",
+      "value": "Abdul Ghanee Mohamed",
+      "links": [
+        {
+          "text": "Abdul Ghanee Mohamed",
+          "href": "https://en.wikipedia.org/wiki/Abdul_Ghanee_Mohamed"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "People's Majlis",
+      "links": [
+        {
+          "text": "People's Majlis",
+          "href": "https://en.wikipedia.org/wiki/People%27s_Majlis"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Independence from the United Kingdom",
+      "rows": [
+        {
+          "label": "• Independence declared",
+          "value": "26 July 1965"
+        },
+        {
+          "label": "• Second Republic",
+          "value": "11 November 1968"
+        },
+        {
+          "label": "• Current constitution",
+          "value": "7 August 2008"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "298 km (115 sq mi) ( 187th )",
+          "links": [
+            {
+              "text": "187th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2024 estimate",
+          "value": "601,269"
+        },
+        {
+          "label": "• 2022 census",
+          "value": "515,132 ( 167th )",
+          "links": [
+            {
+              "text": "167th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• Density",
+          "value": "1,728.63/km (4,477.1/sq mi) ( 8th )",
+          "links": [
+            {
+              "text": "8th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2024 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$13.867 billion ( 157th )",
+          "links": [
+            {
+              "text": "157th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$34,322 ( 54th )",
+          "links": [
+            {
+              "text": "54th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2024 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$6.984 billion ( 161st )",
+          "links": [
+            {
+              "text": "161st",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$17,287 ( 58th )",
+          "links": [
+            {
+              "text": "58th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "Gini (2024)",
+          "value": "31.3 medium inequality"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.766 high ( 93rd )",
+          "links": [
+            {
+              "text": "93rd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "Maldivian rufiyaa ( MVR )",
+          "links": [
+            {
+              "text": "Maldivian rufiyaa",
+              "href": "https://en.wikipedia.org/wiki/Maldivian_rufiyaa"
+            },
+            {
+              "text": "MVR",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC +5 ( MVT )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "MVT",
+              "href": "https://en.wikipedia.org/wiki/Time_in_Maldives"
+            }
+          ]
+        },
+        {
+          "label": "Date format",
+          "value": "dd / mm / yyyy"
+        },
+        {
+          "label": "Calling code",
+          "value": "+960",
+          "links": [
+            {
+              "text": "+960",
+              "href": "https://en.wikipedia.org/wiki/Telephone_numbers_in_Maldives"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "MV",
+          "links": [
+            {
+              "text": "MV",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:MV"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".mv",
+          "links": [
+            {
+              "text": ".mv",
+              "href": "https://en.wikipedia.org/wiki/.mv"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

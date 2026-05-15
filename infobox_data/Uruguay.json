@@ -1,0 +1,324 @@
+{
+  "country": "Uruguay",
+  "infobox_title": "Oriental Republic of Uruguay República Oriental del Uruguay ( Spanish )",
+  "data": [
+    {
+      "label": "Capital and largest city",
+      "value": "Montevideo 34°53′S 56°10′W ﻿ / ﻿ 34.883°S 56.167°W",
+      "links": [
+        {
+          "text": "Montevideo",
+          "href": "https://en.wikipedia.org/wiki/Montevideo"
+        },
+        {
+          "text": "34°53′S56°10′W﻿ / ﻿34.883°S 56.167°W",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Uruguay&params=34_53_S_56_10_W_type:city"
+        }
+      ]
+    },
+    {
+      "label": "Official languages",
+      "value": "Spanish Uruguayan Sign Language",
+      "links": [
+        {
+          "text": "Spanish",
+          "href": "https://en.wikipedia.org/wiki/Rioplatense_Spanish"
+        },
+        {
+          "text": "Uruguayan Sign Language",
+          "href": "https://en.wikipedia.org/wiki/Uruguayan_Sign_Language"
+        }
+      ],
+      "sub_items": [
+        "Spanish",
+        "Uruguayan Sign Language"
+      ]
+    },
+    {
+      "label": "Ethnic groups (2023)",
+      "value": "86.0% White 10.4% Black 6.3% Indigenous 0.7% East Asian 6.3% other",
+      "links": [
+        {
+          "text": "White",
+          "href": "https://en.wikipedia.org/wiki/White_people"
+        },
+        {
+          "text": "Black",
+          "href": "https://en.wikipedia.org/wiki/Afro-Uruguayans"
+        },
+        {
+          "text": "Indigenous",
+          "href": "https://en.wikipedia.org/wiki/Indigenous_peoples_in_Uruguay"
+        },
+        {
+          "text": "East Asian",
+          "href": "https://en.wikipedia.org/wiki/East_Asian_people"
+        }
+      ],
+      "sub_items": [
+        "86.0% White",
+        "10.4% Black",
+        "6.3% Indigenous",
+        "0.7% East Asian",
+        "6.3% other"
+      ]
+    },
+    {
+      "label": "Demonym",
+      "value": "Uruguayan",
+      "links": [
+        {
+          "text": "Uruguayan",
+          "href": "https://en.wikipedia.org/wiki/Uruguayans"
+        }
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Unitary presidential republic",
+      "links": [
+        {
+          "text": "Unitary presidential republic",
+          "href": "https://en.wikipedia.org/wiki/Presidential_system"
+        }
+      ]
+    },
+    {
+      "label": "• President",
+      "value": "Yamandú Orsi",
+      "links": [
+        {
+          "text": "Yamandú Orsi",
+          "href": "https://en.wikipedia.org/wiki/Yamand%C3%BA_Orsi"
+        }
+      ]
+    },
+    {
+      "label": "• Vice President",
+      "value": "Carolina Cosse",
+      "links": [
+        {
+          "text": "Carolina Cosse",
+          "href": "https://en.wikipedia.org/wiki/Carolina_Cosse"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "General Assembly",
+      "links": [
+        {
+          "text": "General Assembly",
+          "href": "https://en.wikipedia.org/wiki/General_Assembly_of_Uruguay"
+        }
+      ]
+    },
+    {
+      "label": "• Upper house",
+      "value": "Senate",
+      "links": [
+        {
+          "text": "Senate",
+          "href": "https://en.wikipedia.org/wiki/Senate_of_Uruguay"
+        }
+      ]
+    },
+    {
+      "label": "• Lower house",
+      "value": "Chamber of Representatives",
+      "links": [
+        {
+          "text": "Chamber of Representatives",
+          "href": "https://en.wikipedia.org/wiki/Chamber_of_Representatives_of_Uruguay"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Independence from Brazil",
+      "rows": [
+        {
+          "label": "• Declared",
+          "value": "25 August 1825"
+        },
+        {
+          "label": "• Recognized",
+          "value": "27 August 1828"
+        },
+        {
+          "label": "• Current constitution",
+          "value": "15 February 1967"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "176,215 km (68,037 sq mi) ( 89th )",
+          "links": [
+            {
+              "text": "89th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "1.5"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2023 census",
+          "value": "3,499,451 ( 132nd )",
+          "links": [
+            {
+              "text": "132nd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• Density",
+          "value": "19.5/km (50.5/sq mi) ( 206th )",
+          "links": [
+            {
+              "text": "206th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2024 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$107.946 billion ( 98th )",
+          "links": [
+            {
+              "text": "98th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$36,014 ( 59th )",
+          "links": [
+            {
+              "text": "59th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2024 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$82.605 billion ( 77th )",
+          "links": [
+            {
+              "text": "77th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$23,088 ( 49th )",
+          "links": [
+            {
+              "text": "49th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "Gini (2022)",
+          "value": "40.6 medium inequality"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.862 very high ( 48th )",
+          "links": [
+            {
+              "text": "48th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "Uruguayan peso ( UYU )",
+          "links": [
+            {
+              "text": "Uruguayan peso",
+              "href": "https://en.wikipedia.org/wiki/Uruguayan_peso"
+            },
+            {
+              "text": "UYU",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC −03:00 ( UYT )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "UYT",
+              "href": "https://en.wikipedia.org/wiki/Uruguay_Time"
+            }
+          ]
+        },
+        {
+          "label": "Date format",
+          "value": "dd/mm/yyyy"
+        },
+        {
+          "label": "Calling code",
+          "value": "+598",
+          "links": [
+            {
+              "text": "+598",
+              "href": "https://en.wikipedia.org/wiki/Telephone_numbers_in_Uruguay"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "UY",
+          "links": [
+            {
+              "text": "UY",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:UY"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".uy",
+          "links": [
+            {
+              "text": ".uy",
+              "href": "https://en.wikipedia.org/wiki/.uy"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

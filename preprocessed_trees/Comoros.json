@@ -1,0 +1,331 @@
+{
+  "label": "country",
+  "children": [
+    {
+      "label": "name",
+      "children": [
+        {
+          "label": "comoros"
+        }
+      ]
+    },
+    {
+      "label": "infobox_title",
+      "children": [
+        {
+          "label": "union of the comoros udzima wa komori union de lis comores جمهورية القمر المتحدة jumhuriyat al-qumur al-muttaḥida"
+        }
+      ]
+    },
+    {
+      "label": "capital_and_largest_city",
+      "children": [
+        {
+          "label": "moroni / 11."
+        }
+      ]
+    },
+    {
+      "label": "official_languages",
+      "children": [
+        {
+          "label": "comorian"
+        },
+        {
+          "label": "french"
+        },
+        {
+          "label": "arabic"
+        }
+      ]
+    },
+    {
+      "label": "ethnic_groups_2000",
+      "children": [
+        {
+          "label": "97.1% comorians"
+        },
+        {
+          "label": "1.6% makua"
+        },
+        {
+          "label": "1.3% others"
+        }
+      ]
+    },
+    {
+      "label": "demonyms",
+      "children": [
+        {
+          "label": "comorian"
+        },
+        {
+          "label": "comorese"
+        }
+      ]
+    },
+    {
+      "label": "government",
+      "children": [
+        {
+          "label": "federal presidential republic"
+        }
+      ]
+    },
+    {
+      "label": "president",
+      "children": [
+        {
+          "label": "azali assoumani"
+        }
+      ]
+    },
+    {
+      "label": "president_of_the_assembly",
+      "children": [
+        {
+          "label": "moustadroine abdou"
+        }
+      ]
+    },
+    {
+      "label": "legislature",
+      "children": [
+        {
+          "label": "assembly of the union"
+        }
+      ]
+    },
+    {
+      "label": "formation",
+      "children": [
+        {
+          "label": "discovery_by_portuguese_explorers",
+          "children": [
+            {
+              "label": "1503"
+            }
+          ]
+        },
+        {
+          "label": "ngazidja_ndzuwani_mwali_under_french_rule",
+          "children": [
+            {
+              "label": "1886"
+            }
+          ]
+        },
+        {
+          "label": "protectorate_of_the_comoros",
+          "children": [
+            {
+              "label": "6 september 1887"
+            }
+          ]
+        },
+        {
+          "label": "territory_under_french_madagascar",
+          "children": [
+            {
+              "label": "9 april 1908"
+            }
+          ]
+        },
+        {
+          "label": "overseas_territory",
+          "children": [
+            {
+              "label": "27 october 1946"
+            }
+          ]
+        },
+        {
+          "label": "state_of_comoros",
+          "children": [
+            {
+              "label": "22 december 1961"
+            }
+          ]
+        },
+        {
+          "label": "independence_from_france",
+          "children": [
+            {
+              "label": "6 july 1975"
+            }
+          ]
+        },
+        {
+          "label": "federal_islamic_republic_of_comoros",
+          "children": [
+            {
+              "label": "1 october 1978"
+            }
+          ]
+        },
+        {
+          "label": "union_of_the_comoros",
+          "children": [
+            {
+              "label": "23 december 2001"
+            }
+          ]
+        },
+        {
+          "label": "current_constitution",
+          "children": [
+            {
+              "label": "17 may 2009"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "area",
+      "children": [
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "2,235 km"
+            }
+          ]
+        },
+        {
+          "label": "water",
+          "children": [
+            {
+              "label": "negligible"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "population",
+      "children": [
+        {
+          "label": "2024_estimate",
+          "children": [
+            {
+              "label": "883,075"
+            }
+          ]
+        },
+        {
+          "label": "density",
+          "children": [
+            {
+              "label": "457/km"
+            }
+          ]
+        },
+        {
+          "label": "gdp_ppp",
+          "children": [
+            {
+              "label": "2023 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$3.432 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$3,463"
+            }
+          ]
+        },
+        {
+          "label": "gdp_nominal",
+          "children": [
+            {
+              "label": "2023 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$1.364 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$1,377"
+            }
+          ]
+        },
+        {
+          "label": "gini_2014",
+          "children": [
+            {
+              "label": "45.3 medium inequality"
+            }
+          ]
+        },
+        {
+          "label": "hdi_2023",
+          "children": [
+            {
+              "label": "0.603 medium"
+            }
+          ]
+        },
+        {
+          "label": "currency",
+          "children": [
+            {
+              "label": "comorian franc"
+            }
+          ]
+        },
+        {
+          "label": "time_zone",
+          "children": [
+            {
+              "label": "utc +3"
+            }
+          ]
+        },
+        {
+          "label": "calling_code",
+          "children": [
+            {
+              "label": "+269"
+            }
+          ]
+        },
+        {
+          "label": "iso_3166_code",
+          "children": [
+            {
+              "label": "km"
+            }
+          ]
+        },
+        {
+          "label": "internet_tld",
+          "children": [
+            {
+              "label": ".km"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

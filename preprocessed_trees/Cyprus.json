@@ -1,0 +1,327 @@
+{
+  "label": "country",
+  "children": [
+    {
+      "label": "name",
+      "children": [
+        {
+          "label": "cyprus"
+        }
+      ]
+    },
+    {
+      "label": "infobox_title",
+      "children": [
+        {
+          "label": "republic of cyprus κυπριακή δημοκρατία kıbrıs cumhuriyeti"
+        }
+      ]
+    },
+    {
+      "label": "capital_and_largest_city",
+      "children": [
+        {
+          "label": "nicosia / 35."
+        }
+      ]
+    },
+    {
+      "label": "official_languages",
+      "children": [
+        {
+          "label": "greek"
+        },
+        {
+          "label": "turkish"
+        }
+      ]
+    },
+    {
+      "label": "minority_languages",
+      "children": [
+        {
+          "label": "armenian"
+        },
+        {
+          "label": "cypriot arabic"
+        }
+      ]
+    },
+    {
+      "label": "vernaculars",
+      "children": [
+        {
+          "label": "cypriot greek"
+        },
+        {
+          "label": "cypriot turkish"
+        }
+      ]
+    },
+    {
+      "label": "ethnic_groups",
+      "children": [
+        {
+          "label": "greek cypriots"
+        },
+        {
+          "label": "turkish cypriots"
+        },
+        {
+          "label": "armenian cypriots"
+        },
+        {
+          "label": "maronite cypriots"
+        }
+      ]
+    },
+    {
+      "label": "religion_2020_including_northern_cyprus",
+      "children": [
+        {
+          "label": "72.3% christianity"
+        },
+        {
+          "label": "25.0% islam"
+        },
+        {
+          "label": "1.9% no religion"
+        },
+        {
+          "label": "0.8% other"
+        }
+      ]
+    },
+    {
+      "label": "demonym",
+      "children": [
+        {
+          "label": "cypriot"
+        }
+      ]
+    },
+    {
+      "label": "government",
+      "children": [
+        {
+          "label": "unitary presidential republic"
+        }
+      ]
+    },
+    {
+      "label": "president",
+      "children": [
+        {
+          "label": "nikos christodoulides"
+        }
+      ]
+    },
+    {
+      "label": "vice_president",
+      "children": [
+        {
+          "label": "vacant"
+        }
+      ]
+    },
+    {
+      "label": "president_of_the_house_of_representatives",
+      "children": [
+        {
+          "label": "annita demetriou"
+        }
+      ]
+    },
+    {
+      "label": "legislature",
+      "children": [
+        {
+          "label": "house of representatives"
+        }
+      ]
+    },
+    {
+      "label": "independence_from_the_united_kingdom",
+      "children": [
+        {
+          "label": "london_zürich_agreements",
+          "children": [
+            {
+              "label": "19 february 1959"
+            }
+          ]
+        },
+        {
+          "label": "independence_proclaimed",
+          "children": [
+            {
+              "label": "16 august 1960"
+            }
+          ]
+        },
+        {
+          "label": "independence_day",
+          "children": [
+            {
+              "label": "1 october 1960"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "area",
+      "children": [
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "9,251 km"
+            }
+          ]
+        },
+        {
+          "label": "water",
+          "children": [
+            {
+              "label": "0.11"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "population",
+      "children": [
+        {
+          "label": "2021_census",
+          "children": [
+            {
+              "label": "923,272"
+            }
+          ]
+        },
+        {
+          "label": "density",
+          "children": [
+            {
+              "label": "123.4 /km"
+            }
+          ]
+        },
+        {
+          "label": "gdp_ppp",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$61.501 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$65,304"
+            }
+          ]
+        },
+        {
+          "label": "gdp_nominal",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$39.943 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$42,413"
+            }
+          ]
+        },
+        {
+          "label": "gini_2022",
+          "children": [
+            {
+              "label": "29.4 low inequality"
+            }
+          ]
+        },
+        {
+          "label": "hdi_2023",
+          "children": [
+            {
+              "label": "0.913 very high"
+            }
+          ]
+        },
+        {
+          "label": "currency",
+          "children": [
+            {
+              "label": "euro"
+            }
+          ]
+        },
+        {
+          "label": "time_zone",
+          "children": [
+            {
+              "label": "utc +02:00"
+            }
+          ]
+        },
+        {
+          "label": "summer_dst",
+          "children": [
+            {
+              "label": "utc +03:00"
+            }
+          ]
+        },
+        {
+          "label": "calling_code",
+          "children": [
+            {
+              "label": "+357"
+            }
+          ]
+        },
+        {
+          "label": "iso_3166_code",
+          "children": [
+            {
+              "label": "cy"
+            }
+          ]
+        },
+        {
+          "label": "internet_tld",
+          "children": [
+            {
+              "label": ".cy"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

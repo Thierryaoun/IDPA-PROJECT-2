@@ -1,0 +1,392 @@
+{
+  "country": "Bulgaria",
+  "infobox_title": "Republic of Bulgaria Република България ( Bulgarian ) Republika Bŭlgariya",
+  "data": [
+    {
+      "label": "Capital and largest city",
+      "value": "Sofia 42°41′51″N 23°19′21″E ﻿ / ﻿ 42.69750°N 23.32250°E",
+      "links": [
+        {
+          "text": "Sofia",
+          "href": "https://en.wikipedia.org/wiki/Sofia"
+        },
+        {
+          "text": "42°41′51″N23°19′21″E﻿ / ﻿42.69750°N 23.32250°E",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Bulgaria&params=42_41_51_N_23_19_21_E_type:city(1,200,000)_region:BG-22&title=Largo"
+        }
+      ]
+    },
+    {
+      "label": "Official languages",
+      "value": "Bulgarian",
+      "links": [
+        {
+          "text": "Bulgarian",
+          "href": "https://en.wikipedia.org/wiki/Bulgarian_language"
+        }
+      ]
+    },
+    {
+      "label": "Official script",
+      "value": "Cyrillic",
+      "links": [
+        {
+          "text": "Cyrillic",
+          "href": "https://en.wikipedia.org/wiki/Bulgarian_alphabet"
+        }
+      ]
+    },
+    {
+      "label": "Ethnic groups (2021 census )",
+      "value": "85.7% Bulgarians 8.5% Turks 4.5% Roma 1.3% others",
+      "links": [
+        {
+          "text": "Bulgarians",
+          "href": "https://en.wikipedia.org/wiki/Bulgarians"
+        },
+        {
+          "text": "Turks",
+          "href": "https://en.wikipedia.org/wiki/Bulgarian_Turks"
+        },
+        {
+          "text": "Roma",
+          "href": "https://en.wikipedia.org/wiki/Romani_people_in_Bulgaria"
+        }
+      ],
+      "sub_items": [
+        "85.7% Bulgarians",
+        "8.5% Turks",
+        "4.5% Roma",
+        "1.3% others"
+      ]
+    },
+    {
+      "label": "Religion (2021 census)",
+      "value": "64.7% Christianity 62.7% Bulgarian Orthodoxy 2.0% other Christian 15.9% no religion 9.8% Islam 0.1% other 9.5% unanswered",
+      "links": [
+        {
+          "text": "Christianity",
+          "href": "https://en.wikipedia.org/wiki/Christianity"
+        },
+        {
+          "text": "Bulgarian Orthodoxy",
+          "href": "https://en.wikipedia.org/wiki/Bulgarian_Orthodox_Church"
+        },
+        {
+          "text": "Christian",
+          "href": "https://en.wikipedia.org/wiki/List_of_Christian_denominations"
+        },
+        {
+          "text": "no religion",
+          "href": "https://en.wikipedia.org/wiki/Irreligion"
+        },
+        {
+          "text": "Islam",
+          "href": "https://en.wikipedia.org/wiki/Islam_in_Bulgaria"
+        },
+        {
+          "text": "other",
+          "href": "https://en.wikipedia.org/wiki/Religion_in_Bulgaria"
+        }
+      ],
+      "sub_items": [
+        "64.7% Christianity 62.7% Bulgarian Orthodoxy 2.0% other Christian",
+        "64.7% Christianity 62.7% Bulgarian Orthodoxy 2.0% other Christian",
+        "62.7% Bulgarian Orthodoxy",
+        "2.0% other Christian",
+        "15.9% no religion",
+        "9.8% Islam",
+        "0.1% other",
+        "9.5% unanswered"
+      ]
+    },
+    {
+      "label": "Demonym",
+      "value": "Bulgarian",
+      "links": [
+        {
+          "text": "Bulgarian",
+          "href": "https://en.wikipedia.org/wiki/Bulgarians"
+        }
+      ],
+      "sub_items": [
+        "Bulgarian"
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Unitary parliamentary republic",
+      "links": [
+        {
+          "text": "Unitary parliamentary republic",
+          "href": "https://en.wikipedia.org/wiki/Unitary_parliamentary_republic"
+        }
+      ]
+    },
+    {
+      "label": "• President",
+      "value": "Iliana Iotova",
+      "links": [
+        {
+          "text": "Iliana Iotova",
+          "href": "https://en.wikipedia.org/wiki/Iliana_Iotova"
+        }
+      ]
+    },
+    {
+      "label": "• Prime Minister",
+      "value": "Andrey Gyurov",
+      "links": [
+        {
+          "text": "Andrey Gyurov",
+          "href": "https://en.wikipedia.org/wiki/Andrey_Gyurov"
+        }
+      ]
+    },
+    {
+      "label": "• Chairperson of the National Assembly",
+      "value": "Raya Nazaryan",
+      "links": [
+        {
+          "text": "Raya Nazaryan",
+          "href": "https://en.wikipedia.org/wiki/Raya_Nazaryan"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "National Assembly",
+      "links": [
+        {
+          "text": "National Assembly",
+          "href": "https://en.wikipedia.org/wiki/National_Assembly_(Bulgaria)"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Establishment history",
+      "rows": [
+        {
+          "label": "• 1st Bulgarian Empire",
+          "value": "681–1018"
+        },
+        {
+          "label": "• 2nd Bulgarian Empire",
+          "value": "1185–1396"
+        },
+        {
+          "label": "• Principality of Bulgaria",
+          "value": "3 March 1878"
+        },
+        {
+          "label": "• Independence from the Ottoman Empire",
+          "value": "5 October 1908"
+        },
+        {
+          "label": "• Monarchy abolished",
+          "value": "15 September 1946"
+        },
+        {
+          "label": "• Current state form",
+          "value": "15 November 1990"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "110,993.6 km (42,854.9 sq mi) ( 103rd )",
+          "links": [
+            {
+              "text": "103rd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "2.16"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• December 2024 estimate",
+          "value": "6,437,360 ( 109th )",
+          "links": [
+            {
+              "text": "109th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• 2021 census",
+          "value": "6,519,789"
+        },
+        {
+          "label": "• Density",
+          "value": "58/km (150.2/sq mi) ( 154th )",
+          "links": [
+            {
+              "text": "154th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$264.699 billion ( 73rd )",
+          "links": [
+            {
+              "text": "73rd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$41,901 ( 55th )",
+          "links": [
+            {
+              "text": "55th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$117.007 billion ( 68th )",
+          "links": [
+            {
+              "text": "68th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$18,522 ( 59th )",
+          "links": [
+            {
+              "text": "59th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "Gini (2023)",
+          "value": "37.2 medium inequality"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.845 very high ( 55th )",
+          "links": [
+            {
+              "text": "55th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "Euro ( € ) ( EUR )",
+          "links": [
+            {
+              "text": "Euro",
+              "href": "https://en.wikipedia.org/wiki/Euro"
+            },
+            {
+              "text": "€",
+              "href": "https://en.wikipedia.org/wiki/%E2%82%AC"
+            },
+            {
+              "text": "EUR",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC +2 ( EET )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "EET",
+              "href": "https://en.wikipedia.org/wiki/Eastern_European_Time"
+            }
+          ]
+        },
+        {
+          "label": "• Summer ( DST )",
+          "value": "UTC +3 ( EEST )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "EEST",
+              "href": "https://en.wikipedia.org/wiki/Eastern_European_Summer_Time"
+            }
+          ]
+        },
+        {
+          "label": "Calling code",
+          "value": "+359",
+          "links": [
+            {
+              "text": "+359",
+              "href": "https://en.wikipedia.org/wiki/%2B359"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "BG",
+          "links": [
+            {
+              "text": "BG",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:BG"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".bg .бг",
+          "links": [
+            {
+              "text": ".bg",
+              "href": "https://en.wikipedia.org/wiki/.bg"
+            },
+            {
+              "text": ".бг",
+              "href": "https://en.wikipedia.org/wiki/.%D0%B1%D0%B3"
+            }
+          ],
+          "sub_items": [
+            ".bg",
+            ".бг"
+          ]
+        }
+      ]
+    }
+  ]
+}

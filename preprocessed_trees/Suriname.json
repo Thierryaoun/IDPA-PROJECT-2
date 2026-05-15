@@ -1,0 +1,435 @@
+{
+  "label": "country",
+  "children": [
+    {
+      "label": "name",
+      "children": [
+        {
+          "label": "suriname"
+        }
+      ]
+    },
+    {
+      "label": "infobox_title",
+      "children": [
+        {
+          "label": "republic of suriname republiek suriname"
+        }
+      ]
+    },
+    {
+      "label": "capital_and_largest_city",
+      "children": [
+        {
+          "label": "paramaribo / 5."
+        }
+      ]
+    },
+    {
+      "label": "official_languages",
+      "children": [
+        {
+          "label": "dutch"
+        }
+      ]
+    },
+    {
+      "label": "recognised_regional_languages",
+      "children": [
+        {
+          "label": "akurio arawak-lokono carib-kari'nja sikiana-kashuyana tiro-tiriyó waiwai warao wayana"
+        },
+        {
+          "label": "akurio"
+        },
+        {
+          "label": "arawak-lokono"
+        },
+        {
+          "label": "carib-kari'nja"
+        },
+        {
+          "label": "sikiana-kashuyana"
+        },
+        {
+          "label": "tiro-tiriyó"
+        },
+        {
+          "label": "waiwai"
+        },
+        {
+          "label": "warao"
+        },
+        {
+          "label": "wayana"
+        }
+      ]
+    },
+    {
+      "label": "lingua_franca",
+      "children": [
+        {
+          "label": "sranan tongo"
+        }
+      ]
+    },
+    {
+      "label": "other_languages",
+      "children": [
+        {
+          "label": "sarnámi hindustáni surinamese-javanese ndyuka saramaccan matawai aluku paramaccan kwinti chinese lebanese arabic french brazilian portuguese spanish"
+        },
+        {
+          "label": "sarnámi hindustáni"
+        },
+        {
+          "label": "surinamese-javanese"
+        },
+        {
+          "label": "ndyuka"
+        },
+        {
+          "label": "saramaccan"
+        },
+        {
+          "label": "matawai"
+        },
+        {
+          "label": "aluku"
+        },
+        {
+          "label": "paramaccan"
+        },
+        {
+          "label": "kwinti"
+        },
+        {
+          "label": "chinese"
+        },
+        {
+          "label": "lebanese arabic"
+        },
+        {
+          "label": "french"
+        },
+        {
+          "label": "brazilian portuguese"
+        },
+        {
+          "label": "spanish"
+        }
+      ]
+    },
+    {
+      "label": "ethnic_groups_2012",
+      "children": [
+        {
+          "label": "42.6% asian surinamese"
+        },
+        {
+          "label": "27.4% hindustani"
+        },
+        {
+          "label": "13.7% javanese"
+        },
+        {
+          "label": "1.5% chinese"
+        },
+        {
+          "label": "21.7% maroon"
+        },
+        {
+          "label": "15.7% creole"
+        },
+        {
+          "label": "13.4% multiracial"
+        },
+        {
+          "label": "3.8% indigenous"
+        },
+        {
+          "label": "0.3% european"
+        }
+      ]
+    },
+    {
+      "label": "religion_2012",
+      "children": [
+        {
+          "label": "21.65% roman catholicism"
+        },
+        {
+          "label": "26.75 protestantism"
+        },
+        {
+          "label": "22.3% hinduism"
+        },
+        {
+          "label": "3.08% arya samaj"
+        },
+        {
+          "label": "1.23% other hindu"
+        },
+        {
+          "label": "17.97% sanātanī"
+        },
+        {
+          "label": "13.9% islam"
+        },
+        {
+          "label": "3.91% sunni"
+        },
+        {
+          "label": "2.61% ahmadiyya"
+        },
+        {
+          "label": "7.34% other muslim"
+        },
+        {
+          "label": "1.8% winti"
+        },
+        {
+          "label": "0.8% kejawèn"
+        },
+        {
+          "label": "0.03% judaism"
+        },
+        {
+          "label": "7.52% no religion"
+        },
+        {
+          "label": "2.04% not stated"
+        },
+        {
+          "label": "1.11% don't know"
+        },
+        {
+          "label": "0.85% others"
+        }
+      ]
+    },
+    {
+      "label": "demonym",
+      "children": [
+        {
+          "label": "surinamese"
+        }
+      ]
+    },
+    {
+      "label": "government",
+      "children": [
+        {
+          "label": "unitary assembly-independent presidential republic"
+        }
+      ]
+    },
+    {
+      "label": "president",
+      "children": [
+        {
+          "label": "jennifer geerlings-simons"
+        }
+      ]
+    },
+    {
+      "label": "vice_president",
+      "children": [
+        {
+          "label": "gregory rusland"
+        }
+      ]
+    },
+    {
+      "label": "national_assembly_chairman",
+      "children": [
+        {
+          "label": "ashwin adhin"
+        }
+      ]
+    },
+    {
+      "label": "high_court_of_justice_president",
+      "children": [
+        {
+          "label": "iwan rasoelbaks"
+        }
+      ]
+    },
+    {
+      "label": "legislature",
+      "children": [
+        {
+          "label": "national assembly"
+        }
+      ]
+    },
+    {
+      "label": "independence_from_the_netherlands",
+      "children": [
+        {
+          "label": "constituent_country_within_the_kingdom_of_the_netherlands",
+          "children": [
+            {
+              "label": "15 december 1954"
+            }
+          ]
+        },
+        {
+          "label": "independence_from_the_kingdom_of_the_netherlands",
+          "children": [
+            {
+              "label": "25 november 1975"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "area",
+      "children": [
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "165,940 km"
+            }
+          ]
+        },
+        {
+          "label": "water",
+          "children": [
+            {
+              "label": "1.1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "population",
+      "children": [
+        {
+          "label": "2022_estimate",
+          "children": [
+            {
+              "label": "632,638"
+            }
+          ]
+        },
+        {
+          "label": "density",
+          "children": [
+            {
+              "label": "3.9/km"
+            }
+          ]
+        },
+        {
+          "label": "gdp_ppp",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$14.743 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$22,439"
+            }
+          ]
+        },
+        {
+          "label": "gdp_nominal",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$4.506 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$6,858"
+            }
+          ]
+        },
+        {
+          "label": "hdi_2023",
+          "children": [
+            {
+              "label": "0.722 high"
+            }
+          ]
+        },
+        {
+          "label": "currency",
+          "children": [
+            {
+              "label": "surinamese dollar"
+            }
+          ]
+        },
+        {
+          "label": "time_zone",
+          "children": [
+            {
+              "label": "utc -03:00"
+            }
+          ]
+        },
+        {
+          "label": "date_format",
+          "children": [
+            {
+              "label": "dd/mm/yyyy"
+            }
+          ]
+        },
+        {
+          "label": "calling_code",
+          "children": [
+            {
+              "label": "+597"
+            }
+          ]
+        },
+        {
+          "label": "iso_3166_code",
+          "children": [
+            {
+              "label": "sr"
+            }
+          ]
+        },
+        {
+          "label": "internet_tld",
+          "children": [
+            {
+              "label": ".sr"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

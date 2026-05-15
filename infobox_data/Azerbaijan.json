@@ -1,0 +1,348 @@
+{
+  "country": "Azerbaijan",
+  "infobox_title": "Republic of Azerbaijan Azərbaycan Respublikası ( Azerbaijani )",
+  "data": [
+    {
+      "label": "Capital and largest city",
+      "value": "Baku 40°23′N 49°50′E ﻿ / ﻿ 40.383°N 49.833°E",
+      "links": [
+        {
+          "text": "Baku",
+          "href": "https://en.wikipedia.org/wiki/Baku"
+        },
+        {
+          "text": "40°23′N49°50′E﻿ / ﻿40.383°N 49.833°E",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Azerbaijan&params=40_23_N_49_50_E_type:city"
+        }
+      ]
+    },
+    {
+      "label": "Official languages",
+      "value": "Azerbaijani",
+      "links": [
+        {
+          "text": "Azerbaijani",
+          "href": "https://en.wikipedia.org/wiki/Azerbaijani_language"
+        }
+      ]
+    },
+    {
+      "label": "Ethnic groups (2019 )",
+      "value": "94.8% Azerbaijani 1.7% Lezgin 0.9% Talysh 0.7% Russian 1.9% others",
+      "links": [
+        {
+          "text": "Azerbaijani",
+          "href": "https://en.wikipedia.org/wiki/Azerbaijanis"
+        },
+        {
+          "text": "Lezgin",
+          "href": "https://en.wikipedia.org/wiki/Lezgins"
+        },
+        {
+          "text": "Talysh",
+          "href": "https://en.wikipedia.org/wiki/Talysh_people"
+        },
+        {
+          "text": "Russian",
+          "href": "https://en.wikipedia.org/wiki/Russians_in_Azerbaijan"
+        },
+        {
+          "text": "others",
+          "href": "#Ethnicity"
+        }
+      ],
+      "sub_items": [
+        "94.8% Azerbaijani",
+        "1.7% Lezgin",
+        "0.9% Talysh",
+        "0.7% Russian",
+        "1.9% others"
+      ]
+    },
+    {
+      "label": "Religion (2020)",
+      "value": "97.3% Islam 2.6% Christianity <0.1% other religion <0.1% unaffiliated",
+      "links": [
+        {
+          "text": "Islam",
+          "href": "https://en.wikipedia.org/wiki/Islam_in_Azerbaijan"
+        },
+        {
+          "text": "Christianity",
+          "href": "https://en.wikipedia.org/wiki/Christianity_in_Azerbaijan"
+        },
+        {
+          "text": "other religion",
+          "href": "https://en.wikipedia.org/wiki/Religion_in_Azerbaijan"
+        },
+        {
+          "text": "unaffiliated",
+          "href": "https://en.wikipedia.org/wiki/Irreligion_in_Azerbaijan"
+        }
+      ],
+      "sub_items": [
+        "97.3% Islam",
+        "2.6% Christianity",
+        "<0.1% other religion",
+        "<0.1% unaffiliated"
+      ]
+    },
+    {
+      "label": "Demonyms",
+      "value": "Azerbaijani Azeri",
+      "sub_items": [
+        "Azerbaijani",
+        "Azeri"
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Unitary semi-presidential republic under an authoritarian hereditary dictatorship",
+      "links": [
+        {
+          "text": "semi-presidential republic",
+          "href": "https://en.wikipedia.org/wiki/Semi-presidential_system"
+        },
+        {
+          "text": "authoritarian",
+          "href": "https://en.wikipedia.org/wiki/Authoritarian"
+        },
+        {
+          "text": "hereditary dictatorship",
+          "href": "https://en.wikipedia.org/wiki/Hereditary_dictatorship"
+        }
+      ]
+    },
+    {
+      "label": "• President",
+      "value": "Ilham Aliyev",
+      "links": [
+        {
+          "text": "Ilham Aliyev",
+          "href": "https://en.wikipedia.org/wiki/Ilham_Aliyev"
+        }
+      ]
+    },
+    {
+      "label": "• Vice President",
+      "value": "Mehriban Aliyeva",
+      "links": [
+        {
+          "text": "Mehriban Aliyeva",
+          "href": "https://en.wikipedia.org/wiki/Mehriban_Aliyeva"
+        }
+      ]
+    },
+    {
+      "label": "• Prime Minister",
+      "value": "Ali Asadov",
+      "links": [
+        {
+          "text": "Ali Asadov",
+          "href": "https://en.wikipedia.org/wiki/Ali_Asadov"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "National Assembly",
+      "links": [
+        {
+          "text": "National Assembly",
+          "href": "https://en.wikipedia.org/wiki/National_Assembly_(Azerbaijan)"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Formation",
+      "rows": [
+        {
+          "label": "• People's Republic",
+          "value": "28 May 1918"
+        },
+        {
+          "label": "• Soviet Socialist Republic",
+          "value": "28 April 1920"
+        },
+        {
+          "label": "• Independence from the Soviet Union",
+          "value": "18 October 1991 (declared) 26 December 1991 (recognized)",
+          "sub_items": [
+            "18 October 1991 (declared)",
+            "26 December 1991 (recognized)"
+          ]
+        },
+        {
+          "label": "• Constitution adopted",
+          "value": "12 November 1995"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "86,600 km (33,400 sq mi) ( 112th )",
+          "links": [
+            {
+              "text": "112th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "1.6"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2022 estimate",
+          "value": "10,353,296 ( 90th )",
+          "links": [
+            {
+              "text": "90th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• Density",
+          "value": "117/km (303.0/sq mi) ( 99th )",
+          "links": [
+            {
+              "text": "99th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2024 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$272 billion ( 78th )",
+          "links": [
+            {
+              "text": "78th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$26,235 ( 88th )",
+          "links": [
+            {
+              "text": "88th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2024 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "79 billion ( 82nd )",
+          "links": [
+            {
+              "text": "82nd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$7,604 ( 90th )",
+          "links": [
+            {
+              "text": "90th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "Gini (2008)",
+          "value": "33.7 medium inequality"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.789 high ( 81st )",
+          "links": [
+            {
+              "text": "81st",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "Manat (₼) ( AZN )",
+          "links": [
+            {
+              "text": "Manat",
+              "href": "https://en.wikipedia.org/wiki/Azerbaijani_manat"
+            },
+            {
+              "text": "AZN",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC +4 ( AZT )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "AZT",
+              "href": "https://en.wikipedia.org/wiki/Azerbaijan_Time"
+            }
+          ]
+        },
+        {
+          "label": "Calling code",
+          "value": "+994",
+          "links": [
+            {
+              "text": "+994",
+              "href": "https://en.wikipedia.org/wiki/Telephone_numbers_in_Azerbaijan"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "AZ",
+          "links": [
+            {
+              "text": "AZ",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:AZ"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".az",
+          "links": [
+            {
+              "text": ".az",
+              "href": "https://en.wikipedia.org/wiki/.az"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

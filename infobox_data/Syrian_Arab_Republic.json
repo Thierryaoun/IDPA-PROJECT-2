@@ -1,0 +1,363 @@
+{
+  "country": "Syrian Arab Republic",
+  "infobox_title": "Syrian Arab Republic اَلْجُمْهُورِيَّةُ ٱلْعَرَبِيَّةُ ٱلْسُوْرِيَّة ( Arabic ) al-Jumhūriyyah al-ʿArabiyyah as-Sūriyyah",
+  "data": [
+    {
+      "label": "Capital and largest city",
+      "value": "Damascus 33°30′N 36°18′E ﻿ / ﻿ 33.500°N 36.300°E",
+      "links": [
+        {
+          "text": "Damascus",
+          "href": "https://en.wikipedia.org/wiki/Damascus"
+        },
+        {
+          "text": "33°30′N36°18′E﻿ / ﻿33.500°N 36.300°E",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Syria&params=33_30_N_36_18_E_type:city"
+        }
+      ]
+    },
+    {
+      "label": "Official languages",
+      "value": "Arabic",
+      "links": [
+        {
+          "text": "Arabic",
+          "href": "https://en.wikipedia.org/wiki/Modern_Standard_Arabic"
+        }
+      ]
+    },
+    {
+      "label": "Recognized national languages",
+      "value": "Kurdish",
+      "links": [
+        {
+          "text": "Kurdish",
+          "href": "https://en.wikipedia.org/wiki/Kurdish_language"
+        }
+      ]
+    },
+    {
+      "label": "Spoken languages",
+      "value": "Predominantly Arabic List Kurdish Turkish Neo-Aramaic Syriac Circassian Chechen Armenian Greek Domari",
+      "links": [
+        {
+          "text": "Turkish",
+          "href": "https://en.wikipedia.org/wiki/Turkish_language"
+        },
+        {
+          "text": "Neo-Aramaic",
+          "href": "https://en.wikipedia.org/wiki/Neo-Aramaic_languages"
+        },
+        {
+          "text": "Syriac",
+          "href": "https://en.wikipedia.org/wiki/Syriac_language"
+        },
+        {
+          "text": "Circassian",
+          "href": "https://en.wikipedia.org/wiki/Circassian_languages"
+        },
+        {
+          "text": "Chechen",
+          "href": "https://en.wikipedia.org/wiki/Chechen_language"
+        },
+        {
+          "text": "Armenian",
+          "href": "https://en.wikipedia.org/wiki/Armenian_language"
+        },
+        {
+          "text": "Greek",
+          "href": "https://en.wikipedia.org/wiki/Greek_language"
+        },
+        {
+          "text": "Domari",
+          "href": "https://en.wikipedia.org/wiki/Domari_language"
+        }
+      ],
+      "sub_items": [
+        "Predominantly Arabic",
+        "Kurdish",
+        "Turkish",
+        "Neo-Aramaic",
+        "Syriac",
+        "Circassian",
+        "Chechen",
+        "Armenian",
+        "Greek",
+        "Domari"
+      ]
+    },
+    {
+      "label": "Ethnic groups (2021)",
+      "value": "80–90% Arabs 9–10% Kurds 1–10% others",
+      "links": [
+        {
+          "text": "Arabs",
+          "href": "https://en.wikipedia.org/wiki/Arabs"
+        },
+        {
+          "text": "Kurds",
+          "href": "https://en.wikipedia.org/wiki/Kurds_in_Syria"
+        },
+        {
+          "text": "others",
+          "href": "https://en.wikipedia.org/wiki/Ethnic_groups_in_Syria"
+        }
+      ]
+    },
+    {
+      "label": "Religion (2020)",
+      "value": "94.17% Islam 79.19% Sunni 14.1% Shia 10–13% Alawites 3.84% Christianity 1.99% other",
+      "links": [
+        {
+          "text": "Islam",
+          "href": "https://en.wikipedia.org/wiki/Islam_in_Syria"
+        },
+        {
+          "text": "Sunni",
+          "href": "https://en.wikipedia.org/wiki/Sunni_Islam"
+        },
+        {
+          "text": "Shia",
+          "href": "https://en.wikipedia.org/wiki/Shia_Islam"
+        },
+        {
+          "text": "Alawites",
+          "href": "https://en.wikipedia.org/wiki/Alawites"
+        },
+        {
+          "text": "Christianity",
+          "href": "https://en.wikipedia.org/wiki/Christianity_in_Syria"
+        },
+        {
+          "text": "other",
+          "href": "https://en.wikipedia.org/wiki/Religion_in_Syria"
+        }
+      ],
+      "sub_items": [
+        "94.17% Islam 79.19% Sunni 14.1% Shia 10–13% Alawites",
+        "79.19% Sunni",
+        "14.1% Shia 10–13% Alawites",
+        "10–13% Alawites",
+        "3.84% Christianity",
+        "1.99% other"
+      ]
+    },
+    {
+      "label": "Demonym",
+      "value": "Syrian",
+      "links": [
+        {
+          "text": "Syrian",
+          "href": "https://en.wikipedia.org/wiki/Syrian_people"
+        }
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Unitary presidential republic under a provisional government",
+      "links": [
+        {
+          "text": "presidential republic",
+          "href": "https://en.wikipedia.org/wiki/Presidential_republic"
+        },
+        {
+          "text": "provisional government",
+          "href": "https://en.wikipedia.org/wiki/Syrian_transitional_government"
+        }
+      ]
+    },
+    {
+      "label": "• President",
+      "value": "Ahmed al-Sharaa",
+      "links": [
+        {
+          "text": "Ahmed al-Sharaa",
+          "href": "https://en.wikipedia.org/wiki/Ahmed_al-Sharaa"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "People's Assembly",
+      "links": [
+        {
+          "text": "People's Assembly",
+          "href": "https://en.wikipedia.org/wiki/People%27s_Assembly_of_Syria"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Establishment",
+      "rows": [
+        {
+          "label": "• Arab Kingdom of Syria",
+          "value": "8 March 1920"
+        },
+        {
+          "label": "• State of Syria under French mandate",
+          "value": "1 December 1924"
+        },
+        {
+          "label": "• First Syrian Republic",
+          "value": "14 May 1930"
+        },
+        {
+          "label": "• End of the French mandate",
+          "value": "17 April 1946"
+        },
+        {
+          "label": "• Part of the United Arab Republic",
+          "value": "22 February 1958 – 28 September 1961"
+        },
+        {
+          "label": "• Ba'athist Syria",
+          "value": "8 March 1963 – 8 December 2024"
+        },
+        {
+          "label": "• Current provisional government established",
+          "value": "29 March 2025"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "185,180 km (71,500 sq mi) ( 87th )",
+          "links": [
+            {
+              "text": "87th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "1.1"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2025 estimate",
+          "value": "26,019,711 ( 56th )",
+          "links": [
+            {
+              "text": "56th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• Density",
+          "value": "118.3/km (306.4/sq mi) ( 70th )",
+          "links": [
+            {
+              "text": "70th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2021 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$50.28 billion"
+        },
+        {
+          "label": "• Per capita",
+          "value": "$3,300"
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2022 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$9.8 billion"
+        },
+        {
+          "label": "• Per capita",
+          "value": "$800"
+        },
+        {
+          "label": "Gini (2022)",
+          "value": "26.6 low inequality"
+        },
+        {
+          "label": "Currency",
+          "value": "Syrian pound ( SYP/LS )",
+          "links": [
+            {
+              "text": "Syrian pound",
+              "href": "https://en.wikipedia.org/wiki/Syrian_pound"
+            },
+            {
+              "text": "SYP/LS",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC +03:00 ( AST )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "AST",
+              "href": "https://en.wikipedia.org/wiki/Arabia_Standard_Time"
+            }
+          ]
+        },
+        {
+          "label": "Date format",
+          "value": "dd-mm-yyyy"
+        },
+        {
+          "label": "Calling code",
+          "value": "+963",
+          "links": [
+            {
+              "text": "+963",
+              "href": "https://en.wikipedia.org/wiki/Telephone_numbers_in_Syria"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "SY",
+          "links": [
+            {
+              "text": "SY",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:SY"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".sy سوريا.",
+          "links": [
+            {
+              "text": ".sy",
+              "href": "https://en.wikipedia.org/wiki/.sy"
+            },
+            {
+              "text": "سوريا.",
+              "href": "https://en.wikipedia.org/wiki/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

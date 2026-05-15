@@ -1,0 +1,331 @@
+{
+  "label": "country",
+  "children": [
+    {
+      "label": "name",
+      "children": [
+        {
+          "label": "senegal"
+        }
+      ]
+    },
+    {
+      "label": "infobox_title",
+      "children": [
+        {
+          "label": "republic of senegal république du sénégal"
+        }
+      ]
+    },
+    {
+      "label": "capital_and_largest_city",
+      "children": [
+        {
+          "label": "dakar / 14."
+        }
+      ]
+    },
+    {
+      "label": "official_languages",
+      "children": [
+        {
+          "label": "french"
+        }
+      ]
+    },
+    {
+      "label": "national_languages",
+      "children": [
+        {
+          "label": "wolof"
+        },
+        {
+          "label": "serer"
+        },
+        {
+          "label": "diola"
+        },
+        {
+          "label": "pulaar"
+        },
+        {
+          "label": "soninke"
+        },
+        {
+          "label": "mandinka"
+        }
+      ]
+    },
+    {
+      "label": "ethnic_groups_2019",
+      "children": [
+        {
+          "label": "39.7% wolof"
+        },
+        {
+          "label": "27.5% fula"
+        },
+        {
+          "label": "16.0% serer"
+        },
+        {
+          "label": "4.9% mandinka"
+        },
+        {
+          "label": "4.2% jola"
+        },
+        {
+          "label": "2.4% soninke"
+        },
+        {
+          "label": "5.4% others"
+        }
+      ]
+    },
+    {
+      "label": "religion_2019",
+      "children": [
+        {
+          "label": "97.2% islam"
+        },
+        {
+          "label": "2.7% christianity"
+        },
+        {
+          "label": "0.1% other"
+        }
+      ]
+    },
+    {
+      "label": "demonym",
+      "children": [
+        {
+          "label": "senegalese"
+        }
+      ]
+    },
+    {
+      "label": "government",
+      "children": [
+        {
+          "label": "unitary presidential republic"
+        }
+      ]
+    },
+    {
+      "label": "president",
+      "children": [
+        {
+          "label": "bassirou diomaye faye"
+        }
+      ]
+    },
+    {
+      "label": "prime_minister",
+      "children": [
+        {
+          "label": "ousmane sonko"
+        }
+      ]
+    },
+    {
+      "label": "president_of_the_national_assembly",
+      "children": [
+        {
+          "label": "malick ndiaye"
+        }
+      ]
+    },
+    {
+      "label": "legislature",
+      "children": [
+        {
+          "label": "national assembly"
+        }
+      ]
+    },
+    {
+      "label": "independence",
+      "children": [
+        {
+          "label": "republic_established",
+          "children": [
+            {
+              "label": "25 november 1958"
+            }
+          ]
+        },
+        {
+          "label": "independence_from_france",
+          "children": [
+            {
+              "label": "20 june 1960"
+            }
+          ]
+        },
+        {
+          "label": "withdrawal_from_the_mali_federation",
+          "children": [
+            {
+              "label": "20 august 1960"
+            }
+          ]
+        },
+        {
+          "label": "dissolution_of_the_senegambia_confederation",
+          "children": [
+            {
+              "label": "30 september 1989"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "area",
+      "children": [
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "196,722 km"
+            }
+          ]
+        },
+        {
+          "label": "water",
+          "children": [
+            {
+              "label": "2.1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "population",
+      "children": [
+        {
+          "label": "2024_estimate",
+          "children": [
+            {
+              "label": "18,847,519"
+            }
+          ]
+        },
+        {
+          "label": "density",
+          "children": [
+            {
+              "label": "96/km"
+            }
+          ]
+        },
+        {
+          "label": "gdp_ppp",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$105.428 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$5,498"
+            }
+          ]
+        },
+        {
+          "label": "gdp_nominal",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$34.728 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$1,811"
+            }
+          ]
+        },
+        {
+          "label": "gini_2011",
+          "children": [
+            {
+              "label": "40.3 medium inequality"
+            }
+          ]
+        },
+        {
+          "label": "hdi_2023",
+          "children": [
+            {
+              "label": "0.530 low"
+            }
+          ]
+        },
+        {
+          "label": "currency",
+          "children": [
+            {
+              "label": "west african cfa franc"
+            }
+          ]
+        },
+        {
+          "label": "time_zone",
+          "children": [
+            {
+              "label": "utc ±00:00"
+            }
+          ]
+        },
+        {
+          "label": "calling_code",
+          "children": [
+            {
+              "label": "+221"
+            }
+          ]
+        },
+        {
+          "label": "iso_3166_code",
+          "children": [
+            {
+              "label": "sn"
+            }
+          ]
+        },
+        {
+          "label": "internet_tld",
+          "children": [
+            {
+              "label": ".sn"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

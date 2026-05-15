@@ -1,0 +1,310 @@
+{
+  "country": "Vanuatu",
+  "infobox_title": "Republic of Vanuatu Ripablik blong Vanuatu ( Bislama ) République de Vanuatu ( French )",
+  "data": [
+    {
+      "label": "Capital and largest city",
+      "value": "Port Vila 17°S 168°E ﻿ / ﻿ 17°S 168°E",
+      "links": [
+        {
+          "text": "Port Vila",
+          "href": "https://en.wikipedia.org/wiki/Port_Vila"
+        },
+        {
+          "text": "17°S168°E﻿ / ﻿17°S 168°E",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Vanuatu&params=17_S_168_E_type:city"
+        }
+      ]
+    },
+    {
+      "label": "Official languages",
+      "value": "Bislama English French",
+      "links": [
+        {
+          "text": "Bislama",
+          "href": "https://en.wikipedia.org/wiki/Bislama_language"
+        },
+        {
+          "text": "English",
+          "href": "https://en.wikipedia.org/wiki/English_language"
+        },
+        {
+          "text": "French",
+          "href": "https://en.wikipedia.org/wiki/French_language"
+        }
+      ],
+      "sub_items": [
+        "Bislama",
+        "English",
+        "French"
+      ]
+    },
+    {
+      "label": "Ethnic groups (2020)",
+      "value": "98.5% Ni-Vanuatu 1.5% others",
+      "links": [
+        {
+          "text": "Ni-Vanuatu",
+          "href": "https://en.wikipedia.org/wiki/Ni-Vanuatu"
+        },
+        {
+          "text": "others",
+          "href": "https://en.wikipedia.org/wiki/List_of_contemporary_ethnic_groups"
+        }
+      ],
+      "sub_items": [
+        "98.5% Ni-Vanuatu",
+        "1.5% others"
+      ]
+    },
+    {
+      "label": "Religion (2020)",
+      "value": "93.4% Christianity 75.1% Protestantism 13.5% Catholicism 4.8% other Christian 4.6% Animism 1.4% Baháʼí Faith 0.6% other / none",
+      "links": [
+        {
+          "text": "Christianity",
+          "href": "https://en.wikipedia.org/wiki/Christianity"
+        },
+        {
+          "text": "Protestantism",
+          "href": "https://en.wikipedia.org/wiki/Protestantism"
+        },
+        {
+          "text": "Catholicism",
+          "href": "https://en.wikipedia.org/wiki/Catholicism"
+        },
+        {
+          "text": "Christian",
+          "href": "https://en.wikipedia.org/wiki/Christian"
+        },
+        {
+          "text": "Animism",
+          "href": "https://en.wikipedia.org/wiki/Religion_in_Vanuatu#The_traditional_religion_of_Vanuatu"
+        },
+        {
+          "text": "Baháʼí Faith",
+          "href": "https://en.wikipedia.org/wiki/Bah%C3%A1%CA%BC%C3%AD_Faith"
+        },
+        {
+          "text": "other",
+          "href": "https://en.wikipedia.org/wiki/Religion_in_Vanuatu"
+        },
+        {
+          "text": "none",
+          "href": "https://en.wikipedia.org/wiki/Irreligion"
+        }
+      ],
+      "sub_items": [
+        "93.4% Christianity 75.1% Protestantism 13.5% Catholicism 4.8% other Christian",
+        "93.4% Christianity 75.1% Protestantism 13.5% Catholicism 4.8% other Christian",
+        "75.1% Protestantism",
+        "13.5% Catholicism",
+        "4.8% other Christian",
+        "4.6% Animism",
+        "1.4% Baháʼí Faith",
+        "0.6% other / none"
+      ]
+    },
+    {
+      "label": "Demonym",
+      "value": "Ni-Vanuatu (or rarely: Vanuatuan )",
+      "links": [
+        {
+          "text": "Ni-Vanuatu",
+          "href": "https://en.wikipedia.org/wiki/Ni-Vanuatu"
+        }
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Unitary parliamentary republic",
+      "links": [
+        {
+          "text": "Unitary parliamentary republic",
+          "href": "https://en.wikipedia.org/wiki/Unitary_parliamentary_republic"
+        }
+      ]
+    },
+    {
+      "label": "• President",
+      "value": "Nikenike Vurobaravu",
+      "links": [
+        {
+          "text": "Nikenike Vurobaravu",
+          "href": "https://en.wikipedia.org/wiki/Nikenike_Vurobaravu"
+        }
+      ]
+    },
+    {
+      "label": "• Prime Minister",
+      "value": "Jotham Napat",
+      "links": [
+        {
+          "text": "Jotham Napat",
+          "href": "https://en.wikipedia.org/wiki/Jotham_Napat"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "Parliament",
+      "links": [
+        {
+          "text": "Parliament",
+          "href": "https://en.wikipedia.org/wiki/Parliament_of_Vanuatu"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Independence",
+      "rows": [
+        {
+          "label": "• from the United Kingdom and France",
+          "value": "30 July 1980"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "12,189 km (4,706 sq mi) ( 157th )",
+          "links": [
+            {
+              "text": "157th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2023 estimate",
+          "value": "335,908 ( 182nd )",
+          "links": [
+            {
+              "text": "182nd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• 2020 census",
+          "value": "300,019"
+        },
+        {
+          "label": "• Density",
+          "value": "27.6/km (71.5/sq mi) ( 188th )",
+          "links": [
+            {
+              "text": "188th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2023 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$1.002 billion"
+        },
+        {
+          "label": "• Per capita",
+          "value": "$3,001"
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2023 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$1.064 billion"
+        },
+        {
+          "label": "• Per capita",
+          "value": "$3,188"
+        },
+        {
+          "label": "Gini (2019)",
+          "value": "32.3 medium inequality"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.621 medium ( 146th )",
+          "links": [
+            {
+              "text": "146th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "Vatu ( VUV )",
+          "links": [
+            {
+              "text": "Vatu",
+              "href": "https://en.wikipedia.org/wiki/Vanuatu_vatu"
+            },
+            {
+              "text": "VUV",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC +11 (VUT ( Vanuatu Time ))",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "Vanuatu Time",
+              "href": "https://en.wikipedia.org/wiki/Time_in_Vanuatu"
+            }
+          ]
+        },
+        {
+          "label": "Calling code",
+          "value": "+678",
+          "links": [
+            {
+              "text": "+678",
+              "href": "https://en.wikipedia.org/wiki/%2B678"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "VU",
+          "links": [
+            {
+              "text": "VU",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:VU"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".vu",
+          "links": [
+            {
+              "text": ".vu",
+              "href": "https://en.wikipedia.org/wiki/.vu"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,319 @@
+{
+  "country": "Solomon Islands",
+  "infobox_title": "Solomon Islands Solomon Aelan ( Pijin )",
+  "data": [
+    {
+      "label": "Capital and largest city",
+      "value": "Honiara 9°25′55″S 159°57′20″E ﻿ / ﻿ 9.43194°S 159.95556°E",
+      "links": [
+        {
+          "text": "Honiara",
+          "href": "https://en.wikipedia.org/wiki/Honiara"
+        },
+        {
+          "text": "9°25′55″S159°57′20″E﻿ / ﻿9.43194°S 159.95556°E",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Solomon_Islands&params=9_25_55_S_159_57_20_E_type:city"
+        }
+      ]
+    },
+    {
+      "label": "Official language",
+      "value": "English",
+      "links": [
+        {
+          "text": "English",
+          "href": "https://en.wikipedia.org/wiki/English_language"
+        }
+      ]
+    },
+    {
+      "label": "Lingua franca",
+      "value": "Pijin",
+      "links": [
+        {
+          "text": "Pijin",
+          "href": "https://en.wikipedia.org/wiki/Pijin_language"
+        }
+      ]
+    },
+    {
+      "label": "Ethnic groups (2016)",
+      "value": "95.3% Melanesian 3.1% Polynesian 1.2% Micronesian 0.4% others",
+      "links": [
+        {
+          "text": "Melanesian",
+          "href": "https://en.wikipedia.org/wiki/Melanesians"
+        },
+        {
+          "text": "Polynesian",
+          "href": "https://en.wikipedia.org/wiki/Polynesians"
+        },
+        {
+          "text": "Micronesian",
+          "href": "https://en.wikipedia.org/wiki/Micronesian_people"
+        },
+        {
+          "text": "others",
+          "href": "https://en.wikipedia.org/wiki/Demographics_of_the_Solomon_Islands"
+        }
+      ],
+      "sub_items": [
+        "95.3% Melanesian",
+        "3.1% Polynesian",
+        "1.2% Micronesian",
+        "0.4% others"
+      ]
+    },
+    {
+      "label": "Religion (2016)",
+      "value": "97.4% Christianity 78.6% Protestantism 19.5% Catholicism 1.9% other Christian 1.2% folk religions 1.4% others / none",
+      "links": [
+        {
+          "text": "Christianity",
+          "href": "https://en.wikipedia.org/wiki/Christianity"
+        },
+        {
+          "text": "Protestantism",
+          "href": "https://en.wikipedia.org/wiki/Protestantism"
+        },
+        {
+          "text": "Catholicism",
+          "href": "https://en.wikipedia.org/wiki/Catholic_Church"
+        },
+        {
+          "text": "Christian",
+          "href": "https://en.wikipedia.org/wiki/List_of_Christian_denominations"
+        },
+        {
+          "text": "folk religions",
+          "href": "https://en.wikipedia.org/wiki/Folk_religion"
+        },
+        {
+          "text": "others",
+          "href": "https://en.wikipedia.org/wiki/Religion_in_Solomon_Islands"
+        },
+        {
+          "text": "none",
+          "href": "https://en.wikipedia.org/wiki/Irreligion"
+        }
+      ],
+      "sub_items": [
+        "97.4% Christianity 78.6% Protestantism 19.5% Catholicism 1.9% other Christian",
+        "78.6% Protestantism",
+        "19.5% Catholicism",
+        "1.9% other Christian",
+        "1.2% folk religions",
+        "1.4% others / none"
+      ]
+    },
+    {
+      "label": "Demonyms",
+      "value": "Solomon Islander Solomonese"
+    },
+    {
+      "label": "Government",
+      "value": "Unitary parliamentary constitutional monarchy",
+      "links": [
+        {
+          "text": "parliamentary constitutional monarchy",
+          "href": "https://en.wikipedia.org/wiki/Westminster_system"
+        }
+      ]
+    },
+    {
+      "label": "• Monarch",
+      "value": "Charles III",
+      "links": [
+        {
+          "text": "Charles III",
+          "href": "https://en.wikipedia.org/wiki/Charles_III"
+        }
+      ]
+    },
+    {
+      "label": "• Governor-General",
+      "value": "David Tiva Kapu",
+      "links": [
+        {
+          "text": "David Tiva Kapu",
+          "href": "https://en.wikipedia.org/wiki/David_Tiva_Kapu"
+        }
+      ]
+    },
+    {
+      "label": "• Prime Minister",
+      "value": "Jeremiah Manele",
+      "links": [
+        {
+          "text": "Jeremiah Manele",
+          "href": "https://en.wikipedia.org/wiki/Jeremiah_Manele"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "National Parliament",
+      "links": [
+        {
+          "text": "National Parliament",
+          "href": "https://en.wikipedia.org/wiki/National_Parliament_of_Solomon_Islands"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Independence",
+      "rows": [
+        {
+          "label": "• from the United Kingdom",
+          "value": "7 July 1978"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "28,896 km (11,157 sq mi) ( 139th )",
+          "links": [
+            {
+              "text": "139th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "3.2%"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2025 estimate",
+          "value": "828,857 ( 167th )",
+          "links": [
+            {
+              "text": "167th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• 2019 census",
+          "value": "721,956"
+        },
+        {
+          "label": "• Density",
+          "value": "24.2/km (62.7/sq mi) ( 192th )",
+          "links": [
+            {
+              "text": "192th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2024 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$1.68 billion"
+        },
+        {
+          "label": "• Per capita",
+          "value": "$2,205.25"
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2024 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$1.681 billion"
+        },
+        {
+          "label": "• Per capita",
+          "value": "$2,205.25"
+        },
+        {
+          "label": "Gini (2013)",
+          "value": "37.1 medium inequality"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.584 medium ( 156th )",
+          "links": [
+            {
+              "text": "156th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "Solomon Islands dollar ( SBD )",
+          "links": [
+            {
+              "text": "Solomon Islands dollar",
+              "href": "https://en.wikipedia.org/wiki/Solomon_Islands_dollar"
+            },
+            {
+              "text": "SBD",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC +11 (Solomon Islands Time)",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            }
+          ]
+        },
+        {
+          "label": "• Summer ( DST )",
+          "value": "Not observed"
+        },
+        {
+          "label": "Calling code",
+          "value": "+677",
+          "links": [
+            {
+              "text": "+677",
+              "href": "https://en.wikipedia.org/wiki/%2B677"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "SB",
+          "links": [
+            {
+              "text": "SB",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:SB"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".sb",
+          "links": [
+            {
+              "text": ".sb",
+              "href": "https://en.wikipedia.org/wiki/.sb"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

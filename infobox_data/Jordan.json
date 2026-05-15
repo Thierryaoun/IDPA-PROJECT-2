@@ -1,0 +1,349 @@
+{
+  "country": "Jordan",
+  "infobox_title": "Hashemite Kingdom of Jordan المملكة الأردنية الهاشمية ( Arabic ) Al-Mamlaka al-Urduniyya al-Hāshimiyya",
+  "data": [
+    {
+      "label": "Capital and largest city",
+      "value": "Amman 31°57′N 35°56′E ﻿ / ﻿ 31.950°N 35.933°E",
+      "links": [
+        {
+          "text": "Amman",
+          "href": "https://en.wikipedia.org/wiki/Amman"
+        },
+        {
+          "text": "31°57′N35°56′E﻿ / ﻿31.950°N 35.933°E",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Jordan&params=31_57_N_35_56_E_type:city"
+        }
+      ]
+    },
+    {
+      "label": "Official languages",
+      "value": "Arabic",
+      "links": [
+        {
+          "text": "Arabic",
+          "href": "https://en.wikipedia.org/wiki/Modern_Standard_Arabic"
+        }
+      ]
+    },
+    {
+      "label": "Ethnic groups",
+      "value": "95% Arab 3% Circassian , Chechen 2% Armenian and others",
+      "links": [
+        {
+          "text": "Arab",
+          "href": "https://en.wikipedia.org/wiki/Arabs"
+        },
+        {
+          "text": "Circassian",
+          "href": "https://en.wikipedia.org/wiki/Circassians_in_Jordan"
+        },
+        {
+          "text": "Chechen",
+          "href": "https://en.wikipedia.org/wiki/Chechens_in_Jordan"
+        },
+        {
+          "text": "Armenian",
+          "href": "https://en.wikipedia.org/wiki/Armenians_in_Jordan"
+        }
+      ],
+      "sub_items": [
+        "95% Arab",
+        "3% Circassian , Chechen",
+        "2% Armenian and others"
+      ]
+    },
+    {
+      "label": "Religion",
+      "value": "95% Islam ( official ) 3% Christianity 1% Druze , Baháʼí 1% others",
+      "links": [
+        {
+          "text": "Islam",
+          "href": "https://en.wikipedia.org/wiki/Islam_in_Jordan"
+        },
+        {
+          "text": "official",
+          "href": "https://en.wikipedia.org/wiki/State_religion"
+        },
+        {
+          "text": "Christianity",
+          "href": "https://en.wikipedia.org/wiki/Christianity_in_Jordan"
+        },
+        {
+          "text": "Druze",
+          "href": "https://en.wikipedia.org/wiki/Druze"
+        },
+        {
+          "text": "Baháʼí",
+          "href": "https://en.wikipedia.org/wiki/Bah%C3%A1%CA%BC%C3%AD_Faith"
+        }
+      ],
+      "sub_items": [
+        "95% Islam ( official )",
+        "3% Christianity",
+        "1% Druze , Baháʼí"
+      ]
+    },
+    {
+      "label": "Demonym",
+      "value": "Jordanian",
+      "links": [
+        {
+          "text": "Jordanian",
+          "href": "https://en.wikipedia.org/wiki/Jordanian_people"
+        }
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Unitary parliamentary constitutional monarchy",
+      "links": [
+        {
+          "text": "constitutional monarchy",
+          "href": "https://en.wikipedia.org/wiki/Constitutional_monarchy"
+        }
+      ]
+    },
+    {
+      "label": "• Monarch",
+      "value": "Abdullah II",
+      "links": [
+        {
+          "text": "Abdullah II",
+          "href": "https://en.wikipedia.org/wiki/Abdullah_II_of_Jordan"
+        }
+      ]
+    },
+    {
+      "label": "• Prime Minister",
+      "value": "Jafar Hassan",
+      "links": [
+        {
+          "text": "Jafar Hassan",
+          "href": "https://en.wikipedia.org/wiki/Jafar_Hassan"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "Parliament",
+      "links": [
+        {
+          "text": "Parliament",
+          "href": "https://en.wikipedia.org/wiki/Parliament_of_Jordan"
+        }
+      ]
+    },
+    {
+      "label": "• Upper house",
+      "value": "Senate",
+      "links": [
+        {
+          "text": "Senate",
+          "href": "https://en.wikipedia.org/wiki/Senate_(Jordan)"
+        }
+      ]
+    },
+    {
+      "label": "• Lower house",
+      "value": "House of Representatives",
+      "links": [
+        {
+          "text": "House of Representatives",
+          "href": "https://en.wikipedia.org/wiki/House_of_Representatives_(Jordan)"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Independence from the United Kingdom",
+      "rows": [
+        {
+          "label": "• Emirate",
+          "value": "11 April 1921"
+        },
+        {
+          "label": "• Independence",
+          "value": "25 May 1946"
+        },
+        {
+          "label": "• Current constitution",
+          "value": "11 January 1952"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "89,342 km (34,495 sq mi) ( 110th )",
+          "links": [
+            {
+              "text": "110th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "0.6"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2023 estimate",
+          "value": "11,484,805 ( 84th )",
+          "links": [
+            {
+              "text": "84th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• 2015 census",
+          "value": "9,531,712"
+        },
+        {
+          "label": "• Density",
+          "value": "114/km (295.3/sq mi) ( 70th )",
+          "links": [
+            {
+              "text": "70th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2023 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$132.092 billion ( 91st )",
+          "links": [
+            {
+              "text": "91st",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$12,809 ( 112th )",
+          "links": [
+            {
+              "text": "112th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2023 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$50.022 billion ( 93rd )",
+          "links": [
+            {
+              "text": "93rd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$4,850 ( 114th )",
+          "links": [
+            {
+              "text": "114th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "Gini (2011)",
+          "value": "35.4 medium inequality"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.754 high ( 100th )",
+          "links": [
+            {
+              "text": "100th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "Jordanian dinar ( JOD )",
+          "links": [
+            {
+              "text": "Jordanian dinar",
+              "href": "https://en.wikipedia.org/wiki/Jordanian_dinar"
+            },
+            {
+              "text": "JOD",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC +03:00 ( AST )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "AST",
+              "href": "https://en.wikipedia.org/wiki/Arabia_Standard_Time"
+            }
+          ]
+        },
+        {
+          "label": "Calling code",
+          "value": "+962",
+          "links": [
+            {
+              "text": "+962",
+              "href": "https://en.wikipedia.org/wiki/Telephone_numbers_in_Jordan"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "JO",
+          "links": [
+            {
+              "text": "JO",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:JO"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".jo .الاردن",
+          "links": [
+            {
+              "text": ".jo",
+              "href": "https://en.wikipedia.org/wiki/.jo"
+            },
+            {
+              "text": ".الاردن",
+              "href": "https://en.wikipedia.org/wiki/.%D8%A7%D9%84%D8%A7%D8%B1%D8%AF%D9%86"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

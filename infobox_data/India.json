@@ -1,0 +1,581 @@
+{
+  "country": "India",
+  "infobox_title": "Republic of India Bhārat Gaṇarājya",
+  "data": [
+    {
+      "label": "Capital",
+      "value": "New Delhi 28°36′50″N 77°12′30″E ﻿ / ﻿ 28.61389°N 77.20833°E",
+      "links": [
+        {
+          "text": "New Delhi",
+          "href": "https://en.wikipedia.org/wiki/New_Delhi"
+        },
+        {
+          "text": "28°36′50″N77°12′30″E﻿ / ﻿28.61389°N 77.20833°E",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=India&params=28_36_50_N_77_12_30_E_type:city_region:IN-DL"
+        }
+      ]
+    },
+    {
+      "label": "Largest city by city proper population",
+      "value": "Mumbai",
+      "links": [
+        {
+          "text": "Mumbai",
+          "href": "https://en.wikipedia.org/wiki/Mumbai"
+        }
+      ]
+    },
+    {
+      "label": "Largest city by metropolitan area population",
+      "value": "Delhi",
+      "links": [
+        {
+          "text": "Delhi",
+          "href": "https://en.wikipedia.org/wiki/Delhi"
+        }
+      ]
+    },
+    {
+      "label": "Official languages",
+      "value": "Hindi English",
+      "links": [
+        {
+          "text": "Hindi",
+          "href": "https://en.wikipedia.org/wiki/Hindi"
+        },
+        {
+          "text": "English",
+          "href": "https://en.wikipedia.org/wiki/Indian_English"
+        }
+      ],
+      "sub_items": [
+        "Hindi",
+        "English"
+      ]
+    },
+    {
+      "label": "Recognised regional languages",
+      "value": "State level and Eighth Schedule Eighth Schedule Assamese Bengali Boro Dogri Gujarati Hindi Kannada Kashmiri Konkani Maithili Malayalam Manipuri Marathi Nepali Odia Punjabi Sanskrit Santali Sindhi Tamil Telugu Urdu State level Kokborok Lepcha Mizo Sikkimese all the 8th scheduled languages – except Sindhi , Kashmiri and Dogri",
+      "links": [
+        {
+          "text": "State level",
+          "href": "https://en.wikipedia.org/wiki/Languages_with_official_status_in_India#Official_languages_of_states"
+        },
+        {
+          "text": "Eighth Schedule",
+          "href": "https://en.wikipedia.org/wiki/Eighth_Schedule_to_the_Constitution_of_India"
+        },
+        {
+          "text": "Assamese",
+          "href": "https://en.wikipedia.org/wiki/Assamese_language"
+        },
+        {
+          "text": "Bengali",
+          "href": "https://en.wikipedia.org/wiki/Bengali_language"
+        },
+        {
+          "text": "Boro",
+          "href": "https://en.wikipedia.org/wiki/Boro_language_(India)"
+        },
+        {
+          "text": "Dogri",
+          "href": "https://en.wikipedia.org/wiki/Dogri_language"
+        },
+        {
+          "text": "Gujarati",
+          "href": "https://en.wikipedia.org/wiki/Gujarati_language"
+        },
+        {
+          "text": "Hindi",
+          "href": "https://en.wikipedia.org/wiki/Hindi"
+        },
+        {
+          "text": "Kannada",
+          "href": "https://en.wikipedia.org/wiki/Kannada"
+        },
+        {
+          "text": "Kashmiri",
+          "href": "https://en.wikipedia.org/wiki/Kashmiri_language"
+        },
+        {
+          "text": "Konkani",
+          "href": "https://en.wikipedia.org/wiki/Konkani_language"
+        },
+        {
+          "text": "Maithili",
+          "href": "https://en.wikipedia.org/wiki/Maithili_language"
+        },
+        {
+          "text": "Malayalam",
+          "href": "https://en.wikipedia.org/wiki/Malayalam"
+        },
+        {
+          "text": "Manipuri",
+          "href": "https://en.wikipedia.org/wiki/Meitei_language"
+        },
+        {
+          "text": "Marathi",
+          "href": "https://en.wikipedia.org/wiki/Marathi_language"
+        },
+        {
+          "text": "Nepali",
+          "href": "https://en.wikipedia.org/wiki/Nepali_language"
+        },
+        {
+          "text": "Odia",
+          "href": "https://en.wikipedia.org/wiki/Odia_language"
+        },
+        {
+          "text": "Punjabi",
+          "href": "https://en.wikipedia.org/wiki/Punjabi_language"
+        },
+        {
+          "text": "Sanskrit",
+          "href": "https://en.wikipedia.org/wiki/Sanskrit"
+        },
+        {
+          "text": "Santali",
+          "href": "https://en.wikipedia.org/wiki/Santali_language"
+        },
+        {
+          "text": "Sindhi",
+          "href": "https://en.wikipedia.org/wiki/Sindhi_language"
+        },
+        {
+          "text": "Tamil",
+          "href": "https://en.wikipedia.org/wiki/Tamil_language"
+        },
+        {
+          "text": "Telugu",
+          "href": "https://en.wikipedia.org/wiki/Telugu_language"
+        },
+        {
+          "text": "Urdu",
+          "href": "https://en.wikipedia.org/wiki/Urdu"
+        },
+        {
+          "text": "Kokborok",
+          "href": "https://en.wikipedia.org/wiki/Kokborok"
+        },
+        {
+          "text": "Lepcha",
+          "href": "https://en.wikipedia.org/wiki/Lepcha_language"
+        },
+        {
+          "text": "Mizo",
+          "href": "https://en.wikipedia.org/wiki/Mizo_language"
+        },
+        {
+          "text": "Sikkimese",
+          "href": "https://en.wikipedia.org/wiki/Sikkimese_language"
+        },
+        {
+          "text": "Sindhi",
+          "href": "https://en.wikipedia.org/wiki/Sindhi_language"
+        },
+        {
+          "text": "Kashmiri",
+          "href": "https://en.wikipedia.org/wiki/Kashmiri_language"
+        },
+        {
+          "text": "Dogri",
+          "href": "https://en.wikipedia.org/wiki/Dogri_language"
+        }
+      ],
+      "sub_items": [
+        "Eighth Schedule Assamese Bengali Boro Dogri Gujarati Hindi Kannada Kashmiri Konkani Maithili Malayalam Manipuri Marathi Nepali Odia Punjabi Sanskrit Santali Sindhi Tamil Telugu Urdu",
+        "Assamese",
+        "Bengali",
+        "Boro",
+        "Dogri",
+        "Gujarati",
+        "Hindi",
+        "Kannada",
+        "Kashmiri",
+        "Konkani",
+        "Maithili",
+        "Malayalam",
+        "Manipuri",
+        "Marathi",
+        "Nepali",
+        "Odia",
+        "Punjabi",
+        "Sanskrit",
+        "Santali",
+        "Sindhi",
+        "Tamil",
+        "Telugu",
+        "Urdu",
+        "State level Kokborok Lepcha Mizo Sikkimese all the 8th scheduled languages – except Sindhi , Kashmiri and Dogri",
+        "Kokborok",
+        "Lepcha",
+        "Mizo",
+        "Sikkimese",
+        "all the 8th scheduled languages – except Sindhi , Kashmiri and Dogri"
+      ]
+    },
+    {
+      "label": "Native languages",
+      "value": "424 languages",
+      "links": [
+        {
+          "text": "424 languages",
+          "href": "https://en.wikipedia.org/wiki/List_of_languages_by_number_of_native_speakers_in_India"
+        }
+      ]
+    },
+    {
+      "label": "Religion (2011)",
+      "value": "79.8% Hinduism 14.2% Islam 2.3% Christianity 1.7% Sikhism 0.7% Buddhism 0.4% Jainism 0.23% unaffiliated 0.65% other",
+      "links": [
+        {
+          "text": "Hinduism",
+          "href": "https://en.wikipedia.org/wiki/Hinduism_in_India"
+        },
+        {
+          "text": "Islam",
+          "href": "https://en.wikipedia.org/wiki/Islam_in_India"
+        },
+        {
+          "text": "Christianity",
+          "href": "https://en.wikipedia.org/wiki/Christianity_in_India"
+        },
+        {
+          "text": "Sikhism",
+          "href": "https://en.wikipedia.org/wiki/Sikhism_in_India"
+        },
+        {
+          "text": "Buddhism",
+          "href": "https://en.wikipedia.org/wiki/History_of_Buddhism_in_India"
+        },
+        {
+          "text": "Jainism",
+          "href": "https://en.wikipedia.org/wiki/Jainism_in_India"
+        },
+        {
+          "text": "unaffiliated",
+          "href": "https://en.wikipedia.org/wiki/Irreligion_in_India"
+        },
+        {
+          "text": "other",
+          "href": "https://en.wikipedia.org/wiki/Religion_in_India"
+        }
+      ],
+      "sub_items": [
+        "79.8% Hinduism",
+        "14.2% Islam",
+        "2.3% Christianity",
+        "1.7% Sikhism",
+        "0.7% Buddhism",
+        "0.4% Jainism",
+        "0.23% unaffiliated",
+        "0.65% other"
+      ]
+    },
+    {
+      "label": "Demonyms",
+      "value": "Indian others",
+      "links": [
+        {
+          "text": "Indian",
+          "href": "https://en.wikipedia.org/wiki/Indian_people"
+        },
+        {
+          "text": "others",
+          "href": "https://en.wikipedia.org/wiki/Names_for_India"
+        }
+      ],
+      "sub_items": [
+        "Indian",
+        "others"
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Federal parliamentary republic",
+      "links": [
+        {
+          "text": "parliamentary republic",
+          "href": "https://en.wikipedia.org/wiki/Parliamentary_republic"
+        }
+      ]
+    },
+    {
+      "label": "• President",
+      "value": "Droupadi Murmu",
+      "links": [
+        {
+          "text": "Droupadi Murmu",
+          "href": "https://en.wikipedia.org/wiki/Droupadi_Murmu"
+        }
+      ]
+    },
+    {
+      "label": "• Vice President",
+      "value": "C. P. Radhakrishnan",
+      "links": [
+        {
+          "text": "C. P. Radhakrishnan",
+          "href": "https://en.wikipedia.org/wiki/C._P._Radhakrishnan"
+        }
+      ]
+    },
+    {
+      "label": "• Prime Minister",
+      "value": "Narendra Modi",
+      "links": [
+        {
+          "text": "Narendra Modi",
+          "href": "https://en.wikipedia.org/wiki/Narendra_Modi"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "Parliament",
+      "links": [
+        {
+          "text": "Parliament",
+          "href": "https://en.wikipedia.org/wiki/Parliament_of_India"
+        }
+      ]
+    },
+    {
+      "label": "• Upper house",
+      "value": "Rajya Sabha",
+      "links": [
+        {
+          "text": "Rajya Sabha",
+          "href": "https://en.wikipedia.org/wiki/Rajya_Sabha"
+        }
+      ]
+    },
+    {
+      "label": "• Lower house",
+      "value": "Lok Sabha",
+      "links": [
+        {
+          "text": "Lok Sabha",
+          "href": "https://en.wikipedia.org/wiki/Lok_Sabha"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Independence from the United Kingdom",
+      "rows": [
+        {
+          "label": "• Dominion",
+          "value": "15 August 1947",
+          "links": [
+            {
+              "text": "15 August 1947",
+              "href": "https://en.wikipedia.org/wiki/Independence_Day_(India)"
+            }
+          ]
+        },
+        {
+          "label": "• Republic",
+          "value": "26 January 1950",
+          "links": [
+            {
+              "text": "26 January 1950",
+              "href": "https://en.wikipedia.org/wiki/Republic_Day_(India)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "3,287,263 km (1,269,219 sq mi) ( 7th )",
+          "links": [
+            {
+              "text": "7th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "9.6"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2023 estimate",
+          "value": "1,428,627,663 ( 1st )",
+          "links": [
+            {
+              "text": "1st",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• 2011 census",
+          "value": "1,210,854,977 ( 2nd )",
+          "links": [
+            {
+              "text": "2nd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• Density",
+          "value": "433.6/km (1,123.0/sq mi) ( 30th )",
+          "links": [
+            {
+              "text": "30th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$17.647 trillion ( 3rd )",
+          "links": [
+            {
+              "text": "3rd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$12,132 ( 119th )",
+          "links": [
+            {
+              "text": "119th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$4.187 trillion ( 4th )",
+          "links": [
+            {
+              "text": "4th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$2,878 ( 136th )",
+          "links": [
+            {
+              "text": "136th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "Gini (2022)",
+          "value": "25.5 low inequality"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.685 medium ( 130th )",
+          "links": [
+            {
+              "text": "130th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "Indian rupee ( ₹ ) ( INR )",
+          "links": [
+            {
+              "text": "Indian rupee",
+              "href": "https://en.wikipedia.org/wiki/Indian_rupee"
+            },
+            {
+              "text": "₹",
+              "href": "https://en.wikipedia.org/wiki/%E2%82%B9"
+            },
+            {
+              "text": "INR",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC +05:30 ( IST )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "IST",
+              "href": "https://en.wikipedia.org/wiki/Indian_Standard_Time"
+            }
+          ]
+        },
+        {
+          "label": "Date format",
+          "value": "dd - mm - yyyy",
+          "sub_items": [
+            "dd - mm - yyyy"
+          ]
+        },
+        {
+          "label": "Calling code",
+          "value": "+91",
+          "links": [
+            {
+              "text": "+91",
+              "href": "https://en.wikipedia.org/wiki/Telephone_numbers_in_India"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "IN",
+          "links": [
+            {
+              "text": "IN",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:IN"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".in ( others )",
+          "links": [
+            {
+              "text": ".in",
+              "href": "https://en.wikipedia.org/wiki/.in"
+            },
+            {
+              "text": "others",
+              "href": "https://en.wikipedia.org/wiki/.in#Internationalised_domain_names_and_country_codes"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

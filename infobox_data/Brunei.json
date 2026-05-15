@@ -1,0 +1,409 @@
+{
+  "country": "Brunei",
+  "infobox_title": "Brunei Darussalam Negara Brunei Darussalam ( Malay ) نݢارا بروني دارالسلام ‎ ( Jawi )",
+  "data": [
+    {
+      "label": "Capital and largest city",
+      "value": "Bandar Seri Begawan 4°53.417′N 114°56.533′E ﻿ / ﻿ 4.890283°N 114.942217°E",
+      "links": [
+        {
+          "text": "Bandar Seri Begawan",
+          "href": "https://en.wikipedia.org/wiki/Bandar_Seri_Begawan"
+        },
+        {
+          "text": "4°53.417′N114°56.533′E﻿ / ﻿4.890283°N 114.942217°E",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Brunei&params=4_53.417_N_114_56.533_E_type:city(290,000)_region:BN-BM"
+        }
+      ]
+    },
+    {
+      "label": "Official language",
+      "value": "Malay",
+      "links": [
+        {
+          "text": "Malay",
+          "href": "https://en.wikipedia.org/wiki/Malay_language"
+        }
+      ]
+    },
+    {
+      "label": "Other languages and dialects",
+      "value": "Brunei Malay English Tutong Kedayan Belait Chinese ( Hokkien , Hakka Chinese , Standard Chinese and Cantonese ) Murut Dusun Brunei Bisaya",
+      "links": [
+        {
+          "text": "Brunei Malay",
+          "href": "https://en.wikipedia.org/wiki/Brunei_Malay"
+        },
+        {
+          "text": "English",
+          "href": "https://en.wikipedia.org/wiki/English_language"
+        },
+        {
+          "text": "Tutong",
+          "href": "https://en.wikipedia.org/wiki/Tutong_language"
+        },
+        {
+          "text": "Kedayan",
+          "href": "https://en.wikipedia.org/wiki/Kedayan"
+        },
+        {
+          "text": "Belait",
+          "href": "https://en.wikipedia.org/wiki/Belait_language"
+        },
+        {
+          "text": "Chinese",
+          "href": "https://en.wikipedia.org/wiki/Chinese_language"
+        },
+        {
+          "text": "Hokkien",
+          "href": "https://en.wikipedia.org/wiki/Hokkien"
+        },
+        {
+          "text": "Hakka Chinese",
+          "href": "https://en.wikipedia.org/wiki/Hakka_Chinese"
+        },
+        {
+          "text": "Standard Chinese",
+          "href": "https://en.wikipedia.org/wiki/Standard_Chinese"
+        },
+        {
+          "text": "Cantonese",
+          "href": "https://en.wikipedia.org/wiki/Cantonese"
+        },
+        {
+          "text": "Murut",
+          "href": "https://en.wikipedia.org/wiki/Lun_Bawang_language"
+        },
+        {
+          "text": "Dusun",
+          "href": "https://en.wikipedia.org/wiki/Dusun_language"
+        },
+        {
+          "text": "Brunei Bisaya",
+          "href": "https://en.wikipedia.org/wiki/Brunei_Bisaya_language"
+        }
+      ],
+      "sub_items": [
+        "Brunei Malay",
+        "English",
+        "Tutong",
+        "Kedayan",
+        "Belait",
+        "Chinese ( Hokkien , Hakka Chinese , Standard Chinese and Cantonese )",
+        "Murut",
+        "Dusun",
+        "Brunei Bisaya"
+      ]
+    },
+    {
+      "label": "Official scripts",
+      "value": "Malay alphabet (Rumi) Jawi alphabet",
+      "links": [
+        {
+          "text": "Malay alphabet (Rumi)",
+          "href": "https://en.wikipedia.org/wiki/Malay_alphabet"
+        },
+        {
+          "text": "Jawi alphabet",
+          "href": "https://en.wikipedia.org/wiki/Jawi_alphabet"
+        }
+      ],
+      "sub_items": [
+        "Malay alphabet (Rumi)",
+        "Jawi alphabet"
+      ]
+    },
+    {
+      "label": "Ethnic groups (2023)",
+      "value": "73.7% Malay 9.6% Chinese 16.6% others",
+      "links": [
+        {
+          "text": "Malay",
+          "href": "https://en.wikipedia.org/wiki/Bruneian_Malay_people"
+        },
+        {
+          "text": "Chinese",
+          "href": "https://en.wikipedia.org/wiki/Ethnic_Chinese_in_Brunei"
+        }
+      ],
+      "sub_items": [
+        "73.7% Malay",
+        "9.6% Chinese",
+        "16.6% others"
+      ]
+    },
+    {
+      "label": "Religion (2023)",
+      "value": "80.7% Sunni Islam ( official ) 10.7% Christianity 7.8% Buddhism 0.8% other (includes Indigenous beliefs )",
+      "links": [
+        {
+          "text": "Sunni Islam",
+          "href": "https://en.wikipedia.org/wiki/Sunni_Islam"
+        },
+        {
+          "text": "official",
+          "href": "https://en.wikipedia.org/wiki/State_religion"
+        },
+        {
+          "text": "Christianity",
+          "href": "https://en.wikipedia.org/wiki/Christianity_in_Brunei"
+        },
+        {
+          "text": "Buddhism",
+          "href": "https://en.wikipedia.org/wiki/Buddhism_in_Brunei"
+        },
+        {
+          "text": "Indigenous beliefs",
+          "href": "https://en.wikipedia.org/wiki/List_of_ethnic_religions#Asia"
+        }
+      ],
+      "sub_items": [
+        "80.7% Sunni Islam ( official )",
+        "10.7% Christianity",
+        "7.8% Buddhism",
+        "0.8% other (includes Indigenous beliefs )"
+      ]
+    },
+    {
+      "label": "Demonym",
+      "value": "Bruneian",
+      "links": [
+        {
+          "text": "Bruneian",
+          "href": "https://en.wikipedia.org/wiki/Bruneian_people"
+        }
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Unitary Islamic absolute monarchy",
+      "links": [
+        {
+          "text": "absolute monarchy",
+          "href": "https://en.wikipedia.org/wiki/Absolute_monarchy"
+        }
+      ]
+    },
+    {
+      "label": "• Sultan and Prime Minister",
+      "value": "Hassanal Bolkiah",
+      "links": [
+        {
+          "text": "Hassanal Bolkiah",
+          "href": "https://en.wikipedia.org/wiki/Hassanal_Bolkiah"
+        }
+      ]
+    },
+    {
+      "label": "• Crown Prince and Senior Minister",
+      "value": "Al-Muhtadee Billah",
+      "links": [
+        {
+          "text": "Al-Muhtadee Billah",
+          "href": "https://en.wikipedia.org/wiki/Al-Muhtadee_Billah"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "Legislative Council",
+      "links": [
+        {
+          "text": "Legislative Council",
+          "href": "https://en.wikipedia.org/wiki/Legislative_Council_of_Brunei"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Formation",
+      "rows": [
+        {
+          "label": "• Sultanate established",
+          "value": "c. 1363 or 1368"
+        },
+        {
+          "label": "• British protected state",
+          "value": "17 September 1888"
+        },
+        {
+          "label": "• Constitution adopted and self-governance",
+          "value": "29 September 1959"
+        },
+        {
+          "label": "• Brunei Revolt",
+          "value": "8 December 1962"
+        },
+        {
+          "label": "• Independence from United Kingdom",
+          "value": "1 January 1984"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "5,765 km (2,226 sq mi) ( 164th )",
+          "links": [
+            {
+              "text": "164th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "8.6"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2025 estimate",
+          "value": "466,227 ( 175th )",
+          "links": [
+            {
+              "text": "175th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• 2021 census",
+          "value": "440,715"
+        },
+        {
+          "label": "• Density",
+          "value": "72.11/km (186.8/sq mi) ( 134th )",
+          "links": [
+            {
+              "text": "134th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$43.830 billion ( 137th )",
+          "links": [
+            {
+              "text": "137th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$95,760 ( 7th )",
+          "links": [
+            {
+              "text": "7th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$16.01 billion ( 139th )",
+          "links": [
+            {
+              "text": "139th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$34,970 ( 31st )",
+          "links": [
+            {
+              "text": "31st",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.837 very high ( 60th )",
+          "links": [
+            {
+              "text": "60th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "Brunei dollar ( BND )",
+          "links": [
+            {
+              "text": "Brunei dollar",
+              "href": "https://en.wikipedia.org/wiki/Brunei_dollar"
+            },
+            {
+              "text": "BND",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC +8 ( Brunei Standard Time )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "Brunei Standard Time",
+              "href": "https://en.wikipedia.org/wiki/Time_in_Brunei"
+            }
+          ]
+        },
+        {
+          "label": "Calling code",
+          "value": "+673",
+          "links": [
+            {
+              "text": "+673",
+              "href": "https://en.wikipedia.org/wiki/%2B673"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "BN",
+          "links": [
+            {
+              "text": "BN",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:BN"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".bn",
+          "links": [
+            {
+              "text": ".bn",
+              "href": "https://en.wikipedia.org/wiki/.bn"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,300 @@
+{
+  "country": "Tuvalu",
+  "infobox_title": "Tuvalu",
+  "data": [
+    {
+      "label": "Capital and largest city",
+      "value": "Funafuti 8°31′S 179°12′E ﻿ / ﻿ 8.517°S 179.200°E",
+      "links": [
+        {
+          "text": "Funafuti",
+          "href": "https://en.wikipedia.org/wiki/Funafuti"
+        },
+        {
+          "text": "8°31′S179°12′E﻿ / ﻿8.517°S 179.200°E",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Tuvalu&params=8_31_S_179_12_E_type:city"
+        }
+      ]
+    },
+    {
+      "label": "Official languages",
+      "value": "Tuvaluan English",
+      "links": [
+        {
+          "text": "Tuvaluan",
+          "href": "https://en.wikipedia.org/wiki/Tuvaluan_language"
+        },
+        {
+          "text": "English",
+          "href": "https://en.wikipedia.org/wiki/English_language"
+        }
+      ],
+      "sub_items": [
+        "Tuvaluan",
+        "English"
+      ]
+    },
+    {
+      "label": "Ethnic groups (2022)",
+      "value": "96% Tuvaluans 4% others",
+      "links": [
+        {
+          "text": "Tuvaluans",
+          "href": "https://en.wikipedia.org/wiki/Demographics_of_Tuvalu"
+        }
+      ],
+      "sub_items": [
+        "96% Tuvaluans",
+        "4% others"
+      ]
+    },
+    {
+      "label": "Religion (2022)",
+      "value": "96% Christianity 86% Calvinism ( official ) 10% other Christian 3% Other religions or not stated 1% Baháʼí Faith",
+      "links": [
+        {
+          "text": "Christianity",
+          "href": "https://en.wikipedia.org/wiki/Christianity"
+        },
+        {
+          "text": "Calvinism",
+          "href": "https://en.wikipedia.org/wiki/Church_of_Tuvalu"
+        },
+        {
+          "text": "official",
+          "href": "https://en.wikipedia.org/wiki/State_religion"
+        },
+        {
+          "text": "Christian",
+          "href": "https://en.wikipedia.org/wiki/List_of_Christian_denominations"
+        },
+        {
+          "text": "Baháʼí Faith",
+          "href": "https://en.wikipedia.org/wiki/Bah%C3%A1%CA%BC%C3%AD_Faith"
+        }
+      ],
+      "sub_items": [
+        "96% Christianity 86% Calvinism ( official ) 10% other Christian",
+        "86% Calvinism ( official )",
+        "10% other Christian",
+        "3% Other religions or not stated",
+        "1% Baháʼí Faith"
+      ]
+    },
+    {
+      "label": "Demonym",
+      "value": "Tuvaluan",
+      "links": [
+        {
+          "text": "Tuvaluan",
+          "href": "https://en.wikipedia.org/wiki/Tuvaluan_people"
+        }
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Unitary parliamentary constitutional monarchy",
+      "links": [
+        {
+          "text": "parliamentary constitutional monarchy",
+          "href": "https://en.wikipedia.org/wiki/Parliamentary_constitutional_monarchy"
+        }
+      ]
+    },
+    {
+      "label": "• Monarch",
+      "value": "Charles III",
+      "links": [
+        {
+          "text": "Charles III",
+          "href": "https://en.wikipedia.org/wiki/Charles_III"
+        }
+      ]
+    },
+    {
+      "label": "• Governor-General",
+      "value": "Tofiga Vaevalu Falani",
+      "links": [
+        {
+          "text": "Tofiga Vaevalu Falani",
+          "href": "https://en.wikipedia.org/wiki/Tofiga_Vaevalu_Falani"
+        }
+      ]
+    },
+    {
+      "label": "• Prime Minister",
+      "value": "Feleti Teo",
+      "links": [
+        {
+          "text": "Feleti Teo",
+          "href": "https://en.wikipedia.org/wiki/Feleti_Teo"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "Parliament",
+      "links": [
+        {
+          "text": "Parliament",
+          "href": "https://en.wikipedia.org/wiki/Parliament_of_Tuvalu"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Independence",
+      "rows": [
+        {
+          "label": "• from the United Kingdom",
+          "value": "1 October 1978"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "26.26 km (10.14 sq mi) ( 192nd )",
+          "links": [
+            {
+              "text": "192nd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "Negligible"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2022 census",
+          "value": "10,643 ( 194th )",
+          "links": [
+            {
+              "text": "194th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• Density",
+          "value": "423/km (1,095.6/sq mi) ( 41st )",
+          "links": [
+            {
+              "text": "41st",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2023 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$68.603 million"
+        },
+        {
+          "label": "• Per capita",
+          "value": "$6,076"
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2023 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$63 million"
+        },
+        {
+          "label": "• Per capita",
+          "value": "$6,113"
+        },
+        {
+          "label": "Gini (2022)",
+          "value": "39 medium inequality"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.689 medium ( 129th )",
+          "links": [
+            {
+              "text": "129th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "Tuvaluan dollar Australian dollar ( AUD )",
+          "links": [
+            {
+              "text": "Tuvaluan dollar",
+              "href": "https://en.wikipedia.org/wiki/Tuvaluan_dollar"
+            },
+            {
+              "text": "Australian dollar",
+              "href": "https://en.wikipedia.org/wiki/Australian_dollar"
+            },
+            {
+              "text": "AUD",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ],
+          "sub_items": [
+            "Tuvaluan dollar",
+            "Australian dollar"
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC +12",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            }
+          ]
+        },
+        {
+          "label": "Calling code",
+          "value": "+688",
+          "links": [
+            {
+              "text": "+688",
+              "href": "https://en.wikipedia.org/wiki/%2B688"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "TV",
+          "links": [
+            {
+              "text": "TV",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:TV"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".tv",
+          "links": [
+            {
+              "text": ".tv",
+              "href": "https://en.wikipedia.org/wiki/.tv"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

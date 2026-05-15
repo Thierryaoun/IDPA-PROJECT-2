@@ -1,0 +1,1457 @@
+{
+  "source": "Zimbabwe",
+  "target": "Zambia",
+  "similarity": {
+    "structural": 77.92,
+    "content": 62.47,
+    "overall": 41.01
+  },
+  "tree_edit_distance": 150.4322,
+  "edit_script": [
+    {
+      "op": "Insert",
+      "node2": "zambia",
+      "type": "content",
+      "path": "country.name"
+    },
+    {
+      "op": "Insert",
+      "node2": "name",
+      "type": "structural",
+      "path": "country.name"
+    },
+    {
+      "op": "Insert",
+      "node2": "republic of zambia",
+      "type": "content",
+      "path": "country.infobox_title"
+    },
+    {
+      "op": "Insert",
+      "node2": "infobox_title",
+      "type": "structural",
+      "path": "country.infobox_title"
+    },
+    {
+      "op": "Insert",
+      "node2": "lusaka / 15",
+      "type": "content",
+      "path": "country.capital_and_largest_city"
+    },
+    {
+      "op": "Insert",
+      "node2": "capital_and_largest_city",
+      "type": "structural",
+      "path": "country.capital_and_largest_city"
+    },
+    {
+      "op": "Insert",
+      "node2": "english",
+      "type": "content",
+      "path": "country.official_languages"
+    },
+    {
+      "op": "Insert",
+      "node2": "official_languages",
+      "type": "structural",
+      "path": "country.official_languages"
+    },
+    {
+      "op": "Insert",
+      "node2": "% bemba",
+      "type": "content",
+      "path": "country.recognised_regional_languages"
+    },
+    {
+      "op": "Insert",
+      "node2": "% nyanja",
+      "type": "content",
+      "path": "country.recognised_regional_languages"
+    },
+    {
+      "op": "Insert",
+      "node2": "% tonga",
+      "type": "content",
+      "path": "country.recognised_regional_languages"
+    },
+    {
+      "op": "Insert",
+      "node2": "% tumbuka",
+      "type": "content",
+      "path": "country.recognised_regional_languages"
+    },
+    {
+      "op": "Insert",
+      "node2": "% lozi",
+      "type": "content",
+      "path": "country.recognised_regional_languages"
+    },
+    {
+      "op": "Insert",
+      "node2": "% chewa",
+      "type": "content",
+      "path": "country.recognised_regional_languages"
+    },
+    {
+      "op": "Insert",
+      "node2": "% nsenga",
+      "type": "content",
+      "path": "country.recognised_regional_languages"
+    },
+    {
+      "op": "Insert",
+      "node2": "% lunda",
+      "type": "content",
+      "path": "country.recognised_regional_languages"
+    },
+    {
+      "op": "Insert",
+      "node2": "% kaonde",
+      "type": "content",
+      "path": "country.recognised_regional_languages"
+    },
+    {
+      "op": "Insert",
+      "node2": "% lala",
+      "type": "content",
+      "path": "country.recognised_regional_languages"
+    },
+    {
+      "op": "Insert",
+      "node2": "% lamba",
+      "type": "content",
+      "path": "country.recognised_regional_languages"
+    },
+    {
+      "op": "Insert",
+      "node2": "% english",
+      "type": "content",
+      "path": "country.recognised_regional_languages"
+    },
+    {
+      "op": "Insert",
+      "node2": "% luvale",
+      "type": "content",
+      "path": "country.recognised_regional_languages"
+    },
+    {
+      "op": "Insert",
+      "node2": "% mambwe",
+      "type": "content",
+      "path": "country.recognised_regional_languages"
+    },
+    {
+      "op": "Insert",
+      "node2": "% lenje",
+      "type": "content",
+      "path": "country.recognised_regional_languages"
+    },
+    {
+      "op": "Insert",
+      "node2": "% namwanga",
+      "type": "content",
+      "path": "country.recognised_regional_languages"
+    },
+    {
+      "op": "Insert",
+      "node2": "% bisa",
+      "type": "content",
+      "path": "country.recognised_regional_languages"
+    },
+    {
+      "op": "Insert",
+      "node2": "% ushi",
+      "type": "content",
+      "path": "country.recognised_regional_languages"
+    },
+    {
+      "op": "Insert",
+      "node2": "% ila",
+      "type": "content",
+      "path": "country.recognised_regional_languages"
+    },
+    {
+      "op": "Insert",
+      "node2": "% mbunda",
+      "type": "content",
+      "path": "country.recognised_regional_languages"
+    },
+    {
+      "op": "Insert",
+      "node2": "% ngoni",
+      "type": "content",
+      "path": "country.recognised_regional_languages"
+    },
+    {
+      "op": "Insert",
+      "node2": "% senga",
+      "type": "content",
+      "path": "country.recognised_regional_languages"
+    },
+    {
+      "op": "Insert",
+      "node2": "% lungu",
+      "type": "content",
+      "path": "country.recognised_regional_languages"
+    },
+    {
+      "op": "Insert",
+      "node2": "% toka-leya",
+      "type": "content",
+      "path": "country.recognised_regional_languages"
+    },
+    {
+      "op": "Insert",
+      "node2": "% others",
+      "type": "content",
+      "path": "country.recognised_regional_languages"
+    },
+    {
+      "op": "Insert",
+      "node2": "recognised_regional_languages",
+      "type": "structural",
+      "path": "country.recognised_regional_languages"
+    },
+    {
+      "op": "Insert",
+      "node2": "% bemba",
+      "type": "content",
+      "path": "country.ethnic_groups_2010"
+    },
+    {
+      "op": "Insert",
+      "node2": "% tonga",
+      "type": "content",
+      "path": "country.ethnic_groups_2010"
+    },
+    {
+      "op": "Insert",
+      "node2": "% tumbuka",
+      "type": "content",
+      "path": "country.ethnic_groups_2010"
+    },
+    {
+      "op": "Insert",
+      "node2": "% chewa",
+      "type": "content",
+      "path": "country.ethnic_groups_2010"
+    },
+    {
+      "op": "Insert",
+      "node2": "% lozi",
+      "type": "content",
+      "path": "country.ethnic_groups_2010"
+    },
+    {
+      "op": "Insert",
+      "node2": "% nsenga",
+      "type": "content",
+      "path": "country.ethnic_groups_2010"
+    },
+    {
+      "op": "Insert",
+      "node2": "% ngoni",
+      "type": "content",
+      "path": "country.ethnic_groups_2010"
+    },
+    {
+      "op": "Insert",
+      "node2": "% lala",
+      "type": "content",
+      "path": "country.ethnic_groups_2010"
+    },
+    {
+      "op": "Insert",
+      "node2": "% kaonde",
+      "type": "content",
+      "path": "country.ethnic_groups_2010"
+    },
+    {
+      "op": "Insert",
+      "node2": "% namwanga",
+      "type": "content",
+      "path": "country.ethnic_groups_2010"
+    },
+    {
+      "op": "Insert",
+      "node2": "% lunda",
+      "type": "content",
+      "path": "country.ethnic_groups_2010"
+    },
+    {
+      "op": "Insert",
+      "node2": "% mambwe",
+      "type": "content",
+      "path": "country.ethnic_groups_2010"
+    },
+    {
+      "op": "Insert",
+      "node2": "% luvale",
+      "type": "content",
+      "path": "country.ethnic_groups_2010"
+    },
+    {
+      "op": "Insert",
+      "node2": "% lamba",
+      "type": "content",
+      "path": "country.ethnic_groups_2010"
+    },
+    {
+      "op": "Insert",
+      "node2": "% ushi",
+      "type": "content",
+      "path": "country.ethnic_groups_2010"
+    },
+    {
+      "op": "Insert",
+      "node2": "% bisa",
+      "type": "content",
+      "path": "country.ethnic_groups_2010"
+    },
+    {
+      "op": "Insert",
+      "node2": "% lenje",
+      "type": "content",
+      "path": "country.ethnic_groups_2010"
+    },
+    {
+      "op": "Insert",
+      "node2": "% mbunda",
+      "type": "content",
+      "path": "country.ethnic_groups_2010"
+    },
+    {
+      "op": "Insert",
+      "node2": "% lunda",
+      "type": "content",
+      "path": "country.ethnic_groups_2010"
+    },
+    {
+      "op": "Insert",
+      "node2": "% senga",
+      "type": "content",
+      "path": "country.ethnic_groups_2010"
+    },
+    {
+      "op": "Insert",
+      "node2": "% ila",
+      "type": "content",
+      "path": "country.ethnic_groups_2010"
+    },
+    {
+      "op": "Insert",
+      "node2": "% lungu",
+      "type": "content",
+      "path": "country.ethnic_groups_2010"
+    },
+    {
+      "op": "Insert",
+      "node2": "% tabwa",
+      "type": "content",
+      "path": "country.ethnic_groups_2010"
+    },
+    {
+      "op": "Insert",
+      "node2": "% soli",
+      "type": "content",
+      "path": "country.ethnic_groups_2010"
+    },
+    {
+      "op": "Insert",
+      "node2": "% kunda",
+      "type": "content",
+      "path": "country.ethnic_groups_2010"
+    },
+    {
+      "op": "Insert",
+      "node2": "% ngumbo",
+      "type": "content",
+      "path": "country.ethnic_groups_2010"
+    },
+    {
+      "op": "Insert",
+      "node2": "% chishinga",
+      "type": "content",
+      "path": "country.ethnic_groups_2010"
+    },
+    {
+      "op": "Insert",
+      "node2": "% chokwe",
+      "type": "content",
+      "path": "country.ethnic_groups_2010"
+    },
+    {
+      "op": "Insert",
+      "node2": "% nkoya",
+      "type": "content",
+      "path": "country.ethnic_groups_2010"
+    },
+    {
+      "op": "Insert",
+      "node2": "% other ethnics",
+      "type": "content",
+      "path": "country.ethnic_groups_2010"
+    },
+    {
+      "op": "Insert",
+      "node2": "% major racial",
+      "type": "content",
+      "path": "country.ethnic_groups_2010"
+    },
+    {
+      "op": "Insert",
+      "node2": "% unclassified",
+      "type": "content",
+      "path": "country.ethnic_groups_2010"
+    },
+    {
+      "op": "Insert",
+      "node2": "ethnic_groups_2010",
+      "type": "structural",
+      "path": "country.ethnic_groups_2010"
+    },
+    {
+      "op": "Insert",
+      "node2": "% christianity",
+      "type": "content",
+      "path": "country.religion_2023"
+    },
+    {
+      "op": "Insert",
+      "node2": "% islam",
+      "type": "content",
+      "path": "country.religion_2023"
+    },
+    {
+      "op": "Insert",
+      "node2": "% other / none",
+      "type": "content",
+      "path": "country.religion_2023"
+    },
+    {
+      "op": "Insert",
+      "node2": "religion_2023",
+      "type": "structural",
+      "path": "country.religion_2023"
+    },
+    {
+      "op": "Insert",
+      "node2": "zambian",
+      "type": "content",
+      "path": "country.demonym"
+    },
+    {
+      "op": "Insert",
+      "node2": "demonym",
+      "type": "structural",
+      "path": "country.demonym"
+    },
+    {
+      "op": "Insert",
+      "node2": "unitary presidential republic",
+      "type": "content",
+      "path": "country.government"
+    },
+    {
+      "op": "Insert",
+      "node2": "government",
+      "type": "structural",
+      "path": "country.government"
+    },
+    {
+      "op": "Insert",
+      "node2": "hakainde hichilema",
+      "type": "content",
+      "path": "country.president"
+    },
+    {
+      "op": "Insert",
+      "node2": "president",
+      "type": "structural",
+      "path": "country.president"
+    },
+    {
+      "op": "Insert",
+      "node2": "mutale nalumango",
+      "type": "content",
+      "path": "country.vice_president"
+    },
+    {
+      "op": "Insert",
+      "node2": "vice_president",
+      "type": "structural",
+      "path": "country.vice_president"
+    },
+    {
+      "op": "Insert",
+      "node2": "nelly mutti",
+      "type": "content",
+      "path": "country.speaker"
+    },
+    {
+      "op": "Insert",
+      "node2": "speaker",
+      "type": "structural",
+      "path": "country.speaker"
+    },
+    {
+      "op": "Insert",
+      "node2": "mumba malila",
+      "type": "content",
+      "path": "country.chief_justice"
+    },
+    {
+      "op": "Insert",
+      "node2": "chief_justice",
+      "type": "structural",
+      "path": "country.chief_justice"
+    },
+    {
+      "op": "Insert",
+      "node2": "national assembly of zambia",
+      "type": "content",
+      "path": "country.legislature"
+    },
+    {
+      "op": "Insert",
+      "node2": "legislature",
+      "type": "structural",
+      "path": "country.legislature"
+    },
+    {
+      "op": "Insert",
+      "node2": "24 october 1964",
+      "type": "content",
+      "path": "country.independence_from_the_united_kingdom.declared"
+    },
+    {
+      "op": "Insert",
+      "node2": "declared",
+      "type": "structural",
+      "path": "country.independence_from_the_united_kingdom.declared"
+    },
+    {
+      "op": "Insert",
+      "node2": "independence_from_the_united_kingdom",
+      "type": "structural",
+      "path": "country.independence_from_the_united_kingdom"
+    },
+    {
+      "op": "Insert",
+      "node2": "752,617 km (290,587 sq mi",
+      "type": "content",
+      "path": "country.area.total"
+    },
+    {
+      "op": "Insert",
+      "node2": "total",
+      "type": "structural",
+      "path": "country.area.total"
+    },
+    {
+      "op": "Insert",
+      "node2": "1",
+      "type": "content",
+      "path": "country.area.water"
+    },
+    {
+      "op": "Insert",
+      "node2": "water",
+      "type": "structural",
+      "path": "country.area.water"
+    },
+    {
+      "op": "Insert",
+      "node2": "area",
+      "type": "structural",
+      "path": "country.area"
+    },
+    {
+      "op": "Insert",
+      "node2": "20,216,029",
+      "type": "content",
+      "path": "country.population.2023_estimate"
+    },
+    {
+      "op": "Insert",
+      "node2": "2023_estimate",
+      "type": "structural",
+      "path": "country.population.2023_estimate"
+    },
+    {
+      "op": "Insert",
+      "node2": "km (/sq mi",
+      "type": "content",
+      "path": "country.population.density"
+    },
+    {
+      "op": "Insert",
+      "node2": "density",
+      "type": "structural",
+      "path": "country.population.density"
+    },
+    {
+      "op": "Insert",
+      "node2": "2023 estimate",
+      "type": "content",
+      "path": "country.population.gdp_ppp"
+    },
+    {
+      "op": "Insert",
+      "node2": "gdp_ppp",
+      "type": "structural",
+      "path": "country.population.gdp_ppp"
+    },
+    {
+      "op": "Insert",
+      "node2": "$billion",
+      "type": "content",
+      "path": "country.population.total"
+    },
+    {
+      "op": "Insert",
+      "node2": "total",
+      "type": "structural",
+      "path": "country.population.total"
+    },
+    {
+      "op": "Insert",
+      "node2": "$4,068",
+      "type": "content",
+      "path": "country.population.per_capita"
+    },
+    {
+      "op": "Insert",
+      "node2": "per_capita",
+      "type": "structural",
+      "path": "country.population.per_capita"
+    },
+    {
+      "op": "Insert",
+      "node2": "2023 estimate",
+      "type": "content",
+      "path": "country.population.gdp_nominal"
+    },
+    {
+      "op": "Insert",
+      "node2": "gdp_nominal",
+      "type": "structural",
+      "path": "country.population.gdp_nominal"
+    },
+    {
+      "op": "Insert",
+      "node2": "$billion",
+      "type": "content",
+      "path": "country.population.total"
+    },
+    {
+      "op": "Insert",
+      "node2": "total",
+      "type": "structural",
+      "path": "country.population.total"
+    },
+    {
+      "op": "Insert",
+      "node2": "$1,435",
+      "type": "content",
+      "path": "country.population.per_capita"
+    },
+    {
+      "op": "Insert",
+      "node2": "per_capita",
+      "type": "structural",
+      "path": "country.population.per_capita"
+    },
+    {
+      "op": "Insert",
+      "node2": "high inequality",
+      "type": "content",
+      "path": "country.population.gini_2022"
+    },
+    {
+      "op": "Delete",
+      "node1": "zimbabwe",
+      "type": "content",
+      "path": "country.name"
+    },
+    {
+      "op": "Delete",
+      "node1": "name",
+      "type": "structural",
+      "path": "country.name"
+    },
+    {
+      "op": "Delete",
+      "node1": "republic of zimbabwe name in national languages shona : nyika yezimbabwe ndebele : ilizwe lasezimbabwe chewa : dziko la zimbabwe tswana : lefatshe la zimbabwe xitsonga : tiko ra zimbabwe venda : riphabuḽiki ya zimbabwe xhosa : iriphabhulikhi yasezimbabwe sotho : rephabliki ea zimbabwe ndau : nyika yezimbabwe",
+      "type": "content",
+      "path": "country.infobox_title"
+    },
+    {
+      "op": "Delete",
+      "node1": "infobox_title",
+      "type": "structural",
+      "path": "country.infobox_title"
+    },
+    {
+      "op": "Delete",
+      "node1": "nyika yezimbabwe",
+      "type": "content",
+      "path": "country.shona"
+    },
+    {
+      "op": "Delete",
+      "node1": "shona",
+      "type": "structural",
+      "path": "country.shona"
+    },
+    {
+      "op": "Delete",
+      "node1": "nyika yezimbabwe",
+      "type": "content",
+      "path": "country.shona"
+    },
+    {
+      "op": "Delete",
+      "node1": "shona",
+      "type": "structural",
+      "path": "country.shona"
+    },
+    {
+      "op": "Delete",
+      "node1": "ilizwe lasezimbabwe",
+      "type": "content",
+      "path": "country.ndebele"
+    },
+    {
+      "op": "Delete",
+      "node1": "ndebele",
+      "type": "structural",
+      "path": "country.ndebele"
+    },
+    {
+      "op": "Delete",
+      "node1": "dziko la zimbabwe",
+      "type": "content",
+      "path": "country.chewa"
+    },
+    {
+      "op": "Delete",
+      "node1": "chewa",
+      "type": "structural",
+      "path": "country.chewa"
+    },
+    {
+      "op": "Delete",
+      "node1": "lefatshe la zimbabwe",
+      "type": "content",
+      "path": "country.tswana"
+    },
+    {
+      "op": "Delete",
+      "node1": "tswana",
+      "type": "structural",
+      "path": "country.tswana"
+    },
+    {
+      "op": "Delete",
+      "node1": "tiko ra zimbabwe",
+      "type": "content",
+      "path": "country.xitsonga"
+    },
+    {
+      "op": "Delete",
+      "node1": "xitsonga",
+      "type": "structural",
+      "path": "country.xitsonga"
+    },
+    {
+      "op": "Delete",
+      "node1": "riphabuḽiki ya zimbabwe",
+      "type": "content",
+      "path": "country.venda"
+    },
+    {
+      "op": "Delete",
+      "node1": "venda",
+      "type": "structural",
+      "path": "country.venda"
+    },
+    {
+      "op": "Delete",
+      "node1": "iriphabhulikhi yasezimbabwe",
+      "type": "content",
+      "path": "country.xhosa"
+    },
+    {
+      "op": "Delete",
+      "node1": "xhosa",
+      "type": "structural",
+      "path": "country.xhosa"
+    },
+    {
+      "op": "Delete",
+      "node1": "rephabliki ea zimbabwe",
+      "type": "content",
+      "path": "country.sotho"
+    },
+    {
+      "op": "Delete",
+      "node1": "sotho",
+      "type": "structural",
+      "path": "country.sotho"
+    },
+    {
+      "op": "Delete",
+      "node1": "nyika yezimbabwe",
+      "type": "content",
+      "path": "country.ndau"
+    },
+    {
+      "op": "Delete",
+      "node1": "ndau",
+      "type": "structural",
+      "path": "country.ndau"
+    },
+    {
+      "op": "Delete",
+      "node1": "harare / 17",
+      "type": "content",
+      "path": "country.capital_and_largest_city"
+    },
+    {
+      "op": "Delete",
+      "node1": "capital_and_largest_city",
+      "type": "structural",
+      "path": "country.capital_and_largest_city"
+    },
+    {
+      "op": "Delete",
+      "node1": "chewa",
+      "type": "content",
+      "path": "country.official_languages"
+    },
+    {
+      "op": "Delete",
+      "node1": "chibarwe",
+      "type": "content",
+      "path": "country.official_languages"
+    },
+    {
+      "op": "Delete",
+      "node1": "english",
+      "type": "content",
+      "path": "country.official_languages"
+    },
+    {
+      "op": "Delete",
+      "node1": "kalanga",
+      "type": "content",
+      "path": "country.official_languages"
+    },
+    {
+      "op": "Delete",
+      "node1": "khoisan",
+      "type": "content",
+      "path": "country.official_languages"
+    },
+    {
+      "op": "Delete",
+      "node1": "nambya",
+      "type": "content",
+      "path": "country.official_languages"
+    },
+    {
+      "op": "Delete",
+      "node1": "ndau",
+      "type": "content",
+      "path": "country.official_languages"
+    },
+    {
+      "op": "Delete",
+      "node1": "ndebele",
+      "type": "content",
+      "path": "country.official_languages"
+    },
+    {
+      "op": "Delete",
+      "node1": "shangani",
+      "type": "content",
+      "path": "country.official_languages"
+    },
+    {
+      "op": "Delete",
+      "node1": "shona",
+      "type": "content",
+      "path": "country.official_languages"
+    },
+    {
+      "op": "Delete",
+      "node1": "sotho",
+      "type": "content",
+      "path": "country.official_languages"
+    },
+    {
+      "op": "Delete",
+      "node1": "tonga",
+      "type": "content",
+      "path": "country.official_languages"
+    },
+    {
+      "op": "Delete",
+      "node1": "tswana",
+      "type": "content",
+      "path": "country.official_languages"
+    },
+    {
+      "op": "Delete",
+      "node1": "venda",
+      "type": "content",
+      "path": "country.official_languages"
+    },
+    {
+      "op": "Delete",
+      "node1": "xhosa",
+      "type": "content",
+      "path": "country.official_languages"
+    },
+    {
+      "op": "Delete",
+      "node1": "zimbabwean sign language",
+      "type": "content",
+      "path": "country.official_languages"
+    },
+    {
+      "op": "Delete",
+      "node1": "official_languages",
+      "type": "structural",
+      "path": "country.official_languages"
+    },
+    {
+      "op": "Delete",
+      "node1": "% black african",
+      "type": "content",
+      "path": "country.ethnic_groups_2022_census"
+    },
+    {
+      "op": "Delete",
+      "node1": "% european",
+      "type": "content",
+      "path": "country.ethnic_groups_2022_census"
+    },
+    {
+      "op": "Delete",
+      "node1": "% coloured",
+      "type": "content",
+      "path": "country.ethnic_groups_2022_census"
+    },
+    {
+      "op": "Delete",
+      "node1": "% other",
+      "type": "content",
+      "path": "country.ethnic_groups_2022_census"
+    },
+    {
+      "op": "Delete",
+      "node1": "ethnic_groups_2022_census",
+      "type": "structural",
+      "path": "country.ethnic_groups_2022_census"
+    },
+    {
+      "op": "Delete",
+      "node1": "% christianity % protestantism % other christian",
+      "type": "content",
+      "path": "country.religion_2017"
+    },
+    {
+      "op": "Delete",
+      "node1": "% christianity % protestantism % other christian",
+      "type": "content",
+      "path": "country.religion_2017"
+    },
+    {
+      "op": "Delete",
+      "node1": "% protestantism",
+      "type": "content",
+      "path": "country.religion_2017"
+    },
+    {
+      "op": "Delete",
+      "node1": "% other christian",
+      "type": "content",
+      "path": "country.religion_2017"
+    },
+    {
+      "op": "Delete",
+      "node1": "% no religion",
+      "type": "content",
+      "path": "country.religion_2017"
+    },
+    {
+      "op": "Delete",
+      "node1": "% traditional faiths",
+      "type": "content",
+      "path": "country.religion_2017"
+    },
+    {
+      "op": "Delete",
+      "node1": "% others",
+      "type": "content",
+      "path": "country.religion_2017"
+    },
+    {
+      "op": "Delete",
+      "node1": "religion_2017",
+      "type": "structural",
+      "path": "country.religion_2017"
+    },
+    {
+      "op": "Delete",
+      "node1": "zimbabwean",
+      "type": "content",
+      "path": "country.demonyms"
+    },
+    {
+      "op": "Delete",
+      "node1": "zimbo",
+      "type": "content",
+      "path": "country.demonyms"
+    },
+    {
+      "op": "Delete",
+      "node1": "demonyms",
+      "type": "structural",
+      "path": "country.demonyms"
+    },
+    {
+      "op": "Delete",
+      "node1": "unitary presidential republic",
+      "type": "content",
+      "path": "country.government"
+    },
+    {
+      "op": "Delete",
+      "node1": "government",
+      "type": "structural",
+      "path": "country.government"
+    },
+    {
+      "op": "Delete",
+      "node1": "emmerson mnangagwa",
+      "type": "content",
+      "path": "country.president"
+    },
+    {
+      "op": "Delete",
+      "node1": "president",
+      "type": "structural",
+      "path": "country.president"
+    },
+    {
+      "op": "Delete",
+      "node1": "constantino chiwenga",
+      "type": "content",
+      "path": "country.first_vice_president"
+    },
+    {
+      "op": "Delete",
+      "node1": "first_vice_president",
+      "type": "structural",
+      "path": "country.first_vice_president"
+    },
+    {
+      "op": "Delete",
+      "node1": "kembo mohadi",
+      "type": "content",
+      "path": "country.second_vice_president"
+    },
+    {
+      "op": "Delete",
+      "node1": "second_vice_president",
+      "type": "structural",
+      "path": "country.second_vice_president"
+    },
+    {
+      "op": "Delete",
+      "node1": "parliament",
+      "type": "content",
+      "path": "country.legislature"
+    },
+    {
+      "op": "Delete",
+      "node1": "legislature",
+      "type": "structural",
+      "path": "country.legislature"
+    },
+    {
+      "op": "Delete",
+      "node1": "senate",
+      "type": "content",
+      "path": "country.upper_house"
+    },
+    {
+      "op": "Delete",
+      "node1": "upper_house",
+      "type": "structural",
+      "path": "country.upper_house"
+    },
+    {
+      "op": "Delete",
+      "node1": "national assembly",
+      "type": "content",
+      "path": "country.lower_house"
+    },
+    {
+      "op": "Delete",
+      "node1": "lower_house",
+      "type": "structural",
+      "path": "country.lower_house"
+    },
+    {
+      "op": "Delete",
+      "node1": "11 november 1965",
+      "type": "content",
+      "path": "country.independence_from_the_united_kingdom.declared"
+    },
+    {
+      "op": "Delete",
+      "node1": "declared",
+      "type": "structural",
+      "path": "country.independence_from_the_united_kingdom.declared"
+    },
+    {
+      "op": "Delete",
+      "node1": "2 march 1970",
+      "type": "content",
+      "path": "country.independence_from_the_united_kingdom.republic"
+    },
+    {
+      "op": "Delete",
+      "node1": "republic",
+      "type": "structural",
+      "path": "country.independence_from_the_united_kingdom.republic"
+    },
+    {
+      "op": "Delete",
+      "node1": "1 june 1979",
+      "type": "content",
+      "path": "country.independence_from_the_united_kingdom.zimbabwe_rhodesia"
+    },
+    {
+      "op": "Delete",
+      "node1": "zimbabwe_rhodesia",
+      "type": "structural",
+      "path": "country.independence_from_the_united_kingdom.zimbabwe_rhodesia"
+    },
+    {
+      "op": "Delete",
+      "node1": "18 april 1980",
+      "type": "content",
+      "path": "country.independence_from_the_united_kingdom.independence_recognised"
+    },
+    {
+      "op": "Delete",
+      "node1": "independence_recognised",
+      "type": "structural",
+      "path": "country.independence_from_the_united_kingdom.independence_recognised"
+    },
+    {
+      "op": "Delete",
+      "node1": "15 may 2013",
+      "type": "content",
+      "path": "country.independence_from_the_united_kingdom.current_constitution"
+    },
+    {
+      "op": "Delete",
+      "node1": "current_constitution",
+      "type": "structural",
+      "path": "country.independence_from_the_united_kingdom.current_constitution"
+    },
+    {
+      "op": "Delete",
+      "node1": "independence_from_the_united_kingdom",
+      "type": "structural",
+      "path": "country.independence_from_the_united_kingdom"
+    },
+    {
+      "op": "Delete",
+      "node1": "390,757 km (150,872 sq mi",
+      "type": "content",
+      "path": "country.area.total"
+    },
+    {
+      "op": "Delete",
+      "node1": "total",
+      "type": "structural",
+      "path": "country.area.total"
+    },
+    {
+      "op": "Delete",
+      "node1": "1",
+      "type": "content",
+      "path": "country.area.water"
+    },
+    {
+      "op": "Delete",
+      "node1": "water",
+      "type": "structural",
+      "path": "country.area.water"
+    },
+    {
+      "op": "Delete",
+      "node1": "area",
+      "type": "structural",
+      "path": "country.area"
+    },
+    {
+      "op": "Delete",
+      "node1": "17,166,852",
+      "type": "content",
+      "path": "country.population.february_2026_estimate"
+    },
+    {
+      "op": "Delete",
+      "node1": "february_2026_estimate",
+      "type": "structural",
+      "path": "country.population.february_2026_estimate"
+    },
+    {
+      "op": "Delete",
+      "node1": "15,178,957",
+      "type": "content",
+      "path": "country.population.2022_census"
+    },
+    {
+      "op": "Delete",
+      "node1": "2022_census",
+      "type": "structural",
+      "path": "country.population.2022_census"
+    },
+    {
+      "op": "Delete",
+      "node1": "45/km (/sq mi",
+      "type": "content",
+      "path": "country.population.density"
+    },
+    {
+      "op": "Delete",
+      "node1": "density",
+      "type": "structural",
+      "path": "country.population.density"
+    },
+    {
+      "op": "Delete",
+      "node1": "2025 estimate",
+      "type": "content",
+      "path": "country.population.gdp_ppp"
+    },
+    {
+      "op": "Delete",
+      "node1": "gdp_ppp",
+      "type": "structural",
+      "path": "country.population.gdp_ppp"
+    },
+    {
+      "op": "Delete",
+      "node1": "$billion",
+      "type": "content",
+      "path": "country.population.total"
+    },
+    {
+      "op": "Delete",
+      "node1": "total",
+      "type": "structural",
+      "path": "country.population.total"
+    },
+    {
+      "op": "Delete",
+      "node1": "$5,410",
+      "type": "content",
+      "path": "country.population.per_capita"
+    },
+    {
+      "op": "Delete",
+      "node1": "per_capita",
+      "type": "structural",
+      "path": "country.population.per_capita"
+    },
+    {
+      "op": "Delete",
+      "node1": "2025 estimate",
+      "type": "content",
+      "path": "country.population.gdp_nominal"
+    },
+    {
+      "op": "Delete",
+      "node1": "gdp_nominal",
+      "type": "structural",
+      "path": "country.population.gdp_nominal"
+    },
+    {
+      "op": "Delete",
+      "node1": "$billion",
+      "type": "content",
+      "path": "country.population.total"
+    },
+    {
+      "op": "Delete",
+      "node1": "total",
+      "type": "structural",
+      "path": "country.population.total"
+    },
+    {
+      "op": "Delete",
+      "node1": "$3,070",
+      "type": "content",
+      "path": "country.population.per_capita"
+    },
+    {
+      "op": "Delete",
+      "node1": "per_capita",
+      "type": "structural",
+      "path": "country.population.per_capita"
+    },
+    {
+      "op": "Delete",
+      "node1": "medium inequality",
+      "type": "content",
+      "path": "country.population.gini_2019"
+    },
+    {
+      "op": "Update",
+      "node1": "gini_2019",
+      "node2": "gini_2022",
+      "type": "structural",
+      "path": "country.population.gini_2019"
+    },
+    {
+      "op": "Match",
+      "node1": "medium",
+      "node2": "medium",
+      "type": "content",
+      "path": "country.population.hdi_2023"
+    },
+    {
+      "op": "Match",
+      "node1": "hdi_2023",
+      "node2": "hdi_2023",
+      "type": "structural",
+      "path": "country.population.hdi_2023"
+    },
+    {
+      "op": "Delete",
+      "node1": "zimbabwe gold",
+      "type": "content",
+      "path": "country.population.currency"
+    },
+    {
+      "op": "Delete",
+      "node1": "united states dollar",
+      "type": "content",
+      "path": "country.population.currency"
+    },
+    {
+      "op": "Delete",
+      "node1": "south african rand ( zar",
+      "type": "content",
+      "path": "country.population.currency"
+    },
+    {
+      "op": "Update",
+      "node1": "other currencies",
+      "node2": "zambian kwacha",
+      "type": "content",
+      "path": "country.population.currency"
+    },
+    {
+      "op": "Match",
+      "node1": "currency",
+      "node2": "currency",
+      "type": "structural",
+      "path": "country.population.currency"
+    },
+    {
+      "op": "Match",
+      "node1": "utc +2",
+      "node2": "utc +2",
+      "type": "content",
+      "path": "country.population.time_zone"
+    },
+    {
+      "op": "Match",
+      "node1": "time_zone",
+      "node2": "time_zone",
+      "type": "structural",
+      "path": "country.population.time_zone"
+    },
+    {
+      "op": "Match",
+      "node1": "dd/mm/yyyy",
+      "node2": "dd/mm/yyyy",
+      "type": "content",
+      "path": "country.population.date_format"
+    },
+    {
+      "op": "Match",
+      "node1": "date_format",
+      "node2": "date_format",
+      "type": "structural",
+      "path": "country.population.date_format"
+    },
+    {
+      "op": "Update",
+      "node1": "+263",
+      "node2": "+260",
+      "type": "content",
+      "path": "country.population.calling_code"
+    },
+    {
+      "op": "Match",
+      "node1": "calling_code",
+      "node2": "calling_code",
+      "type": "structural",
+      "path": "country.population.calling_code"
+    },
+    {
+      "op": "Update",
+      "node1": "zw",
+      "node2": "zm",
+      "type": "content",
+      "path": "country.population.iso_3166_code"
+    },
+    {
+      "op": "Match",
+      "node1": "iso_3166_code",
+      "node2": "iso_3166_code",
+      "type": "structural",
+      "path": "country.population.iso_3166_code"
+    },
+    {
+      "op": "Update",
+      "node1": "zw",
+      "node2": "zm",
+      "type": "content",
+      "path": "country.population.internet_tld"
+    },
+    {
+      "op": "Match",
+      "node1": "internet_tld",
+      "node2": "internet_tld",
+      "type": "structural",
+      "path": "country.population.internet_tld"
+    },
+    {
+      "op": "Match",
+      "node1": "population",
+      "node2": "population",
+      "type": "structural",
+      "path": "country.population"
+    },
+    {
+      "op": "Match",
+      "node1": "country",
+      "node2": "country",
+      "type": "structural",
+      "path": "country"
+    }
+  ]
+}

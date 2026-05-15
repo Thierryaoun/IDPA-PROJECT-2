@@ -1,0 +1,418 @@
+{
+  "country": "Niger",
+  "infobox_title": "Republic of the Niger Jamhuriyar Nijar ( Hausa )",
+  "data": [
+    {
+      "label": "Capital and largest city",
+      "value": "Niamey 13°30′49″N 2°06′32″E ﻿ / ﻿ 13.51361°N 2.10889°E",
+      "links": [
+        {
+          "text": "Niamey",
+          "href": "https://en.wikipedia.org/wiki/Niamey"
+        },
+        {
+          "text": "13°30′49″N2°06′32″E﻿ / ﻿13.51361°N 2.10889°E",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Niger&params=13_30_49_N_2_06_32_E_type:city_region:NE"
+        }
+      ]
+    },
+    {
+      "label": "Official languages",
+      "value": "Hausa",
+      "links": [
+        {
+          "text": "Hausa",
+          "href": "https://en.wikipedia.org/wiki/Hausa_language"
+        }
+      ]
+    },
+    {
+      "label": "National languages",
+      "value": "Arabic Buduma Fulfulde Gourmanchéma Kanuri Songhai Tamasheq Tassawaq Tebu Zarma",
+      "links": [
+        {
+          "text": "Arabic",
+          "href": "https://en.wikipedia.org/wiki/Arabic"
+        },
+        {
+          "text": "Buduma",
+          "href": "https://en.wikipedia.org/wiki/Buduma_language"
+        },
+        {
+          "text": "Fulfulde",
+          "href": "https://en.wikipedia.org/wiki/Fula_language"
+        },
+        {
+          "text": "Gourmanchéma",
+          "href": "https://en.wikipedia.org/wiki/Gurma_language"
+        },
+        {
+          "text": "Kanuri",
+          "href": "https://en.wikipedia.org/wiki/Kanuri_language"
+        },
+        {
+          "text": "Songhai",
+          "href": "https://en.wikipedia.org/wiki/Songhoyboro_Ciine"
+        },
+        {
+          "text": "Tamasheq",
+          "href": "https://en.wikipedia.org/wiki/Tuareg_languages"
+        },
+        {
+          "text": "Tassawaq",
+          "href": "https://en.wikipedia.org/wiki/Tasawaq_language"
+        },
+        {
+          "text": "Tebu",
+          "href": "https://en.wikipedia.org/wiki/Tebu_languages"
+        },
+        {
+          "text": "Zarma",
+          "href": "https://en.wikipedia.org/wiki/Zarma_language"
+        }
+      ],
+      "sub_items": [
+        "Arabic",
+        "Buduma",
+        "Fulfulde",
+        "Gourmanchéma",
+        "Kanuri",
+        "Songhai",
+        "Tamasheq",
+        "Tassawaq",
+        "Tebu",
+        "Zarma"
+      ]
+    },
+    {
+      "label": "Ethnic groups (2006)",
+      "value": "53.1% Hausa 21.2% Zarma and Songhay 11.0% Tuareg 6.5% Fulani 5.9% Kanuri 0.8% Gurma 0.4% Toubou 0.4% Arab 0.9% others",
+      "links": [
+        {
+          "text": "Hausa",
+          "href": "https://en.wikipedia.org/wiki/Hausa_people"
+        },
+        {
+          "text": "Zarma",
+          "href": "https://en.wikipedia.org/wiki/Zarma_people"
+        },
+        {
+          "text": "Songhay",
+          "href": "https://en.wikipedia.org/wiki/Songhaiborai"
+        },
+        {
+          "text": "Tuareg",
+          "href": "https://en.wikipedia.org/wiki/Tuareg_people"
+        },
+        {
+          "text": "Fulani",
+          "href": "https://en.wikipedia.org/wiki/Fula_people"
+        },
+        {
+          "text": "Kanuri",
+          "href": "https://en.wikipedia.org/wiki/Kanuri_people"
+        },
+        {
+          "text": "Gurma",
+          "href": "https://en.wikipedia.org/wiki/Gurma_people"
+        },
+        {
+          "text": "Toubou",
+          "href": "https://en.wikipedia.org/wiki/Toubou_people"
+        },
+        {
+          "text": "Arab",
+          "href": "https://en.wikipedia.org/wiki/Diffa_Arabs"
+        },
+        {
+          "text": "others",
+          "href": "https://en.wikipedia.org/wiki/Demographics_of_Niger#Ethnic_groups"
+        }
+      ],
+      "sub_items": [
+        "53.1% Hausa",
+        "21.2% Zarma and Songhay",
+        "11.0% Tuareg",
+        "6.5% Fulani",
+        "5.9% Kanuri",
+        "0.8% Gurma",
+        "0.4% Toubou",
+        "0.4% Arab",
+        "0.9% others"
+      ]
+    },
+    {
+      "label": "Religion (2012)",
+      "value": "99.3% Islam 0.3% Christianity 0.2% Animism 0.1% irreligion",
+      "links": [
+        {
+          "text": "Islam",
+          "href": "https://en.wikipedia.org/wiki/Islam_in_Niger"
+        },
+        {
+          "text": "Christianity",
+          "href": "https://en.wikipedia.org/wiki/Christianity_in_Niger"
+        },
+        {
+          "text": "Animism",
+          "href": "https://en.wikipedia.org/wiki/Animism"
+        },
+        {
+          "text": "irreligion",
+          "href": "https://en.wikipedia.org/wiki/Irreligion"
+        }
+      ],
+      "sub_items": [
+        "99.3% Islam",
+        "0.3% Christianity",
+        "0.2% Animism",
+        "0.1% irreligion"
+      ]
+    },
+    {
+      "label": "Demonym",
+      "value": "Nigerien"
+    },
+    {
+      "label": "Government",
+      "value": "Unitary semi-presidential republic under a military junta",
+      "links": [
+        {
+          "text": "semi-presidential republic",
+          "href": "https://en.wikipedia.org/wiki/Semi-presidential_republic"
+        },
+        {
+          "text": "military junta",
+          "href": "https://en.wikipedia.org/wiki/Military_junta"
+        }
+      ]
+    },
+    {
+      "label": "• President and President of the National Council for the Safeguard of the Homeland",
+      "value": "Abdourahamane Tchiani",
+      "links": [
+        {
+          "text": "Abdourahamane Tchiani",
+          "href": "https://en.wikipedia.org/wiki/Abdourahamane_Tchiani"
+        }
+      ]
+    },
+    {
+      "label": "• Vice President of the National Council for the Safeguard of the Homeland",
+      "value": "Salifou Modi",
+      "links": [
+        {
+          "text": "Salifou Modi",
+          "href": "https://en.wikipedia.org/wiki/Salifou_Modi"
+        }
+      ]
+    },
+    {
+      "label": "• Prime Minister",
+      "value": "Ali Lamine Zeine",
+      "links": [
+        {
+          "text": "Ali Lamine Zeine",
+          "href": "https://en.wikipedia.org/wiki/Ali_Lamine_Zeine"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "National Council for the Safeguard of the Homeland",
+      "links": [
+        {
+          "text": "National Council for the Safeguard of the Homeland",
+          "href": "https://en.wikipedia.org/wiki/National_Council_for_the_Safeguard_of_the_Homeland"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Independence from France",
+      "rows": [
+        {
+          "label": "• Republic proclaimed",
+          "value": "18 December 1958"
+        },
+        {
+          "label": "• Declared",
+          "value": "3 August 1960"
+        },
+        {
+          "label": "• 2023 coup d'état",
+          "value": "26 July 2023"
+        },
+        {
+          "label": "• 2025 transitional charter",
+          "value": "26 March 2025"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "1,267,000 km (489,000 sq mi) ( 21st )",
+          "links": [
+            {
+              "text": "21st",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "0.02"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2024 estimate",
+          "value": "26,342,784 ( 56th )",
+          "links": [
+            {
+              "text": "56th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• Density",
+          "value": "21/km (54.4/sq mi) ( 204th )",
+          "links": [
+            {
+              "text": "204th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$61.040 billion ( 128th )",
+          "links": [
+            {
+              "text": "128th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$2,100 ( 176th )",
+          "links": [
+            {
+              "text": "176th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$21.870 billion ( 123rd )",
+          "links": [
+            {
+              "text": "123rd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$751 ( 181st )",
+          "links": [
+            {
+              "text": "181st",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "Gini (2021)",
+          "value": "32.9 medium inequality"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.419 low ( 188th )",
+          "links": [
+            {
+              "text": "188th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "West African CFA franc ( XOF )",
+          "links": [
+            {
+              "text": "West African CFA franc",
+              "href": "https://en.wikipedia.org/wiki/West_African_CFA_franc"
+            },
+            {
+              "text": "XOF",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC +1 ( WAT )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "WAT",
+              "href": "https://en.wikipedia.org/wiki/West_Africa_Time"
+            }
+          ]
+        },
+        {
+          "label": "Calling code",
+          "value": "+227",
+          "links": [
+            {
+              "text": "+227",
+              "href": "https://en.wikipedia.org/wiki/%2B227"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "NE",
+          "links": [
+            {
+              "text": "NE",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:NE"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".ne",
+          "links": [
+            {
+              "text": ".ne",
+              "href": "https://en.wikipedia.org/wiki/.ne"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

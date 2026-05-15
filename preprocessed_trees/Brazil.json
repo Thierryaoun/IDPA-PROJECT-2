@@ -1,0 +1,381 @@
+{
+  "label": "country",
+  "children": [
+    {
+      "label": "name",
+      "children": [
+        {
+          "label": "brazil"
+        }
+      ]
+    },
+    {
+      "label": "infobox_title",
+      "children": [
+        {
+          "label": "federative republic of brazil república federativa do brasil"
+        }
+      ]
+    },
+    {
+      "label": "capital",
+      "children": [
+        {
+          "label": "brasília / 15."
+        }
+      ]
+    },
+    {
+      "label": "largest_city",
+      "children": [
+        {
+          "label": "são paulo / 23."
+        }
+      ]
+    },
+    {
+      "label": "official_language_and_national_language",
+      "children": [
+        {
+          "label": "portuguese"
+        }
+      ]
+    },
+    {
+      "label": "recognized_regional_languages",
+      "children": [
+        {
+          "label": "see regional official languages"
+        }
+      ]
+    },
+    {
+      "label": "ethnic_groups_2022",
+      "children": [
+        {
+          "label": "45.3% pardo"
+        },
+        {
+          "label": "43.5% white"
+        },
+        {
+          "label": "10.2% black"
+        },
+        {
+          "label": "0.6% indigenous"
+        },
+        {
+          "label": "0.4% east asian"
+        }
+      ]
+    },
+    {
+      "label": "religion_2022",
+      "children": [
+        {
+          "label": "83.60% christianity"
+        },
+        {
+          "label": "56.75% catholicism"
+        },
+        {
+          "label": "26.85% protestantism"
+        },
+        {
+          "label": "9.28% no religion"
+        },
+        {
+          "label": "1.84% spiritism"
+        },
+        {
+          "label": "1.05% afro-brazilian religions"
+        },
+        {
+          "label": "4.07% other"
+        },
+        {
+          "label": "0.17% not stated"
+        }
+      ]
+    },
+    {
+      "label": "demonym",
+      "children": [
+        {
+          "label": "brazilian"
+        }
+      ]
+    },
+    {
+      "label": "government",
+      "children": [
+        {
+          "label": "federal presidential republic"
+        }
+      ]
+    },
+    {
+      "label": "president",
+      "children": [
+        {
+          "label": "luiz inácio lula da silva"
+        }
+      ]
+    },
+    {
+      "label": "vice_president",
+      "children": [
+        {
+          "label": "geraldo alckmin"
+        }
+      ]
+    },
+    {
+      "label": "president_of_the_chamber_of_deputies",
+      "children": [
+        {
+          "label": "hugo motta"
+        }
+      ]
+    },
+    {
+      "label": "president_of_the_federal_senate",
+      "children": [
+        {
+          "label": "davi alcolumbre"
+        }
+      ]
+    },
+    {
+      "label": "president_of_the_supreme_federal_court",
+      "children": [
+        {
+          "label": "edson fachin"
+        }
+      ]
+    },
+    {
+      "label": "legislature",
+      "children": [
+        {
+          "label": "national congress"
+        }
+      ]
+    },
+    {
+      "label": "upper_house",
+      "children": [
+        {
+          "label": "federal senate"
+        }
+      ]
+    },
+    {
+      "label": "lower_house",
+      "children": [
+        {
+          "label": "chamber of deputies"
+        }
+      ]
+    },
+    {
+      "label": "independence_from_portugal",
+      "children": [
+        {
+          "label": "declaration",
+          "children": [
+            {
+              "label": "7 september 1822"
+            }
+          ]
+        },
+        {
+          "label": "recognition",
+          "children": [
+            {
+              "label": "29 august 1825"
+            }
+          ]
+        },
+        {
+          "label": "republic",
+          "children": [
+            {
+              "label": "15 november 1889"
+            }
+          ]
+        },
+        {
+          "label": "current_constitution",
+          "children": [
+            {
+              "label": "5 october 1988"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "area",
+      "children": [
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "8,515,767 km"
+            }
+          ]
+        },
+        {
+          "label": "water",
+          "children": [
+            {
+              "label": "0.65"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "population",
+      "children": [
+        {
+          "label": "2025_estimate",
+          "children": [
+            {
+              "label": "213,421,037"
+            }
+          ]
+        },
+        {
+          "label": "2022_census",
+          "children": [
+            {
+              "label": "203,080,756"
+            }
+          ]
+        },
+        {
+          "label": "density",
+          "children": [
+            {
+              "label": "23.8 /km"
+            }
+          ]
+        },
+        {
+          "label": "gdp_ppp",
+          "children": [
+            {
+              "label": "2026 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$5.161 trillion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$24,108"
+            }
+          ]
+        },
+        {
+          "label": "gdp_nominal",
+          "children": [
+            {
+              "label": "2026 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$2.292 trillion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$10,709"
+            }
+          ]
+        },
+        {
+          "label": "gini_2023",
+          "children": [
+            {
+              "label": "51.6 high inequality"
+            }
+          ]
+        },
+        {
+          "label": "hdi_2023",
+          "children": [
+            {
+              "label": "0.786 high"
+            }
+          ]
+        },
+        {
+          "label": "currency",
+          "children": [
+            {
+              "label": "real"
+            }
+          ]
+        },
+        {
+          "label": "time_zone",
+          "children": [
+            {
+              "label": "utc −02:00 to −05:00"
+            }
+          ]
+        },
+        {
+          "label": "date_format",
+          "children": [
+            {
+              "label": "dd/mm/yyyy"
+            }
+          ]
+        },
+        {
+          "label": "calling_code",
+          "children": [
+            {
+              "label": "+55"
+            }
+          ]
+        },
+        {
+          "label": "iso_3166_code",
+          "children": [
+            {
+              "label": "br"
+            }
+          ]
+        },
+        {
+          "label": "internet_tld",
+          "children": [
+            {
+              "label": ".br"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

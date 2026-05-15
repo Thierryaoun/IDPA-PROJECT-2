@@ -1,0 +1,456 @@
+{
+  "country": "Czechia",
+  "infobox_title": "Czech Republic Česká republika ( Czech )",
+  "data": [
+    {
+      "label": "Capital and largest city",
+      "value": "Prague 50°05′N 14°28′E ﻿ / ﻿ 50.083°N 14.467°E",
+      "links": [
+        {
+          "text": "Prague",
+          "href": "https://en.wikipedia.org/wiki/Prague"
+        },
+        {
+          "text": "50°05′N14°28′E﻿ / ﻿50.083°N 14.467°E",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Czech_Republic&params=50_05_N_14_28_E_type:city"
+        }
+      ]
+    },
+    {
+      "label": "Official languages",
+      "value": "Czech",
+      "links": [
+        {
+          "text": "Czech",
+          "href": "https://en.wikipedia.org/wiki/Czech_language"
+        }
+      ]
+    },
+    {
+      "label": "Officially recognized minority languages",
+      "value": "Belarusian Bulgarian Croatian German Greek Hungarian Polish Romani Russian Rusyn Serbian Slovak Ukrainian Vietnamese As of 2022",
+      "links": [
+        {
+          "text": "Belarusian",
+          "href": "https://en.wikipedia.org/wiki/Belarusian_language"
+        },
+        {
+          "text": "Bulgarian",
+          "href": "https://en.wikipedia.org/wiki/Bulgarian_language"
+        },
+        {
+          "text": "Croatian",
+          "href": "https://en.wikipedia.org/wiki/Croatian_language"
+        },
+        {
+          "text": "German",
+          "href": "https://en.wikipedia.org/wiki/German_language"
+        },
+        {
+          "text": "Greek",
+          "href": "https://en.wikipedia.org/wiki/Greek_language"
+        },
+        {
+          "text": "Hungarian",
+          "href": "https://en.wikipedia.org/wiki/Hungarian_language"
+        },
+        {
+          "text": "Polish",
+          "href": "https://en.wikipedia.org/wiki/Polish_language"
+        },
+        {
+          "text": "Romani",
+          "href": "https://en.wikipedia.org/wiki/Romani_language"
+        },
+        {
+          "text": "Russian",
+          "href": "https://en.wikipedia.org/wiki/Russian_language"
+        },
+        {
+          "text": "Rusyn",
+          "href": "https://en.wikipedia.org/wiki/Rusyn_language"
+        },
+        {
+          "text": "Serbian",
+          "href": "https://en.wikipedia.org/wiki/Serbian_language"
+        },
+        {
+          "text": "Slovak",
+          "href": "https://en.wikipedia.org/wiki/Slovak_language"
+        },
+        {
+          "text": "Ukrainian",
+          "href": "https://en.wikipedia.org/wiki/Ukrainian_language"
+        },
+        {
+          "text": "Vietnamese",
+          "href": "https://en.wikipedia.org/wiki/Vietnamese_language"
+        }
+      ],
+      "sub_items": [
+        "Belarusian",
+        "Bulgarian",
+        "Croatian",
+        "German",
+        "Greek",
+        "Hungarian",
+        "Polish",
+        "Romani",
+        "Russian",
+        "Rusyn",
+        "Serbian",
+        "Slovak",
+        "Ukrainian",
+        "Vietnamese"
+      ]
+    },
+    {
+      "label": "Ethnic groups (2021)",
+      "value": "89% Czechs 3.3% Moravians 0.9% Slovaks 0.7% Ukrainians 2.1% other 4.0% two nationalities",
+      "links": [
+        {
+          "text": "Czechs",
+          "href": "https://en.wikipedia.org/wiki/Czechs"
+        },
+        {
+          "text": "Moravians",
+          "href": "https://en.wikipedia.org/wiki/Moravians"
+        },
+        {
+          "text": "Slovaks",
+          "href": "https://en.wikipedia.org/wiki/Slovaks_in_the_Czech_Republic"
+        },
+        {
+          "text": "Ukrainians",
+          "href": "https://en.wikipedia.org/wiki/Ukrainians_in_the_Czech_Republic"
+        },
+        {
+          "text": "other",
+          "href": "https://en.wikipedia.org/wiki/Demographics_of_the_Czech_Republic"
+        }
+      ],
+      "sub_items": [
+        "89% Czechs",
+        "3.3% Moravians",
+        "0.9% Slovaks",
+        "0.7% Ukrainians",
+        "2.1% other",
+        "4.0% two nationalities"
+      ]
+    },
+    {
+      "label": "Religion (2021)",
+      "value": "56.9% no religion 11.7% Christianity 9.3% Catholicism 2.4% other Christian 1.2% other 30.1% unanswered",
+      "links": [
+        {
+          "text": "no religion",
+          "href": "https://en.wikipedia.org/wiki/Irreligion_in_the_Czech_Republic"
+        },
+        {
+          "text": "Christianity",
+          "href": "https://en.wikipedia.org/wiki/Christianity"
+        },
+        {
+          "text": "Catholicism",
+          "href": "https://en.wikipedia.org/wiki/Catholic_Church_in_the_Czech_Republic"
+        },
+        {
+          "text": "Christian",
+          "href": "https://en.wikipedia.org/wiki/List_of_Christian_denominations"
+        },
+        {
+          "text": "other",
+          "href": "https://en.wikipedia.org/wiki/Religion_in_Czech_Republic"
+        }
+      ],
+      "sub_items": [
+        "56.9% no religion",
+        "11.7% Christianity 9.3% Catholicism 2.4% other Christian",
+        "11.7% Christianity 9.3% Catholicism 2.4% other Christian",
+        "9.3% Catholicism",
+        "2.4% other Christian",
+        "1.2% other",
+        "30.1% unanswered"
+      ]
+    },
+    {
+      "label": "Demonym",
+      "value": "Czech",
+      "links": [
+        {
+          "text": "Czech",
+          "href": "https://en.wikipedia.org/wiki/Czechs"
+        }
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Unitary parliamentary republic",
+      "links": [
+        {
+          "text": "Unitary parliamentary republic",
+          "href": "https://en.wikipedia.org/wiki/Unitary_parliamentary_republic"
+        }
+      ]
+    },
+    {
+      "label": "• President",
+      "value": "Petr Pavel",
+      "links": [
+        {
+          "text": "Petr Pavel",
+          "href": "https://en.wikipedia.org/wiki/Petr_Pavel"
+        }
+      ]
+    },
+    {
+      "label": "• Prime Minister",
+      "value": "Andrej Babiš",
+      "links": [
+        {
+          "text": "Andrej Babiš",
+          "href": "https://en.wikipedia.org/wiki/Andrej_Babi%C5%A1"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "Parliament",
+      "links": [
+        {
+          "text": "Parliament",
+          "href": "https://en.wikipedia.org/wiki/Parliament_of_the_Czech_Republic"
+        }
+      ]
+    },
+    {
+      "label": "• Upper house",
+      "value": "Senate",
+      "links": [
+        {
+          "text": "Senate",
+          "href": "https://en.wikipedia.org/wiki/Senate_of_the_Czech_Republic"
+        }
+      ]
+    },
+    {
+      "label": "• Lower house",
+      "value": "Chamber of Deputies",
+      "links": [
+        {
+          "text": "Chamber of Deputies",
+          "href": "https://en.wikipedia.org/wiki/Chamber_of_Deputies_of_the_Czech_Republic"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Establishment",
+      "rows": [
+        {
+          "label": "• Duchy of Bohemia",
+          "value": "c. 870"
+        },
+        {
+          "label": "• Kingdom of Bohemia",
+          "value": "1198"
+        },
+        {
+          "label": "• Czechoslovakia",
+          "value": "28 October 1918"
+        },
+        {
+          "label": "• Czech Republic",
+          "value": "1 January 1993"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "78,871 km (30,452 sq mi) ( 115th )",
+          "links": [
+            {
+              "text": "115th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "2.16 (as of 2022)"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2024 estimate",
+          "value": "10,900,555 ( 85th )",
+          "links": [
+            {
+              "text": "85th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• 2021 census",
+          "value": "10,524,167"
+        },
+        {
+          "label": "• Density",
+          "value": "133/km (344.5/sq mi) ( 91st )",
+          "links": [
+            {
+              "text": "91st",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2024 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$619.881 billion ( 46th )",
+          "links": [
+            {
+              "text": "46th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$56,686 ( 38th )",
+          "links": [
+            {
+              "text": "38th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2024 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$342.992 billion ( 47th )",
+          "links": [
+            {
+              "text": "47th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$31,365 ( 38th )",
+          "links": [
+            {
+              "text": "38th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "Gini (2023)",
+          "value": "24.4 low inequality"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.915 very high ( 29th )",
+          "links": [
+            {
+              "text": "29th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "Czech koruna ( CZK )",
+          "links": [
+            {
+              "text": "Czech koruna",
+              "href": "https://en.wikipedia.org/wiki/Czech_koruna"
+            },
+            {
+              "text": "CZK",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC +1 ( CET )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "CET",
+              "href": "https://en.wikipedia.org/wiki/Central_European_Time"
+            }
+          ]
+        },
+        {
+          "label": "• Summer ( DST )",
+          "value": "UTC +2 ( CEST )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "CEST",
+              "href": "https://en.wikipedia.org/wiki/Central_European_Summer_Time"
+            }
+          ]
+        },
+        {
+          "label": "Date format",
+          "value": "d. m. yyyy"
+        },
+        {
+          "label": "Calling code",
+          "value": "+420",
+          "links": [
+            {
+              "text": "+420",
+              "href": "https://en.wikipedia.org/wiki/Telephone_numbers_in_the_Czech_Republic"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "CZ",
+          "links": [
+            {
+              "text": "CZ",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:CZ"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".cz",
+          "links": [
+            {
+              "text": ".cz",
+              "href": "https://en.wikipedia.org/wiki/.cz"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

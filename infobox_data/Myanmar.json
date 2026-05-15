@@ -1,0 +1,485 @@
+{
+  "country": "Myanmar",
+  "infobox_title": "Republic of the Union of Myanmar ပြည်ထောင်စုသမ္မတမြန်မာနိုင်ငံတော် ( Burmese ) Pyidaungzu thămăda myama naingngandaw",
+  "data": [
+    {
+      "label": "Capital",
+      "value": "Naypyidaw 21°00′N 96°00′E ﻿ / ﻿ 21.000°N 96.000°E",
+      "links": [
+        {
+          "text": "Naypyidaw",
+          "href": "https://en.wikipedia.org/wiki/Naypyidaw"
+        },
+        {
+          "text": "21°00′N96°00′E﻿ / ﻿21.000°N 96.000°E",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Myanmar&params=21_00_N_96_00_E_type:city"
+        }
+      ]
+    },
+    {
+      "label": "Largest city",
+      "value": "Yangon",
+      "links": [
+        {
+          "text": "Yangon",
+          "href": "https://en.wikipedia.org/wiki/Yangon"
+        }
+      ]
+    },
+    {
+      "label": "Official language",
+      "value": "Burmese",
+      "links": [
+        {
+          "text": "Burmese",
+          "href": "https://en.wikipedia.org/wiki/Burmese_language"
+        }
+      ]
+    },
+    {
+      "label": "Recognised regional languages",
+      "value": "Chin Kachin Karen Kayah Mon Rakhine Shan",
+      "links": [
+        {
+          "text": "Chin",
+          "href": "https://en.wikipedia.org/wiki/Chin_language"
+        },
+        {
+          "text": "Kachin",
+          "href": "https://en.wikipedia.org/wiki/Kachin_language"
+        },
+        {
+          "text": "Karen",
+          "href": "https://en.wikipedia.org/wiki/Karen_language"
+        },
+        {
+          "text": "Kayah",
+          "href": "https://en.wikipedia.org/wiki/Kayah_language"
+        },
+        {
+          "text": "Mon",
+          "href": "https://en.wikipedia.org/wiki/Mon_language"
+        },
+        {
+          "text": "Rakhine",
+          "href": "https://en.wikipedia.org/wiki/Rakhine_language"
+        },
+        {
+          "text": "Shan",
+          "href": "https://en.wikipedia.org/wiki/Shan_language"
+        }
+      ],
+      "sub_items": [
+        "Chin",
+        "Kachin",
+        "Karen",
+        "Kayah",
+        "Mon",
+        "Rakhine",
+        "Shan"
+      ]
+    },
+    {
+      "label": "Ethnic groups (2019 )",
+      "value": "68.78% Bamar 6.69% Karen 4.61% Rakhine 4.51% Shan 2.19% Mon 2.09% Chin 1.50% Kachin 0.39% Karenni",
+      "links": [
+        {
+          "text": "Bamar",
+          "href": "https://en.wikipedia.org/wiki/Bamar"
+        },
+        {
+          "text": "Karen",
+          "href": "https://en.wikipedia.org/wiki/Karen_people"
+        },
+        {
+          "text": "Rakhine",
+          "href": "https://en.wikipedia.org/wiki/Rakhine_people"
+        },
+        {
+          "text": "Shan",
+          "href": "https://en.wikipedia.org/wiki/Shan_people"
+        },
+        {
+          "text": "Mon",
+          "href": "https://en.wikipedia.org/wiki/Mon_people"
+        },
+        {
+          "text": "Chin",
+          "href": "https://en.wikipedia.org/wiki/Chin_people"
+        },
+        {
+          "text": "Kachin",
+          "href": "https://en.wikipedia.org/wiki/Kachin_people"
+        },
+        {
+          "text": "Karenni",
+          "href": "https://en.wikipedia.org/wiki/Karenni_people"
+        }
+      ],
+      "sub_items": [
+        "68.78% Bamar",
+        "6.69% Karen",
+        "4.61% Rakhine",
+        "4.51% Shan",
+        "2.19% Mon",
+        "2.09% Chin",
+        "1.50% Kachin",
+        "0.39% Karenni"
+      ]
+    },
+    {
+      "label": "Religion ( 2014 )",
+      "value": "87.9% Buddhism ( official ) 6.2% Christianity 4.91% Protestantism 1.29% Catholicism 4.3% Islam 0.8% folk religion 0.5% Hinduism 0.1% no religion 0.2% other",
+      "links": [
+        {
+          "text": "Buddhism",
+          "href": "https://en.wikipedia.org/wiki/Buddhism_in_Myanmar"
+        },
+        {
+          "text": "official",
+          "href": "https://en.wikipedia.org/wiki/State_religion"
+        },
+        {
+          "text": "Christianity",
+          "href": "https://en.wikipedia.org/wiki/Christianity_in_Myanmar"
+        },
+        {
+          "text": "Protestantism",
+          "href": "https://en.wikipedia.org/wiki/Protestantism_in_Myanmar"
+        },
+        {
+          "text": "Catholicism",
+          "href": "https://en.wikipedia.org/wiki/Catholic_Church_in_Myanmar"
+        },
+        {
+          "text": "Islam",
+          "href": "https://en.wikipedia.org/wiki/Islam_in_Myanmar"
+        },
+        {
+          "text": "Hinduism",
+          "href": "https://en.wikipedia.org/wiki/Hinduism_in_Myanmar"
+        },
+        {
+          "text": "no religion",
+          "href": "https://en.wikipedia.org/wiki/Irreligion_in_Myanmar"
+        },
+        {
+          "text": "other",
+          "href": "https://en.wikipedia.org/wiki/Religion_in_Myanmar"
+        }
+      ],
+      "sub_items": [
+        "87.9% Buddhism ( official )",
+        "6.2% Christianity 4.91% Protestantism 1.29% Catholicism",
+        "6.2% Christianity 4.91% Protestantism 1.29% Catholicism",
+        "4.91% Protestantism",
+        "1.29% Catholicism",
+        "4.3% Islam",
+        "0.8% folk religion",
+        "0.5% Hinduism",
+        "0.1% no religion",
+        "0.2% other"
+      ]
+    },
+    {
+      "label": "Demonyms",
+      "value": "Burmese Myanmar Myanma",
+      "links": [
+        {
+          "text": "Burmese",
+          "href": "https://en.wikipedia.org/wiki/Burmese_people"
+        }
+      ],
+      "sub_items": [
+        "Burmese",
+        "Myanmar",
+        "Myanma"
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Unitary assembly-independent republic under a military junta",
+      "links": [
+        {
+          "text": "assembly-independent republic",
+          "href": "https://en.wikipedia.org/wiki/Assembly-independent_republic"
+        },
+        {
+          "text": "military junta",
+          "href": "https://en.wikipedia.org/wiki/Military_junta"
+        }
+      ]
+    },
+    {
+      "label": "• President",
+      "value": "Min Aung Hlaing (acting)",
+      "links": [
+        {
+          "text": "Min Aung Hlaing",
+          "href": "https://en.wikipedia.org/wiki/Min_Aung_Hlaing"
+        }
+      ]
+    },
+    {
+      "label": "• SSPC Chairman",
+      "value": "Min Aung Hlaing"
+    },
+    {
+      "label": "• SSPC Vice Chairman",
+      "value": "Soe Win",
+      "links": [
+        {
+          "text": "Soe Win",
+          "href": "https://en.wikipedia.org/wiki/Soe_Win_(general)"
+        }
+      ]
+    },
+    {
+      "label": "• Prime Minister",
+      "value": "Nyo Saw",
+      "links": [
+        {
+          "text": "Nyo Saw",
+          "href": "https://en.wikipedia.org/wiki/Nyo_Saw"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "Pyidaungsu Hluttaw",
+      "links": [
+        {
+          "text": "Pyidaungsu Hluttaw",
+          "href": "https://en.wikipedia.org/wiki/Pyidaungsu_Hluttaw"
+        }
+      ]
+    },
+    {
+      "label": "• Upper house",
+      "value": "Amyotha Hluttaw",
+      "links": [
+        {
+          "text": "Amyotha Hluttaw",
+          "href": "https://en.wikipedia.org/wiki/Amyotha_Hluttaw"
+        }
+      ]
+    },
+    {
+      "label": "• Lower house",
+      "value": "Pyithu Hluttaw",
+      "links": [
+        {
+          "text": "Pyithu Hluttaw",
+          "href": "https://en.wikipedia.org/wiki/Pyithu_Hluttaw"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Formation",
+      "rows": [
+        {
+          "label": "• Pagan era",
+          "value": "23 December 849"
+        },
+        {
+          "label": "• Taungoo era",
+          "value": "16 October 1510"
+        },
+        {
+          "label": "• Konbaung era",
+          "value": "29 February 1752"
+        },
+        {
+          "label": "• Colonial era",
+          "value": "1 January 1886"
+        },
+        {
+          "label": "• Independence from the United Kingdom",
+          "value": "4 January 1948"
+        },
+        {
+          "label": "• 1962 coup d'état",
+          "value": "2 March 1962"
+        },
+        {
+          "label": "• 1988 coup d'état",
+          "value": "18 September 1988"
+        },
+        {
+          "label": "• Current constitution",
+          "value": "29 May 2008"
+        },
+        {
+          "label": "• 2021 coup d'état",
+          "value": "1 February 2021"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "676,579 km (261,229 sq mi) ( 39th )",
+          "links": [
+            {
+              "text": "39th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "3.06"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2022 estimate",
+          "value": "55,770,232 ( 26th )",
+          "links": [
+            {
+              "text": "26th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• Density",
+          "value": "217/sq mi (83.8/km ) ( 127th )",
+          "links": [
+            {
+              "text": "127th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$273.200 billion ( 64th )",
+          "links": [
+            {
+              "text": "64th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$4,950 ( 146th )",
+          "links": [
+            {
+              "text": "146th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$60.560 billion ( 87th )",
+          "links": [
+            {
+              "text": "87th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$1,110 ( 164th )",
+          "links": [
+            {
+              "text": "164th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "Gini (2017)",
+          "value": "30.7 medium inequality"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.609 medium ( 150th )",
+          "links": [
+            {
+              "text": "150th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "Myanmar kyat (K) ( MMK )",
+          "links": [
+            {
+              "text": "Myanmar kyat",
+              "href": "https://en.wikipedia.org/wiki/Myanmar_kyat"
+            },
+            {
+              "text": "MMK",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC +06:30 ( MMT )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "MMT",
+              "href": "https://en.wikipedia.org/wiki/Myanmar_Standard_Time"
+            }
+          ]
+        },
+        {
+          "label": "Calling code",
+          "value": "+95",
+          "links": [
+            {
+              "text": "+95",
+              "href": "https://en.wikipedia.org/wiki/%2B95"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "MM",
+          "links": [
+            {
+              "text": "MM",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:MM"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".mm",
+          "links": [
+            {
+              "text": ".mm",
+              "href": "https://en.wikipedia.org/wiki/.mm"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

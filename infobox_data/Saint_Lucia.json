@@ -1,0 +1,350 @@
+{
+  "country": "Saint Lucia",
+  "infobox_title": "Saint Lucia",
+  "data": [
+    {
+      "label": "Capital and largest city",
+      "value": "Castries 13°53′00″N 60°58′00″W ﻿ / ﻿ 13.88333°N 60.96667°W",
+      "links": [
+        {
+          "text": "Castries",
+          "href": "https://en.wikipedia.org/wiki/Castries"
+        },
+        {
+          "text": "13°53′00″N60°58′00″W﻿ / ﻿13.88333°N 60.96667°W",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Saint_Lucia&params=13_53_00_N_60_58_00_W_type:adm1st_globe:earth_region:LC_source:geonames"
+        }
+      ]
+    },
+    {
+      "label": "Official languages",
+      "value": "English",
+      "links": [
+        {
+          "text": "English",
+          "href": "https://en.wikipedia.org/wiki/English_Language"
+        }
+      ]
+    },
+    {
+      "label": "Vernacular languages",
+      "value": "Saint Lucian French Creole",
+      "links": [
+        {
+          "text": "Saint Lucian French Creole",
+          "href": "https://en.wikipedia.org/wiki/Saint_Lucian_Creole"
+        }
+      ]
+    },
+    {
+      "label": "Ethnic groups (2020 )",
+      "value": "85.3% African 10.9% Mixed 2.2% Indian 1.6% other/ unspecified",
+      "links": [
+        {
+          "text": "African",
+          "href": "https://en.wikipedia.org/wiki/Afro-Saint_Lucian"
+        },
+        {
+          "text": "Mixed",
+          "href": "https://en.wikipedia.org/wiki/Multiracial"
+        },
+        {
+          "text": "Indian",
+          "href": "https://en.wikipedia.org/wiki/Indo-Saint_Lucian"
+        }
+      ],
+      "sub_items": [
+        "85.3% African",
+        "10.9% Mixed",
+        "2.2% Indian",
+        "1.6% other/ unspecified"
+      ]
+    },
+    {
+      "label": "Religion (2022)",
+      "value": "77.4% Christianity 14.4% no religion 1.4% Rastafari 2.7% other 4.1% not stated",
+      "links": [
+        {
+          "text": "Christianity",
+          "href": "https://en.wikipedia.org/wiki/Christianity"
+        },
+        {
+          "text": "no religion",
+          "href": "https://en.wikipedia.org/wiki/Irreligion"
+        },
+        {
+          "text": "Rastafari",
+          "href": "https://en.wikipedia.org/wiki/Rastafari"
+        }
+      ],
+      "sub_items": [
+        "77.4% Christianity",
+        "14.4% no religion",
+        "1.4% Rastafari",
+        "2.7% other",
+        "4.1% not stated"
+      ]
+    },
+    {
+      "label": "Demonym",
+      "value": "Saint Lucian",
+      "links": [
+        {
+          "text": "Saint Lucian",
+          "href": "https://en.wikipedia.org/wiki/Saint_Lucian_people"
+        }
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Unitary parliamentary constitutional monarchy",
+      "links": [
+        {
+          "text": "constitutional monarchy",
+          "href": "https://en.wikipedia.org/wiki/Constitutional_monarchy"
+        }
+      ]
+    },
+    {
+      "label": "• Monarch",
+      "value": "Charles III",
+      "links": [
+        {
+          "text": "Charles III",
+          "href": "https://en.wikipedia.org/wiki/Charles_III"
+        }
+      ]
+    },
+    {
+      "label": "• Governor-General",
+      "value": "Errol Charles",
+      "links": [
+        {
+          "text": "Errol Charles",
+          "href": "https://en.wikipedia.org/wiki/Errol_Charles"
+        }
+      ]
+    },
+    {
+      "label": "• Prime Minister",
+      "value": "Philip J. Pierre",
+      "links": [
+        {
+          "text": "Philip J. Pierre",
+          "href": "https://en.wikipedia.org/wiki/Philip_J._Pierre"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "Parliament",
+      "links": [
+        {
+          "text": "Parliament",
+          "href": "https://en.wikipedia.org/wiki/Parliament_of_Saint_Lucia"
+        }
+      ]
+    },
+    {
+      "label": "• Upper house",
+      "value": "Senate",
+      "links": [
+        {
+          "text": "Senate",
+          "href": "https://en.wikipedia.org/wiki/Senate_of_Saint_Lucia"
+        }
+      ]
+    },
+    {
+      "label": "• Lower house",
+      "value": "House of Assembly",
+      "links": [
+        {
+          "text": "House of Assembly",
+          "href": "https://en.wikipedia.org/wiki/House_of_Assembly_of_Saint_Lucia"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Independence",
+      "rows": [
+        {
+          "label": "• Associated State",
+          "value": "1 March 1967"
+        },
+        {
+          "label": "• Independence from the UK",
+          "value": "22 February 1979"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "617 km (238 sq mi) ( 178th )",
+          "links": [
+            {
+              "text": "178th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "1.6"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2023 estimate",
+          "value": "184,100 ( 177th )",
+          "links": [
+            {
+              "text": "177th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• 2010 census",
+          "value": "165,595"
+        },
+        {
+          "label": "• Density",
+          "value": "298/km (771.8/sq mi) ( 29th )",
+          "links": [
+            {
+              "text": "29th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$3.769 billion ( 177nd )",
+          "links": [
+            {
+              "text": "177nd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$29,258 ( 73th )",
+          "links": [
+            {
+              "text": "73th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$2.715 billion ( 168th )",
+          "links": [
+            {
+              "text": "168th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$14,647 ( 72th )",
+          "links": [
+            {
+              "text": "72th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "Gini (2016)",
+          "value": "51.2 high inequality"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.748 high ( 103rd )",
+          "links": [
+            {
+              "text": "103rd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "East Caribbean dollar ( XCD )",
+          "links": [
+            {
+              "text": "East Caribbean dollar",
+              "href": "https://en.wikipedia.org/wiki/East_Caribbean_dollar"
+            },
+            {
+              "text": "XCD",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC −4 ( AST )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "AST",
+              "href": "https://en.wikipedia.org/wiki/Atlantic_Standard_Time"
+            }
+          ]
+        },
+        {
+          "label": "Date format",
+          "value": "dd/mm/yyyy"
+        },
+        {
+          "label": "Calling code",
+          "value": "+1"
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "LC",
+          "links": [
+            {
+              "text": "LC",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:LC"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".lc",
+          "links": [
+            {
+              "text": ".lc",
+              "href": "https://en.wikipedia.org/wiki/.lc"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

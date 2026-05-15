@@ -1,0 +1,375 @@
+{
+  "country": "Libya",
+  "infobox_title": "State of Libya دولة ليبيا ( Arabic ) Dawlat Lībiyā",
+  "data": [
+    {
+      "label": "Capital and largest city",
+      "value": "Tripoli 32°52′N 13°11′E ﻿ / ﻿ 32.867°N 13.183°E",
+      "links": [
+        {
+          "text": "Tripoli",
+          "href": "https://en.wikipedia.org/wiki/Tripoli,_Libya"
+        },
+        {
+          "text": "32°52′N13°11′E﻿ / ﻿32.867°N 13.183°E",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Libya&params=32_52_N_13_11_E_type:city"
+        }
+      ]
+    },
+    {
+      "label": "Official languages",
+      "value": "Arabic",
+      "links": [
+        {
+          "text": "Arabic",
+          "href": "https://en.wikipedia.org/wiki/Modern_Standard_Arabic"
+        }
+      ]
+    },
+    {
+      "label": "Local vernacular",
+      "value": "Libyan Arabic",
+      "links": [
+        {
+          "text": "Libyan Arabic",
+          "href": "https://en.wikipedia.org/wiki/Libyan_Arabic"
+        }
+      ]
+    },
+    {
+      "label": "Foreign languages",
+      "value": "Italian and English",
+      "links": [
+        {
+          "text": "Italian",
+          "href": "https://en.wikipedia.org/wiki/Italian_language"
+        },
+        {
+          "text": "English",
+          "href": "https://en.wikipedia.org/wiki/English_language"
+        }
+      ]
+    },
+    {
+      "label": "Ethnic groups (1999)",
+      "value": "92% Arabs 5% Berbers 3% others",
+      "links": [
+        {
+          "text": "Arabs",
+          "href": "https://en.wikipedia.org/wiki/Arabs"
+        },
+        {
+          "text": "Berbers",
+          "href": "https://en.wikipedia.org/wiki/Berbers"
+        }
+      ],
+      "sub_items": [
+        "92% Arabs",
+        "5% Berbers",
+        "3% others"
+      ]
+    },
+    {
+      "label": "Religion (2020)",
+      "value": "96.6% Islam ( official ) 2.7% Christianity 0.7% others",
+      "links": [
+        {
+          "text": "Islam",
+          "href": "https://en.wikipedia.org/wiki/Islam_in_Libya"
+        },
+        {
+          "text": "official",
+          "href": "https://en.wikipedia.org/wiki/State_religion"
+        },
+        {
+          "text": "Christianity",
+          "href": "https://en.wikipedia.org/wiki/Christianity_in_Libya"
+        }
+      ],
+      "sub_items": [
+        "96.6% Islam ( official )",
+        "2.7% Christianity",
+        "0.7% others"
+      ]
+    },
+    {
+      "label": "Demonym",
+      "value": "Libyan",
+      "links": [
+        {
+          "text": "Libyan",
+          "href": "https://en.wikipedia.org/wiki/Demographics_of_Libya"
+        }
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Unitary republic under a provisional government ( GNU )",
+      "links": [
+        {
+          "text": "Unitary",
+          "href": "https://en.wikipedia.org/wiki/Unitary_state"
+        },
+        {
+          "text": "provisional government",
+          "href": "https://en.wikipedia.org/wiki/Provisional_government"
+        },
+        {
+          "text": "GNU",
+          "href": "https://en.wikipedia.org/wiki/Government_of_National_Unity_(Libya)"
+        }
+      ]
+    },
+    {
+      "label": "• Chairman of the Presidential Council",
+      "value": "Mohamed al-Menfi",
+      "links": [
+        {
+          "text": "Mohamed al-Menfi",
+          "href": "https://en.wikipedia.org/wiki/Mohamed_al-Menfi"
+        }
+      ]
+    },
+    {
+      "label": "• Vice Chairman of the Presidential Council",
+      "value": "Musa Al-Koni",
+      "links": [
+        {
+          "text": "Musa Al-Koni",
+          "href": "https://en.wikipedia.org/wiki/Musa_Al-Koni"
+        }
+      ]
+    },
+    {
+      "label": "• Prime Minister",
+      "value": "Abdul Hamid Dbeibeh",
+      "links": [
+        {
+          "text": "Abdul Hamid Dbeibeh",
+          "href": "https://en.wikipedia.org/wiki/Abdul_Hamid_Dbeibeh"
+        }
+      ]
+    },
+    {
+      "label": "• Speaker of the House of Representatives",
+      "value": "Aguila Saleh Issa",
+      "links": [
+        {
+          "text": "Aguila Saleh Issa",
+          "href": "https://en.wikipedia.org/wiki/Aguila_Saleh_Issa"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "High Council of State House of Representatives",
+      "links": [
+        {
+          "text": "High Council of State",
+          "href": "https://en.wikipedia.org/wiki/High_Council_of_State_(Libya)"
+        },
+        {
+          "text": "House of Representatives",
+          "href": "https://en.wikipedia.org/wiki/House_of_Representatives_(Libya)"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Establishment",
+      "rows": [
+        {
+          "label": "• Ottoman Tripolitania",
+          "value": "1551"
+        },
+        {
+          "label": "• Italian invasion of Libya",
+          "value": "1911"
+        },
+        {
+          "label": "• Libyan resistance movement",
+          "value": "1911–1951"
+        },
+        {
+          "label": "• Tripolitanian Republic",
+          "value": "16 November 1918"
+        },
+        {
+          "label": "• Kingdom of Libya",
+          "value": "24 December 1951"
+        },
+        {
+          "label": "• Coup d'état by Muammar Gaddafi",
+          "value": "1 September 1969"
+        },
+        {
+          "label": "• Great Socialist People's Libyan Arab Jamahiriya",
+          "value": "2 March 1977"
+        },
+        {
+          "label": "• First Libyan Civil War",
+          "value": "17 February 2011"
+        },
+        {
+          "label": "• NATO intervention in Libya",
+          "value": "19 March 2011"
+        },
+        {
+          "label": "• End of Second Libyan Civil War",
+          "value": "23 October 2020"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "1,759,541 km (679,363 sq mi) ( 16th )",
+          "links": [
+            {
+              "text": "16th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2024 estimate",
+          "value": "7,361,263 ( 103rd )",
+          "links": [
+            {
+              "text": "103rd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• Density",
+          "value": "4.2/km (10.9/sq mi)"
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$123.990 billion ( 96th )",
+          "links": [
+            {
+              "text": "96th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$17,760 ( 101th )",
+          "links": [
+            {
+              "text": "101th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$47.480 billion ( 95th )",
+          "links": [
+            {
+              "text": "95th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$6,800 ( 102th )",
+          "links": [
+            {
+              "text": "102th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.721 high ( 115th )",
+          "links": [
+            {
+              "text": "115th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "Libyan dinar ( LYD )",
+          "links": [
+            {
+              "text": "Libyan dinar",
+              "href": "https://en.wikipedia.org/wiki/Libyan_dinar"
+            },
+            {
+              "text": "LYD",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC +2 ( EET )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "EET",
+              "href": "https://en.wikipedia.org/wiki/Eastern_European_Time"
+            }
+          ]
+        },
+        {
+          "label": "Calling code",
+          "value": "+218",
+          "links": [
+            {
+              "text": "+218",
+              "href": "https://en.wikipedia.org/wiki/Telephone_numbers_in_Libya"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "LY",
+          "links": [
+            {
+              "text": "LY",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:LY"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".ly ليبيا.",
+          "links": [
+            {
+              "text": ".ly",
+              "href": "https://en.wikipedia.org/wiki/.ly"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,360 @@
+{
+  "label": "country",
+  "children": [
+    {
+      "label": "name",
+      "children": [
+        {
+          "label": "new zealand"
+        }
+      ]
+    },
+    {
+      "label": "infobox_title",
+      "children": [
+        {
+          "label": "new zealand aotearoa"
+        }
+      ]
+    },
+    {
+      "label": "capital",
+      "children": [
+        {
+          "label": "wellington / 41."
+        }
+      ]
+    },
+    {
+      "label": "largest_city",
+      "children": [
+        {
+          "label": "auckland / 36."
+        }
+      ]
+    },
+    {
+      "label": "official_languages",
+      "children": [
+        {
+          "label": "english"
+        },
+        {
+          "label": "māori"
+        },
+        {
+          "label": "nz sign language"
+        }
+      ]
+    },
+    {
+      "label": "ethnic_groups_2023",
+      "children": [
+        {
+          "label": "67.8% european"
+        },
+        {
+          "label": "19.6% māori"
+        },
+        {
+          "label": "17.3% asian"
+        },
+        {
+          "label": "8.9% pacific peoples"
+        },
+        {
+          "label": "1.9% me / la / african"
+        },
+        {
+          "label": "1.1% other"
+        }
+      ]
+    },
+    {
+      "label": "religion_2023",
+      "children": [
+        {
+          "label": "51.6% no religion"
+        },
+        {
+          "label": "32.3% christianity"
+        },
+        {
+          "label": "2.9% hinduism"
+        },
+        {
+          "label": "6.3% other"
+        },
+        {
+          "label": "6.9% undeclared"
+        }
+      ]
+    },
+    {
+      "label": "demonyms",
+      "children": [
+        {
+          "label": "new zealander"
+        },
+        {
+          "label": "kiwi"
+        }
+      ]
+    },
+    {
+      "label": "government",
+      "children": [
+        {
+          "label": "unitary parliamentary constitutional monarchy"
+        }
+      ]
+    },
+    {
+      "label": "monarch",
+      "children": [
+        {
+          "label": "charles iii"
+        }
+      ]
+    },
+    {
+      "label": "governor_general",
+      "children": [
+        {
+          "label": "cindy kiro"
+        }
+      ]
+    },
+    {
+      "label": "prime_minister",
+      "children": [
+        {
+          "label": "christopher luxon"
+        }
+      ]
+    },
+    {
+      "label": "legislature",
+      "children": [
+        {
+          "label": "parliament"
+        }
+      ]
+    },
+    {
+      "label": "stages_of_independence_from_the_united_kingdom",
+      "children": [
+        {
+          "label": "treaty_of_waitangi",
+          "children": [
+            {
+              "label": "6 february 1840"
+            }
+          ]
+        },
+        {
+          "label": "responsible_government",
+          "children": [
+            {
+              "label": "7 may 1856"
+            }
+          ]
+        },
+        {
+          "label": "dominion",
+          "children": [
+            {
+              "label": "26 september 1907"
+            }
+          ]
+        },
+        {
+          "label": "statute_of_westminster_adoption_act",
+          "children": [
+            {
+              "label": "25 november 1947"
+            }
+          ]
+        },
+        {
+          "label": "constitution_act_1986",
+          "children": [
+            {
+              "label": "1 january 1987"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "area",
+      "children": [
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "263,310 km"
+            }
+          ]
+        },
+        {
+          "label": "water",
+          "children": [
+            {
+              "label": "1.6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "population",
+      "children": [
+        {
+          "label": "march_2026_estimate",
+          "children": [
+            {
+              "label": "5,344,680"
+            }
+          ]
+        },
+        {
+          "label": "2023_census",
+          "children": [
+            {
+              "label": "4,993,923"
+            }
+          ]
+        },
+        {
+          "label": "density",
+          "children": [
+            {
+              "label": "19.9/km"
+            }
+          ]
+        },
+        {
+          "label": "gdp_ppp",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$298.93 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$55,450"
+            }
+          ]
+        },
+        {
+          "label": "gdp_nominal",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$248.67 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$46,013"
+            }
+          ]
+        },
+        {
+          "label": "gini_2022",
+          "children": [
+            {
+              "label": "30.0 medium inequality"
+            }
+          ]
+        },
+        {
+          "label": "hdi_2023",
+          "children": [
+            {
+              "label": "0.938 very high"
+            }
+          ]
+        },
+        {
+          "label": "currency",
+          "children": [
+            {
+              "label": "new zealand dollar"
+            }
+          ]
+        },
+        {
+          "label": "time_zone",
+          "children": [
+            {
+              "label": "utc +12"
+            }
+          ]
+        },
+        {
+          "label": "summer_dst",
+          "children": [
+            {
+              "label": "utc +13"
+            }
+          ]
+        },
+        {
+          "label": "date_format",
+          "children": [
+            {
+              "label": "dd / mm / yyyy"
+            }
+          ]
+        },
+        {
+          "label": "calling_code",
+          "children": [
+            {
+              "label": "+64"
+            }
+          ]
+        },
+        {
+          "label": "iso_3166_code",
+          "children": [
+            {
+              "label": "nz"
+            }
+          ]
+        },
+        {
+          "label": "internet_tld",
+          "children": [
+            {
+              "label": ".nz"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,424 @@
+{
+  "country": "North Macedonia",
+  "infobox_title": "Republic of North Macedonia Република Северна Македонија ( Macedonian ) Republika e Maqedonisë së Veriut ( Albanian )",
+  "data": [
+    {
+      "label": "Capital and largest city",
+      "value": "Skopje 42°0′N 21°26′E ﻿ / ﻿ 42.000°N 21.433°E",
+      "links": [
+        {
+          "text": "Skopje",
+          "href": "https://en.wikipedia.org/wiki/Skopje"
+        },
+        {
+          "text": "42°0′N21°26′E﻿ / ﻿42.000°N 21.433°E",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=North_Macedonia&params=42_0_N_21_26_E_type:city"
+        }
+      ]
+    },
+    {
+      "label": "Official languages",
+      "value": "Macedonian Albanian",
+      "links": [
+        {
+          "text": "Macedonian",
+          "href": "https://en.wikipedia.org/wiki/Macedonian_language"
+        },
+        {
+          "text": "Albanian",
+          "href": "https://en.wikipedia.org/wiki/Albanian_language"
+        }
+      ],
+      "sub_items": [
+        "Macedonian",
+        "Albanian"
+      ]
+    },
+    {
+      "label": "Official regional languages",
+      "value": "Turkish Romani Serbian Bosnian Aromanian",
+      "links": [
+        {
+          "text": "Turkish",
+          "href": "https://en.wikipedia.org/wiki/Turkish_language"
+        },
+        {
+          "text": "Romani",
+          "href": "https://en.wikipedia.org/wiki/Romani_language"
+        },
+        {
+          "text": "Serbian",
+          "href": "https://en.wikipedia.org/wiki/Serbian_language"
+        },
+        {
+          "text": "Bosnian",
+          "href": "https://en.wikipedia.org/wiki/Bosnian_language"
+        },
+        {
+          "text": "Aromanian",
+          "href": "https://en.wikipedia.org/wiki/Aromanian_language"
+        }
+      ],
+      "sub_items": [
+        "Turkish",
+        "Romani",
+        "Serbian",
+        "Bosnian",
+        "Aromanian"
+      ]
+    },
+    {
+      "label": "Ethnic groups ( 2021 )",
+      "value": "58.4% Macedonians 24.3% Albanians 3.9% Turks 2.5% Roma 1.3% Serbs 0.9% Bosniaks 0.5% Aromanians (including Megleno-Romanians ) 1.0% other (including undeclared and unknown) 7.2% persons for whom data are taken from administrative sources",
+      "links": [
+        {
+          "text": "Macedonians",
+          "href": "https://en.wikipedia.org/wiki/Macedonians_(ethnic_group)"
+        },
+        {
+          "text": "Albanians",
+          "href": "https://en.wikipedia.org/wiki/Albanians_in_North_Macedonia"
+        },
+        {
+          "text": "Turks",
+          "href": "https://en.wikipedia.org/wiki/Turks_in_North_Macedonia"
+        },
+        {
+          "text": "Roma",
+          "href": "https://en.wikipedia.org/wiki/Romani_people_in_North_Macedonia"
+        },
+        {
+          "text": "Serbs",
+          "href": "https://en.wikipedia.org/wiki/Serbs_in_North_Macedonia"
+        },
+        {
+          "text": "Bosniaks",
+          "href": "https://en.wikipedia.org/wiki/Bosniaks_in_North_Macedonia"
+        },
+        {
+          "text": "Aromanians",
+          "href": "https://en.wikipedia.org/wiki/Aromanians_in_North_Macedonia"
+        },
+        {
+          "text": "Megleno-Romanians",
+          "href": "https://en.wikipedia.org/wiki/Megleno-Romanians"
+        },
+        {
+          "text": "other",
+          "href": "https://en.wikipedia.org/wiki/Demographics_of_North_Macedonia"
+        }
+      ],
+      "sub_items": [
+        "58.4% Macedonians",
+        "24.3% Albanians",
+        "3.9% Turks",
+        "2.5% Roma",
+        "1.3% Serbs",
+        "0.9% Bosniaks",
+        "0.5% Aromanians (including Megleno-Romanians )",
+        "1.0% other (including undeclared and unknown)",
+        "7.2% persons for whom data are taken from administrative sources"
+      ]
+    },
+    {
+      "label": "Religion ( 2021 )",
+      "value": "60.4% Christianity 46.1% Eastern Orthodoxy 14.3% other Christian 32.2% Islam 0.1% no religion 0.1% other 7.2% data taken from administrative sources",
+      "links": [
+        {
+          "text": "Christianity",
+          "href": "https://en.wikipedia.org/wiki/Christianity_in_North_Macedonia"
+        },
+        {
+          "text": "Eastern Orthodoxy",
+          "href": "https://en.wikipedia.org/wiki/Macedonian_Orthodox_Church_%E2%80%93_Ohrid_Archbishopric"
+        },
+        {
+          "text": "Christian",
+          "href": "https://en.wikipedia.org/wiki/Christian"
+        },
+        {
+          "text": "Islam",
+          "href": "https://en.wikipedia.org/wiki/Islam_in_North_Macedonia"
+        },
+        {
+          "text": "no religion",
+          "href": "https://en.wikipedia.org/wiki/Irreligion"
+        },
+        {
+          "text": "other",
+          "href": "https://en.wikipedia.org/wiki/Religion_in_North_Macedonia"
+        }
+      ],
+      "sub_items": [
+        "60.4% Christianity 46.1% Eastern Orthodoxy 14.3% other Christian",
+        "60.4% Christianity 46.1% Eastern Orthodoxy 14.3% other Christian",
+        "46.1% Eastern Orthodoxy",
+        "14.3% other Christian",
+        "32.2% Islam",
+        "0.1% no religion",
+        "0.1% other",
+        "7.2% data taken from administrative sources"
+      ]
+    },
+    {
+      "label": "Demonym",
+      "value": "Macedonian",
+      "sub_items": [
+        "Macedonian"
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Unitary parliamentary republic",
+      "links": [
+        {
+          "text": "Unitary parliamentary republic",
+          "href": "https://en.wikipedia.org/wiki/Unitary_parliamentary_republic"
+        }
+      ]
+    },
+    {
+      "label": "• President",
+      "value": "Gordana Siljanovska-Davkova",
+      "links": [
+        {
+          "text": "Gordana Siljanovska-Davkova",
+          "href": "https://en.wikipedia.org/wiki/Gordana_Siljanovska-Davkova"
+        }
+      ]
+    },
+    {
+      "label": "• Prime Minister",
+      "value": "Hristijan Mickoski",
+      "links": [
+        {
+          "text": "Hristijan Mickoski",
+          "href": "https://en.wikipedia.org/wiki/Hristijan_Mickoski"
+        }
+      ]
+    },
+    {
+      "label": "• Chairman of the Assembly",
+      "value": "Afrim Gashi",
+      "links": [
+        {
+          "text": "Afrim Gashi",
+          "href": "https://en.wikipedia.org/wiki/Afrim_Gashi"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "Assembly",
+      "links": [
+        {
+          "text": "Assembly",
+          "href": "https://en.wikipedia.org/wiki/Assembly_of_North_Macedonia"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Establishment history",
+      "rows": [
+        {
+          "label": "• Socialist Republic of Macedonia",
+          "value": "2 August 1944"
+        },
+        {
+          "label": "• Independence referendum",
+          "value": "8 September 1991"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "25,436 km (9,821 sq mi) ( 145th )",
+          "links": [
+            {
+              "text": "145th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "1.1"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2021 census",
+          "value": "1,836,713"
+        },
+        {
+          "label": "• Density",
+          "value": "71.43/km (185.0/sq mi) ( 122nd )",
+          "links": [
+            {
+              "text": "122nd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$53.345 billion ( 134th )",
+          "links": [
+            {
+              "text": "134th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$29,475 ( 71st )",
+          "links": [
+            {
+              "text": "71st",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$17.885 billion ( 137th )",
+          "links": [
+            {
+              "text": "137th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$9,882 ( 81st )",
+          "links": [
+            {
+              "text": "81st",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "Gini (2022)",
+          "value": "29.8 low inequality"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.815 very high ( 68th )",
+          "links": [
+            {
+              "text": "68th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "Macedonian denar ( MKD )",
+          "links": [
+            {
+              "text": "Macedonian denar",
+              "href": "https://en.wikipedia.org/wiki/Macedonian_denar"
+            },
+            {
+              "text": "MKD",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC +1 ( CET )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "+1",
+              "href": "https://en.wikipedia.org/wiki/UTC%2B01:00"
+            },
+            {
+              "text": "CET",
+              "href": "https://en.wikipedia.org/wiki/Central_European_Time"
+            }
+          ]
+        },
+        {
+          "label": "• Summer ( DST )",
+          "value": "UTC +2 ( CEST )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "+2",
+              "href": "https://en.wikipedia.org/wiki/UTC%2B02:00"
+            },
+            {
+              "text": "CEST",
+              "href": "https://en.wikipedia.org/wiki/Central_European_Summer_Time"
+            }
+          ]
+        },
+        {
+          "label": "Calling code",
+          "value": "+389",
+          "links": [
+            {
+              "text": "+389",
+              "href": "https://en.wikipedia.org/wiki/Telephone_numbers_in_North_Macedonia"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "MK",
+          "links": [
+            {
+              "text": "MK",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:MK"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".mk .мкд",
+          "links": [
+            {
+              "text": ".mk",
+              "href": "https://en.wikipedia.org/wiki/.mk"
+            },
+            {
+              "text": ".мкд",
+              "href": "https://en.wikipedia.org/wiki/.%D0%BC%D0%BA%D0%B4"
+            }
+          ],
+          "sub_items": [
+            ".mk",
+            ".мкд"
+          ]
+        }
+      ]
+    }
+  ]
+}

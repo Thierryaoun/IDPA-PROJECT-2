@@ -1,0 +1,447 @@
+{
+  "country": "Morocco",
+  "infobox_title": "Kingdom of Morocco المملكة المغربية ( Arabic ) al-Mamlakah al-Maghribiyah ⵜⴰⴳⵍⴷⵉⵜ ⵏ ⵍⵎⵖⵔⵉⴱ ( Tamazight ) Tageldit n Lmeɣrib",
+  "data": [
+    {
+      "label": "Capital",
+      "value": "Rabat 34°02′N 6°51′W ﻿ / ﻿ 34.033°N 6.850°W",
+      "links": [
+        {
+          "text": "Rabat",
+          "href": "https://en.wikipedia.org/wiki/Rabat"
+        },
+        {
+          "text": "34°02′N6°51′W﻿ / ﻿34.033°N 6.850°W",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Morocco&params=34_02_N_6_51_W_type:city(580,000)_region:MA-RAB"
+        }
+      ]
+    },
+    {
+      "label": "Largest city",
+      "value": "Casablanca 33°32′N 7°35′W ﻿ / ﻿ 33.533°N 7.583°W",
+      "links": [
+        {
+          "text": "Casablanca",
+          "href": "https://en.wikipedia.org/wiki/Casablanca"
+        },
+        {
+          "text": "33°32′N7°35′W﻿ / ﻿33.533°N 7.583°W",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Morocco&params=33_32_N_7_35_W_type:city(3,710,000)_region:MA-CAS"
+        }
+      ]
+    },
+    {
+      "label": "Official languages",
+      "value": "Arabic Tamazight",
+      "links": [
+        {
+          "text": "Arabic",
+          "href": "https://en.wikipedia.org/wiki/Modern_Standard_Arabic"
+        },
+        {
+          "text": "Tamazight",
+          "href": "https://en.wikipedia.org/wiki/Standard_Moroccan_Tamazight"
+        }
+      ],
+      "sub_items": [
+        "Arabic",
+        "Tamazight"
+      ]
+    },
+    {
+      "label": "Spoken languages (2024)",
+      "value": "92.7% Arabic 91.9% Moroccan Arabic 0.8% Hassaniya Arabic 24.8% Berber languages 14.2% Tashelhit 7.4% Tamazight 3.2% Tarifit",
+      "links": [
+        {
+          "text": "Arabic",
+          "href": "https://en.wikipedia.org/wiki/Arabic"
+        },
+        {
+          "text": "Moroccan Arabic",
+          "href": "https://en.wikipedia.org/wiki/Moroccan_Arabic"
+        },
+        {
+          "text": "Hassaniya Arabic",
+          "href": "https://en.wikipedia.org/wiki/Hassaniya_Arabic"
+        },
+        {
+          "text": "Berber languages",
+          "href": "https://en.wikipedia.org/wiki/Berber_languages"
+        },
+        {
+          "text": "Tashelhit",
+          "href": "https://en.wikipedia.org/wiki/Shilha_language"
+        },
+        {
+          "text": "Tamazight",
+          "href": "https://en.wikipedia.org/wiki/Central_Atlas_Tamazight"
+        },
+        {
+          "text": "Tarifit",
+          "href": "https://en.wikipedia.org/wiki/Tarifit"
+        }
+      ],
+      "sub_items": [
+        "92.7% Arabic 91.9% Moroccan Arabic 0.8% Hassaniya Arabic",
+        "91.9% Moroccan Arabic",
+        "0.8% Hassaniya Arabic",
+        "24.8% Berber languages 14.2% Tashelhit 7.4% Tamazight 3.2% Tarifit",
+        "14.2% Tashelhit",
+        "7.4% Tamazight",
+        "3.2% Tarifit"
+      ]
+    },
+    {
+      "label": "Foreign languages",
+      "value": "French English Spanish",
+      "links": [
+        {
+          "text": "French",
+          "href": "https://en.wikipedia.org/wiki/French_language"
+        },
+        {
+          "text": "English",
+          "href": "https://en.wikipedia.org/wiki/English_language"
+        },
+        {
+          "text": "Spanish",
+          "href": "https://en.wikipedia.org/wiki/Spanish_language"
+        }
+      ],
+      "sub_items": [
+        "French",
+        "English",
+        "Spanish"
+      ]
+    },
+    {
+      "label": "Ethnic groups",
+      "value": "See Ethnic groups",
+      "links": [
+        {
+          "text": "Ethnic groups",
+          "href": "#Ethnic_groups"
+        }
+      ]
+    },
+    {
+      "label": "Religion (2020)",
+      "value": "99.68% Islam ( official ) 99.23% Sunni 0.45% Shia 0.3% Others 0.13% Agnostics 0.10% Baháʼís 0.09% Christians 0.01% Jews",
+      "links": [
+        {
+          "text": "Islam",
+          "href": "https://en.wikipedia.org/wiki/Islam_in_Morocco"
+        },
+        {
+          "text": "official",
+          "href": "https://en.wikipedia.org/wiki/State_religion"
+        },
+        {
+          "text": "Sunni",
+          "href": "https://en.wikipedia.org/wiki/Sunni_Islam"
+        },
+        {
+          "text": "Shia",
+          "href": "https://en.wikipedia.org/wiki/Shia_Islam"
+        },
+        {
+          "text": "Others",
+          "href": "https://en.wikipedia.org/wiki/Religion_in_Morocco"
+        },
+        {
+          "text": "Agnostics",
+          "href": "https://en.wikipedia.org/wiki/Agnosticism"
+        },
+        {
+          "text": "Baháʼís",
+          "href": "https://en.wikipedia.org/wiki/Bah%C3%A1%CA%BC%C3%AD_Faith_in_Morocco"
+        },
+        {
+          "text": "Christians",
+          "href": "https://en.wikipedia.org/wiki/Christianity_in_Morocco"
+        },
+        {
+          "text": "Jews",
+          "href": "https://en.wikipedia.org/wiki/Moroccan_Jews"
+        }
+      ],
+      "sub_items": [
+        "99.68% Islam ( official ) 99.23% Sunni 0.45% Shia",
+        "99.23% Sunni",
+        "0.45% Shia",
+        "0.3% Others 0.13% Agnostics 0.10% Baháʼís 0.09% Christians 0.01% Jews",
+        "0.13% Agnostics",
+        "0.10% Baháʼís",
+        "0.09% Christians",
+        "0.01% Jews"
+      ]
+    },
+    {
+      "label": "Demonym",
+      "value": "Moroccan",
+      "links": [
+        {
+          "text": "Moroccan",
+          "href": "https://en.wikipedia.org/wiki/Moroccans"
+        }
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Unitary parliamentary semi-constitutional monarchy",
+      "links": [
+        {
+          "text": "semi-constitutional monarchy",
+          "href": "https://en.wikipedia.org/wiki/Constitutional_monarchy#Executive_monarchy_versus_ceremonial_monarchy"
+        }
+      ]
+    },
+    {
+      "label": "• King",
+      "value": "Mohammed VI",
+      "links": [
+        {
+          "text": "Mohammed VI",
+          "href": "https://en.wikipedia.org/wiki/Mohammed_VI_of_Morocco"
+        }
+      ]
+    },
+    {
+      "label": "• Prime Minister",
+      "value": "Aziz Akhannouch",
+      "links": [
+        {
+          "text": "Aziz Akhannouch",
+          "href": "https://en.wikipedia.org/wiki/Aziz_Akhannouch"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "Parliament",
+      "links": [
+        {
+          "text": "Parliament",
+          "href": "https://en.wikipedia.org/wiki/Parliament_of_Morocco"
+        }
+      ]
+    },
+    {
+      "label": "• Upper house",
+      "value": "House of Councillors",
+      "links": [
+        {
+          "text": "House of Councillors",
+          "href": "https://en.wikipedia.org/wiki/House_of_Councillors_(Morocco)"
+        }
+      ]
+    },
+    {
+      "label": "• Lower house",
+      "value": "House of Representatives",
+      "links": [
+        {
+          "text": "House of Representatives",
+          "href": "https://en.wikipedia.org/wiki/House_of_Representatives_(Morocco)"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Establishment",
+      "rows": [
+        {
+          "label": "• Idrisid dynasty",
+          "value": "788"
+        },
+        {
+          "label": "• ' Alawi dynasty (current dynasty)",
+          "value": "1631"
+        },
+        {
+          "label": "• French protectorate",
+          "value": "30 March 1912"
+        },
+        {
+          "label": "• Independence",
+          "value": "2 March 1956"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "446,550 km (172,410 sq mi) ( 57th )",
+          "links": [
+            {
+              "text": "57th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "0.056 (250 km )"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2024 estimate",
+          "value": "37,493,183 ( 38th )",
+          "links": [
+            {
+              "text": "38th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• 2024 census",
+          "value": "36,828,330"
+        },
+        {
+          "label": "• Density",
+          "value": "79.0/km (204.6/sq mi)"
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$424.870 billion ( 57th )",
+          "links": [
+            {
+              "text": "57th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$11,270 ( 122nd )",
+          "links": [
+            {
+              "text": "122nd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$165.840 billion ( 58th )",
+          "links": [
+            {
+              "text": "58th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$4,440 ( 123rd )",
+          "links": [
+            {
+              "text": "123rd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "Gini (2015)",
+          "value": "40.3 medium inequality"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.710 high ( 120th )",
+          "links": [
+            {
+              "text": "120th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "Moroccan dirham ( MAD )",
+          "links": [
+            {
+              "text": "Moroccan dirham",
+              "href": "https://en.wikipedia.org/wiki/Moroccan_dirham"
+            },
+            {
+              "text": "MAD",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC +1 UTC+0 (during Ramadan )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "Ramadan",
+              "href": "https://en.wikipedia.org/wiki/Ramadan"
+            }
+          ],
+          "sub_items": [
+            "+1",
+            "UTC+0 (during Ramadan )"
+          ]
+        },
+        {
+          "label": "Calling code",
+          "value": "+212",
+          "links": [
+            {
+              "text": "+212",
+              "href": "https://en.wikipedia.org/wiki/Telephone_numbers_in_Morocco"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "MA",
+          "links": [
+            {
+              "text": "MA",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:MA"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".ma .المغرب",
+          "links": [
+            {
+              "text": ".ma",
+              "href": "https://en.wikipedia.org/wiki/.ma"
+            },
+            {
+              "text": ".المغرب",
+              "href": "https://en.wikipedia.org/wiki/Internationalized_country_code_top-level_domain"
+            }
+          ],
+          "sub_items": [
+            ".ma",
+            ".المغرب"
+          ]
+        }
+      ]
+    }
+  ]
+}

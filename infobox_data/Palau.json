@@ -1,0 +1,372 @@
+{
+  "country": "Palau",
+  "infobox_title": "Republic of Palau Beluu er a Belau ( Palauan )",
+  "data": [
+    {
+      "label": "Capital",
+      "value": "Ngerulmud 7°30′N 134°37′E ﻿ / ﻿ 7.500°N 134.617°E",
+      "links": [
+        {
+          "text": "Ngerulmud",
+          "href": "https://en.wikipedia.org/wiki/Ngerulmud"
+        },
+        {
+          "text": "7°30′N134°37′E﻿ / ﻿7.500°N 134.617°E",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Palau&params=7_30_N_134_37_E_type:city"
+        }
+      ]
+    },
+    {
+      "label": "Largest city",
+      "value": "Koror 7°20′N 134°29′E ﻿ / ﻿ 7.333°N 134.483°E",
+      "links": [
+        {
+          "text": "Koror",
+          "href": "https://en.wikipedia.org/wiki/Koror_City"
+        },
+        {
+          "text": "7°20′N134°29′E﻿ / ﻿7.333°N 134.483°E",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Palau&params=7_20_N_134_29_E_"
+        }
+      ]
+    },
+    {
+      "label": "Official languages",
+      "value": "Palauan English",
+      "links": [
+        {
+          "text": "Palauan",
+          "href": "https://en.wikipedia.org/wiki/Palauan_language"
+        },
+        {
+          "text": "English",
+          "href": "https://en.wikipedia.org/wiki/English_language"
+        }
+      ],
+      "sub_items": [
+        "Palauan",
+        "English"
+      ]
+    },
+    {
+      "label": "Recognized regional languages",
+      "value": "Sonsorolese Tobian Japanese",
+      "links": [
+        {
+          "text": "Sonsorolese",
+          "href": "https://en.wikipedia.org/wiki/Sonsorolese_language"
+        },
+        {
+          "text": "Tobian",
+          "href": "https://en.wikipedia.org/wiki/Tobian_language"
+        },
+        {
+          "text": "Japanese",
+          "href": "https://en.wikipedia.org/wiki/Japanese_language"
+        }
+      ],
+      "sub_items": [
+        "Sonsorolese",
+        "Tobian",
+        "Japanese"
+      ]
+    },
+    {
+      "label": "Ethnic groups (2020 census )",
+      "value": "65.2% Palauan 31.6% Asian 1.2% Carolinian 1.0% European 0.9% other",
+      "links": [
+        {
+          "text": "Palauan",
+          "href": "https://en.wikipedia.org/wiki/Demographics_of_Palau"
+        },
+        {
+          "text": "Asian",
+          "href": "https://en.wikipedia.org/wiki/Asian_people"
+        },
+        {
+          "text": "Carolinian",
+          "href": "https://en.wikipedia.org/wiki/Carolinian_people"
+        },
+        {
+          "text": "European",
+          "href": "https://en.wikipedia.org/wiki/White_people"
+        }
+      ],
+      "sub_items": [
+        "65.2% Palauan",
+        "31.6% Asian",
+        "1.2% Carolinian",
+        "1.0% European",
+        "0.9% other"
+      ]
+    },
+    {
+      "label": "Religion (2020 census)",
+      "value": "78.7% Christianity 10.1% no religion 5.1% Modekngei 4.9% Islam 1.2% other",
+      "links": [
+        {
+          "text": "Christianity",
+          "href": "https://en.wikipedia.org/wiki/Christianity_in_Palau"
+        },
+        {
+          "text": "no religion",
+          "href": "https://en.wikipedia.org/wiki/Irreligion"
+        },
+        {
+          "text": "Modekngei",
+          "href": "https://en.wikipedia.org/wiki/Modekngei"
+        },
+        {
+          "text": "Islam",
+          "href": "https://en.wikipedia.org/wiki/Islam_in_Palau"
+        }
+      ],
+      "sub_items": [
+        "78.7% Christianity",
+        "10.1% no religion",
+        "5.1% Modekngei",
+        "4.9% Islam",
+        "1.2% other"
+      ]
+    },
+    {
+      "label": "Demonym",
+      "value": "Palauan",
+      "links": [
+        {
+          "text": "Palauan",
+          "href": "https://en.wikipedia.org/wiki/Palauan_people"
+        }
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Unitary presidential republic under a non-partisan democracy",
+      "links": [
+        {
+          "text": "presidential republic",
+          "href": "https://en.wikipedia.org/wiki/Presidential_republic"
+        },
+        {
+          "text": "non-partisan democracy",
+          "href": "https://en.wikipedia.org/wiki/Non-partisan_democracy"
+        }
+      ]
+    },
+    {
+      "label": "• President",
+      "value": "Surangel Whipps Jr.",
+      "links": [
+        {
+          "text": "Surangel Whipps Jr.",
+          "href": "https://en.wikipedia.org/wiki/Surangel_Whipps_Jr."
+        }
+      ]
+    },
+    {
+      "label": "• Vice President",
+      "value": "Raynold Oilouch",
+      "links": [
+        {
+          "text": "Raynold Oilouch",
+          "href": "https://en.wikipedia.org/wiki/Raynold_Oilouch"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "Palau National Congress",
+      "links": [
+        {
+          "text": "Palau National Congress",
+          "href": "https://en.wikipedia.org/wiki/Palau_National_Congress"
+        }
+      ]
+    },
+    {
+      "label": "• Upper house",
+      "value": "Senate",
+      "links": [
+        {
+          "text": "Senate",
+          "href": "https://en.wikipedia.org/wiki/Senate_of_Palau"
+        }
+      ]
+    },
+    {
+      "label": "• Lower house",
+      "value": "House of Delegates",
+      "links": [
+        {
+          "text": "House of Delegates",
+          "href": "https://en.wikipedia.org/wiki/House_of_Delegates_of_Palau"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Independence from the United States",
+      "rows": [
+        {
+          "label": "• Trusteeship",
+          "value": "18 July 1947"
+        },
+        {
+          "label": "• Establishment of the Republic of Palau",
+          "value": "1 January 1981"
+        },
+        {
+          "label": "• Compact of Free Association",
+          "value": "1 October 1994"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "459 km (177 sq mi) ( 180th )",
+          "links": [
+            {
+              "text": "180th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "negligible"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• As of August 2025 estimate",
+          "value": "17,663 ( 221st )",
+          "links": [
+            {
+              "text": "221st",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• 2021 census",
+          "value": "16,766"
+        },
+        {
+          "label": "• Density",
+          "value": "38.375/km (99.4/sq mi) ( 182th )",
+          "links": [
+            {
+              "text": "182th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2024 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$308 million"
+        },
+        {
+          "label": "• Per capita",
+          "value": "$18,209 ( 81st )",
+          "links": [
+            {
+              "text": "81st",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2024 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$322 million"
+        },
+        {
+          "label": "• Per capita",
+          "value": "$17,448"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.786 high ( 84th )",
+          "links": [
+            {
+              "text": "84th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "United States dollar ( USD )",
+          "links": [
+            {
+              "text": "United States dollar",
+              "href": "https://en.wikipedia.org/wiki/United_States_dollar"
+            },
+            {
+              "text": "USD",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC +9 (PWT)",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            }
+          ]
+        },
+        {
+          "label": "Date format",
+          "value": "mm/dd/yyyy"
+        },
+        {
+          "label": "Calling code",
+          "value": "+680",
+          "links": [
+            {
+              "text": "+680",
+              "href": "https://en.wikipedia.org/wiki/%2B680"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "PW",
+          "links": [
+            {
+              "text": "PW",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:PW"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".pw",
+          "links": [
+            {
+              "text": ".pw",
+              "href": "https://en.wikipedia.org/wiki/.pw"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

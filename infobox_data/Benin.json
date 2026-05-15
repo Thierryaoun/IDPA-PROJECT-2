@@ -1,0 +1,539 @@
+{
+  "country": "Benin",
+  "infobox_title": "Republic of Benin République du Bénin ( French )",
+  "data": [
+    {
+      "label": "Capital",
+      "value": "Porto-Novo",
+      "links": [
+        {
+          "text": "Porto-Novo",
+          "href": "https://en.wikipedia.org/wiki/Porto-Novo"
+        }
+      ]
+    },
+    {
+      "label": "Largest city",
+      "value": "Cotonou",
+      "links": [
+        {
+          "text": "Cotonou",
+          "href": "https://en.wikipedia.org/wiki/Cotonou"
+        }
+      ]
+    },
+    {
+      "label": "Official languages",
+      "value": "French",
+      "links": [
+        {
+          "text": "French",
+          "href": "https://en.wikipedia.org/wiki/French_language"
+        }
+      ]
+    },
+    {
+      "label": "National languages",
+      "value": "List: Arabic English Aguna Aja Alada Fon Gbe Gen Gun Pherá Phla Tofin Tɔli Waci Berba Kabye Lama Lukpa Mbelime Mossi Nateni Ngangam Tammari Tem Waama Yom Kwa Chakosi Foodo Ede Ifè Mokole Yoruba Yoruboid Bariba Dendi Fula Hausa",
+      "links": [
+        {
+          "text": "Arabic",
+          "href": "https://en.wikipedia.org/wiki/Arabic"
+        },
+        {
+          "text": "English",
+          "href": "https://en.wikipedia.org/wiki/English_language"
+        },
+        {
+          "text": "Aguna",
+          "href": "https://en.wikipedia.org/wiki/Aguna_language"
+        },
+        {
+          "text": "Aja",
+          "href": "https://en.wikipedia.org/wiki/Adja_language"
+        },
+        {
+          "text": "Alada",
+          "href": "https://en.wikipedia.org/wiki/Alada_language"
+        },
+        {
+          "text": "Fon",
+          "href": "https://en.wikipedia.org/wiki/Fon_language"
+        },
+        {
+          "text": "Gbe",
+          "href": "https://en.wikipedia.org/wiki/Gbe_languages"
+        },
+        {
+          "text": "Gen",
+          "href": "https://en.wikipedia.org/wiki/Gen_language"
+        },
+        {
+          "text": "Gun",
+          "href": "https://en.wikipedia.org/wiki/Gun_language"
+        },
+        {
+          "text": "Pherá",
+          "href": "https://en.wikipedia.org/wiki/Pher%C3%A1_language"
+        },
+        {
+          "text": "Phla",
+          "href": "https://en.wikipedia.org/wiki/Phla_language"
+        },
+        {
+          "text": "Tofin",
+          "href": "https://en.wikipedia.org/wiki/Tofin_language"
+        },
+        {
+          "text": "Tɔli",
+          "href": "https://en.wikipedia.org/wiki/T%C9%94li_language"
+        },
+        {
+          "text": "Waci",
+          "href": "https://en.wikipedia.org/wiki/Waci_language"
+        },
+        {
+          "text": "Berba",
+          "href": "https://en.wikipedia.org/wiki/Berba_language"
+        },
+        {
+          "text": "Kabye",
+          "href": "https://en.wikipedia.org/wiki/Kabiye_language"
+        },
+        {
+          "text": "Lama",
+          "href": "https://en.wikipedia.org/wiki/Lama_language"
+        },
+        {
+          "text": "Lukpa",
+          "href": "https://en.wikipedia.org/wiki/Lukpa_language"
+        },
+        {
+          "text": "Mbelime",
+          "href": "https://en.wikipedia.org/wiki/Mbelime_language"
+        },
+        {
+          "text": "Mossi",
+          "href": "https://en.wikipedia.org/wiki/Mossi_language"
+        },
+        {
+          "text": "Nateni",
+          "href": "https://en.wikipedia.org/wiki/Nateni_language"
+        },
+        {
+          "text": "Ngangam",
+          "href": "https://en.wikipedia.org/wiki/Ngangam_language"
+        },
+        {
+          "text": "Tammari",
+          "href": "https://en.wikipedia.org/wiki/Tammari_language"
+        },
+        {
+          "text": "Tem",
+          "href": "https://en.wikipedia.org/wiki/Tem_language"
+        },
+        {
+          "text": "Waama",
+          "href": "https://en.wikipedia.org/wiki/Waama_language"
+        },
+        {
+          "text": "Yom",
+          "href": "https://en.wikipedia.org/wiki/Yom_language"
+        },
+        {
+          "text": "Kwa",
+          "href": "https://en.wikipedia.org/wiki/Kwa_languages"
+        },
+        {
+          "text": "Chakosi",
+          "href": "https://en.wikipedia.org/wiki/Chakosi_language"
+        },
+        {
+          "text": "Foodo",
+          "href": "https://en.wikipedia.org/wiki/Foodo_language"
+        },
+        {
+          "text": "Ede",
+          "href": "https://en.wikipedia.org/wiki/Ede_language"
+        },
+        {
+          "text": "Ifè",
+          "href": "https://en.wikipedia.org/wiki/If%C3%A8_language"
+        },
+        {
+          "text": "Mokole",
+          "href": "https://en.wikipedia.org/wiki/Mokole_language_(Benin)"
+        },
+        {
+          "text": "Yoruba",
+          "href": "https://en.wikipedia.org/wiki/Yoruba_language"
+        },
+        {
+          "text": "Yoruboid",
+          "href": "https://en.wikipedia.org/wiki/Yoruboid_languages"
+        },
+        {
+          "text": "Bariba",
+          "href": "https://en.wikipedia.org/wiki/Bariba_language"
+        },
+        {
+          "text": "Dendi",
+          "href": "https://en.wikipedia.org/wiki/Dendi_language"
+        },
+        {
+          "text": "Fula",
+          "href": "https://en.wikipedia.org/wiki/Fula_language"
+        },
+        {
+          "text": "Hausa",
+          "href": "https://en.wikipedia.org/wiki/Hausa_language"
+        }
+      ],
+      "sub_items": [
+        "Arabic",
+        "English",
+        "Aguna",
+        "Aja",
+        "Alada",
+        "Fon",
+        "Gbe",
+        "Gen",
+        "Gun",
+        "Pherá",
+        "Phla",
+        "Tofin",
+        "Tɔli",
+        "Waci",
+        "Berba",
+        "Kabye",
+        "Lama",
+        "Lukpa",
+        "Mbelime",
+        "Mossi",
+        "Nateni",
+        "Ngangam",
+        "Tammari",
+        "Tem",
+        "Waama",
+        "Yom",
+        "Kwa",
+        "Chakosi",
+        "Foodo",
+        "Ede",
+        "Ifè",
+        "Mokole",
+        "Yoruba",
+        "Yoruboid",
+        "Bariba",
+        "Dendi",
+        "Fula",
+        "Hausa"
+      ]
+    },
+    {
+      "label": "Ethnic groups (2013 )",
+      "value": "38.4% Fon 15.1% Adja and Mina 12% Yoruba 9.6% Bariba 8.6% Fula 6.1% Ottamari 4.3% Yoa-Lokpa 2.9% Dendi 2.8% other",
+      "links": [
+        {
+          "text": "Fon",
+          "href": "https://en.wikipedia.org/wiki/Fon_people"
+        },
+        {
+          "text": "Adja",
+          "href": "https://en.wikipedia.org/wiki/Adja_people"
+        },
+        {
+          "text": "Mina",
+          "href": "https://en.wikipedia.org/wiki/Gen_language"
+        },
+        {
+          "text": "Yoruba",
+          "href": "https://en.wikipedia.org/wiki/Yoruba_people"
+        },
+        {
+          "text": "Bariba",
+          "href": "https://en.wikipedia.org/wiki/Bariba_people"
+        },
+        {
+          "text": "Fula",
+          "href": "https://en.wikipedia.org/wiki/Fula_people"
+        },
+        {
+          "text": "Dendi",
+          "href": "https://en.wikipedia.org/wiki/Dendi_people"
+        }
+      ],
+      "sub_items": [
+        "38.4% Fon",
+        "15.1% Adja and Mina",
+        "12% Yoruba",
+        "9.6% Bariba",
+        "8.6% Fula",
+        "6.1% Ottamari",
+        "4.3% Yoa-Lokpa",
+        "2.9% Dendi",
+        "2.8% other"
+      ]
+    },
+    {
+      "label": "Religion (2020)",
+      "value": "52.2% Christianity 24.6% Islam 17.9% traditional faiths 5.2% no religion 0.1% other",
+      "links": [
+        {
+          "text": "Christianity",
+          "href": "https://en.wikipedia.org/wiki/Christianity_in_Benin"
+        },
+        {
+          "text": "Islam",
+          "href": "https://en.wikipedia.org/wiki/Islam"
+        },
+        {
+          "text": "traditional faiths",
+          "href": "https://en.wikipedia.org/wiki/African_Traditional_Religion"
+        },
+        {
+          "text": "no religion",
+          "href": "https://en.wikipedia.org/wiki/Irreligion"
+        }
+      ],
+      "sub_items": [
+        "52.2% Christianity",
+        "24.6% Islam",
+        "17.9% traditional faiths",
+        "5.2% no religion",
+        "0.1% other"
+      ]
+    },
+    {
+      "label": "Demonyms",
+      "value": "Beninese Beninoise",
+      "sub_items": [
+        "Beninese",
+        "Beninoise"
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Unitary presidential republic",
+      "links": [
+        {
+          "text": "presidential republic",
+          "href": "https://en.wikipedia.org/wiki/Presidential_system"
+        }
+      ]
+    },
+    {
+      "label": "• President",
+      "value": "Patrice Talon",
+      "links": [
+        {
+          "text": "Patrice Talon",
+          "href": "https://en.wikipedia.org/wiki/Patrice_Talon"
+        }
+      ]
+    },
+    {
+      "label": "• Vice President",
+      "value": "Mariam Chabi Talata",
+      "links": [
+        {
+          "text": "Mariam Chabi Talata",
+          "href": "https://en.wikipedia.org/wiki/Mariam_Chabi_Talata"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "National Assembly",
+      "links": [
+        {
+          "text": "National Assembly",
+          "href": "https://en.wikipedia.org/wiki/National_Assembly_(Benin)"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Independence from France",
+      "rows": [
+        {
+          "label": "• Republic of Dahomey established within the French Community",
+          "value": "11 December 1958"
+        },
+        {
+          "label": "• Independence",
+          "value": "1 August 1960"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "114,763 km (44,310 sq mi) ( 100th )",
+          "links": [
+            {
+              "text": "100th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "0.4%"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2022 estimate",
+          "value": "13,754,688 ( 77th )",
+          "links": [
+            {
+              "text": "77th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• Density",
+          "value": "94.8/km (245.5/sq mi) ( 98th )",
+          "links": [
+            {
+              "text": "98th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2026 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$76.510 billion ( 137th )",
+          "links": [
+            {
+              "text": "137th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$4,980 ( 163rd )",
+          "links": [
+            {
+              "text": "163rd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2026 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$27.450 billion ( 141st )",
+          "links": [
+            {
+              "text": "141st",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$1,790 ( 163rd )",
+          "links": [
+            {
+              "text": "163rd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "Gini (2021)",
+          "value": "34.4 medium inequality"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.515 low ( 173rd )",
+          "links": [
+            {
+              "text": "173rd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "West African CFA franc ( XOF )",
+          "links": [
+            {
+              "text": "West African CFA franc",
+              "href": "https://en.wikipedia.org/wiki/West_African_CFA_franc"
+            },
+            {
+              "text": "XOF",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC +1 ( WAT )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "WAT",
+              "href": "https://en.wikipedia.org/wiki/West_Africa_Time"
+            }
+          ]
+        },
+        {
+          "label": "Date format",
+          "value": "dd/mm/yyyy"
+        },
+        {
+          "label": "Calling code",
+          "value": "+229",
+          "links": [
+            {
+              "text": "+229",
+              "href": "https://en.wikipedia.org/wiki/%2B229"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "BJ",
+          "links": [
+            {
+              "text": "BJ",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:BJ"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".bj",
+          "links": [
+            {
+              "text": ".bj",
+              "href": "https://en.wikipedia.org/wiki/.bj"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

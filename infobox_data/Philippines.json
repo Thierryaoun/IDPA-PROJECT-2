@@ -1,0 +1,467 @@
+{
+  "country": "Philippines",
+  "infobox_title": "Republic of the Philippines Republika ng Pilipinas ( Filipino )",
+  "data": [
+    {
+      "label": "Capital",
+      "value": "Manila ( de jure ) Metro Manila ( de facto ) 13°N 122°E ﻿ / ﻿ 13°N 122°E",
+      "links": [
+        {
+          "text": "Manila",
+          "href": "https://en.wikipedia.org/wiki/Manila"
+        },
+        {
+          "text": "Metro Manila",
+          "href": "https://en.wikipedia.org/wiki/Metro_Manila"
+        },
+        {
+          "text": "13°N122°E﻿ / ﻿13°N 122°E",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Philippines&params=13_N_122_E_type:country_region:PH"
+        }
+      ]
+    },
+    {
+      "label": "Largest city",
+      "value": "Quezon City",
+      "links": [
+        {
+          "text": "Quezon City",
+          "href": "https://en.wikipedia.org/wiki/Quezon_City"
+        }
+      ]
+    },
+    {
+      "label": "Official languages",
+      "value": "Filipino English",
+      "links": [
+        {
+          "text": "Filipino",
+          "href": "https://en.wikipedia.org/wiki/Filipino_language"
+        },
+        {
+          "text": "English",
+          "href": "https://en.wikipedia.org/wiki/Philippine_English"
+        }
+      ],
+      "sub_items": [
+        "Filipino",
+        "English"
+      ]
+    },
+    {
+      "label": "Recognized national languages",
+      "value": "Filipino"
+    },
+    {
+      "label": "Recognized regional languages",
+      "value": "19 languages",
+      "links": [
+        {
+          "text": "19 languages",
+          "href": "https://en.wikipedia.org/wiki/Languages_of_the_Philippines"
+        }
+      ]
+    },
+    {
+      "label": "National sign language",
+      "value": "Filipino Sign Language",
+      "links": [
+        {
+          "text": "Filipino Sign Language",
+          "href": "https://en.wikipedia.org/wiki/Filipino_Sign_Language"
+        }
+      ]
+    },
+    {
+      "label": "Other recognized languages",
+      "value": "Spanish and Arabic",
+      "links": [
+        {
+          "text": "Spanish",
+          "href": "https://en.wikipedia.org/wiki/Philippine_Spanish"
+        },
+        {
+          "text": "Arabic",
+          "href": "https://en.wikipedia.org/wiki/Arabic"
+        }
+      ]
+    },
+    {
+      "label": "Ethnic groups (2020)",
+      "value": "26.0% Tagalog 14.3% Bisaya 8.0% Ilocano 8.0% Cebuano 7.9% Ilonggo 6.5% Bicolano 20.3% other",
+      "links": [
+        {
+          "text": "Tagalog",
+          "href": "https://en.wikipedia.org/wiki/Tagalog_people"
+        },
+        {
+          "text": "Bisaya",
+          "href": "https://en.wikipedia.org/wiki/Visayans"
+        },
+        {
+          "text": "Ilocano",
+          "href": "https://en.wikipedia.org/wiki/Ilocano_people"
+        },
+        {
+          "text": "Cebuano",
+          "href": "https://en.wikipedia.org/wiki/Cebuano_people"
+        },
+        {
+          "text": "Ilonggo",
+          "href": "https://en.wikipedia.org/wiki/Hiligaynon_people"
+        },
+        {
+          "text": "Bicolano",
+          "href": "https://en.wikipedia.org/wiki/Bicolano_people"
+        },
+        {
+          "text": "other",
+          "href": "https://en.wikipedia.org/wiki/Ethnic_groups_in_the_Philippines"
+        }
+      ],
+      "sub_items": [
+        "26.0% Tagalog",
+        "14.3% Bisaya",
+        "8.0% Ilocano",
+        "8.0% Cebuano",
+        "7.9% Ilonggo",
+        "6.5% Bicolano",
+        "20.3% other"
+      ]
+    },
+    {
+      "label": "Religion (2020)",
+      "value": "85.3% Christianity 78.8% Catholicism 6.5% other Christian 6.4% Islam 8.2% other",
+      "links": [
+        {
+          "text": "Christianity",
+          "href": "https://en.wikipedia.org/wiki/Christianity_in_the_Philippines"
+        },
+        {
+          "text": "Catholicism",
+          "href": "https://en.wikipedia.org/wiki/Catholic_Church_in_the_Philippines"
+        },
+        {
+          "text": "Christian",
+          "href": "https://en.wikipedia.org/wiki/Religion_in_the_Philippines#Christianity"
+        },
+        {
+          "text": "Islam",
+          "href": "https://en.wikipedia.org/wiki/Islam_in_the_Philippines"
+        },
+        {
+          "text": "other",
+          "href": "https://en.wikipedia.org/wiki/Religion_in_the_Philippines#Other_religions"
+        }
+      ],
+      "sub_items": [
+        "85.3% Christianity 78.8% Catholicism 6.5% other Christian",
+        "85.3% Christianity 78.8% Catholicism 6.5% other Christian",
+        "78.8% Catholicism",
+        "6.5% other Christian",
+        "6.4% Islam",
+        "8.2% other"
+      ]
+    },
+    {
+      "label": "Demonyms",
+      "value": "Filipino ( neutral ) Filipina ( feminine ) Pinoy ( colloquial neutral ) Pinay ( colloquial feminine ) Philippine ( adjective for certain common nouns )",
+      "links": [
+        {
+          "text": "Filipino",
+          "href": "https://en.wikipedia.org/wiki/Filipinos"
+        },
+        {
+          "text": "Pinoy",
+          "href": "https://en.wikipedia.org/wiki/Pinoy"
+        }
+      ],
+      "sub_items": [
+        "Filipino ( neutral )",
+        "Filipina ( feminine )",
+        "Pinoy ( colloquial neutral )",
+        "Pinay ( colloquial feminine )",
+        "Philippine ( adjective for certain common nouns )"
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Unitary presidential republic",
+      "links": [
+        {
+          "text": "presidential republic",
+          "href": "https://en.wikipedia.org/wiki/Presidential_republic"
+        }
+      ]
+    },
+    {
+      "label": "• President",
+      "value": "Bongbong Marcos",
+      "links": [
+        {
+          "text": "Bongbong Marcos",
+          "href": "https://en.wikipedia.org/wiki/Bongbong_Marcos"
+        }
+      ]
+    },
+    {
+      "label": "• Vice President",
+      "value": "Sara Duterte",
+      "links": [
+        {
+          "text": "Sara Duterte",
+          "href": "https://en.wikipedia.org/wiki/Sara_Duterte"
+        }
+      ]
+    },
+    {
+      "label": "• Senate President",
+      "value": "Tito Sotto",
+      "links": [
+        {
+          "text": "Tito Sotto",
+          "href": "https://en.wikipedia.org/wiki/Tito_Sotto"
+        }
+      ]
+    },
+    {
+      "label": "• House Speaker",
+      "value": "Bojie Dy",
+      "links": [
+        {
+          "text": "Bojie Dy",
+          "href": "https://en.wikipedia.org/wiki/Bojie_Dy"
+        }
+      ]
+    },
+    {
+      "label": "• Chief Justice",
+      "value": "Alexander Gesmundo",
+      "links": [
+        {
+          "text": "Alexander Gesmundo",
+          "href": "https://en.wikipedia.org/wiki/Alexander_Gesmundo"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "Congress",
+      "links": [
+        {
+          "text": "Congress",
+          "href": "https://en.wikipedia.org/wiki/Congress_of_the_Philippines"
+        }
+      ]
+    },
+    {
+      "label": "• Upper house",
+      "value": "Senate",
+      "links": [
+        {
+          "text": "Senate",
+          "href": "https://en.wikipedia.org/wiki/Senate_of_the_Philippines"
+        }
+      ]
+    },
+    {
+      "label": "• Lower house",
+      "value": "House of Representatives",
+      "links": [
+        {
+          "text": "House of Representatives",
+          "href": "https://en.wikipedia.org/wiki/House_of_Representatives_of_the_Philippines"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Independence from Spain and the United States",
+      "rows": [
+        {
+          "label": "• Declaration",
+          "value": "June 12, 1898"
+        },
+        {
+          "label": "• Cession",
+          "value": "April 11, 1899"
+        },
+        {
+          "label": "• Self-government",
+          "value": "November 15, 1935"
+        },
+        {
+          "label": "• Recognized",
+          "value": "July 4, 1946"
+        },
+        {
+          "label": "• Constitution",
+          "value": "February 2, 1987"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "300,000 km (120,000 sq mi) ( 72nd )",
+          "links": [
+            {
+              "text": "72nd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "0.61 (inland waters)"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2024 census",
+          "value": "112,729,484"
+        },
+        {
+          "label": "• Density",
+          "value": "363.45/km (941.3/sq mi) ( 34th )",
+          "links": [
+            {
+              "text": "34th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$1.488 trillion ( 30th )",
+          "links": [
+            {
+              "text": "30th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$12,930 ( 114th )",
+          "links": [
+            {
+              "text": "114th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$497.05 billion ( 32nd )",
+          "links": [
+            {
+              "text": "32nd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$4,350 ( 125th )",
+          "links": [
+            {
+              "text": "125th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "Gini (2023)",
+          "value": "39.3 medium inequality"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.720 high ( 117th )",
+          "links": [
+            {
+              "text": "117th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "Philippine peso ( ₱ ) ( PHP )",
+          "links": [
+            {
+              "text": "Philippine peso",
+              "href": "https://en.wikipedia.org/wiki/Philippine_peso"
+            },
+            {
+              "text": "₱",
+              "href": "https://en.wikipedia.org/wiki/Philippine_peso_sign"
+            },
+            {
+              "text": "PHP",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC +8 ( PhST )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "PhST",
+              "href": "https://en.wikipedia.org/wiki/Philippine_Standard_Time"
+            }
+          ]
+        },
+        {
+          "label": "Calling code",
+          "value": "+63",
+          "links": [
+            {
+              "text": "+63",
+              "href": "https://en.wikipedia.org/wiki/Telephone_numbers_in_the_Philippines"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "PH",
+          "links": [
+            {
+              "text": "PH",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:PH"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".ph",
+          "links": [
+            {
+              "text": ".ph",
+              "href": "https://en.wikipedia.org/wiki/.ph"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,370 @@
+{
+  "country": "Guatemala",
+  "infobox_title": "Republic of Guatemala República de Guatemala ( Spanish )",
+  "data": [
+    {
+      "label": "Capital and largest city",
+      "value": "Guatemala City 14°38′N 90°30′W ﻿ / ﻿ 14.633°N 90.500°W",
+      "links": [
+        {
+          "text": "Guatemala City",
+          "href": "https://en.wikipedia.org/wiki/Guatemala_City"
+        },
+        {
+          "text": "14°38′N90°30′W﻿ / ﻿14.633°N 90.500°W",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Guatemala&params=14_38_N_90_30_W_type:city"
+        }
+      ]
+    },
+    {
+      "label": "Official languages",
+      "value": "Spanish",
+      "links": [
+        {
+          "text": "Spanish",
+          "href": "https://en.wikipedia.org/wiki/Guatemalan_Spanish"
+        }
+      ]
+    },
+    {
+      "label": "Recognised national languages",
+      "value": "Mayan",
+      "links": [
+        {
+          "text": "Mayan",
+          "href": "https://en.wikipedia.org/wiki/Mayan_languages"
+        }
+      ]
+    },
+    {
+      "label": "Recognised regional languages",
+      "value": "Garifuna Xinca",
+      "links": [
+        {
+          "text": "Garifuna",
+          "href": "https://en.wikipedia.org/wiki/Garifuna_language"
+        },
+        {
+          "text": "Xinca",
+          "href": "https://en.wikipedia.org/wiki/Xincan_languages"
+        }
+      ],
+      "sub_items": [
+        "Garifuna",
+        "Xinca"
+      ]
+    },
+    {
+      "label": "Ethnic groups (2018)",
+      "value": "56.01% Ladino (mixed) 41.66% Maya 1.77% Xinca 0.19% Black 0.13% Garifuna 0.24% other",
+      "links": [
+        {
+          "text": "Ladino",
+          "href": "https://en.wikipedia.org/wiki/Ladino_people"
+        },
+        {
+          "text": "Maya",
+          "href": "https://en.wikipedia.org/wiki/Maya_people"
+        },
+        {
+          "text": "Xinca",
+          "href": "https://en.wikipedia.org/wiki/Xinca_people"
+        },
+        {
+          "text": "Black",
+          "href": "https://en.wikipedia.org/wiki/Afro-Guatemalan"
+        },
+        {
+          "text": "Garifuna",
+          "href": "https://en.wikipedia.org/wiki/Garifuna"
+        }
+      ],
+      "sub_items": [
+        "56.01% Ladino (mixed)",
+        "41.66% Maya",
+        "1.77% Xinca",
+        "0.19% Black",
+        "0.13% Garifuna",
+        "0.24% other"
+      ]
+    },
+    {
+      "label": "Religion (2023)",
+      "value": "88.1% Christianity 45.7% Protestantism 42.4% Catholicism 11% no religion 0.9% other",
+      "links": [
+        {
+          "text": "Christianity",
+          "href": "https://en.wikipedia.org/wiki/Christianity"
+        },
+        {
+          "text": "Protestantism",
+          "href": "https://en.wikipedia.org/wiki/Protestantism"
+        },
+        {
+          "text": "Catholicism",
+          "href": "https://en.wikipedia.org/wiki/Catholic_Church_in_Guatemala"
+        },
+        {
+          "text": "no religion",
+          "href": "https://en.wikipedia.org/wiki/Irreligion_in_Latin_America"
+        }
+      ],
+      "sub_items": [
+        "88.1% Christianity 45.7% Protestantism 42.4% Catholicism",
+        "88.1% Christianity 45.7% Protestantism 42.4% Catholicism",
+        "45.7% Protestantism",
+        "42.4% Catholicism",
+        "11% no religion",
+        "0.9% other"
+      ]
+    },
+    {
+      "label": "Demonym",
+      "value": "Guatemalan",
+      "links": [
+        {
+          "text": "Guatemalan",
+          "href": "https://en.wikipedia.org/wiki/Guatemalans"
+        }
+      ],
+      "sub_items": [
+        "Guatemalan"
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Unitary presidential republic",
+      "links": [
+        {
+          "text": "presidential republic",
+          "href": "https://en.wikipedia.org/wiki/Presidential_republic"
+        }
+      ]
+    },
+    {
+      "label": "• President",
+      "value": "Bernardo Arévalo",
+      "links": [
+        {
+          "text": "Bernardo Arévalo",
+          "href": "https://en.wikipedia.org/wiki/Bernardo_Ar%C3%A9valo"
+        }
+      ]
+    },
+    {
+      "label": "• Vice President",
+      "value": "Karin Herrera",
+      "links": [
+        {
+          "text": "Karin Herrera",
+          "href": "https://en.wikipedia.org/wiki/Karin_Herrera"
+        }
+      ]
+    },
+    {
+      "label": "• President of the Congress",
+      "value": "Luis Contreras"
+    },
+    {
+      "label": "Legislature",
+      "value": "Congress of the Republic",
+      "links": [
+        {
+          "text": "Congress of the Republic",
+          "href": "https://en.wikipedia.org/wiki/Congress_of_the_Republic_of_Guatemala"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Independence",
+      "rows": [
+        {
+          "label": "• Declared from the Spanish Empire",
+          "value": "15 September 1821"
+        },
+        {
+          "label": "• Declared from the First Mexican Empire",
+          "value": "1 July 1823"
+        },
+        {
+          "label": "• Declared from the Federal Republic of Central America",
+          "value": "17 April 1839"
+        },
+        {
+          "label": "• Current constitution",
+          "value": "17 November 1993"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "108,889 km (42,042 sq mi) ( 105th )",
+          "links": [
+            {
+              "text": "105th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "0.4"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2025 estimate",
+          "value": "18,636,532 ( 70th )",
+          "links": [
+            {
+              "text": "70th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• Density",
+          "value": "166/km (429.9/sq mi) ( 76th )",
+          "links": [
+            {
+              "text": "76th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$278.508 billion ( 77th )",
+          "links": [
+            {
+              "text": "77th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$15,386 ( 121nd )",
+          "links": [
+            {
+              "text": "121nd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$120.964 billion ( 70th )",
+          "links": [
+            {
+              "text": "70th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$6,682 ( 108th )",
+          "links": [
+            {
+              "text": "108th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "Gini (2023)",
+          "value": "45.2 medium inequality"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.662 medium ( 137th )",
+          "links": [
+            {
+              "text": "137th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "Quetzal ( GTQ )",
+          "links": [
+            {
+              "text": "Quetzal",
+              "href": "https://en.wikipedia.org/wiki/Guatemalan_quetzal"
+            },
+            {
+              "text": "GTQ",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC −6 ( CST )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "CST",
+              "href": "https://en.wikipedia.org/wiki/Central_Time_Zone"
+            }
+          ]
+        },
+        {
+          "label": "Date format",
+          "value": "dd/mm/yyyy"
+        },
+        {
+          "label": "Calling code",
+          "value": "+502",
+          "links": [
+            {
+              "text": "+502",
+              "href": "https://en.wikipedia.org/wiki/Telephone_numbers_in_Guatemala"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "GT",
+          "links": [
+            {
+              "text": "GT",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:GT"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".gt",
+          "links": [
+            {
+              "text": ".gt",
+              "href": "https://en.wikipedia.org/wiki/.gt"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

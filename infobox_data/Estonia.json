@@ -1,0 +1,343 @@
+{
+  "country": "Estonia",
+  "infobox_title": "Republic of Estonia Eesti Vabariik ( Estonian )",
+  "data": [
+    {
+      "label": "Capital and largest city",
+      "value": "Tallinn 59°25′N 24°45′E ﻿ / ﻿ 59.417°N 24.750°E",
+      "links": [
+        {
+          "text": "Tallinn",
+          "href": "https://en.wikipedia.org/wiki/Tallinn"
+        },
+        {
+          "text": "59°25′N24°45′E﻿ / ﻿59.417°N 24.750°E",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Estonia&params=59_25_N_24_45_E_type:city_region:EE-37"
+        }
+      ]
+    },
+    {
+      "label": "Official language",
+      "value": "Estonian",
+      "links": [
+        {
+          "text": "Estonian",
+          "href": "https://en.wikipedia.org/wiki/Estonian_language"
+        }
+      ]
+    },
+    {
+      "label": "Ethnic groups (2025)",
+      "value": "68.5% Estonians 20.9% Russians 5.4% Ukrainians 4.6% other 0.6% undeclared",
+      "links": [
+        {
+          "text": "Estonians",
+          "href": "https://en.wikipedia.org/wiki/Estonians"
+        },
+        {
+          "text": "Russians",
+          "href": "https://en.wikipedia.org/wiki/Russians_in_Estonia"
+        },
+        {
+          "text": "Ukrainians",
+          "href": "https://en.wikipedia.org/wiki/Ukrainians_in_Estonia"
+        },
+        {
+          "text": "other",
+          "href": "https://en.wikipedia.org/wiki/Demographics_of_Estonia#Ethnic_groups"
+        }
+      ],
+      "sub_items": [
+        "68.5% Estonians",
+        "20.9% Russians",
+        "5.4% Ukrainians",
+        "4.6% other",
+        "0.6% undeclared"
+      ]
+    },
+    {
+      "label": "Religion (2021 )",
+      "value": "58.4% no religion 26.7% Christianity 16.3% Eastern Orthodoxy 7.7% Lutheranism 2.7% other Christian 12.7% undeclared 2.1% other",
+      "links": [
+        {
+          "text": "no religion",
+          "href": "https://en.wikipedia.org/wiki/Irreligion_in_Estonia"
+        },
+        {
+          "text": "Christianity",
+          "href": "https://en.wikipedia.org/wiki/Christianity"
+        },
+        {
+          "text": "Eastern Orthodoxy",
+          "href": "https://en.wikipedia.org/wiki/Eastern_Orthodoxy_in_Estonia"
+        },
+        {
+          "text": "Lutheranism",
+          "href": "https://en.wikipedia.org/wiki/Estonian_Evangelical_Lutheran_Church"
+        },
+        {
+          "text": "other",
+          "href": "https://en.wikipedia.org/wiki/Religion_in_Estonia"
+        }
+      ],
+      "sub_items": [
+        "58.4% no religion",
+        "26.7% Christianity 16.3% Eastern Orthodoxy 7.7% Lutheranism 2.7% other Christian",
+        "16.3% Eastern Orthodoxy",
+        "7.7% Lutheranism",
+        "2.7% other Christian",
+        "12.7% undeclared",
+        "2.1% other"
+      ]
+    },
+    {
+      "label": "Demonym",
+      "value": "Estonian",
+      "links": [
+        {
+          "text": "Estonian",
+          "href": "https://en.wikipedia.org/wiki/Estonian_people"
+        }
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Unitary parliamentary republic",
+      "links": [
+        {
+          "text": "Unitary parliamentary republic",
+          "href": "https://en.wikipedia.org/wiki/Unitary_parliamentary_republic"
+        }
+      ]
+    },
+    {
+      "label": "• President",
+      "value": "Alar Karis",
+      "links": [
+        {
+          "text": "Alar Karis",
+          "href": "https://en.wikipedia.org/wiki/Alar_Karis"
+        }
+      ]
+    },
+    {
+      "label": "• Prime Minister",
+      "value": "Kristen Michal",
+      "links": [
+        {
+          "text": "Kristen Michal",
+          "href": "https://en.wikipedia.org/wiki/Kristen_Michal"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "Riigikogu",
+      "links": [
+        {
+          "text": "Riigikogu",
+          "href": "https://en.wikipedia.org/wiki/Riigikogu"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Independence from Russian and German Empires",
+      "rows": [
+        {
+          "label": "• Declaration of Independence",
+          "value": "24 February 1918"
+        },
+        {
+          "label": "• German and Soviet occupations",
+          "value": "1940–1991"
+        },
+        {
+          "label": "• Restoration of Independence",
+          "value": "20 August 1991"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "45,335 km (17,504 sq mi) ( 129th )",
+          "links": [
+            {
+              "text": "129th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "4.6"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2026 estimate",
+          "value": "1,362,954"
+        },
+        {
+          "label": "• 2021 census",
+          "value": "1,331,824"
+        },
+        {
+          "label": "• Density",
+          "value": "30.3/km (78.5/sq mi) ( 148th )",
+          "links": [
+            {
+              "text": "148th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2026 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$68.240 billion ( 119th )",
+          "links": [
+            {
+              "text": "119th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$50,758 ( 42nd )",
+          "links": [
+            {
+              "text": "42nd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2026 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$45.00 billion ( 99th )",
+          "links": [
+            {
+              "text": "99th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$37,195 ( 37th )",
+          "links": [
+            {
+              "text": "37th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "Gini (2021)",
+          "value": "30.6 medium inequality"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.905 very high ( 36th )",
+          "links": [
+            {
+              "text": "36th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "Euro ( € ) ( EUR )",
+          "links": [
+            {
+              "text": "Euro",
+              "href": "https://en.wikipedia.org/wiki/Euro"
+            },
+            {
+              "text": "€",
+              "href": "https://en.wikipedia.org/wiki/%E2%82%AC"
+            },
+            {
+              "text": "EUR",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC +02:00 ( EET )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "EET",
+              "href": "https://en.wikipedia.org/wiki/Eastern_European_Time"
+            }
+          ]
+        },
+        {
+          "label": "• Summer ( DST )",
+          "value": "UTC +03:00 ( EEST )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "EEST",
+              "href": "https://en.wikipedia.org/wiki/Eastern_European_Summer_Time"
+            }
+          ]
+        },
+        {
+          "label": "Calling code",
+          "value": "+372",
+          "links": [
+            {
+              "text": "+372",
+              "href": "https://en.wikipedia.org/wiki/Telephone_numbers_in_Estonia"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "EE",
+          "links": [
+            {
+              "text": "EE",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:EE"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".ee",
+          "links": [
+            {
+              "text": ".ee",
+              "href": "https://en.wikipedia.org/wiki/.ee"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,375 @@
+{
+  "country": "Cyprus",
+  "infobox_title": "Republic of Cyprus Κυπριακή Δημοκρατία ( Greek ) Kıbrıs Cumhuriyeti ( Turkish )",
+  "data": [
+    {
+      "label": "Capital and largest city",
+      "value": "Nicosia 35°10′N 33°22′E ﻿ / ﻿ 35.167°N 33.367°E",
+      "links": [
+        {
+          "text": "Nicosia",
+          "href": "https://en.wikipedia.org/wiki/Nicosia"
+        },
+        {
+          "text": "35°10′N33°22′E﻿ / ﻿35.167°N 33.367°E",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Cyprus&params=35_10_N_33_22_E_type:city"
+        }
+      ]
+    },
+    {
+      "label": "Official languages",
+      "value": "Greek Turkish",
+      "links": [
+        {
+          "text": "Greek",
+          "href": "https://en.wikipedia.org/wiki/Greek_language"
+        },
+        {
+          "text": "Turkish",
+          "href": "https://en.wikipedia.org/wiki/Turkish_language"
+        }
+      ],
+      "sub_items": [
+        "Greek",
+        "Turkish"
+      ]
+    },
+    {
+      "label": "Minority languages",
+      "value": "Armenian Cypriot Arabic",
+      "links": [
+        {
+          "text": "Armenian",
+          "href": "https://en.wikipedia.org/wiki/Armenian_language"
+        },
+        {
+          "text": "Cypriot Arabic",
+          "href": "https://en.wikipedia.org/wiki/Cypriot_Arabic"
+        }
+      ],
+      "sub_items": [
+        "Armenian",
+        "Cypriot Arabic"
+      ]
+    },
+    {
+      "label": "Vernaculars",
+      "value": "Cypriot Greek Cypriot Turkish",
+      "links": [
+        {
+          "text": "Cypriot Greek",
+          "href": "https://en.wikipedia.org/wiki/Cypriot_Greek"
+        },
+        {
+          "text": "Cypriot Turkish",
+          "href": "https://en.wikipedia.org/wiki/Cypriot_Turkish"
+        }
+      ],
+      "sub_items": [
+        "Cypriot Greek",
+        "Cypriot Turkish"
+      ]
+    },
+    {
+      "label": "Ethnic groups",
+      "value": "Greek Cypriots Turkish Cypriots Armenian Cypriots Maronite Cypriots",
+      "links": [
+        {
+          "text": "Greek Cypriots",
+          "href": "https://en.wikipedia.org/wiki/Greek_Cypriots"
+        },
+        {
+          "text": "Turkish Cypriots",
+          "href": "https://en.wikipedia.org/wiki/Turkish_Cypriots"
+        },
+        {
+          "text": "Armenian Cypriots",
+          "href": "https://en.wikipedia.org/wiki/Armenian_Cypriots"
+        },
+        {
+          "text": "Maronite Cypriots",
+          "href": "https://en.wikipedia.org/wiki/Maronite_Cypriots"
+        }
+      ],
+      "sub_items": [
+        "Greek Cypriots",
+        "Turkish Cypriots",
+        "Armenian Cypriots",
+        "Maronite Cypriots"
+      ]
+    },
+    {
+      "label": "Religion (2020; including Northern Cyprus)",
+      "value": "72.3% Christianity 25.0% Islam 1.9% no religion 0.8% other",
+      "links": [
+        {
+          "text": "Christianity",
+          "href": "https://en.wikipedia.org/wiki/Christianity"
+        },
+        {
+          "text": "Islam",
+          "href": "https://en.wikipedia.org/wiki/Islam"
+        },
+        {
+          "text": "no religion",
+          "href": "https://en.wikipedia.org/wiki/Irreligion"
+        }
+      ],
+      "sub_items": [
+        "72.3% Christianity",
+        "25.0% Islam",
+        "1.9% no religion",
+        "0.8% other"
+      ]
+    },
+    {
+      "label": "Demonym",
+      "value": "Cypriot",
+      "links": [
+        {
+          "text": "Cypriot",
+          "href": "https://en.wikipedia.org/wiki/Cypriot_people"
+        }
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Unitary presidential republic",
+      "links": [
+        {
+          "text": "presidential republic",
+          "href": "https://en.wikipedia.org/wiki/Presidential_system"
+        }
+      ]
+    },
+    {
+      "label": "• President",
+      "value": "Nikos Christodoulides",
+      "links": [
+        {
+          "text": "Nikos Christodoulides",
+          "href": "https://en.wikipedia.org/wiki/Nikos_Christodoulides"
+        }
+      ]
+    },
+    {
+      "label": "• Vice-President",
+      "value": "Vacant"
+    },
+    {
+      "label": "• President of the House of Representatives",
+      "value": "Annita Demetriou",
+      "links": [
+        {
+          "text": "Annita Demetriou",
+          "href": "https://en.wikipedia.org/wiki/Annita_Demetriou"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "House of Representatives",
+      "links": [
+        {
+          "text": "House of Representatives",
+          "href": "https://en.wikipedia.org/wiki/House_of_Representatives_(Cyprus)"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Independence from the United Kingdom",
+      "rows": [
+        {
+          "label": "• London-Zürich Agreements",
+          "value": "19 February 1959"
+        },
+        {
+          "label": "• Independence proclaimed",
+          "value": "16 August 1960"
+        },
+        {
+          "label": "• Independence Day",
+          "value": "1 October 1960"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "9,251 km (3,572 sq mi) ( 162nd )",
+          "links": [
+            {
+              "text": "162nd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "0.11"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2021 census",
+          "value": "923,272"
+        },
+        {
+          "label": "• Density",
+          "value": "123.4 /km (319.6/sq mi) ( 82nd )",
+          "links": [
+            {
+              "text": "82nd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$61.501 billion ( 126th )",
+          "links": [
+            {
+              "text": "126th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$65,304 ( 28th )",
+          "links": [
+            {
+              "text": "28th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$39.943 billion ( 102nd )",
+          "links": [
+            {
+              "text": "102nd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$42,413 ( 28th )",
+          "links": [
+            {
+              "text": "28th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "Gini (2022)",
+          "value": "29.4 low inequality"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.913 very high ( 32nd )",
+          "links": [
+            {
+              "text": "32nd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "Euro ( € ) ( EUR )",
+          "links": [
+            {
+              "text": "Euro",
+              "href": "https://en.wikipedia.org/wiki/Euro"
+            },
+            {
+              "text": "€",
+              "href": "https://en.wikipedia.org/wiki/Euro_sign"
+            },
+            {
+              "text": "EUR",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC +02:00 ( EET )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "EET",
+              "href": "https://en.wikipedia.org/wiki/Eastern_European_Time"
+            }
+          ]
+        },
+        {
+          "label": "• Summer ( DST )",
+          "value": "UTC +03:00 ( EEST )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "EEST",
+              "href": "https://en.wikipedia.org/wiki/Eastern_European_Summer_Time"
+            }
+          ]
+        },
+        {
+          "label": "Calling code",
+          "value": "+357",
+          "links": [
+            {
+              "text": "+357",
+              "href": "https://en.wikipedia.org/wiki/Telephone_numbers_in_Cyprus"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "CY",
+          "links": [
+            {
+              "text": "CY",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:CY"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".cy",
+          "links": [
+            {
+              "text": ".cy",
+              "href": "https://en.wikipedia.org/wiki/.cy"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

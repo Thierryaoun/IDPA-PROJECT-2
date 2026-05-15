@@ -1,0 +1,331 @@
+{
+  "label": "country",
+  "children": [
+    {
+      "label": "name",
+      "children": [
+        {
+          "label": "singapore"
+        }
+      ]
+    },
+    {
+      "label": "infobox_title",
+      "children": [
+        {
+          "label": "republic of singapore republik singapura 新加坡共和国 xīnjiāpō gònghéguó சிங்கப்பூர் குடியரசு ciṅkappūr kuṭiyaracu"
+        }
+      ]
+    },
+    {
+      "label": "capital",
+      "children": [
+        {
+          "label": "singapore / 1."
+        }
+      ]
+    },
+    {
+      "label": "largest_planning_area_by_population",
+      "children": [
+        {
+          "label": "tampines"
+        }
+      ]
+    },
+    {
+      "label": "official_languages",
+      "children": [
+        {
+          "label": "english"
+        },
+        {
+          "label": "malay"
+        },
+        {
+          "label": "mandarin"
+        },
+        {
+          "label": "tamil"
+        }
+      ]
+    },
+    {
+      "label": "national_language",
+      "children": [
+        {
+          "label": "malay"
+        }
+      ]
+    },
+    {
+      "label": "ethnic_groups_2023",
+      "children": [
+        {
+          "label": "74.3% chinese"
+        },
+        {
+          "label": "13.5% malay"
+        },
+        {
+          "label": "9.0% indian"
+        },
+        {
+          "label": "3.2% other"
+        }
+      ]
+    },
+    {
+      "label": "religion_2020",
+      "children": [
+        {
+          "label": "31.1% buddhism"
+        },
+        {
+          "label": "20.0% no religion"
+        },
+        {
+          "label": "18.9% christianity"
+        },
+        {
+          "label": "15.6% islam"
+        },
+        {
+          "label": "8.8% taoism"
+        },
+        {
+          "label": "5.0% hinduism"
+        },
+        {
+          "label": "0.3% sikhism"
+        },
+        {
+          "label": "0.3% other"
+        }
+      ]
+    },
+    {
+      "label": "demonym",
+      "children": [
+        {
+          "label": "singaporean"
+        }
+      ]
+    },
+    {
+      "label": "government",
+      "children": [
+        {
+          "label": "unitary parliamentary republic"
+        }
+      ]
+    },
+    {
+      "label": "president",
+      "children": [
+        {
+          "label": "tharman shanmugaratnam"
+        }
+      ]
+    },
+    {
+      "label": "prime_minister",
+      "children": [
+        {
+          "label": "lawrence wong"
+        }
+      ]
+    },
+    {
+      "label": "legislature",
+      "children": [
+        {
+          "label": "parliament"
+        }
+      ]
+    },
+    {
+      "label": "independence_from_the_united_kingdom_and_malaysia",
+      "children": [
+        {
+          "label": "self_governance",
+          "children": [
+            {
+              "label": "3 june 1959"
+            }
+          ]
+        },
+        {
+          "label": "malaysia_agreement",
+          "children": [
+            {
+              "label": "16 september 1963"
+            }
+          ]
+        },
+        {
+          "label": "proclamation_of_singapore",
+          "children": [
+            {
+              "label": "9 august 1965"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "area",
+      "children": [
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "744.3 km"
+            }
+          ]
+        },
+        {
+          "label": "water",
+          "children": [
+            {
+              "label": "1.43%"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "population",
+      "children": [
+        {
+          "label": "2025_estimate",
+          "children": [
+            {
+              "label": "6,110,200"
+            }
+          ]
+        },
+        {
+          "label": "density",
+          "children": [
+            {
+              "label": "8,290/km"
+            }
+          ]
+        },
+        {
+          "label": "gdp_ppp",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$952.600 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$156,755"
+            }
+          ]
+        },
+        {
+          "label": "gdp_nominal",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$564.700 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$93,956"
+            }
+          ]
+        },
+        {
+          "label": "gini_2023",
+          "children": [
+            {
+              "label": "43.3 medium inequality"
+            }
+          ]
+        },
+        {
+          "label": "hdi_2023",
+          "children": [
+            {
+              "label": "0.946 very high"
+            }
+          ]
+        },
+        {
+          "label": "currency",
+          "children": [
+            {
+              "label": "singapore dollar"
+            }
+          ]
+        },
+        {
+          "label": "time_zone",
+          "children": [
+            {
+              "label": "utc +8"
+            }
+          ]
+        },
+        {
+          "label": "date_format",
+          "children": [
+            {
+              "label": "dd-mm-yyyy"
+            }
+          ]
+        },
+        {
+          "label": "calling_code",
+          "children": [
+            {
+              "label": "+65"
+            }
+          ]
+        },
+        {
+          "label": "iso_3166_code",
+          "children": [
+            {
+              "label": "sg"
+            }
+          ]
+        },
+        {
+          "label": "internet_tld",
+          "children": [
+            {
+              "label": ".sg"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

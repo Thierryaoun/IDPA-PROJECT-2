@@ -1,0 +1,474 @@
+{
+  "country": "Namibia",
+  "infobox_title": "Republic of Namibia Name in national languages Afrikaans : Republiek van Namibië German : Republik Namibia Khoekhoegowab : Republiki Namibiab dib Oshiwambo : Orepublika yaNamibia Otjiherero : Orepublika yaNamibia RuKwangali : Republika zaNamibia Setswana : Rephaboliki ya Namibia siLozi : Namibia ye Lukuluhile",
+  "data": [
+    {
+      "label": "Afrikaans :",
+      "value": "Republiek van Namibië"
+    },
+    {
+      "label": "Afrikaans :",
+      "value": "Republiek van Namibië"
+    },
+    {
+      "label": "German :",
+      "value": "Republik Namibia"
+    },
+    {
+      "label": "Khoekhoegowab :",
+      "value": "Republiki Namibiab dib"
+    },
+    {
+      "label": "Oshiwambo :",
+      "value": "Orepublika yaNamibia"
+    },
+    {
+      "label": "Otjiherero :",
+      "value": "Orepublika yaNamibia"
+    },
+    {
+      "label": "RuKwangali :",
+      "value": "Republika zaNamibia"
+    },
+    {
+      "label": "Setswana :",
+      "value": "Rephaboliki ya Namibia"
+    },
+    {
+      "label": "siLozi :",
+      "value": "Namibia ye Lukuluhile"
+    },
+    {
+      "label": "Capital and largest city",
+      "value": "Windhoek 22°34′S 17°5′E ﻿ / ﻿ 22.567°S 17.083°E",
+      "links": [
+        {
+          "text": "Windhoek",
+          "href": "https://en.wikipedia.org/wiki/Windhoek"
+        },
+        {
+          "text": "22°34′S17°5′E﻿ / ﻿22.567°S 17.083°E",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Namibia&params=22_34_S_17_5_E_type:city_region:NA"
+        }
+      ]
+    },
+    {
+      "label": "Official languages",
+      "value": "English"
+    },
+    {
+      "label": "Recognised national languages",
+      "value": "Afrikaans German Khoekhoegowab Oshiwambo Otjiherero RuKwangali Setswana siLozi",
+      "links": [
+        {
+          "text": "Afrikaans",
+          "href": "https://en.wikipedia.org/wiki/Afrikaans"
+        },
+        {
+          "text": "German",
+          "href": "https://en.wikipedia.org/wiki/German_language_in_Namibia"
+        },
+        {
+          "text": "Khoekhoegowab",
+          "href": "https://en.wikipedia.org/wiki/Khoekhoe_language"
+        },
+        {
+          "text": "Oshiwambo",
+          "href": "https://en.wikipedia.org/wiki/Owambo_language"
+        },
+        {
+          "text": "Otjiherero",
+          "href": "https://en.wikipedia.org/wiki/Herero_language"
+        },
+        {
+          "text": "RuKwangali",
+          "href": "https://en.wikipedia.org/wiki/Kwangali_language"
+        },
+        {
+          "text": "Setswana",
+          "href": "https://en.wikipedia.org/wiki/Tswana_language"
+        },
+        {
+          "text": "siLozi",
+          "href": "https://en.wikipedia.org/wiki/Lozi_language"
+        }
+      ],
+      "sub_items": [
+        "Afrikaans",
+        "German",
+        "Khoekhoegowab",
+        "Oshiwambo",
+        "Otjiherero",
+        "RuKwangali",
+        "Setswana",
+        "siLozi"
+      ]
+    },
+    {
+      "label": "Recognised regional languages",
+      "value": "ǃKung Gciriku Thimbukushu",
+      "links": [
+        {
+          "text": "ǃKung",
+          "href": "https://en.wikipedia.org/wiki/%C7%83Kung_languages"
+        },
+        {
+          "text": "Gciriku",
+          "href": "https://en.wikipedia.org/wiki/Gciriku_language"
+        },
+        {
+          "text": "Thimbukushu",
+          "href": "https://en.wikipedia.org/wiki/Mbukushu_language"
+        }
+      ],
+      "sub_items": [
+        "ǃKung",
+        "Gciriku",
+        "Thimbukushu"
+      ]
+    },
+    {
+      "label": "Ethnic groups (2023)",
+      "value": "93.2% Indigenous African 3.6% Coloured and Basters 1.8% White 1.4% Asian / other",
+      "links": [
+        {
+          "text": "Indigenous African",
+          "href": "https://en.wikipedia.org/wiki/Demographics_of_Namibia"
+        },
+        {
+          "text": "Coloured",
+          "href": "https://en.wikipedia.org/wiki/Coloured_people_in_Namibia"
+        },
+        {
+          "text": "Basters",
+          "href": "https://en.wikipedia.org/wiki/Basters"
+        },
+        {
+          "text": "White",
+          "href": "https://en.wikipedia.org/wiki/White_Namibians"
+        },
+        {
+          "text": "Asian",
+          "href": "https://en.wikipedia.org/wiki/Asian_people"
+        }
+      ],
+      "sub_items": [
+        "93.2% Indigenous African",
+        "3.6% Coloured and Basters",
+        "1.8% White",
+        "1.4% Asian / other"
+      ]
+    },
+    {
+      "label": "Religion (2023)",
+      "value": "87.9% Christianity 43.7% Lutheranism 22.8% Catholicism 17.0% Anglicanism 4.4% other Christian 10.5% other 1.6% no religion",
+      "links": [
+        {
+          "text": "Christianity",
+          "href": "https://en.wikipedia.org/wiki/Christianity_in_Namibia"
+        },
+        {
+          "text": "Lutheranism",
+          "href": "https://en.wikipedia.org/wiki/Evangelical_Lutheran_Church_in_Namibia"
+        },
+        {
+          "text": "Catholicism",
+          "href": "https://en.wikipedia.org/wiki/Catholic_Church_in_Namibia"
+        },
+        {
+          "text": "Anglicanism",
+          "href": "https://en.wikipedia.org/wiki/Diocese_of_Namibia"
+        },
+        {
+          "text": "Christian",
+          "href": "https://en.wikipedia.org/wiki/List_of_Christian_denominations"
+        },
+        {
+          "text": "no religion",
+          "href": "https://en.wikipedia.org/wiki/Irreligion"
+        }
+      ],
+      "sub_items": [
+        "87.9% Christianity 43.7% Lutheranism 22.8% Catholicism 17.0% Anglicanism 4.4% other Christian",
+        "87.9% Christianity 43.7% Lutheranism 22.8% Catholicism 17.0% Anglicanism 4.4% other Christian",
+        "43.7% Lutheranism",
+        "22.8% Catholicism",
+        "17.0% Anglicanism",
+        "4.4% other Christian",
+        "10.5% other",
+        "1.6% no religion"
+      ]
+    },
+    {
+      "label": "Demonym",
+      "value": "Namibian",
+      "links": [
+        {
+          "text": "Namibian",
+          "href": "https://en.wikipedia.org/wiki/Demographics_of_Namibia"
+        }
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Unitary semi-presidential republic",
+      "links": [
+        {
+          "text": "semi-presidential republic",
+          "href": "https://en.wikipedia.org/wiki/Semi-presidential_system"
+        }
+      ]
+    },
+    {
+      "label": "• President",
+      "value": "Netumbo Nandi-Ndaitwah",
+      "links": [
+        {
+          "text": "Netumbo Nandi-Ndaitwah",
+          "href": "https://en.wikipedia.org/wiki/Netumbo_Nandi-Ndaitwah"
+        }
+      ]
+    },
+    {
+      "label": "• Vice President",
+      "value": "Lucia Witbooi",
+      "links": [
+        {
+          "text": "Lucia Witbooi",
+          "href": "https://en.wikipedia.org/wiki/Lucia_Witbooi"
+        }
+      ]
+    },
+    {
+      "label": "• Prime Minister",
+      "value": "Elijah Ngurare",
+      "links": [
+        {
+          "text": "Elijah Ngurare",
+          "href": "https://en.wikipedia.org/wiki/Elijah_Ngurare"
+        }
+      ]
+    },
+    {
+      "label": "• Deputy Prime Minister",
+      "value": "Vacant"
+    },
+    {
+      "label": "• Chief Justice",
+      "value": "Peter Shivute",
+      "links": [
+        {
+          "text": "Peter Shivute",
+          "href": "https://en.wikipedia.org/wiki/Peter_Shivute"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "Parliament",
+      "links": [
+        {
+          "text": "Parliament",
+          "href": "https://en.wikipedia.org/wiki/Parliament_of_Namibia"
+        }
+      ]
+    },
+    {
+      "label": "• Upper house",
+      "value": "National Council",
+      "links": [
+        {
+          "text": "National Council",
+          "href": "https://en.wikipedia.org/wiki/National_Council_(Namibia)"
+        }
+      ]
+    },
+    {
+      "label": "• Lower house",
+      "value": "National Assembly",
+      "links": [
+        {
+          "text": "National Assembly",
+          "href": "https://en.wikipedia.org/wiki/National_Assembly_(Namibia)"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Independence from South Africa",
+      "rows": [
+        {
+          "label": "• Constitution",
+          "value": "9 February 1990"
+        },
+        {
+          "label": "• Independence",
+          "value": "21 March 1990"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "825,615 km (318,772 sq mi) ( 34th )",
+          "links": [
+            {
+              "text": "34th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "Negligible"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2025 census",
+          "value": "3,022,401 ( 136th )",
+          "links": [
+            {
+              "text": "136th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• Density",
+          "value": "3.7/km (9.6/sq mi)"
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$37.73 billion ( 145th )",
+          "links": [
+            {
+              "text": "145th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$12,370 ( 117th )",
+          "links": [
+            {
+              "text": "117th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$14.21 billion ( 145th )",
+          "links": [
+            {
+              "text": "145th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$4,660 ( 120th )",
+          "links": [
+            {
+              "text": "120th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "Gini (2015)",
+          "value": "59.1 high inequality"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.665 medium ( 136th )",
+          "links": [
+            {
+              "text": "136th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "Namibian dollar (NAD) South African rand (ZAR)",
+          "links": [
+            {
+              "text": "Namibian dollar",
+              "href": "https://en.wikipedia.org/wiki/Namibian_dollar"
+            },
+            {
+              "text": "South African rand",
+              "href": "https://en.wikipedia.org/wiki/South_African_rand"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC +2 ( CAT )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "CAT",
+              "href": "https://en.wikipedia.org/wiki/Central_Africa_Time"
+            }
+          ]
+        },
+        {
+          "label": "Date format",
+          "value": "dd/mm/yyyy"
+        },
+        {
+          "label": "Calling code",
+          "value": "+264",
+          "links": [
+            {
+              "text": "+264",
+              "href": "https://en.wikipedia.org/wiki/%2B264"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "NA",
+          "links": [
+            {
+              "text": "NA",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:NA"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".na",
+          "links": [
+            {
+              "text": ".na",
+              "href": "https://en.wikipedia.org/wiki/.na"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

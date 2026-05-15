@@ -1,0 +1,366 @@
+{
+  "country": "Portugal",
+  "infobox_title": "Portuguese Republic República Portuguesa ( Portuguese ) República Pertuesa ( Mirandese )",
+  "data": [
+    {
+      "label": "Capital and largest city",
+      "value": "Lisbon 38°46′N 9°9′W ﻿ / ﻿ 38.767°N 9.150°W",
+      "links": [
+        {
+          "text": "Lisbon",
+          "href": "https://en.wikipedia.org/wiki/Lisbon"
+        },
+        {
+          "text": "38°46′N9°9′W﻿ / ﻿38.767°N 9.150°W",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Portugal&params=38_46_N_9_9_W_type:city"
+        }
+      ]
+    },
+    {
+      "label": "Official languages",
+      "value": "Portuguese",
+      "links": [
+        {
+          "text": "Portuguese",
+          "href": "https://en.wikipedia.org/wiki/Portuguese_language"
+        }
+      ]
+    },
+    {
+      "label": "Recognised national languages",
+      "value": "Portuguese Sign Language",
+      "links": [
+        {
+          "text": "Portuguese Sign Language",
+          "href": "https://en.wikipedia.org/wiki/Portuguese_Sign_Language"
+        }
+      ]
+    },
+    {
+      "label": "Recognised regional languages",
+      "value": "Mirandese",
+      "links": [
+        {
+          "text": "Mirandese",
+          "href": "https://en.wikipedia.org/wiki/Mirandese_language"
+        }
+      ]
+    },
+    {
+      "label": "Ethnic groups (2023 )",
+      "value": "84.2% White 2.2% Black 0.7% Asian 0.6% Roma 3.4% Mixed origin",
+      "links": [
+        {
+          "text": "White",
+          "href": "https://en.wikipedia.org/wiki/White_people"
+        },
+        {
+          "text": "Black",
+          "href": "https://en.wikipedia.org/wiki/Afro-Portuguese_people"
+        },
+        {
+          "text": "Roma",
+          "href": "https://en.wikipedia.org/wiki/Romani_people_in_Portugal"
+        }
+      ],
+      "sub_items": [
+        "84.2% White",
+        "2.2% Black",
+        "0.7% Asian",
+        "0.6% Roma",
+        "3.4% Mixed origin"
+      ]
+    },
+    {
+      "label": "Demonym",
+      "value": "Portuguese",
+      "links": [
+        {
+          "text": "Portuguese",
+          "href": "https://en.wikipedia.org/wiki/Portuguese_people"
+        }
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Unitary semi-presidential republic",
+      "links": [
+        {
+          "text": "semi-presidential republic",
+          "href": "https://en.wikipedia.org/wiki/Semi-presidential_republic"
+        }
+      ]
+    },
+    {
+      "label": "• President",
+      "value": "António José Seguro",
+      "links": [
+        {
+          "text": "António José Seguro",
+          "href": "https://en.wikipedia.org/wiki/Ant%C3%B3nio_Jos%C3%A9_Seguro"
+        }
+      ]
+    },
+    {
+      "label": "• Prime Minister",
+      "value": "Luís Montenegro",
+      "links": [
+        {
+          "text": "Luís Montenegro",
+          "href": "https://en.wikipedia.org/wiki/Lu%C3%ADs_Montenegro"
+        }
+      ]
+    },
+    {
+      "label": "• Speaker",
+      "value": "José Pedro Aguiar-Branco",
+      "links": [
+        {
+          "text": "José Pedro Aguiar-Branco",
+          "href": "https://en.wikipedia.org/wiki/Jos%C3%A9_Pedro_Aguiar-Branco"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "Assembly of the Republic",
+      "links": [
+        {
+          "text": "Assembly of the Republic",
+          "href": "https://en.wikipedia.org/wiki/Assembly_of_the_Republic_(Portugal)"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Establishment",
+      "rows": [
+        {
+          "label": "• County",
+          "value": "868"
+        },
+        {
+          "label": "• Sovereignty",
+          "value": "24 June 1128"
+        },
+        {
+          "label": "• Battle of Ourique",
+          "value": "25 July 1139"
+        },
+        {
+          "label": "• Conference of Zamora",
+          "value": "4–5 October 1143"
+        },
+        {
+          "label": "• Manifestis Probatum",
+          "value": "23 May 1179"
+        },
+        {
+          "label": "• Restoration",
+          "value": "1 December 1640"
+        },
+        {
+          "label": "• First constitution",
+          "value": "23 September 1822"
+        },
+        {
+          "label": "• Republic",
+          "value": "5 October 1910"
+        },
+        {
+          "label": "• Democratisation",
+          "value": "25 April 1974"
+        },
+        {
+          "label": "• Current constitution",
+          "value": "25 April 1976"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "156,597 km (60,462 sq mi) ( 92nd )",
+          "links": [
+            {
+              "text": "92nd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Land",
+          "value": "92,225 km (35,608 sq mi)"
+        },
+        {
+          "label": "• Water",
+          "value": "64,372 km (24,854 sq mi)"
+        },
+        {
+          "label": "• Water (%)",
+          "value": "1.2 (2015)"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2024 estimate",
+          "value": "10,749,635 ( 87th )",
+          "links": [
+            {
+              "text": "87th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• 2021 census",
+          "value": "10,343,066"
+        },
+        {
+          "label": "• Density",
+          "value": "116.6/km (302.0/sq mi)"
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2026 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$556.383 billion ( 50th )",
+          "links": [
+            {
+              "text": "50th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$51,853 ( 42nd )",
+          "links": [
+            {
+              "text": "42nd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2026 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$364.527 billion ( 44th )",
+          "links": [
+            {
+              "text": "44th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$33,972 ( 41st )",
+          "links": [
+            {
+              "text": "41st",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "Gini (2024)",
+          "value": "31.9 medium inequality"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.890 very high ( 40th )",
+          "links": [
+            {
+              "text": "40th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "Euro ( € ) ( EUR )",
+          "links": [
+            {
+              "text": "Euro",
+              "href": "https://en.wikipedia.org/wiki/Euro"
+            },
+            {
+              "text": "€",
+              "href": "https://en.wikipedia.org/wiki/Euro_sign"
+            },
+            {
+              "text": "EUR",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC +0 and -1",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            }
+          ]
+        },
+        {
+          "label": "• Summer ( DST )",
+          "value": "UTC +1 and +0",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            }
+          ]
+        },
+        {
+          "label": "Date format",
+          "value": "yyyy - mm - dd"
+        },
+        {
+          "label": "Calling code",
+          "value": "+351",
+          "links": [
+            {
+              "text": "+351",
+              "href": "https://en.wikipedia.org/wiki/Telephone_numbers_in_Portugal"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "PT",
+          "links": [
+            {
+              "text": "PT",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:PT"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".pt",
+          "links": [
+            {
+              "text": ".pt",
+              "href": "https://en.wikipedia.org/wiki/.pt"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

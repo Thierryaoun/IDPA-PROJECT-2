@@ -1,0 +1,336 @@
+{
+  "label": "country",
+  "children": [
+    {
+      "label": "name",
+      "children": [
+        {
+          "label": "latvia"
+        }
+      ]
+    },
+    {
+      "label": "infobox_title",
+      "children": [
+        {
+          "label": "republic of latvia latvijas republika latvejas republika lețmō vabāmō"
+        }
+      ]
+    },
+    {
+      "label": "capital_and_largest_city",
+      "children": [
+        {
+          "label": "riga / 56."
+        }
+      ]
+    },
+    {
+      "label": "official_languages",
+      "children": [
+        {
+          "label": "latvian"
+        }
+      ]
+    },
+    {
+      "label": "recognized_languages",
+      "children": [
+        {
+          "label": "livonian latgalian"
+        }
+      ]
+    },
+    {
+      "label": "ethnic_groups_2025",
+      "children": [
+        {
+          "label": "65.5% latvians"
+        },
+        {
+          "label": "24.1% russians"
+        },
+        {
+          "label": "2.9% belarusians"
+        },
+        {
+          "label": "2.9% ukrainians"
+        },
+        {
+          "label": "1.9% poles"
+        },
+        {
+          "label": "1.1% lithuanians"
+        },
+        {
+          "label": "1.6% others"
+        }
+      ]
+    },
+    {
+      "label": "religion_2018",
+      "children": [
+        {
+          "label": "64% christianity"
+        },
+        {
+          "label": "36% lutheranism"
+        },
+        {
+          "label": "17% catholicism"
+        },
+        {
+          "label": "9% orthodoxy"
+        },
+        {
+          "label": "2% other christian"
+        },
+        {
+          "label": "35% no religion"
+        },
+        {
+          "label": "1% others"
+        }
+      ]
+    },
+    {
+      "label": "demonym",
+      "children": [
+        {
+          "label": "latvian"
+        }
+      ]
+    },
+    {
+      "label": "government",
+      "children": [
+        {
+          "label": "unitary parliamentary republic"
+        }
+      ]
+    },
+    {
+      "label": "president",
+      "children": [
+        {
+          "label": "edgars rinkēvičs"
+        }
+      ]
+    },
+    {
+      "label": "prime_minister",
+      "children": [
+        {
+          "label": "evika siliņa"
+        }
+      ]
+    },
+    {
+      "label": "speaker_of_the_saeima",
+      "children": [
+        {
+          "label": "daiga mieriņa"
+        }
+      ]
+    },
+    {
+      "label": "legislature",
+      "children": [
+        {
+          "label": "saeima"
+        }
+      ]
+    },
+    {
+      "label": "independence_from_germany_and_russia",
+      "children": [
+        {
+          "label": "declared",
+          "children": [
+            {
+              "label": "18 november 1918"
+            }
+          ]
+        },
+        {
+          "label": "recognised",
+          "children": [
+            {
+              "label": "26 january 1921"
+            }
+          ]
+        },
+        {
+          "label": "constitution_adopted",
+          "children": [
+            {
+              "label": "7 november 1922"
+            }
+          ]
+        },
+        {
+          "label": "restored",
+          "children": [
+            {
+              "label": "21 august 1991"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "area",
+      "children": [
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "64,589 km"
+            }
+          ]
+        },
+        {
+          "label": "water",
+          "children": [
+            {
+              "label": "2.09"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "population",
+      "children": [
+        {
+          "label": "2022_estimate",
+          "children": [
+            {
+              "label": "1,842,226"
+            }
+          ]
+        },
+        {
+          "label": "density",
+          "children": [
+            {
+              "label": "29.6/km"
+            }
+          ]
+        },
+        {
+          "label": "gdp_ppp",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$82.400 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$44,110"
+            }
+          ]
+        },
+        {
+          "label": "gdp_nominal",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$47.880 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$25,630"
+            }
+          ]
+        },
+        {
+          "label": "gini_2021",
+          "children": [
+            {
+              "label": "35.7 medium inequality"
+            }
+          ]
+        },
+        {
+          "label": "hdi_2023",
+          "children": [
+            {
+              "label": "0.889 very high"
+            }
+          ]
+        },
+        {
+          "label": "currency",
+          "children": [
+            {
+              "label": "euro"
+            }
+          ]
+        },
+        {
+          "label": "time_zone",
+          "children": [
+            {
+              "label": "utc +2"
+            }
+          ]
+        },
+        {
+          "label": "summer_dst",
+          "children": [
+            {
+              "label": "utc +3"
+            }
+          ]
+        },
+        {
+          "label": "calling_code",
+          "children": [
+            {
+              "label": "+371"
+            }
+          ]
+        },
+        {
+          "label": "iso_3166_code",
+          "children": [
+            {
+              "label": "lv"
+            }
+          ]
+        },
+        {
+          "label": "internet_tld",
+          "children": [
+            {
+              "label": ".lv"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,354 @@
+{
+  "label": "country",
+  "children": [
+    {
+      "label": "name",
+      "children": [
+        {
+          "label": "bulgaria"
+        }
+      ]
+    },
+    {
+      "label": "infobox_title",
+      "children": [
+        {
+          "label": "republic of bulgaria република българия republika bŭlgariya"
+        }
+      ]
+    },
+    {
+      "label": "capital_and_largest_city",
+      "children": [
+        {
+          "label": "sofia / 42."
+        }
+      ]
+    },
+    {
+      "label": "official_languages",
+      "children": [
+        {
+          "label": "bulgarian"
+        }
+      ]
+    },
+    {
+      "label": "official_script",
+      "children": [
+        {
+          "label": "cyrillic"
+        }
+      ]
+    },
+    {
+      "label": "ethnic_groups_2021_census",
+      "children": [
+        {
+          "label": "85.7% bulgarians"
+        },
+        {
+          "label": "8.5% turks"
+        },
+        {
+          "label": "4.5% roma"
+        },
+        {
+          "label": "1.3% others"
+        }
+      ]
+    },
+    {
+      "label": "religion_2021_census",
+      "children": [
+        {
+          "label": "64.7% christianity"
+        },
+        {
+          "label": "62.7% bulgarian orthodoxy"
+        },
+        {
+          "label": "2.0% other christian"
+        },
+        {
+          "label": "15.9% no religion"
+        },
+        {
+          "label": "9.8% islam"
+        },
+        {
+          "label": "0.1% other"
+        },
+        {
+          "label": "9.5% unanswered"
+        }
+      ]
+    },
+    {
+      "label": "demonym",
+      "children": [
+        {
+          "label": "bulgarian"
+        }
+      ]
+    },
+    {
+      "label": "government",
+      "children": [
+        {
+          "label": "unitary parliamentary republic"
+        }
+      ]
+    },
+    {
+      "label": "president",
+      "children": [
+        {
+          "label": "iliana iotova"
+        }
+      ]
+    },
+    {
+      "label": "prime_minister",
+      "children": [
+        {
+          "label": "andrey gyurov"
+        }
+      ]
+    },
+    {
+      "label": "chairperson_of_the_national_assembly",
+      "children": [
+        {
+          "label": "raya nazaryan"
+        }
+      ]
+    },
+    {
+      "label": "legislature",
+      "children": [
+        {
+          "label": "national assembly"
+        }
+      ]
+    },
+    {
+      "label": "establishment_history",
+      "children": [
+        {
+          "label": "1st_bulgarian_empire",
+          "children": [
+            {
+              "label": "681–1018"
+            }
+          ]
+        },
+        {
+          "label": "2nd_bulgarian_empire",
+          "children": [
+            {
+              "label": "1185–1396"
+            }
+          ]
+        },
+        {
+          "label": "principality_of_bulgaria",
+          "children": [
+            {
+              "label": "3 march 1878"
+            }
+          ]
+        },
+        {
+          "label": "independence_from_the_ottoman_empire",
+          "children": [
+            {
+              "label": "5 october 1908"
+            }
+          ]
+        },
+        {
+          "label": "monarchy_abolished",
+          "children": [
+            {
+              "label": "15 september 1946"
+            }
+          ]
+        },
+        {
+          "label": "current_state_form",
+          "children": [
+            {
+              "label": "15 november 1990"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "area",
+      "children": [
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "110,993.6 km"
+            }
+          ]
+        },
+        {
+          "label": "water",
+          "children": [
+            {
+              "label": "2.16"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "population",
+      "children": [
+        {
+          "label": "december_2024_estimate",
+          "children": [
+            {
+              "label": "6,437,360"
+            }
+          ]
+        },
+        {
+          "label": "2021_census",
+          "children": [
+            {
+              "label": "6,519,789"
+            }
+          ]
+        },
+        {
+          "label": "density",
+          "children": [
+            {
+              "label": "58/km"
+            }
+          ]
+        },
+        {
+          "label": "gdp_ppp",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$264.699 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$41,901"
+            }
+          ]
+        },
+        {
+          "label": "gdp_nominal",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$117.007 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$18,522"
+            }
+          ]
+        },
+        {
+          "label": "gini_2023",
+          "children": [
+            {
+              "label": "37.2 medium inequality"
+            }
+          ]
+        },
+        {
+          "label": "hdi_2023",
+          "children": [
+            {
+              "label": "0.845 very high"
+            }
+          ]
+        },
+        {
+          "label": "currency",
+          "children": [
+            {
+              "label": "euro"
+            }
+          ]
+        },
+        {
+          "label": "time_zone",
+          "children": [
+            {
+              "label": "utc +2"
+            }
+          ]
+        },
+        {
+          "label": "summer_dst",
+          "children": [
+            {
+              "label": "utc +3"
+            }
+          ]
+        },
+        {
+          "label": "calling_code",
+          "children": [
+            {
+              "label": "+359"
+            }
+          ]
+        },
+        {
+          "label": "iso_3166_code",
+          "children": [
+            {
+              "label": "bg"
+            }
+          ]
+        },
+        {
+          "label": "internet_tld",
+          "children": [
+            {
+              "label": ".bg"
+            },
+            {
+              "label": ".бг"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

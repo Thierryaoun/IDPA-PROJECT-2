@@ -1,0 +1,370 @@
+{
+  "label": "country",
+  "children": [
+    {
+      "label": "name",
+      "children": [
+        {
+          "label": "lithuania"
+        }
+      ]
+    },
+    {
+      "label": "infobox_title",
+      "children": [
+        {
+          "label": "republic of lithuania lietuvos respublika"
+        }
+      ]
+    },
+    {
+      "label": "capital_and_largest_city",
+      "children": [
+        {
+          "label": "vilnius / 54."
+        }
+      ]
+    },
+    {
+      "label": "official_languages",
+      "children": [
+        {
+          "label": "lithuanian"
+        }
+      ]
+    },
+    {
+      "label": "ethnic_groups_2025",
+      "children": [
+        {
+          "label": "82.3% lithuanians"
+        },
+        {
+          "label": "6.2% poles"
+        },
+        {
+          "label": "5.0% russians"
+        },
+        {
+          "label": "2.2% ukrainians"
+        },
+        {
+          "label": "2.1% belarusians"
+        },
+        {
+          "label": "2.2% others"
+        }
+      ]
+    },
+    {
+      "label": "religion_2021",
+      "children": [
+        {
+          "label": "79.4% christianity"
+        },
+        {
+          "label": "74.2% catholicism"
+        },
+        {
+          "label": "5.2% other christian"
+        },
+        {
+          "label": "6.1% no religion"
+        },
+        {
+          "label": "0.8% others"
+        },
+        {
+          "label": "13.7% no answer"
+        }
+      ]
+    },
+    {
+      "label": "demonym",
+      "children": [
+        {
+          "label": "lithuanian"
+        }
+      ]
+    },
+    {
+      "label": "government",
+      "children": [
+        {
+          "label": "unitary semi-presidential republic"
+        }
+      ]
+    },
+    {
+      "label": "president",
+      "children": [
+        {
+          "label": "gitanas nausėda"
+        }
+      ]
+    },
+    {
+      "label": "prime_minister",
+      "children": [
+        {
+          "label": "inga ruginienė"
+        }
+      ]
+    },
+    {
+      "label": "seimas_speaker",
+      "children": [
+        {
+          "label": "juozas olekas"
+        }
+      ]
+    },
+    {
+      "label": "legislature",
+      "children": [
+        {
+          "label": "seimas"
+        }
+      ]
+    },
+    {
+      "label": "formation",
+      "children": [
+        {
+          "label": "first_mentioned",
+          "children": [
+            {
+              "label": "9 march 1009"
+            }
+          ]
+        },
+        {
+          "label": "grand_duchy",
+          "children": [
+            {
+              "label": "1236"
+            }
+          ]
+        },
+        {
+          "label": "coronation_of_mindaugas",
+          "children": [
+            {
+              "label": "6 july 1253"
+            }
+          ]
+        },
+        {
+          "label": "union_with_poland",
+          "children": [
+            {
+              "label": "2 february 1386"
+            }
+          ]
+        },
+        {
+          "label": "commonwealth_created",
+          "children": [
+            {
+              "label": "1 july 1569"
+            }
+          ]
+        },
+        {
+          "label": "partitioned",
+          "children": [
+            {
+              "label": "24 october 1795"
+            }
+          ]
+        },
+        {
+          "label": "independence_reinstated",
+          "children": [
+            {
+              "label": "16 february 1918"
+            }
+          ]
+        },
+        {
+          "label": "soviet_occupation",
+          "children": [
+            {
+              "label": "16 june 1940"
+            }
+          ]
+        },
+        {
+          "label": "independence_restored",
+          "children": [
+            {
+              "label": "11 march 1990"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "area",
+      "children": [
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "65,300 km"
+            }
+          ]
+        },
+        {
+          "label": "water",
+          "children": [
+            {
+              "label": "1.98"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "population",
+      "children": [
+        {
+          "label": "2025_estimate",
+          "children": [
+            {
+              "label": "2,897,430"
+            }
+          ]
+        },
+        {
+          "label": "density",
+          "children": [
+            {
+              "label": "46/km"
+            }
+          ]
+        },
+        {
+          "label": "gdp_ppp",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$165.23 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$57,201"
+            }
+          ]
+        },
+        {
+          "label": "gdp_nominal",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$95.27 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$32,982"
+            }
+          ]
+        },
+        {
+          "label": "gini_2023",
+          "children": [
+            {
+              "label": "35.7 medium inequality"
+            }
+          ]
+        },
+        {
+          "label": "hdi_2023",
+          "children": [
+            {
+              "label": "0.895 very high"
+            }
+          ]
+        },
+        {
+          "label": "currency",
+          "children": [
+            {
+              "label": "euro"
+            }
+          ]
+        },
+        {
+          "label": "time_zone",
+          "children": [
+            {
+              "label": "utc +2"
+            }
+          ]
+        },
+        {
+          "label": "summer_dst",
+          "children": [
+            {
+              "label": "utc +3"
+            }
+          ]
+        },
+        {
+          "label": "date_format",
+          "children": [
+            {
+              "label": "yyyy - mm - dd"
+            }
+          ]
+        },
+        {
+          "label": "calling_code",
+          "children": [
+            {
+              "label": "+370"
+            }
+          ]
+        },
+        {
+          "label": "iso_3166_code",
+          "children": [
+            {
+              "label": "lt"
+            }
+          ]
+        },
+        {
+          "label": "internet_tld",
+          "children": [
+            {
+              "label": ".lt"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

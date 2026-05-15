@@ -1,0 +1,462 @@
+{
+  "label": "country",
+  "children": [
+    {
+      "label": "name",
+      "children": [
+        {
+          "label": "ethiopia"
+        }
+      ]
+    },
+    {
+      "label": "infobox_title",
+      "children": [
+        {
+          "label": "federal democratic republic of ethiopia የኢትዮጵያ ፌዴራላዊ ዴሞክራሲያዊ ሪፐብሊክ yäʾityop̣p̣yawi federalawi demokrasiyawi ripäblik in other official languages afar : itiyoppiya federalih demokrasih ummuno arabic : جمهورية إثيوبيا الاتحادية الديمقراطية oromo : rippabliikii federaalawaa dimokraatawaa itoophiyaa somali : jamhuuriyadda dimuqraadiga federaalka itoobiya tigrinya : ናይኢትዮጵያ ፌዴራላዊ ዴሞክራሲያዊ ሪፐብሊክ"
+        }
+      ]
+    },
+    {
+      "label": "afar",
+      "children": [
+        {
+          "label": "itiyoppiya federalih demokrasih ummuno"
+        }
+      ]
+    },
+    {
+      "label": "afar",
+      "children": [
+        {
+          "label": "itiyoppiya federalih demokrasih ummuno"
+        }
+      ]
+    },
+    {
+      "label": "arabic",
+      "children": [
+        {
+          "label": "جمهورية إثيوبيا الاتحادية الديمقراطية"
+        }
+      ]
+    },
+    {
+      "label": "oromo",
+      "children": [
+        {
+          "label": "rippabliikii federaalawaa dimokraatawaa itoophiyaa"
+        }
+      ]
+    },
+    {
+      "label": "somali",
+      "children": [
+        {
+          "label": "jamhuuriyadda dimuqraadiga federaalka itoobiya"
+        }
+      ]
+    },
+    {
+      "label": "tigrinya",
+      "children": [
+        {
+          "label": "ናይኢትዮጵያ ፌዴራላዊ ዴሞክራሲያዊ ሪፐብሊክ"
+        }
+      ]
+    },
+    {
+      "label": "capital_and_largest_city",
+      "children": [
+        {
+          "label": "addis ababa / 9."
+        }
+      ]
+    },
+    {
+      "label": "official_languages",
+      "children": [
+        {
+          "label": "afar"
+        },
+        {
+          "label": "amharic"
+        },
+        {
+          "label": "oromo"
+        },
+        {
+          "label": "somali"
+        },
+        {
+          "label": "tigrinya"
+        }
+      ]
+    },
+    {
+      "label": "regional_languages",
+      "children": [
+        {
+          "label": "harari"
+        },
+        {
+          "label": "sidama"
+        },
+        {
+          "label": "languages of ethiopia"
+        }
+      ]
+    },
+    {
+      "label": "ethnic_groups_2007",
+      "children": [
+        {
+          "label": "34.5% oromo"
+        },
+        {
+          "label": "26.9% amhara"
+        },
+        {
+          "label": "6.2% somali"
+        },
+        {
+          "label": "6.1% tigrayan"
+        },
+        {
+          "label": "4.0% sidama"
+        },
+        {
+          "label": "2.5% gurage"
+        },
+        {
+          "label": "2.3% welayta"
+        },
+        {
+          "label": "1.7% hadiya"
+        },
+        {
+          "label": "1.7% afar"
+        },
+        {
+          "label": "1.5% gamo"
+        },
+        {
+          "label": "12.6% others"
+        }
+      ]
+    },
+    {
+      "label": "religion_2016",
+      "children": [
+        {
+          "label": "67.3% christianity"
+        },
+        {
+          "label": "43.8% ethiopian orthodoxy"
+        },
+        {
+          "label": "0.7% other christian"
+        },
+        {
+          "label": "22.8% p'ent'ay"
+        },
+        {
+          "label": "31.3% islam"
+        },
+        {
+          "label": "0.6% traditional faiths"
+        },
+        {
+          "label": "0.8% others / none"
+        }
+      ]
+    },
+    {
+      "label": "demonym",
+      "children": [
+        {
+          "label": "ethiopian"
+        }
+      ]
+    },
+    {
+      "label": "government",
+      "children": [
+        {
+          "label": "federal parliamentary republic under an authoritarian government"
+        }
+      ]
+    },
+    {
+      "label": "president",
+      "children": [
+        {
+          "label": "taye atske selassie"
+        }
+      ]
+    },
+    {
+      "label": "prime_minister",
+      "children": [
+        {
+          "label": "abiy ahmed"
+        }
+      ]
+    },
+    {
+      "label": "deputy_prime_ministers",
+      "children": [
+        {
+          "label": "temesgen tiruneh adem farah"
+        }
+      ]
+    },
+    {
+      "label": "chief_justice_of_the_federal_supreme_court",
+      "children": [
+        {
+          "label": "tewodros mihret"
+        }
+      ]
+    },
+    {
+      "label": "legislature",
+      "children": [
+        {
+          "label": "federal parliamentary assembly"
+        }
+      ]
+    },
+    {
+      "label": "upper_house",
+      "children": [
+        {
+          "label": "house of federation"
+        }
+      ]
+    },
+    {
+      "label": "lower_house",
+      "children": [
+        {
+          "label": "house of peoples' representatives"
+        }
+      ]
+    },
+    {
+      "label": "formation",
+      "children": [
+        {
+          "label": "ethiopian_empire",
+          "children": [
+            {
+              "label": "1270"
+            }
+          ]
+        },
+        {
+          "label": "zemene_mesafint",
+          "children": [
+            {
+              "label": "7 may 1769"
+            }
+          ]
+        },
+        {
+          "label": "reunification",
+          "children": [
+            {
+              "label": "11 february 1855"
+            }
+          ]
+        },
+        {
+          "label": "centralisation",
+          "children": [
+            {
+              "label": "1904"
+            }
+          ]
+        },
+        {
+          "label": "occupied_and_annexed_into_italian_east_africa",
+          "children": [
+            {
+              "label": "9 may 1936"
+            }
+          ]
+        },
+        {
+          "label": "re_establishment_of_independence",
+          "children": [
+            {
+              "label": "31 january 1942"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "area",
+      "children": [
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "1,104,300 km"
+            }
+          ]
+        },
+        {
+          "label": "water",
+          "children": [
+            {
+              "label": "0.7"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "population",
+      "children": [
+        {
+          "label": "2025_estimate",
+          "children": [
+            {
+              "label": "135,500,000"
+            }
+          ]
+        },
+        {
+          "label": "2007_census",
+          "children": [
+            {
+              "label": "73,750,932"
+            }
+          ]
+        },
+        {
+          "label": "density",
+          "children": [
+            {
+              "label": "92.7/km"
+            }
+          ]
+        },
+        {
+          "label": "gdp_ppp",
+          "children": [
+            {
+              "label": "2024 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$434.44 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$4,050"
+            }
+          ]
+        },
+        {
+          "label": "gdp_nominal",
+          "children": [
+            {
+              "label": "2024 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$145.03 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$1,350"
+            }
+          ]
+        },
+        {
+          "label": "gini_2015",
+          "children": [
+            {
+              "label": "35.0 medium inequality"
+            }
+          ]
+        },
+        {
+          "label": "hdi_2022",
+          "children": [
+            {
+              "label": "0.492 low"
+            }
+          ]
+        },
+        {
+          "label": "currency",
+          "children": [
+            {
+              "label": "birr"
+            }
+          ]
+        },
+        {
+          "label": "time_zone",
+          "children": [
+            {
+              "label": "utc +3"
+            }
+          ]
+        },
+        {
+          "label": "date_format",
+          "children": [
+            {
+              "label": "dd/mm/yyyy"
+            }
+          ]
+        },
+        {
+          "label": "calling_code",
+          "children": [
+            {
+              "label": "+251"
+            }
+          ]
+        },
+        {
+          "label": "iso_3166_code",
+          "children": [
+            {
+              "label": "et"
+            }
+          ]
+        },
+        {
+          "label": "internet_tld",
+          "children": [
+            {
+              "label": ".et"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

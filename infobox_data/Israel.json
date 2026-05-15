@@ -1,0 +1,357 @@
+{
+  "country": "Israel",
+  "infobox_title": "State of Israel מְדִינַת יִשְׂרָאֵל ( Hebrew ) Medīnat Yisrā'el دَوْلَة إِسْرَائِيل ( Arabic ) Dawlat Isrā'īl",
+  "data": [
+    {
+      "label": "Capital and largest city",
+      "value": "Jerusalem ( limited recognition ) 31°47′N 35°13′E ﻿ / ﻿ 31.783°N 35.217°E",
+      "links": [
+        {
+          "text": "Jerusalem",
+          "href": "https://en.wikipedia.org/wiki/Jerusalem"
+        },
+        {
+          "text": "limited recognition",
+          "href": "https://en.wikipedia.org/wiki/Status_of_Jerusalem"
+        },
+        {
+          "text": "31°47′N35°13′E﻿ / ﻿31.783°N 35.217°E",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Israel&params=31_47_N_35_13_E_region:IL-JM_type:city(880000)"
+        }
+      ]
+    },
+    {
+      "label": "Official language",
+      "value": "Hebrew",
+      "links": [
+        {
+          "text": "Hebrew",
+          "href": "https://en.wikipedia.org/wiki/Modern_Hebrew"
+        }
+      ]
+    },
+    {
+      "label": "Special status",
+      "value": "Arabic",
+      "links": [
+        {
+          "text": "Arabic",
+          "href": "https://en.wikipedia.org/wiki/Modern_Standard_Arabic"
+        }
+      ]
+    },
+    {
+      "label": "Ethnic groups (2025 est.)",
+      "value": "71.9% Jews 21% Arabs 7.1% others",
+      "links": [
+        {
+          "text": "Jews",
+          "href": "https://en.wikipedia.org/wiki/Israeli_Jews"
+        },
+        {
+          "text": "Arabs",
+          "href": "https://en.wikipedia.org/wiki/Arab_citizens_of_Israel"
+        },
+        {
+          "text": "others",
+          "href": "https://en.wikipedia.org/wiki/Demographics_of_Israel"
+        }
+      ],
+      "sub_items": [
+        "71.9% Jews",
+        "21% Arabs",
+        "7.1% others"
+      ]
+    },
+    {
+      "label": "Religion (2023 est.)",
+      "value": "73.7% Judaism 18.3% Islam 1.9% Christianity 1.6% Druze faith 4.5% others",
+      "links": [
+        {
+          "text": "Judaism",
+          "href": "https://en.wikipedia.org/wiki/Israeli_Jews"
+        },
+        {
+          "text": "Islam",
+          "href": "https://en.wikipedia.org/wiki/Islam_in_Israel"
+        },
+        {
+          "text": "Christianity",
+          "href": "https://en.wikipedia.org/wiki/Christianity_in_Israel"
+        },
+        {
+          "text": "Druze faith",
+          "href": "https://en.wikipedia.org/wiki/Druze_in_Israel"
+        },
+        {
+          "text": "others",
+          "href": "https://en.wikipedia.org/wiki/Religion_in_Israel"
+        }
+      ],
+      "sub_items": [
+        "73.7% Judaism",
+        "18.3% Islam",
+        "1.9% Christianity",
+        "1.6% Druze faith",
+        "4.5% others"
+      ]
+    },
+    {
+      "label": "Demonym",
+      "value": "Israeli",
+      "links": [
+        {
+          "text": "Israeli",
+          "href": "https://en.wikipedia.org/wiki/Israelis"
+        }
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Unitary parliamentary republic",
+      "links": [
+        {
+          "text": "Unitary parliamentary republic",
+          "href": "https://en.wikipedia.org/wiki/Unitary_parliamentary_republic"
+        }
+      ]
+    },
+    {
+      "label": "• President",
+      "value": "Isaac Herzog",
+      "links": [
+        {
+          "text": "Isaac Herzog",
+          "href": "https://en.wikipedia.org/wiki/Isaac_Herzog"
+        }
+      ]
+    },
+    {
+      "label": "• Prime Minister",
+      "value": "Benjamin Netanyahu",
+      "links": [
+        {
+          "text": "Benjamin Netanyahu",
+          "href": "https://en.wikipedia.org/wiki/Benjamin_Netanyahu"
+        }
+      ]
+    },
+    {
+      "label": "• Knesset Speaker",
+      "value": "Amir Ohana",
+      "links": [
+        {
+          "text": "Amir Ohana",
+          "href": "https://en.wikipedia.org/wiki/Amir_Ohana"
+        }
+      ]
+    },
+    {
+      "label": "• Chief Justice",
+      "value": "Yitzhak Amit",
+      "links": [
+        {
+          "text": "Yitzhak Amit",
+          "href": "https://en.wikipedia.org/wiki/Yitzhak_Amit"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "Knesset",
+      "links": [
+        {
+          "text": "Knesset",
+          "href": "https://en.wikipedia.org/wiki/Knesset"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Establishment",
+      "rows": [
+        {
+          "label": "• Declaration of independence",
+          "value": "14 May 1948"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "22,072 or 20,770 km (8,522 or 8,019 sq mi) ( 148th )",
+          "links": [
+            {
+              "text": "148th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "2.71"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2026 estimate",
+          "value": "10,147,200 ( 93rd )",
+          "links": [
+            {
+              "text": "93rd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• 2022 census",
+          "value": "9,601,720"
+        },
+        {
+          "label": "• Density",
+          "value": "462/km (1,196.6/sq mi) ( 30th )",
+          "links": [
+            {
+              "text": "30th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$567.55 billion ( 48th )",
+          "links": [
+            {
+              "text": "48th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$55,770 ( 35th )",
+          "links": [
+            {
+              "text": "35th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$610.75 billion ( 26th )",
+          "links": [
+            {
+              "text": "26th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$60,010 ( 14th )",
+          "links": [
+            {
+              "text": "14th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "Gini (2021)",
+          "value": "37.9 medium inequality"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.919 very high ( 27th )",
+          "links": [
+            {
+              "text": "27th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "New shekel ( ₪ ) ( ILS )",
+          "links": [
+            {
+              "text": "New shekel",
+              "href": "https://en.wikipedia.org/wiki/Israeli_new_shekel"
+            },
+            {
+              "text": "ILS",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC +2:00 ( IST )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "IST",
+              "href": "https://en.wikipedia.org/wiki/Israel_Standard_Time"
+            }
+          ]
+        },
+        {
+          "label": "• Summer ( DST )",
+          "value": "UTC +3:00 ( IDT )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "IDT",
+              "href": "https://en.wikipedia.org/wiki/Israel_Summer_Time"
+            }
+          ]
+        },
+        {
+          "label": "Calling code",
+          "value": "+972"
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "IL",
+          "links": [
+            {
+              "text": "IL",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:IL"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".il",
+          "links": [
+            {
+              "text": ".il",
+              "href": "https://en.wikipedia.org/wiki/.il"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

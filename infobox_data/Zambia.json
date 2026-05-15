@@ -1,0 +1,559 @@
+{
+  "country": "Zambia",
+  "infobox_title": "Republic of Zambia",
+  "data": [
+    {
+      "label": "Capital and largest city",
+      "value": "Lusaka 15°25′S 28°17′E ﻿ / ﻿ 15.417°S 28.283°E",
+      "links": [
+        {
+          "text": "Lusaka",
+          "href": "https://en.wikipedia.org/wiki/Lusaka"
+        },
+        {
+          "text": "15°25′S28°17′E﻿ / ﻿15.417°S 28.283°E",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Zambia&params=15_25_S_28_17_E_type:city_region:ZM"
+        }
+      ]
+    },
+    {
+      "label": "Official languages",
+      "value": "English",
+      "links": [
+        {
+          "text": "English",
+          "href": "https://en.wikipedia.org/wiki/English_language"
+        }
+      ]
+    },
+    {
+      "label": "Recognised regional languages",
+      "value": "List 28.5% Bemba 13.8% Nyanja 11.4% Tonga 10.6% Tumbuka 5.5% Lozi 4.5% Chewa 3.0% Nsenga 1.9% Lunda 1.9% Kaonde 1.8% Lala 1.8% Lamba 1.7% English 1.5% Luvale 1.3% Mambwe 1.2% Lenje 1.2% Namwanga 1.0% Bisa 0.9% Ushi 0.7% Ila 0.7% Mbunda 0.7% Ngoni 0.7% Senga 0.6% Lungu 0.5% Toka-Leya 4.7% others",
+      "links": [
+        {
+          "text": "Bemba",
+          "href": "https://en.wikipedia.org/wiki/Bemba_language"
+        },
+        {
+          "text": "Nyanja",
+          "href": "https://en.wikipedia.org/wiki/Nyanja_language"
+        },
+        {
+          "text": "Tonga",
+          "href": "https://en.wikipedia.org/wiki/Tonga_language_(Zambia_and_Zimbabwe)"
+        },
+        {
+          "text": "Tumbuka",
+          "href": "https://en.wikipedia.org/wiki/Tumbuka_language"
+        },
+        {
+          "text": "Lozi",
+          "href": "https://en.wikipedia.org/wiki/Lozi_language"
+        },
+        {
+          "text": "Chewa",
+          "href": "https://en.wikipedia.org/wiki/Chewa_language"
+        },
+        {
+          "text": "Nsenga",
+          "href": "https://en.wikipedia.org/wiki/Nsenga_language"
+        },
+        {
+          "text": "Lunda",
+          "href": "https://en.wikipedia.org/wiki/Lunda_language"
+        },
+        {
+          "text": "Kaonde",
+          "href": "https://en.wikipedia.org/wiki/Kaonde_language"
+        },
+        {
+          "text": "Lala",
+          "href": "https://en.wikipedia.org/wiki/Lala-Bisa_language"
+        },
+        {
+          "text": "Lamba",
+          "href": "https://en.wikipedia.org/wiki/Lamba_language"
+        },
+        {
+          "text": "Luvale",
+          "href": "https://en.wikipedia.org/wiki/Luvale_language"
+        },
+        {
+          "text": "Mambwe",
+          "href": "https://en.wikipedia.org/wiki/Mambwe_language"
+        },
+        {
+          "text": "Lenje",
+          "href": "https://en.wikipedia.org/wiki/Lenje_language"
+        },
+        {
+          "text": "Namwanga",
+          "href": "https://en.wikipedia.org/wiki/Namwanga_language"
+        },
+        {
+          "text": "Bisa",
+          "href": "https://en.wikipedia.org/wiki/Lala-Bisa_language"
+        },
+        {
+          "text": "Ila",
+          "href": "https://en.wikipedia.org/wiki/Ila_language"
+        },
+        {
+          "text": "Mbunda",
+          "href": "https://en.wikipedia.org/wiki/Mbunda_language"
+        },
+        {
+          "text": "Ngoni",
+          "href": "https://en.wikipedia.org/wiki/Ngoni_dialect"
+        },
+        {
+          "text": "Senga",
+          "href": "https://en.wikipedia.org/wiki/Tumbuka-Senga_language"
+        },
+        {
+          "text": "Lungu",
+          "href": "https://en.wikipedia.org/wiki/Lungu_language"
+        }
+      ],
+      "sub_items": [
+        "28.5% Bemba",
+        "13.8% Nyanja",
+        "11.4% Tonga",
+        "10.6% Tumbuka",
+        "5.5% Lozi",
+        "4.5% Chewa",
+        "3.0% Nsenga",
+        "1.9% Lunda",
+        "1.9% Kaonde",
+        "1.8% Lala",
+        "1.8% Lamba",
+        "1.7% English",
+        "1.5% Luvale",
+        "1.3% Mambwe",
+        "1.2% Lenje",
+        "1.2% Namwanga",
+        "1.0% Bisa",
+        "0.9% Ushi",
+        "0.7% Ila",
+        "0.7% Mbunda",
+        "0.7% Ngoni",
+        "0.7% Senga",
+        "0.6% Lungu",
+        "0.5% Toka-Leya",
+        "4.7% others"
+      ]
+    },
+    {
+      "label": "Ethnic groups (2010 )",
+      "value": "List 19.0% Bemba 13.6% Tonga 7.5% Tumbuka 6.0% Chewa 5.7% Lozi 5.3% Nsenga 3.0% Ngoni 3.1% Lala 3.9% Kaonde 2.8% Namwanga 2.6% Lunda (Northern) 2.5% Mambwe 2.2% Luvale 2.4% Lamba 1.9% Ushi 1.6% Bisa 1.6% Lenje 1.2% Mbunda 0.9% Lunda (Luapula) 0.9% Senga 0.8% Ila 0.8% Lungu 0.7% Tabwa 0.7% Soli 0.7% Kunda 0.6% Ngumbo 0.5% Chishinga 0.5% Chokwe 0.5% Nkoya 5.4% other ethnics 0.8% major racial 0.4% unclassified",
+      "links": [
+        {
+          "text": "Bemba",
+          "href": "https://en.wikipedia.org/wiki/Bemba_people"
+        },
+        {
+          "text": "Tonga",
+          "href": "https://en.wikipedia.org/wiki/Tonga_people_of_Zambia_and_Zimbabwe"
+        },
+        {
+          "text": "Tumbuka",
+          "href": "https://en.wikipedia.org/wiki/Tumbuka_people"
+        },
+        {
+          "text": "Chewa",
+          "href": "https://en.wikipedia.org/wiki/Chewa_people"
+        },
+        {
+          "text": "Lozi",
+          "href": "https://en.wikipedia.org/wiki/Lozi_people"
+        },
+        {
+          "text": "Nsenga",
+          "href": "https://en.wikipedia.org/wiki/Nsenga_people"
+        },
+        {
+          "text": "Ngoni",
+          "href": "https://en.wikipedia.org/wiki/Ngoni_people"
+        },
+        {
+          "text": "Lala",
+          "href": "https://en.wikipedia.org/wiki/Lala_people"
+        },
+        {
+          "text": "Lunda (Northern)",
+          "href": "https://en.wikipedia.org/wiki/Lunda_people"
+        },
+        {
+          "text": "Mambwe",
+          "href": "https://en.wikipedia.org/wiki/Mambwe_people"
+        },
+        {
+          "text": "Luvale",
+          "href": "https://en.wikipedia.org/wiki/Luvale_people"
+        },
+        {
+          "text": "Lamba",
+          "href": "https://en.wikipedia.org/wiki/Lamba_people"
+        },
+        {
+          "text": "Lenje",
+          "href": "https://en.wikipedia.org/wiki/Lenje_people"
+        },
+        {
+          "text": "Mbunda",
+          "href": "https://en.wikipedia.org/wiki/Mbunda_people"
+        },
+        {
+          "text": "Lunda (Luapula)",
+          "href": "https://en.wikipedia.org/wiki/Lunda_people"
+        },
+        {
+          "text": "Senga",
+          "href": "https://en.wikipedia.org/wiki/Senga_people"
+        },
+        {
+          "text": "Ila",
+          "href": "https://en.wikipedia.org/wiki/Ila_people"
+        },
+        {
+          "text": "Lungu",
+          "href": "https://en.wikipedia.org/wiki/Lungu_people"
+        },
+        {
+          "text": "Tabwa",
+          "href": "https://en.wikipedia.org/wiki/Tabwa"
+        },
+        {
+          "text": "Soli",
+          "href": "https://en.wikipedia.org/wiki/Soli_people"
+        },
+        {
+          "text": "Kunda",
+          "href": "https://en.wikipedia.org/wiki/Kunda_people"
+        },
+        {
+          "text": "Chokwe",
+          "href": "https://en.wikipedia.org/wiki/Chokwe_people"
+        },
+        {
+          "text": "Nkoya",
+          "href": "https://en.wikipedia.org/wiki/Nkoya_people"
+        }
+      ],
+      "sub_items": [
+        "19.0% Bemba",
+        "13.6% Tonga",
+        "7.5% Tumbuka",
+        "6.0% Chewa",
+        "5.7% Lozi",
+        "5.3% Nsenga",
+        "3.0% Ngoni",
+        "3.1% Lala",
+        "3.9% Kaonde",
+        "2.8% Namwanga",
+        "2.6% Lunda (Northern)",
+        "2.5% Mambwe",
+        "2.2% Luvale",
+        "2.4% Lamba",
+        "1.9% Ushi",
+        "1.6% Bisa",
+        "1.6% Lenje",
+        "1.2% Mbunda",
+        "0.9% Lunda (Luapula)",
+        "0.9% Senga",
+        "0.8% Ila",
+        "0.8% Lungu",
+        "0.7% Tabwa",
+        "0.7% Soli",
+        "0.7% Kunda",
+        "0.6% Ngumbo",
+        "0.5% Chishinga",
+        "0.5% Chokwe",
+        "0.5% Nkoya",
+        "5.4% other ethnics",
+        "0.8% major racial",
+        "0.4% unclassified"
+      ]
+    },
+    {
+      "label": "Religion (2023)",
+      "value": "95.5% Christianity ( official ) 2.7% Islam 1.8% other / none",
+      "links": [
+        {
+          "text": "Christianity",
+          "href": "https://en.wikipedia.org/wiki/Christianity"
+        },
+        {
+          "text": "official",
+          "href": "https://en.wikipedia.org/wiki/State_religion"
+        },
+        {
+          "text": "Islam",
+          "href": "https://en.wikipedia.org/wiki/Islam"
+        },
+        {
+          "text": "other",
+          "href": "https://en.wikipedia.org/wiki/Religion_in_Zambia"
+        },
+        {
+          "text": "none",
+          "href": "https://en.wikipedia.org/wiki/Irreligion"
+        }
+      ],
+      "sub_items": [
+        "95.5% Christianity ( official )",
+        "2.7% Islam",
+        "1.8% other / none"
+      ]
+    },
+    {
+      "label": "Demonym",
+      "value": "Zambian",
+      "links": [
+        {
+          "text": "Zambian",
+          "href": "https://en.wikipedia.org/wiki/Zambian_people"
+        }
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Unitary presidential republic",
+      "links": [
+        {
+          "text": "presidential republic",
+          "href": "https://en.wikipedia.org/wiki/Presidential_system"
+        }
+      ]
+    },
+    {
+      "label": "• President",
+      "value": "Hakainde Hichilema",
+      "links": [
+        {
+          "text": "Hakainde Hichilema",
+          "href": "https://en.wikipedia.org/wiki/Hakainde_Hichilema"
+        }
+      ]
+    },
+    {
+      "label": "• Vice-President",
+      "value": "Mutale Nalumango",
+      "links": [
+        {
+          "text": "Mutale Nalumango",
+          "href": "https://en.wikipedia.org/wiki/Mutale_Nalumango"
+        }
+      ]
+    },
+    {
+      "label": "• Speaker",
+      "value": "Nelly Mutti",
+      "links": [
+        {
+          "text": "Nelly Mutti",
+          "href": "https://en.wikipedia.org/wiki/Nelly_Mutti"
+        }
+      ]
+    },
+    {
+      "label": "• Chief Justice",
+      "value": "Mumba Malila",
+      "links": [
+        {
+          "text": "Mumba Malila",
+          "href": "https://en.wikipedia.org/wiki/Mumba_Malila"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "National Assembly of Zambia",
+      "links": [
+        {
+          "text": "National Assembly of Zambia",
+          "href": "https://en.wikipedia.org/wiki/National_Assembly_of_Zambia"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Independence from the United Kingdom",
+      "rows": [
+        {
+          "label": "• Declared",
+          "value": "24 October 1964"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "752,617 km (290,587 sq mi) ( 38th )",
+          "links": [
+            {
+              "text": "38th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2023 estimate",
+          "value": "20,216,029 ( 64th )",
+          "links": [
+            {
+              "text": "64th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• Density",
+          "value": "17.2/km (44.5/sq mi) ( 191st )",
+          "links": [
+            {
+              "text": "191st",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2023 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$83.687 billion ( 100th )",
+          "links": [
+            {
+              "text": "100th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$4,068 ( 155th )",
+          "links": [
+            {
+              "text": "155th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2023 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$29.536 billion ( 113th )",
+          "links": [
+            {
+              "text": "113th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$1,435 ( 159th )",
+          "links": [
+            {
+              "text": "159th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "Gini (2022)",
+          "value": "51.5 high inequality"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.595 medium ( 154th )",
+          "links": [
+            {
+              "text": "154th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "Zambian kwacha ( ZMW )",
+          "links": [
+            {
+              "text": "Zambian kwacha",
+              "href": "https://en.wikipedia.org/wiki/Zambian_kwacha"
+            },
+            {
+              "text": "ZMW",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC +2 ( CAT )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "CAT",
+              "href": "https://en.wikipedia.org/wiki/Central_Africa_Time"
+            }
+          ]
+        },
+        {
+          "label": "Date format",
+          "value": "dd/mm/yyyy"
+        },
+        {
+          "label": "Calling code",
+          "value": "+260",
+          "links": [
+            {
+              "text": "+260",
+              "href": "https://en.wikipedia.org/wiki/%2B260"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "ZM",
+          "links": [
+            {
+              "text": "ZM",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:ZM"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".zm",
+          "links": [
+            {
+              "text": ".zm",
+              "href": "https://en.wikipedia.org/wiki/.zm"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

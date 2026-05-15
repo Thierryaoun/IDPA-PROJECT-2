@@ -1,0 +1,380 @@
+{
+  "label": "country",
+  "children": [
+    {
+      "label": "name",
+      "children": [
+        {
+          "label": "kyrgyzstan"
+        }
+      ]
+    },
+    {
+      "label": "infobox_title",
+      "children": [
+        {
+          "label": "kyrgyz republic кыргыз республикасы кыргызская республика"
+        }
+      ]
+    },
+    {
+      "label": "capital_and_largest_city",
+      "children": [
+        {
+          "label": "bishkek / 42."
+        }
+      ]
+    },
+    {
+      "label": "official_languages",
+      "children": [
+        {
+          "label": "kyrgyz russian"
+        }
+      ]
+    },
+    {
+      "label": "official_script",
+      "children": [
+        {
+          "label": "cyrillic"
+        }
+      ]
+    },
+    {
+      "label": "ethnic_groups_2025",
+      "children": [
+        {
+          "label": "77.8% kyrgyz"
+        },
+        {
+          "label": "14.3% uzbeks"
+        },
+        {
+          "label": "3.7% russians"
+        },
+        {
+          "label": "1.0% dungans"
+        },
+        {
+          "label": "0.9% tajiks"
+        },
+        {
+          "label": "2.3% others"
+        }
+      ]
+    },
+    {
+      "label": "religion_2026",
+      "children": [
+        {
+          "label": "91% islam"
+        },
+        {
+          "label": "8% christianity"
+        },
+        {
+          "label": "1% others"
+        }
+      ]
+    },
+    {
+      "label": "demonyms",
+      "children": [
+        {
+          "label": "kyrgyz"
+        },
+        {
+          "label": "kyrgyzstani"
+        }
+      ]
+    },
+    {
+      "label": "government",
+      "children": [
+        {
+          "label": "unitary presidential republic"
+        }
+      ]
+    },
+    {
+      "label": "president",
+      "children": [
+        {
+          "label": "sadyr japarov"
+        }
+      ]
+    },
+    {
+      "label": "chairman_of_the_cabinet_of_ministers",
+      "children": [
+        {
+          "label": "adylbek kasymaliev"
+        }
+      ]
+    },
+    {
+      "label": "speaker_of_the_supreme_council",
+      "children": [
+        {
+          "label": "marlen mamataliev"
+        }
+      ]
+    },
+    {
+      "label": "legislature",
+      "children": [
+        {
+          "label": "supreme council"
+        }
+      ]
+    },
+    {
+      "label": "formation",
+      "children": [
+        {
+          "label": "kyrgyz_khaganate",
+          "children": [
+            {
+              "label": "840"
+            }
+          ]
+        },
+        {
+          "label": "kara_kyrgyz_khanate",
+          "children": [
+            {
+              "label": "1842–1867"
+            }
+          ]
+        },
+        {
+          "label": "annexed_by_the_russian_empire",
+          "children": [
+            {
+              "label": "1876"
+            }
+          ]
+        },
+        {
+          "label": "kara_kirghiz_ao",
+          "children": [
+            {
+              "label": "14 october 1924"
+            }
+          ]
+        },
+        {
+          "label": "kirghiz_assr",
+          "children": [
+            {
+              "label": "11 february 1926"
+            }
+          ]
+        },
+        {
+          "label": "kirghiz_ssr",
+          "children": [
+            {
+              "label": "5 december 1936"
+            }
+          ]
+        },
+        {
+          "label": "sovereignty_declared",
+          "children": [
+            {
+              "label": "30 december 1990"
+            }
+          ]
+        },
+        {
+          "label": "independence_declared_from_ussr",
+          "children": [
+            {
+              "label": "31 august 1991"
+            }
+          ]
+        },
+        {
+          "label": "independence_recognized",
+          "children": [
+            {
+              "label": "26 december 1991"
+            }
+          ]
+        },
+        {
+          "label": "current_constitution",
+          "children": [
+            {
+              "label": "11 april 2021"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "area",
+      "children": [
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "200,105 km"
+            }
+          ]
+        },
+        {
+          "label": "water",
+          "children": [
+            {
+              "label": "7,198 km"
+            }
+          ]
+        },
+        {
+          "label": "water",
+          "children": [
+            {
+              "label": "3.6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "population",
+      "children": [
+        {
+          "label": "2026_estimate",
+          "children": [
+            {
+              "label": "7.4 million"
+            }
+          ]
+        },
+        {
+          "label": "density",
+          "children": [
+            {
+              "label": "37/km"
+            }
+          ]
+        },
+        {
+          "label": "gdp_ppp",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$64.110 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$8,870"
+            }
+          ]
+        },
+        {
+          "label": "gdp_nominal",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$22.587 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$3,101"
+            }
+          ]
+        },
+        {
+          "label": "gini_2022",
+          "children": [
+            {
+              "label": "26.4 low inequality"
+            }
+          ]
+        },
+        {
+          "label": "hdi_2023",
+          "children": [
+            {
+              "label": "0.720 high"
+            }
+          ]
+        },
+        {
+          "label": "currency",
+          "children": [
+            {
+              "label": "kyrgyzstani som"
+            }
+          ]
+        },
+        {
+          "label": "time_zone",
+          "children": [
+            {
+              "label": "utc +6"
+            }
+          ]
+        },
+        {
+          "label": "date_format",
+          "children": [
+            {
+              "label": "dd/mm/yyyy"
+            }
+          ]
+        },
+        {
+          "label": "calling_code",
+          "children": [
+            {
+              "label": "+996"
+            }
+          ]
+        },
+        {
+          "label": "iso_3166_code",
+          "children": [
+            {
+              "label": "kg"
+            }
+          ]
+        },
+        {
+          "label": "internet_tld",
+          "children": [
+            {
+              "label": ".kg"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

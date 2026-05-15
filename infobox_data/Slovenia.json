@@ -1,0 +1,390 @@
+{
+  "country": "Slovenia",
+  "infobox_title": "Republic of Slovenia Republika Slovenija ( Slovene )",
+  "data": [
+    {
+      "label": "Capital and largest city",
+      "value": "Ljubljana 46°03′05″N 14°30′22″E ﻿ / ﻿ 46.05139°N 14.50611°E",
+      "links": [
+        {
+          "text": "Ljubljana",
+          "href": "https://en.wikipedia.org/wiki/Ljubljana"
+        },
+        {
+          "text": "46°03′05″N14°30′22″E﻿ / ﻿46.05139°N 14.50611°E",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Slovenia&params=46_03_05_N_14_30_22_E_type:city"
+        }
+      ]
+    },
+    {
+      "label": "Official languages",
+      "value": "Slovene",
+      "links": [
+        {
+          "text": "Slovene",
+          "href": "https://en.wikipedia.org/wiki/Slovene_language"
+        }
+      ]
+    },
+    {
+      "label": "Recognised regional languages",
+      "value": "Italian Hungarian",
+      "links": [
+        {
+          "text": "Italian",
+          "href": "https://en.wikipedia.org/wiki/Italian_language_in_Slovenia"
+        },
+        {
+          "text": "Hungarian",
+          "href": "https://en.wikipedia.org/wiki/Languages_of_Slovenia#Hungarian"
+        }
+      ],
+      "sub_items": [
+        "Italian",
+        "Hungarian"
+      ]
+    },
+    {
+      "label": "Religion (2018)",
+      "value": "77.9% Christianity 73.4% Catholicism 3.7% Orthodoxy 0.7% other Christian 18.3% no religion 3.9% other",
+      "links": [
+        {
+          "text": "Christianity",
+          "href": "https://en.wikipedia.org/wiki/Christianity"
+        },
+        {
+          "text": "Catholicism",
+          "href": "https://en.wikipedia.org/wiki/Catholic_Church_in_Slovenia"
+        },
+        {
+          "text": "Orthodoxy",
+          "href": "https://en.wikipedia.org/wiki/Eastern_Orthodox_Church"
+        },
+        {
+          "text": "Christian",
+          "href": "https://en.wikipedia.org/wiki/List_of_Christian_denominations"
+        },
+        {
+          "text": "no religion",
+          "href": "https://en.wikipedia.org/wiki/Irreligion"
+        },
+        {
+          "text": "other",
+          "href": "https://en.wikipedia.org/wiki/Religion_in_Slovenia"
+        }
+      ],
+      "sub_items": [
+        "77.9% Christianity 73.4% Catholicism 3.7% Orthodoxy 0.7% other Christian",
+        "77.9% Christianity 73.4% Catholicism 3.7% Orthodoxy 0.7% other Christian",
+        "73.4% Catholicism",
+        "3.7% Orthodoxy",
+        "0.7% other Christian",
+        "18.3% no religion",
+        "3.9% other"
+      ]
+    },
+    {
+      "label": "Demonyms",
+      "value": "Slovene Slovenian",
+      "links": [
+        {
+          "text": "Slovene",
+          "href": "https://en.wikipedia.org/wiki/Slovenes"
+        },
+        {
+          "text": "Slovenian",
+          "href": "https://en.wikipedia.org/wiki/Slovenes"
+        }
+      ],
+      "sub_items": [
+        "Slovene",
+        "Slovenian"
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Unitary parliamentary republic",
+      "links": [
+        {
+          "text": "Unitary parliamentary republic",
+          "href": "https://en.wikipedia.org/wiki/Unitary_parliamentary_republic"
+        }
+      ]
+    },
+    {
+      "label": "• President",
+      "value": "Nataša Pirc Musar",
+      "links": [
+        {
+          "text": "Nataša Pirc Musar",
+          "href": "https://en.wikipedia.org/wiki/Nata%C5%A1a_Pirc_Musar"
+        }
+      ]
+    },
+    {
+      "label": "• Prime Minister",
+      "value": "Robert Golob",
+      "links": [
+        {
+          "text": "Robert Golob",
+          "href": "https://en.wikipedia.org/wiki/Robert_Golob"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "Parliament",
+      "links": [
+        {
+          "text": "Parliament",
+          "href": "https://en.wikipedia.org/wiki/Slovenian_Parliament"
+        }
+      ]
+    },
+    {
+      "label": "• Upper house",
+      "value": "National Council",
+      "links": [
+        {
+          "text": "National Council",
+          "href": "https://en.wikipedia.org/wiki/National_Council_(Slovenia)"
+        }
+      ]
+    },
+    {
+      "label": "• Lower house",
+      "value": "National Assembly",
+      "links": [
+        {
+          "text": "National Assembly",
+          "href": "https://en.wikipedia.org/wiki/National_Assembly_(Slovenia)"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Establishment",
+      "rows": [
+        {
+          "label": "• State of Slovenes, Croats and Serbs",
+          "value": "29 October 1918"
+        },
+        {
+          "label": "• Kingdom of Serbs, Croats and Slovenes",
+          "value": "1 December 1918"
+        },
+        {
+          "label": "• Slovene National Liberation Committee",
+          "value": "19 February 1944"
+        },
+        {
+          "label": "• Socialist Federal Republic of Yugoslavia",
+          "value": "29 July 1944"
+        },
+        {
+          "label": "• Independence from Yugoslavia",
+          "value": "25 June 1991"
+        },
+        {
+          "label": "• Brioni Agreement signed",
+          "value": "7 July 1991"
+        },
+        {
+          "label": "• Current constitution",
+          "value": "24 December 1991"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "20,272 km (7,827 sq mi) ( 150th )",
+          "links": [
+            {
+              "text": "150th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "0.7"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2025 estimate",
+          "value": "2,133,852 ( 144th )",
+          "links": [
+            {
+              "text": "144th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• 2002 census",
+          "value": "1,964,036"
+        },
+        {
+          "label": "• Density",
+          "value": "103 /km (266.8/sq mi) ( 114th )",
+          "links": [
+            {
+              "text": "114th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$122,985 billion ( 99th )",
+          "links": [
+            {
+              "text": "99th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$57,716 ( 36th )",
+          "links": [
+            {
+              "text": "36th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$79,222 billion ( 86th )",
+          "links": [
+            {
+              "text": "86th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$37,178 ( 36th )",
+          "links": [
+            {
+              "text": "36th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "Gini (2023)",
+          "value": "23.4 low inequality"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.931 very high ( 21st )",
+          "links": [
+            {
+              "text": "21st",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "Euro ( € ) ( EUR )",
+          "links": [
+            {
+              "text": "Euro",
+              "href": "https://en.wikipedia.org/wiki/Euro"
+            },
+            {
+              "text": "€",
+              "href": "https://en.wikipedia.org/wiki/Euro_sign"
+            },
+            {
+              "text": "EUR",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC +1 ( CET )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "CET",
+              "href": "https://en.wikipedia.org/wiki/Central_European_Time"
+            }
+          ]
+        },
+        {
+          "label": "• Summer ( DST )",
+          "value": "UTC +2 ( CEST )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "CEST",
+              "href": "https://en.wikipedia.org/wiki/Central_European_Summer_Time"
+            }
+          ]
+        },
+        {
+          "label": "Date format",
+          "value": "dd. mm. yyyy (Slovene) dd/mm/yyyy (Italian) yyyy. mm. dd. (Hungarian)"
+        },
+        {
+          "label": "Calling code",
+          "value": "+386",
+          "links": [
+            {
+              "text": "+386",
+              "href": "https://en.wikipedia.org/wiki/Telephone_numbers_in_Slovenia"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "SI",
+          "links": [
+            {
+              "text": "SI",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:SI"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".si",
+          "links": [
+            {
+              "text": ".si",
+              "href": "https://en.wikipedia.org/wiki/.si"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

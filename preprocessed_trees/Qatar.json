@@ -1,0 +1,317 @@
+{
+  "label": "country",
+  "children": [
+    {
+      "label": "name",
+      "children": [
+        {
+          "label": "qatar"
+        }
+      ]
+    },
+    {
+      "label": "infobox_title",
+      "children": [
+        {
+          "label": "state of qatar دولة قطر dawlat qaṭar"
+        }
+      ]
+    },
+    {
+      "label": "capital_and_largest_city",
+      "children": [
+        {
+          "label": "doha / 25."
+        }
+      ]
+    },
+    {
+      "label": "official_languages",
+      "children": [
+        {
+          "label": "arabic"
+        }
+      ]
+    },
+    {
+      "label": "ethnic_groups_2019",
+      "children": [
+        {
+          "label": "49% arab"
+        },
+        {
+          "label": "43% south asian"
+        },
+        {
+          "label": "21.8% indian"
+        },
+        {
+          "label": "12.5% bangladeshi"
+        },
+        {
+          "label": "4.7% pakistani"
+        },
+        {
+          "label": "4.35% sri lankan"
+        },
+        {
+          "label": "7% other"
+        }
+      ]
+    },
+    {
+      "label": "religion_2020",
+      "children": [
+        {
+          "label": "65.5% islam"
+        },
+        {
+          "label": "15.1% hinduism"
+        },
+        {
+          "label": "14.2% christianity"
+        },
+        {
+          "label": "3.3% buddhism"
+        },
+        {
+          "label": "1.9% other"
+        }
+      ]
+    },
+    {
+      "label": "demonym",
+      "children": [
+        {
+          "label": "qatari"
+        }
+      ]
+    },
+    {
+      "label": "government",
+      "children": [
+        {
+          "label": "unitary authoritarian semi-constitutional monarchy"
+        }
+      ]
+    },
+    {
+      "label": "emir",
+      "children": [
+        {
+          "label": "tamim bin hamad"
+        }
+      ]
+    },
+    {
+      "label": "deputy_emir",
+      "children": [
+        {
+          "label": "abdullah bin hamad"
+        }
+      ]
+    },
+    {
+      "label": "prime_minister",
+      "children": [
+        {
+          "label": "mohammed bin abdulrahman"
+        }
+      ]
+    },
+    {
+      "label": "legislature",
+      "children": [
+        {
+          "label": "consultative assembly"
+        }
+      ]
+    },
+    {
+      "label": "establishment",
+      "children": [
+        {
+          "label": "qatar_national_day",
+          "children": [
+            {
+              "label": "18 december 1878"
+            }
+          ]
+        },
+        {
+          "label": "declared_independence",
+          "children": [
+            {
+              "label": "1 september 1971"
+            }
+          ]
+        },
+        {
+          "label": "independence_from_the_united_kingdom",
+          "children": [
+            {
+              "label": "3 september 1971"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "area",
+      "children": [
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "11,581 km"
+            }
+          ]
+        },
+        {
+          "label": "water",
+          "children": [
+            {
+              "label": "negligible"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "population",
+      "children": [
+        {
+          "label": "2025_estimate",
+          "children": [
+            {
+              "label": "3,214,609"
+            }
+          ]
+        },
+        {
+          "label": "2020_census",
+          "children": [
+            {
+              "label": "2,846,118"
+            }
+          ]
+        },
+        {
+          "label": "density",
+          "children": [
+            {
+              "label": "264/km"
+            }
+          ]
+        },
+        {
+          "label": "gdp_ppp",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$378.080 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$121,610"
+            }
+          ]
+        },
+        {
+          "label": "gdp_nominal",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$222.780 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$71,650"
+            }
+          ]
+        },
+        {
+          "label": "gini_2017",
+          "children": [
+            {
+              "label": "35.1 medium inequality"
+            }
+          ]
+        },
+        {
+          "label": "hdi_2023",
+          "children": [
+            {
+              "label": "0.886 very high"
+            }
+          ]
+        },
+        {
+          "label": "currency",
+          "children": [
+            {
+              "label": "qatari riyal"
+            }
+          ]
+        },
+        {
+          "label": "time_zone",
+          "children": [
+            {
+              "label": "utc +3:00"
+            }
+          ]
+        },
+        {
+          "label": "calling_code",
+          "children": [
+            {
+              "label": "+974"
+            }
+          ]
+        },
+        {
+          "label": "iso_3166_code",
+          "children": [
+            {
+              "label": "qa"
+            }
+          ]
+        },
+        {
+          "label": "internet_tld",
+          "children": [
+            {
+              "label": ".qa"
+            },
+            {
+              "label": "قطر."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

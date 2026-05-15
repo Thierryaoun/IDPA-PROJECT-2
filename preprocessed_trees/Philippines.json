@@ -1,0 +1,409 @@
+{
+  "label": "country",
+  "children": [
+    {
+      "label": "name",
+      "children": [
+        {
+          "label": "philippines"
+        }
+      ]
+    },
+    {
+      "label": "infobox_title",
+      "children": [
+        {
+          "label": "republic of the philippines republika ng pilipinas"
+        }
+      ]
+    },
+    {
+      "label": "capital",
+      "children": [
+        {
+          "label": "manila metro manila /"
+        }
+      ]
+    },
+    {
+      "label": "largest_city",
+      "children": [
+        {
+          "label": "quezon city"
+        }
+      ]
+    },
+    {
+      "label": "official_languages",
+      "children": [
+        {
+          "label": "filipino"
+        },
+        {
+          "label": "english"
+        }
+      ]
+    },
+    {
+      "label": "recognized_national_languages",
+      "children": [
+        {
+          "label": "filipino"
+        }
+      ]
+    },
+    {
+      "label": "recognized_regional_languages",
+      "children": [
+        {
+          "label": "19 languages"
+        }
+      ]
+    },
+    {
+      "label": "national_sign_language",
+      "children": [
+        {
+          "label": "filipino sign language"
+        }
+      ]
+    },
+    {
+      "label": "other_recognized_languages",
+      "children": [
+        {
+          "label": "spanish and arabic"
+        }
+      ]
+    },
+    {
+      "label": "ethnic_groups_2020",
+      "children": [
+        {
+          "label": "26.0% tagalog"
+        },
+        {
+          "label": "14.3% bisaya"
+        },
+        {
+          "label": "8.0% ilocano"
+        },
+        {
+          "label": "8.0% cebuano"
+        },
+        {
+          "label": "7.9% ilonggo"
+        },
+        {
+          "label": "6.5% bicolano"
+        },
+        {
+          "label": "20.3% other"
+        }
+      ]
+    },
+    {
+      "label": "religion_2020",
+      "children": [
+        {
+          "label": "85.3% christianity"
+        },
+        {
+          "label": "78.8% catholicism"
+        },
+        {
+          "label": "6.5% other christian"
+        },
+        {
+          "label": "6.4% islam"
+        },
+        {
+          "label": "8.2% other"
+        }
+      ]
+    },
+    {
+      "label": "demonyms",
+      "children": [
+        {
+          "label": "filipino"
+        },
+        {
+          "label": "filipina"
+        },
+        {
+          "label": "pinoy"
+        },
+        {
+          "label": "pinay"
+        },
+        {
+          "label": "philippine"
+        }
+      ]
+    },
+    {
+      "label": "government",
+      "children": [
+        {
+          "label": "unitary presidential republic"
+        }
+      ]
+    },
+    {
+      "label": "president",
+      "children": [
+        {
+          "label": "bongbong marcos"
+        }
+      ]
+    },
+    {
+      "label": "vice_president",
+      "children": [
+        {
+          "label": "sara duterte"
+        }
+      ]
+    },
+    {
+      "label": "senate_president",
+      "children": [
+        {
+          "label": "tito sotto"
+        }
+      ]
+    },
+    {
+      "label": "house_speaker",
+      "children": [
+        {
+          "label": "bojie dy"
+        }
+      ]
+    },
+    {
+      "label": "chief_justice",
+      "children": [
+        {
+          "label": "alexander gesmundo"
+        }
+      ]
+    },
+    {
+      "label": "legislature",
+      "children": [
+        {
+          "label": "congress"
+        }
+      ]
+    },
+    {
+      "label": "upper_house",
+      "children": [
+        {
+          "label": "senate"
+        }
+      ]
+    },
+    {
+      "label": "lower_house",
+      "children": [
+        {
+          "label": "house of representatives"
+        }
+      ]
+    },
+    {
+      "label": "independence_from_spain_and_the_united_states",
+      "children": [
+        {
+          "label": "declaration",
+          "children": [
+            {
+              "label": "june 12, 1898"
+            }
+          ]
+        },
+        {
+          "label": "cession",
+          "children": [
+            {
+              "label": "april 11, 1899"
+            }
+          ]
+        },
+        {
+          "label": "self_government",
+          "children": [
+            {
+              "label": "november 15, 1935"
+            }
+          ]
+        },
+        {
+          "label": "recognized",
+          "children": [
+            {
+              "label": "july 4, 1946"
+            }
+          ]
+        },
+        {
+          "label": "constitution",
+          "children": [
+            {
+              "label": "february 2, 1987"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "area",
+      "children": [
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "300,000 km"
+            }
+          ]
+        },
+        {
+          "label": "water",
+          "children": [
+            {
+              "label": "0.61"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "population",
+      "children": [
+        {
+          "label": "2024_census",
+          "children": [
+            {
+              "label": "112,729,484"
+            }
+          ]
+        },
+        {
+          "label": "density",
+          "children": [
+            {
+              "label": "363.45/km"
+            }
+          ]
+        },
+        {
+          "label": "gdp_ppp",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$1.488 trillion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$12,930"
+            }
+          ]
+        },
+        {
+          "label": "gdp_nominal",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$497.05 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$4,350"
+            }
+          ]
+        },
+        {
+          "label": "gini_2023",
+          "children": [
+            {
+              "label": "39.3 medium inequality"
+            }
+          ]
+        },
+        {
+          "label": "hdi_2023",
+          "children": [
+            {
+              "label": "0.720 high"
+            }
+          ]
+        },
+        {
+          "label": "currency",
+          "children": [
+            {
+              "label": "philippine peso"
+            }
+          ]
+        },
+        {
+          "label": "time_zone",
+          "children": [
+            {
+              "label": "utc +8"
+            }
+          ]
+        },
+        {
+          "label": "calling_code",
+          "children": [
+            {
+              "label": "+63"
+            }
+          ]
+        },
+        {
+          "label": "iso_3166_code",
+          "children": [
+            {
+              "label": "ph"
+            }
+          ]
+        },
+        {
+          "label": "internet_tld",
+          "children": [
+            {
+              "label": ".ph"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

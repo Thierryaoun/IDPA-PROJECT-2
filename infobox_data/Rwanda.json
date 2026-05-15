@@ -1,0 +1,423 @@
+{
+  "country": "Rwanda",
+  "infobox_title": "Republic of Rwanda Repubulika y'u Rwanda ( Kinyarwanda ) République du Rwanda ( French ) Jamhuri ya Rwanda ( Swahili )",
+  "data": [
+    {
+      "label": "Capital and largest city",
+      "value": "Kigali 1°56′38″S 30°3′34″E ﻿ / ﻿ 1.94389°S 30.05944°E",
+      "links": [
+        {
+          "text": "Kigali",
+          "href": "https://en.wikipedia.org/wiki/Kigali"
+        },
+        {
+          "text": "1°56′38″S30°3′34″E﻿ / ﻿1.94389°S 30.05944°E",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Rwanda&params=1_56_38_S_30_3_34_E_type:city_region:RW-01"
+        }
+      ]
+    },
+    {
+      "label": "Official languages",
+      "value": "Kinyarwanda English French Swahili",
+      "links": [
+        {
+          "text": "Kinyarwanda",
+          "href": "https://en.wikipedia.org/wiki/Kinyarwanda"
+        },
+        {
+          "text": "English",
+          "href": "https://en.wikipedia.org/wiki/English_language"
+        },
+        {
+          "text": "French",
+          "href": "https://en.wikipedia.org/wiki/French_language"
+        },
+        {
+          "text": "Swahili",
+          "href": "https://en.wikipedia.org/wiki/Swahili_language"
+        }
+      ],
+      "sub_items": [
+        "Kinyarwanda",
+        "English",
+        "French",
+        "Swahili"
+      ]
+    },
+    {
+      "label": "National language",
+      "value": "Kinyarwanda",
+      "links": [
+        {
+          "text": "Kinyarwanda",
+          "href": "https://en.wikipedia.org/wiki/Kinyarwanda"
+        }
+      ]
+    },
+    {
+      "label": "Working language",
+      "value": "English",
+      "links": [
+        {
+          "text": "English",
+          "href": "https://en.wikipedia.org/wiki/English_Language"
+        }
+      ]
+    },
+    {
+      "label": "Ethnic groups (1994)",
+      "value": "100% Banyarwanda 85% Hutu 14% Tutsi 1% Twa",
+      "links": [
+        {
+          "text": "Banyarwanda",
+          "href": "https://en.wikipedia.org/wiki/Banyarwanda"
+        },
+        {
+          "text": "Hutu",
+          "href": "https://en.wikipedia.org/wiki/Hutu"
+        },
+        {
+          "text": "Tutsi",
+          "href": "https://en.wikipedia.org/wiki/Tutsi"
+        },
+        {
+          "text": "Twa",
+          "href": "https://en.wikipedia.org/wiki/Great_Lakes_Twa"
+        }
+      ],
+      "sub_items": [
+        "100% Banyarwanda 85% Hutu 14% Tutsi 1% Twa",
+        "85% Hutu",
+        "14% Tutsi",
+        "1% Twa"
+      ]
+    },
+    {
+      "label": "Religion",
+      "value": "93.8% Christianity 3.0% no religion 2.2% Islam 1.0% other",
+      "links": [
+        {
+          "text": "Christianity",
+          "href": "https://en.wikipedia.org/wiki/Christianity"
+        },
+        {
+          "text": "no religion",
+          "href": "https://en.wikipedia.org/wiki/Irreligion"
+        },
+        {
+          "text": "Islam",
+          "href": "https://en.wikipedia.org/wiki/Islam_in_Rwanda"
+        }
+      ],
+      "sub_items": [
+        "93.8% Christianity",
+        "3.0% no religion",
+        "2.2% Islam",
+        "1.0% other"
+      ]
+    },
+    {
+      "label": "Demonyms",
+      "value": "Rwandan Rwandese",
+      "sub_items": [
+        "Rwandan",
+        "Rwandese"
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Unitary semi-presidential republic under an authoritarian dictatorship",
+      "links": [
+        {
+          "text": "semi-presidential republic",
+          "href": "https://en.wikipedia.org/wiki/Semi-presidential_republic"
+        },
+        {
+          "text": "authoritarian",
+          "href": "https://en.wikipedia.org/wiki/Authoritarianism"
+        },
+        {
+          "text": "dictatorship",
+          "href": "https://en.wikipedia.org/wiki/Dictatorship"
+        }
+      ]
+    },
+    {
+      "label": "• President",
+      "value": "Paul Kagame",
+      "links": [
+        {
+          "text": "Paul Kagame",
+          "href": "https://en.wikipedia.org/wiki/Paul_Kagame"
+        }
+      ]
+    },
+    {
+      "label": "• Prime Minister",
+      "value": "Justin Nsengiyumva",
+      "links": [
+        {
+          "text": "Justin Nsengiyumva",
+          "href": "https://en.wikipedia.org/wiki/Justin_Nsengiyumva"
+        }
+      ]
+    },
+    {
+      "label": "• Speaker of the Chamber of Deputies",
+      "value": "Gertrude Kazarwa",
+      "links": [
+        {
+          "text": "Gertrude Kazarwa",
+          "href": "https://en.wikipedia.org/wiki/Gertrude_Kazarwa"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "Parliament",
+      "links": [
+        {
+          "text": "Parliament",
+          "href": "https://en.wikipedia.org/wiki/Parliament_of_Rwanda"
+        }
+      ]
+    },
+    {
+      "label": "• Upper house",
+      "value": "Senate",
+      "links": [
+        {
+          "text": "Senate",
+          "href": "https://en.wikipedia.org/wiki/Senate_(Rwanda)"
+        }
+      ]
+    },
+    {
+      "label": "• Lower house",
+      "value": "Chamber of Deputies",
+      "links": [
+        {
+          "text": "Chamber of Deputies",
+          "href": "https://en.wikipedia.org/wiki/Chamber_of_Deputies_(Rwanda)"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Formation",
+      "rows": [
+        {
+          "label": "• Kingdom of Rwanda",
+          "value": "15th century"
+        },
+        {
+          "label": "• Part of German East Africa",
+          "value": "1897–1916"
+        },
+        {
+          "label": "• Part of Ruanda-Urundi",
+          "value": "1916–1962"
+        },
+        {
+          "label": "• Rwandan Revolution",
+          "value": "1959–1961"
+        },
+        {
+          "label": "• Republic declared",
+          "value": "28 January 1961"
+        },
+        {
+          "label": "• Independence from Belgium",
+          "value": "1 July 1962"
+        },
+        {
+          "label": "• Admitted to the UN",
+          "value": "18 September 1962"
+        },
+        {
+          "label": "• Current constitution",
+          "value": "26 May 2003"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "26,338 km (10,169 sq mi) ( 144th )",
+          "links": [
+            {
+              "text": "144th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "6.3"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2025 estimate",
+          "value": "14,104,969 ( 76th )",
+          "links": [
+            {
+              "text": "76th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• 2022 census",
+          "value": "13,206,731"
+        },
+        {
+          "label": "• Density",
+          "value": "578/km (1,497.0/sq mi) ( 21st )",
+          "links": [
+            {
+              "text": "21st",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$58.120 billion ( 129th )",
+          "links": [
+            {
+              "text": "129th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$4,100 ( 159th )",
+          "links": [
+            {
+              "text": "159th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$14.789 billion ( 144th )",
+          "links": [
+            {
+              "text": "144th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$1,040 ( 170th )",
+          "links": [
+            {
+              "text": "170th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "Gini (2023)",
+          "value": "39.4 medium inequality"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.578 medium ( 159th )",
+          "links": [
+            {
+              "text": "159th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "Rwandan franc ( RWF )",
+          "links": [
+            {
+              "text": "Rwandan franc",
+              "href": "https://en.wikipedia.org/wiki/Rwandan_franc"
+            },
+            {
+              "text": "RWF",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC +2 ( CAT )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "CAT",
+              "href": "https://en.wikipedia.org/wiki/Central_Africa_Time"
+            }
+          ]
+        },
+        {
+          "label": "Date format",
+          "value": "dd/mm/yyyy ( AD )",
+          "links": [
+            {
+              "text": "AD",
+              "href": "https://en.wikipedia.org/wiki/Anno_Domini"
+            }
+          ]
+        },
+        {
+          "label": "Calling code",
+          "value": "+250",
+          "links": [
+            {
+              "text": "+250",
+              "href": "https://en.wikipedia.org/wiki/%2B250"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "RW",
+          "links": [
+            {
+              "text": "RW",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:RW"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".rw",
+          "links": [
+            {
+              "text": ".rw",
+              "href": "https://en.wikipedia.org/wiki/.rw"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

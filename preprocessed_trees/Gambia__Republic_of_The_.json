@@ -1,0 +1,370 @@
+{
+  "label": "country",
+  "children": [
+    {
+      "label": "name",
+      "children": [
+        {
+          "label": "gambia"
+        }
+      ]
+    },
+    {
+      "label": "infobox_title",
+      "children": [
+        {
+          "label": "republic of the gambia"
+        }
+      ]
+    },
+    {
+      "label": "capital",
+      "children": [
+        {
+          "label": "banjul / 13."
+        }
+      ]
+    },
+    {
+      "label": "largest_metropolitan_area",
+      "children": [
+        {
+          "label": "serrekunda"
+        }
+      ]
+    },
+    {
+      "label": "official_languages",
+      "children": [
+        {
+          "label": "english"
+        }
+      ]
+    },
+    {
+      "label": "national_languages",
+      "children": [
+        {
+          "label": "mandinka"
+        },
+        {
+          "label": "pulaar"
+        },
+        {
+          "label": "wolof"
+        },
+        {
+          "label": "serer"
+        },
+        {
+          "label": "jola"
+        },
+        {
+          "label": "english"
+        },
+        {
+          "label": "balanta"
+        },
+        {
+          "label": "arabic"
+        },
+        {
+          "label": "jola-fonyi"
+        },
+        {
+          "label": "mandjak"
+        },
+        {
+          "label": "mankanya"
+        },
+        {
+          "label": "noon"
+        },
+        {
+          "label": "dyula"
+        },
+        {
+          "label": "soninke"
+        },
+        {
+          "label": "fula"
+        },
+        {
+          "label": "karon"
+        },
+        {
+          "label": "kassonke"
+        },
+        {
+          "label": "cangin"
+        },
+        {
+          "label": "gambian sign language"
+        }
+      ]
+    },
+    {
+      "label": "ethnic_groups_2024_population_and_housing_census",
+      "children": [
+        {
+          "label": "34.4% mandinka"
+        },
+        {
+          "label": "25.0% fula"
+        },
+        {
+          "label": "15.4% wolof"
+        },
+        {
+          "label": "9.5% jola"
+        },
+        {
+          "label": "8.2% soninke"
+        },
+        {
+          "label": "2.9% serer"
+        },
+        {
+          "label": "4.6% other"
+        }
+      ]
+    },
+    {
+      "label": "religion_2024",
+      "children": [
+        {
+          "label": "95.7% islam"
+        },
+        {
+          "label": "4.2% christianity"
+        },
+        {
+          "label": "0.1% others"
+        }
+      ]
+    },
+    {
+      "label": "demonym",
+      "children": [
+        {
+          "label": "gambian"
+        }
+      ]
+    },
+    {
+      "label": "government",
+      "children": [
+        {
+          "label": "unitary presidential republic"
+        }
+      ]
+    },
+    {
+      "label": "president",
+      "children": [
+        {
+          "label": "adama barrow"
+        }
+      ]
+    },
+    {
+      "label": "vice_president",
+      "children": [
+        {
+          "label": "muhammad b. s. jallow"
+        }
+      ]
+    },
+    {
+      "label": "speaker_of_the_national_assembly",
+      "children": [
+        {
+          "label": "fabakary tombong jatta"
+        }
+      ]
+    },
+    {
+      "label": "chief_justice",
+      "children": [
+        {
+          "label": "hassan bubacar jallow"
+        }
+      ]
+    },
+    {
+      "label": "legislature",
+      "children": [
+        {
+          "label": "national assembly"
+        }
+      ]
+    },
+    {
+      "label": "independence",
+      "children": [
+        {
+          "label": "from_the_united_kingdom",
+          "children": [
+            {
+              "label": "18 february 1965"
+            }
+          ]
+        },
+        {
+          "label": "dissolution_of_the_senegambia_confederation",
+          "children": [
+            {
+              "label": "30 september 1989"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "area",
+      "children": [
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "11,300 km"
+            }
+          ]
+        },
+        {
+          "label": "water",
+          "children": [
+            {
+              "label": "11.5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "population",
+      "children": [
+        {
+          "label": "2024_census",
+          "children": [
+            {
+              "label": "2,422,712"
+            }
+          ]
+        },
+        {
+          "label": "density",
+          "children": [
+            {
+              "label": "227/km"
+            }
+          ]
+        },
+        {
+          "label": "gdp_ppp",
+          "children": [
+            {
+              "label": "2026 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$11.050 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$3,820"
+            }
+          ]
+        },
+        {
+          "label": "gdp_nominal",
+          "children": [
+            {
+              "label": "2026 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$2.670 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$924"
+            }
+          ]
+        },
+        {
+          "label": "gini_2015",
+          "children": [
+            {
+              "label": "35.9 medium inequality"
+            }
+          ]
+        },
+        {
+          "label": "hdi_2023",
+          "children": [
+            {
+              "label": "0.524 low"
+            }
+          ]
+        },
+        {
+          "label": "currency",
+          "children": [
+            {
+              "label": "gambian dalasi"
+            }
+          ]
+        },
+        {
+          "label": "time_zone",
+          "children": [
+            {
+              "label": "utc ±00:00"
+            }
+          ]
+        },
+        {
+          "label": "calling_code",
+          "children": [
+            {
+              "label": "+220"
+            }
+          ]
+        },
+        {
+          "label": "iso_3166_code",
+          "children": [
+            {
+              "label": "gm"
+            }
+          ]
+        },
+        {
+          "label": "internet_tld",
+          "children": [
+            {
+              "label": ".gm"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

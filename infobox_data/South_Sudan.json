@@ -1,0 +1,392 @@
+{
+  "country": "South Sudan",
+  "infobox_title": "Republic of South Sudan",
+  "data": [
+    {
+      "label": "Capital and largest city",
+      "value": "Juba 04°51′N 31°34′E ﻿ / ﻿ 4.850°N 31.567°E",
+      "links": [
+        {
+          "text": "Juba",
+          "href": "https://en.wikipedia.org/wiki/Juba"
+        },
+        {
+          "text": "04°51′N31°34′E﻿ / ﻿4.850°N 31.567°E",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=South_Sudan&params=04_51_N_31_34_E_type:city"
+        }
+      ]
+    },
+    {
+      "label": "Official languages",
+      "value": "English",
+      "links": [
+        {
+          "text": "English",
+          "href": "https://en.wikipedia.org/wiki/English_language"
+        }
+      ]
+    },
+    {
+      "label": "Recognised national languages",
+      "value": "Dinka Nuer Bari Murle Luo (Anyuak, Acholi, Shilluk, Pari, Jur-Luo, others) Ma'di Otuho Zande and around 60 other languages",
+      "links": [
+        {
+          "text": "Dinka",
+          "href": "https://en.wikipedia.org/wiki/Dinka_language"
+        },
+        {
+          "text": "Nuer",
+          "href": "https://en.wikipedia.org/wiki/Nuer_language"
+        },
+        {
+          "text": "Bari",
+          "href": "https://en.wikipedia.org/wiki/Bari_language"
+        },
+        {
+          "text": "Murle",
+          "href": "https://en.wikipedia.org/wiki/Murle_language"
+        },
+        {
+          "text": "Luo (Anyuak, Acholi, Shilluk, Pari, Jur-Luo, others)",
+          "href": "https://en.wikipedia.org/wiki/Luo_languages"
+        },
+        {
+          "text": "Ma'di",
+          "href": "https://en.wikipedia.org/wiki/Ma%27di_language"
+        },
+        {
+          "text": "Otuho",
+          "href": "https://en.wikipedia.org/wiki/Otuho_language"
+        },
+        {
+          "text": "Zande",
+          "href": "https://en.wikipedia.org/wiki/Zande_language"
+        }
+      ],
+      "sub_items": [
+        "Dinka",
+        "Nuer",
+        "Bari",
+        "Murle",
+        "Luo (Anyuak, Acholi, Shilluk, Pari, Jur-Luo, others)",
+        "Ma'di",
+        "Otuho",
+        "Zande"
+      ]
+    },
+    {
+      "label": "Spoken languages",
+      "value": "Dinka Bari Juba Arabic Nuer Zande Jur (Luo) Murle Shilluk various others",
+      "links": [
+        {
+          "text": "Dinka",
+          "href": "https://en.wikipedia.org/wiki/Dinka_language"
+        },
+        {
+          "text": "Bari",
+          "href": "https://en.wikipedia.org/wiki/Bari_language"
+        },
+        {
+          "text": "Juba Arabic",
+          "href": "https://en.wikipedia.org/wiki/Juba_Arabic"
+        },
+        {
+          "text": "Nuer",
+          "href": "https://en.wikipedia.org/wiki/Nuer_language"
+        },
+        {
+          "text": "Zande",
+          "href": "https://en.wikipedia.org/wiki/Zande_language"
+        },
+        {
+          "text": "Jur (Luo)",
+          "href": "https://en.wikipedia.org/wiki/Jur_language"
+        },
+        {
+          "text": "Murle",
+          "href": "https://en.wikipedia.org/wiki/Murle_language"
+        },
+        {
+          "text": "Shilluk",
+          "href": "https://en.wikipedia.org/wiki/Shilluk_language"
+        },
+        {
+          "text": "various others",
+          "href": "https://en.wikipedia.org/wiki/Languages_of_South_Sudan"
+        }
+      ],
+      "sub_items": [
+        "Dinka",
+        "Bari",
+        "Juba Arabic",
+        "Nuer",
+        "Zande",
+        "Jur (Luo)",
+        "Murle",
+        "Shilluk",
+        "various others"
+      ]
+    },
+    {
+      "label": "Religion (2020)",
+      "value": "60.5% Christianity 32.9% traditional faiths 6.2% Islam 0.4% others / none",
+      "links": [
+        {
+          "text": "Christianity",
+          "href": "https://en.wikipedia.org/wiki/Christianity"
+        },
+        {
+          "text": "traditional faiths",
+          "href": "https://en.wikipedia.org/wiki/Traditional_African_religions"
+        },
+        {
+          "text": "Islam",
+          "href": "https://en.wikipedia.org/wiki/Islam_in_South_Sudan"
+        },
+        {
+          "text": "others",
+          "href": "https://en.wikipedia.org/wiki/Religion_in_South_Sudan"
+        },
+        {
+          "text": "none",
+          "href": "https://en.wikipedia.org/wiki/Irreligion"
+        }
+      ],
+      "sub_items": [
+        "60.5% Christianity",
+        "32.9% traditional faiths",
+        "6.2% Islam",
+        "0.4% others / none"
+      ]
+    },
+    {
+      "label": "Demonym",
+      "value": "South Sudanese",
+      "links": [
+        {
+          "text": "South Sudanese",
+          "href": "https://en.wikipedia.org/wiki/Demographics_of_South_Sudan"
+        }
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Federal presidential republic",
+      "links": [
+        {
+          "text": "presidential republic",
+          "href": "https://en.wikipedia.org/wiki/Presidential_republic"
+        }
+      ]
+    },
+    {
+      "label": "• President",
+      "value": "Salva Kiir Mayardit",
+      "links": [
+        {
+          "text": "Salva Kiir Mayardit",
+          "href": "https://en.wikipedia.org/wiki/Salva_Kiir_Mayardit"
+        }
+      ]
+    },
+    {
+      "label": "• First Vice-President",
+      "value": "Riek Machar",
+      "links": [
+        {
+          "text": "Riek Machar",
+          "href": "https://en.wikipedia.org/wiki/Riek_Machar"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "Transitional National Legislature",
+      "links": [
+        {
+          "text": "Transitional National Legislature",
+          "href": "https://en.wikipedia.org/wiki/National_Legislature_(South_Sudan)"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Independence from Sudan",
+      "rows": [
+        {
+          "label": "• 1st autonomous region",
+          "value": "28 February 1972"
+        },
+        {
+          "label": "• 2nd autonomous region",
+          "value": "9 July 2005"
+        },
+        {
+          "label": "• Declared and recognised",
+          "value": "9 July 2011"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "644,329 km (248,777 sq mi) ( 41st )",
+          "links": [
+            {
+              "text": "41st",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2024 estimate",
+          "value": "12,703,714 ( 80th )",
+          "links": [
+            {
+              "text": "80th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• Density",
+          "value": "19/km (49.2/sq mi) ( 211th )",
+          "links": [
+            {
+              "text": "211th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$15.160 billion ( 157th )",
+          "links": [
+            {
+              "text": "157th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$953 ( 191st )",
+          "links": [
+            {
+              "text": "191st",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$4.980 billion ( 164th )",
+          "links": [
+            {
+              "text": "164th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$313 ( 194th )",
+          "links": [
+            {
+              "text": "194th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "Gini (2016)",
+          "value": "44.1 medium inequality"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.388 low ( 193rd )",
+          "links": [
+            {
+              "text": "193rd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "South Sudanese pound ( SSP )",
+          "links": [
+            {
+              "text": "South Sudanese pound",
+              "href": "https://en.wikipedia.org/wiki/South_Sudanese_pound"
+            },
+            {
+              "text": "SSP",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC +2 ( CAT )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "CAT",
+              "href": "https://en.wikipedia.org/wiki/Central_Africa_Time"
+            }
+          ]
+        },
+        {
+          "label": "Calling code",
+          "value": "+211",
+          "links": [
+            {
+              "text": "+211",
+              "href": "https://en.wikipedia.org/wiki/Telephone_numbers_in_South_Sudan"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "SS",
+          "links": [
+            {
+              "text": "SS",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:SS"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".ss",
+          "links": [
+            {
+              "text": ".ss",
+              "href": "https://en.wikipedia.org/wiki/.ss"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

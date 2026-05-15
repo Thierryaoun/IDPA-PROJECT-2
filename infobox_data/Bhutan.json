@@ -1,0 +1,323 @@
+{
+  "country": "Bhutan",
+  "infobox_title": "Kingdom of Bhutan འབྲུག་རྒྱལ་ཁབ། ( Dzongkha ) Druk gyal khab",
+  "data": [
+    {
+      "label": "Capital and largest city",
+      "value": "Thimphu 27°28.0′N 89°38.5′E ﻿ / ﻿ 27.4667°N 89.6417°E",
+      "links": [
+        {
+          "text": "Thimphu",
+          "href": "https://en.wikipedia.org/wiki/Thimphu"
+        },
+        {
+          "text": "27°28.0′N89°38.5′E﻿ / ﻿27.4667°N 89.6417°E",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Bhutan&params=27_28.0_N_89_38.5_E_type:city"
+        }
+      ]
+    },
+    {
+      "label": "Official languages",
+      "value": "Dzongkha",
+      "links": [
+        {
+          "text": "Dzongkha",
+          "href": "https://en.wikipedia.org/wiki/Dzongkha"
+        }
+      ]
+    },
+    {
+      "label": "Religion (2020)",
+      "value": "74.7% Buddhism 22.6% Hinduism 1.9% Bon 0.8% others",
+      "links": [
+        {
+          "text": "Buddhism",
+          "href": "https://en.wikipedia.org/wiki/Buddhism_in_Bhutan"
+        },
+        {
+          "text": "Hinduism",
+          "href": "https://en.wikipedia.org/wiki/Hinduism_in_Bhutan"
+        },
+        {
+          "text": "Bon",
+          "href": "https://en.wikipedia.org/wiki/Bon_in_Bhutan"
+        },
+        {
+          "text": "others",
+          "href": "https://en.wikipedia.org/wiki/Religion_in_Bhutan"
+        }
+      ],
+      "sub_items": [
+        "74.7% Buddhism",
+        "22.6% Hinduism",
+        "1.9% Bon",
+        "0.8% others"
+      ]
+    },
+    {
+      "label": "Demonym",
+      "value": "Bhutanese",
+      "links": [
+        {
+          "text": "Bhutanese",
+          "href": "https://en.wikipedia.org/wiki/Bhutanese_people"
+        }
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Unitary parliamentary semi-constitutional monarchy",
+      "links": [
+        {
+          "text": "semi-constitutional monarchy",
+          "href": "https://en.wikipedia.org/wiki/Semi-constitutional_monarchy"
+        }
+      ]
+    },
+    {
+      "label": "• Dragon King",
+      "value": "Jigme Khesar Namgyel Wangchuck",
+      "links": [
+        {
+          "text": "Jigme Khesar Namgyel Wangchuck",
+          "href": "https://en.wikipedia.org/wiki/Jigme_Khesar_Namgyel_Wangchuck"
+        }
+      ]
+    },
+    {
+      "label": "• Prime Minister",
+      "value": "Tshering Tobgay",
+      "links": [
+        {
+          "text": "Tshering Tobgay",
+          "href": "https://en.wikipedia.org/wiki/Tshering_Tobgay"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "Parliament",
+      "links": [
+        {
+          "text": "Parliament",
+          "href": "https://en.wikipedia.org/wiki/Parliament_of_Bhutan"
+        }
+      ]
+    },
+    {
+      "label": "• Upper house",
+      "value": "National Council",
+      "links": [
+        {
+          "text": "National Council",
+          "href": "https://en.wikipedia.org/wiki/National_Council_(Bhutan)"
+        }
+      ]
+    },
+    {
+      "label": "• Lower house",
+      "value": "National Assembly",
+      "links": [
+        {
+          "text": "National Assembly",
+          "href": "https://en.wikipedia.org/wiki/National_Assembly_(Bhutan)"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Formation",
+      "rows": [
+        {
+          "label": "• Unification",
+          "value": "1616–1634"
+        },
+        {
+          "label": "• Druk Desi period",
+          "value": "1650–1905"
+        },
+        {
+          "label": "• Ascension of the Wangchuk dynasty",
+          "value": "17 December 1907"
+        },
+        {
+          "label": "• Bhutan–India treaty",
+          "value": "8 August 1949"
+        },
+        {
+          "label": "• Constitutional monarchy",
+          "value": "18 July 2008"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "38,394 km (14,824 sq mi) ( 133rd )",
+          "links": [
+            {
+              "text": "133rd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "1.1"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2021 estimate",
+          "value": "777,486 ( 159th )",
+          "links": [
+            {
+              "text": "159th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• 2022 census",
+          "value": "727,145"
+        },
+        {
+          "label": "• Density",
+          "value": "20.5/km (53.1/sq mi) ( 205th )",
+          "links": [
+            {
+              "text": "205th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2026 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$15.415 billion ( 159th )",
+          "links": [
+            {
+              "text": "159th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$19,255 ( 101nd )",
+          "links": [
+            {
+              "text": "101nd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2026 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$3.771 billion ( 161th )",
+          "links": [
+            {
+              "text": "161th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$4,710 ( 122th )",
+          "links": [
+            {
+              "text": "122th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "Gini (2022)",
+          "value": "28.5 low inequality"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.698 medium ( 125th )",
+          "links": [
+            {
+              "text": "125th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "Ngultrum (BTN) Indian rupee (₹)",
+          "links": [
+            {
+              "text": "Ngultrum",
+              "href": "https://en.wikipedia.org/wiki/Bhutanese_ngultrum"
+            },
+            {
+              "text": "Indian rupee",
+              "href": "https://en.wikipedia.org/wiki/Indian_rupee"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC +06 ( BTT )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "BTT",
+              "href": "https://en.wikipedia.org/wiki/Bhutan_Time"
+            }
+          ]
+        },
+        {
+          "label": "Calling code",
+          "value": "+975",
+          "links": [
+            {
+              "text": "+975",
+              "href": "https://en.wikipedia.org/wiki/Telephone_numbers_in_Bhutan"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "BT",
+          "links": [
+            {
+              "text": "BT",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:BT"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".bt",
+          "links": [
+            {
+              "text": ".bt",
+              "href": "https://en.wikipedia.org/wiki/.bt"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

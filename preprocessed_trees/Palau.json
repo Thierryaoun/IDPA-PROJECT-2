@@ -1,0 +1,341 @@
+{
+  "label": "country",
+  "children": [
+    {
+      "label": "name",
+      "children": [
+        {
+          "label": "palau"
+        }
+      ]
+    },
+    {
+      "label": "infobox_title",
+      "children": [
+        {
+          "label": "republic of palau beluu er a belau"
+        }
+      ]
+    },
+    {
+      "label": "capital",
+      "children": [
+        {
+          "label": "ngerulmud / 7."
+        }
+      ]
+    },
+    {
+      "label": "largest_city",
+      "children": [
+        {
+          "label": "koror / 7."
+        }
+      ]
+    },
+    {
+      "label": "official_languages",
+      "children": [
+        {
+          "label": "palauan"
+        },
+        {
+          "label": "english"
+        }
+      ]
+    },
+    {
+      "label": "recognized_regional_languages",
+      "children": [
+        {
+          "label": "sonsorolese"
+        },
+        {
+          "label": "tobian"
+        },
+        {
+          "label": "japanese"
+        }
+      ]
+    },
+    {
+      "label": "ethnic_groups_2020_census",
+      "children": [
+        {
+          "label": "65.2% palauan"
+        },
+        {
+          "label": "31.6% asian"
+        },
+        {
+          "label": "1.2% carolinian"
+        },
+        {
+          "label": "1.0% european"
+        },
+        {
+          "label": "0.9% other"
+        }
+      ]
+    },
+    {
+      "label": "religion_2020_census",
+      "children": [
+        {
+          "label": "78.7% christianity"
+        },
+        {
+          "label": "10.1% no religion"
+        },
+        {
+          "label": "5.1% modekngei"
+        },
+        {
+          "label": "4.9% islam"
+        },
+        {
+          "label": "1.2% other"
+        }
+      ]
+    },
+    {
+      "label": "demonym",
+      "children": [
+        {
+          "label": "palauan"
+        }
+      ]
+    },
+    {
+      "label": "government",
+      "children": [
+        {
+          "label": "unitary presidential republic under a non-partisan democracy"
+        }
+      ]
+    },
+    {
+      "label": "president",
+      "children": [
+        {
+          "label": "surangel whipps jr."
+        }
+      ]
+    },
+    {
+      "label": "vice_president",
+      "children": [
+        {
+          "label": "raynold oilouch"
+        }
+      ]
+    },
+    {
+      "label": "legislature",
+      "children": [
+        {
+          "label": "palau national congress"
+        }
+      ]
+    },
+    {
+      "label": "upper_house",
+      "children": [
+        {
+          "label": "senate"
+        }
+      ]
+    },
+    {
+      "label": "lower_house",
+      "children": [
+        {
+          "label": "house of delegates"
+        }
+      ]
+    },
+    {
+      "label": "independence_from_the_united_states",
+      "children": [
+        {
+          "label": "trusteeship",
+          "children": [
+            {
+              "label": "18 july 1947"
+            }
+          ]
+        },
+        {
+          "label": "establishment_of_the_republic_of_palau",
+          "children": [
+            {
+              "label": "1 january 1981"
+            }
+          ]
+        },
+        {
+          "label": "compact_of_free_association",
+          "children": [
+            {
+              "label": "1 october 1994"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "area",
+      "children": [
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "459 km"
+            }
+          ]
+        },
+        {
+          "label": "water",
+          "children": [
+            {
+              "label": "negligible"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "population",
+      "children": [
+        {
+          "label": "as_of_august_2025_estimate",
+          "children": [
+            {
+              "label": "17,663"
+            }
+          ]
+        },
+        {
+          "label": "2021_census",
+          "children": [
+            {
+              "label": "16,766"
+            }
+          ]
+        },
+        {
+          "label": "density",
+          "children": [
+            {
+              "label": "38.375/km"
+            }
+          ]
+        },
+        {
+          "label": "gdp_ppp",
+          "children": [
+            {
+              "label": "2024 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$308 million"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$18,209"
+            }
+          ]
+        },
+        {
+          "label": "gdp_nominal",
+          "children": [
+            {
+              "label": "2024 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$322 million"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$17,448"
+            }
+          ]
+        },
+        {
+          "label": "hdi_2023",
+          "children": [
+            {
+              "label": "0.786 high"
+            }
+          ]
+        },
+        {
+          "label": "currency",
+          "children": [
+            {
+              "label": "united states dollar"
+            }
+          ]
+        },
+        {
+          "label": "time_zone",
+          "children": [
+            {
+              "label": "utc +9"
+            }
+          ]
+        },
+        {
+          "label": "date_format",
+          "children": [
+            {
+              "label": "mm/dd/yyyy"
+            }
+          ]
+        },
+        {
+          "label": "calling_code",
+          "children": [
+            {
+              "label": "+680"
+            }
+          ]
+        },
+        {
+          "label": "iso_3166_code",
+          "children": [
+            {
+              "label": "pw"
+            }
+          ]
+        },
+        {
+          "label": "internet_tld",
+          "children": [
+            {
+              "label": ".pw"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

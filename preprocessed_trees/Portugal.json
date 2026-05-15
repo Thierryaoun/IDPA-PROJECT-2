@@ -1,0 +1,392 @@
+{
+  "label": "country",
+  "children": [
+    {
+      "label": "name",
+      "children": [
+        {
+          "label": "portugal"
+        }
+      ]
+    },
+    {
+      "label": "infobox_title",
+      "children": [
+        {
+          "label": "portuguese republic república portuguesa república pertuesa"
+        }
+      ]
+    },
+    {
+      "label": "capital_and_largest_city",
+      "children": [
+        {
+          "label": "lisbon / 38."
+        }
+      ]
+    },
+    {
+      "label": "official_languages",
+      "children": [
+        {
+          "label": "portuguese"
+        }
+      ]
+    },
+    {
+      "label": "recognised_national_languages",
+      "children": [
+        {
+          "label": "portuguese sign language"
+        }
+      ]
+    },
+    {
+      "label": "recognised_regional_languages",
+      "children": [
+        {
+          "label": "mirandese"
+        }
+      ]
+    },
+    {
+      "label": "ethnic_groups_2023",
+      "children": [
+        {
+          "label": "84.2% white"
+        },
+        {
+          "label": "2.2% black"
+        },
+        {
+          "label": "0.7% asian"
+        },
+        {
+          "label": "0.6% roma"
+        },
+        {
+          "label": "3.4% mixed origin"
+        }
+      ]
+    },
+    {
+      "label": "demonym",
+      "children": [
+        {
+          "label": "portuguese"
+        }
+      ]
+    },
+    {
+      "label": "government",
+      "children": [
+        {
+          "label": "unitary semi-presidential republic"
+        }
+      ]
+    },
+    {
+      "label": "president",
+      "children": [
+        {
+          "label": "antónio josé seguro"
+        }
+      ]
+    },
+    {
+      "label": "prime_minister",
+      "children": [
+        {
+          "label": "luís montenegro"
+        }
+      ]
+    },
+    {
+      "label": "speaker",
+      "children": [
+        {
+          "label": "josé pedro aguiar-branco"
+        }
+      ]
+    },
+    {
+      "label": "legislature",
+      "children": [
+        {
+          "label": "assembly of the republic"
+        }
+      ]
+    },
+    {
+      "label": "establishment",
+      "children": [
+        {
+          "label": "county",
+          "children": [
+            {
+              "label": "868"
+            }
+          ]
+        },
+        {
+          "label": "sovereignty",
+          "children": [
+            {
+              "label": "24 june 1128"
+            }
+          ]
+        },
+        {
+          "label": "battle_of_ourique",
+          "children": [
+            {
+              "label": "25 july 1139"
+            }
+          ]
+        },
+        {
+          "label": "conference_of_zamora",
+          "children": [
+            {
+              "label": "4–5 october 1143"
+            }
+          ]
+        },
+        {
+          "label": "manifestis_probatum",
+          "children": [
+            {
+              "label": "23 may 1179"
+            }
+          ]
+        },
+        {
+          "label": "restoration",
+          "children": [
+            {
+              "label": "1 december 1640"
+            }
+          ]
+        },
+        {
+          "label": "first_constitution",
+          "children": [
+            {
+              "label": "23 september 1822"
+            }
+          ]
+        },
+        {
+          "label": "republic",
+          "children": [
+            {
+              "label": "5 october 1910"
+            }
+          ]
+        },
+        {
+          "label": "democratisation",
+          "children": [
+            {
+              "label": "25 april 1974"
+            }
+          ]
+        },
+        {
+          "label": "current_constitution",
+          "children": [
+            {
+              "label": "25 april 1976"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "area",
+      "children": [
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "156,597 km"
+            }
+          ]
+        },
+        {
+          "label": "land",
+          "children": [
+            {
+              "label": "92,225 km"
+            }
+          ]
+        },
+        {
+          "label": "water",
+          "children": [
+            {
+              "label": "64,372 km"
+            }
+          ]
+        },
+        {
+          "label": "water",
+          "children": [
+            {
+              "label": "1.2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "population",
+      "children": [
+        {
+          "label": "2024_estimate",
+          "children": [
+            {
+              "label": "10,749,635"
+            }
+          ]
+        },
+        {
+          "label": "2021_census",
+          "children": [
+            {
+              "label": "10,343,066"
+            }
+          ]
+        },
+        {
+          "label": "density",
+          "children": [
+            {
+              "label": "116.6/km"
+            }
+          ]
+        },
+        {
+          "label": "gdp_ppp",
+          "children": [
+            {
+              "label": "2026 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$556.383 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$51,853"
+            }
+          ]
+        },
+        {
+          "label": "gdp_nominal",
+          "children": [
+            {
+              "label": "2026 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$364.527 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$33,972"
+            }
+          ]
+        },
+        {
+          "label": "gini_2024",
+          "children": [
+            {
+              "label": "31.9 medium inequality"
+            }
+          ]
+        },
+        {
+          "label": "hdi_2023",
+          "children": [
+            {
+              "label": "0.890 very high"
+            }
+          ]
+        },
+        {
+          "label": "currency",
+          "children": [
+            {
+              "label": "euro"
+            }
+          ]
+        },
+        {
+          "label": "time_zone",
+          "children": [
+            {
+              "label": "utc +0 and -1"
+            }
+          ]
+        },
+        {
+          "label": "summer_dst",
+          "children": [
+            {
+              "label": "utc +1 and +0"
+            }
+          ]
+        },
+        {
+          "label": "date_format",
+          "children": [
+            {
+              "label": "yyyy - mm - dd"
+            }
+          ]
+        },
+        {
+          "label": "calling_code",
+          "children": [
+            {
+              "label": "+351"
+            }
+          ]
+        },
+        {
+          "label": "iso_3166_code",
+          "children": [
+            {
+              "label": "pt"
+            }
+          ]
+        },
+        {
+          "label": "internet_tld",
+          "children": [
+            {
+              "label": ".pt"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

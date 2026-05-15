@@ -1,0 +1,430 @@
+{
+  "label": "country",
+  "children": [
+    {
+      "label": "name",
+      "children": [
+        {
+          "label": "albania"
+        }
+      ]
+    },
+    {
+      "label": "infobox_title",
+      "children": [
+        {
+          "label": "republic of albania republika e shqipërisë"
+        }
+      ]
+    },
+    {
+      "label": "capital_and_largest_city",
+      "children": [
+        {
+          "label": "tirana / 41. 19. country: /"
+        }
+      ]
+    },
+    {
+      "label": "official_languages",
+      "children": [
+        {
+          "label": "albanian"
+        }
+      ]
+    },
+    {
+      "label": "recognised_minority_languages",
+      "children": [
+        {
+          "label": "greek"
+        },
+        {
+          "label": "aromanian"
+        },
+        {
+          "label": "macedonian"
+        }
+      ]
+    },
+    {
+      "label": "ethnic_groups_2023",
+      "children": [
+        {
+          "label": "97.7% albanians"
+        },
+        {
+          "label": "1.0% greeks"
+        },
+        {
+          "label": "1.3% others"
+        }
+      ]
+    },
+    {
+      "label": "religion_2023",
+      "children": [
+        {
+          "label": "50.67% islam"
+        },
+        {
+          "label": "45.86% sunni"
+        },
+        {
+          "label": "4.81% bektashism"
+        },
+        {
+          "label": "16.02% christianity"
+        },
+        {
+          "label": "8.39% catholicism"
+        },
+        {
+          "label": "7.23% orthodoxy"
+        },
+        {
+          "label": "0.40% protestantism"
+        },
+        {
+          "label": "17.37% irreligion"
+        },
+        {
+          "label": "13.83% believers without religion"
+        },
+        {
+          "label": "3.55% atheism"
+        },
+        {
+          "label": "15.92% undeclared"
+        }
+      ]
+    },
+    {
+      "label": "demonym",
+      "children": [
+        {
+          "label": "albanian"
+        }
+      ]
+    },
+    {
+      "label": "government",
+      "children": [
+        {
+          "label": "unitary parliamentary republic"
+        }
+      ]
+    },
+    {
+      "label": "president",
+      "children": [
+        {
+          "label": "bajram begaj"
+        }
+      ]
+    },
+    {
+      "label": "prime_minister",
+      "children": [
+        {
+          "label": "edi rama"
+        }
+      ]
+    },
+    {
+      "label": "parliament_speaker",
+      "children": [
+        {
+          "label": "niko peleshi"
+        }
+      ]
+    },
+    {
+      "label": "legislature",
+      "children": [
+        {
+          "label": "kuvendi"
+        }
+      ]
+    },
+    {
+      "label": "establishment_history",
+      "children": [
+        {
+          "label": "principality_of_arbanon",
+          "children": [
+            {
+              "label": "1190"
+            }
+          ]
+        },
+        {
+          "label": "albanian_principalities",
+          "children": [
+            {
+              "label": "12th–15th centuries"
+            }
+          ]
+        },
+        {
+          "label": "kingdom_of_albania",
+          "children": [
+            {
+              "label": "february 1272"
+            }
+          ]
+        },
+        {
+          "label": "principality_of_albania",
+          "children": [
+            {
+              "label": "1359"
+            }
+          ]
+        },
+        {
+          "label": "league_of_lezhë",
+          "children": [
+            {
+              "label": "2 march 1444"
+            }
+          ]
+        },
+        {
+          "label": "pashalik_of_scutari_janina_berat",
+          "children": [
+            {
+              "label": "1757/1787"
+            }
+          ]
+        },
+        {
+          "label": "league_of_prizren",
+          "children": [
+            {
+              "label": "10 june 1878"
+            }
+          ]
+        },
+        {
+          "label": "independent_albania",
+          "children": [
+            {
+              "label": "28 november 1912"
+            }
+          ]
+        },
+        {
+          "label": "principality_of_albania",
+          "children": [
+            {
+              "label": "29 july 1913"
+            }
+          ]
+        },
+        {
+          "label": "1st_republic_of_albania",
+          "children": [
+            {
+              "label": "31 january 1925"
+            }
+          ]
+        },
+        {
+          "label": "kingdom_of_albania",
+          "children": [
+            {
+              "label": "1 september 1928"
+            }
+          ]
+        },
+        {
+          "label": "2nd_republic_of_albania",
+          "children": [
+            {
+              "label": "10 january 1946"
+            }
+          ]
+        },
+        {
+          "label": "3rd_republic_of_albania",
+          "children": [
+            {
+              "label": "28 december 1976"
+            }
+          ]
+        },
+        {
+          "label": "4th_republic_of_albania",
+          "children": [
+            {
+              "label": "29 april 1991"
+            }
+          ]
+        },
+        {
+          "label": "current_constitution",
+          "children": [
+            {
+              "label": "28 november 1998"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "area",
+      "children": [
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "28,748 km"
+            }
+          ]
+        },
+        {
+          "label": "water",
+          "children": [
+            {
+              "label": "4.7"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "population",
+      "children": [
+        {
+          "label": "2023_census",
+          "children": [
+            {
+              "label": "2,402,113"
+            }
+          ]
+        },
+        {
+          "label": "density",
+          "children": [
+            {
+              "label": "83.6 /km"
+            }
+          ]
+        },
+        {
+          "label": "gdp_ppp",
+          "children": [
+            {
+              "label": "2026 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$66.290 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$24,840"
+            }
+          ]
+        },
+        {
+          "label": "gdp_nominal",
+          "children": [
+            {
+              "label": "2026 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$32.410 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$12,150"
+            }
+          ]
+        },
+        {
+          "label": "gini_2021",
+          "children": [
+            {
+              "label": "29.4 low inequality"
+            }
+          ]
+        },
+        {
+          "label": "hdi_2023",
+          "children": [
+            {
+              "label": "0.810 very high"
+            }
+          ]
+        },
+        {
+          "label": "currency",
+          "children": [
+            {
+              "label": "lek"
+            }
+          ]
+        },
+        {
+          "label": "time_zone",
+          "children": [
+            {
+              "label": "utc +1"
+            }
+          ]
+        },
+        {
+          "label": "summer_dst",
+          "children": [
+            {
+              "label": "utc +2"
+            }
+          ]
+        },
+        {
+          "label": "calling_code",
+          "children": [
+            {
+              "label": "+355"
+            }
+          ]
+        },
+        {
+          "label": "iso_3166_code",
+          "children": [
+            {
+              "label": "al"
+            }
+          ]
+        },
+        {
+          "label": "internet_tld",
+          "children": [
+            {
+              "label": ".al"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

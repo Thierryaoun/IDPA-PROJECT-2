@@ -1,0 +1,391 @@
+{
+  "country": "Afghanistan",
+  "infobox_title": "Islamic Emirate of Afghanistan د افغانستان اسلامي امارت ( Pashto ) Də Afğānistān Islāmi Imārat امارت اسلامی افغانستان ( Dari ) Imārat-i Islāmī-yi Afğānistān",
+  "data": [
+    {
+      "label": "Capital and largest city",
+      "value": "Kabul 34°31′N 69°11′E ﻿ / ﻿ 34.517°N 69.183°E",
+      "links": [
+        {
+          "text": "Kabul",
+          "href": "https://en.wikipedia.org/wiki/Kabul"
+        },
+        {
+          "text": "34°31′N69°11′E﻿ / ﻿34.517°N 69.183°E",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Afghanistan&params=34_31_N_69_11_E_region:AF_source:geonames_type:city"
+        }
+      ]
+    },
+    {
+      "label": "Official languages",
+      "value": "Pashto Dari",
+      "links": [
+        {
+          "text": "Pashto",
+          "href": "https://en.wikipedia.org/wiki/Pashto"
+        },
+        {
+          "text": "Dari",
+          "href": "https://en.wikipedia.org/wiki/Dari"
+        }
+      ],
+      "sub_items": [
+        "Pashto",
+        "Dari"
+      ]
+    },
+    {
+      "label": "Ethnic groups (2010, unofficial estimates)",
+      "value": "42% Pashtun 27% Tajik 9% Hazara 9% Uzbek 4% Aimaq 3% Turkmen 2% Baloch 4% other",
+      "links": [
+        {
+          "text": "Pashtun",
+          "href": "https://en.wikipedia.org/wiki/Pashtun"
+        },
+        {
+          "text": "Tajik",
+          "href": "https://en.wikipedia.org/wiki/Tajiks"
+        },
+        {
+          "text": "Hazara",
+          "href": "https://en.wikipedia.org/wiki/Hazaras"
+        },
+        {
+          "text": "Uzbek",
+          "href": "https://en.wikipedia.org/wiki/Uzbeks"
+        },
+        {
+          "text": "Aimaq",
+          "href": "https://en.wikipedia.org/wiki/Aimaq_people"
+        },
+        {
+          "text": "Turkmen",
+          "href": "https://en.wikipedia.org/wiki/Turkmen_people"
+        },
+        {
+          "text": "Baloch",
+          "href": "https://en.wikipedia.org/wiki/Baloch_people"
+        },
+        {
+          "text": "other",
+          "href": "https://en.wikipedia.org/wiki/Ethnic_groups_in_Afghanistan"
+        }
+      ],
+      "sub_items": [
+        "42% Pashtun",
+        "27% Tajik",
+        "9% Hazara",
+        "9% Uzbek",
+        "4% Aimaq",
+        "3% Turkmen",
+        "2% Baloch",
+        "4% other"
+      ]
+    },
+    {
+      "label": "Religion (2020)",
+      "value": "99.9% Islam 89.1% Sunni ( official ) 10.8% Shia 0.1% other",
+      "links": [
+        {
+          "text": "Islam",
+          "href": "https://en.wikipedia.org/wiki/Islam_in_Afghanistan"
+        },
+        {
+          "text": "Sunni",
+          "href": "https://en.wikipedia.org/wiki/Sunni_Islam"
+        },
+        {
+          "text": "official",
+          "href": "https://en.wikipedia.org/wiki/State_religion"
+        },
+        {
+          "text": "Shia",
+          "href": "https://en.wikipedia.org/wiki/Shia_Islam_in_Afghanistan"
+        },
+        {
+          "text": "other",
+          "href": "https://en.wikipedia.org/wiki/Religion_in_Afghanistan"
+        }
+      ],
+      "sub_items": [
+        "99.9% Islam 89.1% Sunni ( official ) 10.8% Shia",
+        "89.1% Sunni ( official )",
+        "10.8% Shia",
+        "0.1% other"
+      ]
+    },
+    {
+      "label": "Demonym",
+      "value": "Afghan",
+      "links": [
+        {
+          "text": "Afghan",
+          "href": "https://en.wikipedia.org/wiki/Afghans"
+        }
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Unitary totalitarian theocratic Islamic emirate",
+      "links": [
+        {
+          "text": "Unitary",
+          "href": "https://en.wikipedia.org/wiki/Unitary_state"
+        },
+        {
+          "text": "theocratic",
+          "href": "https://en.wikipedia.org/wiki/Theocratic"
+        },
+        {
+          "text": "emirate",
+          "href": "https://en.wikipedia.org/wiki/Emirate"
+        }
+      ]
+    },
+    {
+      "label": "• Supreme Leader",
+      "value": "Hibatullah Akhundzada",
+      "links": [
+        {
+          "text": "Hibatullah Akhundzada",
+          "href": "https://en.wikipedia.org/wiki/Hibatullah_Akhundzada"
+        }
+      ]
+    },
+    {
+      "label": "• Prime Minister",
+      "value": "Hasan Akhund",
+      "links": [
+        {
+          "text": "Hasan Akhund",
+          "href": "https://en.wikipedia.org/wiki/Hasan_Akhund"
+        }
+      ]
+    },
+    {
+      "label": "• Chief Justice",
+      "value": "Abdul Hakim Haqqani",
+      "links": [
+        {
+          "text": "Abdul Hakim Haqqani",
+          "href": "https://en.wikipedia.org/wiki/Abdul_Hakim_Haqqani"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "None"
+    }
+  ],
+  "sections": [
+    {
+      "header": "Formation",
+      "rows": [
+        {
+          "label": "• Hotak Emirate",
+          "value": "21 April 1709"
+        },
+        {
+          "label": "• Durrani Empire",
+          "value": "June 1747"
+        },
+        {
+          "label": "• Barakzai Emirate",
+          "value": "1823"
+        },
+        {
+          "label": "• Unification",
+          "value": "27 May 1863",
+          "links": [
+            {
+              "text": "27 May 1863",
+              "href": "https://en.wikipedia.org/wiki/Herat_campaign_of_1862%E2%80%931863"
+            }
+          ]
+        },
+        {
+          "label": "• Independence",
+          "value": "19 August 1919",
+          "links": [
+            {
+              "text": "19 August 1919",
+              "href": "https://en.wikipedia.org/wiki/Afghan_Independence_Day"
+            }
+          ]
+        },
+        {
+          "label": "• Kingdom",
+          "value": "9 June 1926"
+        },
+        {
+          "label": "• Republic",
+          "value": "17 July 1973",
+          "links": [
+            {
+              "text": "17 July 1973",
+              "href": "https://en.wikipedia.org/wiki/1973_Afghan_coup_d%27%C3%A9tat"
+            }
+          ]
+        },
+        {
+          "label": "• Democratic Republic",
+          "value": "30 April 1978",
+          "links": [
+            {
+              "text": "30 April 1978",
+              "href": "https://en.wikipedia.org/wiki/Saur_Revolution"
+            }
+          ]
+        },
+        {
+          "label": "• Islamic State",
+          "value": "28 April 1992"
+        },
+        {
+          "label": "• Islamic Emirate",
+          "value": "27 September 1996"
+        },
+        {
+          "label": "• Islamic Republic",
+          "value": "26 January 2004"
+        },
+        {
+          "label": "• Restoration of Islamic Emirate",
+          "value": "15 August 2021"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "652,864 km (252,072 sq mi) ( 40th )",
+          "links": [
+            {
+              "text": "40th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "negligible"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• mid-2024/2025 estimate",
+          "value": "35–50 million ( 36th )",
+          "links": [
+            {
+              "text": "36th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• Density",
+          "value": "64/km (165.8/sq mi)"
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2023 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$91.668 billion"
+        },
+        {
+          "label": "• Per capita",
+          "value": "$2,174 ( 179th )",
+          "links": [
+            {
+              "text": "179th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2023 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$17.329 billion"
+        },
+        {
+          "label": "• Per capita",
+          "value": "$411 ( 190th )",
+          "links": [
+            {
+              "text": "190th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.496 low ( 181st )",
+          "links": [
+            {
+              "text": "181st",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "Afghani ( افغانى ) ( AFN )",
+          "links": [
+            {
+              "text": "Afghani",
+              "href": "https://en.wikipedia.org/wiki/Afghan_afghani"
+            },
+            {
+              "text": "AFN",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC +4:30 ( Afghanistan Time )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "Afghanistan Time",
+              "href": "https://en.wikipedia.org/wiki/Afghanistan_Time"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "AF",
+          "links": [
+            {
+              "text": "AF",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:AF"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".af",
+          "links": [
+            {
+              "text": ".af",
+              "href": "https://en.wikipedia.org/wiki/.af"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

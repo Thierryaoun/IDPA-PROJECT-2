@@ -1,0 +1,426 @@
+{
+  "country": "United Arab Emirates",
+  "infobox_title": "United Arab Emirates الإمارات العربية المتحدة ( Arabic ) al-Imārāt al-'Arabiyya al-Muttaḥida",
+  "data": [
+    {
+      "label": "Capital",
+      "value": "Abu Dhabi 24°28′N 54°22′E ﻿ / ﻿ 24.467°N 54.367°E",
+      "links": [
+        {
+          "text": "Abu Dhabi",
+          "href": "https://en.wikipedia.org/wiki/Abu_Dhabi"
+        },
+        {
+          "text": "24°28′N54°22′E﻿ / ﻿24.467°N 54.367°E",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=United_Arab_Emirates&params=24_28_N_54_22_E_type:city"
+        }
+      ]
+    },
+    {
+      "label": "Largest city",
+      "value": "Dubai 25°15′N 55°18′E ﻿ / ﻿ 25.250°N 55.300°E",
+      "links": [
+        {
+          "text": "Dubai",
+          "href": "https://en.wikipedia.org/wiki/Dubai"
+        },
+        {
+          "text": "25°15′N55°18′E﻿ / ﻿25.250°N 55.300°E",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=United_Arab_Emirates&params=25_15_N_55_18_E_"
+        }
+      ]
+    },
+    {
+      "label": "Official languages",
+      "value": "Arabic",
+      "links": [
+        {
+          "text": "Arabic",
+          "href": "https://en.wikipedia.org/wiki/Modern_Standard_Arabic"
+        }
+      ]
+    },
+    {
+      "label": "Common languages",
+      "value": "Emirati Arabic English",
+      "links": [
+        {
+          "text": "Emirati Arabic",
+          "href": "https://en.wikipedia.org/wiki/Emirati_Arabic"
+        },
+        {
+          "text": "English",
+          "href": "https://en.wikipedia.org/wiki/English_language"
+        }
+      ],
+      "sub_items": [
+        "Emirati Arabic",
+        "English"
+      ]
+    },
+    {
+      "label": "Ethnic groups (2015)",
+      "value": "59.4% South Asian 38.2% Indian 9.5% Bangladeshi 9.4% Pakistani 2.3% other 12% Emirati Arab 10.2% Egyptian 6.1% Filipino 12.4% other",
+      "links": [
+        {
+          "text": "South Asian",
+          "href": "https://en.wikipedia.org/wiki/South_Asian_diaspora"
+        },
+        {
+          "text": "Indian",
+          "href": "https://en.wikipedia.org/wiki/Indians_in_the_United_Arab_Emirates"
+        },
+        {
+          "text": "Bangladeshi",
+          "href": "https://en.wikipedia.org/wiki/Bangladeshis_in_the_United_Arab_Emirates"
+        },
+        {
+          "text": "Pakistani",
+          "href": "https://en.wikipedia.org/wiki/Pakistanis_in_the_United_Arab_Emirates"
+        },
+        {
+          "text": "other",
+          "href": "https://en.wikipedia.org/wiki/South_Asian_ethnic_groups"
+        },
+        {
+          "text": "Emirati Arab",
+          "href": "https://en.wikipedia.org/wiki/Emiratis"
+        },
+        {
+          "text": "Egyptian",
+          "href": "https://en.wikipedia.org/wiki/Expatriates_in_the_United_Arab_Emirates#Egyptians"
+        },
+        {
+          "text": "Filipino",
+          "href": "https://en.wikipedia.org/wiki/Filipinos_in_the_United_Arab_Emirates"
+        },
+        {
+          "text": "other",
+          "href": "https://en.wikipedia.org/wiki/Expatriates_in_the_United_Arab_Emirates"
+        }
+      ],
+      "sub_items": [
+        "59.4% South Asian 38.2% Indian 9.5% Bangladeshi 9.4% Pakistani 2.3% other",
+        "38.2% Indian",
+        "9.5% Bangladeshi",
+        "9.4% Pakistani",
+        "2.3% other",
+        "12% Emirati Arab",
+        "10.2% Egyptian",
+        "6.1% Filipino",
+        "12.4% other"
+      ]
+    },
+    {
+      "label": "Religion (2020)",
+      "value": "74.5% Islam ( official ) 63.3% Sunni Islam 6.7% Shia Islam 4.4% other 12.9% Christianity 6.2% Hinduism 3.2% Buddhism 1.3% Agnosticism 1.9% other",
+      "links": [
+        {
+          "text": "Islam",
+          "href": "https://en.wikipedia.org/wiki/Islam_in_the_United_Arab_Emirates"
+        },
+        {
+          "text": "official",
+          "href": "https://en.wikipedia.org/wiki/State_religion"
+        },
+        {
+          "text": "Sunni Islam",
+          "href": "https://en.wikipedia.org/wiki/Sunni_Islam"
+        },
+        {
+          "text": "Shia Islam",
+          "href": "https://en.wikipedia.org/wiki/Shia_Islam_in_the_United_Arab_Emirates"
+        },
+        {
+          "text": "other",
+          "href": "https://en.wikipedia.org/wiki/Islamic_schools_and_branches"
+        },
+        {
+          "text": "Christianity",
+          "href": "https://en.wikipedia.org/wiki/Christianity_in_the_United_Arab_Emirates"
+        },
+        {
+          "text": "Hinduism",
+          "href": "https://en.wikipedia.org/wiki/Hinduism_in_the_United_Arab_Emirates"
+        },
+        {
+          "text": "Buddhism",
+          "href": "https://en.wikipedia.org/wiki/Religion_in_the_United_Arab_Emirates"
+        },
+        {
+          "text": "Agnosticism",
+          "href": "https://en.wikipedia.org/wiki/Irreligion_in_the_United_Arab_Emirates"
+        },
+        {
+          "text": "other",
+          "href": "https://en.wikipedia.org/wiki/Religion_in_the_United_Arab_Emirates"
+        }
+      ],
+      "sub_items": [
+        "74.5% Islam ( official ) 63.3% Sunni Islam 6.7% Shia Islam 4.4% other",
+        "63.3% Sunni Islam",
+        "6.7% Shia Islam",
+        "4.4% other",
+        "12.9% Christianity",
+        "6.2% Hinduism",
+        "3.2% Buddhism",
+        "1.3% Agnosticism",
+        "1.9% other"
+      ]
+    },
+    {
+      "label": "Demonym",
+      "value": "Emirati",
+      "links": [
+        {
+          "text": "Emirati",
+          "href": "https://en.wikipedia.org/wiki/Emiratis"
+        }
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Federal semi-presidential elective semi-constitutional monarchy",
+      "links": [
+        {
+          "text": "semi-presidential",
+          "href": "https://en.wikipedia.org/wiki/Semi-presidential"
+        },
+        {
+          "text": "semi-constitutional monarchy",
+          "href": "https://en.wikipedia.org/wiki/Semi-constitutional_monarchy"
+        }
+      ]
+    },
+    {
+      "label": "• President",
+      "value": "Mohamed bin Zayed Al Nahyan",
+      "links": [
+        {
+          "text": "Mohamed bin Zayed Al Nahyan",
+          "href": "https://en.wikipedia.org/wiki/Mohamed_bin_Zayed_Al_Nahyan"
+        }
+      ]
+    },
+    {
+      "label": "• Vice Presidents",
+      "value": "Mohammed bin Rashid Al Maktoum Mansour bin Zayed Al Nahyan",
+      "links": [
+        {
+          "text": "Mohammed bin Rashid Al Maktoum",
+          "href": "https://en.wikipedia.org/wiki/Mohammed_bin_Rashid_Al_Maktoum"
+        },
+        {
+          "text": "Mansour bin Zayed Al Nahyan",
+          "href": "https://en.wikipedia.org/wiki/Mansour_bin_Zayed_Al_Nahyan"
+        }
+      ],
+      "sub_items": [
+        "Mohammed bin Rashid Al Maktoum",
+        "Mansour bin Zayed Al Nahyan"
+      ]
+    },
+    {
+      "label": "• Prime Minister",
+      "value": "Mohammed bin Rashid Al Maktoum"
+    },
+    {
+      "label": "Legislature",
+      "value": "Federal Supreme Council",
+      "links": [
+        {
+          "text": "Federal Supreme Council",
+          "href": "https://en.wikipedia.org/wiki/Federal_Supreme_Council"
+        }
+      ],
+      "sub_items": [
+        "Federal Supreme Council"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Establishment",
+      "rows": [
+        {
+          "label": "• British protectorate as part of Trucial States",
+          "value": "1820 and 1892"
+        },
+        {
+          "label": "• Independence from the United Kingdom",
+          "value": "2 December 1971"
+        },
+        {
+          "label": "• Admission of Ras Al Khaimah",
+          "value": "10 February 1972"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "83,600 km (32,300 sq mi) ( 114th )",
+          "links": [
+            {
+              "text": "114th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "Negligible"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2024 estimate",
+          "value": "11,027,129"
+        },
+        {
+          "label": "• Density",
+          "value": "132/km (341.9/sq mi) ( 83rd )",
+          "links": [
+            {
+              "text": "83rd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$905.23 billion ( 36th )",
+          "links": [
+            {
+              "text": "36th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$81,680 ( 13th )",
+          "links": [
+            {
+              "text": "13th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$548.60 billion ( 28th )",
+          "links": [
+            {
+              "text": "28th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$49,550 ( 21st )",
+          "links": [
+            {
+              "text": "21st",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "Gini (2018)",
+          "value": "26 low inequality"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.940 very high ( 15th )",
+          "links": [
+            {
+              "text": "15th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "UAE dirham ( AED )",
+          "links": [
+            {
+              "text": "UAE dirham",
+              "href": "https://en.wikipedia.org/wiki/United_Arab_Emirates_dirham"
+            },
+            {
+              "text": "AED",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC +04:00 ( GST )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "GST",
+              "href": "https://en.wikipedia.org/wiki/Time_in_the_United_Arab_Emirates"
+            }
+          ]
+        },
+        {
+          "label": "Calling code",
+          "value": "+971",
+          "links": [
+            {
+              "text": "+971",
+              "href": "https://en.wikipedia.org/wiki/Telephone_numbers_in_the_United_Arab_Emirates"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "AE",
+          "links": [
+            {
+              "text": "AE",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:AE"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".ae امارات.",
+          "links": [
+            {
+              "text": ".ae",
+              "href": "https://en.wikipedia.org/wiki/.ae"
+            },
+            {
+              "text": "امارات.",
+              "href": "https://en.wikipedia.org/wiki/Emarat"
+            }
+          ],
+          "sub_items": [
+            ".ae",
+            "امارات."
+          ]
+        }
+      ]
+    }
+  ]
+}

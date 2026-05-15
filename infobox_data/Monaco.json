@@ -1,0 +1,371 @@
+{
+  "country": "Monaco",
+  "infobox_title": "Principality of Monaco Principauté de Monaco ( French ) Prinçipatu de Mùnegu ( Monégasque ) Principato di Monaco ( Italian )",
+  "data": [
+    {
+      "label": "Capital",
+      "value": "Monaco ( city-state ) 43°43′52″N 07°25′12″E ﻿ / ﻿ 43.73111°N 7.42000°E",
+      "links": [
+        {
+          "text": "Monaco",
+          "href": "https://en.wikipedia.org/wiki/Monaco_City"
+        },
+        {
+          "text": "city-state",
+          "href": "https://en.wikipedia.org/wiki/City-state"
+        },
+        {
+          "text": "43°43′52″N07°25′12″E﻿ / ﻿43.73111°N 7.42000°E",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Monaco&params=43_43_52_N_07_25_12_E_type:city_region:MC"
+        }
+      ]
+    },
+    {
+      "label": "Largest quarter",
+      "value": "Monte Carlo",
+      "links": [
+        {
+          "text": "Monte Carlo",
+          "href": "https://en.wikipedia.org/wiki/Monte_Carlo"
+        }
+      ]
+    },
+    {
+      "label": "Official languages",
+      "value": "French ( Meridional )",
+      "links": [
+        {
+          "text": "French",
+          "href": "https://en.wikipedia.org/wiki/French_language"
+        },
+        {
+          "text": "Meridional",
+          "href": "https://en.wikipedia.org/wiki/Meridional_French"
+        }
+      ]
+    },
+    {
+      "label": "Common languages",
+      "value": "Italian Monégasque Ligurian",
+      "links": [
+        {
+          "text": "Italian",
+          "href": "https://en.wikipedia.org/wiki/Italian_language"
+        },
+        {
+          "text": "Monégasque",
+          "href": "https://en.wikipedia.org/wiki/Mon%C3%A9gasque_dialect"
+        },
+        {
+          "text": "Ligurian",
+          "href": "https://en.wikipedia.org/wiki/Ligurian_language"
+        }
+      ],
+      "sub_items": [
+        "Italian",
+        "Monégasque",
+        "Ligurian"
+      ]
+    },
+    {
+      "label": "Ethnic groups",
+      "value": "Monégasques French Italians Occitans",
+      "links": [
+        {
+          "text": "Monégasques",
+          "href": "https://en.wikipedia.org/wiki/Mon%C3%A9gasque_people"
+        },
+        {
+          "text": "French",
+          "href": "https://en.wikipedia.org/wiki/French_people"
+        },
+        {
+          "text": "Italians",
+          "href": "https://en.wikipedia.org/wiki/Italian_people"
+        },
+        {
+          "text": "Occitans",
+          "href": "https://en.wikipedia.org/wiki/Occitans"
+        }
+      ],
+      "sub_items": [
+        "Monégasques",
+        "French",
+        "Italians",
+        "Occitans"
+      ]
+    },
+    {
+      "label": "Religion",
+      "value": "86.0% Christianity 80.9% Catholicism ( official ) 5.1% other Christian 11.7% no religion 1.7% Judaism 0.4% Islam 0.2% other",
+      "links": [
+        {
+          "text": "Christianity",
+          "href": "https://en.wikipedia.org/wiki/Christianity"
+        },
+        {
+          "text": "Catholicism",
+          "href": "https://en.wikipedia.org/wiki/Catholic_Church_in_Monaco"
+        },
+        {
+          "text": "official",
+          "href": "https://en.wikipedia.org/wiki/State_religion"
+        },
+        {
+          "text": "Christian",
+          "href": "https://en.wikipedia.org/wiki/List_of_Christian_denominations"
+        },
+        {
+          "text": "no religion",
+          "href": "https://en.wikipedia.org/wiki/Irreligion"
+        },
+        {
+          "text": "Judaism",
+          "href": "https://en.wikipedia.org/wiki/History_of_the_Jews_in_Monaco"
+        },
+        {
+          "text": "Islam",
+          "href": "https://en.wikipedia.org/wiki/Islam"
+        }
+      ],
+      "sub_items": [
+        "86.0% Christianity 80.9% Catholicism ( official ) 5.1% other Christian",
+        "86.0% Christianity 80.9% Catholicism ( official ) 5.1% other Christian",
+        "80.9% Catholicism ( official )",
+        "5.1% other Christian",
+        "11.7% no religion",
+        "1.7% Judaism",
+        "0.4% Islam",
+        "0.2% other"
+      ]
+    },
+    {
+      "label": "Demonym",
+      "value": "Monégasque",
+      "sub_items": [
+        "Monégasque"
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Unitary parliamentary semi- constitutional monarchy",
+      "links": [
+        {
+          "text": "constitutional monarchy",
+          "href": "https://en.wikipedia.org/wiki/Constitutional_monarchy"
+        }
+      ]
+    },
+    {
+      "label": "• Monarch",
+      "value": "Albert II",
+      "links": [
+        {
+          "text": "Albert II",
+          "href": "https://en.wikipedia.org/wiki/Albert_II,_Prince_of_Monaco"
+        }
+      ]
+    },
+    {
+      "label": "• Minister of State",
+      "value": "Christophe Mirmand",
+      "links": [
+        {
+          "text": "Christophe Mirmand",
+          "href": "https://en.wikipedia.org/wiki/Christophe_Mirmand"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "National Council",
+      "links": [
+        {
+          "text": "National Council",
+          "href": "https://en.wikipedia.org/wiki/National_Council_(Monaco)"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Independence",
+      "rows": [
+        {
+          "label": "• House of Grimaldi (under the sovereignty of the Republic of Genoa )",
+          "value": "8 January 1297"
+        },
+        {
+          "label": "• from the French Empire",
+          "value": "17 May 1814"
+        },
+        {
+          "label": "• from occupation of the Sixth Coalition",
+          "value": "17 June 1814"
+        },
+        {
+          "label": "• Franco-Monégasque Treaty",
+          "value": "11 February 1861"
+        },
+        {
+          "label": "• Constitution",
+          "value": "5 January 1911"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "2.084 km (0.805 sq mi) ( 194th )",
+          "links": [
+            {
+              "text": "194th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "negligible"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2024 census",
+          "value": "38,423 ( 190th )",
+          "links": [
+            {
+              "text": "190th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• Density",
+          "value": "18,446/km (47,774.9/sq mi) ( 1st )",
+          "links": [
+            {
+              "text": "1st",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2024 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$8.924 billion ( 165th )",
+          "links": [
+            {
+              "text": "165th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$270,100"
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2024 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$10.434 billion"
+        },
+        {
+          "label": "• Per capita",
+          "value": "$315,800"
+        },
+        {
+          "label": "Currency",
+          "value": "Euro ( € ) ( EUR )",
+          "links": [
+            {
+              "text": "Euro",
+              "href": "https://en.wikipedia.org/wiki/Euro"
+            },
+            {
+              "text": "€",
+              "href": "https://en.wikipedia.org/wiki/Euro_sign"
+            },
+            {
+              "text": "EUR",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC +1 ( CET )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "CET",
+              "href": "https://en.wikipedia.org/wiki/Central_European_Time"
+            }
+          ]
+        },
+        {
+          "label": "• Summer ( DST )",
+          "value": "UTC +2 ( CEST )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "CEST",
+              "href": "https://en.wikipedia.org/wiki/Central_European_Summer_Time"
+            }
+          ]
+        },
+        {
+          "label": "Date format",
+          "value": "dd/mm/yyyy"
+        },
+        {
+          "label": "Calling code",
+          "value": "+377",
+          "links": [
+            {
+              "text": "+377",
+              "href": "https://en.wikipedia.org/wiki/Telephone_numbers_in_Monaco"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "MC",
+          "links": [
+            {
+              "text": "MC",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:MC"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".mc",
+          "links": [
+            {
+              "text": ".mc",
+              "href": "https://en.wikipedia.org/wiki/.mc"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

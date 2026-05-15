@@ -1,0 +1,378 @@
+{
+  "label": "country",
+  "children": [
+    {
+      "label": "name",
+      "children": [
+        {
+          "label": "morocco"
+        }
+      ]
+    },
+    {
+      "label": "infobox_title",
+      "children": [
+        {
+          "label": "kingdom of morocco المملكة المغربية al-mamlakah al-maghribiyah ⵜⴰⴳⵍⴷⵉⵜ ⵏ ⵍⵎⵖⵔⵉⴱ tageldit n lmeɣrib"
+        }
+      ]
+    },
+    {
+      "label": "capital",
+      "children": [
+        {
+          "label": "rabat / 34."
+        }
+      ]
+    },
+    {
+      "label": "largest_city",
+      "children": [
+        {
+          "label": "casablanca / 33."
+        }
+      ]
+    },
+    {
+      "label": "official_languages",
+      "children": [
+        {
+          "label": "arabic"
+        },
+        {
+          "label": "tamazight"
+        }
+      ]
+    },
+    {
+      "label": "spoken_languages_2024",
+      "children": [
+        {
+          "label": "92.7% arabic"
+        },
+        {
+          "label": "91.9% moroccan arabic"
+        },
+        {
+          "label": "0.8% hassaniya arabic"
+        },
+        {
+          "label": "24.8% berber languages"
+        },
+        {
+          "label": "14.2% tashelhit"
+        },
+        {
+          "label": "7.4% tamazight"
+        },
+        {
+          "label": "3.2% tarifit"
+        }
+      ]
+    },
+    {
+      "label": "foreign_languages",
+      "children": [
+        {
+          "label": "french"
+        },
+        {
+          "label": "english"
+        },
+        {
+          "label": "spanish"
+        }
+      ]
+    },
+    {
+      "label": "ethnic_groups",
+      "children": [
+        {
+          "label": "see ethnic groups"
+        }
+      ]
+    },
+    {
+      "label": "religion_2020",
+      "children": [
+        {
+          "label": "99.68% islam"
+        },
+        {
+          "label": "99.23% sunni"
+        },
+        {
+          "label": "0.45% shia"
+        },
+        {
+          "label": "0.3% others"
+        },
+        {
+          "label": "0.13% agnostics"
+        },
+        {
+          "label": "0.09% christians"
+        },
+        {
+          "label": "0.01% jews"
+        },
+        {
+          "label": "0.10% baháʼís"
+        }
+      ]
+    },
+    {
+      "label": "demonym",
+      "children": [
+        {
+          "label": "moroccan"
+        }
+      ]
+    },
+    {
+      "label": "government",
+      "children": [
+        {
+          "label": "unitary parliamentary semi-constitutional monarchy"
+        }
+      ]
+    },
+    {
+      "label": "king",
+      "children": [
+        {
+          "label": "mohammed vi"
+        }
+      ]
+    },
+    {
+      "label": "prime_minister",
+      "children": [
+        {
+          "label": "aziz akhannouch"
+        }
+      ]
+    },
+    {
+      "label": "legislature",
+      "children": [
+        {
+          "label": "parliament"
+        }
+      ]
+    },
+    {
+      "label": "upper_house",
+      "children": [
+        {
+          "label": "house of councillors"
+        }
+      ]
+    },
+    {
+      "label": "lower_house",
+      "children": [
+        {
+          "label": "house of representatives"
+        }
+      ]
+    },
+    {
+      "label": "establishment",
+      "children": [
+        {
+          "label": "idrisid_dynasty",
+          "children": [
+            {
+              "label": "788"
+            }
+          ]
+        },
+        {
+          "label": "alawi_dynasty_current_dynasty",
+          "children": [
+            {
+              "label": "1631"
+            }
+          ]
+        },
+        {
+          "label": "french_protectorate",
+          "children": [
+            {
+              "label": "30 march 1912"
+            }
+          ]
+        },
+        {
+          "label": "independence",
+          "children": [
+            {
+              "label": "2 march 1956"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "area",
+      "children": [
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "446,550 km"
+            }
+          ]
+        },
+        {
+          "label": "water",
+          "children": [
+            {
+              "label": "0.056"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "population",
+      "children": [
+        {
+          "label": "2024_estimate",
+          "children": [
+            {
+              "label": "37,493,183"
+            }
+          ]
+        },
+        {
+          "label": "2024_census",
+          "children": [
+            {
+              "label": "36,828,330"
+            }
+          ]
+        },
+        {
+          "label": "density",
+          "children": [
+            {
+              "label": "79.0/km"
+            }
+          ]
+        },
+        {
+          "label": "gdp_ppp",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$424.870 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$11,270"
+            }
+          ]
+        },
+        {
+          "label": "gdp_nominal",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$165.840 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$4,440"
+            }
+          ]
+        },
+        {
+          "label": "gini_2015",
+          "children": [
+            {
+              "label": "40.3 medium inequality"
+            }
+          ]
+        },
+        {
+          "label": "hdi_2023",
+          "children": [
+            {
+              "label": "0.710 high"
+            }
+          ]
+        },
+        {
+          "label": "currency",
+          "children": [
+            {
+              "label": "moroccan dirham"
+            }
+          ]
+        },
+        {
+          "label": "time_zone",
+          "children": [
+            {
+              "label": "+1"
+            },
+            {
+              "label": "utc+0"
+            }
+          ]
+        },
+        {
+          "label": "calling_code",
+          "children": [
+            {
+              "label": "+212"
+            }
+          ]
+        },
+        {
+          "label": "iso_3166_code",
+          "children": [
+            {
+              "label": "ma"
+            }
+          ]
+        },
+        {
+          "label": "internet_tld",
+          "children": [
+            {
+              "label": ".ma"
+            },
+            {
+              "label": ".المغرب"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

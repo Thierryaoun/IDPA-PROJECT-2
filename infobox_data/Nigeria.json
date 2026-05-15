@@ -1,0 +1,474 @@
+{
+  "country": "Nigeria",
+  "infobox_title": "Federal Republic of Nigeria Name in national languages Hausa : Jamhuriyar Tarayyar Najeriya Igbo : Ọ̀hàńjíkọ̀ Ọ̀hànézè Naìjíríyà Yoruba : Orílẹ̀-èdè Olómìniira Àpapọ̀ Nàìjíríà",
+  "data": [
+    {
+      "label": "Hausa :",
+      "value": "Jamhuriyar Tarayyar Najeriya"
+    },
+    {
+      "label": "Hausa :",
+      "value": "Jamhuriyar Tarayyar Najeriya"
+    },
+    {
+      "label": "Igbo :",
+      "value": "Ọ̀hàńjíkọ̀ Ọ̀hànézè Naìjíríyà"
+    },
+    {
+      "label": "Yoruba :",
+      "value": "Orílẹ̀-èdè Olómìniira Àpapọ̀ Nàìjíríà"
+    },
+    {
+      "label": "Capital",
+      "value": "Abuja 9°4′N 7°29′E ﻿ / ﻿ 9.067°N 7.483°E",
+      "links": [
+        {
+          "text": "Abuja",
+          "href": "https://en.wikipedia.org/wiki/Abuja"
+        },
+        {
+          "text": "9°4′N7°29′E﻿ / ﻿9.067°N 7.483°E",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Nigeria&params=9_4_N_7_29_E_type:city"
+        }
+      ]
+    },
+    {
+      "label": "Largest city",
+      "value": "Lagos",
+      "links": [
+        {
+          "text": "Lagos",
+          "href": "https://en.wikipedia.org/wiki/Lagos"
+        }
+      ]
+    },
+    {
+      "label": "Official languages",
+      "value": "English",
+      "links": [
+        {
+          "text": "English",
+          "href": "https://en.wikipedia.org/wiki/Nigerian_English"
+        }
+      ]
+    },
+    {
+      "label": "Recognised languages",
+      "value": "List Hausa Yoruba Igbo",
+      "links": [
+        {
+          "text": "Hausa",
+          "href": "https://en.wikipedia.org/wiki/Hausa_language"
+        },
+        {
+          "text": "Yoruba",
+          "href": "https://en.wikipedia.org/wiki/Yoruba_language"
+        },
+        {
+          "text": "Igbo",
+          "href": "https://en.wikipedia.org/wiki/Igbo_language"
+        }
+      ],
+      "sub_items": [
+        "Hausa",
+        "Yoruba",
+        "Igbo"
+      ]
+    },
+    {
+      "label": "Regional languages",
+      "value": "Over 525 languages",
+      "links": [
+        {
+          "text": "525 languages",
+          "href": "https://en.wikipedia.org/wiki/Languages_of_Nigeria"
+        }
+      ]
+    },
+    {
+      "label": "Ethnic groups (2018)",
+      "value": "30% Hausa 15.5% Yoruba 15.2% Igbo 6% Fulani 2.4% Tiv 2.4% Kanuri 1.8% Ibibio 1.8% Ijaw 24.7% other",
+      "links": [
+        {
+          "text": "Hausa",
+          "href": "https://en.wikipedia.org/wiki/Hausa_people"
+        },
+        {
+          "text": "Yoruba",
+          "href": "https://en.wikipedia.org/wiki/Yoruba_people"
+        },
+        {
+          "text": "Igbo",
+          "href": "https://en.wikipedia.org/wiki/Igbo_people"
+        },
+        {
+          "text": "Fulani",
+          "href": "https://en.wikipedia.org/wiki/Fula_people"
+        },
+        {
+          "text": "Tiv",
+          "href": "https://en.wikipedia.org/wiki/Tiv_people"
+        },
+        {
+          "text": "Kanuri",
+          "href": "https://en.wikipedia.org/wiki/Kanuri_people"
+        },
+        {
+          "text": "Ibibio",
+          "href": "https://en.wikipedia.org/wiki/Ibibio_people"
+        },
+        {
+          "text": "Ijaw",
+          "href": "https://en.wikipedia.org/wiki/Ijaw_people"
+        },
+        {
+          "text": "other",
+          "href": "https://en.wikipedia.org/wiki/List_of_ethnic_groups_in_Nigeria"
+        }
+      ],
+      "sub_items": [
+        "30% Hausa",
+        "15.5% Yoruba",
+        "15.2% Igbo",
+        "6% Fulani",
+        "2.4% Tiv",
+        "2.4% Kanuri",
+        "1.8% Ibibio",
+        "1.8% Ijaw",
+        "24.7% other"
+      ]
+    },
+    {
+      "label": "Religion (2018)",
+      "value": "53.50% Islam 45.90% Christianity 35.30% Protestants 10.60% Catholics 0.60% other",
+      "links": [
+        {
+          "text": "Islam",
+          "href": "https://en.wikipedia.org/wiki/Islam_in_Nigeria"
+        },
+        {
+          "text": "Christianity",
+          "href": "https://en.wikipedia.org/wiki/Christianity_in_Nigeria"
+        },
+        {
+          "text": "Protestants",
+          "href": "https://en.wikipedia.org/wiki/Protestantism_in_Nigeria"
+        },
+        {
+          "text": "Catholics",
+          "href": "https://en.wikipedia.org/wiki/Catholic_Church_in_Nigeria"
+        },
+        {
+          "text": "other",
+          "href": "https://en.wikipedia.org/wiki/Religion_in_Nigeria"
+        }
+      ],
+      "sub_items": [
+        "53.50% Islam",
+        "45.90% Christianity 35.30% Protestants 10.60% Catholics",
+        "35.30% Protestants",
+        "10.60% Catholics",
+        "0.60% other"
+      ]
+    },
+    {
+      "label": "Demonym",
+      "value": "Nigerian",
+      "links": [
+        {
+          "text": "Nigerian",
+          "href": "https://en.wikipedia.org/wiki/Nigerians"
+        }
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Federal presidential republic",
+      "links": [
+        {
+          "text": "presidential republic",
+          "href": "https://en.wikipedia.org/wiki/Presidential_republic"
+        }
+      ]
+    },
+    {
+      "label": "• President",
+      "value": "Bola Tinubu",
+      "links": [
+        {
+          "text": "Bola Tinubu",
+          "href": "https://en.wikipedia.org/wiki/Bola_Tinubu"
+        }
+      ]
+    },
+    {
+      "label": "• Vice President",
+      "value": "Kashim Shettima",
+      "links": [
+        {
+          "text": "Kashim Shettima",
+          "href": "https://en.wikipedia.org/wiki/Kashim_Shettima"
+        }
+      ]
+    },
+    {
+      "label": "• Senate President",
+      "value": "Godswill Akpabio",
+      "links": [
+        {
+          "text": "Godswill Akpabio",
+          "href": "https://en.wikipedia.org/wiki/Godswill_Akpabio"
+        }
+      ]
+    },
+    {
+      "label": "• House Speaker",
+      "value": "Tajudeen Abbas",
+      "links": [
+        {
+          "text": "Tajudeen Abbas",
+          "href": "https://en.wikipedia.org/wiki/Tajudeen_Abbas"
+        }
+      ]
+    },
+    {
+      "label": "• Chief Justice",
+      "value": "Kudirat Kekere-Ekun",
+      "links": [
+        {
+          "text": "Kudirat Kekere-Ekun",
+          "href": "https://en.wikipedia.org/wiki/Kudirat_Kekere-Ekun"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "National Assembly",
+      "links": [
+        {
+          "text": "National Assembly",
+          "href": "https://en.wikipedia.org/wiki/National_Assembly_(Nigeria)"
+        }
+      ]
+    },
+    {
+      "label": "• Upper house",
+      "value": "Senate",
+      "links": [
+        {
+          "text": "Senate",
+          "href": "https://en.wikipedia.org/wiki/Senate_of_Nigeria"
+        }
+      ]
+    },
+    {
+      "label": "• Lower house",
+      "value": "House of Representatives",
+      "links": [
+        {
+          "text": "House of Representatives",
+          "href": "https://en.wikipedia.org/wiki/House_of_Representatives_(Nigeria)"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Independence from the United Kingdom",
+      "rows": [
+        {
+          "label": "• Northern Nigeria Protectorate",
+          "value": "1 January 1900"
+        },
+        {
+          "label": "• Southern Nigeria Protectorate",
+          "value": "1 January 1900"
+        },
+        {
+          "label": "• Unification of Nigeria",
+          "value": "1 January 1914"
+        },
+        {
+          "label": "• Declared independent as a sovereign state",
+          "value": "1 October 1960"
+        },
+        {
+          "label": "• Became a republic",
+          "value": "1 October 1963"
+        },
+        {
+          "label": "• Current constitution",
+          "value": "29 May 1999"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "923,769 km (356,669 sq mi) ( 31st )",
+          "links": [
+            {
+              "text": "31st",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "1.4"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2024 estimate",
+          "value": "236,747,130 ( 6th )",
+          "links": [
+            {
+              "text": "6th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• Density",
+          "value": "249.8/km (647.0/sq mi) ( 57th )",
+          "links": [
+            {
+              "text": "57th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$2.254 trillion ( 19th )",
+          "links": [
+            {
+              "text": "19th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$9,488 ( 135th )",
+          "links": [
+            {
+              "text": "135th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$285.003 billion ( 52nd )",
+          "links": [
+            {
+              "text": "52nd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$1,200 ( 173rd )",
+          "links": [
+            {
+              "text": "173rd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "Gini (2020)",
+          "value": "35.1 medium inequality"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.560 medium ( 164th )",
+          "links": [
+            {
+              "text": "164th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "Naira (₦) ( NGN )",
+          "links": [
+            {
+              "text": "Naira",
+              "href": "https://en.wikipedia.org/wiki/Nigerian_naira"
+            },
+            {
+              "text": "NGN",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC +01:00 ( WAT )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "WAT",
+              "href": "https://en.wikipedia.org/wiki/West_Africa_Time"
+            }
+          ]
+        },
+        {
+          "label": "Date format",
+          "value": "dd/mm/yyyy"
+        },
+        {
+          "label": "Calling code",
+          "value": "+234",
+          "links": [
+            {
+              "text": "+234",
+              "href": "https://en.wikipedia.org/wiki/Telephone_numbers_in_Nigeria"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "NG",
+          "links": [
+            {
+              "text": "NG",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:NG"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".ng",
+          "links": [
+            {
+              "text": ".ng",
+              "href": "https://en.wikipedia.org/wiki/.ng"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,357 @@
+{
+  "country": "Paraguay",
+  "infobox_title": "Republic of Paraguay República del Paraguay ( Spanish ) Paraguái Tavakuairetã ( Guarani )",
+  "data": [
+    {
+      "label": "Capital and largest city",
+      "value": "Asunción 25°16′S 57°40′W ﻿ / ﻿ 25.267°S 57.667°W",
+      "links": [
+        {
+          "text": "Asunción",
+          "href": "https://en.wikipedia.org/wiki/Asunci%C3%B3n"
+        },
+        {
+          "text": "25°16′S57°40′W﻿ / ﻿25.267°S 57.667°W",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Paraguay&params=25_16_S_57_40_W_type:city"
+        }
+      ]
+    },
+    {
+      "label": "Official languages",
+      "value": "Spanish Guarani",
+      "links": [
+        {
+          "text": "Spanish",
+          "href": "https://en.wikipedia.org/wiki/Paraguayan_Spanish"
+        },
+        {
+          "text": "Guarani",
+          "href": "https://en.wikipedia.org/wiki/Guarani_language"
+        }
+      ],
+      "sub_items": [
+        "Spanish",
+        "Guarani"
+      ]
+    },
+    {
+      "label": "Religion (2020)",
+      "value": "95.5% Christianity 87.4% Catholicism 8.1% other Christian 4.1% no religion 0.4% other",
+      "links": [
+        {
+          "text": "Christianity",
+          "href": "https://en.wikipedia.org/wiki/Christianity"
+        },
+        {
+          "text": "Catholicism",
+          "href": "https://en.wikipedia.org/wiki/Catholic_Church_in_Paraguay"
+        },
+        {
+          "text": "Christian",
+          "href": "https://en.wikipedia.org/wiki/List_of_Christian_denominations"
+        },
+        {
+          "text": "no religion",
+          "href": "https://en.wikipedia.org/wiki/Irreligion_in_Latin_America"
+        },
+        {
+          "text": "other",
+          "href": "https://en.wikipedia.org/wiki/Religion_in_Paraguay"
+        }
+      ],
+      "sub_items": [
+        "95.5% Christianity 87.4% Catholicism 8.1% other Christian",
+        "95.5% Christianity 87.4% Catholicism 8.1% other Christian",
+        "87.4% Catholicism",
+        "8.1% other Christian",
+        "4.1% no religion",
+        "0.4% other"
+      ]
+    },
+    {
+      "label": "Demonym",
+      "value": "Paraguayan",
+      "links": [
+        {
+          "text": "Paraguayan",
+          "href": "https://en.wikipedia.org/wiki/Paraguayans"
+        }
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Unitary presidential republic",
+      "links": [
+        {
+          "text": "presidential republic",
+          "href": "https://en.wikipedia.org/wiki/Presidential_republic"
+        }
+      ]
+    },
+    {
+      "label": "• President",
+      "value": "Santiago Peña",
+      "links": [
+        {
+          "text": "Santiago Peña",
+          "href": "https://en.wikipedia.org/wiki/Santiago_Pe%C3%B1a"
+        }
+      ]
+    },
+    {
+      "label": "• Vice President",
+      "value": "Pedro Alliana",
+      "links": [
+        {
+          "text": "Pedro Alliana",
+          "href": "https://en.wikipedia.org/wiki/Pedro_Alliana"
+        }
+      ]
+    },
+    {
+      "label": "• President of the Senate",
+      "value": "Silvio Ovelar",
+      "links": [
+        {
+          "text": "Silvio Ovelar",
+          "href": "https://en.wikipedia.org/wiki/Silvio_Ovelar"
+        }
+      ]
+    },
+    {
+      "label": "• President of the Chamber of Deputies",
+      "value": "Raul Latorre",
+      "links": [
+        {
+          "text": "Raul Latorre",
+          "href": "https://en.wikipedia.org/wiki/Raul_Latorre"
+        }
+      ]
+    },
+    {
+      "label": "• President of the Supreme Court",
+      "value": "César Diesel"
+    },
+    {
+      "label": "Legislature",
+      "value": "Congress",
+      "links": [
+        {
+          "text": "Congress",
+          "href": "https://en.wikipedia.org/wiki/Congress_of_Paraguay"
+        }
+      ]
+    },
+    {
+      "label": "• Upper house",
+      "value": "Senate",
+      "links": [
+        {
+          "text": "Senate",
+          "href": "https://en.wikipedia.org/wiki/Senate_of_Paraguay"
+        }
+      ]
+    },
+    {
+      "label": "• Lower house",
+      "value": "Chamber of Deputies",
+      "links": [
+        {
+          "text": "Chamber of Deputies",
+          "href": "https://en.wikipedia.org/wiki/Chamber_of_Deputies_of_Paraguay"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Independence from Spain",
+      "rows": [
+        {
+          "label": "• Declared",
+          "value": "14 May 1811"
+        },
+        {
+          "label": "• Recognized",
+          "value": "25 November 1842"
+        },
+        {
+          "label": "• Current constitution",
+          "value": "20 June 1992"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "406,752 km (157,048 sq mi) ( 59th )",
+          "links": [
+            {
+              "text": "59th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "2.6"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2025 estimate",
+          "value": "6,413,627 ( 113th )",
+          "links": [
+            {
+              "text": "113th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• 2022 census",
+          "value": "6,109,903"
+        },
+        {
+          "label": "• Density",
+          "value": "39/sq mi (15.1/km ) ( 223rd )",
+          "links": [
+            {
+              "text": "223rd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2026 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$145.110 billion ( 92nd )",
+          "links": [
+            {
+              "text": "92nd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$22,462 ( 84th )",
+          "links": [
+            {
+              "text": "84th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2026 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$51.670 billion ( 99th )",
+          "links": [
+            {
+              "text": "99th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$7,990 ( 93rd )",
+          "links": [
+            {
+              "text": "93rd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "Gini (2023)",
+          "value": "44.4 medium inequality"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.756 high ( 99th )",
+          "links": [
+            {
+              "text": "99th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "Guaraní ( PYG )",
+          "links": [
+            {
+              "text": "Guaraní",
+              "href": "https://en.wikipedia.org/wiki/Paraguayan_guaran%C3%AD"
+            },
+            {
+              "text": "PYG",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC –03:00 ( PYT )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "PYT",
+              "href": "https://en.wikipedia.org/wiki/Time_in_Paraguay"
+            }
+          ]
+        },
+        {
+          "label": "Date format",
+          "value": "dd/mm/yyyy"
+        },
+        {
+          "label": "Calling code",
+          "value": "+595",
+          "links": [
+            {
+              "text": "+595",
+              "href": "https://en.wikipedia.org/wiki/%2B595"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "PY",
+          "links": [
+            {
+              "text": "PY",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:PY"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".py",
+          "links": [
+            {
+              "text": ".py",
+              "href": "https://en.wikipedia.org/wiki/.py"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

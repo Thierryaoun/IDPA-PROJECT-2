@@ -1,0 +1,352 @@
+{
+  "label": "country",
+  "children": [
+    {
+      "label": "name",
+      "children": [
+        {
+          "label": "costa rica"
+        }
+      ]
+    },
+    {
+      "label": "infobox_title",
+      "children": [
+        {
+          "label": "republic of costa rica república de costa rica"
+        }
+      ]
+    },
+    {
+      "label": "capital_and_largest_city",
+      "children": [
+        {
+          "label": "san josé / 9."
+        }
+      ]
+    },
+    {
+      "label": "official_languages",
+      "children": [
+        {
+          "label": "spanish"
+        }
+      ]
+    },
+    {
+      "label": "recognized_regional_languages",
+      "children": [
+        {
+          "label": "mekatelyu"
+        },
+        {
+          "label": "bribri"
+        },
+        {
+          "label": "patois"
+        }
+      ]
+    },
+    {
+      "label": "ethnic_groups_2021",
+      "children": [
+        {
+          "label": "83.6% white or mestizo"
+        },
+        {
+          "label": "6.7% mulatto"
+        },
+        {
+          "label": "2.4% indigenous"
+        },
+        {
+          "label": "1.1% black"
+        },
+        {
+          "label": "6.2% others"
+        }
+      ]
+    },
+    {
+      "label": "religion_2021",
+      "children": [
+        {
+          "label": "72.6% christianity"
+        },
+        {
+          "label": "47.5% catholicism"
+        },
+        {
+          "label": "22.5% protestantism"
+        },
+        {
+          "label": "2.6% other christian"
+        },
+        {
+          "label": "27.0% no religion"
+        },
+        {
+          "label": "0.4% others"
+        }
+      ]
+    },
+    {
+      "label": "demonyms",
+      "children": [
+        {
+          "label": "costa rican"
+        },
+        {
+          "label": "tico"
+        }
+      ]
+    },
+    {
+      "label": "government",
+      "children": [
+        {
+          "label": "unitary presidential republic"
+        }
+      ]
+    },
+    {
+      "label": "president",
+      "children": [
+        {
+          "label": "rodrigo chaves"
+        }
+      ]
+    },
+    {
+      "label": "first_vice_president",
+      "children": [
+        {
+          "label": "mary munive"
+        }
+      ]
+    },
+    {
+      "label": "second_vice_president",
+      "children": [
+        {
+          "label": "vacant"
+        }
+      ]
+    },
+    {
+      "label": "legislature",
+      "children": [
+        {
+          "label": "legislative assembly"
+        }
+      ]
+    },
+    {
+      "label": "independence_from",
+      "children": [
+        {
+          "label": "from_spain",
+          "children": [
+            {
+              "label": "15 september 1821"
+            }
+          ]
+        },
+        {
+          "label": "from_first_mexican_empire",
+          "children": [
+            {
+              "label": "1 july 1823"
+            }
+          ]
+        },
+        {
+          "label": "from_the_federal_republic_of_central_america",
+          "children": [
+            {
+              "label": "14 november 1838"
+            }
+          ]
+        },
+        {
+          "label": "current_constitution",
+          "children": [
+            {
+              "label": "7 november 1949"
+            }
+          ]
+        },
+        {
+          "label": "recognized_by_spain",
+          "children": [
+            {
+              "label": "10 may 1850"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "area",
+      "children": [
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "51,179.92 km"
+            }
+          ]
+        },
+        {
+          "label": "water",
+          "children": [
+            {
+              "label": "1.05"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "population",
+      "children": [
+        {
+          "label": "2026_estimate",
+          "children": [
+            {
+              "label": "5,160,700"
+            }
+          ]
+        },
+        {
+          "label": "2022_census",
+          "children": [
+            {
+              "label": "5,044,197"
+            }
+          ]
+        },
+        {
+          "label": "density",
+          "children": [
+            {
+              "label": "220/sq mi"
+            }
+          ]
+        },
+        {
+          "label": "gdp_ppp",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$169.034 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$31,462"
+            }
+          ]
+        },
+        {
+          "label": "gdp_nominal",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$102.591 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$19,095"
+            }
+          ]
+        },
+        {
+          "label": "gini_2022",
+          "children": [
+            {
+              "label": "47.2 high inequality"
+            }
+          ]
+        },
+        {
+          "label": "hdi_2023",
+          "children": [
+            {
+              "label": "0.833 very high"
+            }
+          ]
+        },
+        {
+          "label": "currency",
+          "children": [
+            {
+              "label": "costa rican colón"
+            }
+          ]
+        },
+        {
+          "label": "time_zone",
+          "children": [
+            {
+              "label": "utc −6"
+            }
+          ]
+        },
+        {
+          "label": "date_format",
+          "children": [
+            {
+              "label": "dd/mm/yyyy"
+            }
+          ]
+        },
+        {
+          "label": "calling_code",
+          "children": [
+            {
+              "label": "+506"
+            }
+          ]
+        },
+        {
+          "label": "iso_3166_code",
+          "children": [
+            {
+              "label": "cr"
+            }
+          ]
+        },
+        {
+          "label": "internet_tld",
+          "children": [
+            {
+              "label": ".cr .co.cr"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,354 @@
+{
+  "country": "Greece",
+  "infobox_title": "Hellenic Republic Ελληνική Δημοκρατία ( Greek ) Ellinikí Dimokratía",
+  "data": [
+    {
+      "label": "Capital and largest city",
+      "value": "Athens 37°58′N 23°43′E ﻿ / ﻿ 37.967°N 23.717°E",
+      "links": [
+        {
+          "text": "Athens",
+          "href": "https://en.wikipedia.org/wiki/Athens"
+        },
+        {
+          "text": "37°58′N23°43′E﻿ / ﻿37.967°N 23.717°E",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Greece&params=37_58_N_23_43_E_type:city"
+        }
+      ]
+    },
+    {
+      "label": "Official language",
+      "value": "Greek",
+      "links": [
+        {
+          "text": "Greek",
+          "href": "https://en.wikipedia.org/wiki/Greek_language"
+        }
+      ]
+    },
+    {
+      "label": "Religion (2017)",
+      "value": "93% Christianity 90% Greek Orthodoxy ( official ) 3% other Christian 4% No religion 2% Islam 1% Others",
+      "links": [
+        {
+          "text": "Christianity",
+          "href": "https://en.wikipedia.org/wiki/Christianity"
+        },
+        {
+          "text": "Greek Orthodoxy",
+          "href": "https://en.wikipedia.org/wiki/Greek_Orthodoxy"
+        },
+        {
+          "text": "official",
+          "href": "https://en.wikipedia.org/wiki/State_religion"
+        },
+        {
+          "text": "Christian",
+          "href": "https://en.wikipedia.org/wiki/List_of_Christian_denominations"
+        },
+        {
+          "text": "No religion",
+          "href": "https://en.wikipedia.org/wiki/Irreligion_in_Greece"
+        },
+        {
+          "text": "Islam",
+          "href": "https://en.wikipedia.org/wiki/Islam_in_Greece"
+        }
+      ],
+      "sub_items": [
+        "93% Christianity 90% Greek Orthodoxy ( official ) 3% other Christian",
+        "93% Christianity 90% Greek Orthodoxy ( official ) 3% other Christian",
+        "90% Greek Orthodoxy ( official )",
+        "3% other Christian",
+        "4% No religion",
+        "2% Islam",
+        "1% Others"
+      ]
+    },
+    {
+      "label": "Demonyms",
+      "value": "Greek Hellene",
+      "links": [
+        {
+          "text": "Greek",
+          "href": "https://en.wikipedia.org/wiki/Greeks"
+        }
+      ],
+      "sub_items": [
+        "Greek",
+        "Hellene"
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Unitary parliamentary republic",
+      "links": [
+        {
+          "text": "Unitary parliamentary republic",
+          "href": "https://en.wikipedia.org/wiki/Unitary_parliamentary_republic"
+        }
+      ]
+    },
+    {
+      "label": "• President",
+      "value": "Konstantinos Tasoulas",
+      "links": [
+        {
+          "text": "Konstantinos Tasoulas",
+          "href": "https://en.wikipedia.org/wiki/Konstantinos_Tasoulas"
+        }
+      ]
+    },
+    {
+      "label": "• Prime Minister",
+      "value": "Kyriakos Mitsotakis",
+      "links": [
+        {
+          "text": "Kyriakos Mitsotakis",
+          "href": "https://en.wikipedia.org/wiki/Kyriakos_Mitsotakis"
+        }
+      ]
+    },
+    {
+      "label": "• President of the Parliament",
+      "value": "Nikitas Kaklamanis",
+      "links": [
+        {
+          "text": "Nikitas Kaklamanis",
+          "href": "https://en.wikipedia.org/wiki/Nikitas_Kaklamanis"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "Hellenic Parliament",
+      "links": [
+        {
+          "text": "Hellenic Parliament",
+          "href": "https://en.wikipedia.org/wiki/Hellenic_Parliament"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Establishment history",
+      "rows": [
+        {
+          "label": "• Greek War of Independence against the Ottoman Empire",
+          "value": "25 March 1821 (traditional starting date)"
+        },
+        {
+          "label": "• Official declaration",
+          "value": "1 January 1822"
+        },
+        {
+          "label": "• Recognition",
+          "value": "3 February 1830"
+        },
+        {
+          "label": "• Third Hellenic Republic",
+          "value": "24 July 1974"
+        },
+        {
+          "label": "• Current constitution",
+          "value": "11 June 1975"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "131,957 km (50,949 sq mi) ( 95th )",
+          "links": [
+            {
+              "text": "95th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "1.51 (2015)"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2025 estimate",
+          "value": "10,372,335 (1 January 2025) ( 90th )",
+          "links": [
+            {
+              "text": "90th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• 2021 census",
+          "value": "10,432,481"
+        },
+        {
+          "label": "• Density",
+          "value": "78.9/km (204.4/sq mi) ( 136th )",
+          "links": [
+            {
+              "text": "136th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$466.945 billion ( 54th )",
+          "links": [
+            {
+              "text": "54th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$44,985 ( 48th )",
+          "links": [
+            {
+              "text": "48th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$282.019 billion ( 50th )",
+          "links": [
+            {
+              "text": "50th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$27,170 ( 45th )",
+          "links": [
+            {
+              "text": "45th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "Gini (2025)",
+          "value": "31.6 medium inequality"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.908 very high ( 34th )",
+          "links": [
+            {
+              "text": "34th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "Euro ( € ) ( EUR )",
+          "links": [
+            {
+              "text": "Euro",
+              "href": "https://en.wikipedia.org/wiki/Euro"
+            },
+            {
+              "text": "€",
+              "href": "https://en.wikipedia.org/wiki/Euro_sign"
+            },
+            {
+              "text": "EUR",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC +02:00 ( EET )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "EET",
+              "href": "https://en.wikipedia.org/wiki/Eastern_European_Time"
+            }
+          ]
+        },
+        {
+          "label": "• Summer ( DST )",
+          "value": "UTC +03:00 ( EEST )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "EEST",
+              "href": "https://en.wikipedia.org/wiki/Eastern_European_Summer_Time"
+            }
+          ]
+        },
+        {
+          "label": "Calling code",
+          "value": "+30",
+          "links": [
+            {
+              "text": "+30",
+              "href": "https://en.wikipedia.org/wiki/Telephone_numbers_in_Greece"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "GR",
+          "links": [
+            {
+              "text": "GR",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:GR"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".gr .ελ",
+          "links": [
+            {
+              "text": ".gr",
+              "href": "https://en.wikipedia.org/wiki/.gr"
+            },
+            {
+              "text": ".ελ",
+              "href": "https://en.wikipedia.org/wiki/.gr#Alternative_top_domain"
+            }
+          ],
+          "sub_items": [
+            ".gr",
+            ".ελ"
+          ]
+        }
+      ]
+    }
+  ]
+}

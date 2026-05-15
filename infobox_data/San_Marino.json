@@ -1,0 +1,347 @@
+{
+  "country": "San Marino",
+  "infobox_title": "Republic of San Marino Repubblica di San Marino ( Italian ) Ripóbblica d' San Marein ( Romagnol )",
+  "data": [
+    {
+      "label": "Capital",
+      "value": "City of San Marino 43°56′N 12°26′E ﻿ / ﻿ 43.933°N 12.433°E",
+      "links": [
+        {
+          "text": "City of San Marino",
+          "href": "https://en.wikipedia.org/wiki/City_of_San_Marino"
+        },
+        {
+          "text": "43°56′N12°26′E﻿ / ﻿43.933°N 12.433°E",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=San_Marino&params=43_56_N_12_26_E_type:city_region:SM"
+        }
+      ]
+    },
+    {
+      "label": "Largest settlement",
+      "value": "Dogana 43°58′53″N 12°29′22″E ﻿ / ﻿ 43.98139°N 12.48944°E",
+      "links": [
+        {
+          "text": "Dogana",
+          "href": "https://en.wikipedia.org/wiki/Dogana"
+        },
+        {
+          "text": "43°58′53″N12°29′22″E﻿ / ﻿43.98139°N 12.48944°E",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=San_Marino&params=43_58_53_N_12_29_22_E_type:city_region:SM"
+        }
+      ]
+    },
+    {
+      "label": "Official languages",
+      "value": "Italian",
+      "links": [
+        {
+          "text": "Italian",
+          "href": "https://en.wikipedia.org/wiki/Italian_language"
+        }
+      ]
+    },
+    {
+      "label": "Other languages",
+      "value": "Romagnol ( Sammarinese )",
+      "links": [
+        {
+          "text": "Romagnol",
+          "href": "https://en.wikipedia.org/wiki/Romagnol"
+        },
+        {
+          "text": "Sammarinese",
+          "href": "https://en.wikipedia.org/wiki/Sammarinese_dialect"
+        }
+      ]
+    },
+    {
+      "label": "Religion",
+      "value": "90.3% Catholicism (2022) 7.5% no religion 1.1% Other Christian denominations (2022) 0.1% Judaism 0.46% Islam (2015) 0.34% other",
+      "links": [
+        {
+          "text": "Catholicism",
+          "href": "https://en.wikipedia.org/wiki/Catholicism"
+        },
+        {
+          "text": "no religion",
+          "href": "https://en.wikipedia.org/wiki/Irreligion"
+        },
+        {
+          "text": "Christian denominations",
+          "href": "https://en.wikipedia.org/wiki/Christian_denominations"
+        },
+        {
+          "text": "Judaism",
+          "href": "https://en.wikipedia.org/wiki/Judaism"
+        },
+        {
+          "text": "Islam",
+          "href": "https://en.wikipedia.org/wiki/Islam"
+        },
+        {
+          "text": "other",
+          "href": "https://en.wikipedia.org/wiki/Religion_in_San_Marino"
+        }
+      ]
+    },
+    {
+      "label": "Demonym",
+      "value": "Sammarinese",
+      "links": [
+        {
+          "text": "Sammarinese",
+          "href": "https://en.wikipedia.org/wiki/Sammarinese"
+        }
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Unitary parliamentary diarchic directorial republic",
+      "links": [
+        {
+          "text": "directorial republic",
+          "href": "https://en.wikipedia.org/wiki/Directorial_system"
+        }
+      ]
+    },
+    {
+      "label": "• Captains Regent",
+      "value": "Matteo Rossi Lorenzo Bugli",
+      "links": [
+        {
+          "text": "Matteo Rossi",
+          "href": "https://en.wikipedia.org/wiki/Matteo_Rossi_(politician)"
+        },
+        {
+          "text": "Lorenzo Bugli",
+          "href": "https://en.wikipedia.org/wiki/Lorenzo_Bugli"
+        }
+      ],
+      "sub_items": [
+        "Matteo Rossi",
+        "Lorenzo Bugli"
+      ]
+    },
+    {
+      "label": "• Secretary of State for Foreign and Political Affairs",
+      "value": "Luca Beccari",
+      "links": [
+        {
+          "text": "Luca Beccari",
+          "href": "https://en.wikipedia.org/wiki/Luca_Beccari"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "Grand and General Council",
+      "links": [
+        {
+          "text": "Grand and General Council",
+          "href": "https://en.wikipedia.org/wiki/Grand_and_General_Council"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Independence",
+      "rows": [
+        {
+          "label": "• From the Roman Empire",
+          "value": "3 September 301 (traditional)"
+        },
+        {
+          "label": "• From the Papal States",
+          "value": "1291"
+        },
+        {
+          "label": "• Constitution",
+          "value": "8 October 1600 (Statutes) 8 July 1974 (Declaration of Citizen Rights)",
+          "sub_items": [
+            "8 October 1600 (Statutes)",
+            "8 July 1974 (Declaration of Citizen Rights)"
+          ]
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "61.19 km (23.63 sq mi) ( 191st )",
+          "links": [
+            {
+              "text": "191st",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "0.0059%"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2026 estimate",
+          "value": "34,172 ( 191st )",
+          "links": [
+            {
+              "text": "191st",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• Density",
+          "value": "579/km (1,499.6/sq mi) ( 24th )",
+          "links": [
+            {
+              "text": "24th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2024 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$2.978 billion ( 176th )",
+          "links": [
+            {
+              "text": "176th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$86,989 ( 12th )",
+          "links": [
+            {
+              "text": "12th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2024 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$2.034 billion ( 171st )",
+          "links": [
+            {
+              "text": "171st",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$59,405 ( 12th )",
+          "links": [
+            {
+              "text": "12th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.915 very high ( 29th )",
+          "links": [
+            {
+              "text": "29th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "Euro ( € ) ( EUR )",
+          "links": [
+            {
+              "text": "Euro",
+              "href": "https://en.wikipedia.org/wiki/Euro"
+            },
+            {
+              "text": "€",
+              "href": "https://en.wikipedia.org/wiki/Euro_sign"
+            },
+            {
+              "text": "EUR",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC +01 ( CET )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "CET",
+              "href": "https://en.wikipedia.org/wiki/Central_European_Time"
+            }
+          ]
+        },
+        {
+          "label": "• Summer ( DST )",
+          "value": "UTC +02 ( CEST )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "CEST",
+              "href": "https://en.wikipedia.org/wiki/Central_European_Summer_Time"
+            }
+          ]
+        },
+        {
+          "label": "Calling code",
+          "value": "+378 (+39 0549 calling via Italy)",
+          "links": [
+            {
+              "text": "+378",
+              "href": "https://en.wikipedia.org/wiki/%2B378"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "SM",
+          "links": [
+            {
+              "text": "SM",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:SM"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".sm",
+          "links": [
+            {
+              "text": ".sm",
+              "href": "https://en.wikipedia.org/wiki/.sm"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

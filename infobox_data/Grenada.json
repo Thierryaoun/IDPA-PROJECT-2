@@ -1,0 +1,333 @@
+{
+  "country": "Grenada",
+  "infobox_title": "Grenada",
+  "data": [
+    {
+      "label": "Capital and largest city",
+      "value": "St. George's 12°3′14″N 61°44′43″W ﻿ / ﻿ 12.05389°N 61.74528°W",
+      "links": [
+        {
+          "text": "St. George's",
+          "href": "https://en.wikipedia.org/wiki/St._George%27s,_Grenada"
+        },
+        {
+          "text": "12°3′14″N61°44′43″W﻿ / ﻿12.05389°N 61.74528°W",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Grenada&params=12_3_14_N_61_44_43_W_type:landmark&title=Grenada+House+of+Parliament"
+        }
+      ]
+    },
+    {
+      "label": "Official languages",
+      "value": "English",
+      "sub_items": [
+        "English"
+      ]
+    },
+    {
+      "label": "Ethnic groups (2020 )",
+      "value": "82.4% African 13.3% Mixed 2.2% Indian 1.3% other 0.9% unspecified",
+      "links": [
+        {
+          "text": "African",
+          "href": "https://en.wikipedia.org/wiki/Afro-Grenadians"
+        },
+        {
+          "text": "Mixed",
+          "href": "https://en.wikipedia.org/wiki/Multiracial_people"
+        },
+        {
+          "text": "Indian",
+          "href": "https://en.wikipedia.org/wiki/Indo-Grenadians"
+        }
+      ],
+      "sub_items": [
+        "82.4% African",
+        "13.3% Mixed",
+        "2.2% Indian",
+        "1.3% other",
+        "0.9% unspecified"
+      ]
+    },
+    {
+      "label": "Religion (2020)",
+      "value": "96.6% Christianity 48.8% Protestantism 39.2% Catholicism 8.6% other Christian 1.3% Hinduism 1.0% no religion 0.7% Rastafari 0.4% other",
+      "links": [
+        {
+          "text": "Christianity",
+          "href": "https://en.wikipedia.org/wiki/Christianity"
+        },
+        {
+          "text": "Protestantism",
+          "href": "https://en.wikipedia.org/wiki/Protestantism"
+        },
+        {
+          "text": "Catholicism",
+          "href": "https://en.wikipedia.org/wiki/Catholic_Church"
+        },
+        {
+          "text": "Hinduism",
+          "href": "https://en.wikipedia.org/wiki/Hinduism"
+        },
+        {
+          "text": "no religion",
+          "href": "https://en.wikipedia.org/wiki/Irreligion"
+        },
+        {
+          "text": "Rastafari",
+          "href": "https://en.wikipedia.org/wiki/Rastafari"
+        }
+      ],
+      "sub_items": [
+        "96.6% Christianity 48.8% Protestantism 39.2% Catholicism 8.6% other Christian",
+        "48.8% Protestantism",
+        "39.2% Catholicism",
+        "8.6% other Christian",
+        "1.3% Hinduism",
+        "1.0% no religion",
+        "0.7% Rastafari",
+        "0.4% other"
+      ]
+    },
+    {
+      "label": "Demonym",
+      "value": "Grenadian",
+      "links": [
+        {
+          "text": "Grenadian",
+          "href": "https://en.wikipedia.org/wiki/Demographics_of_Grenada"
+        }
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Unitary parliamentary constitutional monarchy",
+      "links": [
+        {
+          "text": "constitutional monarchy",
+          "href": "https://en.wikipedia.org/wiki/Constitutional_monarchy"
+        }
+      ]
+    },
+    {
+      "label": "• Monarch",
+      "value": "Charles III",
+      "links": [
+        {
+          "text": "Charles III",
+          "href": "https://en.wikipedia.org/wiki/Charles_III"
+        }
+      ]
+    },
+    {
+      "label": "• Governor-General",
+      "value": "Cécile La Grenade",
+      "links": [
+        {
+          "text": "Cécile La Grenade",
+          "href": "https://en.wikipedia.org/wiki/C%C3%A9cile_La_Grenade"
+        }
+      ]
+    },
+    {
+      "label": "• Prime Minister",
+      "value": "Dickon Mitchell",
+      "links": [
+        {
+          "text": "Dickon Mitchell",
+          "href": "https://en.wikipedia.org/wiki/Dickon_Mitchell"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "Parliament",
+      "links": [
+        {
+          "text": "Parliament",
+          "href": "https://en.wikipedia.org/wiki/Parliament_of_Grenada"
+        }
+      ]
+    },
+    {
+      "label": "• Upper house",
+      "value": "Senate",
+      "links": [
+        {
+          "text": "Senate",
+          "href": "https://en.wikipedia.org/wiki/Senate_of_Grenada"
+        }
+      ]
+    },
+    {
+      "label": "• Lower house",
+      "value": "House of Representatives",
+      "links": [
+        {
+          "text": "House of Representatives",
+          "href": "https://en.wikipedia.org/wiki/House_of_Representatives_of_Grenada"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Formation",
+      "rows": [
+        {
+          "label": "• Associated State",
+          "value": "3 March 1967"
+        },
+        {
+          "label": "• Independence from the United Kingdom",
+          "value": "7 February 1974"
+        },
+        {
+          "label": "• Grenadian Revolution",
+          "value": "13 March 1979"
+        },
+        {
+          "label": "• Constitution Restoration",
+          "value": "4 December 1984"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "344 km (133 sq mi) ( 185th )",
+          "links": [
+            {
+              "text": "185th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "1.6"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2024 estimate",
+          "value": "114,621 ( 180th )",
+          "links": [
+            {
+              "text": "180th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• Density",
+          "value": "333/km (862.5/sq mi) ( 38th )",
+          "links": [
+            {
+              "text": "38th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2023 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$2.3 billion"
+        },
+        {
+          "label": "• Per capita",
+          "value": "$20,195"
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2023 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$1.3 billion"
+        },
+        {
+          "label": "• Per capita",
+          "value": "$11,437"
+        },
+        {
+          "label": "Gini (2018)",
+          "value": "43.8 medium inequality"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.791 high ( 80th )",
+          "links": [
+            {
+              "text": "80th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "Eastern Caribbean dollar ( XCD )",
+          "links": [
+            {
+              "text": "Eastern Caribbean dollar",
+              "href": "https://en.wikipedia.org/wiki/Eastern_Caribbean_dollar"
+            },
+            {
+              "text": "XCD",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC −4 ( AST )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "AST",
+              "href": "https://en.wikipedia.org/wiki/Atlantic_Time_Zone"
+            }
+          ]
+        },
+        {
+          "label": "Date format",
+          "value": "dd/mm/yyyy"
+        },
+        {
+          "label": "Calling code",
+          "value": "+1"
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "GD",
+          "links": [
+            {
+              "text": "GD",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:GD"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".gd",
+          "links": [
+            {
+              "text": ".gd",
+              "href": "https://en.wikipedia.org/wiki/.gd"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

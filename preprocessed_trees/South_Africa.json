@@ -1,0 +1,539 @@
+{
+  "label": "country",
+  "children": [
+    {
+      "label": "name",
+      "children": [
+        {
+          "label": "south africa"
+        }
+      ]
+    },
+    {
+      "label": "infobox_title",
+      "children": [
+        {
+          "label": "republic of south africa 10 other official languages afrikaans : republiek van suid-afrika zulu : iriphabhuliki yaseningizimu afrika xhosa : iriphabhlikhi yomzantsi afrika pedi : repabliki ya afrika-borwa southern sotho : rephaboliki ya afrika borwa tswana : rephaboliki ya aforika borwa tsonga : riphabliki ya afrika dzonga swati : iriphabhulikhi yaseningizimu-afrika venda : riphabuḽiki ya afurika tshipembe southern ndebele : iriphabliki yesewula afrika"
+        }
+      ]
+    },
+    {
+      "label": "afrikaans",
+      "children": [
+        {
+          "label": "republiek van suid-afrika"
+        }
+      ]
+    },
+    {
+      "label": "afrikaans",
+      "children": [
+        {
+          "label": "republiek van suid-afrika"
+        }
+      ]
+    },
+    {
+      "label": "zulu",
+      "children": [
+        {
+          "label": "iriphabhuliki yaseningizimu afrika"
+        }
+      ]
+    },
+    {
+      "label": "xhosa",
+      "children": [
+        {
+          "label": "iriphabhlikhi yomzantsi afrika"
+        }
+      ]
+    },
+    {
+      "label": "pedi",
+      "children": [
+        {
+          "label": "repabliki ya afrika-borwa"
+        }
+      ]
+    },
+    {
+      "label": "southern_sotho",
+      "children": [
+        {
+          "label": "rephaboliki ya afrika borwa"
+        }
+      ]
+    },
+    {
+      "label": "tswana",
+      "children": [
+        {
+          "label": "rephaboliki ya aforika borwa"
+        }
+      ]
+    },
+    {
+      "label": "tsonga",
+      "children": [
+        {
+          "label": "riphabliki ya afrika dzonga"
+        }
+      ]
+    },
+    {
+      "label": "swati",
+      "children": [
+        {
+          "label": "iriphabhulikhi yaseningizimu-afrika"
+        }
+      ]
+    },
+    {
+      "label": "venda",
+      "children": [
+        {
+          "label": "riphabuḽiki ya afurika tshipembe"
+        }
+      ]
+    },
+    {
+      "label": "southern_ndebele",
+      "children": [
+        {
+          "label": "iriphabliki yesewula afrika"
+        }
+      ]
+    },
+    {
+      "label": "capital",
+      "children": [
+        {
+          "label": "pretoria"
+        },
+        {
+          "label": "cape town"
+        },
+        {
+          "label": "bloemfontein"
+        }
+      ]
+    },
+    {
+      "label": "largest_city",
+      "children": [
+        {
+          "label": "johannesburg"
+        }
+      ]
+    },
+    {
+      "label": "official_languages",
+      "children": [
+        {
+          "label": "afrikaans"
+        },
+        {
+          "label": "english"
+        },
+        {
+          "label": "ndebele"
+        },
+        {
+          "label": "sepedi"
+        },
+        {
+          "label": "sesotho"
+        },
+        {
+          "label": "setswana"
+        },
+        {
+          "label": "south african sign language"
+        },
+        {
+          "label": "swazi"
+        },
+        {
+          "label": "tshivenda"
+        },
+        {
+          "label": "xhosa"
+        },
+        {
+          "label": "xitsonga"
+        },
+        {
+          "label": "zulu"
+        },
+        {
+          "label": "khoe languages"
+        },
+        {
+          "label": "nama"
+        },
+        {
+          "label": "khoisan languages"
+        },
+        {
+          "label": "german"
+        },
+        {
+          "label": "greek"
+        },
+        {
+          "label": "gujarati"
+        },
+        {
+          "label": "hindi"
+        },
+        {
+          "label": "portuguese"
+        },
+        {
+          "label": "telugu"
+        },
+        {
+          "label": "tamil"
+        },
+        {
+          "label": "urdu"
+        },
+        {
+          "label": "arabic"
+        },
+        {
+          "label": "hebrew"
+        },
+        {
+          "label": "sanskrit"
+        }
+      ]
+    },
+    {
+      "label": "ethnic_groups_2022",
+      "children": [
+        {
+          "label": "81.4% black"
+        },
+        {
+          "label": "8.2% coloured"
+        },
+        {
+          "label": "7.3% white"
+        },
+        {
+          "label": "2.7% indian or asian"
+        },
+        {
+          "label": "0.4% other"
+        }
+      ]
+    },
+    {
+      "label": "religion_2022",
+      "children": [
+        {
+          "label": "85.3% christianity"
+        },
+        {
+          "label": "7.8% traditional faiths"
+        },
+        {
+          "label": "3.1% no religion"
+        },
+        {
+          "label": "1.6% islam"
+        },
+        {
+          "label": "1.1% hinduism"
+        },
+        {
+          "label": "1.1% other"
+        }
+      ]
+    },
+    {
+      "label": "demonym",
+      "children": [
+        {
+          "label": "south african"
+        }
+      ]
+    },
+    {
+      "label": "government",
+      "children": [
+        {
+          "label": "unitary parliamentary republic with an executive presidency"
+        }
+      ]
+    },
+    {
+      "label": "president",
+      "children": [
+        {
+          "label": "cyril ramaphosa"
+        }
+      ]
+    },
+    {
+      "label": "deputy_president",
+      "children": [
+        {
+          "label": "paul mashatile"
+        }
+      ]
+    },
+    {
+      "label": "speaker_of_the_national_assembly",
+      "children": [
+        {
+          "label": "thoko didiza"
+        }
+      ]
+    },
+    {
+      "label": "chairperson_of_the_national_council_of_provinces",
+      "children": [
+        {
+          "label": "refilwe mtsweni-tsipane"
+        }
+      ]
+    },
+    {
+      "label": "chief_justice",
+      "children": [
+        {
+          "label": "mandisa maya"
+        }
+      ]
+    },
+    {
+      "label": "legislature",
+      "children": [
+        {
+          "label": "parliament"
+        }
+      ]
+    },
+    {
+      "label": "upper_house",
+      "children": [
+        {
+          "label": "national council of provinces"
+        }
+      ]
+    },
+    {
+      "label": "lower_house",
+      "children": [
+        {
+          "label": "national assembly"
+        }
+      ]
+    },
+    {
+      "label": "independence_from_the_united_kingdom",
+      "children": [
+        {
+          "label": "union",
+          "children": [
+            {
+              "label": "31 may 1910"
+            }
+          ]
+        },
+        {
+          "label": "statute_of_westminster",
+          "children": [
+            {
+              "label": "11 december 1931"
+            }
+          ]
+        },
+        {
+          "label": "republic",
+          "children": [
+            {
+              "label": "31 may 1961"
+            }
+          ]
+        },
+        {
+          "label": "current_constitution",
+          "children": [
+            {
+              "label": "4 february 1997"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "area",
+      "children": [
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "1,221,037 km"
+            }
+          ]
+        },
+        {
+          "label": "water",
+          "children": [
+            {
+              "label": "0.380"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "population",
+      "children": [
+        {
+          "label": "2024_estimate",
+          "children": [
+            {
+              "label": "63,015,904"
+            }
+          ]
+        },
+        {
+          "label": "2022_census",
+          "children": [
+            {
+              "label": "62,027,503"
+            }
+          ]
+        },
+        {
+          "label": "density",
+          "children": [
+            {
+              "label": "50.8/km"
+            }
+          ]
+        },
+        {
+          "label": "gdp_ppp",
+          "children": [
+            {
+              "label": "2026 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$1.060 trillion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$16,280"
+            }
+          ]
+        },
+        {
+          "label": "gdp_nominal",
+          "children": [
+            {
+              "label": "2026 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$443.64 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$6,830"
+            }
+          ]
+        },
+        {
+          "label": "gini_2023",
+          "children": [
+            {
+              "label": "63.0 very high inequality"
+            }
+          ]
+        },
+        {
+          "label": "hdi_2023",
+          "children": [
+            {
+              "label": "0.741 high"
+            }
+          ]
+        },
+        {
+          "label": "currency",
+          "children": [
+            {
+              "label": "south african rand"
+            }
+          ]
+        },
+        {
+          "label": "time_zone",
+          "children": [
+            {
+              "label": "utc +2"
+            }
+          ]
+        },
+        {
+          "label": "date_format",
+          "children": [
+            {
+              "label": "yyyy/mm/dd"
+            },
+            {
+              "label": "yyyy-mm-dd"
+            }
+          ]
+        },
+        {
+          "label": "calling_code",
+          "children": [
+            {
+              "label": "+27"
+            }
+          ]
+        },
+        {
+          "label": "iso_3166_code",
+          "children": [
+            {
+              "label": "za"
+            }
+          ]
+        },
+        {
+          "label": "internet_tld",
+          "children": [
+            {
+              "label": ".za"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

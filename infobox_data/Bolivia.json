@@ -1,0 +1,372 @@
+{
+  "country": "Bolivia",
+  "infobox_title": "Plurinational State of Bolivia Estado Plurinacional de Bolivia ( Spanish ) Puliwya Achka Aylluska Mamallaqta ( Quechua ) Wuliwya Walja Ayllunakana Marka ( Aymara ) Tetã Hetate'ýigua Volívia ( Guarani )",
+  "data": [
+    {
+      "label": "Capital",
+      "value": "Sucre",
+      "links": [
+        {
+          "text": "Sucre",
+          "href": "https://en.wikipedia.org/wiki/Sucre"
+        }
+      ]
+    },
+    {
+      "label": "Administrative center",
+      "value": "La Paz",
+      "links": [
+        {
+          "text": "La Paz",
+          "href": "https://en.wikipedia.org/wiki/La_Paz"
+        }
+      ]
+    },
+    {
+      "label": "Largest city",
+      "value": "Santa Cruz 17°48′S 63°10′W ﻿ / ﻿ 17.800°S 63.167°W",
+      "links": [
+        {
+          "text": "Santa Cruz",
+          "href": "https://en.wikipedia.org/wiki/Santa_Cruz_de_la_Sierra"
+        },
+        {
+          "text": "17°48′S63°10′W﻿ / ﻿17.800°S 63.167°W",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Bolivia&params=17_48_S_63_10_W_"
+        }
+      ]
+    },
+    {
+      "label": "Official languages",
+      "value": "Spanish Quechua Aymara Guarani Other indigenous languages",
+      "links": [
+        {
+          "text": "Spanish",
+          "href": "https://en.wikipedia.org/wiki/Bolivian_Spanish"
+        },
+        {
+          "text": "Quechua",
+          "href": "https://en.wikipedia.org/wiki/Quechuan_languages"
+        },
+        {
+          "text": "Aymara",
+          "href": "https://en.wikipedia.org/wiki/Aymara_language"
+        },
+        {
+          "text": "Guarani",
+          "href": "https://en.wikipedia.org/wiki/Guarani_language"
+        },
+        {
+          "text": "Other indigenous languages",
+          "href": "https://en.wikipedia.org/wiki/Languages_of_Bolivia"
+        }
+      ],
+      "sub_items": [
+        "Spanish",
+        "Quechua",
+        "Aymara",
+        "Guarani",
+        "Other indigenous languages"
+      ]
+    },
+    {
+      "label": "Religion (2020)",
+      "value": "92.8% Christianity 81.4% Catholicism 11.4% other Christian 6.5% no religion 0.7% other",
+      "links": [
+        {
+          "text": "Christianity",
+          "href": "https://en.wikipedia.org/wiki/Christianity"
+        },
+        {
+          "text": "Catholicism",
+          "href": "https://en.wikipedia.org/wiki/Catholic_Church_in_Bolivia"
+        },
+        {
+          "text": "Christian",
+          "href": "https://en.wikipedia.org/wiki/List_of_Christian_denominations"
+        },
+        {
+          "text": "no religion",
+          "href": "https://en.wikipedia.org/wiki/Irreligion_in_Latin_America"
+        },
+        {
+          "text": "other",
+          "href": "https://en.wikipedia.org/wiki/Religion_in_Bolivia"
+        }
+      ],
+      "sub_items": [
+        "92.8% Christianity 81.4% Catholicism 11.4% other Christian",
+        "92.8% Christianity 81.4% Catholicism 11.4% other Christian",
+        "81.4% Catholicism",
+        "11.4% other Christian",
+        "6.5% no religion",
+        "0.7% other"
+      ]
+    },
+    {
+      "label": "Demonym",
+      "value": "Bolivian",
+      "links": [
+        {
+          "text": "Bolivian",
+          "href": "https://en.wikipedia.org/wiki/Bolivian_people"
+        }
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Unitary presidential republic",
+      "links": [
+        {
+          "text": "presidential republic",
+          "href": "https://en.wikipedia.org/wiki/Presidential_republic"
+        }
+      ]
+    },
+    {
+      "label": "• President",
+      "value": "Rodrigo Paz",
+      "links": [
+        {
+          "text": "Rodrigo Paz",
+          "href": "https://en.wikipedia.org/wiki/Rodrigo_Paz"
+        }
+      ]
+    },
+    {
+      "label": "• Vice President",
+      "value": "Edmand Lara",
+      "links": [
+        {
+          "text": "Edmand Lara",
+          "href": "https://en.wikipedia.org/wiki/Edmand_Lara"
+        }
+      ]
+    },
+    {
+      "label": "• President of the Senate",
+      "value": "Diego Ávila"
+    },
+    {
+      "label": "• President of the Chamber of Deputies",
+      "value": "Roberto Castro Salazar"
+    },
+    {
+      "label": "Legislature",
+      "value": "Plurinational Legislative Assembly",
+      "links": [
+        {
+          "text": "Plurinational Legislative Assembly",
+          "href": "https://en.wikipedia.org/wiki/Plurinational_Legislative_Assembly"
+        }
+      ]
+    },
+    {
+      "label": "• Upper house",
+      "value": "Chamber of Senators",
+      "links": [
+        {
+          "text": "Chamber of Senators",
+          "href": "https://en.wikipedia.org/wiki/Chamber_of_Senators_(Bolivia)"
+        }
+      ]
+    },
+    {
+      "label": "• Lower house",
+      "value": "Chamber of Deputies",
+      "links": [
+        {
+          "text": "Chamber of Deputies",
+          "href": "https://en.wikipedia.org/wiki/Chamber_of_Deputies_(Bolivia)"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Independence from Spain",
+      "rows": [
+        {
+          "label": "• Declared",
+          "value": "6 August 1825"
+        },
+        {
+          "label": "• Recognized",
+          "value": "21 July 1847"
+        },
+        {
+          "label": "• Current constitution",
+          "value": "7 February 2009"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "1,098,581 km (424,164 sq mi) ( 27th )",
+          "links": [
+            {
+              "text": "27th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "1.29"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2024 census",
+          "value": "11,365,333 ( 84th )",
+          "links": [
+            {
+              "text": "84th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• Density",
+          "value": "10.4/km (26.9/sq mi) ( 224th )",
+          "links": [
+            {
+              "text": "224th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$144.098 billion ( 94th )",
+          "links": [
+            {
+              "text": "94th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$11,574 ( 120th )",
+          "links": [
+            {
+              "text": "120th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$56.339 billion ( 94th )",
+          "links": [
+            {
+              "text": "94th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$4,525 ( 126th )",
+          "links": [
+            {
+              "text": "126th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "Gini (2021)",
+          "value": "40.9 medium inequality"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.733 high ( 108th )",
+          "links": [
+            {
+              "text": "108th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "Boliviano ( BOB )",
+          "links": [
+            {
+              "text": "Boliviano",
+              "href": "https://en.wikipedia.org/wiki/Bolivian_boliviano"
+            },
+            {
+              "text": "BOB",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC −04:00 ( BOT )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "BOT",
+              "href": "https://en.wikipedia.org/wiki/UTC%E2%88%9204:00"
+            }
+          ]
+        },
+        {
+          "label": "Date format",
+          "value": "dd/mm/yyyy"
+        },
+        {
+          "label": "Calling code",
+          "value": "+591",
+          "links": [
+            {
+              "text": "+591",
+              "href": "https://en.wikipedia.org/wiki/Telephone_numbers_in_Bolivia"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "BO",
+          "links": [
+            {
+              "text": "BO",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:BO"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".bo",
+          "links": [
+            {
+              "text": ".bo",
+              "href": "https://en.wikipedia.org/wiki/.bo"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

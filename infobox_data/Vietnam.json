@@ -1,0 +1,421 @@
+{
+  "country": "Vietnam",
+  "infobox_title": "Socialist Republic of Viet Nam Cộng hòa Xã hội chủ nghĩa Việt Nam ( Vietnamese )",
+  "data": [
+    {
+      "label": "Capital",
+      "value": "Hanoi 21°2′N 105°51′E ﻿ / ﻿ 21.033°N 105.850°E",
+      "links": [
+        {
+          "text": "Hanoi",
+          "href": "https://en.wikipedia.org/wiki/Hanoi"
+        },
+        {
+          "text": "21°2′N105°51′E﻿ / ﻿21.033°N 105.850°E",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Vietnam&params=21_2_N_105_51_E_type:city"
+        }
+      ]
+    },
+    {
+      "label": "Largest city by municipal boundary",
+      "value": "Da Nang 16°20′N 107°35′E ﻿ / ﻿ 16.333°N 107.583°E",
+      "links": [
+        {
+          "text": "Da Nang",
+          "href": "https://en.wikipedia.org/wiki/Da_Nang"
+        },
+        {
+          "text": "16°20′N107°35′E﻿ / ﻿16.333°N 107.583°E",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Vietnam&params=16_20_N_107_35_E_type:city"
+        }
+      ]
+    },
+    {
+      "label": "Largest city by urban population",
+      "value": "Ho Chi Minh City 10°48′N 106°39′E ﻿ / ﻿ 10.800°N 106.650°E",
+      "links": [
+        {
+          "text": "Ho Chi Minh City",
+          "href": "https://en.wikipedia.org/wiki/Ho_Chi_Minh_City"
+        },
+        {
+          "text": "10°48′N106°39′E﻿ / ﻿10.800°N 106.650°E",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Vietnam&params=10_48_N_106_39_E_type:city"
+        }
+      ]
+    },
+    {
+      "label": "Official language",
+      "value": "Vietnamese",
+      "links": [
+        {
+          "text": "Vietnamese",
+          "href": "https://en.wikipedia.org/wiki/Vietnamese_language"
+        }
+      ]
+    },
+    {
+      "label": "Ethnic groups (2019)",
+      "value": "85.32% Kinh Vietnamese 14.68% other",
+      "links": [
+        {
+          "text": "Kinh Vietnamese",
+          "href": "https://en.wikipedia.org/wiki/Kinh_Vietnamese"
+        },
+        {
+          "text": "other",
+          "href": "https://en.wikipedia.org/wiki/List_of_ethnic_groups_in_Vietnam"
+        }
+      ],
+      "sub_items": [
+        "85.32% Kinh Vietnamese",
+        "14.68% other"
+      ]
+    },
+    {
+      "label": "Religion (2019)",
+      "value": "86.32% no religion / folk 6.1% Catholicism 4.79% Buddhism 1.02% Hoahaoism 1% Protestantism 0.58% Caodaism 0.07% Islam 0.12% other",
+      "links": [
+        {
+          "text": "no religion",
+          "href": "https://en.wikipedia.org/wiki/Irreligion"
+        },
+        {
+          "text": "folk",
+          "href": "https://en.wikipedia.org/wiki/Vietnamese_folk_religion"
+        },
+        {
+          "text": "Catholicism",
+          "href": "https://en.wikipedia.org/wiki/Catholic_Church_in_Vietnam"
+        },
+        {
+          "text": "Buddhism",
+          "href": "https://en.wikipedia.org/wiki/Buddhism_in_Vietnam"
+        },
+        {
+          "text": "Hoahaoism",
+          "href": "https://en.wikipedia.org/wiki/H%C3%B2a_H%E1%BA%A3o"
+        },
+        {
+          "text": "Protestantism",
+          "href": "https://en.wikipedia.org/wiki/Protestantism_in_Vietnam"
+        },
+        {
+          "text": "Caodaism",
+          "href": "https://en.wikipedia.org/wiki/Caodaism"
+        },
+        {
+          "text": "Islam",
+          "href": "https://en.wikipedia.org/wiki/Islam_in_Vietnam"
+        },
+        {
+          "text": "other",
+          "href": "https://en.wikipedia.org/wiki/Religion_in_Vietnam"
+        }
+      ],
+      "sub_items": [
+        "86.32% no religion / folk",
+        "6.1% Catholicism",
+        "4.79% Buddhism",
+        "1.02% Hoahaoism",
+        "1% Protestantism",
+        "0.58% Caodaism",
+        "0.07% Islam",
+        "0.12% other"
+      ]
+    },
+    {
+      "label": "Demonyms",
+      "value": "Vietnamese Viet (colloquial)",
+      "links": [
+        {
+          "text": "Vietnamese",
+          "href": "https://en.wikipedia.org/wiki/Vietnamese_people"
+        }
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Unitary communist state",
+      "links": [
+        {
+          "text": "communist state",
+          "href": "https://en.wikipedia.org/wiki/Communist_state"
+        }
+      ]
+    },
+    {
+      "label": "• General Secretary",
+      "value": "Tô Lâm",
+      "links": [
+        {
+          "text": "Tô Lâm",
+          "href": "https://en.wikipedia.org/wiki/T%C3%B4_L%C3%A2m"
+        }
+      ]
+    },
+    {
+      "label": "• President",
+      "value": "Lương Cường",
+      "links": [
+        {
+          "text": "Lương Cường",
+          "href": "https://en.wikipedia.org/wiki/L%C6%B0%C6%A1ng_C%C6%B0%E1%BB%9Dng"
+        }
+      ]
+    },
+    {
+      "label": "• Prime Minister",
+      "value": "Phạm Minh Chính",
+      "links": [
+        {
+          "text": "Phạm Minh Chính",
+          "href": "https://en.wikipedia.org/wiki/Ph%E1%BA%A1m_Minh_Ch%C3%ADnh"
+        }
+      ]
+    },
+    {
+      "label": "• National Assembly Chairman",
+      "value": "Trần Thanh Mẫn",
+      "links": [
+        {
+          "text": "Trần Thanh Mẫn",
+          "href": "https://en.wikipedia.org/wiki/Tr%E1%BA%A7n_Thanh_M%E1%BA%ABn"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "National Assembly",
+      "links": [
+        {
+          "text": "National Assembly",
+          "href": "https://en.wikipedia.org/wiki/National_Assembly_of_Vietnam"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Formation",
+      "rows": [
+        {
+          "label": "• Văn Lang",
+          "value": "7th century BC"
+        },
+        {
+          "label": "• Âu Lạc",
+          "value": "3rd century BC"
+        },
+        {
+          "label": "• Han's annexation",
+          "value": "111 BC"
+        },
+        {
+          "label": "• Independence from China",
+          "value": "939"
+        },
+        {
+          "label": "• Regaining independence",
+          "value": "1428"
+        },
+        {
+          "label": "• Nguyễn 's unification",
+          "value": "1802"
+        },
+        {
+          "label": "• Protectorate Treaty",
+          "value": "25 August 1883"
+        },
+        {
+          "label": "• Declaration of independence",
+          "value": "2 September 1945"
+        },
+        {
+          "label": "• North–South partition",
+          "value": "21 July 1954"
+        },
+        {
+          "label": "• End of Vietnam War",
+          "value": "30 April 1975"
+        },
+        {
+          "label": "• Reunification",
+          "value": "2 July 1976"
+        },
+        {
+          "label": "• Current constitution",
+          "value": "28 November 2013"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "331,344.82 km (127,932.95 sq mi) ( 66th )",
+          "links": [
+            {
+              "text": "66th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "6.38"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2025 estimate",
+          "value": "102,300,000 ( 16th )",
+          "links": [
+            {
+              "text": "16th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• 2019 census",
+          "value": "96,208,984"
+        },
+        {
+          "label": "• Density",
+          "value": "309/km (800.3/sq mi) ( 43th )",
+          "links": [
+            {
+              "text": "43th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$1.786 trillion ( 23rd )",
+          "links": [
+            {
+              "text": "23rd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$17,484 ( 104th )",
+          "links": [
+            {
+              "text": "104th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$490.970 billion ( 33rd )",
+          "links": [
+            {
+              "text": "33rd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$4,806 ( 119th )",
+          "links": [
+            {
+              "text": "119th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "Gini (2022)",
+          "value": "36.1 medium inequality"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.766 high ( 93rd )",
+          "links": [
+            {
+              "text": "93rd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "Vietnamese đồng (₫) ( VND )",
+          "links": [
+            {
+              "text": "Vietnamese đồng",
+              "href": "https://en.wikipedia.org/wiki/Vietnamese_%C4%91%E1%BB%93ng"
+            },
+            {
+              "text": "VND",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC +07:00 ( Vietnam Standard Time )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "Vietnam Standard Time",
+              "href": "https://en.wikipedia.org/wiki/UTC%2B07:00"
+            }
+          ]
+        },
+        {
+          "label": "Calling code",
+          "value": "+84",
+          "links": [
+            {
+              "text": "+84",
+              "href": "https://en.wikipedia.org/wiki/Telephone_numbers_in_Vietnam"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "VN",
+          "links": [
+            {
+              "text": "VN",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:VN"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".vn",
+          "links": [
+            {
+              "text": ".vn",
+              "href": "https://en.wikipedia.org/wiki/.vn"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

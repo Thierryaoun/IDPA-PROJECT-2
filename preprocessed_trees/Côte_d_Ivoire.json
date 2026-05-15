@@ -1,0 +1,390 @@
+{
+  "label": "country",
+  "children": [
+    {
+      "label": "name",
+      "children": [
+        {
+          "label": "côte d'ivoire"
+        }
+      ]
+    },
+    {
+      "label": "infobox_title",
+      "children": [
+        {
+          "label": "republic of côte d'ivoire république de côte d'ivoire kɔdiwari jamana"
+        }
+      ]
+    },
+    {
+      "label": "capital",
+      "children": [
+        {
+          "label": "yamoussoukro / 6."
+        }
+      ]
+    },
+    {
+      "label": "largest_city",
+      "children": [
+        {
+          "label": "abidjan"
+        }
+      ]
+    },
+    {
+      "label": "official_languages",
+      "children": [
+        {
+          "label": "french"
+        }
+      ]
+    },
+    {
+      "label": "vernacular_languages",
+      "children": [
+        {
+          "label": "english"
+        },
+        {
+          "label": "french"
+        },
+        {
+          "label": "arabic"
+        },
+        {
+          "label": "bété"
+        },
+        {
+          "label": "dyula"
+        },
+        {
+          "label": "baoulé"
+        },
+        {
+          "label": "abron"
+        },
+        {
+          "label": "agni"
+        },
+        {
+          "label": "senoufo"
+        },
+        {
+          "label": "others"
+        }
+      ]
+    },
+    {
+      "label": "ethnic_groups_2021_census",
+      "children": [
+        {
+          "label": "78.0% ivorian"
+        },
+        {
+          "label": "38.0% akan"
+        },
+        {
+          "label": "22.0% northern mande"
+        },
+        {
+          "label": "9.1% kru"
+        },
+        {
+          "label": "8.6% southern mande"
+        },
+        {
+          "label": "0.3% naturalized ivorian"
+        },
+        {
+          "label": "22.0% voltaiques/gur"
+        },
+        {
+          "label": "22.0% non-ivorian"
+        }
+      ]
+    },
+    {
+      "label": "religion_2021_census",
+      "children": [
+        {
+          "label": "42.5% islam"
+        },
+        {
+          "label": "39.8% christianity"
+        },
+        {
+          "label": "12.6% no religion"
+        },
+        {
+          "label": "2.2% traditional faiths"
+        },
+        {
+          "label": "2.2% unanswered"
+        },
+        {
+          "label": "0.7% other religions"
+        }
+      ]
+    },
+    {
+      "label": "demonyms",
+      "children": [
+        {
+          "label": "ivorian"
+        },
+        {
+          "label": "ivory coasters"
+        }
+      ]
+    },
+    {
+      "label": "government",
+      "children": [
+        {
+          "label": "unitary presidential republic under an authoritarian regime"
+        }
+      ]
+    },
+    {
+      "label": "president",
+      "children": [
+        {
+          "label": "alassane ouattara"
+        }
+      ]
+    },
+    {
+      "label": "vice_president",
+      "children": [
+        {
+          "label": "tiémoko meyliet koné"
+        }
+      ]
+    },
+    {
+      "label": "prime_minister",
+      "children": [
+        {
+          "label": "robert beugré mambé"
+        }
+      ]
+    },
+    {
+      "label": "deputy_vice_prime_minister",
+      "children": [
+        {
+          "label": "téné birahima ouattara"
+        }
+      ]
+    },
+    {
+      "label": "legislature",
+      "children": [
+        {
+          "label": "parliament of ivory coast"
+        }
+      ]
+    },
+    {
+      "label": "upper_house",
+      "children": [
+        {
+          "label": "senate"
+        }
+      ]
+    },
+    {
+      "label": "lower_house",
+      "children": [
+        {
+          "label": "national assembly"
+        }
+      ]
+    },
+    {
+      "label": "history",
+      "children": [
+        {
+          "label": "republic_established",
+          "children": [
+            {
+              "label": "4 december 1958"
+            }
+          ]
+        },
+        {
+          "label": "independence_from_france",
+          "children": [
+            {
+              "label": "7 august 1960"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "area",
+      "children": [
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "322,462 km"
+            }
+          ]
+        },
+        {
+          "label": "water",
+          "children": [
+            {
+              "label": "1.4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "population",
+      "children": [
+        {
+          "label": "july_2024_estimate",
+          "children": [
+            {
+              "label": "31,500,000"
+            }
+          ]
+        },
+        {
+          "label": "december_2021_census",
+          "children": [
+            {
+              "label": "29,389,150"
+            }
+          ]
+        },
+        {
+          "label": "density",
+          "children": [
+            {
+              "label": "97.7/km"
+            }
+          ]
+        },
+        {
+          "label": "gdp_ppp",
+          "children": [
+            {
+              "label": "2023 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$202.647 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$6,960"
+            }
+          ]
+        },
+        {
+          "label": "gdp_nominal",
+          "children": [
+            {
+              "label": "2023 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$79.430 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$2,728"
+            }
+          ]
+        },
+        {
+          "label": "gini_2021",
+          "children": [
+            {
+              "label": "35.3 medium inequality"
+            }
+          ]
+        },
+        {
+          "label": "hdi_2023",
+          "children": [
+            {
+              "label": "0.582 medium"
+            }
+          ]
+        },
+        {
+          "label": "currency",
+          "children": [
+            {
+              "label": "west african cfa franc"
+            }
+          ]
+        },
+        {
+          "label": "time_zone",
+          "children": [
+            {
+              "label": "utc ±00:00"
+            }
+          ]
+        },
+        {
+          "label": "date_format",
+          "children": [
+            {
+              "label": "dd/mm/yyyy"
+            }
+          ]
+        },
+        {
+          "label": "calling_code",
+          "children": [
+            {
+              "label": "+225"
+            }
+          ]
+        },
+        {
+          "label": "iso_3166_code",
+          "children": [
+            {
+              "label": "ci"
+            }
+          ]
+        },
+        {
+          "label": "internet_tld",
+          "children": [
+            {
+              "label": ".ci"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

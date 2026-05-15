@@ -1,0 +1,308 @@
+{
+  "label": "country",
+  "children": [
+    {
+      "label": "name",
+      "children": [
+        {
+          "label": "tonga"
+        }
+      ]
+    },
+    {
+      "label": "infobox_title",
+      "children": [
+        {
+          "label": "kingdom of tonga puleʻanga fakatuʻi ʻo tonga"
+        }
+      ]
+    },
+    {
+      "label": "capital_and_largest_city",
+      "children": [
+        {
+          "label": "nukuʻalofa / 21."
+        }
+      ]
+    },
+    {
+      "label": "official_languages",
+      "children": [
+        {
+          "label": "tongan"
+        },
+        {
+          "label": "english"
+        }
+      ]
+    },
+    {
+      "label": "ethnic_groups_2021",
+      "children": [
+        {
+          "label": "96.5% tongan"
+        },
+        {
+          "label": "3.5% others"
+        }
+      ]
+    },
+    {
+      "label": "religion_2016",
+      "children": [
+        {
+          "label": "96.9% christianity"
+        },
+        {
+          "label": "64.1% protestantism"
+        },
+        {
+          "label": "18.6% mormonism"
+        },
+        {
+          "label": "14.2% catholicism"
+        },
+        {
+          "label": "0.5% no religion"
+        },
+        {
+          "label": "0.1% unspecified"
+        },
+        {
+          "label": "2.4% others"
+        }
+      ]
+    },
+    {
+      "label": "demonym",
+      "children": [
+        {
+          "label": "tongan"
+        }
+      ]
+    },
+    {
+      "label": "government",
+      "children": [
+        {
+          "label": "unitary parliamentary semi-constitutional monarchy"
+        }
+      ]
+    },
+    {
+      "label": "monarch",
+      "children": [
+        {
+          "label": "tupou vi"
+        }
+      ]
+    },
+    {
+      "label": "prime_minister",
+      "children": [
+        {
+          "label": "fatafehi fakafānua"
+        }
+      ]
+    },
+    {
+      "label": "assembly_speaker",
+      "children": [
+        {
+          "label": "ʻalipate tuʻivanuavou vaea"
+        }
+      ]
+    },
+    {
+      "label": "legislature",
+      "children": [
+        {
+          "label": "legislative assembly"
+        }
+      ]
+    },
+    {
+      "label": "formation",
+      "children": [
+        {
+          "label": "unification",
+          "children": [
+            {
+              "label": "c. 1845"
+            }
+          ]
+        },
+        {
+          "label": "treaty_of_friendship",
+          "children": [
+            {
+              "label": "18 may 1900"
+            }
+          ]
+        },
+        {
+          "label": "independence_from_the_united_kingdom",
+          "children": [
+            {
+              "label": "4 june 1970"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "area",
+      "children": [
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "748 km"
+            }
+          ]
+        },
+        {
+          "label": "water",
+          "children": [
+            {
+              "label": "4.0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "population",
+      "children": [
+        {
+          "label": "2021_census",
+          "children": [
+            {
+              "label": "100,209"
+            }
+          ]
+        },
+        {
+          "label": "density",
+          "children": [
+            {
+              "label": "139/km"
+            }
+          ]
+        },
+        {
+          "label": "gdp_ppp",
+          "children": [
+            {
+              "label": "2019 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$655 million"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$6,496"
+            }
+          ]
+        },
+        {
+          "label": "gdp_nominal",
+          "children": [
+            {
+              "label": "2019 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$493 million"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$4,888"
+            }
+          ]
+        },
+        {
+          "label": "gini_2021",
+          "children": [
+            {
+              "label": "27.1 low inequality"
+            }
+          ]
+        },
+        {
+          "label": "hdi_2022",
+          "children": [
+            {
+              "label": "0.739 high"
+            }
+          ]
+        },
+        {
+          "label": "currency",
+          "children": [
+            {
+              "label": "paʻanga"
+            }
+          ]
+        },
+        {
+          "label": "time_zone",
+          "children": [
+            {
+              "label": "utc +13"
+            }
+          ]
+        },
+        {
+          "label": "date_format",
+          "children": [
+            {
+              "label": "dd/mm/yyyy"
+            }
+          ]
+        },
+        {
+          "label": "calling_code",
+          "children": [
+            {
+              "label": "+676"
+            }
+          ]
+        },
+        {
+          "label": "iso_3166_code",
+          "children": [
+            {
+              "label": "to"
+            }
+          ]
+        },
+        {
+          "label": "internet_tld",
+          "children": [
+            {
+              "label": ".to"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

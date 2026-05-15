@@ -1,0 +1,357 @@
+{
+  "country": "Iran (Islamic Republic of)",
+  "infobox_title": "Islamic Republic of Iran جمهوری اسلامی ایران ( Persian ) Jomhuri-ye Eslâmi-ye Irân",
+  "data": [
+    {
+      "label": "Capital and largest city",
+      "value": "Tehran 35°41′N 51°25′E ﻿ / ﻿ 35.683°N 51.417°E",
+      "links": [
+        {
+          "text": "Tehran",
+          "href": "https://en.wikipedia.org/wiki/Tehran"
+        },
+        {
+          "text": "35°41′N51°25′E﻿ / ﻿35.683°N 51.417°E",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Iran&params=35_41_N_51_25_E_type:city"
+        }
+      ]
+    },
+    {
+      "label": "Official languages",
+      "value": "Persian",
+      "links": [
+        {
+          "text": "Persian",
+          "href": "https://en.wikipedia.org/wiki/Persian_language"
+        }
+      ]
+    },
+    {
+      "label": "Demonym",
+      "value": "Iranian",
+      "links": [
+        {
+          "text": "Iranian",
+          "href": "https://en.wikipedia.org/wiki/Demographics_of_Iran"
+        }
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Unitary presidential theocratic Islamic republic",
+      "links": [
+        {
+          "text": "presidential",
+          "href": "https://en.wikipedia.org/wiki/Presidential_system"
+        },
+        {
+          "text": "Islamic republic",
+          "href": "https://en.wikipedia.org/wiki/Islamic_republic"
+        }
+      ]
+    },
+    {
+      "label": "• Supreme Leader",
+      "value": "Mojtaba Khamenei",
+      "links": [
+        {
+          "text": "Mojtaba Khamenei",
+          "href": "https://en.wikipedia.org/wiki/Mojtaba_Khamenei"
+        }
+      ]
+    },
+    {
+      "label": "• President",
+      "value": "Masoud Pezeshkian",
+      "links": [
+        {
+          "text": "Masoud Pezeshkian",
+          "href": "https://en.wikipedia.org/wiki/Masoud_Pezeshkian"
+        }
+      ]
+    },
+    {
+      "label": "• Vice President",
+      "value": "Mohammad Reza Aref",
+      "links": [
+        {
+          "text": "Mohammad Reza Aref",
+          "href": "https://en.wikipedia.org/wiki/Mohammad_Reza_Aref"
+        }
+      ]
+    },
+    {
+      "label": "• Speaker of the Assembly",
+      "value": "Mohammad Bagher Ghalibaf",
+      "links": [
+        {
+          "text": "Mohammad Bagher Ghalibaf",
+          "href": "https://en.wikipedia.org/wiki/Mohammad_Bagher_Ghalibaf"
+        }
+      ]
+    },
+    {
+      "label": "• Chief Justice",
+      "value": "Gholam-Hossein Mohseni-Eje'i",
+      "links": [
+        {
+          "text": "Gholam-Hossein Mohseni-Eje'i",
+          "href": "https://en.wikipedia.org/wiki/Gholam-Hossein_Mohseni-Eje%27i"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "Islamic Consultative Assembly",
+      "links": [
+        {
+          "text": "Islamic Consultative Assembly",
+          "href": "https://en.wikipedia.org/wiki/Islamic_Consultative_Assembly"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Formation",
+      "rows": [
+        {
+          "label": "• Median kingdom",
+          "value": "c. 678 BC"
+        },
+        {
+          "label": "• Achaemenid Empire",
+          "value": "550 BC"
+        },
+        {
+          "label": "• Parthian Empire",
+          "value": "247 BC"
+        },
+        {
+          "label": "• Sasanian Empire",
+          "value": "224 AD"
+        },
+        {
+          "label": "• Iranian Intermezzo",
+          "value": "821"
+        },
+        {
+          "label": "• Safavid Iran",
+          "value": "22 December 1501"
+        },
+        {
+          "label": "• Afsharid Iran",
+          "value": "22 January 1736"
+        },
+        {
+          "label": "• Zand Iran",
+          "value": "1751"
+        },
+        {
+          "label": "• Qajar Iran",
+          "value": "20 March 1794"
+        },
+        {
+          "label": "• Constitutional Revolution",
+          "value": "12 December 1905"
+        },
+        {
+          "label": "• Pahlavi Iran",
+          "value": "15 December 1925"
+        },
+        {
+          "label": "• Iranian Revolution",
+          "value": "11 February 1979"
+        },
+        {
+          "label": "• Islamic Republic established",
+          "value": "1 April 1979"
+        },
+        {
+          "label": "• Current constitution",
+          "value": "3 December 1979"
+        },
+        {
+          "label": "• Constitutional amendment",
+          "value": "28 July 1989"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "1,648,195 km (636,372 sq mi) ( 17th )",
+          "links": [
+            {
+              "text": "17th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "1.63 (as of 2015)"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2025 estimate",
+          "value": "92,417,681 ( 17th )",
+          "links": [
+            {
+              "text": "17th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• Density",
+          "value": "52/km (134.7/sq mi) ( 163rd )",
+          "links": [
+            {
+              "text": "163rd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$1.879 trillion ( 22nd )",
+          "links": [
+            {
+              "text": "22nd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$21,473 ( 88th )",
+          "links": [
+            {
+              "text": "88th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$356.513 billion ( 42nd )",
+          "links": [
+            {
+              "text": "42nd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$4,074 ( 132nd )",
+          "links": [
+            {
+              "text": "132nd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "Gini (2023)",
+          "value": "35.9 medium inequality"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.799 high ( 75th )",
+          "links": [
+            {
+              "text": "75th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "Iranian rial ( ریال ) ( IRR )",
+          "links": [
+            {
+              "text": "Iranian rial",
+              "href": "https://en.wikipedia.org/wiki/Iranian_rial"
+            },
+            {
+              "text": "ریال",
+              "href": "https://en.wiktionary.org/wiki/%D8%B1%DB%8C%D8%A7%D9%84#Persian"
+            },
+            {
+              "text": "IRR",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC +3:30 ( IRST )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "IRST",
+              "href": "https://en.wikipedia.org/wiki/Iran_Standard_Time"
+            }
+          ]
+        },
+        {
+          "label": "Calling code",
+          "value": "+98",
+          "links": [
+            {
+              "text": "+98",
+              "href": "https://en.wikipedia.org/wiki/%2B98"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "IR",
+          "links": [
+            {
+              "text": "IR",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:IR"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".ir ایران.",
+          "links": [
+            {
+              "text": ".ir",
+              "href": "https://en.wikipedia.org/wiki/.ir"
+            },
+            {
+              "text": "ایران.",
+              "href": "https://en.wikipedia.org/wiki/.ir"
+            }
+          ],
+          "sub_items": [
+            ".ir",
+            "ایران."
+          ]
+        }
+      ]
+    }
+  ]
+}

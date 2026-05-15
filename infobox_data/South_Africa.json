@@ -1,0 +1,600 @@
+{
+  "country": "South Africa",
+  "infobox_title": "Republic of South Africa 10 other official languages Afrikaans : Republiek van Suid-Afrika Zulu : iRiphabhuliki yaseNingizimu Afrika Xhosa : iRiphabhlikhi yoMzantsi Afrika Pedi : Repabliki ya Afrika-Borwa Southern Sotho : Rephaboliki ya Afrika Borwa Tswana : Rephaboliki ya Aforika Borwa Tsonga : Riphabliki ya Afrika Dzonga Swati : iRiphabhulikhi yaseNingizimu-Afrika Venda : Riphabuḽiki ya Afurika Tshipembe Southern Ndebele : iRiphabliki yeSewula Afrika",
+  "data": [
+    {
+      "label": "Afrikaans :",
+      "value": "Republiek van Suid-Afrika"
+    },
+    {
+      "label": "Afrikaans :",
+      "value": "Republiek van Suid-Afrika"
+    },
+    {
+      "label": "Zulu :",
+      "value": "iRiphabhuliki yaseNingizimu Afrika"
+    },
+    {
+      "label": "Xhosa :",
+      "value": "iRiphabhlikhi yoMzantsi Afrika"
+    },
+    {
+      "label": "Pedi :",
+      "value": "Repabliki ya Afrika-Borwa"
+    },
+    {
+      "label": "Southern Sotho :",
+      "value": "Rephaboliki ya Afrika Borwa"
+    },
+    {
+      "label": "Tswana :",
+      "value": "Rephaboliki ya Aforika Borwa"
+    },
+    {
+      "label": "Tsonga :",
+      "value": "Riphabliki ya Afrika Dzonga"
+    },
+    {
+      "label": "Swati :",
+      "value": "iRiphabhulikhi yaseNingizimu-Afrika"
+    },
+    {
+      "label": "Venda :",
+      "value": "Riphabuḽiki ya Afurika Tshipembe"
+    },
+    {
+      "label": "Southern Ndebele :",
+      "value": "iRiphabliki yeSewula Afrika"
+    },
+    {
+      "label": "Capital",
+      "value": "Pretoria (executive) Cape Town (legislative) Bloemfontein (judicial)",
+      "links": [
+        {
+          "text": "Pretoria",
+          "href": "https://en.wikipedia.org/wiki/Pretoria"
+        },
+        {
+          "text": "Cape Town",
+          "href": "https://en.wikipedia.org/wiki/Cape_Town"
+        },
+        {
+          "text": "Bloemfontein",
+          "href": "https://en.wikipedia.org/wiki/Bloemfontein"
+        }
+      ],
+      "sub_items": [
+        "Pretoria (executive)",
+        "Cape Town (legislative)",
+        "Bloemfontein (judicial)"
+      ]
+    },
+    {
+      "label": "Largest city",
+      "value": "Johannesburg",
+      "links": [
+        {
+          "text": "Johannesburg",
+          "href": "https://en.wikipedia.org/wiki/Johannesburg"
+        }
+      ]
+    },
+    {
+      "label": "Official languages",
+      "value": "12 languages Afrikaans English Ndebele Sepedi Sesotho Setswana South African Sign Language Swazi Tshivenda Xhosa Xitsonga Zulu Languages with special status Khoe languages Nama Khoisan languages German Greek Gujarati Hindi Portuguese Telugu Tamil Urdu Arabic Hebrew Sanskrit",
+      "links": [
+        {
+          "text": "12 languages",
+          "href": "https://en.wikipedia.org/wiki/Languages_of_South_Africa"
+        },
+        {
+          "text": "Afrikaans",
+          "href": "https://en.wikipedia.org/wiki/Afrikaans"
+        },
+        {
+          "text": "English",
+          "href": "https://en.wikipedia.org/wiki/South_African_English"
+        },
+        {
+          "text": "Ndebele",
+          "href": "https://en.wikipedia.org/wiki/Southern_Ndebele_language"
+        },
+        {
+          "text": "Sepedi",
+          "href": "https://en.wikipedia.org/wiki/Pedi_language"
+        },
+        {
+          "text": "Sesotho",
+          "href": "https://en.wikipedia.org/wiki/Sotho_language"
+        },
+        {
+          "text": "Setswana",
+          "href": "https://en.wikipedia.org/wiki/Tswana_language"
+        },
+        {
+          "text": "South African Sign Language",
+          "href": "https://en.wikipedia.org/wiki/South_African_Sign_Language"
+        },
+        {
+          "text": "Swazi",
+          "href": "https://en.wikipedia.org/wiki/Swazi_language"
+        },
+        {
+          "text": "Tshivenda",
+          "href": "https://en.wikipedia.org/wiki/Venda_language"
+        },
+        {
+          "text": "Xhosa",
+          "href": "https://en.wikipedia.org/wiki/Xhosa_language"
+        },
+        {
+          "text": "Xitsonga",
+          "href": "https://en.wikipedia.org/wiki/Tsonga_language"
+        },
+        {
+          "text": "Zulu",
+          "href": "https://en.wikipedia.org/wiki/Zulu_language"
+        },
+        {
+          "text": "Khoe languages",
+          "href": "https://en.wikipedia.org/wiki/Khoe_languages"
+        },
+        {
+          "text": "Nama",
+          "href": "https://en.wikipedia.org/wiki/Khoekhoe_language"
+        },
+        {
+          "text": "Khoisan languages",
+          "href": "https://en.wikipedia.org/wiki/Khoisan_languages"
+        },
+        {
+          "text": "German",
+          "href": "https://en.wikipedia.org/wiki/German_language"
+        },
+        {
+          "text": "Greek",
+          "href": "https://en.wikipedia.org/wiki/Greek_language"
+        },
+        {
+          "text": "Gujarati",
+          "href": "https://en.wikipedia.org/wiki/Gujarati_language"
+        },
+        {
+          "text": "Hindi",
+          "href": "https://en.wikipedia.org/wiki/Hindi"
+        },
+        {
+          "text": "Portuguese",
+          "href": "https://en.wikipedia.org/wiki/Portuguese_language"
+        },
+        {
+          "text": "Telugu",
+          "href": "https://en.wikipedia.org/wiki/Telugu_language"
+        },
+        {
+          "text": "Tamil",
+          "href": "https://en.wikipedia.org/wiki/Tamil_language"
+        },
+        {
+          "text": "Urdu",
+          "href": "https://en.wikipedia.org/wiki/Urdu"
+        },
+        {
+          "text": "Arabic",
+          "href": "https://en.wikipedia.org/wiki/Arabic"
+        },
+        {
+          "text": "Hebrew",
+          "href": "https://en.wikipedia.org/wiki/Hebrew_language"
+        },
+        {
+          "text": "Sanskrit",
+          "href": "https://en.wikipedia.org/wiki/Sanskrit"
+        }
+      ],
+      "sub_items": [
+        "Afrikaans",
+        "English",
+        "Ndebele",
+        "Sepedi",
+        "Sesotho",
+        "Setswana",
+        "South African Sign Language",
+        "Swazi",
+        "Tshivenda",
+        "Xhosa",
+        "Xitsonga",
+        "Zulu",
+        "Khoe languages",
+        "Nama",
+        "Khoisan languages",
+        "German",
+        "Greek",
+        "Gujarati",
+        "Hindi",
+        "Portuguese",
+        "Telugu",
+        "Tamil",
+        "Urdu",
+        "Arabic",
+        "Hebrew",
+        "Sanskrit"
+      ]
+    },
+    {
+      "label": "Ethnic groups (2022 )",
+      "value": "81.4% Black 8.2% Coloured 7.3% White 2.7% Indian or Asian 0.4% other",
+      "links": [
+        {
+          "text": "Black",
+          "href": "https://en.wikipedia.org/wiki/Bantu_peoples_of_South_Africa"
+        },
+        {
+          "text": "Coloured",
+          "href": "https://en.wikipedia.org/wiki/Coloureds"
+        },
+        {
+          "text": "White",
+          "href": "https://en.wikipedia.org/wiki/White_South_Africans"
+        },
+        {
+          "text": "Indian",
+          "href": "https://en.wikipedia.org/wiki/Indian_South_Africans"
+        },
+        {
+          "text": "Asian",
+          "href": "https://en.wikipedia.org/wiki/Asian_(South_Africa)"
+        }
+      ],
+      "sub_items": [
+        "81.4% Black",
+        "8.2% Coloured",
+        "7.3% White",
+        "2.7% Indian or Asian",
+        "0.4% other"
+      ]
+    },
+    {
+      "label": "Religion (2022)",
+      "value": "85.3% Christianity 7.8% Traditional faiths 3.1% No religion 1.6% Islam 1.1% Hinduism 1.1% other",
+      "links": [
+        {
+          "text": "Christianity",
+          "href": "https://en.wikipedia.org/wiki/Christianity_in_South_Africa"
+        },
+        {
+          "text": "Traditional faiths",
+          "href": "https://en.wikipedia.org/wiki/Traditional_African_religions"
+        },
+        {
+          "text": "No religion",
+          "href": "https://en.wikipedia.org/wiki/Irreligion_in_South_Africa"
+        },
+        {
+          "text": "Islam",
+          "href": "https://en.wikipedia.org/wiki/Islam_in_South_Africa"
+        },
+        {
+          "text": "Hinduism",
+          "href": "https://en.wikipedia.org/wiki/Hinduism_in_South_Africa"
+        }
+      ],
+      "sub_items": [
+        "85.3% Christianity",
+        "7.8% Traditional faiths",
+        "3.1% No religion",
+        "1.6% Islam",
+        "1.1% Hinduism",
+        "1.1% other"
+      ]
+    },
+    {
+      "label": "Demonym",
+      "value": "South African",
+      "links": [
+        {
+          "text": "South African",
+          "href": "https://en.wikipedia.org/wiki/Demographics_of_South_Africa"
+        }
+      ],
+      "sub_items": [
+        "South African"
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Unitary parliamentary republic with an executive presidency",
+      "links": [
+        {
+          "text": "parliamentary republic with an executive presidency",
+          "href": "https://en.wikipedia.org/wiki/Parliamentary_republics_with_an_executive_presidency"
+        }
+      ]
+    },
+    {
+      "label": "• President",
+      "value": "Cyril Ramaphosa",
+      "links": [
+        {
+          "text": "Cyril Ramaphosa",
+          "href": "https://en.wikipedia.org/wiki/Cyril_Ramaphosa"
+        }
+      ]
+    },
+    {
+      "label": "• Deputy President",
+      "value": "Paul Mashatile",
+      "links": [
+        {
+          "text": "Paul Mashatile",
+          "href": "https://en.wikipedia.org/wiki/Paul_Mashatile"
+        }
+      ]
+    },
+    {
+      "label": "• Speaker of the National Assembly",
+      "value": "Thoko Didiza",
+      "links": [
+        {
+          "text": "Thoko Didiza",
+          "href": "https://en.wikipedia.org/wiki/Thoko_Didiza"
+        }
+      ]
+    },
+    {
+      "label": "• Chairperson of the National Council of Provinces",
+      "value": "Refilwe Mtsweni-Tsipane",
+      "links": [
+        {
+          "text": "Refilwe Mtsweni-Tsipane",
+          "href": "https://en.wikipedia.org/wiki/Refilwe_Mtsweni-Tsipane"
+        }
+      ]
+    },
+    {
+      "label": "• Chief Justice",
+      "value": "Mandisa Maya",
+      "links": [
+        {
+          "text": "Mandisa Maya",
+          "href": "https://en.wikipedia.org/wiki/Mandisa_Maya"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "Parliament",
+      "links": [
+        {
+          "text": "Parliament",
+          "href": "https://en.wikipedia.org/wiki/Parliament_of_South_Africa"
+        }
+      ]
+    },
+    {
+      "label": "• Upper house",
+      "value": "National Council of Provinces",
+      "links": [
+        {
+          "text": "National Council of Provinces",
+          "href": "https://en.wikipedia.org/wiki/National_Council_of_Provinces"
+        }
+      ]
+    },
+    {
+      "label": "• Lower house",
+      "value": "National Assembly",
+      "links": [
+        {
+          "text": "National Assembly",
+          "href": "https://en.wikipedia.org/wiki/National_Assembly_of_South_Africa"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Independence from the United Kingdom",
+      "rows": [
+        {
+          "label": "• Union",
+          "value": "31 May 1910"
+        },
+        {
+          "label": "• Statute of Westminster",
+          "value": "11 December 1931"
+        },
+        {
+          "label": "• Republic",
+          "value": "31 May 1961"
+        },
+        {
+          "label": "• Current constitution",
+          "value": "4 February 1997"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "1,221,037 km (471,445 sq mi) ( 24th )",
+          "links": [
+            {
+              "text": "24th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "0.380"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2024 estimate",
+          "value": "63,015,904 ( 23rd )",
+          "links": [
+            {
+              "text": "23rd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• 2022 census",
+          "value": "62,027,503 ( 23rd )",
+          "links": [
+            {
+              "text": "23rd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• Density",
+          "value": "50.8/km (131.6/sq mi) ( 169th )",
+          "links": [
+            {
+              "text": "169th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2026 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$1.060 trillion ( 33rd )",
+          "links": [
+            {
+              "text": "33rd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$16,280 ( 107th )",
+          "links": [
+            {
+              "text": "107th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2026 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$443.64 billion ( 38th )",
+          "links": [
+            {
+              "text": "38th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$6,830 ( 107th )",
+          "links": [
+            {
+              "text": "107th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "Gini (2023)",
+          "value": "63.0 very high inequality"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.741 high ( 106th )",
+          "links": [
+            {
+              "text": "106th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "South African rand ( ZAR )",
+          "links": [
+            {
+              "text": "South African rand",
+              "href": "https://en.wikipedia.org/wiki/South_African_rand"
+            },
+            {
+              "text": "ZAR",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC +2 ( SAST )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "SAST",
+              "href": "https://en.wikipedia.org/wiki/South_African_Standard_Time"
+            }
+          ]
+        },
+        {
+          "label": "Date format",
+          "value": "Short formats: yyyy/mm/dd yyyy-mm-dd",
+          "sub_items": [
+            "yyyy/mm/dd",
+            "yyyy-mm-dd"
+          ]
+        },
+        {
+          "label": "Calling code",
+          "value": "+27",
+          "links": [
+            {
+              "text": "+27",
+              "href": "https://en.wikipedia.org/wiki/Telephone_numbers_in_South_Africa"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "ZA",
+          "links": [
+            {
+              "text": "ZA",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:ZA"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".za",
+          "links": [
+            {
+              "text": ".za",
+              "href": "https://en.wikipedia.org/wiki/.za"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

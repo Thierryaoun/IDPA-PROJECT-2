@@ -1,0 +1,345 @@
+{
+  "label": "country",
+  "children": [
+    {
+      "label": "name",
+      "children": [
+        {
+          "label": "burkina faso"
+        }
+      ]
+    },
+    {
+      "label": "infobox_title",
+      "children": [
+        {
+          "label": "burkina faso burkĩna faso 𞤦𞤵𞤪𞤳𞤭𞤲𞤢 𞤬𞤢𞤧𞤮𞥅 burkina faso ߓߙߎߞߌߣߊ߫ ߝߊ߬ߛߏ߫ burukina faso"
+        }
+      ]
+    },
+    {
+      "label": "capital_and_largest_city",
+      "children": [
+        {
+          "label": "ouagadougou / 12."
+        }
+      ]
+    },
+    {
+      "label": "official_languages",
+      "children": [
+        {
+          "label": "mooré , dyula and fula , alongside any other languages so recognized by law"
+        }
+      ]
+    },
+    {
+      "label": "working_languages",
+      "children": [
+        {
+          "label": "english"
+        },
+        {
+          "label": "french"
+        }
+      ]
+    },
+    {
+      "label": "ethnic_groups_2024_est",
+      "children": [
+        {
+          "label": "53.7% mossi"
+        },
+        {
+          "label": "6.8% fula"
+        },
+        {
+          "label": "5.9% gurunsi"
+        },
+        {
+          "label": "5.4% or"
+        },
+        {
+          "label": "1.5% bissa"
+        },
+        {
+          "label": "5.2% gurma"
+        },
+        {
+          "label": "3.4% bobo"
+        },
+        {
+          "label": "2.2% senufo"
+        },
+        {
+          "label": "1.5% lobi"
+        },
+        {
+          "label": "0.1% tuareg and bella"
+        }
+      ]
+    },
+    {
+      "label": "religion_2019_census",
+      "children": [
+        {
+          "label": "63.8% islam"
+        },
+        {
+          "label": "26.3% christianity"
+        },
+        {
+          "label": "20.1% catholicism"
+        },
+        {
+          "label": "6.2% protestantism"
+        },
+        {
+          "label": "9% animism"
+        },
+        {
+          "label": "0.7% irreligion"
+        }
+      ]
+    },
+    {
+      "label": "demonym",
+      "children": [
+        {
+          "label": "burkinabé"
+        }
+      ]
+    },
+    {
+      "label": "government",
+      "children": [
+        {
+          "label": "unitary semi-presidential republic under a military junta"
+        }
+      ]
+    },
+    {
+      "label": "president",
+      "children": [
+        {
+          "label": "ibrahim traoré"
+        }
+      ]
+    },
+    {
+      "label": "prime_minister",
+      "children": [
+        {
+          "label": "jean emmanuel ouédraogo"
+        }
+      ]
+    },
+    {
+      "label": "legislature",
+      "children": [
+        {
+          "label": "national assembly"
+        }
+      ]
+    },
+    {
+      "label": "history",
+      "children": [
+        {
+          "label": "republic_of_upper_volta_proclaimed",
+          "children": [
+            {
+              "label": "11 december 1958"
+            }
+          ]
+        },
+        {
+          "label": "independence_from_france",
+          "children": [
+            {
+              "label": "5 august 1960"
+            }
+          ]
+        },
+        {
+          "label": "1966_upper_voltan_coup_d_état",
+          "children": [
+            {
+              "label": "3 january 1966"
+            }
+          ]
+        },
+        {
+          "label": "2014_burkina_faso_uprising",
+          "children": [
+            {
+              "label": "28 october – 3 november 2014"
+            }
+          ]
+        },
+        {
+          "label": "jan_2022_burkina_faso_coup_d_état",
+          "children": [
+            {
+              "label": "23–24 january 2022"
+            }
+          ]
+        },
+        {
+          "label": "sep_2022_burkina_faso_coup_d_état",
+          "children": [
+            {
+              "label": "30 september 2022"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "area",
+      "children": [
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "274,223 km"
+            }
+          ]
+        },
+        {
+          "label": "water",
+          "children": [
+            {
+              "label": "0.148%"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "population",
+      "children": [
+        {
+          "label": "2023_estimate",
+          "children": [
+            {
+              "label": "22,489,126"
+            }
+          ]
+        },
+        {
+          "label": "density",
+          "children": [
+            {
+              "label": "86/km"
+            }
+          ]
+        },
+        {
+          "label": "gdp_ppp",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$72.820 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$2,980"
+            }
+          ]
+        },
+        {
+          "label": "gdp_nominal",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$27.06 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$1,110"
+            }
+          ]
+        },
+        {
+          "label": "gini_2021",
+          "children": [
+            {
+              "label": "37.4 medium inequality"
+            }
+          ]
+        },
+        {
+          "label": "hdi_2023",
+          "children": [
+            {
+              "label": "0.459 low"
+            }
+          ]
+        },
+        {
+          "label": "currency",
+          "children": [
+            {
+              "label": "west african cfa franc"
+            }
+          ]
+        },
+        {
+          "label": "time_zone",
+          "children": [
+            {
+              "label": "utc ±00:00"
+            }
+          ]
+        },
+        {
+          "label": "calling_code",
+          "children": [
+            {
+              "label": "+226"
+            }
+          ]
+        },
+        {
+          "label": "iso_3166_code",
+          "children": [
+            {
+              "label": "bf"
+            }
+          ]
+        },
+        {
+          "label": "internet_tld",
+          "children": [
+            {
+              "label": ".bf"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

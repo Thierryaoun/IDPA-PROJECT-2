@@ -1,0 +1,434 @@
+{
+  "country": "Lebanon",
+  "infobox_title": "Lebanese Republic الجمهورية اللبنانية ( Arabic ) al-Jumhūriyyah al-Lubnāniyyah",
+  "data": [
+    {
+      "label": "Capital and largest city",
+      "value": "Beirut 33°54′N 35°32′E ﻿ / ﻿ 33.900°N 35.533°E",
+      "links": [
+        {
+          "text": "Beirut",
+          "href": "https://en.wikipedia.org/wiki/Beirut"
+        },
+        {
+          "text": "33°54′N35°32′E﻿ / ﻿33.900°N 35.533°E",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Lebanon&params=33_54_N_35_32_E_type:city"
+        }
+      ]
+    },
+    {
+      "label": "Official languages",
+      "value": "Arabic",
+      "links": [
+        {
+          "text": "Arabic",
+          "href": "https://en.wikipedia.org/wiki/Arabic"
+        }
+      ]
+    },
+    {
+      "label": "Local vernacular",
+      "value": "Lebanese Arabic",
+      "links": [
+        {
+          "text": "Lebanese Arabic",
+          "href": "https://en.wikipedia.org/wiki/Lebanese_Arabic"
+        }
+      ]
+    },
+    {
+      "label": "Recognised minority language",
+      "value": "French",
+      "links": [
+        {
+          "text": "French",
+          "href": "https://en.wikipedia.org/wiki/French_language"
+        }
+      ]
+    },
+    {
+      "label": "Ethnic groups (2021)",
+      "value": "95% Arab 4% Armenian 1% others",
+      "links": [
+        {
+          "text": "Arab",
+          "href": "https://en.wikipedia.org/wiki/Arabs"
+        },
+        {
+          "text": "Armenian",
+          "href": "https://en.wikipedia.org/wiki/Armenians_in_Lebanon"
+        },
+        {
+          "text": "others",
+          "href": "https://en.wikipedia.org/wiki/Demographics_of_Lebanon"
+        }
+      ],
+      "sub_items": [
+        "95% Arab",
+        "4% Armenian",
+        "1% others"
+      ]
+    },
+    {
+      "label": "Religion (2024)",
+      "value": "53.31% Islam 26.84% Shia 0.64% Alawite 26.55% Sunni 41.40% Christianity 28.11% Catholic 8.30% Orthodox 2.92% Armenian Apostolic 0.53% Protestant 1.64% Other Christians 5.21% Druze 0.08% No religion",
+      "links": [
+        {
+          "text": "Islam",
+          "href": "https://en.wikipedia.org/wiki/Islam_in_Lebanon"
+        },
+        {
+          "text": "Shia",
+          "href": "https://en.wikipedia.org/wiki/Lebanese_Shia_Muslims"
+        },
+        {
+          "text": "Alawite",
+          "href": "https://en.wikipedia.org/wiki/Alawite"
+        },
+        {
+          "text": "Sunni",
+          "href": "https://en.wikipedia.org/wiki/Lebanese_Sunni_Muslims"
+        },
+        {
+          "text": "Christianity",
+          "href": "https://en.wikipedia.org/wiki/Christianity_in_Lebanon"
+        },
+        {
+          "text": "Catholic",
+          "href": "https://en.wikipedia.org/wiki/Catholic_Church_in_Lebanon"
+        },
+        {
+          "text": "Orthodox",
+          "href": "https://en.wikipedia.org/wiki/Lebanese_Greek_Orthodox_Christians"
+        },
+        {
+          "text": "Armenian Apostolic",
+          "href": "https://en.wikipedia.org/wiki/Armenian_Apostolic_Church"
+        },
+        {
+          "text": "Protestant",
+          "href": "https://en.wikipedia.org/wiki/Lebanese_Protestant_Christians"
+        },
+        {
+          "text": "Christians",
+          "href": "https://en.wikipedia.org/wiki/Christians"
+        },
+        {
+          "text": "Druze",
+          "href": "https://en.wikipedia.org/wiki/Lebanese_Druze"
+        },
+        {
+          "text": "No religion",
+          "href": "https://en.wikipedia.org/wiki/Irreligion_in_Lebanon"
+        }
+      ],
+      "sub_items": [
+        "53.31% Islam 26.84% Shia 0.64% Alawite 26.55% Sunni",
+        "53.31% Islam 26.84% Shia 0.64% Alawite 26.55% Sunni",
+        "26.84% Shia 0.64% Alawite",
+        "0.64% Alawite",
+        "26.55% Sunni",
+        "41.40% Christianity 28.11% Catholic 8.30% Orthodox 2.92% Armenian Apostolic 0.53% Protestant 1.64% Other Christians",
+        "41.40% Christianity 28.11% Catholic 8.30% Orthodox 2.92% Armenian Apostolic 0.53% Protestant 1.64% Other Christians",
+        "28.11% Catholic",
+        "8.30% Orthodox",
+        "2.92% Armenian Apostolic",
+        "0.53% Protestant",
+        "1.64% Other Christians",
+        "5.21% Druze",
+        "0.08% No religion"
+      ]
+    },
+    {
+      "label": "Demonym",
+      "value": "Lebanese",
+      "links": [
+        {
+          "text": "Lebanese",
+          "href": "https://en.wikipedia.org/wiki/Lebanese_people"
+        }
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Unitary parliamentary republic under confessionalism",
+      "links": [
+        {
+          "text": "Unitary parliamentary republic",
+          "href": "https://en.wikipedia.org/wiki/Unitary_parliamentary_republic"
+        },
+        {
+          "text": "confessionalism",
+          "href": "https://en.wikipedia.org/wiki/Confessionalism_(politics)"
+        }
+      ]
+    },
+    {
+      "label": "• President",
+      "value": "Joseph Aoun",
+      "links": [
+        {
+          "text": "Joseph Aoun",
+          "href": "https://en.wikipedia.org/wiki/Joseph_Aoun"
+        }
+      ]
+    },
+    {
+      "label": "• Prime Minister",
+      "value": "Nawaf Salam",
+      "links": [
+        {
+          "text": "Nawaf Salam",
+          "href": "https://en.wikipedia.org/wiki/Nawaf_Salam"
+        }
+      ]
+    },
+    {
+      "label": "• Speaker of the Parliament",
+      "value": "Nabih Berri",
+      "links": [
+        {
+          "text": "Nabih Berri",
+          "href": "https://en.wikipedia.org/wiki/Nabih_Berri"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "Parliament",
+      "links": [
+        {
+          "text": "Parliament",
+          "href": "https://en.wikipedia.org/wiki/Parliament_of_Lebanon"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Establishment",
+      "rows": [
+        {
+          "label": "• Emirate of Mount Lebanon",
+          "value": "1516"
+        },
+        {
+          "label": "• Double Qaim-Maqamate of Mount Lebanon",
+          "value": "1 December 1843"
+        },
+        {
+          "label": "• Mount Lebanon Mutasarrifate",
+          "value": "9 June 1861"
+        },
+        {
+          "label": "• Greater Lebanon",
+          "value": "1 September 1920"
+        },
+        {
+          "label": "• Constitution",
+          "value": "23 May 1926"
+        },
+        {
+          "label": "• Independence declared",
+          "value": "22 November 1943"
+        },
+        {
+          "label": "• French mandate ended",
+          "value": "24 October 1945"
+        },
+        {
+          "label": "• Withdrawal of French forces",
+          "value": "17 April 1946"
+        },
+        {
+          "label": "• Israeli troops withdrawn",
+          "value": "24 May 2000"
+        },
+        {
+          "label": "• Syrian troops withdrawn",
+          "value": "30 April 2005"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "10,452 km (4,036 sq mi) ( 161st )",
+          "links": [
+            {
+              "text": "161st",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "1.8"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2024 estimate",
+          "value": "5,364,482 ( 117th )",
+          "links": [
+            {
+              "text": "117th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• Density",
+          "value": "513/km (1,328.7/sq mi)"
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2022 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$78.233 billion ( 108th )",
+          "links": [
+            {
+              "text": "108th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$11,793 ( 114th )",
+          "links": [
+            {
+              "text": "114th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2022 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$21.780 billion ( 103rd )",
+          "links": [
+            {
+              "text": "103rd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$3,283 ( 133rd )",
+          "links": [
+            {
+              "text": "133rd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "Gini (2011)",
+          "value": "31.8 medium inequality"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.752 high ( 102nd )",
+          "links": [
+            {
+              "text": "102nd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "Lebanese pound ( LBP )",
+          "links": [
+            {
+              "text": "Lebanese pound",
+              "href": "https://en.wikipedia.org/wiki/Lebanese_pound"
+            },
+            {
+              "text": "LBP",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC +2 ( EET )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "EET",
+              "href": "https://en.wikipedia.org/wiki/Eastern_European_Time"
+            }
+          ]
+        },
+        {
+          "label": "• Summer ( DST )",
+          "value": "UTC +3 ( EEST )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "EEST",
+              "href": "https://en.wikipedia.org/wiki/Eastern_European_Summer_Time"
+            }
+          ]
+        },
+        {
+          "label": "Calling code",
+          "value": "+961",
+          "links": [
+            {
+              "text": "+961",
+              "href": "https://en.wikipedia.org/wiki/Telephone_numbers_in_Lebanon"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "LB",
+          "links": [
+            {
+              "text": "LB",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:LB"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".lb .لبنان",
+          "links": [
+            {
+              "text": ".lb",
+              "href": "https://en.wikipedia.org/wiki/.lb"
+            },
+            {
+              "text": ".لبنان",
+              "href": "https://en.wikipedia.org/wiki/Internationalized_country_code_top-level_domain"
+            }
+          ],
+          "sub_items": [
+            ".lb",
+            ".لبنان"
+          ]
+        }
+      ]
+    }
+  ]
+}

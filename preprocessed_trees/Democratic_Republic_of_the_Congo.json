@@ -1,0 +1,358 @@
+{
+  "label": "country",
+  "children": [
+    {
+      "label": "name",
+      "children": [
+        {
+          "label": "democratic republic of the congo"
+        }
+      ]
+    },
+    {
+      "label": "infobox_title",
+      "children": [
+        {
+          "label": "democratic republic of the congo république démocratique du congo"
+        }
+      ]
+    },
+    {
+      "label": "capital_and_largest_city",
+      "children": [
+        {
+          "label": "kinshasa / 4. 15. country: /"
+        }
+      ]
+    },
+    {
+      "label": "official_languages",
+      "children": [
+        {
+          "label": "french"
+        }
+      ]
+    },
+    {
+      "label": "recognised_national_languages",
+      "children": [
+        {
+          "label": "kikongo ya leta"
+        },
+        {
+          "label": "lingala"
+        },
+        {
+          "label": "swahili"
+        },
+        {
+          "label": "luba-kasai"
+        }
+      ]
+    },
+    {
+      "label": "religion_2021",
+      "children": [
+        {
+          "label": "95.4% christianity"
+        },
+        {
+          "label": "2.6% traditional faiths"
+        },
+        {
+          "label": "1.5% islam"
+        },
+        {
+          "label": "0.5% others / none"
+        }
+      ]
+    },
+    {
+      "label": "demonym",
+      "children": [
+        {
+          "label": "congolese"
+        }
+      ]
+    },
+    {
+      "label": "government",
+      "children": [
+        {
+          "label": "unitary semi-presidential republic"
+        }
+      ]
+    },
+    {
+      "label": "president",
+      "children": [
+        {
+          "label": "félix tshisekedi"
+        }
+      ]
+    },
+    {
+      "label": "prime_minister",
+      "children": [
+        {
+          "label": "judith suminwa"
+        }
+      ]
+    },
+    {
+      "label": "legislature",
+      "children": [
+        {
+          "label": "parliament"
+        }
+      ]
+    },
+    {
+      "label": "upper_house",
+      "children": [
+        {
+          "label": "senate"
+        }
+      ]
+    },
+    {
+      "label": "lower_house",
+      "children": [
+        {
+          "label": "national assembly"
+        }
+      ]
+    },
+    {
+      "label": "formation",
+      "children": [
+        {
+          "label": "colonised_by_leopold_ii_of_belgium",
+          "children": [
+            {
+              "label": "17 november 1879"
+            }
+          ]
+        },
+        {
+          "label": "congo_free_state",
+          "children": [
+            {
+              "label": "1 july 1885"
+            }
+          ]
+        },
+        {
+          "label": "belgian_congo",
+          "children": [
+            {
+              "label": "15 november 1908"
+            }
+          ]
+        },
+        {
+          "label": "independence_from_belgium",
+          "children": [
+            {
+              "label": "30 june 1960"
+            }
+          ]
+        },
+        {
+          "label": "admitted_to_the_united_nations",
+          "children": [
+            {
+              "label": "20 september 1960"
+            }
+          ]
+        },
+        {
+          "label": "democratic_republic",
+          "children": [
+            {
+              "label": "1 august 1964"
+            }
+          ]
+        },
+        {
+          "label": "republic_of_zaire",
+          "children": [
+            {
+              "label": "27 october 1971"
+            }
+          ]
+        },
+        {
+          "label": "first_congo_war",
+          "children": [
+            {
+              "label": "17 may 1997"
+            }
+          ]
+        },
+        {
+          "label": "current_constitution",
+          "children": [
+            {
+              "label": "18 february 2006"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "area",
+      "children": [
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "2,345,409 km"
+            }
+          ]
+        },
+        {
+          "label": "water",
+          "children": [
+            {
+              "label": "3.32"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "population",
+      "children": [
+        {
+          "label": "2025_estimate",
+          "children": [
+            {
+              "label": "124,388,160"
+            }
+          ]
+        },
+        {
+          "label": "density",
+          "children": [
+            {
+              "label": "48/km"
+            }
+          ]
+        },
+        {
+          "label": "gdp_ppp",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$200.76 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$1,881"
+            }
+          ]
+        },
+        {
+          "label": "gdp_nominal",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$79.120 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$742"
+            }
+          ]
+        },
+        {
+          "label": "gini_2012",
+          "children": [
+            {
+              "label": "42.1 medium inequality"
+            }
+          ]
+        },
+        {
+          "label": "hdi_2023",
+          "children": [
+            {
+              "label": "0.522 low"
+            }
+          ]
+        },
+        {
+          "label": "currency",
+          "children": [
+            {
+              "label": "congolese franc"
+            }
+          ]
+        },
+        {
+          "label": "time_zone",
+          "children": [
+            {
+              "label": "utc +1 to +2"
+            }
+          ]
+        },
+        {
+          "label": "date_format",
+          "children": [
+            {
+              "label": "dd/mm/yyyy"
+            }
+          ]
+        },
+        {
+          "label": "calling_code",
+          "children": [
+            {
+              "label": "+243"
+            }
+          ]
+        },
+        {
+          "label": "iso_3166_code",
+          "children": [
+            {
+              "label": "cd"
+            }
+          ]
+        },
+        {
+          "label": "internet_tld",
+          "children": [
+            {
+              "label": ".cd"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

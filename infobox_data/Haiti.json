@@ -1,0 +1,381 @@
+{
+  "country": "Haiti",
+  "infobox_title": "Republic of Haiti Repiblik d Ayiti ( Haitian Creole ) République d'Haïti ( French )",
+  "data": [
+    {
+      "label": "Capital and largest city",
+      "value": "Port-au-Prince 18°32′10″N 72°20′47″W ﻿ / ﻿ 18.53611°N 72.34639°W",
+      "links": [
+        {
+          "text": "Port-au-Prince",
+          "href": "https://en.wikipedia.org/wiki/Port-au-Prince"
+        },
+        {
+          "text": "18°32′10″N72°20′47″W﻿ / ﻿18.53611°N 72.34639°W",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Haiti&params=18_32_10_N_72_20_47_W_type:city"
+        }
+      ]
+    },
+    {
+      "label": "Official languages",
+      "value": "Haitian Creole French",
+      "links": [
+        {
+          "text": "Haitian Creole",
+          "href": "https://en.wikipedia.org/wiki/Haitian_Creole"
+        },
+        {
+          "text": "French",
+          "href": "https://en.wikipedia.org/wiki/Haitian_French"
+        }
+      ],
+      "sub_items": [
+        "Haitian Creole",
+        "French"
+      ]
+    },
+    {
+      "label": "Ethnic groups",
+      "value": "95% African 5% other",
+      "links": [
+        {
+          "text": "African",
+          "href": "https://en.wikipedia.org/wiki/Afro-Haitians"
+        },
+        {
+          "text": "other",
+          "href": "https://en.wikipedia.org/wiki/Demographics_of_Haiti#Ethnic_groups"
+        }
+      ]
+    },
+    {
+      "label": "Religion (2020)",
+      "value": "87.0% Christianity 10.7% no religion 2.1% Haitian Vodou 0.2% other",
+      "links": [
+        {
+          "text": "Christianity",
+          "href": "https://en.wikipedia.org/wiki/Christianity_in_Haiti"
+        },
+        {
+          "text": "no religion",
+          "href": "https://en.wikipedia.org/wiki/Irreligion"
+        },
+        {
+          "text": "Haitian Vodou",
+          "href": "https://en.wikipedia.org/wiki/Haitian_Vodou"
+        }
+      ],
+      "sub_items": [
+        "87.0% Christianity",
+        "10.7% no religion",
+        "2.1% Haitian Vodou",
+        "0.2% other"
+      ]
+    },
+    {
+      "label": "Demonym",
+      "value": "Haitian",
+      "links": [
+        {
+          "text": "Haitian",
+          "href": "https://en.wikipedia.org/wiki/Haitians"
+        }
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Unitary semi-presidential republic",
+      "links": [
+        {
+          "text": "semi-presidential republic",
+          "href": "https://en.wikipedia.org/wiki/Semi-presidential_republic"
+        }
+      ]
+    },
+    {
+      "label": "• President",
+      "value": "Vacant"
+    },
+    {
+      "label": "• Prime Minister",
+      "value": "Alix Didier Fils-Aimé (acting)",
+      "links": [
+        {
+          "text": "Alix Didier Fils-Aimé",
+          "href": "https://en.wikipedia.org/wiki/Alix_Didier_Fils-Aim%C3%A9"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "National Assembly (vacant)",
+      "links": [
+        {
+          "text": "National Assembly",
+          "href": "https://en.wikipedia.org/wiki/National_Assembly_(Haiti)"
+        }
+      ]
+    },
+    {
+      "label": "• Upper house",
+      "value": "Senate",
+      "links": [
+        {
+          "text": "Senate",
+          "href": "https://en.wikipedia.org/wiki/Senate_(Haiti)"
+        }
+      ]
+    },
+    {
+      "label": "• Lower house",
+      "value": "Chamber of Deputies",
+      "links": [
+        {
+          "text": "Chamber of Deputies",
+          "href": "https://en.wikipedia.org/wiki/Chamber_of_Deputies_(Haiti)"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Independence from France",
+      "rows": [
+        {
+          "label": "• Independence declared",
+          "value": "1 January 1804"
+        },
+        {
+          "label": "• Independence recognized",
+          "value": "17 April 1825"
+        },
+        {
+          "label": "• First Empire",
+          "value": "22 September 1804"
+        },
+        {
+          "label": "• Southern Republic",
+          "value": "17 October 1806"
+        },
+        {
+          "label": "• Northern State",
+          "value": "17 October 1806"
+        },
+        {
+          "label": "• Kingdom",
+          "value": "28 March 1811"
+        },
+        {
+          "label": "• Unification of Hispaniola",
+          "value": "9 February 1822"
+        },
+        {
+          "label": "• Dissolution",
+          "value": "27 February 1844"
+        },
+        {
+          "label": "• Second Empire",
+          "value": "26 August 1849"
+        },
+        {
+          "label": "• Republic",
+          "value": "15 January 1859"
+        },
+        {
+          "label": "• United States occupation",
+          "value": "28 July 1915 – 1 August 1934"
+        },
+        {
+          "label": "• Independence from the United States",
+          "value": "15 August 1934"
+        },
+        {
+          "label": "• Current constitution",
+          "value": "20 June 2012"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "27,700 km (10,700 sq mi) ( 143rd )",
+          "links": [
+            {
+              "text": "143rd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "0.7"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2023 estimate",
+          "value": "11,470,261 ( 83rd )",
+          "links": [
+            {
+              "text": "83rd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• Density",
+          "value": "417/km (1,080.0/sq mi) ( 32nd )",
+          "links": [
+            {
+              "text": "32nd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$38.200 billion ( 144th )",
+          "links": [
+            {
+              "text": "144th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$3,040 ( 169th )",
+          "links": [
+            {
+              "text": "169th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$33.550 billion ( 107th )",
+          "links": [
+            {
+              "text": "107th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$2,670 ( 141st )",
+          "links": [
+            {
+              "text": "141st",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "Gini (2023)",
+          "value": "41 medium inequality"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.554 medium ( 166th )",
+          "links": [
+            {
+              "text": "166th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "Gourde (G) ( HTG )",
+          "links": [
+            {
+              "text": "Gourde",
+              "href": "https://en.wikipedia.org/wiki/Haitian_gourde"
+            },
+            {
+              "text": "HTG",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC −05:00 ( EST )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "EST",
+              "href": "https://en.wikipedia.org/wiki/Eastern_Standard_Time"
+            }
+          ]
+        },
+        {
+          "label": "• Summer ( DST )",
+          "value": "UTC −04:00 ( EDT )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "EDT",
+              "href": "https://en.wikipedia.org/wiki/Eastern_Daylight_Time"
+            }
+          ]
+        },
+        {
+          "label": "Date format",
+          "value": "dd/mm/yyyy"
+        },
+        {
+          "label": "Calling code",
+          "value": "+509",
+          "links": [
+            {
+              "text": "+509",
+              "href": "https://en.wikipedia.org/wiki/Telephone_numbers_in_Haiti"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "HT",
+          "links": [
+            {
+              "text": "HT",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:HT"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".ht",
+          "links": [
+            {
+              "text": ".ht",
+              "href": "https://en.wikipedia.org/wiki/.ht"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,380 @@
+{
+  "label": "country",
+  "children": [
+    {
+      "label": "name",
+      "children": [
+        {
+          "label": "lao people's democratic republic"
+        }
+      ]
+    },
+    {
+      "label": "infobox_title",
+      "children": [
+        {
+          "label": "lao people's democratic republic ສາທາລະນະລັດ ປະຊາທິປະໄຕ ປະຊາຊົນລາວ sathalanalat paxathipatai paxaxon lao"
+        }
+      ]
+    },
+    {
+      "label": "capital_and_largest_city",
+      "children": [
+        {
+          "label": "vientiane / 17."
+        }
+      ]
+    },
+    {
+      "label": "official_languages",
+      "children": [
+        {
+          "label": "lao"
+        }
+      ]
+    },
+    {
+      "label": "spoken_languages",
+      "children": [
+        {
+          "label": "lao"
+        },
+        {
+          "label": "khmu"
+        },
+        {
+          "label": "hmong"
+        },
+        {
+          "label": "phu thai"
+        },
+        {
+          "label": "tai"
+        }
+      ]
+    },
+    {
+      "label": "ethnic_groups_2015",
+      "children": [
+        {
+          "label": "53.2% lao"
+        },
+        {
+          "label": "11% khmu"
+        },
+        {
+          "label": "9.2% hmong"
+        },
+        {
+          "label": "3.4% phu thai"
+        },
+        {
+          "label": "3.1% tai"
+        },
+        {
+          "label": "2.5% makong"
+        },
+        {
+          "label": "2.2% katang"
+        },
+        {
+          "label": "2.0% lue"
+        },
+        {
+          "label": "1.8% akha"
+        },
+        {
+          "label": "11.6% other"
+        }
+      ]
+    },
+    {
+      "label": "religion",
+      "children": [
+        {
+          "label": "66.0% buddhism"
+        },
+        {
+          "label": "30.7% tai folk religion"
+        },
+        {
+          "label": "1.5% christianity"
+        },
+        {
+          "label": "1.8% other / none"
+        }
+      ]
+    },
+    {
+      "label": "demonym",
+      "children": [
+        {
+          "label": "laotian"
+        }
+      ]
+    },
+    {
+      "label": "government",
+      "children": [
+        {
+          "label": "unitary communist state"
+        }
+      ]
+    },
+    {
+      "label": "general_secretary_and_president",
+      "children": [
+        {
+          "label": "thongloun sisoulith"
+        }
+      ]
+    },
+    {
+      "label": "prime_minister",
+      "children": [
+        {
+          "label": "sonexay siphandone"
+        }
+      ]
+    },
+    {
+      "label": "vice_president",
+      "children": [
+        {
+          "label": "bounthong chitmany pany yathotou"
+        }
+      ]
+    },
+    {
+      "label": "president_of_the_national_assembly",
+      "children": [
+        {
+          "label": "saysomphone phomvihane"
+        }
+      ]
+    },
+    {
+      "label": "chief_justice",
+      "children": [
+        {
+          "label": "viengthong siphandone"
+        }
+      ]
+    },
+    {
+      "label": "legislature",
+      "children": [
+        {
+          "label": "national assembly"
+        }
+      ]
+    },
+    {
+      "label": "formation",
+      "children": [
+        {
+          "label": "kingdom_of_lan_xang",
+          "children": [
+            {
+              "label": "1353–1707"
+            }
+          ]
+        },
+        {
+          "label": "kingdoms_of_luang_prabang_vientiane_and_champasak",
+          "children": [
+            {
+              "label": "1707–1778"
+            }
+          ]
+        },
+        {
+          "label": "vassals_of_siam",
+          "children": [
+            {
+              "label": "1778–1893"
+            }
+          ]
+        },
+        {
+          "label": "french_protectorate",
+          "children": [
+            {
+              "label": "1893–1953"
+            }
+          ]
+        },
+        {
+          "label": "unified_kingdom",
+          "children": [
+            {
+              "label": "11 may 1947"
+            }
+          ]
+        },
+        {
+          "label": "independence_from_france",
+          "children": [
+            {
+              "label": "22 october 1953"
+            }
+          ]
+        },
+        {
+          "label": "communist_state_established",
+          "children": [
+            {
+              "label": "2 december 1975"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "area",
+      "children": [
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "236,800 km"
+            }
+          ]
+        },
+        {
+          "label": "water",
+          "children": [
+            {
+              "label": "2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "population",
+      "children": [
+        {
+          "label": "2024_estimate",
+          "children": [
+            {
+              "label": "7,953,557"
+            }
+          ]
+        },
+        {
+          "label": "density",
+          "children": [
+            {
+              "label": "33.21/km"
+            }
+          ]
+        },
+        {
+          "label": "gdp_ppp",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$78.850 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$10,120"
+            }
+          ]
+        },
+        {
+          "label": "gdp_nominal",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$16.320 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$2,100"
+            }
+          ]
+        },
+        {
+          "label": "gini_2012",
+          "children": [
+            {
+              "label": "36.4 medium inequality"
+            }
+          ]
+        },
+        {
+          "label": "hdi_2023",
+          "children": [
+            {
+              "label": "0.617 medium"
+            }
+          ]
+        },
+        {
+          "label": "currency",
+          "children": [
+            {
+              "label": "kip"
+            }
+          ]
+        },
+        {
+          "label": "time_zone",
+          "children": [
+            {
+              "label": "utc +7"
+            }
+          ]
+        },
+        {
+          "label": "calling_code",
+          "children": [
+            {
+              "label": "+856"
+            }
+          ]
+        },
+        {
+          "label": "iso_3166_code",
+          "children": [
+            {
+              "label": "la"
+            }
+          ]
+        },
+        {
+          "label": "internet_tld",
+          "children": [
+            {
+              "label": ".la"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

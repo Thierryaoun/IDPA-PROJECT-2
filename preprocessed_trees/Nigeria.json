@@ -1,0 +1,438 @@
+{
+  "label": "country",
+  "children": [
+    {
+      "label": "name",
+      "children": [
+        {
+          "label": "nigeria"
+        }
+      ]
+    },
+    {
+      "label": "infobox_title",
+      "children": [
+        {
+          "label": "federal republic of nigeria name in national languages hausa : jamhuriyar tarayyar najeriya igbo : ọ̀hàńjíkọ̀ ọ̀hànézè naìjíríyà yoruba : orílẹ̀-èdè olómìniira àpapọ̀ nàìjíríà"
+        }
+      ]
+    },
+    {
+      "label": "hausa",
+      "children": [
+        {
+          "label": "jamhuriyar tarayyar najeriya"
+        }
+      ]
+    },
+    {
+      "label": "hausa",
+      "children": [
+        {
+          "label": "jamhuriyar tarayyar najeriya"
+        }
+      ]
+    },
+    {
+      "label": "igbo",
+      "children": [
+        {
+          "label": "ọ̀hàńjíkọ̀ ọ̀hànézè naìjíríyà"
+        }
+      ]
+    },
+    {
+      "label": "yoruba",
+      "children": [
+        {
+          "label": "orílẹ̀-èdè olómìniira àpapọ̀ nàìjíríà"
+        }
+      ]
+    },
+    {
+      "label": "capital",
+      "children": [
+        {
+          "label": "abuja / 9."
+        }
+      ]
+    },
+    {
+      "label": "largest_city",
+      "children": [
+        {
+          "label": "lagos"
+        }
+      ]
+    },
+    {
+      "label": "official_languages",
+      "children": [
+        {
+          "label": "english"
+        }
+      ]
+    },
+    {
+      "label": "recognised_languages",
+      "children": [
+        {
+          "label": "hausa"
+        },
+        {
+          "label": "yoruba"
+        },
+        {
+          "label": "igbo"
+        }
+      ]
+    },
+    {
+      "label": "regional_languages",
+      "children": [
+        {
+          "label": "over 525 languages"
+        }
+      ]
+    },
+    {
+      "label": "ethnic_groups_2018",
+      "children": [
+        {
+          "label": "30% hausa"
+        },
+        {
+          "label": "15.5% yoruba"
+        },
+        {
+          "label": "15.2% igbo"
+        },
+        {
+          "label": "6% fulani"
+        },
+        {
+          "label": "2.4% tiv"
+        },
+        {
+          "label": "2.4% kanuri"
+        },
+        {
+          "label": "1.8% ibibio"
+        },
+        {
+          "label": "1.8% ijaw"
+        },
+        {
+          "label": "24.7% other"
+        }
+      ]
+    },
+    {
+      "label": "religion_2018",
+      "children": [
+        {
+          "label": "53.50% islam"
+        },
+        {
+          "label": "45.90% christianity"
+        },
+        {
+          "label": "35.30% protestants"
+        },
+        {
+          "label": "10.60% catholics"
+        },
+        {
+          "label": "0.60% other"
+        }
+      ]
+    },
+    {
+      "label": "demonym",
+      "children": [
+        {
+          "label": "nigerian"
+        }
+      ]
+    },
+    {
+      "label": "government",
+      "children": [
+        {
+          "label": "federal presidential republic"
+        }
+      ]
+    },
+    {
+      "label": "president",
+      "children": [
+        {
+          "label": "bola tinubu"
+        }
+      ]
+    },
+    {
+      "label": "vice_president",
+      "children": [
+        {
+          "label": "kashim shettima"
+        }
+      ]
+    },
+    {
+      "label": "senate_president",
+      "children": [
+        {
+          "label": "godswill akpabio"
+        }
+      ]
+    },
+    {
+      "label": "house_speaker",
+      "children": [
+        {
+          "label": "tajudeen abbas"
+        }
+      ]
+    },
+    {
+      "label": "chief_justice",
+      "children": [
+        {
+          "label": "kudirat kekere-ekun"
+        }
+      ]
+    },
+    {
+      "label": "legislature",
+      "children": [
+        {
+          "label": "national assembly"
+        }
+      ]
+    },
+    {
+      "label": "upper_house",
+      "children": [
+        {
+          "label": "senate"
+        }
+      ]
+    },
+    {
+      "label": "lower_house",
+      "children": [
+        {
+          "label": "house of representatives"
+        }
+      ]
+    },
+    {
+      "label": "independence_from_the_united_kingdom",
+      "children": [
+        {
+          "label": "northern_nigeria_protectorate",
+          "children": [
+            {
+              "label": "1 january 1900"
+            }
+          ]
+        },
+        {
+          "label": "southern_nigeria_protectorate",
+          "children": [
+            {
+              "label": "1 january 1900"
+            }
+          ]
+        },
+        {
+          "label": "unification_of_nigeria",
+          "children": [
+            {
+              "label": "1 january 1914"
+            }
+          ]
+        },
+        {
+          "label": "declared_independent_as_a_sovereign_state",
+          "children": [
+            {
+              "label": "1 october 1960"
+            }
+          ]
+        },
+        {
+          "label": "became_a_republic",
+          "children": [
+            {
+              "label": "1 october 1963"
+            }
+          ]
+        },
+        {
+          "label": "current_constitution",
+          "children": [
+            {
+              "label": "29 may 1999"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "area",
+      "children": [
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "923,769 km"
+            }
+          ]
+        },
+        {
+          "label": "water",
+          "children": [
+            {
+              "label": "1.4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "population",
+      "children": [
+        {
+          "label": "2024_estimate",
+          "children": [
+            {
+              "label": "236,747,130"
+            }
+          ]
+        },
+        {
+          "label": "density",
+          "children": [
+            {
+              "label": "249.8/km"
+            }
+          ]
+        },
+        {
+          "label": "gdp_ppp",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$2.254 trillion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$9,488"
+            }
+          ]
+        },
+        {
+          "label": "gdp_nominal",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$285.003 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$1,200"
+            }
+          ]
+        },
+        {
+          "label": "gini_2020",
+          "children": [
+            {
+              "label": "35.1 medium inequality"
+            }
+          ]
+        },
+        {
+          "label": "hdi_2023",
+          "children": [
+            {
+              "label": "0.560 medium"
+            }
+          ]
+        },
+        {
+          "label": "currency",
+          "children": [
+            {
+              "label": "naira"
+            }
+          ]
+        },
+        {
+          "label": "time_zone",
+          "children": [
+            {
+              "label": "utc +01:00"
+            }
+          ]
+        },
+        {
+          "label": "date_format",
+          "children": [
+            {
+              "label": "dd/mm/yyyy"
+            }
+          ]
+        },
+        {
+          "label": "calling_code",
+          "children": [
+            {
+              "label": "+234"
+            }
+          ]
+        },
+        {
+          "label": "iso_3166_code",
+          "children": [
+            {
+              "label": "ng"
+            }
+          ]
+        },
+        {
+          "label": "internet_tld",
+          "children": [
+            {
+              "label": ".ng"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

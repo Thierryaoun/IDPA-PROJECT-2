@@ -1,0 +1,288 @@
+{
+  "country": "Sao Tome and Principe",
+  "infobox_title": "Democratic Republic of São Tomé and Príncipe República Democrática de São Tomé e Príncipe ( Portuguese )",
+  "data": [
+    {
+      "label": "Capital and largest city",
+      "value": "São Tomé 0°20′N 6°44′E ﻿ / ﻿ 0.333°N 6.733°E",
+      "links": [
+        {
+          "text": "São Tomé",
+          "href": "https://en.wikipedia.org/wiki/S%C3%A3o_Tom%C3%A9"
+        },
+        {
+          "text": "0°20′N6°44′E﻿ / ﻿0.333°N 6.733°E",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe&params=0_20_N_6_44_E_type:city(72,000)_region:ST"
+        }
+      ]
+    },
+    {
+      "label": "Recognised regional languages",
+      "value": "Forro Creole Angolar Creole Principense Creole",
+      "links": [
+        {
+          "text": "Forro Creole",
+          "href": "https://en.wikipedia.org/wiki/Forro_Creole"
+        },
+        {
+          "text": "Angolar Creole",
+          "href": "https://en.wikipedia.org/wiki/Angolar_Creole"
+        },
+        {
+          "text": "Principense Creole",
+          "href": "https://en.wikipedia.org/wiki/Principense_Creole"
+        }
+      ],
+      "sub_items": [
+        "Forro Creole",
+        "Angolar Creole",
+        "Principense Creole"
+      ]
+    },
+    {
+      "label": "Official language and national language",
+      "value": "Portuguese",
+      "links": [
+        {
+          "text": "Portuguese",
+          "href": "https://en.wikipedia.org/wiki/S%C3%A3o_Tomean_Portuguese"
+        }
+      ]
+    },
+    {
+      "label": "Religion (2020)",
+      "value": "81.1% Christianity 13.2% no religion 3.1% folk religions 2.4% others",
+      "links": [
+        {
+          "text": "Christianity",
+          "href": "https://en.wikipedia.org/wiki/Christianity"
+        },
+        {
+          "text": "no religion",
+          "href": "https://en.wikipedia.org/wiki/Irreligion"
+        },
+        {
+          "text": "folk religions",
+          "href": "https://en.wikipedia.org/wiki/Folk_religion"
+        }
+      ],
+      "sub_items": [
+        "81.1% Christianity",
+        "13.2% no religion",
+        "3.1% folk religions",
+        "2.4% others"
+      ]
+    },
+    {
+      "label": "Demonyms",
+      "value": "São Toméan Santomean",
+      "sub_items": [
+        "São Toméan",
+        "Santomean"
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Unitary semi-presidential republic",
+      "links": [
+        {
+          "text": "semi-presidential republic",
+          "href": "https://en.wikipedia.org/wiki/Semi-presidential_system"
+        }
+      ]
+    },
+    {
+      "label": "• President",
+      "value": "Carlos Vila Nova",
+      "links": [
+        {
+          "text": "Carlos Vila Nova",
+          "href": "https://en.wikipedia.org/wiki/Carlos_Vila_Nova"
+        }
+      ]
+    },
+    {
+      "label": "• Prime Minister",
+      "value": "Américo Ramos",
+      "links": [
+        {
+          "text": "Américo Ramos",
+          "href": "https://en.wikipedia.org/wiki/Am%C3%A9rico_Ramos"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "National Assembly",
+      "links": [
+        {
+          "text": "National Assembly",
+          "href": "https://en.wikipedia.org/wiki/National_Assembly_(S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe)"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Independence from Portugal",
+      "rows": [
+        {
+          "label": "• Granted",
+          "value": "12 July 1975"
+        },
+        {
+          "label": "• Admitted to the United Nations",
+          "value": "16 September 1975"
+        },
+        {
+          "label": "• Constitutional reform",
+          "value": "22 August 1990"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "964 km (372 sq mi) ( 171st )",
+          "links": [
+            {
+              "text": "171st",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "negligible"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2023 estimate",
+          "value": "220,372 ( 175th )",
+          "links": [
+            {
+              "text": "175th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• Density",
+          "value": "199.7/km (517.2/sq mi) ( 69th )",
+          "links": [
+            {
+              "text": "69th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2024 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$1 billion"
+        },
+        {
+          "label": "• Per capita",
+          "value": "$4,238"
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2024 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$751 million"
+        },
+        {
+          "label": "• Per capita",
+          "value": "$3,167"
+        },
+        {
+          "label": "Gini (2017)",
+          "value": "40.7 medium inequality"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.637 medium ( 141st )",
+          "links": [
+            {
+              "text": "141st",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "Dobra ( STN )",
+          "links": [
+            {
+              "text": "Dobra",
+              "href": "https://en.wikipedia.org/wiki/S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe_dobra"
+            },
+            {
+              "text": "STN",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC +0 ( GMT )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "GMT",
+              "href": "https://en.wikipedia.org/wiki/Greenwich_Mean_Time"
+            }
+          ]
+        },
+        {
+          "label": "Date format",
+          "value": "dd/mm/yyyy"
+        },
+        {
+          "label": "Calling code",
+          "value": "+239",
+          "links": [
+            {
+              "text": "+239",
+              "href": "https://en.wikipedia.org/wiki/%2B239"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "ST",
+          "links": [
+            {
+              "text": "ST",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:ST"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".st",
+          "links": [
+            {
+              "text": ".st",
+              "href": "https://en.wikipedia.org/wiki/.st"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,387 @@
+{
+  "label": "country",
+  "children": [
+    {
+      "label": "name",
+      "children": [
+        {
+          "label": "bosnia and herzegovina"
+        }
+      ]
+    },
+    {
+      "label": "infobox_title",
+      "children": [
+        {
+          "label": "bosnia and herzegovina bosna i hercegovina босна и херцеговина"
+        }
+      ]
+    },
+    {
+      "label": "capital_and_largest_city",
+      "children": [
+        {
+          "label": "sarajevo / 43."
+        }
+      ]
+    },
+    {
+      "label": "official_language_federal_level",
+      "children": [
+        {
+          "label": "none"
+        }
+      ]
+    },
+    {
+      "label": "religion_2013_census",
+      "children": [
+        {
+          "label": "51.3% islam"
+        },
+        {
+          "label": "46.1% christianity"
+        },
+        {
+          "label": "30.7% eastern orthodox"
+        },
+        {
+          "label": "15.4% catholicism"
+        },
+        {
+          "label": "2.60% others"
+        }
+      ]
+    },
+    {
+      "label": "demonyms",
+      "children": [
+        {
+          "label": "bosnian"
+        },
+        {
+          "label": "herzegovinian"
+        }
+      ]
+    },
+    {
+      "label": "government",
+      "children": [
+        {
+          "label": "federal parliamentary directorial republic"
+        }
+      ]
+    },
+    {
+      "label": "high_representative",
+      "children": [
+        {
+          "label": "christian schmidt"
+        }
+      ]
+    },
+    {
+      "label": "chairman_of_the_presidency",
+      "children": [
+        {
+          "label": "denis bećirović"
+        }
+      ]
+    },
+    {
+      "label": "members_of_the_presidency",
+      "children": [
+        {
+          "label": "željka cvijanović željko komšić"
+        }
+      ]
+    },
+    {
+      "label": "chairwoman_of_the_council_of_ministers",
+      "children": [
+        {
+          "label": "borjana krišto"
+        }
+      ]
+    },
+    {
+      "label": "legislature",
+      "children": [
+        {
+          "label": "parliamentary assembly"
+        }
+      ]
+    },
+    {
+      "label": "upper_house",
+      "children": [
+        {
+          "label": "house of peoples"
+        }
+      ]
+    },
+    {
+      "label": "lower_house",
+      "children": [
+        {
+          "label": "house of representatives"
+        }
+      ]
+    },
+    {
+      "label": "establishment_history",
+      "children": [
+        {
+          "label": "early_medieval_bosnia",
+          "children": [
+            {
+              "label": "9th century"
+            }
+          ]
+        },
+        {
+          "label": "banate_of_bosnia",
+          "children": [
+            {
+              "label": "1154"
+            }
+          ]
+        },
+        {
+          "label": "kingdom_of_bosnia",
+          "children": [
+            {
+              "label": "1377"
+            }
+          ]
+        },
+        {
+          "label": "ottoman_conquest",
+          "children": [
+            {
+              "label": "1463"
+            }
+          ]
+        },
+        {
+          "label": "austro_hungarian_conquest_and_1908_annexation",
+          "children": [
+            {
+              "label": "1878"
+            }
+          ]
+        },
+        {
+          "label": "creation_of_yugoslavia",
+          "children": [
+            {
+              "label": "1 december 1918"
+            }
+          ]
+        },
+        {
+          "label": "zavnobih",
+          "children": [
+            {
+              "label": "25 november 1943"
+            }
+          ]
+        },
+        {
+          "label": "sr_bosnia_and_herzegovina_within_sfr_yugoslavia",
+          "children": [
+            {
+              "label": "29 november 1945"
+            }
+          ]
+        },
+        {
+          "label": "independence_from_yugoslavia",
+          "children": [
+            {
+              "label": "3 march 1992"
+            }
+          ]
+        },
+        {
+          "label": "washington_agreement",
+          "children": [
+            {
+              "label": "18 march 1994"
+            }
+          ]
+        },
+        {
+          "label": "dayton_agreement",
+          "children": [
+            {
+              "label": "14 december 1995"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "area",
+      "children": [
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "51,209 km"
+            }
+          ]
+        },
+        {
+          "label": "water",
+          "children": [
+            {
+              "label": "1.4%"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "population",
+      "children": [
+        {
+          "label": "2023_estimate",
+          "children": [
+            {
+              "label": "2,904,256"
+            }
+          ]
+        },
+        {
+          "label": "2013_census",
+          "children": [
+            {
+              "label": "3,531,159"
+            }
+          ]
+        },
+        {
+          "label": "density",
+          "children": [
+            {
+              "label": "61/km"
+            }
+          ]
+        },
+        {
+          "label": "gdp_ppp",
+          "children": [
+            {
+              "label": "2026 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$82.23 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$23,930"
+            }
+          ]
+        },
+        {
+          "label": "gdp_nominal",
+          "children": [
+            {
+              "label": "2026 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$36.24 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$10,546"
+            }
+          ]
+        },
+        {
+          "label": "gini_2022",
+          "children": [
+            {
+              "label": "27.1 low inequality"
+            }
+          ]
+        },
+        {
+          "label": "hdi_2023",
+          "children": [
+            {
+              "label": "0.804 very high"
+            }
+          ]
+        },
+        {
+          "label": "currency",
+          "children": [
+            {
+              "label": "convertible mark"
+            }
+          ]
+        },
+        {
+          "label": "time_zone",
+          "children": [
+            {
+              "label": "utc +01"
+            }
+          ]
+        },
+        {
+          "label": "summer_dst",
+          "children": [
+            {
+              "label": "utc +02"
+            }
+          ]
+        },
+        {
+          "label": "calling_code",
+          "children": [
+            {
+              "label": "+387"
+            }
+          ]
+        },
+        {
+          "label": "iso_3166_code",
+          "children": [
+            {
+              "label": "ba"
+            }
+          ]
+        },
+        {
+          "label": "internet_tld",
+          "children": [
+            {
+              "label": ".ba"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

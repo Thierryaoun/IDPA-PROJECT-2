@@ -1,0 +1,457 @@
+{
+  "country": "United Kingdom of Great Britain and Northern Ireland",
+  "infobox_title": "United Kingdom of Great Britain and Northern Ireland",
+  "data": [
+    {
+      "label": "Capital and largest city",
+      "value": "London 51°30′N 0°7′W ﻿ / ﻿ 51.500°N 0.117°W",
+      "links": [
+        {
+          "text": "London",
+          "href": "https://en.wikipedia.org/wiki/London"
+        },
+        {
+          "text": "51°30′N0°7′W﻿ / ﻿51.500°N 0.117°W",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=United_Kingdom&params=51_30_N_0_7_W_type:city(9,100,000)_region:GB-LND"
+        }
+      ]
+    },
+    {
+      "label": "National language",
+      "value": "English",
+      "links": [
+        {
+          "text": "English",
+          "href": "https://en.wikipedia.org/wiki/English_language"
+        }
+      ]
+    },
+    {
+      "label": "Regional and minority languages",
+      "value": "Scots Ulster Scots Welsh Cornish Scottish Gaelic Irish British Sign Language",
+      "links": [
+        {
+          "text": "Scots",
+          "href": "https://en.wikipedia.org/wiki/Scots_language"
+        },
+        {
+          "text": "Ulster Scots",
+          "href": "https://en.wikipedia.org/wiki/Ulster_Scots_dialects"
+        },
+        {
+          "text": "Welsh",
+          "href": "https://en.wikipedia.org/wiki/Welsh_language"
+        },
+        {
+          "text": "Cornish",
+          "href": "https://en.wikipedia.org/wiki/Cornish_language"
+        },
+        {
+          "text": "Scottish Gaelic",
+          "href": "https://en.wikipedia.org/wiki/Scottish_Gaelic"
+        },
+        {
+          "text": "Irish",
+          "href": "https://en.wikipedia.org/wiki/Irish_language"
+        },
+        {
+          "text": "British Sign Language",
+          "href": "https://en.wikipedia.org/wiki/British_Sign_Language"
+        }
+      ],
+      "sub_items": [
+        "Scots",
+        "Ulster Scots",
+        "Welsh",
+        "Cornish",
+        "Scottish Gaelic",
+        "Irish",
+        "British Sign Language"
+      ]
+    },
+    {
+      "label": "Ethnic groups ( 2021/2022 )",
+      "value": "83.0% White 8.6% Asian 3.7% Black 2.7% Mixed 2.0% other",
+      "links": [
+        {
+          "text": "White",
+          "href": "https://en.wikipedia.org/wiki/White_people_in_the_United_Kingdom"
+        },
+        {
+          "text": "Asian",
+          "href": "https://en.wikipedia.org/wiki/British_Asian"
+        },
+        {
+          "text": "Black",
+          "href": "https://en.wikipedia.org/wiki/Black_British"
+        },
+        {
+          "text": "Mixed",
+          "href": "https://en.wikipedia.org/wiki/Mixed_(United_Kingdom_ethnicity_category)"
+        },
+        {
+          "text": "other",
+          "href": "https://en.wikipedia.org/wiki/Ethnic_groups_in_the_United_Kingdom"
+        }
+      ],
+      "sub_items": [
+        "83.0% White",
+        "8.6% Asian",
+        "3.7% Black",
+        "2.7% Mixed",
+        "2.0% other"
+      ]
+    },
+    {
+      "label": "Religion (2021/2022)",
+      "value": "46.5% Christianity 37.8% no religion 6.0% Islam 1.6% Hinduism 0.8% Sikhism 0.4% Buddhism 0.4% Judaism 0.6% other 5.9% not stated",
+      "links": [
+        {
+          "text": "Christianity",
+          "href": "https://en.wikipedia.org/wiki/Religion_in_the_United_Kingdom#Christianity"
+        },
+        {
+          "text": "no religion",
+          "href": "https://en.wikipedia.org/wiki/Irreligion_in_the_United_Kingdom"
+        },
+        {
+          "text": "Islam",
+          "href": "https://en.wikipedia.org/wiki/Islam_in_the_United_Kingdom"
+        },
+        {
+          "text": "Hinduism",
+          "href": "https://en.wikipedia.org/wiki/Hinduism_in_the_United_Kingdom"
+        },
+        {
+          "text": "Sikhism",
+          "href": "https://en.wikipedia.org/wiki/Sikhism_in_the_United_Kingdom"
+        },
+        {
+          "text": "Buddhism",
+          "href": "https://en.wikipedia.org/wiki/Buddhism_in_the_United_Kingdom"
+        },
+        {
+          "text": "Judaism",
+          "href": "https://en.wikipedia.org/wiki/British_Jews"
+        },
+        {
+          "text": "other",
+          "href": "https://en.wikipedia.org/wiki/Religion_in_the_United_Kingdom"
+        }
+      ],
+      "sub_items": [
+        "46.5% Christianity",
+        "37.8% no religion",
+        "6.0% Islam",
+        "1.6% Hinduism",
+        "0.8% Sikhism",
+        "0.4% Buddhism",
+        "0.4% Judaism",
+        "0.6% other",
+        "5.9% not stated"
+      ]
+    },
+    {
+      "label": "Demonyms",
+      "value": "British Briton Brit (colloquial)",
+      "links": [
+        {
+          "text": "British",
+          "href": "https://en.wikipedia.org/wiki/British_people"
+        }
+      ],
+      "sub_items": [
+        "British",
+        "Briton",
+        "Brit (colloquial)"
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Unitary parliamentary constitutional monarchy",
+      "links": [
+        {
+          "text": "parliamentary constitutional monarchy",
+          "href": "https://en.wikipedia.org/wiki/Westminster_parliamentary_system"
+        }
+      ]
+    },
+    {
+      "label": "• Monarch",
+      "value": "Charles III",
+      "links": [
+        {
+          "text": "Charles III",
+          "href": "https://en.wikipedia.org/wiki/Charles_III"
+        }
+      ]
+    },
+    {
+      "label": "• Prime Minister",
+      "value": "Keir Starmer",
+      "links": [
+        {
+          "text": "Keir Starmer",
+          "href": "https://en.wikipedia.org/wiki/Keir_Starmer"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "Parliament",
+      "links": [
+        {
+          "text": "Parliament",
+          "href": "https://en.wikipedia.org/wiki/Parliament_of_the_United_Kingdom"
+        }
+      ]
+    },
+    {
+      "label": "• Upper house",
+      "value": "House of Lords",
+      "links": [
+        {
+          "text": "House of Lords",
+          "href": "https://en.wikipedia.org/wiki/House_of_Lords"
+        }
+      ]
+    },
+    {
+      "label": "• Lower house",
+      "value": "House of Commons",
+      "links": [
+        {
+          "text": "House of Commons",
+          "href": "https://en.wikipedia.org/wiki/House_of_Commons_of_the_United_Kingdom"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Formation",
+      "rows": [
+        {
+          "label": "• Laws in Wales Acts",
+          "value": "1535 and 1542"
+        },
+        {
+          "label": "• Union of the Crowns",
+          "value": "24 March 1603"
+        },
+        {
+          "label": "• Treaty of Union",
+          "value": "22 July 1706"
+        },
+        {
+          "label": "• Acts of Union of England and Scotland",
+          "value": "1 May 1707"
+        },
+        {
+          "label": "• Acts of Union of Great Britain and Ireland",
+          "value": "1 January 1801"
+        },
+        {
+          "label": "• Irish Free State Constitution Act",
+          "value": "6 December 1922"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "244,376 km (94,354 sq mi) ( 78th )",
+          "links": [
+            {
+              "text": "78th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Land",
+          "value": "242,741 km (93,723 sq mi)"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2024 estimate",
+          "value": "69,281,437 ( 20th )",
+          "links": [
+            {
+              "text": "20th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• 2021 census",
+          "value": "66,940,559"
+        },
+        {
+          "label": "• Density",
+          "value": "285/km (738.1/sq mi) ( 48th )",
+          "links": [
+            {
+              "text": "48th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$4.455 trillion ( 10th )",
+          "links": [
+            {
+              "text": "10th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$63,759 ( 33rd )",
+          "links": [
+            {
+              "text": "33rd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$3.959 trillion ( 6th )",
+          "links": [
+            {
+              "text": "6th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$56,661 ( 21st )",
+          "links": [
+            {
+              "text": "21st",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "Gini (2021)",
+          "value": "35.4 medium inequality"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.946 very high ( 13th )",
+          "links": [
+            {
+              "text": "13th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "Pound sterling ( £ ) ( GBP )",
+          "links": [
+            {
+              "text": "Pound sterling",
+              "href": "https://en.wikipedia.org/wiki/Pound_sterling"
+            },
+            {
+              "text": "£",
+              "href": "https://en.wikipedia.org/wiki/%C2%A3"
+            },
+            {
+              "text": "GBP",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC +0 ( GMT )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "GMT",
+              "href": "https://en.wikipedia.org/wiki/Greenwich_Mean_Time"
+            }
+          ]
+        },
+        {
+          "label": "• Summer ( DST )",
+          "value": "UTC +1 ( BST )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "BST",
+              "href": "https://en.wikipedia.org/wiki/British_Summer_Time"
+            }
+          ]
+        },
+        {
+          "label": "Date format",
+          "value": "dd / mm / yyyy ( AD )",
+          "links": [
+            {
+              "text": "AD",
+              "href": "https://en.wikipedia.org/wiki/Anno_Domini"
+            }
+          ]
+        },
+        {
+          "label": "Calling code",
+          "value": "+44",
+          "links": [
+            {
+              "text": "+44",
+              "href": "https://en.wikipedia.org/wiki/Telephone_numbers_in_the_United_Kingdom"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "GB",
+          "links": [
+            {
+              "text": "GB",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:GB"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".uk",
+          "links": [
+            {
+              "text": ".uk",
+              "href": "https://en.wikipedia.org/wiki/.uk"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

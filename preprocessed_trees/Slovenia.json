@@ -1,0 +1,361 @@
+{
+  "label": "country",
+  "children": [
+    {
+      "label": "name",
+      "children": [
+        {
+          "label": "slovenia"
+        }
+      ]
+    },
+    {
+      "label": "infobox_title",
+      "children": [
+        {
+          "label": "republic of slovenia republika slovenija"
+        }
+      ]
+    },
+    {
+      "label": "capital_and_largest_city",
+      "children": [
+        {
+          "label": "ljubljana / 46."
+        }
+      ]
+    },
+    {
+      "label": "official_languages",
+      "children": [
+        {
+          "label": "slovene"
+        }
+      ]
+    },
+    {
+      "label": "recognised_regional_languages",
+      "children": [
+        {
+          "label": "italian"
+        },
+        {
+          "label": "hungarian"
+        }
+      ]
+    },
+    {
+      "label": "religion_2018",
+      "children": [
+        {
+          "label": "77.9% christianity"
+        },
+        {
+          "label": "73.4% catholicism"
+        },
+        {
+          "label": "3.7% orthodoxy"
+        },
+        {
+          "label": "0.7% other christian"
+        },
+        {
+          "label": "18.3% no religion"
+        },
+        {
+          "label": "3.9% other"
+        }
+      ]
+    },
+    {
+      "label": "demonyms",
+      "children": [
+        {
+          "label": "slovene"
+        },
+        {
+          "label": "slovenian"
+        }
+      ]
+    },
+    {
+      "label": "government",
+      "children": [
+        {
+          "label": "unitary parliamentary republic"
+        }
+      ]
+    },
+    {
+      "label": "president",
+      "children": [
+        {
+          "label": "nataša pirc musar"
+        }
+      ]
+    },
+    {
+      "label": "prime_minister",
+      "children": [
+        {
+          "label": "robert golob"
+        }
+      ]
+    },
+    {
+      "label": "legislature",
+      "children": [
+        {
+          "label": "parliament"
+        }
+      ]
+    },
+    {
+      "label": "upper_house",
+      "children": [
+        {
+          "label": "national council"
+        }
+      ]
+    },
+    {
+      "label": "lower_house",
+      "children": [
+        {
+          "label": "national assembly"
+        }
+      ]
+    },
+    {
+      "label": "establishment",
+      "children": [
+        {
+          "label": "state_of_slovenes_croats_and_serbs",
+          "children": [
+            {
+              "label": "29 october 1918"
+            }
+          ]
+        },
+        {
+          "label": "kingdom_of_serbs_croats_and_slovenes",
+          "children": [
+            {
+              "label": "1 december 1918"
+            }
+          ]
+        },
+        {
+          "label": "slovene_national_liberation_committee",
+          "children": [
+            {
+              "label": "19 february 1944"
+            }
+          ]
+        },
+        {
+          "label": "socialist_federal_republic_of_yugoslavia",
+          "children": [
+            {
+              "label": "29 july 1944"
+            }
+          ]
+        },
+        {
+          "label": "independence_from_yugoslavia",
+          "children": [
+            {
+              "label": "25 june 1991"
+            }
+          ]
+        },
+        {
+          "label": "brioni_agreement_signed",
+          "children": [
+            {
+              "label": "7 july 1991"
+            }
+          ]
+        },
+        {
+          "label": "current_constitution",
+          "children": [
+            {
+              "label": "24 december 1991"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "area",
+      "children": [
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "20,272 km"
+            }
+          ]
+        },
+        {
+          "label": "water",
+          "children": [
+            {
+              "label": "0.7"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "population",
+      "children": [
+        {
+          "label": "2025_estimate",
+          "children": [
+            {
+              "label": "2,133,852"
+            }
+          ]
+        },
+        {
+          "label": "2002_census",
+          "children": [
+            {
+              "label": "1,964,036"
+            }
+          ]
+        },
+        {
+          "label": "density",
+          "children": [
+            {
+              "label": "103 /km"
+            }
+          ]
+        },
+        {
+          "label": "gdp_ppp",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$122,985 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$57,716"
+            }
+          ]
+        },
+        {
+          "label": "gdp_nominal",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$79,222 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$37,178"
+            }
+          ]
+        },
+        {
+          "label": "gini_2023",
+          "children": [
+            {
+              "label": "23.4 low inequality"
+            }
+          ]
+        },
+        {
+          "label": "hdi_2023",
+          "children": [
+            {
+              "label": "0.931 very high"
+            }
+          ]
+        },
+        {
+          "label": "currency",
+          "children": [
+            {
+              "label": "euro"
+            }
+          ]
+        },
+        {
+          "label": "time_zone",
+          "children": [
+            {
+              "label": "utc +1"
+            }
+          ]
+        },
+        {
+          "label": "summer_dst",
+          "children": [
+            {
+              "label": "utc +2"
+            }
+          ]
+        },
+        {
+          "label": "date_format",
+          "children": [
+            {
+              "label": "dd. mm. yyyy dd/mm/yyyy yyyy. mm. dd."
+            }
+          ]
+        },
+        {
+          "label": "calling_code",
+          "children": [
+            {
+              "label": "+386"
+            }
+          ]
+        },
+        {
+          "label": "iso_3166_code",
+          "children": [
+            {
+              "label": "si"
+            }
+          ]
+        },
+        {
+          "label": "internet_tld",
+          "children": [
+            {
+              "label": ".si"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,367 @@
+{
+  "label": "country",
+  "children": [
+    {
+      "label": "name",
+      "children": [
+        {
+          "label": "croatia"
+        }
+      ]
+    },
+    {
+      "label": "infobox_title",
+      "children": [
+        {
+          "label": "republic of croatia republika hrvatska"
+        }
+      ]
+    },
+    {
+      "label": "capital_and_largest_city",
+      "children": [
+        {
+          "label": "zagreb / 45."
+        }
+      ]
+    },
+    {
+      "label": "official_languages",
+      "children": [
+        {
+          "label": "croatian"
+        }
+      ]
+    },
+    {
+      "label": "writing_system",
+      "children": [
+        {
+          "label": "latin"
+        }
+      ]
+    },
+    {
+      "label": "ethnic_groups_2021",
+      "children": [
+        {
+          "label": "91.6% croats"
+        },
+        {
+          "label": "3.2% serbs"
+        },
+        {
+          "label": "5.2% others"
+        }
+      ]
+    },
+    {
+      "label": "religion_2021",
+      "children": [
+        {
+          "label": "87.4% christianity"
+        },
+        {
+          "label": "79.0% catholicism"
+        },
+        {
+          "label": "3.3% orthodoxy"
+        },
+        {
+          "label": "5.1% other christian"
+        },
+        {
+          "label": "6.4% no religion"
+        },
+        {
+          "label": "1.3% islam"
+        },
+        {
+          "label": "1.9% other"
+        },
+        {
+          "label": "3.9% undeclared"
+        }
+      ]
+    },
+    {
+      "label": "demonym",
+      "children": [
+        {
+          "label": "croatian"
+        }
+      ]
+    },
+    {
+      "label": "government",
+      "children": [
+        {
+          "label": "unitary parliamentary republic"
+        }
+      ]
+    },
+    {
+      "label": "president",
+      "children": [
+        {
+          "label": "zoran milanović"
+        }
+      ]
+    },
+    {
+      "label": "prime_minister",
+      "children": [
+        {
+          "label": "andrej plenković"
+        }
+      ]
+    },
+    {
+      "label": "speaker_of_the_parliament",
+      "children": [
+        {
+          "label": "gordan jandroković"
+        }
+      ]
+    },
+    {
+      "label": "legislature",
+      "children": [
+        {
+          "label": "sabor"
+        }
+      ]
+    },
+    {
+      "label": "establishment_history",
+      "children": [
+        {
+          "label": "duchy",
+          "children": [
+            {
+              "label": "7th century"
+            }
+          ]
+        },
+        {
+          "label": "kingdom",
+          "children": [
+            {
+              "label": "925"
+            }
+          ]
+        },
+        {
+          "label": "croatia_in_personal_union_with_hungary",
+          "children": [
+            {
+              "label": "1102"
+            }
+          ]
+        },
+        {
+          "label": "joined_habsburg_monarchy",
+          "children": [
+            {
+              "label": "1 january 1527"
+            }
+          ]
+        },
+        {
+          "label": "secession_from_austria_hungary",
+          "children": [
+            {
+              "label": "29 october 1918"
+            }
+          ]
+        },
+        {
+          "label": "creation_of_yugoslavia",
+          "children": [
+            {
+              "label": "4 december 1918"
+            }
+          ]
+        },
+        {
+          "label": "socialist_republic_of_croatia_of_yugoslavia",
+          "children": [
+            {
+              "label": "9 may 1944"
+            }
+          ]
+        },
+        {
+          "label": "declaration_of_independence",
+          "children": [
+            {
+              "label": "25 june 1991"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "area",
+      "children": [
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "56,561 km"
+            }
+          ]
+        },
+        {
+          "label": "water",
+          "children": [
+            {
+              "label": "1.09"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "population",
+      "children": [
+        {
+          "label": "2024_estimate",
+          "children": [
+            {
+              "label": "3,866,233"
+            }
+          ]
+        },
+        {
+          "label": "2021_census",
+          "children": [
+            {
+              "label": "3,871,833"
+            }
+          ]
+        },
+        {
+          "label": "density",
+          "children": [
+            {
+              "label": "68.4/km"
+            }
+          ]
+        },
+        {
+          "label": "gdp_ppp",
+          "children": [
+            {
+              "label": "2026 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$207.40 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$53,840"
+            }
+          ]
+        },
+        {
+          "label": "gdp_nominal",
+          "children": [
+            {
+              "label": "2026 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$113.13 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$29,370"
+            }
+          ]
+        },
+        {
+          "label": "gini_2026",
+          "children": [
+            {
+              "label": "30.0 medium inequality"
+            }
+          ]
+        },
+        {
+          "label": "hdi_2023",
+          "children": [
+            {
+              "label": "0.889 very high"
+            }
+          ]
+        },
+        {
+          "label": "currency",
+          "children": [
+            {
+              "label": "euro"
+            }
+          ]
+        },
+        {
+          "label": "time_zone",
+          "children": [
+            {
+              "label": "utc +1"
+            }
+          ]
+        },
+        {
+          "label": "summer_dst",
+          "children": [
+            {
+              "label": "utc +2"
+            }
+          ]
+        },
+        {
+          "label": "calling_code",
+          "children": [
+            {
+              "label": "+385"
+            }
+          ]
+        },
+        {
+          "label": "iso_3166_code",
+          "children": [
+            {
+              "label": "hr"
+            }
+          ]
+        },
+        {
+          "label": "internet_tld",
+          "children": [
+            {
+              "label": ".hr and .eu"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

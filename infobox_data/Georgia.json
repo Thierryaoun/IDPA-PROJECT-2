@@ -1,0 +1,386 @@
+{
+  "country": "Georgia",
+  "infobox_title": "Georgia საქართველო ( Georgian ) Sakartvelo",
+  "data": [
+    {
+      "label": "Capital and largest city",
+      "value": "Tbilisi 41°43′N 44°47′E ﻿ / ﻿ 41.717°N 44.783°E",
+      "links": [
+        {
+          "text": "Tbilisi",
+          "href": "https://en.wikipedia.org/wiki/Tbilisi"
+        },
+        {
+          "text": "41°43′N44°47′E﻿ / ﻿41.717°N 44.783°E",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Georgia_(country)&params=41_43_N_44_47_E_type:city"
+        }
+      ]
+    },
+    {
+      "label": "Official languages",
+      "value": "Georgian",
+      "links": [
+        {
+          "text": "Georgian",
+          "href": "https://en.wikipedia.org/wiki/Georgian_language"
+        }
+      ]
+    },
+    {
+      "label": "Recognized regional languages",
+      "value": "Abkhaz",
+      "links": [
+        {
+          "text": "Abkhaz",
+          "href": "https://en.wikipedia.org/wiki/Abkhaz_language"
+        }
+      ]
+    },
+    {
+      "label": "Ethnic groups (2014 )",
+      "value": "86.8% Georgians 6.2% Azerbaijanis 4.5% Armenians 0.7% Russians 2.1% other",
+      "links": [
+        {
+          "text": "Georgians",
+          "href": "https://en.wikipedia.org/wiki/Georgians"
+        },
+        {
+          "text": "Azerbaijanis",
+          "href": "https://en.wikipedia.org/wiki/Azerbaijanis_in_Georgia"
+        },
+        {
+          "text": "Armenians",
+          "href": "https://en.wikipedia.org/wiki/Armenians_in_Georgia"
+        },
+        {
+          "text": "Russians",
+          "href": "https://en.wikipedia.org/wiki/Russians_in_Georgia"
+        },
+        {
+          "text": "other",
+          "href": "https://en.wikipedia.org/wiki/Demographics_of_Georgia_(country)#Ethnic_groups"
+        }
+      ],
+      "sub_items": [
+        "86.8% Georgians",
+        "6.2% Azerbaijanis",
+        "4.5% Armenians",
+        "0.7% Russians",
+        "2.1% other"
+      ]
+    },
+    {
+      "label": "Religion (2014)",
+      "value": "87.3% Christianity 83.4% Georgian Orthodoxy 3.9% other Christian 10.7% Islam 2% other / none",
+      "links": [
+        {
+          "text": "Christianity",
+          "href": "https://en.wikipedia.org/wiki/Christianity_in_Georgia_(country)"
+        },
+        {
+          "text": "Georgian Orthodoxy",
+          "href": "https://en.wikipedia.org/wiki/Georgian_Orthodox_Church"
+        },
+        {
+          "text": "Christian",
+          "href": "https://en.wikipedia.org/wiki/List_of_Christian_denominations"
+        },
+        {
+          "text": "Islam",
+          "href": "https://en.wikipedia.org/wiki/Islam_in_Georgia_(country)"
+        },
+        {
+          "text": "other",
+          "href": "https://en.wikipedia.org/wiki/Religion_in_Georgia_(country)"
+        },
+        {
+          "text": "none",
+          "href": "https://en.wikipedia.org/wiki/Irreligion"
+        }
+      ],
+      "sub_items": [
+        "87.3% Christianity 83.4% Georgian Orthodoxy 3.9% other Christian",
+        "87.3% Christianity 83.4% Georgian Orthodoxy 3.9% other Christian",
+        "83.4% Georgian Orthodoxy",
+        "3.9% other Christian",
+        "10.7% Islam",
+        "2% other / none"
+      ]
+    },
+    {
+      "label": "Demonym",
+      "value": "Georgian",
+      "links": [
+        {
+          "text": "Georgian",
+          "href": "https://en.wikipedia.org/wiki/Georgians"
+        }
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Unitary parliamentary republic",
+      "links": [
+        {
+          "text": "parliamentary republic",
+          "href": "https://en.wikipedia.org/wiki/Parliamentary_republic"
+        }
+      ]
+    },
+    {
+      "label": "• President",
+      "value": "Mikheil Kavelashvili",
+      "links": [
+        {
+          "text": "Mikheil Kavelashvili",
+          "href": "https://en.wikipedia.org/wiki/Mikheil_Kavelashvili"
+        }
+      ]
+    },
+    {
+      "label": "• Prime Minister",
+      "value": "Irakli Kobakhidze",
+      "links": [
+        {
+          "text": "Irakli Kobakhidze",
+          "href": "https://en.wikipedia.org/wiki/Irakli_Kobakhidze"
+        }
+      ]
+    },
+    {
+      "label": "• Chairperson of the Parliament",
+      "value": "Shalva Papuashvili",
+      "links": [
+        {
+          "text": "Shalva Papuashvili",
+          "href": "https://en.wikipedia.org/wiki/Shalva_Papuashvili"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "Parliament",
+      "links": [
+        {
+          "text": "Parliament",
+          "href": "https://en.wikipedia.org/wiki/Parliament_of_Georgia"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Establishment history",
+      "rows": [
+        {
+          "label": "• Colchis and Iberia",
+          "value": "13th c. BC – AD 580"
+        },
+        {
+          "label": "• Kingdom of Abkhazia and Kingdom of the Iberians",
+          "value": "786–1008"
+        },
+        {
+          "label": "• Unification of Georgia",
+          "value": "1008"
+        },
+        {
+          "label": "• The Tripartite division",
+          "value": "1463–1810"
+        },
+        {
+          "label": "• Russian annexation",
+          "value": "1801–1858"
+        },
+        {
+          "label": "• Independence from Russia",
+          "value": "26 May 1918"
+        },
+        {
+          "label": "• Russian invasion",
+          "value": "12 February 1921"
+        },
+        {
+          "label": "• Soviet annexation",
+          "value": "25 February 1921"
+        },
+        {
+          "label": "• Independence from the Soviet Union • Declared • Finalized",
+          "value": "9 April 1991 26 December 1991"
+        },
+        {
+          "label": "• Current constitution",
+          "value": "24 August 1995"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "69,700 km (26,900 sq mi) ( 119th )",
+          "links": [
+            {
+              "text": "119th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2024 census",
+          "value": "3,657,000 ( 129th )",
+          "links": [
+            {
+              "text": "129th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• Density",
+          "value": "56.3/km (145.8/sq mi) ( 165th )",
+          "links": [
+            {
+              "text": "165th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2026 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$123,049 billion ( 98th )",
+          "links": [
+            {
+              "text": "98th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$33,340 ( 67th )",
+          "links": [
+            {
+              "text": "67th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2026 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$35.350 billion ( 103th )",
+          "links": [
+            {
+              "text": "103th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$10,886 ( 83rd )",
+          "links": [
+            {
+              "text": "83rd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "Gini (2021)",
+          "value": "34.2 medium inequality"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.844 very high ( 57th )",
+          "links": [
+            {
+              "text": "57th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "Georgian lari (₾) ( GEL )",
+          "links": [
+            {
+              "text": "Georgian lari",
+              "href": "https://en.wikipedia.org/wiki/Georgian_lari"
+            },
+            {
+              "text": "GEL",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC +4 ( GET )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "GET",
+              "href": "https://en.wikipedia.org/wiki/Georgia_Time"
+            }
+          ]
+        },
+        {
+          "label": "Date format",
+          "value": "dd.mm.yyyy"
+        },
+        {
+          "label": "Calling code",
+          "value": "+995",
+          "links": [
+            {
+              "text": "+995",
+              "href": "https://en.wikipedia.org/wiki/%2B995"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "GE",
+          "links": [
+            {
+              "text": "GE",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:GE"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".ge , .გე",
+          "links": [
+            {
+              "text": ".ge",
+              "href": "https://en.wikipedia.org/wiki/.ge"
+            },
+            {
+              "text": ".გე",
+              "href": "https://en.wikipedia.org/wiki/.%E1%83%92%E1%83%94"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

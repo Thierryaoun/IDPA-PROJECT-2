@@ -1,0 +1,441 @@
+{
+  "country": "Iraq",
+  "infobox_title": "Republic of Iraq جُمْهُورِيَّة ٱلْعِرَاق ( Arabic ) Jumhūriyyat al-ʿIrāq کۆماری عێراق ( Kurdish ) Komarî Êraq",
+  "data": [
+    {
+      "label": "Capital and largest city",
+      "value": "Baghdad 33°20′N 44°23′E ﻿ / ﻿ 33.333°N 44.383°E",
+      "links": [
+        {
+          "text": "Baghdad",
+          "href": "https://en.wikipedia.org/wiki/Baghdad"
+        },
+        {
+          "text": "33°20′N44°23′E﻿ / ﻿33.333°N 44.383°E",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Iraq&params=33_20_N_44_23_E_type:city(8,100,000)_region:IQ"
+        }
+      ]
+    },
+    {
+      "label": "Official languages",
+      "value": "Arabic Kurdish",
+      "links": [
+        {
+          "text": "Arabic",
+          "href": "https://en.wikipedia.org/wiki/Modern_Standard_Arabic"
+        },
+        {
+          "text": "Kurdish",
+          "href": "https://en.wikipedia.org/wiki/Kurdish_language"
+        }
+      ],
+      "sub_items": [
+        "Arabic",
+        "Kurdish"
+      ]
+    },
+    {
+      "label": "Recognised regional languages",
+      "value": "Assyrian Armenian Turkmen",
+      "links": [
+        {
+          "text": "Assyrian",
+          "href": "https://en.wikipedia.org/wiki/Suret_language"
+        },
+        {
+          "text": "Armenian",
+          "href": "https://en.wikipedia.org/wiki/Armenian_language"
+        },
+        {
+          "text": "Turkmen",
+          "href": "https://en.wikipedia.org/wiki/Iraqi_Turkmen#Language"
+        }
+      ],
+      "sub_items": [
+        "Assyrian",
+        "Armenian",
+        "Turkmen"
+      ]
+    },
+    {
+      "label": "Ethnic groups (1987)",
+      "value": "75–80% Arabs 15–20% Kurds 5–10% Assyrians , Turkmen , Jews , Persians , Yazidis , Mandaeans , and others",
+      "links": [
+        {
+          "text": "Arabs",
+          "href": "https://en.wikipedia.org/wiki/Arabs"
+        },
+        {
+          "text": "Kurds",
+          "href": "https://en.wikipedia.org/wiki/Kurds_in_Iraq"
+        },
+        {
+          "text": "Assyrians",
+          "href": "https://en.wikipedia.org/wiki/Assyrian_people"
+        },
+        {
+          "text": "Turkmen",
+          "href": "https://en.wikipedia.org/wiki/Iraqi_Turkmen"
+        },
+        {
+          "text": "Jews",
+          "href": "https://en.wikipedia.org/wiki/History_of_the_Jews_in_Iraq"
+        },
+        {
+          "text": "Persians",
+          "href": "https://en.wikipedia.org/wiki/Iranians_in_Iraq"
+        },
+        {
+          "text": "Yazidis",
+          "href": "https://en.wikipedia.org/wiki/Yazidis"
+        },
+        {
+          "text": "Mandaeans",
+          "href": "https://en.wikipedia.org/wiki/Mandaeans"
+        },
+        {
+          "text": "others",
+          "href": "https://en.wikipedia.org/wiki/Demographics_of_Iraq"
+        }
+      ],
+      "sub_items": [
+        "75–80% Arabs",
+        "15–20% Kurds",
+        "5–10% Assyrians , Turkmen , Jews , Persians , Yazidis , Mandaeans , and others"
+      ]
+    },
+    {
+      "label": "Religion (2020)",
+      "value": "90–95% Islam ( official ) 61% Shia 35% Sunni 5–10% Christianity , Mandaeism , Yazidism , Judaism , Yarsanism , irreligion and others",
+      "links": [
+        {
+          "text": "Islam",
+          "href": "https://en.wikipedia.org/wiki/Islam_in_Iraq"
+        },
+        {
+          "text": "official",
+          "href": "https://en.wikipedia.org/wiki/State_religion"
+        },
+        {
+          "text": "Shia",
+          "href": "https://en.wikipedia.org/wiki/Shia_Islam_in_Iraq"
+        },
+        {
+          "text": "Sunni",
+          "href": "https://en.wikipedia.org/wiki/Sunni_Islam_in_Iraq"
+        },
+        {
+          "text": "Christianity",
+          "href": "https://en.wikipedia.org/wiki/Christianity_in_Iraq"
+        },
+        {
+          "text": "Mandaeism",
+          "href": "https://en.wikipedia.org/wiki/Mandaeism"
+        },
+        {
+          "text": "Yazidism",
+          "href": "https://en.wikipedia.org/wiki/Yazidis"
+        },
+        {
+          "text": "Judaism",
+          "href": "https://en.wikipedia.org/wiki/History_of_the_Jews_in_Iraq"
+        },
+        {
+          "text": "Yarsanism",
+          "href": "https://en.wikipedia.org/wiki/Yarsanism"
+        },
+        {
+          "text": "irreligion",
+          "href": "https://en.wikipedia.org/wiki/Irreligion_in_Iraq"
+        }
+      ],
+      "sub_items": [
+        "90–95% Islam ( official ) 61% Shia 35% Sunni",
+        "61% Shia",
+        "35% Sunni",
+        "5–10% Christianity , Mandaeism , Yazidism , Judaism , Yarsanism , irreligion and others"
+      ]
+    },
+    {
+      "label": "Demonym",
+      "value": "Iraqi",
+      "links": [
+        {
+          "text": "Iraqi",
+          "href": "https://en.wikipedia.org/wiki/Iraqis"
+        }
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Federal parliamentary republic",
+      "links": [
+        {
+          "text": "parliamentary republic",
+          "href": "https://en.wikipedia.org/wiki/Parliamentary_republic"
+        }
+      ]
+    },
+    {
+      "label": "• President",
+      "value": "Abdul Latif Rashid",
+      "links": [
+        {
+          "text": "Abdul Latif Rashid",
+          "href": "https://en.wikipedia.org/wiki/Abdul_Latif_Rashid"
+        }
+      ]
+    },
+    {
+      "label": "• Prime Minister",
+      "value": "Mohammed Shia' al-Sudani",
+      "links": [
+        {
+          "text": "Mohammed Shia' al-Sudani",
+          "href": "https://en.wikipedia.org/wiki/Mohammed_Shia%27_al-Sudani"
+        }
+      ]
+    },
+    {
+      "label": "• Speaker",
+      "value": "Haibat al-Halbousi",
+      "links": [
+        {
+          "text": "Haibat al-Halbousi",
+          "href": "https://en.wikipedia.org/wiki/Haibat_al-Halbousi"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "Council of Representatives",
+      "links": [
+        {
+          "text": "Council of Representatives",
+          "href": "https://en.wikipedia.org/wiki/Council_of_Representatives_of_Iraq"
+        }
+      ]
+    },
+    {
+      "label": "• Upper house",
+      "value": "Federation Council",
+      "links": [
+        {
+          "text": "Federation Council",
+          "href": "https://en.wikipedia.org/wiki/Federation_Council_(Iraq)"
+        }
+      ]
+    },
+    {
+      "label": "• Lower house",
+      "value": "Council of Representatives"
+    }
+  ],
+  "sections": [
+    {
+      "header": "Establishment",
+      "rows": [
+        {
+          "label": "• Sumer",
+          "value": "c. 3300 BC"
+        },
+        {
+          "label": "• Akkadian Empire",
+          "value": "c. 2334 BC"
+        },
+        {
+          "label": "• Babylonia",
+          "value": "c. 1890 BC"
+        },
+        {
+          "label": "• Abbasid Caliphate",
+          "value": "750 AD"
+        },
+        {
+          "label": "• Independence declared",
+          "value": "3 October 1932"
+        },
+        {
+          "label": "• Republic declared",
+          "value": "14 July 1958"
+        },
+        {
+          "label": "• Current constitution",
+          "value": "15 October 2005"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "438,317 km (169,235 sq mi) ( 58th )",
+          "links": [
+            {
+              "text": "58th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "4.93 (as of 2024)"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2024 census",
+          "value": "46,118,793 ( 34th )",
+          "links": [
+            {
+              "text": "34th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• Density",
+          "value": "82.7/km (214.2/sq mi) ( 125th )",
+          "links": [
+            {
+              "text": "125th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$690.090 billion ( 44th )",
+          "links": [
+            {
+              "text": "44th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$15,180 ( 110th )",
+          "links": [
+            {
+              "text": "110th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$258.020 billion ( 51st )",
+          "links": [
+            {
+              "text": "51st",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$5,670 ( 112th )",
+          "links": [
+            {
+              "text": "112th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "Gini (2012)",
+          "value": "29.5 low inequality"
+        },
+        {
+          "label": "HDI (2024)",
+          "value": "0.712 high ( 122nd )",
+          "links": [
+            {
+              "text": "122nd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "Iraqi dinar ( IQD )",
+          "links": [
+            {
+              "text": "Iraqi dinar",
+              "href": "https://en.wikipedia.org/wiki/Iraqi_dinar"
+            },
+            {
+              "text": "IQD",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC +3 ( AST )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "AST",
+              "href": "https://en.wikipedia.org/wiki/Arabia_Standard_Time"
+            }
+          ]
+        },
+        {
+          "label": "Calling code",
+          "value": "+964",
+          "links": [
+            {
+              "text": "+964",
+              "href": "https://en.wikipedia.org/wiki/Telephone_numbers_in_Iraq"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "IQ",
+          "links": [
+            {
+              "text": "IQ",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:IQ"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".iq .العراق",
+          "links": [
+            {
+              "text": ".iq",
+              "href": "https://en.wikipedia.org/wiki/.iq"
+            },
+            {
+              "text": ".العراق",
+              "href": "https://en.wikipedia.org/wiki/Internationalized_country_code_top-level_domain"
+            }
+          ],
+          "sub_items": [
+            ".iq",
+            ".العراق"
+          ]
+        }
+      ]
+    }
+  ]
+}

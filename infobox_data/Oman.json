@@ -1,0 +1,355 @@
+{
+  "country": "Oman",
+  "infobox_title": "Sultanate of Oman سَلْطَنَة عُمَانْ ( Arabic ) Salṭanat ʿUmān",
+  "data": [
+    {
+      "label": "Capital and largest city",
+      "value": "Muscat 23°35′20″N 58°24′30″E ﻿ / ﻿ 23.58889°N 58.40833°E",
+      "links": [
+        {
+          "text": "Muscat",
+          "href": "https://en.wikipedia.org/wiki/Muscat"
+        },
+        {
+          "text": "23°35′20″N58°24′30″E﻿ / ﻿23.58889°N 58.40833°E",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Oman&params=23_35_20_N_58_24_30_E_region:OM-MA_type:city"
+        }
+      ]
+    },
+    {
+      "label": "Official languages",
+      "value": "Arabic",
+      "links": [
+        {
+          "text": "Arabic",
+          "href": "https://en.wikipedia.org/wiki/Modern_Standard_Arabic"
+        }
+      ]
+    },
+    {
+      "label": "Religion (2023)",
+      "value": "95% Islam ( official ) 1.67% Hinduism 1.67% Christianity 1.66% others",
+      "links": [
+        {
+          "text": "Islam",
+          "href": "https://en.wikipedia.org/wiki/Islam_in_Oman"
+        },
+        {
+          "text": "official",
+          "href": "https://en.wikipedia.org/wiki/State_religion"
+        },
+        {
+          "text": "Hinduism",
+          "href": "https://en.wikipedia.org/wiki/Hinduism_in_Oman"
+        },
+        {
+          "text": "Christianity",
+          "href": "https://en.wikipedia.org/wiki/Christianity_in_Oman"
+        }
+      ],
+      "sub_items": [
+        "95% Islam ( official )",
+        "1.67% Hinduism",
+        "1.67% Christianity",
+        "1.66% others"
+      ]
+    },
+    {
+      "label": "Demonym",
+      "value": "Omani",
+      "links": [
+        {
+          "text": "Omani",
+          "href": "https://en.wikipedia.org/wiki/Omanis"
+        }
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Unitary Islamic absolute monarchy",
+      "links": [
+        {
+          "text": "absolute monarchy",
+          "href": "https://en.wikipedia.org/wiki/Absolute_monarchy"
+        }
+      ]
+    },
+    {
+      "label": "• Sultan",
+      "value": "Haitham bin Tariq",
+      "links": [
+        {
+          "text": "Haitham bin Tariq",
+          "href": "https://en.wikipedia.org/wiki/Haitham_bin_Tariq"
+        }
+      ]
+    },
+    {
+      "label": "• Crown Prince",
+      "value": "Theyazin bin Haitham",
+      "links": [
+        {
+          "text": "Theyazin bin Haitham",
+          "href": "https://en.wikipedia.org/wiki/Theyazin_bin_Haitham"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "Council of Oman",
+      "links": [
+        {
+          "text": "Council of Oman",
+          "href": "https://en.wikipedia.org/wiki/Council_of_Oman"
+        }
+      ]
+    },
+    {
+      "label": "• Upper house",
+      "value": "Council of State",
+      "links": [
+        {
+          "text": "Council of State",
+          "href": "https://en.wikipedia.org/wiki/Council_of_State_(Oman)"
+        }
+      ]
+    },
+    {
+      "label": "• Lower house",
+      "value": "Consultative Assembly",
+      "links": [
+        {
+          "text": "Consultative Assembly",
+          "href": "https://en.wikipedia.org/wiki/Consultative_Assembly_(Oman)"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Establishment",
+      "rows": [
+        {
+          "label": "• Magan Civilization",
+          "value": "3000 BCE"
+        },
+        {
+          "label": "• Azd tribe migration",
+          "value": "130"
+        },
+        {
+          "label": "• Imamate established",
+          "value": "751"
+        },
+        {
+          "label": "• Nabhani dynasty",
+          "value": "1154"
+        },
+        {
+          "label": "• Portuguese rule",
+          "value": "1507–1656"
+        },
+        {
+          "label": "• Ya'rubi dynasty",
+          "value": "1624"
+        },
+        {
+          "label": "• Omani Empire",
+          "value": "1696"
+        },
+        {
+          "label": "• Al Bu Said dynasty",
+          "value": "20 November 1744"
+        },
+        {
+          "label": "• Muscat and Oman",
+          "value": "8 January 1856"
+        },
+        {
+          "label": "• Sultanate of Oman",
+          "value": "9 August 1970"
+        },
+        {
+          "label": "• Basic Statute",
+          "value": "6 November 1996"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "315,331 km (121,750 sq mi) ( 69th )",
+          "links": [
+            {
+              "text": "69th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "negligible"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2025 estimate",
+          "value": "5,494,691 ( 122nd )",
+          "links": [
+            {
+              "text": "122nd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• 2010 census",
+          "value": "2,773,479"
+        },
+        {
+          "label": "• Density",
+          "value": "15/km (38.8/sq mi) ( 177th )",
+          "links": [
+            {
+              "text": "177th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$231.16 billion ( 76th )",
+          "links": [
+            {
+              "text": "76th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$42,010 ( 53rd )",
+          "links": [
+            {
+              "text": "53rd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$104.35 billion ( 70th )",
+          "links": [
+            {
+              "text": "70th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$18,097 ( 55th )",
+          "links": [
+            {
+              "text": "55th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "Gini (2018)",
+          "value": "30.75 medium inequality"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.858 very high ( 50th )",
+          "links": [
+            {
+              "text": "50th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "Omani rial ( OMR )",
+          "links": [
+            {
+              "text": "Omani rial",
+              "href": "https://en.wikipedia.org/wiki/Omani_rial"
+            },
+            {
+              "text": "OMR",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC +4 ( GST )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "GST",
+              "href": "https://en.wikipedia.org/wiki/Gulf_Standard_Time"
+            }
+          ]
+        },
+        {
+          "label": "Date format",
+          "value": "dd.mm.yyyy"
+        },
+        {
+          "label": "Calling code",
+          "value": "+968",
+          "links": [
+            {
+              "text": "+968",
+              "href": "https://en.wikipedia.org/wiki/%2B968"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "OM",
+          "links": [
+            {
+              "text": "OM",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:OM"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".om , عمان.",
+          "links": [
+            {
+              "text": ".om",
+              "href": "https://en.wikipedia.org/wiki/.om"
+            },
+            {
+              "text": "عمان.",
+              "href": "https://en.wikipedia.org/wiki/%D8%B9%D9%85%D8%A7%D9%86."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

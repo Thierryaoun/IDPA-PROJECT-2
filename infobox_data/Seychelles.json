@@ -1,0 +1,325 @@
+{
+  "country": "Seychelles",
+  "infobox_title": "Republic of Seychelles République des Seychelles ( French ) Repiblik Sesel ( Seychellois Creole )",
+  "data": [
+    {
+      "label": "Capital and largest city",
+      "value": "Victoria 4°37′S 55°27′E ﻿ / ﻿ 4.617°S 55.450°E",
+      "links": [
+        {
+          "text": "Victoria",
+          "href": "https://en.wikipedia.org/wiki/Victoria,_Seychelles"
+        },
+        {
+          "text": "4°37′S55°27′E﻿ / ﻿4.617°S 55.450°E",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Seychelles&params=4_37_S_55_27_E_type:city"
+        }
+      ]
+    },
+    {
+      "label": "Official languages",
+      "value": "Seychellois Creole (national language) English French",
+      "links": [
+        {
+          "text": "Seychellois Creole",
+          "href": "https://en.wikipedia.org/wiki/Seychellois_Creole"
+        },
+        {
+          "text": "English",
+          "href": "https://en.wikipedia.org/wiki/English_language"
+        },
+        {
+          "text": "French",
+          "href": "https://en.wikipedia.org/wiki/French_language"
+        }
+      ],
+      "sub_items": [
+        "Seychellois Creole (national language)",
+        "English",
+        "French"
+      ]
+    },
+    {
+      "label": "Minority language",
+      "value": "Tamil",
+      "links": [
+        {
+          "text": "Tamil",
+          "href": "https://en.wikipedia.org/wiki/Tamil_language"
+        }
+      ],
+      "sub_items": [
+        "Tamil"
+      ]
+    },
+    {
+      "label": "Ethnic groups",
+      "value": "97% Seychellois Creoles 3% others",
+      "links": [
+        {
+          "text": "Seychellois Creoles",
+          "href": "https://en.wikipedia.org/wiki/Seychellois_Creole_people"
+        }
+      ]
+    },
+    {
+      "label": "Religion (2022)",
+      "value": "74.9% Christianity 5.4% Hinduism 2.4% Islam 5.1% others 12.2% unanswered",
+      "links": [
+        {
+          "text": "Christianity",
+          "href": "https://en.wikipedia.org/wiki/Christianity"
+        },
+        {
+          "text": "Hinduism",
+          "href": "https://en.wikipedia.org/wiki/Hinduism_in_Seychelles"
+        },
+        {
+          "text": "Islam",
+          "href": "https://en.wikipedia.org/wiki/Islam_in_Seychelles"
+        }
+      ],
+      "sub_items": [
+        "74.9% Christianity",
+        "5.4% Hinduism",
+        "2.4% Islam",
+        "5.1% others",
+        "12.2% unanswered"
+      ]
+    },
+    {
+      "label": "Demonyms",
+      "value": "Seychellois Seychelloise Seselwa (Creole)",
+      "sub_items": [
+        "Seychellois",
+        "Seychelloise",
+        "Seselwa (Creole)"
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Unitary presidential republic",
+      "links": [
+        {
+          "text": "presidential republic",
+          "href": "https://en.wikipedia.org/wiki/Presidential_system"
+        }
+      ]
+    },
+    {
+      "label": "• President",
+      "value": "Patrick Herminie",
+      "links": [
+        {
+          "text": "Patrick Herminie",
+          "href": "https://en.wikipedia.org/wiki/Patrick_Herminie"
+        }
+      ]
+    },
+    {
+      "label": "• Vice-President",
+      "value": "Sebastien Pillay",
+      "links": [
+        {
+          "text": "Sebastien Pillay",
+          "href": "https://en.wikipedia.org/wiki/Sebastien_Pillay"
+        }
+      ]
+    },
+    {
+      "label": "• Speaker of the National Assembly",
+      "value": "Azarel Ernesta",
+      "links": [
+        {
+          "text": "Azarel Ernesta",
+          "href": "https://en.wikipedia.org/wiki/Azarel_Ernesta"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "National Assembly",
+      "links": [
+        {
+          "text": "National Assembly",
+          "href": "https://en.wikipedia.org/wiki/National_Assembly_(Seychelles)"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Independence from the United Kingdom",
+      "rows": [
+        {
+          "label": "• Independence declared",
+          "value": "29 June 1976"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "457 km (176 sq mi) ( 181st )",
+          "links": [
+            {
+              "text": "181st",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "Negligible"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2024 estimate",
+          "value": "121,355 ( 200th )",
+          "links": [
+            {
+              "text": "200th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• Density",
+          "value": "262.3/km (679.4/sq mi) ( 67th )",
+          "links": [
+            {
+              "text": "67th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2026 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$4.490 billion ( 177th )",
+          "links": [
+            {
+              "text": "177th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$43,850 ( 49th )",
+          "links": [
+            {
+              "text": "49th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2026 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$2.250 billion ( 186th )",
+          "links": [
+            {
+              "text": "186th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$21,940 ( 50th )",
+          "links": [
+            {
+              "text": "50th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "Gini (2019)",
+          "value": "32.1 medium inequality"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.848 very high ( 54th )",
+          "links": [
+            {
+              "text": "54th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "Seychellois rupee ( SCR )",
+          "links": [
+            {
+              "text": "Seychellois rupee",
+              "href": "https://en.wikipedia.org/wiki/Seychellois_rupee"
+            },
+            {
+              "text": "SCR",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC +04:00 ( SCT )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "SCT",
+              "href": "https://en.wikipedia.org/wiki/Seychelles_Time"
+            }
+          ]
+        },
+        {
+          "label": "Calling code",
+          "value": "+248",
+          "links": [
+            {
+              "text": "+248",
+              "href": "https://en.wikipedia.org/wiki/%2B248"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "SC",
+          "links": [
+            {
+              "text": "SC",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:SC"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".sc",
+          "links": [
+            {
+              "text": ".sc",
+              "href": "https://en.wikipedia.org/wiki/.sc"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

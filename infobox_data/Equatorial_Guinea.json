@@ -1,0 +1,420 @@
+{
+  "country": "Equatorial Guinea",
+  "infobox_title": "Republic of Equatorial Guinea República de Guinea Ecuatorial ( Spanish ) République de Guinée Équatoriale ( French ) República da Guiné Equatorial ( Portuguese )",
+  "data": [
+    {
+      "label": "Capital",
+      "value": "Ciudad de la Paz 1°35′20″N 10°49′21″E ﻿ / ﻿ 1.58889°N 10.82250°E",
+      "links": [
+        {
+          "text": "Ciudad de la Paz",
+          "href": "https://en.wikipedia.org/wiki/Ciudad_de_la_Paz"
+        },
+        {
+          "text": "1°35′20″N10°49′21″E﻿ / ﻿1.58889°N 10.82250°E",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Equatorial_Guinea&params=1_35_20_N_10_49_21_E_type:city_region:GQ"
+        }
+      ]
+    },
+    {
+      "label": "Largest city",
+      "value": "Bata",
+      "links": [
+        {
+          "text": "Bata",
+          "href": "https://en.wikipedia.org/wiki/Bata,_Equatorial_Guinea"
+        }
+      ]
+    },
+    {
+      "label": "Official languages",
+      "value": "Spanish French Portuguese",
+      "links": [
+        {
+          "text": "Spanish",
+          "href": "https://en.wikipedia.org/wiki/Equatoguinean_Spanish"
+        },
+        {
+          "text": "French",
+          "href": "https://en.wikipedia.org/wiki/French_language"
+        },
+        {
+          "text": "Portuguese",
+          "href": "https://en.wikipedia.org/wiki/Equatoguinean_Portuguese"
+        }
+      ],
+      "sub_items": [
+        "Spanish",
+        "French",
+        "Portuguese"
+      ]
+    },
+    {
+      "label": "Recognised regional languages",
+      "value": "List Fang Bube Annobonese Creole Kombe Kwasio",
+      "links": [
+        {
+          "text": "Fang",
+          "href": "https://en.wikipedia.org/wiki/Fang_language"
+        },
+        {
+          "text": "Bube",
+          "href": "https://en.wikipedia.org/wiki/Bube_language"
+        },
+        {
+          "text": "Annobonese Creole",
+          "href": "https://en.wikipedia.org/wiki/Annobonese_Creole"
+        },
+        {
+          "text": "Kombe",
+          "href": "https://en.wikipedia.org/wiki/Kombe_language"
+        },
+        {
+          "text": "Kwasio",
+          "href": "https://en.wikipedia.org/wiki/Kwasio_language"
+        }
+      ],
+      "sub_items": [
+        "Fang",
+        "Bube",
+        "Annobonese Creole",
+        "Kombe",
+        "Kwasio"
+      ]
+    },
+    {
+      "label": "Ethnic groups (2020 )",
+      "value": "85.7% Fang 6.5% Bubi 3.6% Ndowe 1.6% Annobon 1.1% Bujeba 1.1% others",
+      "links": [
+        {
+          "text": "Fang",
+          "href": "https://en.wikipedia.org/wiki/Fang_people"
+        },
+        {
+          "text": "Bubi",
+          "href": "https://en.wikipedia.org/wiki/Bubi_people"
+        },
+        {
+          "text": "Ndowe",
+          "href": "https://en.wikipedia.org/wiki/Demographics_of_Equatorial_Guinea#Peoples_considered_as_natives"
+        },
+        {
+          "text": "Bujeba",
+          "href": "https://en.wikipedia.org/wiki/Kwasio_people"
+        }
+      ],
+      "sub_items": [
+        "85.7% Fang",
+        "6.5% Bubi",
+        "3.6% Ndowe",
+        "1.6% Annobon",
+        "1.1% Bujeba",
+        "1.1% others"
+      ]
+    },
+    {
+      "label": "Religion (2020)",
+      "value": "88.7% Christianity 5.0% no religion 4.0% Islam 1.7% traditional faiths 0.6% others",
+      "links": [
+        {
+          "text": "Christianity",
+          "href": "https://en.wikipedia.org/wiki/Christianity"
+        },
+        {
+          "text": "no religion",
+          "href": "https://en.wikipedia.org/wiki/Irreligious"
+        },
+        {
+          "text": "Islam",
+          "href": "https://en.wikipedia.org/wiki/Islam"
+        },
+        {
+          "text": "traditional faiths",
+          "href": "https://en.wikipedia.org/wiki/African_Traditional_Religion"
+        },
+        {
+          "text": "others",
+          "href": "https://en.wikipedia.org/wiki/Religion_in_Equatorial_Guinea"
+        }
+      ],
+      "sub_items": [
+        "88.7% Christianity",
+        "5.0% no religion",
+        "4.0% Islam",
+        "1.7% traditional faiths",
+        "0.6% others"
+      ]
+    },
+    {
+      "label": "Demonyms",
+      "value": "Equatoguinean Equatorial Guinean",
+      "links": [
+        {
+          "text": "Equatoguinean",
+          "href": "https://en.wikipedia.org/wiki/Demographics_of_Equatorial_Guinea"
+        },
+        {
+          "text": "Equatorial Guinean",
+          "href": "https://en.wikipedia.org/wiki/Demographics_of_Equatorial_Guinea"
+        }
+      ],
+      "sub_items": [
+        "Equatoguinean",
+        "Equatorial Guinean"
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Unitary presidential republic under an authoritarian hereditary dictatorship",
+      "links": [
+        {
+          "text": "presidential republic",
+          "href": "https://en.wikipedia.org/wiki/Presidential_republic"
+        },
+        {
+          "text": "hereditary dictatorship",
+          "href": "https://en.wikipedia.org/wiki/Dynasty#Hereditary_dictatorship"
+        }
+      ]
+    },
+    {
+      "label": "• President",
+      "value": "Teodoro Obiang Nguema Mbasogo",
+      "links": [
+        {
+          "text": "Teodoro Obiang Nguema Mbasogo",
+          "href": "https://en.wikipedia.org/wiki/Teodoro_Obiang_Nguema_Mbasogo"
+        }
+      ]
+    },
+    {
+      "label": "• Vice President",
+      "value": "Teodoro Nguema Obiang Mangue",
+      "links": [
+        {
+          "text": "Teodoro Nguema Obiang Mangue",
+          "href": "https://en.wikipedia.org/wiki/Teodoro_Nguema_Obiang_Mangue"
+        }
+      ]
+    },
+    {
+      "label": "• Prime Minister",
+      "value": "Manuel Osa Nsue Nsua",
+      "links": [
+        {
+          "text": "Manuel Osa Nsue Nsua",
+          "href": "https://en.wikipedia.org/wiki/Manuel_Osa_Nsue_Nsua"
+        }
+      ]
+    },
+    {
+      "label": "• Chief Justice",
+      "value": "Joaquín Asong Owono Mbang"
+    },
+    {
+      "label": "Legislature",
+      "value": "Parliament",
+      "links": [
+        {
+          "text": "Parliament",
+          "href": "https://en.wikipedia.org/wiki/Parliament_of_Equatorial_Guinea"
+        }
+      ]
+    },
+    {
+      "label": "• Upper house",
+      "value": "Senate",
+      "links": [
+        {
+          "text": "Senate",
+          "href": "https://en.wikipedia.org/wiki/Senate_(Equatorial_Guinea)"
+        }
+      ]
+    },
+    {
+      "label": "• Lower house",
+      "value": "Chamber of Deputies",
+      "links": [
+        {
+          "text": "Chamber of Deputies",
+          "href": "https://en.wikipedia.org/wiki/Chamber_of_Deputies_(Equatorial_Guinea)"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Independence from Spain",
+      "rows": [
+        {
+          "label": "• Declared",
+          "value": "12 October 1968"
+        },
+        {
+          "label": "• 1979 Equatorial Guinea coup d'état",
+          "value": "3 August 1979"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "28,050 km (10,830 sq mi) ( 141st )",
+          "links": [
+            {
+              "text": "141st",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "negligible"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2025 estimate",
+          "value": "1,795,834 ( 154th )",
+          "links": [
+            {
+              "text": "154th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• Density",
+          "value": "67/km (173.5/sq mi) ( 147th )",
+          "links": [
+            {
+              "text": "147th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$33.001 billion ( 149th )",
+          "links": [
+            {
+              "text": "149th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$20,017 ( 92nd )",
+          "links": [
+            {
+              "text": "92nd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$12.680 billion ( 149th )",
+          "links": [
+            {
+              "text": "149th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$7,750 ( 95th )",
+          "links": [
+            {
+              "text": "95th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.674 medium ( 133rd )",
+          "links": [
+            {
+              "text": "133rd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "Central African CFA franc ( XAF )",
+          "links": [
+            {
+              "text": "Central African CFA franc",
+              "href": "https://en.wikipedia.org/wiki/Central_African_CFA_franc"
+            },
+            {
+              "text": "XAF",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC +1 ( WAT )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "WAT",
+              "href": "https://en.wikipedia.org/wiki/West_Africa_Time"
+            }
+          ]
+        },
+        {
+          "label": "Calling code",
+          "value": "+240",
+          "links": [
+            {
+              "text": "+240",
+              "href": "https://en.wikipedia.org/wiki/%2B240"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "GQ",
+          "links": [
+            {
+              "text": "GQ",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:GQ"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".gq",
+          "links": [
+            {
+              "text": ".gq",
+              "href": "https://en.wikipedia.org/wiki/.gq"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

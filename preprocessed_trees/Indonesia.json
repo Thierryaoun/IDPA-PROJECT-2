@@ -1,0 +1,383 @@
+{
+  "label": "country",
+  "children": [
+    {
+      "label": "name",
+      "children": [
+        {
+          "label": "indonesia"
+        }
+      ]
+    },
+    {
+      "label": "infobox_title",
+      "children": [
+        {
+          "label": "republic of indonesia republik indonesia"
+        }
+      ]
+    },
+    {
+      "label": "capital_and_largest_city",
+      "children": [
+        {
+          "label": "jakarta / 6."
+        }
+      ]
+    },
+    {
+      "label": "official_languages",
+      "children": [
+        {
+          "label": "indonesian"
+        }
+      ]
+    },
+    {
+      "label": "indigenous_languages",
+      "children": [
+        {
+          "label": "718 languages"
+        }
+      ]
+    },
+    {
+      "label": "writing_system",
+      "children": [
+        {
+          "label": "balinese"
+        },
+        {
+          "label": "batak"
+        },
+        {
+          "label": "javanese"
+        },
+        {
+          "label": "jawi - pegon"
+        },
+        {
+          "label": "lontara"
+        },
+        {
+          "label": "makasar"
+        },
+        {
+          "label": "sundanese"
+        },
+        {
+          "label": "ulu"
+        }
+      ]
+    },
+    {
+      "label": "ethnic_groups_2010",
+      "children": [
+        {
+          "label": "40.2% javanese"
+        },
+        {
+          "label": "15.5% sundanese"
+        },
+        {
+          "label": "3.7% malay"
+        },
+        {
+          "label": "3.6% batak"
+        },
+        {
+          "label": "3.0% madurese"
+        },
+        {
+          "label": "34.0% others"
+        }
+      ]
+    },
+    {
+      "label": "religion_2024",
+      "children": [
+        {
+          "label": "87.1% islam"
+        },
+        {
+          "label": "10.45% christianity"
+        },
+        {
+          "label": "7.38% protestantism"
+        },
+        {
+          "label": "3.07% catholicism"
+        },
+        {
+          "label": "1.7% hinduism"
+        },
+        {
+          "label": "0.8% buddhism , folk , confucianism , and others"
+        }
+      ]
+    },
+    {
+      "label": "demonym",
+      "children": [
+        {
+          "label": "indonesian"
+        }
+      ]
+    },
+    {
+      "label": "government",
+      "children": [
+        {
+          "label": "unitary presidential republic"
+        }
+      ]
+    },
+    {
+      "label": "president",
+      "children": [
+        {
+          "label": "prabowo subianto"
+        }
+      ]
+    },
+    {
+      "label": "vice_president",
+      "children": [
+        {
+          "label": "gibran rakabuming raka"
+        }
+      ]
+    },
+    {
+      "label": "house_speaker",
+      "children": [
+        {
+          "label": "puan maharani"
+        }
+      ]
+    },
+    {
+      "label": "supreme_court",
+      "children": [
+        {
+          "label": "sunarto"
+        }
+      ]
+    },
+    {
+      "label": "constitutional_court",
+      "children": [
+        {
+          "label": "suhartoyo"
+        }
+      ]
+    },
+    {
+      "label": "legislature",
+      "children": [
+        {
+          "label": "people's consultative assembly"
+        }
+      ]
+    },
+    {
+      "label": "upper_house",
+      "children": [
+        {
+          "label": "regional representative council"
+        }
+      ]
+    },
+    {
+      "label": "lower_house",
+      "children": [
+        {
+          "label": "house of representatives"
+        }
+      ]
+    },
+    {
+      "label": "independence_from_the_netherlands",
+      "children": [
+        {
+          "label": "proclaimed",
+          "children": [
+            {
+              "label": "17 august 1945"
+            }
+          ]
+        },
+        {
+          "label": "recognised",
+          "children": [
+            {
+              "label": "27 december 1949"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "area",
+      "children": [
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "1,904,569 km"
+            }
+          ]
+        },
+        {
+          "label": "water",
+          "children": [
+            {
+              "label": "4.85"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "population",
+      "children": [
+        {
+          "label": "2025_estimate",
+          "children": [
+            {
+              "label": "288.315.089"
+            }
+          ]
+        },
+        {
+          "label": "2020_census",
+          "children": [
+            {
+              "label": "270,203,917"
+            }
+          ]
+        },
+        {
+          "label": "density",
+          "children": [
+            {
+              "label": "143/km"
+            }
+          ]
+        },
+        {
+          "label": "gdp_ppp",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$5.009 trillion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$17,612"
+            }
+          ]
+        },
+        {
+          "label": "gdp_nominal",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$1.430 trillion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$5,027"
+            }
+          ]
+        },
+        {
+          "label": "gini_2024",
+          "children": [
+            {
+              "label": "37.9 medium inequality"
+            }
+          ]
+        },
+        {
+          "label": "hdi_2023",
+          "children": [
+            {
+              "label": "0.728 high"
+            }
+          ]
+        },
+        {
+          "label": "currency",
+          "children": [
+            {
+              "label": "indonesian rupiah"
+            }
+          ]
+        },
+        {
+          "label": "time_zone",
+          "children": [
+            {
+              "label": "utc +7, +8, +9"
+            }
+          ]
+        },
+        {
+          "label": "date_format",
+          "children": [
+            {
+              "label": "dd/mm/yyyy"
+            }
+          ]
+        },
+        {
+          "label": "calling_code",
+          "children": [
+            {
+              "label": "+62"
+            }
+          ]
+        },
+        {
+          "label": "iso_3166_code",
+          "children": [
+            {
+              "label": "id"
+            }
+          ]
+        },
+        {
+          "label": "internet_tld",
+          "children": [
+            {
+              "label": ".id"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

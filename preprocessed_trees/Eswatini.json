@@ -1,0 +1,357 @@
+{
+  "label": "country",
+  "children": [
+    {
+      "label": "name",
+      "children": [
+        {
+          "label": "eswatini"
+        }
+      ]
+    },
+    {
+      "label": "infobox_title",
+      "children": [
+        {
+          "label": "kingdom of eswatini umbuso weswatini"
+        }
+      ]
+    },
+    {
+      "label": "capital",
+      "children": [
+        {
+          "label": "mbabane"
+        },
+        {
+          "label": "lobamba"
+        }
+      ]
+    },
+    {
+      "label": "largest_city",
+      "children": [
+        {
+          "label": "mbabane"
+        }
+      ]
+    },
+    {
+      "label": "official_languages",
+      "children": [
+        {
+          "label": "swazi"
+        },
+        {
+          "label": "english"
+        }
+      ]
+    },
+    {
+      "label": "ethnic_groups_2017",
+      "children": [
+        {
+          "label": "84% swazi"
+        },
+        {
+          "label": "10% zulu"
+        },
+        {
+          "label": "6% others"
+        }
+      ]
+    },
+    {
+      "label": "religion_2017",
+      "children": [
+        {
+          "label": "89.3% christianity"
+        },
+        {
+          "label": "84.2% protestantism"
+        },
+        {
+          "label": "3.7% roman catholic"
+        },
+        {
+          "label": "1.4% other christian"
+        },
+        {
+          "label": "7.4% no religion"
+        },
+        {
+          "label": "2.5% traditional faiths"
+        },
+        {
+          "label": "0.8% others"
+        }
+      ]
+    },
+    {
+      "label": "demonym",
+      "children": [
+        {
+          "label": "swazi"
+        }
+      ]
+    },
+    {
+      "label": "government",
+      "children": [
+        {
+          "label": "unitary diarchic absolute monarchy"
+        }
+      ]
+    },
+    {
+      "label": "king",
+      "children": [
+        {
+          "label": "mswati iii"
+        }
+      ]
+    },
+    {
+      "label": "queen_mother",
+      "children": [
+        {
+          "label": "ntfombi"
+        }
+      ]
+    },
+    {
+      "label": "prime_minister",
+      "children": [
+        {
+          "label": "russell dlamini"
+        }
+      ]
+    },
+    {
+      "label": "chief_justice",
+      "children": [
+        {
+          "label": "bheki maphalala"
+        }
+      ]
+    },
+    {
+      "label": "legislature",
+      "children": [
+        {
+          "label": "parliament"
+        }
+      ]
+    },
+    {
+      "label": "upper_house",
+      "children": [
+        {
+          "label": "senate"
+        }
+      ]
+    },
+    {
+      "label": "lower_house",
+      "children": [
+        {
+          "label": "house of assembly"
+        }
+      ]
+    },
+    {
+      "label": "independence_from_the_united_kingdom",
+      "children": [
+        {
+          "label": "independence_granted",
+          "children": [
+            {
+              "label": "6 september 1968"
+            }
+          ]
+        },
+        {
+          "label": "united_nations_membership",
+          "children": [
+            {
+              "label": "24 september 1968"
+            }
+          ]
+        },
+        {
+          "label": "current_constitution",
+          "children": [
+            {
+              "label": "2005"
+            }
+          ]
+        },
+        {
+          "label": "renaming",
+          "children": [
+            {
+              "label": "19 april 2018"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "area",
+      "children": [
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "17,364 km"
+            }
+          ]
+        },
+        {
+          "label": "water",
+          "children": [
+            {
+              "label": "0.9"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "population",
+      "children": [
+        {
+          "label": "2023_estimate",
+          "children": [
+            {
+              "label": "1,236,126"
+            }
+          ]
+        },
+        {
+          "label": "2017_census",
+          "children": [
+            {
+              "label": "1,093,238"
+            }
+          ]
+        },
+        {
+          "label": "density",
+          "children": [
+            {
+              "label": "66.8/km"
+            }
+          ]
+        },
+        {
+          "label": "gdp_ppp",
+          "children": [
+            {
+              "label": "2023 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$13.797 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$11,858"
+            }
+          ]
+        },
+        {
+          "label": "gdp_nominal",
+          "children": [
+            {
+              "label": "2023 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$4.648 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$3,995"
+            }
+          ]
+        },
+        {
+          "label": "gini_2016",
+          "children": [
+            {
+              "label": "54.6 high inequality"
+            }
+          ]
+        },
+        {
+          "label": "hdi_2023",
+          "children": [
+            {
+              "label": "0.695 medium"
+            }
+          ]
+        },
+        {
+          "label": "currency",
+          "children": [
+            {
+              "label": "lilangeni"
+            },
+            {
+              "label": "south african rand"
+            }
+          ]
+        },
+        {
+          "label": "time_zone",
+          "children": [
+            {
+              "label": "utc +2"
+            }
+          ]
+        },
+        {
+          "label": "calling_code",
+          "children": [
+            {
+              "label": "+268"
+            }
+          ]
+        },
+        {
+          "label": "iso_3166_code",
+          "children": [
+            {
+              "label": "sz"
+            }
+          ]
+        },
+        {
+          "label": "internet_tld",
+          "children": [
+            {
+              "label": ".sz"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

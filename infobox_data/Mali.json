@@ -1,0 +1,550 @@
+{
+  "country": "Mali",
+  "infobox_title": "Republic of Mali Official names Bambara : Mali ka Fasojamana / ߡߊ߬ߟߌ ߞߊ ߝߊߛߏߖߊߡߊߣߊ Fula : Republik bu Maali / 𞤈𞤫𞤨𞤵𞤦𞤤𞤭𞤳 𞤦𞤵 𞤃𞤢𞥄𞤤𞤭 Hassaniya : جُمْهُورِيَّةْ مَالِي ( Jumhūriyet Māli ) Soninke : Mali Jamaane Tamasheq : Tagduda n Mali / ⵜⴰⴳⴷⵓⴷⴰ ⵏ ⵎⴰⵍⵉ Songhay : Mali Laamaa",
+  "data": [
+    {
+      "label": "Bambara :",
+      "value": "Mali ka Fasojamana / ߡߊ߬ߟߌ ߞߊ ߝߊߛߏߖߊߡߊߣߊ"
+    },
+    {
+      "label": "Bambara :",
+      "value": "Mali ka Fasojamana / ߡߊ߬ߟߌ ߞߊ ߝߊߛߏߖߊߡߊߣߊ"
+    },
+    {
+      "label": "Fula :",
+      "value": "Republik bu Maali / 𞤈𞤫𞤨𞤵𞤦𞤤𞤭𞤳 𞤦𞤵 𞤃𞤢𞥄𞤤𞤭"
+    },
+    {
+      "label": "Hassaniya :",
+      "value": "جُمْهُورِيَّةْ مَالِي ( Jumhūriyet Māli )"
+    },
+    {
+      "label": "Soninke :",
+      "value": "Mali Jamaane"
+    },
+    {
+      "label": "Tamasheq :",
+      "value": "Tagduda n Mali / ⵜⴰⴳⴷⵓⴷⴰ ⵏ ⵎⴰⵍⵉ"
+    },
+    {
+      "label": "Songhay :",
+      "value": "Mali Laamaa"
+    },
+    {
+      "label": "Capital and largest city",
+      "value": "Bamako 12°39′N 8°0′W ﻿ / ﻿ 12.650°N 8.000°W",
+      "links": [
+        {
+          "text": "Bamako",
+          "href": "https://en.wikipedia.org/wiki/Bamako"
+        },
+        {
+          "text": "12°39′N8°0′W﻿ / ﻿12.650°N 8.000°W",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Mali&params=12_39_N_8_0_W_type:city"
+        }
+      ]
+    },
+    {
+      "label": "Official languages",
+      "value": "13 national languages Bambara Bobo Hassaniya Arabic Bozo Dogon, Toro So Fula Kassonke Maninke Minyanka Senufo, Senara Songhay, Koyraboro Senni Soninke Tamasheq",
+      "links": [
+        {
+          "text": "13 national languages",
+          "href": "https://en.wikipedia.org/wiki/Languages_of_Mali"
+        },
+        {
+          "text": "Bambara",
+          "href": "https://en.wikipedia.org/wiki/Bambara_language"
+        },
+        {
+          "text": "Bobo",
+          "href": "https://en.wikipedia.org/wiki/Bobo_language"
+        },
+        {
+          "text": "Hassaniya Arabic",
+          "href": "https://en.wikipedia.org/wiki/Hassaniya_Arabic"
+        },
+        {
+          "text": "Bozo",
+          "href": "https://en.wikipedia.org/wiki/Bozo_language"
+        },
+        {
+          "text": "Dogon, Toro So",
+          "href": "https://en.wikipedia.org/wiki/Escarpment_Dogon"
+        },
+        {
+          "text": "Fula",
+          "href": "https://en.wikipedia.org/wiki/Fula_language"
+        },
+        {
+          "text": "Kassonke",
+          "href": "https://en.wikipedia.org/wiki/Kassonke_language"
+        },
+        {
+          "text": "Maninke",
+          "href": "https://en.wikipedia.org/wiki/Maninka_language"
+        },
+        {
+          "text": "Minyanka",
+          "href": "https://en.wikipedia.org/wiki/Minyanka_language"
+        },
+        {
+          "text": "Senufo, Senara",
+          "href": "https://en.wikipedia.org/wiki/Senara_language"
+        },
+        {
+          "text": "Songhay, Koyraboro Senni",
+          "href": "https://en.wikipedia.org/wiki/Koyraboro_Senni"
+        },
+        {
+          "text": "Soninke",
+          "href": "https://en.wikipedia.org/wiki/Soninke_language"
+        },
+        {
+          "text": "Tamasheq",
+          "href": "https://en.wikipedia.org/wiki/Tamasheq_language"
+        }
+      ],
+      "sub_items": [
+        "Bambara",
+        "Bobo",
+        "Hassaniya Arabic",
+        "Bozo",
+        "Dogon, Toro So",
+        "Fula",
+        "Kassonke",
+        "Maninke",
+        "Minyanka",
+        "Senufo, Senara",
+        "Songhay, Koyraboro Senni",
+        "Soninke",
+        "Tamasheq"
+      ]
+    },
+    {
+      "label": "Spoken languages",
+      "value": "Bambara Fula Arabic Soninke Songhay Mandinka Minyanka Tamasheq Senufo Bobo Bozo Kassonke Samogo Dafing Dogon",
+      "links": [
+        {
+          "text": "Bambara",
+          "href": "https://en.wikipedia.org/wiki/Bambara_language"
+        },
+        {
+          "text": "Fula",
+          "href": "https://en.wikipedia.org/wiki/Fula_language"
+        },
+        {
+          "text": "Arabic",
+          "href": "https://en.wikipedia.org/wiki/Arabic"
+        },
+        {
+          "text": "Soninke",
+          "href": "https://en.wikipedia.org/wiki/Soninke_language"
+        },
+        {
+          "text": "Songhay",
+          "href": "https://en.wikipedia.org/wiki/Songhay_languages"
+        },
+        {
+          "text": "Mandinka",
+          "href": "https://en.wikipedia.org/wiki/Mandinka_language"
+        },
+        {
+          "text": "Minyanka",
+          "href": "https://en.wikipedia.org/wiki/Minyanka_language"
+        },
+        {
+          "text": "Tamasheq",
+          "href": "https://en.wikipedia.org/wiki/Tamasheq_language"
+        },
+        {
+          "text": "Senufo",
+          "href": "https://en.wikipedia.org/wiki/Senufo_languages"
+        },
+        {
+          "text": "Bobo",
+          "href": "https://en.wikipedia.org/wiki/Bobo_language"
+        },
+        {
+          "text": "Bozo",
+          "href": "https://en.wikipedia.org/wiki/Bozo_language"
+        },
+        {
+          "text": "Kassonke",
+          "href": "https://en.wikipedia.org/wiki/Kassonke_language"
+        },
+        {
+          "text": "Samogo",
+          "href": "https://en.wikipedia.org/wiki/Samogo_languages"
+        },
+        {
+          "text": "Dafing",
+          "href": "https://en.wikipedia.org/wiki/Marka_language"
+        },
+        {
+          "text": "Dogon",
+          "href": "https://en.wikipedia.org/wiki/Dogon_languages"
+        }
+      ],
+      "sub_items": [
+        "Bambara",
+        "Fula",
+        "Arabic",
+        "Soninke",
+        "Songhay",
+        "Mandinka",
+        "Minyanka",
+        "Tamasheq",
+        "Senufo",
+        "Bobo",
+        "Bozo",
+        "Kassonke",
+        "Samogo",
+        "Dafing",
+        "Dogon"
+      ]
+    },
+    {
+      "label": "Working language",
+      "value": "French ( de facto )",
+      "links": [
+        {
+          "text": "French",
+          "href": "https://en.wikipedia.org/wiki/French_language"
+        },
+        {
+          "text": "de facto",
+          "href": "https://en.wikipedia.org/wiki/De_facto"
+        }
+      ],
+      "sub_items": [
+        "French ( de facto )"
+      ]
+    },
+    {
+      "label": "Ethnic groups",
+      "value": "33.3% Bambara 13.3% Fula 9.6% Soninke 9.6% Senufo / Bwa 8.8% Malinke 8.7% Dogon 5.9% Songhai 3.5% Tuareg 2.1% Bobo 4.5% other",
+      "links": [
+        {
+          "text": "Bambara",
+          "href": "https://en.wikipedia.org/wiki/Bambara_people"
+        },
+        {
+          "text": "Fula",
+          "href": "https://en.wikipedia.org/wiki/Fula_people"
+        },
+        {
+          "text": "Soninke",
+          "href": "https://en.wikipedia.org/wiki/Soninke_people"
+        },
+        {
+          "text": "Senufo",
+          "href": "https://en.wikipedia.org/wiki/Senufo_people"
+        },
+        {
+          "text": "Bwa",
+          "href": "https://en.wikipedia.org/wiki/Bwa_people"
+        },
+        {
+          "text": "Malinke",
+          "href": "https://en.wikipedia.org/wiki/Mandinka_people"
+        },
+        {
+          "text": "Dogon",
+          "href": "https://en.wikipedia.org/wiki/Dogon_people"
+        },
+        {
+          "text": "Songhai",
+          "href": "https://en.wikipedia.org/wiki/Songhai_people"
+        },
+        {
+          "text": "Tuareg",
+          "href": "https://en.wikipedia.org/wiki/Tuareg_people"
+        },
+        {
+          "text": "Bobo",
+          "href": "https://en.wikipedia.org/wiki/Bobo_people"
+        },
+        {
+          "text": "other",
+          "href": "https://en.wikipedia.org/wiki/Demographics_of_Mali#Ethnic_groups"
+        }
+      ],
+      "sub_items": [
+        "33.3% Bambara",
+        "13.3% Fula",
+        "9.6% Soninke",
+        "9.6% Senufo / Bwa",
+        "8.8% Malinke",
+        "8.7% Dogon",
+        "5.9% Songhai",
+        "3.5% Tuareg",
+        "2.1% Bobo",
+        "4.5% other"
+      ]
+    },
+    {
+      "label": "Religion (2021)",
+      "value": "95% Islam 5% other",
+      "links": [
+        {
+          "text": "Islam",
+          "href": "https://en.wikipedia.org/wiki/Islam_in_Mali"
+        },
+        {
+          "text": "other",
+          "href": "https://en.wikipedia.org/wiki/Religion_in_Mali"
+        }
+      ],
+      "sub_items": [
+        "95% Islam",
+        "5% other"
+      ]
+    },
+    {
+      "label": "Demonym",
+      "value": "Malian",
+      "links": [
+        {
+          "text": "Malian",
+          "href": "https://en.wikipedia.org/wiki/Demographics_of_Mali"
+        }
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Unitary presidential republic under a military junta",
+      "links": [
+        {
+          "text": "presidential republic",
+          "href": "https://en.wikipedia.org/wiki/Presidential_republic"
+        },
+        {
+          "text": "military junta",
+          "href": "https://en.wikipedia.org/wiki/Military_junta"
+        }
+      ]
+    },
+    {
+      "label": "• President",
+      "value": "Assimi Goïta",
+      "links": [
+        {
+          "text": "Assimi Goïta",
+          "href": "https://en.wikipedia.org/wiki/Assimi_Go%C3%AFta"
+        }
+      ]
+    },
+    {
+      "label": "• Prime Minister",
+      "value": "Abdoulaye Maïga (interim)",
+      "links": [
+        {
+          "text": "Abdoulaye Maïga",
+          "href": "https://en.wikipedia.org/wiki/Abdoulaye_Ma%C3%AFga_(officer)"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "National Assembly",
+      "links": [
+        {
+          "text": "National Assembly",
+          "href": "https://en.wikipedia.org/wiki/National_Assembly_(Mali)"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Formation",
+      "rows": [
+        {
+          "label": "• Establishment of the Sudanese Republic",
+          "value": "24 November 1958"
+        },
+        {
+          "label": "• Merger with Senegal to create the Mali Federation",
+          "value": "4 April 1959"
+        },
+        {
+          "label": "• Independence from France",
+          "value": "20 June 1960"
+        },
+        {
+          "label": "• Dissolution of the Mali Federation",
+          "value": "20 August 1960"
+        },
+        {
+          "label": "• Declaration of the Republic of Mali",
+          "value": "22 September 1960"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "1,240,192 km (478,841 sq mi) ( 23rd )",
+          "links": [
+            {
+              "text": "23rd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "1.6"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2024 estimate",
+          "value": "21,990,607 ( 61st )",
+          "links": [
+            {
+              "text": "61st",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• Density",
+          "value": "11.7/km (30.3/sq mi) ( 215th )",
+          "links": [
+            {
+              "text": "215th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$72.74 billion ( 115th )",
+          "links": [
+            {
+              "text": "115th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$2,930 ( 173rd )",
+          "links": [
+            {
+              "text": "173rd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$23.21 billion ( 121st )",
+          "links": [
+            {
+              "text": "121st",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$936 ( 175th )",
+          "links": [
+            {
+              "text": "175th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "Gini (2010)",
+          "value": "33.0 medium inequality"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.419 low ( 188th )",
+          "links": [
+            {
+              "text": "188th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "West African CFA franc ( XOF )",
+          "links": [
+            {
+              "text": "West African CFA franc",
+              "href": "https://en.wikipedia.org/wiki/West_African_CFA_franc"
+            },
+            {
+              "text": "XOF",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC ±00:00 ( GMT )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "GMT",
+              "href": "https://en.wikipedia.org/wiki/Greenwich_Mean_Time"
+            }
+          ]
+        },
+        {
+          "label": "Calling code",
+          "value": "+223",
+          "links": [
+            {
+              "text": "+223",
+              "href": "https://en.wikipedia.org/wiki/%2B223"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "ML",
+          "links": [
+            {
+              "text": "ML",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:ML"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".ml",
+          "links": [
+            {
+              "text": ".ml",
+              "href": "https://en.wikipedia.org/wiki/.ml"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

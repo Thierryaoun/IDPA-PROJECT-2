@@ -1,0 +1,310 @@
+{
+  "country": "Tonga",
+  "infobox_title": "Kingdom of Tonga Puleʻanga Fakatuʻi ʻo Tonga ( Tongan )",
+  "data": [
+    {
+      "label": "Capital and largest city",
+      "value": "Nukuʻalofa 21°8′S 175°12′W ﻿ / ﻿ 21.133°S 175.200°W",
+      "links": [
+        {
+          "text": "Nukuʻalofa",
+          "href": "https://en.wikipedia.org/wiki/Nuku%CA%BBalofa"
+        },
+        {
+          "text": "21°8′S175°12′W﻿ / ﻿21.133°S 175.200°W",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Tonga&params=21_8_S_175_12_W_type:city"
+        }
+      ]
+    },
+    {
+      "label": "Official languages",
+      "value": "Tongan English",
+      "links": [
+        {
+          "text": "Tongan",
+          "href": "https://en.wikipedia.org/wiki/Tongan_language"
+        },
+        {
+          "text": "English",
+          "href": "https://en.wikipedia.org/wiki/English_language"
+        }
+      ],
+      "sub_items": [
+        "Tongan",
+        "English"
+      ]
+    },
+    {
+      "label": "Ethnic groups (2021 )",
+      "value": "96.5% Tongan 3.5% others",
+      "links": [
+        {
+          "text": "Tongan",
+          "href": "https://en.wikipedia.org/wiki/Tongans"
+        }
+      ],
+      "sub_items": [
+        "96.5% Tongan",
+        "3.5% others"
+      ]
+    },
+    {
+      "label": "Religion (2016)",
+      "value": "96.9% Christianity —64.1% Protestantism —18.6% Mormonism —14.2% Catholicism 0.5% no religion 0.1% unspecified 2.4% others",
+      "links": [
+        {
+          "text": "Christianity",
+          "href": "https://en.wikipedia.org/wiki/Christianity"
+        },
+        {
+          "text": "Protestantism",
+          "href": "https://en.wikipedia.org/wiki/Protestantism"
+        },
+        {
+          "text": "Mormonism",
+          "href": "https://en.wikipedia.org/wiki/Mormonism"
+        },
+        {
+          "text": "Catholicism",
+          "href": "https://en.wikipedia.org/wiki/Catholic_Church_in_Tonga"
+        },
+        {
+          "text": "no religion",
+          "href": "https://en.wikipedia.org/wiki/Irreligion"
+        }
+      ],
+      "sub_items": [
+        "96.9% Christianity",
+        "—64.1% Protestantism",
+        "—18.6% Mormonism",
+        "—14.2% Catholicism",
+        "0.5% no religion",
+        "0.1% unspecified",
+        "2.4% others"
+      ]
+    },
+    {
+      "label": "Demonym",
+      "value": "Tongan",
+      "links": [
+        {
+          "text": "Tongan",
+          "href": "https://en.wikipedia.org/wiki/Tongans"
+        }
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Unitary parliamentary semi-constitutional monarchy",
+      "links": [
+        {
+          "text": "semi-constitutional monarchy",
+          "href": "https://en.wikipedia.org/wiki/Semi-constitutional_monarchy"
+        }
+      ]
+    },
+    {
+      "label": "• Monarch",
+      "value": "Tupou VI",
+      "links": [
+        {
+          "text": "Tupou VI",
+          "href": "https://en.wikipedia.org/wiki/Tupou_VI"
+        }
+      ]
+    },
+    {
+      "label": "• Prime Minister",
+      "value": "Fatafehi Fakafānua",
+      "links": [
+        {
+          "text": "Fatafehi Fakafānua",
+          "href": "https://en.wikipedia.org/wiki/Fatafehi_Fakaf%C4%81nua"
+        }
+      ]
+    },
+    {
+      "label": "• Assembly Speaker",
+      "value": "ʻAlipate Tuʻivanuavou Vaea",
+      "links": [
+        {
+          "text": "ʻAlipate Tuʻivanuavou Vaea",
+          "href": "https://en.wikipedia.org/wiki/%CA%BBAlipate_Tu%CA%BBivanuavou_Vaea"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "Legislative Assembly",
+      "links": [
+        {
+          "text": "Legislative Assembly",
+          "href": "https://en.wikipedia.org/wiki/Legislative_Assembly_of_Tonga"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Formation",
+      "rows": [
+        {
+          "label": "• Unification",
+          "value": "c. 1845"
+        },
+        {
+          "label": "• Treaty of Friendship",
+          "value": "18 May 1900"
+        },
+        {
+          "label": "• Independence from the United Kingdom",
+          "value": "4 June 1970"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "748 km (289 sq mi) ( 175th )",
+          "links": [
+            {
+              "text": "175th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "4.0"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2021 census",
+          "value": "100,209 ( 199th )",
+          "links": [
+            {
+              "text": "199th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• Density",
+          "value": "139/km (360.0/sq mi) ( 92th )",
+          "links": [
+            {
+              "text": "92th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2019 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$655 million"
+        },
+        {
+          "label": "• Per capita",
+          "value": "$6,496"
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2019 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$493 million"
+        },
+        {
+          "label": "• Per capita",
+          "value": "$4,888"
+        },
+        {
+          "label": "Gini (2021)",
+          "value": "27.1 low inequality"
+        },
+        {
+          "label": "HDI (2022)",
+          "value": "0.739 high ( 98th )",
+          "links": [
+            {
+              "text": "98th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "Paʻanga ( TOP )",
+          "links": [
+            {
+              "text": "Paʻanga",
+              "href": "https://en.wikipedia.org/wiki/Tongan_pa%CA%BBanga"
+            },
+            {
+              "text": "TOP",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC +13",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "+13",
+              "href": "https://en.wikipedia.org/wiki/UTC%2B13:00"
+            }
+          ]
+        },
+        {
+          "label": "Date format",
+          "value": "dd/mm/yyyy"
+        },
+        {
+          "label": "Calling code",
+          "value": "+676",
+          "links": [
+            {
+              "text": "+676",
+              "href": "https://en.wikipedia.org/wiki/%2B676"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "TO",
+          "links": [
+            {
+              "text": "TO",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:TO"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".to",
+          "links": [
+            {
+              "text": ".to",
+              "href": "https://en.wikipedia.org/wiki/.to"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

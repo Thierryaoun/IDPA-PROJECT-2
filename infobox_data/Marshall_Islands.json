@@ -1,0 +1,318 @@
+{
+  "country": "Marshall Islands",
+  "infobox_title": "Republic of the Marshall Islands Aolepān Aorōkin M̧ajeļ ( Marshallese )",
+  "data": [
+    {
+      "label": "Status",
+      "value": "UN member state under a Compact of Free Association with the United States",
+      "links": [
+        {
+          "text": "UN member state",
+          "href": "https://en.wikipedia.org/wiki/Member_states_of_the_United_Nations"
+        },
+        {
+          "text": "Compact of Free Association",
+          "href": "https://en.wikipedia.org/wiki/Compact_of_Free_Association"
+        },
+        {
+          "text": "United States",
+          "href": "https://en.wikipedia.org/wiki/United_States"
+        }
+      ]
+    },
+    {
+      "label": "Capital and largest city",
+      "value": "Majuro 7°7′N 171°4′E ﻿ / ﻿ 7.117°N 171.067°E",
+      "links": [
+        {
+          "text": "Majuro",
+          "href": "https://en.wikipedia.org/wiki/Majuro"
+        },
+        {
+          "text": "7°7′N171°4′E﻿ / ﻿7.117°N 171.067°E",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Marshall_Islands&params=7_7_N_171_4_E_type:city"
+        }
+      ]
+    },
+    {
+      "label": "Official languages",
+      "value": "Marshallese English",
+      "links": [
+        {
+          "text": "Marshallese",
+          "href": "https://en.wikipedia.org/wiki/Marshallese_language"
+        },
+        {
+          "text": "English",
+          "href": "https://en.wikipedia.org/wiki/English_language"
+        }
+      ],
+      "sub_items": [
+        "Marshallese",
+        "English"
+      ]
+    },
+    {
+      "label": "Ethnic groups (2021 )",
+      "value": "95.6% Marshallese 4.4% others",
+      "links": [
+        {
+          "text": "Marshallese",
+          "href": "https://en.wikipedia.org/wiki/Micronesians#Marshallese_people"
+        }
+      ],
+      "sub_items": [
+        "95.6% Marshallese",
+        "4.4% others"
+      ]
+    },
+    {
+      "label": "Religion (2026 )",
+      "value": "96.2% Christianity 79.9% Protestantism 9.3% Catholicism 7.0% other Christian 1.1% no religion 2.7% others",
+      "links": [
+        {
+          "text": "Christianity",
+          "href": "https://en.wikipedia.org/wiki/Christianity"
+        },
+        {
+          "text": "Protestantism",
+          "href": "https://en.wikipedia.org/wiki/Protestantism"
+        },
+        {
+          "text": "Catholicism",
+          "href": "https://en.wikipedia.org/wiki/Catholic_Church"
+        },
+        {
+          "text": "Christian",
+          "href": "https://en.wikipedia.org/wiki/Christian"
+        },
+        {
+          "text": "no religion",
+          "href": "https://en.wikipedia.org/wiki/Irreligion"
+        }
+      ],
+      "sub_items": [
+        "96.2% Christianity 79.9% Protestantism 9.3% Catholicism 7.0% other Christian",
+        "96.2% Christianity 79.9% Protestantism 9.3% Catholicism 7.0% other Christian",
+        "79.9% Protestantism",
+        "9.3% Catholicism",
+        "7.0% other Christian",
+        "1.1% no religion",
+        "2.7% others"
+      ]
+    },
+    {
+      "label": "Demonym",
+      "value": "Marshallese",
+      "links": [
+        {
+          "text": "Marshallese",
+          "href": "https://en.wikipedia.org/wiki/Marshallese_people"
+        }
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Unitary parliamentary republic with an executive president",
+      "links": [
+        {
+          "text": "parliamentary republic with an executive president",
+          "href": "https://en.wikipedia.org/wiki/Parliamentary_republic_with_an_executive_president"
+        }
+      ]
+    },
+    {
+      "label": "• President",
+      "value": "Hilda Heine",
+      "links": [
+        {
+          "text": "Hilda Heine",
+          "href": "https://en.wikipedia.org/wiki/Hilda_Heine"
+        }
+      ]
+    },
+    {
+      "label": "• Speaker",
+      "value": "Brenson S. Wase",
+      "links": [
+        {
+          "text": "Brenson S. Wase",
+          "href": "https://en.wikipedia.org/wiki/Brenson_S._Wase"
+        }
+      ]
+    },
+    {
+      "label": "• Minister in Assistance to the President",
+      "value": "Bremity Lakjohn",
+      "links": [
+        {
+          "text": "Bremity Lakjohn",
+          "href": "https://en.wikipedia.org/wiki/Bremity_Lakjohn"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "Nitijela",
+      "links": [
+        {
+          "text": "Nitijela",
+          "href": "https://en.wikipedia.org/wiki/Legislature_of_the_Marshall_Islands"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Independence from the United States",
+      "rows": [
+        {
+          "label": "• Self-government",
+          "value": "May 1, 1979"
+        },
+        {
+          "label": "• Compact of Free Association",
+          "value": "October 21, 1986"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "181.43 km (70.05 sq mi) ( 189th )",
+          "links": [
+            {
+              "text": "189th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "Negligible"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2021 census",
+          "value": "42,418"
+        },
+        {
+          "label": "• Density",
+          "value": "233/km (603.5/sq mi) ( 47th )",
+          "links": [
+            {
+              "text": "47th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2019 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$215 million"
+        },
+        {
+          "label": "• Per capita",
+          "value": "$3,789"
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2019 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$220 million"
+        },
+        {
+          "label": "• Per capita",
+          "value": "$3,866"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.733 high ( 108th )",
+          "links": [
+            {
+              "text": "108th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "United States dollar Sovereign",
+          "links": [
+            {
+              "text": "United States dollar",
+              "href": "https://en.wikipedia.org/wiki/United_States_dollar"
+            },
+            {
+              "text": "Sovereign",
+              "href": "https://en.wikipedia.org/wiki/Sovereign_Currency_Act_of_2018"
+            }
+          ],
+          "sub_items": [
+            "United States dollar",
+            "Sovereign"
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC +12 (MHT)",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            }
+          ]
+        },
+        {
+          "label": "• Summer ( DST )",
+          "value": "Not observed"
+        },
+        {
+          "label": "Date format",
+          "value": "MM/DD/YYYY"
+        },
+        {
+          "label": "Calling code",
+          "value": "+692",
+          "links": [
+            {
+              "text": "+692",
+              "href": "https://en.wikipedia.org/wiki/%2B692"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "MH",
+          "links": [
+            {
+              "text": "MH",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:MH"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".mh",
+          "links": [
+            {
+              "text": ".mh",
+              "href": "https://en.wikipedia.org/wiki/.mh"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

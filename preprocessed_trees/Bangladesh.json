@@ -1,0 +1,399 @@
+{
+  "label": "country",
+  "children": [
+    {
+      "label": "name",
+      "children": [
+        {
+          "label": "bangladesh"
+        }
+      ]
+    },
+    {
+      "label": "infobox_title",
+      "children": [
+        {
+          "label": "people's republic of bangladesh গণপ্রজাতন্ত্রী বাংলাদেশ gôṇôprôjātôntrī bāṅlādēś"
+        }
+      ]
+    },
+    {
+      "label": "capital_and_largest_city",
+      "children": [
+        {
+          "label": "dhaka / 23."
+        }
+      ]
+    },
+    {
+      "label": "official_language_and_national_language",
+      "children": [
+        {
+          "label": "bengali"
+        }
+      ]
+    },
+    {
+      "label": "other_common_language",
+      "children": [
+        {
+          "label": "english"
+        }
+      ]
+    },
+    {
+      "label": "ethnic_groups_2022",
+      "children": [
+        {
+          "label": "chakmas"
+        },
+        {
+          "label": "garos"
+        },
+        {
+          "label": "khasis"
+        },
+        {
+          "label": "khumis"
+        },
+        {
+          "label": "manipuris"
+        },
+        {
+          "label": "marmas"
+        },
+        {
+          "label": "mizos"
+        },
+        {
+          "label": "arakanese"
+        },
+        {
+          "label": "mrus"
+        },
+        {
+          "label": "santals"
+        },
+        {
+          "label": "tanchangyas"
+        },
+        {
+          "label": "tripuris"
+        },
+        {
+          "label": "bishnupriyas"
+        }
+      ]
+    },
+    {
+      "label": "religion_2022",
+      "children": [
+        {
+          "label": "91.04% islam"
+        },
+        {
+          "label": "7.94% hinduism"
+        },
+        {
+          "label": "0.60% buddhism"
+        },
+        {
+          "label": "0.30% christianity"
+        },
+        {
+          "label": "0.12% other"
+        }
+      ]
+    },
+    {
+      "label": "demonym",
+      "children": [
+        {
+          "label": "bangladeshi"
+        }
+      ]
+    },
+    {
+      "label": "government",
+      "children": [
+        {
+          "label": "unitary parliamentary republic"
+        }
+      ]
+    },
+    {
+      "label": "president",
+      "children": [
+        {
+          "label": "mohammed shahabuddin"
+        }
+      ]
+    },
+    {
+      "label": "prime_minister",
+      "children": [
+        {
+          "label": "tarique rahman"
+        }
+      ]
+    },
+    {
+      "label": "speaker",
+      "children": [
+        {
+          "label": "hafiz uddin ahmad"
+        }
+      ]
+    },
+    {
+      "label": "chief_justice",
+      "children": [
+        {
+          "label": "zubayer rahman chowdhury"
+        }
+      ]
+    },
+    {
+      "label": "legislature",
+      "children": [
+        {
+          "label": "jatiya sangsad"
+        }
+      ]
+    },
+    {
+      "label": "independence_from_pakistan",
+      "children": [
+        {
+          "label": "east_bengal",
+          "children": [
+            {
+              "label": "15 august 1947"
+            }
+          ]
+        },
+        {
+          "label": "east_pakistan",
+          "children": [
+            {
+              "label": "29 february 1956"
+            }
+          ]
+        },
+        {
+          "label": "proclamation_of_independence",
+          "children": [
+            {
+              "label": "26 march 1971"
+            }
+          ]
+        },
+        {
+          "label": "provisional_government",
+          "children": [
+            {
+              "label": "10 april 1971"
+            }
+          ]
+        },
+        {
+          "label": "victory_in_the_liberation_war",
+          "children": [
+            {
+              "label": "16 december 1971"
+            }
+          ]
+        },
+        {
+          "label": "current_constitution",
+          "children": [
+            {
+              "label": "16 december 1972"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "area",
+      "children": [
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "148,460 km"
+            }
+          ]
+        },
+        {
+          "label": "water",
+          "children": [
+            {
+              "label": "6.4"
+            }
+          ]
+        },
+        {
+          "label": "land_area",
+          "children": [
+            {
+              "label": "130,170 km"
+            }
+          ]
+        },
+        {
+          "label": "water_area",
+          "children": [
+            {
+              "label": "18,290 km"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "population",
+      "children": [
+        {
+          "label": "2024_estimate",
+          "children": [
+            {
+              "label": "173,562,364"
+            }
+          ]
+        },
+        {
+          "label": "2022_census",
+          "children": [
+            {
+              "label": "169,828,911"
+            }
+          ]
+        },
+        {
+          "label": "density",
+          "children": [
+            {
+              "label": "1,165/km"
+            }
+          ]
+        },
+        {
+          "label": "gdp_ppp",
+          "children": [
+            {
+              "label": "2026 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$1.9 trillion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$10,850"
+            }
+          ]
+        },
+        {
+          "label": "gdp_nominal",
+          "children": [
+            {
+              "label": "2026 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$519.29 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$2,960"
+            }
+          ]
+        },
+        {
+          "label": "gini_2025",
+          "children": [
+            {
+              "label": "33.4 medium inequality"
+            }
+          ]
+        },
+        {
+          "label": "hdi_2023",
+          "children": [
+            {
+              "label": "0.685 medium"
+            }
+          ]
+        },
+        {
+          "label": "currency",
+          "children": [
+            {
+              "label": "taka"
+            }
+          ]
+        },
+        {
+          "label": "time_zone",
+          "children": [
+            {
+              "label": "utc +6"
+            }
+          ]
+        },
+        {
+          "label": "date_format",
+          "children": [
+            {
+              "label": "dd/mm/yyyy"
+            }
+          ]
+        },
+        {
+          "label": "calling_code",
+          "children": [
+            {
+              "label": "+880"
+            }
+          ]
+        },
+        {
+          "label": "iso_3166_code",
+          "children": [
+            {
+              "label": "bd"
+            }
+          ]
+        },
+        {
+          "label": "internet_tld",
+          "children": [
+            {
+              "label": ".bd"
+            },
+            {
+              "label": ".বাংলা"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,379 @@
+{
+  "country": "Democratic Republic of the Congo",
+  "infobox_title": "Democratic Republic of the Congo République démocratique du Congo ( French )",
+  "data": [
+    {
+      "label": "Capital and largest city",
+      "value": "Kinshasa 4°19′S 15°19′E ﻿ / ﻿ 4.317°S 15.317°E Country: 3°S 24°E ﻿ / ﻿ 3°S 24°E",
+      "links": [
+        {
+          "text": "Kinshasa",
+          "href": "https://en.wikipedia.org/wiki/Kinshasa"
+        },
+        {
+          "text": "4°19′S15°19′E﻿ / ﻿4.317°S 15.317°E",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Democratic_Republic_of_the_Congo&params=4_19_S_15_19_E_type:city(17,000,000)_region:CD-KN"
+        },
+        {
+          "text": "3°S24°E﻿ / ﻿3°S 24°E",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Democratic_Republic_of_the_Congo&params=3_S_24_E_type:country_region:CD"
+        }
+      ]
+    },
+    {
+      "label": "Official languages",
+      "value": "French",
+      "links": [
+        {
+          "text": "French",
+          "href": "https://en.wikipedia.org/wiki/French_language"
+        }
+      ]
+    },
+    {
+      "label": "Recognised national languages",
+      "value": "Kikongo ya leta Lingala Swahili Luba-Kasai",
+      "links": [
+        {
+          "text": "Kikongo ya leta",
+          "href": "https://en.wikipedia.org/wiki/Kituba_language"
+        },
+        {
+          "text": "Lingala",
+          "href": "https://en.wikipedia.org/wiki/Lingala"
+        },
+        {
+          "text": "Swahili",
+          "href": "https://en.wikipedia.org/wiki/Swahili_language"
+        },
+        {
+          "text": "Luba-Kasai",
+          "href": "https://en.wikipedia.org/wiki/Luba-Kasai_language"
+        }
+      ],
+      "sub_items": [
+        "Kikongo ya leta",
+        "Lingala",
+        "Swahili",
+        "Luba-Kasai"
+      ]
+    },
+    {
+      "label": "Religion (2021)",
+      "value": "95.4% Christianity 2.6% traditional faiths 1.5% Islam 0.5% others / none",
+      "links": [
+        {
+          "text": "Christianity",
+          "href": "https://en.wikipedia.org/wiki/Christianity_in_the_Democratic_Republic_of_the_Congo"
+        },
+        {
+          "text": "traditional faiths",
+          "href": "https://en.wikipedia.org/wiki/African_Traditional_Religion"
+        },
+        {
+          "text": "Islam",
+          "href": "https://en.wikipedia.org/wiki/Islam_in_the_Democratic_Republic_of_the_Congo"
+        },
+        {
+          "text": "others",
+          "href": "https://en.wikipedia.org/wiki/Religion_in_the_Democratic_Republic_of_the_Congo"
+        },
+        {
+          "text": "none",
+          "href": "https://en.wikipedia.org/wiki/Irreligion"
+        }
+      ],
+      "sub_items": [
+        "95.4% Christianity",
+        "2.6% traditional faiths",
+        "1.5% Islam",
+        "0.5% others / none"
+      ]
+    },
+    {
+      "label": "Demonym",
+      "value": "Congolese",
+      "links": [
+        {
+          "text": "Congolese",
+          "href": "https://en.wikipedia.org/wiki/Demographics_of_the_Democratic_Republic_of_the_Congo"
+        }
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Unitary semi-presidential republic",
+      "links": [
+        {
+          "text": "semi-presidential republic",
+          "href": "https://en.wikipedia.org/wiki/Semi-presidential_republic"
+        }
+      ]
+    },
+    {
+      "label": "• President",
+      "value": "Félix Tshisekedi",
+      "links": [
+        {
+          "text": "Félix Tshisekedi",
+          "href": "https://en.wikipedia.org/wiki/F%C3%A9lix_Tshisekedi"
+        }
+      ]
+    },
+    {
+      "label": "• Prime Minister",
+      "value": "Judith Suminwa",
+      "links": [
+        {
+          "text": "Judith Suminwa",
+          "href": "https://en.wikipedia.org/wiki/Judith_Suminwa"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "Parliament",
+      "links": [
+        {
+          "text": "Parliament",
+          "href": "https://en.wikipedia.org/wiki/Parliament_of_the_Democratic_Republic_of_the_Congo"
+        }
+      ]
+    },
+    {
+      "label": "• Upper house",
+      "value": "Senate",
+      "links": [
+        {
+          "text": "Senate",
+          "href": "https://en.wikipedia.org/wiki/Senate_(Democratic_Republic_of_the_Congo)"
+        }
+      ]
+    },
+    {
+      "label": "• Lower house",
+      "value": "National Assembly",
+      "links": [
+        {
+          "text": "National Assembly",
+          "href": "https://en.wikipedia.org/wiki/National_Assembly_(Democratic_Republic_of_the_Congo)"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Formation",
+      "rows": [
+        {
+          "label": "• Colonised by Leopold II of Belgium",
+          "value": "17 November 1879"
+        },
+        {
+          "label": "• Congo Free State",
+          "value": "1 July 1885"
+        },
+        {
+          "label": "• Belgian Congo",
+          "value": "15 November 1908"
+        },
+        {
+          "label": "• Independence from Belgium",
+          "value": "30 June 1960"
+        },
+        {
+          "label": "• Admitted to the United Nations",
+          "value": "20 September 1960"
+        },
+        {
+          "label": "• Democratic Republic",
+          "value": "1 August 1964"
+        },
+        {
+          "label": "• Republic of Zaire",
+          "value": "27 October 1971"
+        },
+        {
+          "label": "• First Congo War",
+          "value": "17 May 1997"
+        },
+        {
+          "label": "• Current constitution",
+          "value": "18 February 2006"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "2,345,409 km (905,567 sq mi) ( 11th )",
+          "links": [
+            {
+              "text": "11th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "3.32"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2025 estimate",
+          "value": "124,388,160 ( 15th )",
+          "links": [
+            {
+              "text": "15th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• Density",
+          "value": "48/km (124.3/sq mi) ( 168th )",
+          "links": [
+            {
+              "text": "168th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$200.76 billion ( 79th )",
+          "links": [
+            {
+              "text": "79th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$1,881 ( 180th )",
+          "links": [
+            {
+              "text": "180th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$79.120 billion ( 83rd )",
+          "links": [
+            {
+              "text": "83rd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$742 ( 182nd )",
+          "links": [
+            {
+              "text": "182nd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "Gini (2012)",
+          "value": "42.1 medium inequality"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.522 low ( 171st )",
+          "links": [
+            {
+              "text": "171st",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "Congolese franc ( CDF )",
+          "links": [
+            {
+              "text": "Congolese franc",
+              "href": "https://en.wikipedia.org/wiki/Congolese_franc"
+            },
+            {
+              "text": "CDF",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC +1 to +2 ( WAT and CAT )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "WAT",
+              "href": "https://en.wikipedia.org/wiki/West_Africa_Time"
+            },
+            {
+              "text": "CAT",
+              "href": "https://en.wikipedia.org/wiki/Central_Africa_Time"
+            }
+          ]
+        },
+        {
+          "label": "Date format",
+          "value": "dd/mm/yyyy"
+        },
+        {
+          "label": "Calling code",
+          "value": "+243",
+          "links": [
+            {
+              "text": "+243",
+              "href": "https://en.wikipedia.org/wiki/Telephone_numbers_in_the_Democratic_Republic_of_the_Congo"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "CD",
+          "links": [
+            {
+              "text": "CD",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:CD"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".cd",
+          "links": [
+            {
+              "text": ".cd",
+              "href": "https://en.wikipedia.org/wiki/.cd"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

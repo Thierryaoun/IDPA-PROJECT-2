@@ -1,0 +1,401 @@
+{
+  "country": "Burkina Faso",
+  "infobox_title": "Burkina Faso Burkĩna Faso ( Mossi ) 𞤄𞤵𞤪𞤳𞤭𞤲𞤢 𞤊𞤢𞤧𞤮𞥅 ( Fula ) Burkina Faso ߓߙߎߞߌߣߊ߫ ߝߊ߬ߛߏ߫ ( Dyula ) Burukina Faso",
+  "data": [
+    {
+      "label": "Capital and largest city",
+      "value": "Ouagadougou 12°22′N 1°32′W ﻿ / ﻿ 12.367°N 1.533°W",
+      "links": [
+        {
+          "text": "Ouagadougou",
+          "href": "https://en.wikipedia.org/wiki/Ouagadougou"
+        },
+        {
+          "text": "12°22′N1°32′W﻿ / ﻿12.367°N 1.533°W",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Burkina_Faso&params=12_22_N_1_32_W_type:city_region:BF"
+        }
+      ]
+    },
+    {
+      "label": "Official languages",
+      "value": "Mooré , Dyula and Fula , alongside any other languages so recognized by law",
+      "links": [
+        {
+          "text": "Mooré",
+          "href": "https://en.wikipedia.org/wiki/Mossi_language"
+        },
+        {
+          "text": "Dyula",
+          "href": "https://en.wikipedia.org/wiki/Dyula_language"
+        },
+        {
+          "text": "Fula",
+          "href": "https://en.wikipedia.org/wiki/Fula_language"
+        }
+      ]
+    },
+    {
+      "label": "Working languages",
+      "value": "English French",
+      "links": [
+        {
+          "text": "English",
+          "href": "https://en.wikipedia.org/wiki/English_language"
+        },
+        {
+          "text": "French",
+          "href": "https://en.wikipedia.org/wiki/French_language"
+        }
+      ],
+      "sub_items": [
+        "English",
+        "French"
+      ]
+    },
+    {
+      "label": "Ethnic groups (2024 est.)",
+      "value": "53.7% Mossi 6.8% Fula 5.9% Gurunsi 5.4% or 1.5% Bissa 5.2% Gurma 3.4% Bobo 2.2% Senufo 1.5% Lobi 0.1% Tuareg and Bella",
+      "links": [
+        {
+          "text": "Mossi",
+          "href": "https://en.wikipedia.org/wiki/Mossi_people"
+        },
+        {
+          "text": "Fula",
+          "href": "https://en.wikipedia.org/wiki/Fula_people"
+        },
+        {
+          "text": "Gurunsi",
+          "href": "https://en.wikipedia.org/wiki/Gurunsi_people"
+        },
+        {
+          "text": "Bissa",
+          "href": "https://en.wikipedia.org/wiki/Bissa_people"
+        },
+        {
+          "text": "Gurma",
+          "href": "https://en.wikipedia.org/wiki/Gurma_people"
+        },
+        {
+          "text": "Bobo",
+          "href": "https://en.wikipedia.org/wiki/Bobo_people"
+        },
+        {
+          "text": "Senufo",
+          "href": "https://en.wikipedia.org/wiki/Senufo_people"
+        },
+        {
+          "text": "Lobi",
+          "href": "https://en.wikipedia.org/wiki/Lobi_people"
+        },
+        {
+          "text": "Tuareg",
+          "href": "https://en.wikipedia.org/wiki/Tuareg_people"
+        },
+        {
+          "text": "Bella",
+          "href": "https://en.wikipedia.org/wiki/Bella_people"
+        }
+      ],
+      "sub_items": [
+        "53.7% Mossi",
+        "6.8% Fula",
+        "5.9% Gurunsi",
+        "5.4% or 1.5% Bissa",
+        "5.2% Gurma",
+        "3.4% Bobo",
+        "2.2% Senufo",
+        "1.5% Lobi",
+        "0.1% Tuareg and Bella"
+      ]
+    },
+    {
+      "label": "Religion (2019 census)",
+      "value": "63.8% Islam 26.3% Christianity 20.1% Catholicism 6.2% Protestantism 9% Animism 0.7% irreligion",
+      "links": [
+        {
+          "text": "Islam",
+          "href": "https://en.wikipedia.org/wiki/Islam_in_Burkina_Faso"
+        },
+        {
+          "text": "Christianity",
+          "href": "https://en.wikipedia.org/wiki/Christianity_in_Burkina_Faso"
+        },
+        {
+          "text": "Catholicism",
+          "href": "https://en.wikipedia.org/wiki/Catholic_Church_in_Burkina_Faso"
+        },
+        {
+          "text": "Protestantism",
+          "href": "https://en.wikipedia.org/wiki/Protestantism"
+        },
+        {
+          "text": "Animism",
+          "href": "https://en.wikipedia.org/wiki/Animism"
+        },
+        {
+          "text": "irreligion",
+          "href": "https://en.wikipedia.org/wiki/Irreligion"
+        }
+      ],
+      "sub_items": [
+        "63.8% Islam",
+        "26.3% Christianity 20.1% Catholicism 6.2% Protestantism",
+        "26.3% Christianity 20.1% Catholicism 6.2% Protestantism",
+        "20.1% Catholicism",
+        "6.2% Protestantism",
+        "9% Animism",
+        "0.7% irreligion"
+      ]
+    },
+    {
+      "label": "Demonym",
+      "value": "Burkinabé",
+      "links": [
+        {
+          "text": "Burkinabé",
+          "href": "https://en.wikipedia.org/wiki/Burkinab%C3%A9_people"
+        }
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Unitary semi-presidential republic under a military junta",
+      "links": [
+        {
+          "text": "semi-presidential republic",
+          "href": "https://en.wikipedia.org/wiki/Semi-presidential_republic"
+        },
+        {
+          "text": "military junta",
+          "href": "https://en.wikipedia.org/wiki/Military_junta"
+        }
+      ]
+    },
+    {
+      "label": "• President",
+      "value": "Ibrahim Traoré (interim)",
+      "links": [
+        {
+          "text": "Ibrahim Traoré",
+          "href": "https://en.wikipedia.org/wiki/Ibrahim_Traor%C3%A9"
+        }
+      ]
+    },
+    {
+      "label": "• Prime Minister",
+      "value": "Jean Emmanuel Ouédraogo (interim)",
+      "links": [
+        {
+          "text": "Jean Emmanuel Ouédraogo",
+          "href": "https://en.wikipedia.org/wiki/Jean_Emmanuel_Ou%C3%A9draogo"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "National Assembly",
+      "links": [
+        {
+          "text": "National Assembly",
+          "href": "https://en.wikipedia.org/wiki/National_Assembly_(Burkina_Faso)"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "History",
+      "rows": [
+        {
+          "label": "• Republic of Upper Volta proclaimed",
+          "value": "11 December 1958"
+        },
+        {
+          "label": "• Independence from France",
+          "value": "5 August 1960"
+        },
+        {
+          "label": "• 1966 Upper Voltan coup d'état",
+          "value": "3 January 1966"
+        },
+        {
+          "label": "• 2014 Burkina Faso uprising",
+          "value": "28 October – 3 November 2014"
+        },
+        {
+          "label": "• Jan 2022 Burkina Faso coup d'état",
+          "value": "23–24 January 2022"
+        },
+        {
+          "label": "• Sep 2022 Burkina Faso coup d'état",
+          "value": "30 September 2022"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "274,223 km (105,878 sq mi) ( 74th )",
+          "links": [
+            {
+              "text": "74th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "0.148%"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2023 estimate",
+          "value": "22,489,126 ( 58th )",
+          "links": [
+            {
+              "text": "58th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• Density",
+          "value": "86/km (222.7/sq mi) ( 126th )",
+          "links": [
+            {
+              "text": "126th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$72.820 billion ( 114th )",
+          "links": [
+            {
+              "text": "114th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$2,980 ( 172nd )",
+          "links": [
+            {
+              "text": "172nd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$27.06 billion ( 114th )",
+          "links": [
+            {
+              "text": "114th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$1,110 ( 166th )",
+          "links": [
+            {
+              "text": "166th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "Gini (2021)",
+          "value": "37.4 medium inequality"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.459 low ( 186th )",
+          "links": [
+            {
+              "text": "186th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "West African CFA franc ( XOF )",
+          "links": [
+            {
+              "text": "West African CFA franc",
+              "href": "https://en.wikipedia.org/wiki/West_African_CFA_franc"
+            },
+            {
+              "text": "XOF",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC ±00:00 ( GMT )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "GMT",
+              "href": "https://en.wikipedia.org/wiki/Greenwich_Mean_Time"
+            }
+          ]
+        },
+        {
+          "label": "Calling code",
+          "value": "+226",
+          "links": [
+            {
+              "text": "+226",
+              "href": "https://en.wikipedia.org/wiki/%2B226"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "BF",
+          "links": [
+            {
+              "text": "BF",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:BF"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".bf",
+          "links": [
+            {
+              "text": ".bf",
+              "href": "https://en.wikipedia.org/wiki/.bf"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

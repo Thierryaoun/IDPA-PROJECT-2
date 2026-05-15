@@ -1,0 +1,352 @@
+{
+  "label": "country",
+  "children": [
+    {
+      "label": "name",
+      "children": [
+        {
+          "label": "türkiye"
+        }
+      ]
+    },
+    {
+      "label": "infobox_title",
+      "children": [
+        {
+          "label": "republic of türkiye türkiye cumhuriyeti"
+        }
+      ]
+    },
+    {
+      "label": "capital",
+      "children": [
+        {
+          "label": "ankara / 39."
+        }
+      ]
+    },
+    {
+      "label": "largest_city",
+      "children": [
+        {
+          "label": "istanbul / 41."
+        }
+      ]
+    },
+    {
+      "label": "official_languages",
+      "children": [
+        {
+          "label": "turkish"
+        }
+      ]
+    },
+    {
+      "label": "spoken_languages",
+      "children": [
+        {
+          "label": "predominantly turkish"
+        },
+        {
+          "label": "kurdish"
+        },
+        {
+          "label": "zaza"
+        },
+        {
+          "label": "arabic"
+        },
+        {
+          "label": "circassian"
+        },
+        {
+          "label": "laz"
+        },
+        {
+          "label": "greek"
+        },
+        {
+          "label": "armenian"
+        },
+        {
+          "label": "albanian"
+        },
+        {
+          "label": "bosnian"
+        },
+        {
+          "label": "bulgarian"
+        },
+        {
+          "label": "other languages"
+        }
+      ]
+    },
+    {
+      "label": "demonyms",
+      "children": [
+        {
+          "label": "turkish"
+        },
+        {
+          "label": "turk"
+        }
+      ]
+    },
+    {
+      "label": "government",
+      "children": [
+        {
+          "label": "unitary presidential republic"
+        }
+      ]
+    },
+    {
+      "label": "president",
+      "children": [
+        {
+          "label": "recep tayyip erdoğan"
+        }
+      ]
+    },
+    {
+      "label": "vice_president",
+      "children": [
+        {
+          "label": "cevdet yılmaz"
+        }
+      ]
+    },
+    {
+      "label": "speaker",
+      "children": [
+        {
+          "label": "numan kurtulmuş"
+        }
+      ]
+    },
+    {
+      "label": "chief_justice",
+      "children": [
+        {
+          "label": "kadir özkaya"
+        }
+      ]
+    },
+    {
+      "label": "legislature",
+      "children": [
+        {
+          "label": "grand national assembly"
+        }
+      ]
+    },
+    {
+      "label": "establishment",
+      "children": [
+        {
+          "label": "ottoman_empire",
+          "children": [
+            {
+              "label": "c. 1299"
+            }
+          ]
+        },
+        {
+          "label": "war_of_independence",
+          "children": [
+            {
+              "label": "19 may 1919"
+            }
+          ]
+        },
+        {
+          "label": "government_of_the_grand_national_assembly",
+          "children": [
+            {
+              "label": "23 april 1920"
+            }
+          ]
+        },
+        {
+          "label": "sultanate_abolished",
+          "children": [
+            {
+              "label": "1 november 1922"
+            }
+          ]
+        },
+        {
+          "label": "treaty_of_lausanne",
+          "children": [
+            {
+              "label": "24 july 1923"
+            }
+          ]
+        },
+        {
+          "label": "republic_declared",
+          "children": [
+            {
+              "label": "29 october 1923"
+            }
+          ]
+        },
+        {
+          "label": "current_constitution",
+          "children": [
+            {
+              "label": "9 november 1982"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "area",
+      "children": [
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "783,562 km"
+            }
+          ]
+        },
+        {
+          "label": "water",
+          "children": [
+            {
+              "label": "2.03"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "population",
+      "children": [
+        {
+          "label": "december_2025_estimate",
+          "children": [
+            {
+              "label": "86,092,168"
+            }
+          ]
+        },
+        {
+          "label": "density",
+          "children": [
+            {
+              "label": "112 /km"
+            }
+          ]
+        },
+        {
+          "label": "gdp_ppp",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$3.77 trillion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$43,790"
+            }
+          ]
+        },
+        {
+          "label": "gdp_nominal",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$1.57 trillion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$18,200"
+            }
+          ]
+        },
+        {
+          "label": "gini_2022",
+          "children": [
+            {
+              "label": "44.5 medium inequality"
+            }
+          ]
+        },
+        {
+          "label": "hdi_2023",
+          "children": [
+            {
+              "label": "0.853 very high"
+            }
+          ]
+        },
+        {
+          "label": "currency",
+          "children": [
+            {
+              "label": "turkish lira"
+            }
+          ]
+        },
+        {
+          "label": "time_zone",
+          "children": [
+            {
+              "label": "utc +3"
+            }
+          ]
+        },
+        {
+          "label": "calling_code",
+          "children": [
+            {
+              "label": "+90"
+            }
+          ]
+        },
+        {
+          "label": "iso_3166_code",
+          "children": [
+            {
+              "label": "tr"
+            }
+          ]
+        },
+        {
+          "label": "internet_tld",
+          "children": [
+            {
+              "label": ".tr"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

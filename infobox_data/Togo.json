@@ -1,0 +1,476 @@
+{
+  "country": "Togo",
+  "infobox_title": "Togolese Republic République togolaise ( French )",
+  "data": [
+    {
+      "label": "Capital and largest city",
+      "value": "Lomé 6°8′N 1°13′E ﻿ / ﻿ 6.133°N 1.217°E",
+      "links": [
+        {
+          "text": "Lomé",
+          "href": "https://en.wikipedia.org/wiki/Lom%C3%A9"
+        },
+        {
+          "text": "6°8′N1°13′E﻿ / ﻿6.133°N 1.217°E",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Togo&params=6_8_N_1_13_E_type:city"
+        }
+      ]
+    },
+    {
+      "label": "Official languages",
+      "value": "French",
+      "links": [
+        {
+          "text": "French",
+          "href": "https://en.wikipedia.org/wiki/French_language"
+        }
+      ]
+    },
+    {
+      "label": "Spoken languages",
+      "value": "List: English French Ewe Gbe Gur Kwa Kabiye Talensi Wasa Aguna Aja Ngangam Ntcham Tammari Tem Ifè Yoruba",
+      "links": [
+        {
+          "text": "English",
+          "href": "https://en.wikipedia.org/wiki/English_language"
+        },
+        {
+          "text": "French",
+          "href": "https://en.wikipedia.org/wiki/French_language"
+        },
+        {
+          "text": "Ewe",
+          "href": "https://en.wikipedia.org/wiki/Ewe_language"
+        },
+        {
+          "text": "Gbe",
+          "href": "https://en.wikipedia.org/wiki/Gbe_languages"
+        },
+        {
+          "text": "Gur",
+          "href": "https://en.wikipedia.org/wiki/Gur_languages"
+        },
+        {
+          "text": "Kwa",
+          "href": "https://en.wikipedia.org/wiki/Kwa_languages"
+        },
+        {
+          "text": "Kabiye",
+          "href": "https://en.wikipedia.org/wiki/Kabiye_language"
+        },
+        {
+          "text": "Talensi",
+          "href": "https://en.wikipedia.org/wiki/Talni_language"
+        },
+        {
+          "text": "Wasa",
+          "href": "https://en.wikipedia.org/wiki/Wasa_dialect"
+        },
+        {
+          "text": "Aguna",
+          "href": "https://en.wikipedia.org/wiki/Aguna_language"
+        },
+        {
+          "text": "Aja",
+          "href": "https://en.wikipedia.org/wiki/Adja_language"
+        },
+        {
+          "text": "Ngangam",
+          "href": "https://en.wikipedia.org/wiki/Ngangam_language"
+        },
+        {
+          "text": "Ntcham",
+          "href": "https://en.wikipedia.org/wiki/Ntcham_language"
+        },
+        {
+          "text": "Tammari",
+          "href": "https://en.wikipedia.org/wiki/Tammari_language"
+        },
+        {
+          "text": "Tem",
+          "href": "https://en.wikipedia.org/wiki/Tem_language"
+        },
+        {
+          "text": "Ifè",
+          "href": "https://en.wikipedia.org/wiki/If%C3%A8_language"
+        },
+        {
+          "text": "Yoruba",
+          "href": "https://en.wikipedia.org/wiki/Yoruba_language"
+        }
+      ],
+      "sub_items": [
+        "English",
+        "French",
+        "Ewe",
+        "Gbe",
+        "Gur",
+        "Kwa",
+        "Kabiye",
+        "Talensi",
+        "Wasa",
+        "Aguna",
+        "Aja",
+        "Ngangam",
+        "Ntcham",
+        "Tammari",
+        "Tem",
+        "Ifè",
+        "Yoruba"
+      ]
+    },
+    {
+      "label": "Ethnic groups",
+      "value": "African (94.4%) Aja , Ewe and Mina (42.4%) Kabye and Tem (25.9%) Akan and Gurma (17.1%) Kposo and Akebu (4.1%) Ana-Ife (3.2%) Other West African groups (1.7%) non-African (5.6%)",
+      "links": [
+        {
+          "text": "African",
+          "href": "https://en.wikipedia.org/wiki/Demographics_of_Togo"
+        },
+        {
+          "text": "Aja",
+          "href": "https://en.wikipedia.org/wiki/Aja_people"
+        },
+        {
+          "text": "Ewe",
+          "href": "https://en.wikipedia.org/wiki/Ewe_people"
+        },
+        {
+          "text": "Mina",
+          "href": "https://en.wikipedia.org/wiki/Gen_language"
+        },
+        {
+          "text": "Kabye",
+          "href": "https://en.wikipedia.org/wiki/Kabye_people"
+        },
+        {
+          "text": "Tem",
+          "href": "https://en.wikipedia.org/wiki/Tem_people"
+        },
+        {
+          "text": "Akan",
+          "href": "https://en.wikipedia.org/wiki/Akan_people"
+        },
+        {
+          "text": "Gurma",
+          "href": "https://en.wikipedia.org/wiki/Gurma_people"
+        },
+        {
+          "text": "Kposo",
+          "href": "https://en.wikipedia.org/wiki/Kposo_people"
+        },
+        {
+          "text": "Akebu",
+          "href": "https://en.wikipedia.org/wiki/Kebu_language"
+        },
+        {
+          "text": "Ana-Ife",
+          "href": "https://en.wikipedia.org/wiki/Ana_people"
+        },
+        {
+          "text": "non-African",
+          "href": "https://en.wikipedia.org/wiki/Demographics_of_Togo"
+        }
+      ],
+      "sub_items": [
+        "Aja , Ewe and Mina (42.4%)",
+        "Kabye and Tem (25.9%)",
+        "Akan and Gurma (17.1%)",
+        "Kposo and Akebu (4.1%)",
+        "Ana-Ife (3.2%)",
+        "Other West African groups (1.7%)"
+      ]
+    },
+    {
+      "label": "Religion (2025)",
+      "value": "50% Christianity 33% traditional faiths 16% Islam 1% Baháʼí faith",
+      "links": [
+        {
+          "text": "Christianity",
+          "href": "https://en.wikipedia.org/wiki/Christianity"
+        },
+        {
+          "text": "traditional faiths",
+          "href": "https://en.wikipedia.org/wiki/Traditional_African_religions"
+        },
+        {
+          "text": "Islam",
+          "href": "https://en.wikipedia.org/wiki/Islam_in_Togo"
+        },
+        {
+          "text": "Baháʼí faith",
+          "href": "https://en.wikipedia.org/wiki/Bah%C3%A1%CA%BC%C3%AD_faith"
+        }
+      ],
+      "sub_items": [
+        "50% Christianity",
+        "33% traditional faiths",
+        "16% Islam",
+        "1% Baháʼí faith"
+      ]
+    },
+    {
+      "label": "Demonym",
+      "value": "Togolese",
+      "links": [
+        {
+          "text": "Togolese",
+          "href": "https://en.wikipedia.org/wiki/Demographics_of_Togo"
+        }
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Unitary parliamentary republic",
+      "links": [
+        {
+          "text": "Unitary parliamentary republic",
+          "href": "https://en.wikipedia.org/wiki/Unitary_parliamentary_republic"
+        }
+      ]
+    },
+    {
+      "label": "• President",
+      "value": "Jean-Lucien Savi de Tové",
+      "links": [
+        {
+          "text": "Jean-Lucien Savi de Tové",
+          "href": "https://en.wikipedia.org/wiki/Jean-Lucien_Savi_de_Tov%C3%A9"
+        }
+      ]
+    },
+    {
+      "label": "• Prime Minister",
+      "value": "Faure Gnassingbé",
+      "links": [
+        {
+          "text": "Faure Gnassingbé",
+          "href": "https://en.wikipedia.org/wiki/Faure_Gnassingb%C3%A9"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "Parliament",
+      "links": [
+        {
+          "text": "Parliament",
+          "href": "https://en.wikipedia.org/wiki/Parliament_of_Togo"
+        }
+      ]
+    },
+    {
+      "label": "• Upper house",
+      "value": "Senate",
+      "links": [
+        {
+          "text": "Senate",
+          "href": "https://en.wikipedia.org/wiki/Senate_(Togo)"
+        }
+      ]
+    },
+    {
+      "label": "• Lower house",
+      "value": "National Assembly",
+      "links": [
+        {
+          "text": "National Assembly",
+          "href": "https://en.wikipedia.org/wiki/National_Assembly_(Togo)"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Establishment history",
+      "rows": [
+        {
+          "label": "• German Togoland",
+          "value": "5 July 1884"
+        },
+        {
+          "label": "• French Togoland",
+          "value": "27 August 1914"
+        },
+        {
+          "label": "• Independence from France",
+          "value": "27 April 1960"
+        },
+        {
+          "label": "• Admission to the UNO",
+          "value": "20 September 1960"
+        },
+        {
+          "label": "• Current constitution",
+          "value": "6 May 2024"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "56,785 km (21,925 sq mi) ( 123rd )",
+          "links": [
+            {
+              "text": "123rd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "4.2"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2024 estimate",
+          "value": "9,583,381 ( 101st )",
+          "links": [
+            {
+              "text": "101st",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• 2022 census",
+          "value": "8,095,498"
+        },
+        {
+          "label": "• Density",
+          "value": "125.9/km (326.1/sq mi)"
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$33.050 billion ( 147th )",
+          "links": [
+            {
+              "text": "147th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$3,470 ( 166th )",
+          "links": [
+            {
+              "text": "166th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$10.020 billion ( 151st )",
+          "links": [
+            {
+              "text": "151st",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$1,050 ( 171st )",
+          "links": [
+            {
+              "text": "171st",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "Gini (2015)",
+          "value": "43.1 medium inequality"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.571 medium ( 161st )",
+          "links": [
+            {
+              "text": "161st",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "West African CFA franc ( XOF )",
+          "links": [
+            {
+              "text": "West African CFA franc",
+              "href": "https://en.wikipedia.org/wiki/West_African_CFA_franc"
+            },
+            {
+              "text": "XOF",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC +00:00 ( GMT )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "GMT",
+              "href": "https://en.wikipedia.org/wiki/Greenwich_Mean_Time"
+            }
+          ]
+        },
+        {
+          "label": "Date format",
+          "value": "dd/mm/yyyy"
+        },
+        {
+          "label": "Calling code",
+          "value": "+228",
+          "links": [
+            {
+              "text": "+228",
+              "href": "https://en.wikipedia.org/wiki/Telephone_numbers_in_Togo"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "TG",
+          "links": [
+            {
+              "text": "TG",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:TG"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".tg",
+          "links": [
+            {
+              "text": ".tg",
+              "href": "https://en.wikipedia.org/wiki/.tg"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

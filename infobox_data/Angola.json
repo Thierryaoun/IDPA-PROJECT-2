@@ -1,0 +1,373 @@
+{
+  "country": "Angola",
+  "infobox_title": "Republic of Angola República de Angola",
+  "data": [
+    {
+      "label": "Capital and largest city",
+      "value": "Luanda 8°50′S 13°20′E ﻿ / ﻿ 8.833°S 13.333°E",
+      "links": [
+        {
+          "text": "Luanda",
+          "href": "https://en.wikipedia.org/wiki/Luanda"
+        },
+        {
+          "text": "8°50′S13°20′E﻿ / ﻿8.833°S 13.333°E",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Angola&params=8_50_S_13_20_E_type:city"
+        }
+      ]
+    },
+    {
+      "label": "Official languages",
+      "value": "Portuguese",
+      "links": [
+        {
+          "text": "Portuguese",
+          "href": "https://en.wikipedia.org/wiki/Angolan_Portuguese"
+        }
+      ]
+    },
+    {
+      "label": "National languages",
+      "value": "Chokwe , Kimbundu , Kikongo , Oshiwambo , Luchazi , Umbundu",
+      "links": [
+        {
+          "text": "Chokwe",
+          "href": "https://en.wikipedia.org/wiki/Chokwe_language"
+        },
+        {
+          "text": "Kimbundu",
+          "href": "https://en.wikipedia.org/wiki/Kimbundu"
+        },
+        {
+          "text": "Kikongo",
+          "href": "https://en.wikipedia.org/wiki/Kongo_language"
+        },
+        {
+          "text": "Oshiwambo",
+          "href": "https://en.wikipedia.org/wiki/Ovambo_language"
+        },
+        {
+          "text": "Luchazi",
+          "href": "https://en.wikipedia.org/wiki/Luchazi"
+        },
+        {
+          "text": "Umbundu",
+          "href": "https://en.wikipedia.org/wiki/Umbundu"
+        }
+      ]
+    },
+    {
+      "label": "Ethnic groups (2021)",
+      "value": "37% Ovimbundu 25% Ambundu 13% Bakongo 21% other African 2% Mestiço (mixed European and African) 2% Asian 1% European",
+      "links": [
+        {
+          "text": "Ovimbundu",
+          "href": "https://en.wikipedia.org/wiki/Ovimbundu"
+        },
+        {
+          "text": "Ambundu",
+          "href": "https://en.wikipedia.org/wiki/Ambundu"
+        },
+        {
+          "text": "Bakongo",
+          "href": "https://en.wikipedia.org/wiki/Kongo_people"
+        },
+        {
+          "text": "Mestiço",
+          "href": "https://en.wikipedia.org/wiki/Mesti%C3%A7o#Mestiço_community_in_Angola"
+        },
+        {
+          "text": "Asian",
+          "href": "https://en.wikipedia.org/wiki/Asian_people"
+        },
+        {
+          "text": "European",
+          "href": "https://en.wikipedia.org/wiki/White_Angolans"
+        }
+      ],
+      "sub_items": [
+        "37% Ovimbundu",
+        "25% Ambundu",
+        "13% Bakongo",
+        "21% other African",
+        "2% Mestiço (mixed European and African)",
+        "2% Asian",
+        "1% European"
+      ]
+    },
+    {
+      "label": "Religion (2024)",
+      "value": "79.1% Christianity 44.2% Catholic 34.9% Protestant 11.5% no religion 9.4% other",
+      "links": [
+        {
+          "text": "Christianity",
+          "href": "https://en.wikipedia.org/wiki/Christianity_in_Angola"
+        },
+        {
+          "text": "no religion",
+          "href": "https://en.wikipedia.org/wiki/Irreligion"
+        }
+      ],
+      "sub_items": [
+        "79.1% Christianity 44.2% Catholic 34.9% Protestant",
+        "44.2% Catholic",
+        "34.9% Protestant",
+        "11.5% no religion",
+        "9.4% other"
+      ]
+    },
+    {
+      "label": "Demonym",
+      "value": "Angolan",
+      "links": [
+        {
+          "text": "Angolan",
+          "href": "https://en.wikipedia.org/wiki/Demographics_of_Angola"
+        }
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Unitary presidential republic",
+      "links": [
+        {
+          "text": "presidential republic",
+          "href": "https://en.wikipedia.org/wiki/Presidential_republic"
+        }
+      ]
+    },
+    {
+      "label": "• President",
+      "value": "João Lourenço",
+      "links": [
+        {
+          "text": "João Lourenço",
+          "href": "https://en.wikipedia.org/wiki/Jo%C3%A3o_Louren%C3%A7o"
+        }
+      ]
+    },
+    {
+      "label": "• Vice President",
+      "value": "Esperança da Costa",
+      "links": [
+        {
+          "text": "Esperança da Costa",
+          "href": "https://en.wikipedia.org/wiki/Esperan%C3%A7a_da_Costa"
+        }
+      ]
+    },
+    {
+      "label": "• President of the National Assembly",
+      "value": "Adão Correia de Almeida",
+      "links": [
+        {
+          "text": "Adão Correia de Almeida",
+          "href": "/w/index.php?title=Ad%C3%A3o_Correia_de_Almeida&action=edit&redlink=1"
+        }
+      ]
+    },
+    {
+      "label": "• Chief Justice",
+      "value": "Ademilson Loboto",
+      "links": [
+        {
+          "text": "Ademilson Loboto",
+          "href": "/w/index.php?title=Ademilson_Loboto&action=edit&redlink=1"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "National Assembly",
+      "links": [
+        {
+          "text": "National Assembly",
+          "href": "https://en.wikipedia.org/wiki/National_Assembly_(Angola)"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Independence from Portugal",
+      "rows": [
+        {
+          "label": "• Granted",
+          "value": "11 November 1975"
+        },
+        {
+          "label": "• United Nations full membership",
+          "value": "22 November 1976"
+        },
+        {
+          "label": "• Current constitution",
+          "value": "21 January 2010"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "1,246,700 km (481,400 sq mi) ( 22nd )",
+          "links": [
+            {
+              "text": "22nd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "negligible"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2024 census",
+          "value": "36,604,681 ( 41st )",
+          "links": [
+            {
+              "text": "41st",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• Density",
+          "value": "29.4/km (76.1/sq mi) ( 189th )",
+          "links": [
+            {
+              "text": "189th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$402.160 billion ( 58th )",
+          "links": [
+            {
+              "text": "58th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$10,230 ( 125th )",
+          "links": [
+            {
+              "text": "125th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$113.34 billion ( 68th )",
+          "links": [
+            {
+              "text": "68th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$2,880 ( 137th )",
+          "links": [
+            {
+              "text": "137th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "Gini (2018)",
+          "value": "51.3 high inequality"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.616 medium ( 148th )",
+          "links": [
+            {
+              "text": "148th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "Angolan kwanza ( AOA )",
+          "links": [
+            {
+              "text": "Angolan kwanza",
+              "href": "https://en.wikipedia.org/wiki/Angolan_kwanza"
+            },
+            {
+              "text": "AOA",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC +1 ( WAT )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "WAT",
+              "href": "https://en.wikipedia.org/wiki/West_Africa_Time"
+            }
+          ]
+        },
+        {
+          "label": "Calling code",
+          "value": "+244",
+          "links": [
+            {
+              "text": "+244",
+              "href": "https://en.wikipedia.org/wiki/Telephone_numbers_in_Angola"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "AO",
+          "links": [
+            {
+              "text": "AO",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:AO"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".ao",
+          "links": [
+            {
+              "text": ".ao",
+              "href": "https://en.wikipedia.org/wiki/.ao"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

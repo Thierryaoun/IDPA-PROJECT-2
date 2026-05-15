@@ -1,0 +1,364 @@
+{
+  "label": "country",
+  "children": [
+    {
+      "label": "name",
+      "children": [
+        {
+          "label": "nicaragua"
+        }
+      ]
+    },
+    {
+      "label": "infobox_title",
+      "children": [
+        {
+          "label": "republic of nicaragua república de nicaragua"
+        }
+      ]
+    },
+    {
+      "label": "capital_and_largest_city",
+      "children": [
+        {
+          "label": "managua / 12."
+        }
+      ]
+    },
+    {
+      "label": "official_languages",
+      "children": [
+        {
+          "label": "spanish"
+        }
+      ]
+    },
+    {
+      "label": "recognised_regional_languages",
+      "children": [
+        {
+          "label": "english"
+        },
+        {
+          "label": "miskito"
+        },
+        {
+          "label": "rama"
+        },
+        {
+          "label": "sumo"
+        },
+        {
+          "label": "moskitian creole"
+        },
+        {
+          "label": "garifuna"
+        },
+        {
+          "label": "rama cay creole"
+        }
+      ]
+    },
+    {
+      "label": "ethnic_groups_2023",
+      "children": [
+        {
+          "label": "69% mestizo"
+        },
+        {
+          "label": "17% white"
+        },
+        {
+          "label": "9% black"
+        },
+        {
+          "label": "5% indigenous"
+        }
+      ]
+    },
+    {
+      "label": "religion_2015",
+      "children": [
+        {
+          "label": "84.4% christianity"
+        },
+        {
+          "label": "55.0% catholicism"
+        },
+        {
+          "label": "27.2% protestantism"
+        },
+        {
+          "label": "2.2% other christian"
+        },
+        {
+          "label": "14.7% no religion"
+        },
+        {
+          "label": "0.9% other"
+        }
+      ]
+    },
+    {
+      "label": "demonyms",
+      "children": [
+        {
+          "label": "nicaraguan"
+        },
+        {
+          "label": "pinolero/pinolera"
+        }
+      ]
+    },
+    {
+      "label": "government",
+      "children": [
+        {
+          "label": "unitary diarchic presidential socialist republic under an authoritarian dictatorship"
+        }
+      ]
+    },
+    {
+      "label": "co_presidents",
+      "children": [
+        {
+          "label": "daniel ortega"
+        },
+        {
+          "label": "rosario murillo"
+        }
+      ]
+    },
+    {
+      "label": "president_of_the_national_assembly",
+      "children": [
+        {
+          "label": "gustavo porras cortés"
+        }
+      ]
+    },
+    {
+      "label": "chief_justice",
+      "children": [
+        {
+          "label": "alba luz ramos"
+        }
+      ]
+    },
+    {
+      "label": "legislature",
+      "children": [
+        {
+          "label": "national assembly"
+        }
+      ]
+    },
+    {
+      "label": "independence_from_spain_mexico_and_the_federal_republic_of_central_america",
+      "children": [
+        {
+          "label": "from_new_spain",
+          "children": [
+            {
+              "label": "15 september 1821"
+            }
+          ]
+        },
+        {
+          "label": "from_the_first_mexican_empire",
+          "children": [
+            {
+              "label": "1 july 1823"
+            }
+          ]
+        },
+        {
+          "label": "from_the_federal_republic_of_central_america",
+          "children": [
+            {
+              "label": "30 april 1838"
+            }
+          ]
+        },
+        {
+          "label": "recognized",
+          "children": [
+            {
+              "label": "25 july 1850"
+            }
+          ]
+        },
+        {
+          "label": "nicaraguan_revolution",
+          "children": [
+            {
+              "label": "19 july 1979"
+            }
+          ]
+        },
+        {
+          "label": "current_constitution",
+          "children": [
+            {
+              "label": "9 january 1987"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "area",
+      "children": [
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "130,375 km"
+            }
+          ]
+        },
+        {
+          "label": "water",
+          "children": [
+            {
+              "label": "7.14"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "population",
+      "children": [
+        {
+          "label": "2024_estimate",
+          "children": [
+            {
+              "label": "6,676,948"
+            }
+          ]
+        },
+        {
+          "label": "density",
+          "children": [
+            {
+              "label": "51/km"
+            }
+          ]
+        },
+        {
+          "label": "gdp_ppp",
+          "children": [
+            {
+              "label": "2024 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$56.697 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$8,492"
+            }
+          ]
+        },
+        {
+          "label": "gdp_nominal",
+          "children": [
+            {
+              "label": "2024 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$17.843 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$2,673"
+            }
+          ]
+        },
+        {
+          "label": "gini_2014",
+          "children": [
+            {
+              "label": "46.2 high inequality"
+            }
+          ]
+        },
+        {
+          "label": "hdi_2023",
+          "children": [
+            {
+              "label": "0.706 high"
+            }
+          ]
+        },
+        {
+          "label": "currency",
+          "children": [
+            {
+              "label": "córdoba"
+            }
+          ]
+        },
+        {
+          "label": "time_zone",
+          "children": [
+            {
+              "label": "utc −6"
+            }
+          ]
+        },
+        {
+          "label": "date_format",
+          "children": [
+            {
+              "label": "dd-mm-yyyy"
+            }
+          ]
+        },
+        {
+          "label": "calling_code",
+          "children": [
+            {
+              "label": "+505"
+            }
+          ]
+        },
+        {
+          "label": "iso_3166_code",
+          "children": [
+            {
+              "label": "ni"
+            }
+          ]
+        },
+        {
+          "label": "internet_tld",
+          "children": [
+            {
+              "label": ".ni"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

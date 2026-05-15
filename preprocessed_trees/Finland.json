@@ -1,0 +1,336 @@
+{
+  "label": "country",
+  "children": [
+    {
+      "label": "name",
+      "children": [
+        {
+          "label": "finland"
+        }
+      ]
+    },
+    {
+      "label": "infobox_title",
+      "children": [
+        {
+          "label": "republic of finland suomen tasavalta republiken finland"
+        }
+      ]
+    },
+    {
+      "label": "capital_and_largest_city",
+      "children": [
+        {
+          "label": "helsinki / 60."
+        }
+      ]
+    },
+    {
+      "label": "official_languages",
+      "children": [
+        {
+          "label": "finnish"
+        },
+        {
+          "label": "swedish"
+        }
+      ]
+    },
+    {
+      "label": "recognized_national_languages",
+      "children": [
+        {
+          "label": "sámi"
+        },
+        {
+          "label": "karelian"
+        },
+        {
+          "label": "finnish kalo"
+        },
+        {
+          "label": "finnish sign language"
+        },
+        {
+          "label": "finland-swedish sign language"
+        }
+      ]
+    },
+    {
+      "label": "ethnic_groups_2024",
+      "children": [
+        {
+          "label": "88.9% finns"
+        },
+        {
+          "label": "11.1% others"
+        }
+      ]
+    },
+    {
+      "label": "religion_2024",
+      "children": [
+        {
+          "label": "64.2% christianity"
+        },
+        {
+          "label": "62.2% lutheranism"
+        },
+        {
+          "label": "1.0% eastern orthodoxy"
+        },
+        {
+          "label": "1.0% other christian"
+        },
+        {
+          "label": "34.9% no religion"
+        },
+        {
+          "label": "2.0% other"
+        }
+      ]
+    },
+    {
+      "label": "demonyms",
+      "children": [
+        {
+          "label": "finnish"
+        },
+        {
+          "label": "finn"
+        }
+      ]
+    },
+    {
+      "label": "government",
+      "children": [
+        {
+          "label": "unitary parliamentary republic"
+        }
+      ]
+    },
+    {
+      "label": "president",
+      "children": [
+        {
+          "label": "alexander stubb"
+        }
+      ]
+    },
+    {
+      "label": "prime_minister",
+      "children": [
+        {
+          "label": "petteri orpo"
+        }
+      ]
+    },
+    {
+      "label": "speaker_of_the_parliament",
+      "children": [
+        {
+          "label": "jussi halla-aho"
+        }
+      ]
+    },
+    {
+      "label": "legislature",
+      "children": [
+        {
+          "label": "parliament"
+        }
+      ]
+    },
+    {
+      "label": "independence_from_soviet_russia",
+      "children": [
+        {
+          "label": "establishment_of_grand_duchy_of_finland",
+          "children": [
+            {
+              "label": "29 march 1809"
+            }
+          ]
+        },
+        {
+          "label": "declaration_of_independence",
+          "children": [
+            {
+              "label": "6 december 1917"
+            }
+          ]
+        },
+        {
+          "label": "constitution_established",
+          "children": [
+            {
+              "label": "17 july 1919"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "area",
+      "children": [
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "338,455 km"
+            }
+          ]
+        },
+        {
+          "label": "water",
+          "children": [
+            {
+              "label": "9.71"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "population",
+      "children": [
+        {
+          "label": "2024_census",
+          "children": [
+            {
+              "label": "5,635,971"
+            }
+          ]
+        },
+        {
+          "label": "density",
+          "children": [
+            {
+              "label": "18.4/km"
+            }
+          ]
+        },
+        {
+          "label": "gdp_ppp",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$373.16 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$66,500"
+            }
+          ]
+        },
+        {
+          "label": "gdp_nominal",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$303.95 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$54,160"
+            }
+          ]
+        },
+        {
+          "label": "gini_2023",
+          "children": [
+            {
+              "label": "26.6 low inequality"
+            }
+          ]
+        },
+        {
+          "label": "hdi_2023",
+          "children": [
+            {
+              "label": "0.948 very high"
+            }
+          ]
+        },
+        {
+          "label": "currency",
+          "children": [
+            {
+              "label": "euro"
+            }
+          ]
+        },
+        {
+          "label": "time_zone",
+          "children": [
+            {
+              "label": "utc +2"
+            }
+          ]
+        },
+        {
+          "label": "summer_dst",
+          "children": [
+            {
+              "label": "utc +3"
+            }
+          ]
+        },
+        {
+          "label": "date_format",
+          "children": [
+            {
+              "label": "dd . mm . yyyy"
+            }
+          ]
+        },
+        {
+          "label": "calling_code",
+          "children": [
+            {
+              "label": "+358"
+            }
+          ]
+        },
+        {
+          "label": "iso_3166_code",
+          "children": [
+            {
+              "label": "fi"
+            }
+          ]
+        },
+        {
+          "label": "internet_tld",
+          "children": [
+            {
+              "label": ".fi , .ax"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

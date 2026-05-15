@@ -1,0 +1,339 @@
+{
+  "country": "Samoa",
+  "infobox_title": "Independent State of Samoa Malo Saʻoloto Tutoʻatasi o Sāmoa ( Samoan )",
+  "data": [
+    {
+      "label": "Capital and largest city",
+      "value": "Apia 13°50′00″S 171°45′44″W ﻿ / ﻿ 13.83333°S 171.76222°W",
+      "links": [
+        {
+          "text": "Apia",
+          "href": "https://en.wikipedia.org/wiki/Apia"
+        },
+        {
+          "text": "13°50′00″S171°45′44″W﻿ / ﻿13.83333°S 171.76222°W",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Samoa&params=13_50_00_S_171_45_44_W_type:city"
+        }
+      ]
+    },
+    {
+      "label": "Official languages",
+      "value": "Samoan , English",
+      "links": [
+        {
+          "text": "Samoan",
+          "href": "https://en.wikipedia.org/wiki/Samoan_language"
+        },
+        {
+          "text": "English",
+          "href": "https://en.wikipedia.org/wiki/English_language"
+        }
+      ]
+    },
+    {
+      "label": "Ethnic groups (2021)",
+      "value": "92.6% Samoans 7.0% Euronesians 0.3% Europeans 0.1% others",
+      "links": [
+        {
+          "text": "Samoans",
+          "href": "https://en.wikipedia.org/wiki/Samoans"
+        },
+        {
+          "text": "Euronesians",
+          "href": "https://en.wikipedia.org/wiki/Euronesian"
+        },
+        {
+          "text": "Europeans",
+          "href": "https://en.wikipedia.org/wiki/Europeans"
+        }
+      ],
+      "sub_items": [
+        "92.6% Samoans",
+        "7.0% Euronesians",
+        "0.3% Europeans",
+        "0.1% others"
+      ]
+    },
+    {
+      "label": "Religion (2021)",
+      "value": "97.9% Christianity ( official ) 54.9% Protestantism 18.8% Catholicism 16.9% Mormonism 7.3% other Christian 1.7% no religion 0.4% others",
+      "links": [
+        {
+          "text": "Christianity",
+          "href": "https://en.wikipedia.org/wiki/Christianity"
+        },
+        {
+          "text": "official",
+          "href": "https://en.wikipedia.org/wiki/State_religion"
+        },
+        {
+          "text": "Protestantism",
+          "href": "https://en.wikipedia.org/wiki/Protestantism"
+        },
+        {
+          "text": "Catholicism",
+          "href": "https://en.wikipedia.org/wiki/Catholicism"
+        },
+        {
+          "text": "Mormonism",
+          "href": "https://en.wikipedia.org/wiki/Mormonism"
+        },
+        {
+          "text": "Christian",
+          "href": "https://en.wikipedia.org/wiki/Christian"
+        },
+        {
+          "text": "no religion",
+          "href": "https://en.wikipedia.org/wiki/Irreligion"
+        }
+      ],
+      "sub_items": [
+        "97.9% Christianity ( official ) 54.9% Protestantism 18.8% Catholicism 16.9% Mormonism 7.3% other Christian",
+        "97.9% Christianity ( official ) 54.9% Protestantism 18.8% Catholicism 16.9% Mormonism 7.3% other Christian",
+        "54.9% Protestantism",
+        "18.8% Catholicism",
+        "16.9% Mormonism",
+        "7.3% other Christian",
+        "1.7% no religion",
+        "0.4% others"
+      ]
+    },
+    {
+      "label": "Demonym",
+      "value": "Samoan",
+      "links": [
+        {
+          "text": "Samoan",
+          "href": "https://en.wikipedia.org/wiki/Samoans"
+        }
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Unitary parliamentary republic",
+      "links": [
+        {
+          "text": "Unitary parliamentary republic",
+          "href": "https://en.wikipedia.org/wiki/Unitary_parliamentary_republic"
+        }
+      ]
+    },
+    {
+      "label": "• O le Ao o le Malo",
+      "value": "Tuimalealiʻifano Vaʻaletoʻa Sualauvi II",
+      "links": [
+        {
+          "text": "Tuimalealiʻifano Vaʻaletoʻa Sualauvi II",
+          "href": "https://en.wikipedia.org/wiki/Tuimaleali%CA%BBifano_Va%CA%BBaleto%CA%BBa_Sualauvi_II"
+        }
+      ]
+    },
+    {
+      "label": "• Prime Minister",
+      "value": "Laʻauli Leuatea Schmidt",
+      "links": [
+        {
+          "text": "Laʻauli Leuatea Schmidt",
+          "href": "https://en.wikipedia.org/wiki/La%CA%BBauli_Leuatea_Schmidt"
+        }
+      ]
+    },
+    {
+      "label": "• Assembly Speaker",
+      "value": "Auapaʻau Mulipola Aloitafua",
+      "links": [
+        {
+          "text": "Auapaʻau Mulipola Aloitafua",
+          "href": "https://en.wikipedia.org/wiki/Auapa%CA%BBau_Mulipola_Aloitafua"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "Legislative Assembly",
+      "links": [
+        {
+          "text": "Legislative Assembly",
+          "href": "https://en.wikipedia.org/wiki/Legislative_Assembly_of_Samoa"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Independence from New Zealand",
+      "rows": [
+        {
+          "label": "• Treaty of Berlin",
+          "value": "14 June 1889"
+        },
+        {
+          "label": "• Tripartite Convention",
+          "value": "16 February 1900"
+        },
+        {
+          "label": "• Colonisation by Germany",
+          "value": "1 March 1900"
+        },
+        {
+          "label": "• Occupied by New Zealand",
+          "value": "30 August 1914"
+        },
+        {
+          "label": "• League mandate",
+          "value": "17 December 1920"
+        },
+        {
+          "label": "• UN trusteeship",
+          "value": "13 December 1946"
+        },
+        {
+          "label": "• Western Samoa Act 1961",
+          "value": "1 January 1962"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "2,831 km (1,093 sq mi) ( 167th )",
+          "links": [
+            {
+              "text": "167th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "0.3"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• November 2021 census",
+          "value": "205,557 ( 176th )",
+          "links": [
+            {
+              "text": "176th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• Density",
+          "value": "70/km (181.3/sq mi)"
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2024 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$1.225 billion"
+        },
+        {
+          "label": "• Per capita",
+          "value": "$5,962"
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2024 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$908.561 million"
+        },
+        {
+          "label": "• Per capita",
+          "value": "$4,420"
+        },
+        {
+          "label": "Gini (2013)",
+          "value": "38.7 medium inequality"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.708 high ( 122nd )",
+          "links": [
+            {
+              "text": "122nd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "Tālā (WS $ ) ( WST )",
+          "links": [
+            {
+              "text": "Tālā",
+              "href": "https://en.wikipedia.org/wiki/T%C4%81l%C4%81"
+            },
+            {
+              "text": "$",
+              "href": "https://en.wikipedia.org/wiki/$"
+            },
+            {
+              "text": "WST",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC +13 ( WST )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "WST",
+              "href": "https://en.wikipedia.org/wiki/UTC%2B13:00"
+            }
+          ]
+        },
+        {
+          "label": "Date format",
+          "value": "dd/mm/yyyy"
+        },
+        {
+          "label": "Calling code",
+          "value": "+685",
+          "links": [
+            {
+              "text": "+685",
+              "href": "https://en.wikipedia.org/wiki/%2B685"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "WS",
+          "links": [
+            {
+              "text": "WS",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:WS"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".ws",
+          "links": [
+            {
+              "text": ".ws",
+              "href": "https://en.wikipedia.org/wiki/.ws"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

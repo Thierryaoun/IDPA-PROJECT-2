@@ -1,0 +1,312 @@
+{
+  "country": "Kiribati",
+  "infobox_title": "Republic of Kiribati Ribaberiki Kiribati ( Gilbertese )",
+  "data": [
+    {
+      "label": "Capital",
+      "value": "Tarawa 1°28′N 173°2′E ﻿ / ﻿ 1.467°N 173.033°E",
+      "links": [
+        {
+          "text": "Tarawa",
+          "href": "https://en.wikipedia.org/wiki/Tarawa"
+        },
+        {
+          "text": "1°28′N173°2′E﻿ / ﻿1.467°N 173.033°E",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Kiribati&params=1_28_N_173_2_E_type:city_region:KI"
+        }
+      ]
+    },
+    {
+      "label": "Official languages",
+      "value": "English Gilbertese",
+      "links": [
+        {
+          "text": "English",
+          "href": "https://en.wikipedia.org/wiki/English_language"
+        },
+        {
+          "text": "Gilbertese",
+          "href": "https://en.wikipedia.org/wiki/Gilbertese_language"
+        }
+      ],
+      "sub_items": [
+        "English",
+        "Gilbertese"
+      ]
+    },
+    {
+      "label": "Ethnic groups (2020 census)",
+      "value": "95.7% Gilbertese 4.3% other",
+      "links": [
+        {
+          "text": "Gilbertese",
+          "href": "https://en.wikipedia.org/wiki/Demographics_of_Kiribati"
+        }
+      ],
+      "sub_items": [
+        "95.7% Gilbertese",
+        "4.3% other"
+      ]
+    },
+    {
+      "label": "Religion (2020 census)",
+      "value": "96.2% Christianity 58.9% Catholic Church 21.2% Uniting Church 16.1% other Christian 2.1% Bahá'í Faith 1.7% other / none",
+      "links": [
+        {
+          "text": "Christianity",
+          "href": "https://en.wikipedia.org/wiki/Religion_in_Kiribati"
+        },
+        {
+          "text": "Catholic Church",
+          "href": "https://en.wikipedia.org/wiki/Catholic_Church_in_Kiribati"
+        },
+        {
+          "text": "Uniting Church",
+          "href": "https://en.wikipedia.org/wiki/Kiribati_Uniting_Church"
+        },
+        {
+          "text": "Christian",
+          "href": "https://en.wikipedia.org/wiki/List_of_Christian_denominations"
+        },
+        {
+          "text": "Bahá'í Faith",
+          "href": "https://en.wikipedia.org/wiki/Bah%C3%A1%CA%BC%C3%AD_Faith_in_Kiribati"
+        },
+        {
+          "text": "other",
+          "href": "https://en.wikipedia.org/wiki/Religion_in_Kiribati"
+        },
+        {
+          "text": "none",
+          "href": "https://en.wikipedia.org/wiki/Irreligion"
+        }
+      ],
+      "sub_items": [
+        "96.2% Christianity 58.9% Catholic Church 21.2% Uniting Church 16.1% other Christian",
+        "96.2% Christianity 58.9% Catholic Church 21.2% Uniting Church 16.1% other Christian",
+        "58.9% Catholic Church",
+        "21.2% Uniting Church",
+        "16.1% other Christian",
+        "2.1% Bahá'í Faith",
+        "1.7% other / none"
+      ]
+    },
+    {
+      "label": "Demonym",
+      "value": "I-Kiribati",
+      "links": [
+        {
+          "text": "I-Kiribati",
+          "href": "https://en.wikipedia.org/wiki/Micronesians#Kiribati_people"
+        }
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Unitary parliamentary republic with an executive president",
+      "links": [
+        {
+          "text": "parliamentary republic with an executive president",
+          "href": "https://en.wikipedia.org/wiki/Parliamentary_republic_with_an_executive_president"
+        }
+      ]
+    },
+    {
+      "label": "• President",
+      "value": "Taneti Maamau",
+      "links": [
+        {
+          "text": "Taneti Maamau",
+          "href": "https://en.wikipedia.org/wiki/Taneti_Maamau"
+        }
+      ]
+    },
+    {
+      "label": "• Vice-President",
+      "value": "Teuea Toatu",
+      "links": [
+        {
+          "text": "Teuea Toatu",
+          "href": "https://en.wikipedia.org/wiki/Teuea_Toatu"
+        }
+      ]
+    },
+    {
+      "label": "• Speaker of the House of Assembly",
+      "value": "Willie Tokataake",
+      "links": [
+        {
+          "text": "Willie Tokataake",
+          "href": "https://en.wikipedia.org/wiki/Willie_Tokataake"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "House of Assembly",
+      "links": [
+        {
+          "text": "House of Assembly",
+          "href": "https://en.wikipedia.org/wiki/House_of_Assembly_(Kiribati)"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Independence from the United Kingdom",
+      "rows": [
+        {
+          "label": "• Granted",
+          "value": "12 July 1979"
+        },
+        {
+          "label": "• Treaty of Tarawa",
+          "value": "20 September 1979"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "811.19 km (313.20 sq mi) ( 172nd )",
+          "links": [
+            {
+              "text": "172nd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2024 estimate",
+          "value": "116,545 ( 192nd )",
+          "links": [
+            {
+              "text": "192nd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• 2024 census",
+          "value": "119,438"
+        },
+        {
+          "label": "• Density",
+          "value": "149.64/km (387.6/sq mi)"
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2023 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$297 million"
+        },
+        {
+          "label": "• Per capita",
+          "value": "$2,381"
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2023 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$248 million"
+        },
+        {
+          "label": "• Per capita",
+          "value": "$1,989"
+        },
+        {
+          "label": "Gini (2019)",
+          "value": "27.8 low inequality"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.644 medium ( 140th )",
+          "links": [
+            {
+              "text": "140th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "Australian dollar ($) ( AUD )",
+          "links": [
+            {
+              "text": "Australian dollar",
+              "href": "https://en.wikipedia.org/wiki/Australian_dollar"
+            },
+            {
+              "text": "AUD",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC +12 , +13 , +14",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "+12",
+              "href": "https://en.wikipedia.org/wiki/UTC%2B12:00"
+            },
+            {
+              "text": "+13",
+              "href": "https://en.wikipedia.org/wiki/UTC%2B13:00"
+            },
+            {
+              "text": "+14",
+              "href": "https://en.wikipedia.org/wiki/UTC%2B14:00"
+            }
+          ]
+        },
+        {
+          "label": "Calling code",
+          "value": "+686",
+          "links": [
+            {
+              "text": "+686",
+              "href": "https://en.wikipedia.org/wiki/Telephone_numbers_in_Kiribati"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "KI",
+          "links": [
+            {
+              "text": "KI",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:KI"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".ki",
+          "links": [
+            {
+              "text": ".ki",
+              "href": "https://en.wikipedia.org/wiki/.ki"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

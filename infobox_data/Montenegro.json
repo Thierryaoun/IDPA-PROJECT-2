@@ -1,0 +1,438 @@
+{
+  "country": "Montenegro",
+  "infobox_title": "Montenegro Crna Gora , Црна Гора ( Montenegrin ) Crna Gora , Црна Гора ( Serbian ) Crna Gora ( Bosnian ) Crna Gora ( Croatian ) Mali i Zi ( Albanian )",
+  "data": [
+    {
+      "label": "Capital and largest city",
+      "value": "Podgorica 42°47′N 19°28′E ﻿ / ﻿ 42.783°N 19.467°E",
+      "links": [
+        {
+          "text": "Podgorica",
+          "href": "https://en.wikipedia.org/wiki/Podgorica"
+        },
+        {
+          "text": "42°47′N19°28′E﻿ / ﻿42.783°N 19.467°E",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Montenegro&params=42_47_N_19_28_E_type:city"
+        }
+      ]
+    },
+    {
+      "label": "Official languages",
+      "value": "Montenegrin",
+      "links": [
+        {
+          "text": "Montenegrin",
+          "href": "https://en.wikipedia.org/wiki/Montenegrin_language"
+        }
+      ]
+    },
+    {
+      "label": "Languages in official use",
+      "value": "Albanian Bosnian Croatian Serbian",
+      "links": [
+        {
+          "text": "Albanian",
+          "href": "https://en.wikipedia.org/wiki/Albanian_language"
+        },
+        {
+          "text": "Bosnian",
+          "href": "https://en.wikipedia.org/wiki/Bosnian_language"
+        },
+        {
+          "text": "Croatian",
+          "href": "https://en.wikipedia.org/wiki/Croatian_language"
+        },
+        {
+          "text": "Serbian",
+          "href": "https://en.wikipedia.org/wiki/Serbian_language"
+        }
+      ],
+      "sub_items": [
+        "Albanian",
+        "Bosnian",
+        "Croatian",
+        "Serbian"
+      ]
+    },
+    {
+      "label": "Ethnic groups (2023 census)",
+      "value": "41.1% Montenegrins 32.9% Serbs 11.1% Bosniaks or Muslims 5.0% Albanians 2.1% Russians 5.8% others or undeclared",
+      "links": [
+        {
+          "text": "Montenegrins",
+          "href": "https://en.wikipedia.org/wiki/Montenegrins"
+        },
+        {
+          "text": "Serbs",
+          "href": "https://en.wikipedia.org/wiki/Serbs_of_Montenegro"
+        },
+        {
+          "text": "Bosniaks",
+          "href": "https://en.wikipedia.org/wiki/Bosniaks_of_Montenegro"
+        },
+        {
+          "text": "Muslims",
+          "href": "https://en.wikipedia.org/wiki/Muslims_(ethnic_group)"
+        },
+        {
+          "text": "Albanians",
+          "href": "https://en.wikipedia.org/wiki/Albanians_in_Montenegro"
+        },
+        {
+          "text": "Russians",
+          "href": "https://en.wikipedia.org/wiki/Russians"
+        },
+        {
+          "text": "others or undeclared",
+          "href": "https://en.wikipedia.org/wiki/Demographics_of_Montenegro"
+        }
+      ],
+      "sub_items": [
+        "41.1% Montenegrins",
+        "32.9% Serbs",
+        "11.1% Bosniaks or Muslims",
+        "5.0% Albanians",
+        "2.1% Russians",
+        "5.8% others or undeclared"
+      ]
+    },
+    {
+      "label": "Religion (2023 census)",
+      "value": "74.9% Christianity 71.1% Eastern Orthodoxy 3.2% Catholicism 0.6% other Christian 19.9% Islam 2.7% no religion 0.3% other 2.2% not stated",
+      "links": [
+        {
+          "text": "Christianity",
+          "href": "https://en.wikipedia.org/wiki/Christianity"
+        },
+        {
+          "text": "Eastern Orthodoxy",
+          "href": "https://en.wikipedia.org/wiki/Eastern_Orthodoxy_in_Montenegro"
+        },
+        {
+          "text": "Catholicism",
+          "href": "https://en.wikipedia.org/wiki/Catholic_Church_in_Montenegro"
+        },
+        {
+          "text": "Christian",
+          "href": "https://en.wikipedia.org/wiki/List_of_Christian_denominations"
+        },
+        {
+          "text": "Islam",
+          "href": "https://en.wikipedia.org/wiki/Islam_in_Montenegro"
+        },
+        {
+          "text": "no religion",
+          "href": "https://en.wikipedia.org/wiki/Irreligion_in_Montenegro"
+        },
+        {
+          "text": "other",
+          "href": "https://en.wikipedia.org/wiki/Religion_in_Montenegro"
+        }
+      ],
+      "sub_items": [
+        "74.9% Christianity 71.1% Eastern Orthodoxy 3.2% Catholicism 0.6% other Christian",
+        "74.9% Christianity 71.1% Eastern Orthodoxy 3.2% Catholicism 0.6% other Christian",
+        "71.1% Eastern Orthodoxy",
+        "3.2% Catholicism",
+        "0.6% other Christian",
+        "19.9% Islam",
+        "2.7% no religion",
+        "0.3% other",
+        "2.2% not stated"
+      ]
+    },
+    {
+      "label": "Demonym",
+      "value": "Montenegrin",
+      "links": [
+        {
+          "text": "Montenegrin",
+          "href": "https://en.wikipedia.org/wiki/Montenegrins"
+        }
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Unitary parliamentary republic",
+      "links": [
+        {
+          "text": "Unitary parliamentary republic",
+          "href": "https://en.wikipedia.org/wiki/Unitary_parliamentary_republic"
+        }
+      ]
+    },
+    {
+      "label": "• President",
+      "value": "Jakov Milatović",
+      "links": [
+        {
+          "text": "Jakov Milatović",
+          "href": "https://en.wikipedia.org/wiki/Jakov_Milatovi%C4%87"
+        }
+      ]
+    },
+    {
+      "label": "• Prime Minister",
+      "value": "Milojko Spajić",
+      "links": [
+        {
+          "text": "Milojko Spajić",
+          "href": "https://en.wikipedia.org/wiki/Milojko_Spaji%C4%87"
+        }
+      ]
+    },
+    {
+      "label": "• President of the Parliament",
+      "value": "Andrija Mandić",
+      "links": [
+        {
+          "text": "Andrija Mandić",
+          "href": "https://en.wikipedia.org/wiki/Andrija_Mandi%C4%87"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "Parliament",
+      "links": [
+        {
+          "text": "Parliament",
+          "href": "https://en.wikipedia.org/wiki/Parliament_of_Montenegro"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Establishment history",
+      "rows": [
+        {
+          "label": "• Duklja",
+          "value": "10th century"
+        },
+        {
+          "label": "• Zeta",
+          "value": "1356"
+        },
+        {
+          "label": "• Prince-Bishopric of Montenegro",
+          "value": "1516"
+        },
+        {
+          "label": "• Principality of Montenegro",
+          "value": "13 March 1852"
+        },
+        {
+          "label": "• Treaty of Berlin",
+          "value": "13 July 1878"
+        },
+        {
+          "label": "• Kingdom of Montenegro",
+          "value": "28 August 1910"
+        },
+        {
+          "label": "• Kingdom of Yugoslavia",
+          "value": "26 November 1918"
+        },
+        {
+          "label": "• SFR Yugoslavia",
+          "value": "29 November 1945"
+        },
+        {
+          "label": "• Serbia and Montenegro",
+          "value": "27 April 1992"
+        },
+        {
+          "label": "• Independence declared",
+          "value": "3 June 2006"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "13,883 km (5,360 sq mi) ( 156th )",
+          "links": [
+            {
+              "text": "156th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "3.1"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• January 2025 estimate",
+          "value": "623,327 ( 164th )",
+          "links": [
+            {
+              "text": "164th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• 2023 census",
+          "value": "623,633"
+        },
+        {
+          "label": "• Density",
+          "value": "43.6/km (112.9/sq mi) ( 173rd )",
+          "links": [
+            {
+              "text": "173rd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$21.480 billion ( 149th )",
+          "links": [
+            {
+              "text": "149th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$34,410 ( 63rd )",
+          "links": [
+            {
+              "text": "63rd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$9.350 billion ( 153rd )",
+          "links": [
+            {
+              "text": "153rd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$14,990 ( 73rd )",
+          "links": [
+            {
+              "text": "73rd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "Gini (2023)",
+          "value": "29.4 low inequality"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.862 very high ( 48th )",
+          "links": [
+            {
+              "text": "48th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "Euro ( € ) ( EUR )",
+          "links": [
+            {
+              "text": "Euro",
+              "href": "https://en.wikipedia.org/wiki/Euro"
+            },
+            {
+              "text": "€",
+              "href": "https://en.wikipedia.org/wiki/%E2%82%AC"
+            },
+            {
+              "text": "EUR",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC +1 ( CET )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "CET",
+              "href": "https://en.wikipedia.org/wiki/Central_European_Time"
+            }
+          ]
+        },
+        {
+          "label": "• Summer ( DST )",
+          "value": "UTC +2 ( CEST )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "CEST",
+              "href": "https://en.wikipedia.org/wiki/Central_European_Summer_Time"
+            }
+          ]
+        },
+        {
+          "label": "Calling code",
+          "value": "+382",
+          "links": [
+            {
+              "text": "+382",
+              "href": "https://en.wikipedia.org/wiki/%2B382"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "ME",
+          "links": [
+            {
+              "text": "ME",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:ME"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".me",
+          "links": [
+            {
+              "text": ".me",
+              "href": "https://en.wikipedia.org/wiki/.me"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

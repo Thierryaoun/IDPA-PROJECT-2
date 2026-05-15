@@ -1,0 +1,340 @@
+{
+  "label": "country",
+  "children": [
+    {
+      "label": "name",
+      "children": [
+        {
+          "label": "micronesia"
+        }
+      ]
+    },
+    {
+      "label": "infobox_title",
+      "children": [
+        {
+          "label": "federated states of micronesia"
+        }
+      ]
+    },
+    {
+      "label": "status",
+      "children": [
+        {
+          "label": "un member state under a compact of free association with the united states"
+        }
+      ]
+    },
+    {
+      "label": "capital",
+      "children": [
+        {
+          "label": "palikir / 6."
+        }
+      ]
+    },
+    {
+      "label": "largest_city",
+      "children": [
+        {
+          "label": "weno"
+        }
+      ]
+    },
+    {
+      "label": "official_language",
+      "children": [
+        {
+          "label": "english"
+        }
+      ]
+    },
+    {
+      "label": "recognized_regional_languages",
+      "children": [
+        {
+          "label": "chuukese"
+        },
+        {
+          "label": "kosraean"
+        },
+        {
+          "label": "pohnpeian"
+        },
+        {
+          "label": "yapese"
+        }
+      ]
+    },
+    {
+      "label": "ethnic_groups_2016",
+      "children": [
+        {
+          "label": "48.8% chuukese"
+        },
+        {
+          "label": "24.2% pohnpeian"
+        },
+        {
+          "label": "6.2% kosraean"
+        },
+        {
+          "label": "5.2% yapese"
+        },
+        {
+          "label": "4.5% outer yapese"
+        },
+        {
+          "label": "1.8% asian"
+        },
+        {
+          "label": "1.5% polynesian"
+        },
+        {
+          "label": "6.4% other"
+        },
+        {
+          "label": "1.4% unknown"
+        }
+      ]
+    },
+    {
+      "label": "religion_2016",
+      "children": [
+        {
+          "label": "95.3% christianity"
+        },
+        {
+          "label": "52.6% roman catholic"
+        },
+        {
+          "label": "41.7% protestant"
+        },
+        {
+          "label": "1.0% other christian"
+        },
+        {
+          "label": "4.1% folk religions"
+        },
+        {
+          "label": "0.6% none / other"
+        }
+      ]
+    },
+    {
+      "label": "demonym",
+      "children": [
+        {
+          "label": "micronesian"
+        }
+      ]
+    },
+    {
+      "label": "government",
+      "children": [
+        {
+          "label": "federal assembly-independent presidential republic under a non-partisan democracy"
+        }
+      ]
+    },
+    {
+      "label": "president",
+      "children": [
+        {
+          "label": "wesley simina"
+        }
+      ]
+    },
+    {
+      "label": "vice_president",
+      "children": [
+        {
+          "label": "aren palik"
+        }
+      ]
+    },
+    {
+      "label": "legislature",
+      "children": [
+        {
+          "label": "congress"
+        }
+      ]
+    },
+    {
+      "label": "independence_from_the_united_states",
+      "children": [
+        {
+          "label": "republic_proclaimed",
+          "children": [
+            {
+              "label": "may 10, 1979"
+            }
+          ]
+        },
+        {
+          "label": "compact_of_free_association",
+          "children": [
+            {
+              "label": "november 3, 1986"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "area",
+      "children": [
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "702 km"
+            }
+          ]
+        },
+        {
+          "label": "water",
+          "children": [
+            {
+              "label": "negligible"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "population",
+      "children": [
+        {
+          "label": "2023_estimate",
+          "children": [
+            {
+              "label": "75,817"
+            }
+          ]
+        },
+        {
+          "label": "density",
+          "children": [
+            {
+              "label": "150.4/km"
+            }
+          ]
+        },
+        {
+          "label": "gdp_ppp",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$451 million"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$4,768"
+            }
+          ]
+        },
+        {
+          "label": "gdp_nominal",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$500 million"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$5,291"
+            }
+          ]
+        },
+        {
+          "label": "gini_2013",
+          "children": [
+            {
+              "label": "40.1 medium inequality"
+            }
+          ]
+        },
+        {
+          "label": "hdi_2022",
+          "children": [
+            {
+              "label": "0.634 medium"
+            }
+          ]
+        },
+        {
+          "label": "currency",
+          "children": [
+            {
+              "label": "united states dollar"
+            }
+          ]
+        },
+        {
+          "label": "time_zone",
+          "children": [
+            {
+              "label": "utc +10 and +11"
+            }
+          ]
+        },
+        {
+          "label": "date_format",
+          "children": [
+            {
+              "label": "mm/dd/yyyy"
+            }
+          ]
+        },
+        {
+          "label": "calling_code",
+          "children": [
+            {
+              "label": "+691"
+            }
+          ]
+        },
+        {
+          "label": "iso_3166_code",
+          "children": [
+            {
+              "label": "fm"
+            }
+          ]
+        },
+        {
+          "label": "internet_tld",
+          "children": [
+            {
+              "label": ".fm"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

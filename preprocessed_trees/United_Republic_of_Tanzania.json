@@ -1,0 +1,381 @@
+{
+  "label": "country",
+  "children": [
+    {
+      "label": "name",
+      "children": [
+        {
+          "label": "united republic of tanzania"
+        }
+      ]
+    },
+    {
+      "label": "infobox_title",
+      "children": [
+        {
+          "label": "united republic of tanzania jamhuri ya muungano wa tanzania"
+        }
+      ]
+    },
+    {
+      "label": "capital",
+      "children": [
+        {
+          "label": "dodoma / 6."
+        }
+      ]
+    },
+    {
+      "label": "largest_city",
+      "children": [
+        {
+          "label": "dar es salaam / 6."
+        }
+      ]
+    },
+    {
+      "label": "official_languages",
+      "children": [
+        {
+          "label": "swahili"
+        },
+        {
+          "label": "english"
+        }
+      ]
+    },
+    {
+      "label": "national_language",
+      "children": [
+        {
+          "label": "swahili"
+        }
+      ]
+    },
+    {
+      "label": "other_languages",
+      "children": [
+        {
+          "label": "shambala"
+        },
+        {
+          "label": "sukuma"
+        },
+        {
+          "label": "nyamwezi"
+        },
+        {
+          "label": "chagga"
+        },
+        {
+          "label": "ha"
+        },
+        {
+          "label": "bena"
+        },
+        {
+          "label": "gogo"
+        },
+        {
+          "label": "haya"
+        },
+        {
+          "label": "dholuo"
+        },
+        {
+          "label": "iraqw"
+        },
+        {
+          "label": "makonde"
+        },
+        {
+          "label": "nyaturu"
+        },
+        {
+          "label": "maasai"
+        },
+        {
+          "label": "jita"
+        },
+        {
+          "label": "pare"
+        }
+      ]
+    },
+    {
+      "label": "religion_2020",
+      "children": [
+        {
+          "label": "63.1% christianity"
+        },
+        {
+          "label": "34.1% islam"
+        },
+        {
+          "label": "1.5% no religion"
+        },
+        {
+          "label": "1.2% traditional faiths"
+        },
+        {
+          "label": "0.1% others"
+        }
+      ]
+    },
+    {
+      "label": "demonym",
+      "children": [
+        {
+          "label": "tanzanian"
+        }
+      ]
+    },
+    {
+      "label": "government",
+      "children": [
+        {
+          "label": "unitary dominant-party presidential republic"
+        }
+      ]
+    },
+    {
+      "label": "president",
+      "children": [
+        {
+          "label": "samia suluhu hassan"
+        }
+      ]
+    },
+    {
+      "label": "vice_president",
+      "children": [
+        {
+          "label": "emmanuel nchimbi"
+        }
+      ]
+    },
+    {
+      "label": "prime_minister",
+      "children": [
+        {
+          "label": "mwigulu nchemba"
+        }
+      ]
+    },
+    {
+      "label": "speaker",
+      "children": [
+        {
+          "label": "mussa zungu"
+        }
+      ]
+    },
+    {
+      "label": "chief_justice",
+      "children": [
+        {
+          "label": "george mcheche masaju"
+        }
+      ]
+    },
+    {
+      "label": "legislature",
+      "children": [
+        {
+          "label": "national assembly"
+        }
+      ]
+    },
+    {
+      "label": "independence_from_the_united_kingdom",
+      "children": [
+        {
+          "label": "tanganyika",
+          "children": [
+            {
+              "label": "9 december 1961"
+            }
+          ]
+        },
+        {
+          "label": "zanzibar",
+          "children": [
+            {
+              "label": "10 december 1963"
+            }
+          ]
+        },
+        {
+          "label": "unification_of_tanganyika_and_zanzibar",
+          "children": [
+            {
+              "label": "26 april 1964"
+            }
+          ]
+        },
+        {
+          "label": "current_constitution",
+          "children": [
+            {
+              "label": "25 april 1977"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "area",
+      "children": [
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "947,303 km"
+            }
+          ]
+        },
+        {
+          "label": "water",
+          "children": [
+            {
+              "label": "6.4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "population",
+      "children": [
+        {
+          "label": "2024_estimate",
+          "children": [
+            {
+              "label": "67,462,121"
+            }
+          ]
+        },
+        {
+          "label": "2022_census",
+          "children": [
+            {
+              "label": "61,741,120"
+            }
+          ]
+        },
+        {
+          "label": "density",
+          "children": [
+            {
+              "label": "65.2/km"
+            }
+          ]
+        },
+        {
+          "label": "gdp_ppp",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$293.59 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$4,370"
+            }
+          ]
+        },
+        {
+          "label": "gdp_nominal",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$88.980 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$1,280"
+            }
+          ]
+        },
+        {
+          "label": "gini_2017",
+          "children": [
+            {
+              "label": "40.5 medium inequality"
+            }
+          ]
+        },
+        {
+          "label": "hdi_2023",
+          "children": [
+            {
+              "label": "0.555 medium"
+            }
+          ]
+        },
+        {
+          "label": "currency",
+          "children": [
+            {
+              "label": "tanzanian shilling"
+            }
+          ]
+        },
+        {
+          "label": "time_zone",
+          "children": [
+            {
+              "label": "utc +3"
+            }
+          ]
+        },
+        {
+          "label": "calling_code",
+          "children": [
+            {
+              "label": "+255"
+            }
+          ]
+        },
+        {
+          "label": "iso_3166_code",
+          "children": [
+            {
+              "label": "tz"
+            }
+          ]
+        },
+        {
+          "label": "internet_tld",
+          "children": [
+            {
+              "label": ".tz"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

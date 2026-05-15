@@ -1,0 +1,394 @@
+{
+  "label": "country",
+  "children": [
+    {
+      "label": "name",
+      "children": [
+        {
+          "label": "venezuela"
+        }
+      ]
+    },
+    {
+      "label": "infobox_title",
+      "children": [
+        {
+          "label": "bolivarian republic of venezuela república bolivariana de venezuela"
+        }
+      ]
+    },
+    {
+      "label": "capital_and_largest_city",
+      "children": [
+        {
+          "label": "caracas / 10."
+        }
+      ]
+    },
+    {
+      "label": "official_languages",
+      "children": [
+        {
+          "label": "spanish"
+        }
+      ]
+    },
+    {
+      "label": "recognized_regional_languages",
+      "children": [
+        {
+          "label": "piapoco"
+        },
+        {
+          "label": "baniwa"
+        },
+        {
+          "label": "locono"
+        },
+        {
+          "label": "wayúu"
+        },
+        {
+          "label": "warao"
+        },
+        {
+          "label": "pemón"
+        },
+        {
+          "label": "panare"
+        },
+        {
+          "label": "yek'uana"
+        },
+        {
+          "label": "yukpa"
+        },
+        {
+          "label": "carib"
+        },
+        {
+          "label": "akawaio"
+        },
+        {
+          "label": "japrería"
+        },
+        {
+          "label": "mapoyo"
+        },
+        {
+          "label": "yawarana"
+        },
+        {
+          "label": "hodï"
+        },
+        {
+          "label": "puinave"
+        },
+        {
+          "label": "jivi"
+        },
+        {
+          "label": "barí"
+        },
+        {
+          "label": "uruak"
+        },
+        {
+          "label": "sapé"
+        },
+        {
+          "label": "pumé"
+        },
+        {
+          "label": "piaroa"
+        },
+        {
+          "label": "yanomamö"
+        },
+        {
+          "label": "sanemá"
+        },
+        {
+          "label": "yanam"
+        },
+        {
+          "label": "yeral"
+        }
+      ]
+    },
+    {
+      "label": "ethnic_groups_2011",
+      "children": [
+        {
+          "label": "51.6% moreno"
+        },
+        {
+          "label": "43.6% white"
+        },
+        {
+          "label": "3.6% black"
+        },
+        {
+          "label": "1.2% other"
+        }
+      ]
+    },
+    {
+      "label": "religion_2020",
+      "children": [
+        {
+          "label": "92.6% christianity"
+        },
+        {
+          "label": "80.5% catholicism"
+        },
+        {
+          "label": "11.2% protestantism"
+        },
+        {
+          "label": "0.9% other christian"
+        },
+        {
+          "label": "5.5% no religion"
+        },
+        {
+          "label": "1.1% spiritism , birongo"
+        },
+        {
+          "label": "0.8% other"
+        }
+      ]
+    },
+    {
+      "label": "demonym",
+      "children": [
+        {
+          "label": "venezuelan"
+        }
+      ]
+    },
+    {
+      "label": "government",
+      "children": [
+        {
+          "label": "federal presidential republic under an authoritarian dictatorship"
+        }
+      ]
+    },
+    {
+      "label": "president",
+      "children": [
+        {
+          "label": "delcy rodríguez nicolás maduro"
+        }
+      ]
+    },
+    {
+      "label": "vice_president",
+      "children": [
+        {
+          "label": "vacant"
+        }
+      ]
+    },
+    {
+      "label": "legislature",
+      "children": [
+        {
+          "label": "national assembly"
+        }
+      ]
+    },
+    {
+      "label": "independence_from_spain",
+      "children": [
+        {
+          "label": "declared",
+          "children": [
+            {
+              "label": "5 july 1811"
+            }
+          ]
+        },
+        {
+          "label": "from_gran_colombia",
+          "children": [
+            {
+              "label": "13 january 1830"
+            }
+          ]
+        },
+        {
+          "label": "recognized",
+          "children": [
+            {
+              "label": "29 march 1845"
+            }
+          ]
+        },
+        {
+          "label": "current_constitution",
+          "children": [
+            {
+              "label": "20 december 1999"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "area",
+      "children": [
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "916,445 km"
+            }
+          ]
+        },
+        {
+          "label": "water",
+          "children": [
+            {
+              "label": "3.2%"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "population",
+      "children": [
+        {
+          "label": "2025_estimate",
+          "children": [
+            {
+              "label": "31,800,000"
+            }
+          ]
+        },
+        {
+          "label": "density",
+          "children": [
+            {
+              "label": "32/km"
+            }
+          ]
+        },
+        {
+          "label": "gdp_ppp",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$234.340 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$8,790"
+            }
+          ]
+        },
+        {
+          "label": "gdp_nominal",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$82.770 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$3,100"
+            }
+          ]
+        },
+        {
+          "label": "gini_2013",
+          "children": [
+            {
+              "label": "44.8 medium inequality"
+            }
+          ]
+        },
+        {
+          "label": "hdi_2023",
+          "children": [
+            {
+              "label": "0.709 high"
+            }
+          ]
+        },
+        {
+          "label": "currency",
+          "children": [
+            {
+              "label": "venezuelan bolívar"
+            }
+          ]
+        },
+        {
+          "label": "time_zone",
+          "children": [
+            {
+              "label": "utc −04:00"
+            }
+          ]
+        },
+        {
+          "label": "date_format",
+          "children": [
+            {
+              "label": "dd/mm/yyyy"
+            }
+          ]
+        },
+        {
+          "label": "calling_code",
+          "children": [
+            {
+              "label": "+58"
+            }
+          ]
+        },
+        {
+          "label": "iso_3166_code",
+          "children": [
+            {
+              "label": "ve"
+            }
+          ]
+        },
+        {
+          "label": "internet_tld",
+          "children": [
+            {
+              "label": ".ve"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

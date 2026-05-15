@@ -1,0 +1,396 @@
+{
+  "label": "country",
+  "children": [
+    {
+      "label": "name",
+      "children": [
+        {
+          "label": "togo"
+        }
+      ]
+    },
+    {
+      "label": "infobox_title",
+      "children": [
+        {
+          "label": "togolese republic république togolaise"
+        }
+      ]
+    },
+    {
+      "label": "capital_and_largest_city",
+      "children": [
+        {
+          "label": "lomé / 6."
+        }
+      ]
+    },
+    {
+      "label": "official_languages",
+      "children": [
+        {
+          "label": "french"
+        }
+      ]
+    },
+    {
+      "label": "spoken_languages",
+      "children": [
+        {
+          "label": "english"
+        },
+        {
+          "label": "french"
+        },
+        {
+          "label": "ewe"
+        },
+        {
+          "label": "gbe"
+        },
+        {
+          "label": "gur"
+        },
+        {
+          "label": "kwa"
+        },
+        {
+          "label": "kabiye"
+        },
+        {
+          "label": "talensi"
+        },
+        {
+          "label": "wasa"
+        },
+        {
+          "label": "aguna"
+        },
+        {
+          "label": "aja"
+        },
+        {
+          "label": "ngangam"
+        },
+        {
+          "label": "ntcham"
+        },
+        {
+          "label": "tammari"
+        },
+        {
+          "label": "tem"
+        },
+        {
+          "label": "ifè"
+        },
+        {
+          "label": "yoruba"
+        }
+      ]
+    },
+    {
+      "label": "ethnic_groups",
+      "children": [
+        {
+          "label": "aja , ewe and mina"
+        },
+        {
+          "label": "kabye and tem"
+        },
+        {
+          "label": "akan and gurma"
+        },
+        {
+          "label": "kposo and akebu"
+        },
+        {
+          "label": "ana-ife"
+        },
+        {
+          "label": "other west african groups"
+        }
+      ]
+    },
+    {
+      "label": "religion_2025",
+      "children": [
+        {
+          "label": "50% christianity"
+        },
+        {
+          "label": "33% traditional faiths"
+        },
+        {
+          "label": "16% islam"
+        },
+        {
+          "label": "1% baháʼí faith"
+        }
+      ]
+    },
+    {
+      "label": "demonym",
+      "children": [
+        {
+          "label": "togolese"
+        }
+      ]
+    },
+    {
+      "label": "government",
+      "children": [
+        {
+          "label": "unitary parliamentary republic"
+        }
+      ]
+    },
+    {
+      "label": "president",
+      "children": [
+        {
+          "label": "jean-lucien savi de tové"
+        }
+      ]
+    },
+    {
+      "label": "prime_minister",
+      "children": [
+        {
+          "label": "faure gnassingbé"
+        }
+      ]
+    },
+    {
+      "label": "legislature",
+      "children": [
+        {
+          "label": "parliament"
+        }
+      ]
+    },
+    {
+      "label": "upper_house",
+      "children": [
+        {
+          "label": "senate"
+        }
+      ]
+    },
+    {
+      "label": "lower_house",
+      "children": [
+        {
+          "label": "national assembly"
+        }
+      ]
+    },
+    {
+      "label": "establishment_history",
+      "children": [
+        {
+          "label": "german_togoland",
+          "children": [
+            {
+              "label": "5 july 1884"
+            }
+          ]
+        },
+        {
+          "label": "french_togoland",
+          "children": [
+            {
+              "label": "27 august 1914"
+            }
+          ]
+        },
+        {
+          "label": "independence_from_france",
+          "children": [
+            {
+              "label": "27 april 1960"
+            }
+          ]
+        },
+        {
+          "label": "admission_to_the_uno",
+          "children": [
+            {
+              "label": "20 september 1960"
+            }
+          ]
+        },
+        {
+          "label": "current_constitution",
+          "children": [
+            {
+              "label": "6 may 2024"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "area",
+      "children": [
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "56,785 km"
+            }
+          ]
+        },
+        {
+          "label": "water",
+          "children": [
+            {
+              "label": "4.2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "population",
+      "children": [
+        {
+          "label": "2024_estimate",
+          "children": [
+            {
+              "label": "9,583,381"
+            }
+          ]
+        },
+        {
+          "label": "2022_census",
+          "children": [
+            {
+              "label": "8,095,498"
+            }
+          ]
+        },
+        {
+          "label": "density",
+          "children": [
+            {
+              "label": "125.9/km"
+            }
+          ]
+        },
+        {
+          "label": "gdp_ppp",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$33.050 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$3,470"
+            }
+          ]
+        },
+        {
+          "label": "gdp_nominal",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$10.020 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$1,050"
+            }
+          ]
+        },
+        {
+          "label": "gini_2015",
+          "children": [
+            {
+              "label": "43.1 medium inequality"
+            }
+          ]
+        },
+        {
+          "label": "hdi_2023",
+          "children": [
+            {
+              "label": "0.571 medium"
+            }
+          ]
+        },
+        {
+          "label": "currency",
+          "children": [
+            {
+              "label": "west african cfa franc"
+            }
+          ]
+        },
+        {
+          "label": "time_zone",
+          "children": [
+            {
+              "label": "utc +00:00"
+            }
+          ]
+        },
+        {
+          "label": "date_format",
+          "children": [
+            {
+              "label": "dd/mm/yyyy"
+            }
+          ]
+        },
+        {
+          "label": "calling_code",
+          "children": [
+            {
+              "label": "+228"
+            }
+          ]
+        },
+        {
+          "label": "iso_3166_code",
+          "children": [
+            {
+              "label": "tg"
+            }
+          ]
+        },
+        {
+          "label": "internet_tld",
+          "children": [
+            {
+              "label": ".tg"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

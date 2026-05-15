@@ -1,0 +1,371 @@
+{
+  "label": "country",
+  "children": [
+    {
+      "label": "name",
+      "children": [
+        {
+          "label": "andorra"
+        }
+      ]
+    },
+    {
+      "label": "infobox_title",
+      "children": [
+        {
+          "label": "principality of andorra principat d'andorra"
+        }
+      ]
+    },
+    {
+      "label": "capital_and_largest_city",
+      "children": [
+        {
+          "label": "andorra la vella / 42."
+        }
+      ]
+    },
+    {
+      "label": "official_languages",
+      "children": [
+        {
+          "label": "catalan 44.1%"
+        }
+      ]
+    },
+    {
+      "label": "significant_language",
+      "children": [
+        {
+          "label": "spanish 40.3%"
+        }
+      ]
+    },
+    {
+      "label": "other_languages",
+      "children": [
+        {
+          "label": "13.5% portuguese"
+        },
+        {
+          "label": "10% french"
+        },
+        {
+          "label": "3% english"
+        },
+        {
+          "label": "6.8% other"
+        }
+      ]
+    },
+    {
+      "label": "ethnic_groups_2024",
+      "children": [
+        {
+          "label": "34.3% spaniards"
+        },
+        {
+          "label": "32.1% andorrans"
+        },
+        {
+          "label": "10% portuguese"
+        },
+        {
+          "label": "5.6% french"
+        },
+        {
+          "label": "18% others"
+        }
+      ]
+    },
+    {
+      "label": "religion_2020",
+      "children": [
+        {
+          "label": "90.8% christianity"
+        },
+        {
+          "label": "85.5% catholicism"
+        },
+        {
+          "label": "5.3% other christian"
+        },
+        {
+          "label": "6.9% no religion"
+        },
+        {
+          "label": "2.3% others"
+        }
+      ]
+    },
+    {
+      "label": "demonyms",
+      "children": [
+        {
+          "label": "andorran"
+        }
+      ]
+    },
+    {
+      "label": "government",
+      "children": [
+        {
+          "label": "unitary parliamentary constitutional co-principality"
+        }
+      ]
+    },
+    {
+      "label": "co_princes",
+      "children": [
+        {
+          "label": "josep-lluís serrano pentinat"
+        },
+        {
+          "label": "emmanuel macron"
+        }
+      ]
+    },
+    {
+      "label": "representatives",
+      "children": [
+        {
+          "label": "eduard ibáñez"
+        },
+        {
+          "label": "georges-françois leclerc"
+        }
+      ]
+    },
+    {
+      "label": "prime_minister",
+      "children": [
+        {
+          "label": "xavier espot zamora"
+        }
+      ]
+    },
+    {
+      "label": "general_syndic",
+      "children": [
+        {
+          "label": "carles ensenyat reig"
+        }
+      ]
+    },
+    {
+      "label": "legislature",
+      "children": [
+        {
+          "label": "general council"
+        }
+      ]
+    },
+    {
+      "label": "independence",
+      "children": [
+        {
+          "label": "first_paréage",
+          "children": [
+            {
+              "label": "8 september 1278"
+            }
+          ]
+        },
+        {
+          "label": "from_the_kingdom_of_france",
+          "children": [
+            {
+              "label": "12 october 1652"
+            }
+          ]
+        },
+        {
+          "label": "from_the_principality_of_catalonia",
+          "children": [
+            {
+              "label": "1715"
+            }
+          ]
+        },
+        {
+          "label": "from_the_french_empire",
+          "children": [
+            {
+              "label": "1814"
+            }
+          ]
+        },
+        {
+          "label": "constitution",
+          "children": [
+            {
+              "label": "2 february 1993"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "area",
+      "children": [
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "467.63 km"
+            }
+          ]
+        },
+        {
+          "label": "water",
+          "children": [
+            {
+              "label": "0.26"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "population",
+      "children": [
+        {
+          "label": "2025_estimate",
+          "children": [
+            {
+              "label": "89,058"
+            }
+          ]
+        },
+        {
+          "label": "density",
+          "children": [
+            {
+              "label": "187.1/km"
+            }
+          ]
+        },
+        {
+          "label": "gdp_ppp",
+          "children": [
+            {
+              "label": "2024 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$6.001 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$69,146"
+            }
+          ]
+        },
+        {
+          "label": "gdp_nominal",
+          "children": [
+            {
+              "label": "2024 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$3.897 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$44,900"
+            }
+          ]
+        },
+        {
+          "label": "gini_2023",
+          "children": [
+            {
+              "label": "40.0 medium inequality"
+            }
+          ]
+        },
+        {
+          "label": "hdi_2023",
+          "children": [
+            {
+              "label": "0.913 very high"
+            }
+          ]
+        },
+        {
+          "label": "currency",
+          "children": [
+            {
+              "label": "euro"
+            }
+          ]
+        },
+        {
+          "label": "time_zone",
+          "children": [
+            {
+              "label": "utc +01:00"
+            }
+          ]
+        },
+        {
+          "label": "summer_dst",
+          "children": [
+            {
+              "label": "utc +02:00"
+            }
+          ]
+        },
+        {
+          "label": "date_format",
+          "children": [
+            {
+              "label": "dd/mm/yyyy"
+            }
+          ]
+        },
+        {
+          "label": "calling_code",
+          "children": [
+            {
+              "label": "+376"
+            }
+          ]
+        },
+        {
+          "label": "iso_3166_code",
+          "children": [
+            {
+              "label": "ad"
+            }
+          ]
+        },
+        {
+          "label": "internet_tld",
+          "children": [
+            {
+              "label": ".ad"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

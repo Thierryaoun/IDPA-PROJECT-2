@@ -1,0 +1,59 @@
+╔═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                            LEBANESE REPUBLIC الجمهورية اللبنانية AL-JUMHŪRIYYAH AL-LUBNĀNIYYAH                            ║
+╠═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╣
+║  Name                                                : Lebanon                                                            ║
+║  Capital And Largest City                            : Beirut / 33.                                                       ║
+║  Official Languages                                  : Arabic                                                             ║
+║  Local Vernacular                                    : Lebanese Arabic                                                    ║
+║  Recognised Minority Language                        : French                                                             ║
+║  Ethnic Groups 2021                                  : 95% arab                                                           ║
+║  Ethnic Groups 2021                                  : 4% armenian                                                        ║
+║  Ethnic Groups 2021                                  : 1% others                                                          ║
+║  Religion 2024                                       : 53.31% islam                                                       ║
+║  Religion 2024                                       : 26.84% shia                                                        ║
+║  Religion 2024                                       : 0.64% alawite                                                      ║
+║  Religion 2024                                       : 26.55% sunni                                                       ║
+║  Religion 2024                                       : 41.40% christianity                                                ║
+║  Religion 2024                                       : 28.11% catholic                                                    ║
+║  Religion 2024                                       : 8.30% orthodox                                                     ║
+║  Religion 2024                                       : 2.92% armenian apostolic                                           ║
+║  Religion 2024                                       : 0.53% protestant                                                   ║
+║  Religion 2024                                       : 1.64% other christians                                             ║
+║  Religion 2024                                       : 5.21% druze                                                        ║
+║  Religion 2024                                       : 0.08% no religion                                                  ║
+║  Demonym                                             : Lebanese                                                           ║
+║  Government                                          : Unitary Parliamentary Republic Under Confessionalism               ║
+║  President                                           : Joseph Aoun                                                        ║
+║  Prime Minister                                      : Nawaf Salam                                                        ║
+║  Speaker Of The Parliament                           : Nabih Berri                                                        ║
+║  Legislature                                         : Parliament                                                         ║
+║  Establishment Emirate Of Mount Lebanon              : 1516                                                               ║
+║  Establishment Double Qaim Maqamate Of Mount Lebanon : 1 december 1843                                                    ║
+║  Establishment Mount Lebanon Mutasarrifate           : 9 june 1861                                                        ║
+║  Establishment Greater Lebanon                       : 1 september 1920                                                   ║
+║  Establishment Constitution                          : 23 may 1926                                                        ║
+║  Establishment Independence Declared                 : 22 november 1943                                                   ║
+║  Establishment French Mandate Ended                  : 24 october 1945                                                    ║
+║  Establishment Withdrawal Of French Forces           : 17 april 1946                                                      ║
+║  Establishment Israeli Troops Withdrawn              : 24 may 2000                                                        ║
+║  Establishment Syrian Troops Withdrawn               : 30 april 2005                                                      ║
+║  Area Total                                          : 10,452 km                                                          ║
+║  Area Water                                          : 1.8                                                                ║
+║  Population 2024 Estimate                            : 5,364,482                                                          ║
+║  Population Density                                  : 513/km                                                             ║
+║  Population Gdp Ppp                                  : 2022 estimate                                                      ║
+║  Population Total                                    : $78.233 Billion                                                    ║
+║  Population Per Capita                               : $11,793                                                            ║
+║  Population Gdp Nominal                              : 2022 estimate                                                      ║
+║  Population Total                                    : $21.780 Billion                                                    ║
+║  Population Per Capita                               : $3,283                                                             ║
+║  Population Gini 2011                                : 31.8 medium inequality                                             ║
+║  Population Hdi 2023                                 : 0.752 high                                                         ║
+║  Population Currency                                 : Lebanese Pound                                                     ║
+║  Population Time Zone                                : Utc +2                                                             ║
+║  Population Summer Dst                               : Utc +3                                                             ║
+║  Population Calling Code                             : +961                                                               ║
+║  Population Iso 3166 Code                            : Lb                                                                 ║
+║  Population Internet Tld                             : .Lb                                                                ║
+║  Population Internet Tld                             : .لبنان                                                             ║
+╚═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╝

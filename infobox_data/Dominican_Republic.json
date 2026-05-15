@@ -1,0 +1,379 @@
+{
+  "country": "Dominican Republic",
+  "infobox_title": "Dominican Republic República Dominicana ( Spanish )",
+  "data": [
+    {
+      "label": "Capital and largest city",
+      "value": "Santo Domingo 18°27′N 69°56′W ﻿ / ﻿ 18.450°N 69.933°W",
+      "links": [
+        {
+          "text": "Santo Domingo",
+          "href": "https://en.wikipedia.org/wiki/Santo_Domingo"
+        },
+        {
+          "text": "18°27′N69°56′W﻿ / ﻿18.450°N 69.933°W",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Dominican_Republic&params=18_27_N_69_56_W_type:city"
+        }
+      ]
+    },
+    {
+      "label": "Official languages",
+      "value": "Spanish",
+      "links": [
+        {
+          "text": "Spanish",
+          "href": "https://en.wikipedia.org/wiki/Dominican_Spanish"
+        }
+      ]
+    },
+    {
+      "label": "Other languages",
+      "value": "See below",
+      "links": [
+        {
+          "text": "See below",
+          "href": "#Languages"
+        }
+      ]
+    },
+    {
+      "label": "Ethnic groups (2022)",
+      "value": "71.72% Mixed 18.70% White 7.45% Black 0.33% East Asian 0.37% other 1.43% no answer",
+      "links": [
+        {
+          "text": "Mixed",
+          "href": "https://en.wikipedia.org/wiki/Mixed_Dominicans"
+        },
+        {
+          "text": "White",
+          "href": "https://en.wikipedia.org/wiki/White_Dominicans"
+        },
+        {
+          "text": "Black",
+          "href": "https://en.wikipedia.org/wiki/Afro-Dominicans"
+        },
+        {
+          "text": "East Asian",
+          "href": "https://en.wikipedia.org/wiki/East_Asian_people"
+        }
+      ],
+      "sub_items": [
+        "71.72% Mixed",
+        "18.70% White",
+        "7.45% Black",
+        "0.33% East Asian",
+        "0.37% other",
+        "1.43% no answer"
+      ]
+    },
+    {
+      "label": "Religion (2020)",
+      "value": "74.6% Christianity 52.5% Catholicism 21.0% Protestantism 1.1% other Christian 22.0% no religion 1.4% other 2.0% unspecified",
+      "links": [
+        {
+          "text": "Christianity",
+          "href": "https://en.wikipedia.org/wiki/Christianity"
+        },
+        {
+          "text": "Catholicism",
+          "href": "https://en.wikipedia.org/wiki/Catholic_Church_in_the_Dominican_Republic"
+        },
+        {
+          "text": "Protestantism",
+          "href": "https://en.wikipedia.org/wiki/Protestantism"
+        },
+        {
+          "text": "Christian",
+          "href": "https://en.wikipedia.org/wiki/Christians"
+        },
+        {
+          "text": "no religion",
+          "href": "https://en.wikipedia.org/wiki/Irreligion_in_Latin_America"
+        },
+        {
+          "text": "other",
+          "href": "https://en.wikipedia.org/wiki/Religion_in_the_Dominican_Republic"
+        }
+      ],
+      "sub_items": [
+        "74.6% Christianity 52.5% Catholicism 21.0% Protestantism 1.1% other Christian",
+        "74.6% Christianity 52.5% Catholicism 21.0% Protestantism 1.1% other Christian",
+        "52.5% Catholicism",
+        "21.0% Protestantism",
+        "1.1% other Christian",
+        "22.0% no religion",
+        "1.4% other",
+        "2.0% unspecified"
+      ]
+    },
+    {
+      "label": "Demonyms",
+      "value": "Dominican Quisqueyan (colloquial)",
+      "links": [
+        {
+          "text": "Dominican",
+          "href": "https://en.wikipedia.org/wiki/People_of_the_Dominican_Republic"
+        }
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Unitary presidential republic",
+      "links": [
+        {
+          "text": "presidential republic",
+          "href": "https://en.wikipedia.org/wiki/Presidential_system"
+        }
+      ]
+    },
+    {
+      "label": "• President",
+      "value": "Luis Abinader",
+      "links": [
+        {
+          "text": "Luis Abinader",
+          "href": "https://en.wikipedia.org/wiki/Luis_Abinader"
+        }
+      ]
+    },
+    {
+      "label": "• Vice President",
+      "value": "Raquel Peña",
+      "links": [
+        {
+          "text": "Raquel Peña",
+          "href": "https://en.wikipedia.org/wiki/Raquel_Pe%C3%B1a_de_Antu%C3%B1a"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "Congress",
+      "links": [
+        {
+          "text": "Congress",
+          "href": "https://en.wikipedia.org/wiki/Congress_of_the_Dominican_Republic"
+        }
+      ]
+    },
+    {
+      "label": "• Upper house",
+      "value": "Senate",
+      "links": [
+        {
+          "text": "Senate",
+          "href": "https://en.wikipedia.org/wiki/Senate_of_the_Dominican_Republic"
+        }
+      ]
+    },
+    {
+      "label": "• Lower house",
+      "value": "Chamber of Deputies",
+      "links": [
+        {
+          "text": "Chamber of Deputies",
+          "href": "https://en.wikipedia.org/wiki/Chamber_of_Deputies_of_the_Dominican_Republic"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Formation",
+      "rows": [
+        {
+          "label": "• Ephemeral Independence",
+          "value": "1821–1822"
+        },
+        {
+          "label": "• First Republic",
+          "value": "1844–1861"
+        },
+        {
+          "label": "• Second Republic",
+          "value": "1865–1916"
+        },
+        {
+          "label": "• Third Republic",
+          "value": "1924–1965"
+        },
+        {
+          "label": "• Fourth Republic",
+          "value": "1966–present"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "48,671 km (18,792 sq mi) ( 128th )",
+          "links": [
+            {
+              "text": "128th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "0.7"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2025 estimate",
+          "value": "11,532,151 ( 88th )",
+          "links": [
+            {
+              "text": "88th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• Density",
+          "value": "220/km (569.8/sq mi) ( 64th )",
+          "links": [
+            {
+              "text": "64th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$334.292 billion ( 64th )",
+          "links": [
+            {
+              "text": "64th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$30,710 ( 67th )",
+          "links": [
+            {
+              "text": "67th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$135.545 billion ( 64th )",
+          "links": [
+            {
+              "text": "64th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$12,452 ( 74th )",
+          "links": [
+            {
+              "text": "74th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "Gini (2024)",
+          "value": "39 medium inequality"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.776 high ( 89th )",
+          "links": [
+            {
+              "text": "89th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "Dominican peso ( DOP )",
+          "links": [
+            {
+              "text": "Dominican peso",
+              "href": "https://en.wikipedia.org/wiki/Dominican_peso"
+            },
+            {
+              "text": "DOP",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC -04:00 ( AST )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "-04:00",
+              "href": "https://en.wikipedia.org/wiki/UTC-04:00"
+            },
+            {
+              "text": "AST",
+              "href": "https://en.wikipedia.org/wiki/Atlantic_Standard_Time"
+            }
+          ]
+        },
+        {
+          "label": "Date format",
+          "value": "dd/mm/yyyy or dd-mm-yyyy"
+        },
+        {
+          "label": "Calling code",
+          "value": "+1",
+          "links": [
+            {
+              "text": "+1",
+              "href": "https://en.wikipedia.org/wiki/Telephone_numbers_in_the_Dominican_Republic"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "DO",
+          "links": [
+            {
+              "text": "DO",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:DO"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".do",
+          "links": [
+            {
+              "text": ".do",
+              "href": "https://en.wikipedia.org/wiki/.do"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

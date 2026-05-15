@@ -1,0 +1,378 @@
+{
+  "label": "country",
+  "children": [
+    {
+      "label": "name",
+      "children": [
+        {
+          "label": "china"
+        }
+      ]
+    },
+    {
+      "label": "infobox_title",
+      "children": [
+        {
+          "label": "people's republic of china 中华人民共和国 zhōnghuá rénmín gònghéguó"
+        }
+      ]
+    },
+    {
+      "label": "capital",
+      "children": [
+        {
+          "label": "beijing / 39."
+        }
+      ]
+    },
+    {
+      "label": "largest_city_by_municipal_population",
+      "children": [
+        {
+          "label": "chongqing"
+        }
+      ]
+    },
+    {
+      "label": "largest_city_by_urban_population",
+      "children": [
+        {
+          "label": "shanghai"
+        }
+      ]
+    },
+    {
+      "label": "official_languages",
+      "children": [
+        {
+          "label": "standard chinese"
+        }
+      ]
+    },
+    {
+      "label": "official_script",
+      "children": [
+        {
+          "label": "simplified chinese , traditional chinese"
+        }
+      ]
+    },
+    {
+      "label": "ethnic_groups_2020",
+      "children": [
+        {
+          "label": "91.11% han chinese"
+        },
+        {
+          "label": "1.39% zhuang"
+        },
+        {
+          "label": "0.84% uyghur"
+        },
+        {
+          "label": "0.81% hui"
+        },
+        {
+          "label": "0.79% miao"
+        },
+        {
+          "label": "0.74% manchu"
+        },
+        {
+          "label": "0.70% yi"
+        },
+        {
+          "label": "0.68% tujia"
+        },
+        {
+          "label": "0.50% tibetan"
+        },
+        {
+          "label": "2.44% others"
+        }
+      ]
+    },
+    {
+      "label": "demonym",
+      "children": [
+        {
+          "label": "chinese"
+        }
+      ]
+    },
+    {
+      "label": "government",
+      "children": [
+        {
+          "label": "unitary communist state"
+        }
+      ]
+    },
+    {
+      "label": "ccp_general_secretary_and_president",
+      "children": [
+        {
+          "label": "xi jinping"
+        }
+      ]
+    },
+    {
+      "label": "premier",
+      "children": [
+        {
+          "label": "li qiang"
+        }
+      ]
+    },
+    {
+      "label": "congress_chairman",
+      "children": [
+        {
+          "label": "zhao leji"
+        }
+      ]
+    },
+    {
+      "label": "cppcc_chairman",
+      "children": [
+        {
+          "label": "wang huning"
+        }
+      ]
+    },
+    {
+      "label": "vice_president",
+      "children": [
+        {
+          "label": "han zheng"
+        }
+      ]
+    },
+    {
+      "label": "legislature",
+      "children": [
+        {
+          "label": "national people's congress"
+        }
+      ]
+    },
+    {
+      "label": "formation",
+      "children": [
+        {
+          "label": "first_pre_imperial_dynasty",
+          "children": [
+            {
+              "label": "c. 2070 bce"
+            }
+          ]
+        },
+        {
+          "label": "first_imperial_dynasty",
+          "children": [
+            {
+              "label": "221 bce"
+            }
+          ]
+        },
+        {
+          "label": "establishment_of_the_republic_of_china",
+          "children": [
+            {
+              "label": "1 january 1912"
+            }
+          ]
+        },
+        {
+          "label": "proclamation_of_the_people_s_republic",
+          "children": [
+            {
+              "label": "1 october 1949"
+            }
+          ]
+        },
+        {
+          "label": "current_constitution",
+          "children": [
+            {
+              "label": "4 december 1982"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "area",
+      "children": [
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "9,596,961 km"
+            }
+          ]
+        },
+        {
+          "label": "water",
+          "children": [
+            {
+              "label": "2.8"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "population",
+      "children": [
+        {
+          "label": "2025_estimate",
+          "children": [
+            {
+              "label": "1,404,890,000"
+            }
+          ]
+        },
+        {
+          "label": "density",
+          "children": [
+            {
+              "label": "146/km"
+            }
+          ]
+        },
+        {
+          "label": "gdp_ppp",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$41.016 trillion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$29,191"
+            }
+          ]
+        },
+        {
+          "label": "gdp_nominal",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$19.399 trillion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$13,806"
+            }
+          ]
+        },
+        {
+          "label": "gini_2022",
+          "children": [
+            {
+              "label": "36.0 medium inequality"
+            }
+          ]
+        },
+        {
+          "label": "hdi_2023",
+          "children": [
+            {
+              "label": "0.797 high"
+            }
+          ]
+        },
+        {
+          "label": "currency",
+          "children": [
+            {
+              "label": "renminbi"
+            }
+          ]
+        },
+        {
+          "label": "time_zone",
+          "children": [
+            {
+              "label": "utc +8"
+            }
+          ]
+        },
+        {
+          "label": "calling_code",
+          "children": [
+            {
+              "label": "+86"
+            },
+            {
+              "label": "+852"
+            },
+            {
+              "label": "+853"
+            }
+          ]
+        },
+        {
+          "label": "iso_3166_code",
+          "children": [
+            {
+              "label": "cn"
+            }
+          ]
+        },
+        {
+          "label": "internet_tld",
+          "children": [
+            {
+              "label": ".cn"
+            },
+            {
+              "label": ".中国"
+            },
+            {
+              "label": ".中國"
+            },
+            {
+              "label": ".hk"
+            },
+            {
+              "label": ".香港"
+            },
+            {
+              "label": ".mo"
+            },
+            {
+              "label": ".澳门"
+            },
+            {
+              "label": ".澳門"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

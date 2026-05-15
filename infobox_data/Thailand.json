@@ -1,0 +1,448 @@
+{
+  "country": "Thailand",
+  "infobox_title": "Kingdom of Thailand ราชอาณาจักรไทย ( Thai ) Ratcha-anachak Thai",
+  "data": [
+    {
+      "label": "Capital and largest city",
+      "value": "Bangkok 13°48′N 100°33′E ﻿ / ﻿ 13.800°N 100.550°E",
+      "links": [
+        {
+          "text": "Bangkok",
+          "href": "https://en.wikipedia.org/wiki/Bangkok"
+        },
+        {
+          "text": "13°48′N100°33′E﻿ / ﻿13.800°N 100.550°E",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Thailand&params=13_48_N_100_33_E_region:TH-10_type:city(8,300,000)"
+        }
+      ]
+    },
+    {
+      "label": "Official languages",
+      "value": "Thai",
+      "links": [
+        {
+          "text": "Thai",
+          "href": "https://en.wikipedia.org/wiki/Thai_language"
+        }
+      ]
+    },
+    {
+      "label": "Other languages",
+      "value": "Isan Northern Thai Southern Thai Karen Pattani Malay Bangkok Malay Teochew Hokkien",
+      "links": [
+        {
+          "text": "Isan",
+          "href": "https://en.wikipedia.org/wiki/Isan_language"
+        },
+        {
+          "text": "Northern Thai",
+          "href": "https://en.wikipedia.org/wiki/Northern_Thai_language"
+        },
+        {
+          "text": "Southern Thai",
+          "href": "https://en.wikipedia.org/wiki/Southern_Thai_language"
+        },
+        {
+          "text": "Karen",
+          "href": "https://en.wikipedia.org/wiki/Karenic_languages"
+        },
+        {
+          "text": "Pattani Malay",
+          "href": "https://en.wikipedia.org/wiki/Kelantan%E2%80%93Pattani_Malay"
+        },
+        {
+          "text": "Bangkok Malay",
+          "href": "https://en.wikipedia.org/wiki/Bangkok_Malay"
+        },
+        {
+          "text": "Teochew",
+          "href": "https://en.wikipedia.org/wiki/Teochew_dialect"
+        },
+        {
+          "text": "Hokkien",
+          "href": "https://en.wikipedia.org/wiki/Hokkien"
+        }
+      ],
+      "sub_items": [
+        "Isan",
+        "Northern Thai",
+        "Southern Thai",
+        "Karen",
+        "Pattani Malay",
+        "Bangkok Malay",
+        "Teochew",
+        "Hokkien"
+      ]
+    },
+    {
+      "label": "Ethnic groups",
+      "value": "80% Thai 37% Central Thai 25% Isan 8% Northern Thai 8% Southern Thai 2% Western Thai 12% Thai Chinese 4% Northern Khmer 4% Thai Malays",
+      "links": [
+        {
+          "text": "Thai",
+          "href": "https://en.wikipedia.org/wiki/Thai_people"
+        },
+        {
+          "text": "Central Thai",
+          "href": "https://en.wikipedia.org/wiki/Thai_people"
+        },
+        {
+          "text": "Isan",
+          "href": "https://en.wikipedia.org/wiki/Isan_people"
+        },
+        {
+          "text": "Northern Thai",
+          "href": "https://en.wikipedia.org/wiki/Northern_Thai_people"
+        },
+        {
+          "text": "Southern Thai",
+          "href": "https://en.wikipedia.org/wiki/Southern_Thai_language"
+        },
+        {
+          "text": "Thai Chinese",
+          "href": "https://en.wikipedia.org/wiki/Thai_Chinese"
+        },
+        {
+          "text": "Northern Khmer",
+          "href": "https://en.wikipedia.org/wiki/Northern_Khmer_people"
+        },
+        {
+          "text": "Thai Malays",
+          "href": "https://en.wikipedia.org/wiki/Thai_Malays"
+        }
+      ],
+      "sub_items": [
+        "80% Thai 37% Central Thai 25% Isan 8% Northern Thai 8% Southern Thai 2% Western Thai",
+        "37% Central Thai",
+        "25% Isan",
+        "8% Northern Thai",
+        "8% Southern Thai",
+        "2% Western Thai",
+        "12% Thai Chinese",
+        "4% Northern Khmer",
+        "4% Thai Malays"
+      ]
+    },
+    {
+      "label": "Religion (2018 census)",
+      "value": "93.46% Buddhism 5.37% Islam 1.13% Christianity 0.03% other",
+      "links": [
+        {
+          "text": "Buddhism",
+          "href": "https://en.wikipedia.org/wiki/Buddhism_in_Thailand"
+        },
+        {
+          "text": "Islam",
+          "href": "https://en.wikipedia.org/wiki/Islam_in_Thailand"
+        },
+        {
+          "text": "Christianity",
+          "href": "https://en.wikipedia.org/wiki/Christianity_in_Thailand"
+        },
+        {
+          "text": "other",
+          "href": "https://en.wikipedia.org/wiki/Religion_in_Thailand"
+        }
+      ],
+      "sub_items": [
+        "93.46% Buddhism",
+        "5.37% Islam",
+        "1.13% Christianity",
+        "0.03% other"
+      ]
+    },
+    {
+      "label": "Demonym",
+      "value": "Thai",
+      "links": [
+        {
+          "text": "Thai",
+          "href": "https://en.wikipedia.org/wiki/Thai_people"
+        }
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Unitary parliamentary constitutional monarchy",
+      "links": [
+        {
+          "text": "parliamentary constitutional monarchy",
+          "href": "https://en.wikipedia.org/wiki/Parliamentary_constitutional_monarchy"
+        }
+      ]
+    },
+    {
+      "label": "• Monarch",
+      "value": "Vajiralongkorn (Rama X)",
+      "links": [
+        {
+          "text": "Vajiralongkorn",
+          "href": "https://en.wikipedia.org/wiki/Vajiralongkorn"
+        }
+      ]
+    },
+    {
+      "label": "• Prime Minister",
+      "value": "Anutin Charnvirakul",
+      "links": [
+        {
+          "text": "Anutin Charnvirakul",
+          "href": "https://en.wikipedia.org/wiki/Anutin_Charnvirakul"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "National Assembly",
+      "links": [
+        {
+          "text": "National Assembly",
+          "href": "https://en.wikipedia.org/wiki/National_Assembly_of_Thailand"
+        }
+      ]
+    },
+    {
+      "label": "• Upper house",
+      "value": "Senate",
+      "links": [
+        {
+          "text": "Senate",
+          "href": "https://en.wikipedia.org/wiki/Senate_of_Thailand"
+        }
+      ]
+    },
+    {
+      "label": "• Lower house",
+      "value": "House of Representatives",
+      "links": [
+        {
+          "text": "House of Representatives",
+          "href": "https://en.wikipedia.org/wiki/House_of_Representatives_(Thailand)"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Formation",
+      "rows": [
+        {
+          "label": "• Sukhothai Kingdom",
+          "value": "1238–1438"
+        },
+        {
+          "label": "• Ayutthaya Kingdom",
+          "value": "1351–1767"
+        },
+        {
+          "label": "• Thonburi Kingdom",
+          "value": "1767–1782"
+        },
+        {
+          "label": "• Rattanakosin Kingdom",
+          "value": "6 April 1782"
+        },
+        {
+          "label": "• Constitutional monarchy",
+          "value": "24 June 1932"
+        },
+        {
+          "label": "• Current constitution",
+          "value": "6 April 2017"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "513,120 km (198,120 sq mi) ( 50th )",
+          "links": [
+            {
+              "text": "50th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "0.4 (2,230 km )"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2024 estimate",
+          "value": "65,975,198 ( 22nd )",
+          "links": [
+            {
+              "text": "22nd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• 2010 census",
+          "value": "64,785,909 ( 21st )",
+          "links": [
+            {
+              "text": "21st",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• Density",
+          "value": "132.1/km (342.1/sq mi) ( 88th )",
+          "links": [
+            {
+              "text": "88th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$1.853 trillion ( 23rd )",
+          "links": [
+            {
+              "text": "23rd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$26,358 ( 75th )",
+          "links": [
+            {
+              "text": "75th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$558.573 billion ( 31rd )",
+          "links": [
+            {
+              "text": "31rd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$7,942 ( 97th )",
+          "links": [
+            {
+              "text": "97th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "Gini (2023)",
+          "value": "33.5 medium inequality"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.798 high ( 76th )",
+          "links": [
+            {
+              "text": "76th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "Thai baht (฿) ( THB )",
+          "links": [
+            {
+              "text": "Thai baht",
+              "href": "https://en.wikipedia.org/wiki/Thai_baht"
+            },
+            {
+              "text": "THB",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC +7 ( ICT )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "ICT",
+              "href": "https://en.wikipedia.org/wiki/UTC%2B07:00"
+            }
+          ]
+        },
+        {
+          "label": "Date format",
+          "value": "dd/mm/yyyy ( BE )",
+          "links": [
+            {
+              "text": "BE",
+              "href": "https://en.wikipedia.org/wiki/Thai_solar_calendar"
+            }
+          ]
+        },
+        {
+          "label": "Calling code",
+          "value": "+66",
+          "links": [
+            {
+              "text": "+66",
+              "href": "https://en.wikipedia.org/wiki/Telephone_numbers_in_Thailand"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "TH",
+          "links": [
+            {
+              "text": "TH",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:TH"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".th .ไทย",
+          "links": [
+            {
+              "text": ".th",
+              "href": "https://en.wikipedia.org/wiki/.th"
+            },
+            {
+              "text": ".ไทย",
+              "href": "https://en.wikipedia.org/wiki/.%E0%B9%84%E0%B8%97%E0%B8%A2"
+            }
+          ],
+          "sub_items": [
+            ".th",
+            ".ไทย"
+          ]
+        }
+      ]
+    }
+  ]
+}

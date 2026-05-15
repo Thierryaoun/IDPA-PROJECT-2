@@ -1,0 +1,407 @@
+{
+  "country": "Malaysia",
+  "infobox_title": "Malaysia",
+  "data": [
+    {
+      "label": "Capital and largest city",
+      "value": "Kuala Lumpur 3°8′N 101°41′E ﻿ / ﻿ 3.133°N 101.683°E",
+      "links": [
+        {
+          "text": "Kuala Lumpur",
+          "href": "https://en.wikipedia.org/wiki/Kuala_Lumpur"
+        },
+        {
+          "text": "3°8′N101°41′E﻿ / ﻿3.133°N 101.683°E",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Malaysia&params=3_8_N_101_41_E_region:MY_type:city"
+        }
+      ]
+    },
+    {
+      "label": "Administrative center",
+      "value": "Putrajaya 2°56′N 101°42′E ﻿ / ﻿ 2.933°N 101.700°E",
+      "links": [
+        {
+          "text": "Putrajaya",
+          "href": "https://en.wikipedia.org/wiki/Putrajaya"
+        },
+        {
+          "text": "2°56′N101°42′E﻿ / ﻿2.933°N 101.700°E",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Malaysia&params=2_56_N_101_42_E_region:MY"
+        }
+      ]
+    },
+    {
+      "label": "National language (official)",
+      "value": "Malay",
+      "links": [
+        {
+          "text": "Malay",
+          "href": "https://en.wikipedia.org/wiki/Malaysian_Malay"
+        }
+      ]
+    },
+    {
+      "label": "Recognised languages",
+      "value": "English",
+      "links": [
+        {
+          "text": "English",
+          "href": "https://en.wikipedia.org/wiki/Malaysian_English"
+        }
+      ]
+    },
+    {
+      "label": "Ethnic groups (2023)",
+      "value": "70.5% Bumiputera 57.3% Malay 13.2% indigenous groups of Sabah , Sarawak , Orang Asli and other 22.9% Chinese 6.6% Indian",
+      "links": [
+        {
+          "text": "Bumiputera",
+          "href": "https://en.wikipedia.org/wiki/Bumiputera_(Malaysia)"
+        },
+        {
+          "text": "Malay",
+          "href": "https://en.wikipedia.org/wiki/Malaysian_Malays"
+        },
+        {
+          "text": "Sabah",
+          "href": "https://en.wikipedia.org/wiki/Sabah"
+        },
+        {
+          "text": "Sarawak",
+          "href": "https://en.wikipedia.org/wiki/Sarawak"
+        },
+        {
+          "text": "Orang Asli",
+          "href": "https://en.wikipedia.org/wiki/Orang_Asli"
+        },
+        {
+          "text": "other",
+          "href": "https://en.wikipedia.org/wiki/Ethnic_origins_of_people_in_Malaysia"
+        },
+        {
+          "text": "Chinese",
+          "href": "https://en.wikipedia.org/wiki/Malaysian_Chinese"
+        },
+        {
+          "text": "Indian",
+          "href": "https://en.wikipedia.org/wiki/Malaysian_Indian"
+        }
+      ],
+      "sub_items": [
+        "70.5% Bumiputera 57.3% Malay 13.2% indigenous groups of Sabah , Sarawak , Orang Asli and other",
+        "57.3% Malay",
+        "13.2% indigenous groups of Sabah , Sarawak , Orang Asli and other",
+        "22.9% Chinese",
+        "6.6% Indian"
+      ]
+    },
+    {
+      "label": "Religion (2020)",
+      "value": "63.5% Islam ( official ) 18.7% Buddhism 9.1% Christianity 6.1% Hinduism 0.9% other 1.8% unknown",
+      "links": [
+        {
+          "text": "Islam",
+          "href": "https://en.wikipedia.org/wiki/Islam_in_Malaysia"
+        },
+        {
+          "text": "official",
+          "href": "https://en.wikipedia.org/wiki/State_religion"
+        },
+        {
+          "text": "Buddhism",
+          "href": "https://en.wikipedia.org/wiki/Buddhism_in_Malaysia"
+        },
+        {
+          "text": "Christianity",
+          "href": "https://en.wikipedia.org/wiki/Christianity_in_Malaysia"
+        },
+        {
+          "text": "Hinduism",
+          "href": "https://en.wikipedia.org/wiki/Hinduism_in_Malaysia"
+        }
+      ],
+      "sub_items": [
+        "63.5% Islam ( official )",
+        "18.7% Buddhism",
+        "9.1% Christianity 6.1% Hinduism 0.9% other 1.8% unknown",
+        "9.1% Christianity",
+        "6.1% Hinduism",
+        "0.9% other",
+        "1.8% unknown"
+      ]
+    },
+    {
+      "label": "Demonym",
+      "value": "Malaysian",
+      "links": [
+        {
+          "text": "Malaysian",
+          "href": "https://en.wikipedia.org/wiki/Malaysians"
+        }
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Federal parliamentary constitutional elective monarchy",
+      "links": [
+        {
+          "text": "Federal",
+          "href": "https://en.wikipedia.org/wiki/Federal_monarchy"
+        },
+        {
+          "text": "elective monarchy",
+          "href": "https://en.wikipedia.org/wiki/Elective_monarchy"
+        }
+      ]
+    },
+    {
+      "label": "• Monarch",
+      "value": "Ibrahim Iskandar",
+      "links": [
+        {
+          "text": "Ibrahim Iskandar",
+          "href": "https://en.wikipedia.org/wiki/Ibrahim_Iskandar"
+        }
+      ]
+    },
+    {
+      "label": "• Prime Minister",
+      "value": "Anwar Ibrahim",
+      "links": [
+        {
+          "text": "Anwar Ibrahim",
+          "href": "https://en.wikipedia.org/wiki/Anwar_Ibrahim"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "Parliament",
+      "links": [
+        {
+          "text": "Parliament",
+          "href": "https://en.wikipedia.org/wiki/Parliament_of_Malaysia"
+        }
+      ]
+    },
+    {
+      "label": "• Upper house",
+      "value": "Dewan Negara",
+      "links": [
+        {
+          "text": "Dewan Negara",
+          "href": "https://en.wikipedia.org/wiki/Dewan_Negara"
+        }
+      ]
+    },
+    {
+      "label": "• Lower house",
+      "value": "Dewan Rakyat",
+      "links": [
+        {
+          "text": "Dewan Rakyat",
+          "href": "https://en.wikipedia.org/wiki/Dewan_Rakyat"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Independence from the United Kingdom",
+      "rows": [
+        {
+          "label": "• Federation of Malaya",
+          "value": "31 August 1957"
+        },
+        {
+          "label": "• Sarawak self-governance",
+          "value": "22 July 1963"
+        },
+        {
+          "label": "• North Borneo self-governance",
+          "value": "31 August 1963"
+        },
+        {
+          "label": "• Proclamation of Malaysia",
+          "value": "16 September 1963"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "330,803 km (127,724 sq mi) ( 67th )",
+          "links": [
+            {
+              "text": "67th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "0.3"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2024 estimate",
+          "value": "34,564,810 ( 43rd )",
+          "links": [
+            {
+              "text": "43rd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• 2020 census",
+          "value": "32,447,385"
+        },
+        {
+          "label": "• Density",
+          "value": "101/km (261.6/sq mi) ( 116th )",
+          "links": [
+            {
+              "text": "116th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$1.478 trillion ( 30th )",
+          "links": [
+            {
+              "text": "30th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$43,665 ( 52nd )",
+          "links": [
+            {
+              "text": "52nd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$470,572 billion ( 35th )",
+          "links": [
+            {
+              "text": "35th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$13,901 ( 76th )",
+          "links": [
+            {
+              "text": "76th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "Gini (2024)",
+          "value": "39.0 medium inequality"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.819 very high ( 67th )",
+          "links": [
+            {
+              "text": "67th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "Malaysian ringgit (RM) ( MYR )",
+          "links": [
+            {
+              "text": "Malaysian ringgit",
+              "href": "https://en.wikipedia.org/wiki/Malaysian_ringgit"
+            },
+            {
+              "text": "MYR",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC +8 ( MST )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "+8",
+              "href": "https://en.wikipedia.org/wiki/UTC%2B8"
+            },
+            {
+              "text": "MST",
+              "href": "https://en.wikipedia.org/wiki/Malaysian_Standard_Time"
+            }
+          ]
+        },
+        {
+          "label": "Date format",
+          "value": "dd-mm-yyyy"
+        },
+        {
+          "label": "Calling code",
+          "value": "+60",
+          "links": [
+            {
+              "text": "+60",
+              "href": "https://en.wikipedia.org/wiki/%2B60"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "MY",
+          "links": [
+            {
+              "text": "MY",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:MY"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".my",
+          "links": [
+            {
+              "text": ".my",
+              "href": "https://en.wikipedia.org/wiki/.my"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

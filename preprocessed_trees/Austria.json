@@ -1,0 +1,394 @@
+{
+  "label": "country",
+  "children": [
+    {
+      "label": "name",
+      "children": [
+        {
+          "label": "austria"
+        }
+      ]
+    },
+    {
+      "label": "infobox_title",
+      "children": [
+        {
+          "label": "republic of austria republik österreich"
+        }
+      ]
+    },
+    {
+      "label": "capital_and_largest_city",
+      "children": [
+        {
+          "label": "vienna / 48."
+        }
+      ]
+    },
+    {
+      "label": "official_language",
+      "children": [
+        {
+          "label": "german"
+        }
+      ]
+    },
+    {
+      "label": "official_regional_languages",
+      "children": [
+        {
+          "label": "hungarian"
+        },
+        {
+          "label": "slovene"
+        },
+        {
+          "label": "burgenland croatian"
+        }
+      ]
+    },
+    {
+      "label": "ethnic_groups_2024",
+      "children": [
+        {
+          "label": "72.2% austrians"
+        },
+        {
+          "label": "27.8% other"
+        }
+      ]
+    },
+    {
+      "label": "religion_2021",
+      "children": [
+        {
+          "label": "68.2% christianity"
+        },
+        {
+          "label": "55.2% catholicism"
+        },
+        {
+          "label": "4.9% orthodoxy"
+        },
+        {
+          "label": "3.8% protestantism"
+        },
+        {
+          "label": "4.3% other christian"
+        },
+        {
+          "label": "22.4% no religion"
+        },
+        {
+          "label": "8.3% islam"
+        },
+        {
+          "label": "1.1% other"
+        }
+      ]
+    },
+    {
+      "label": "demonym",
+      "children": [
+        {
+          "label": "austrian"
+        }
+      ]
+    },
+    {
+      "label": "government",
+      "children": [
+        {
+          "label": "federal semi-presidential republic"
+        }
+      ]
+    },
+    {
+      "label": "president",
+      "children": [
+        {
+          "label": "alexander van der bellen"
+        }
+      ]
+    },
+    {
+      "label": "chancellor",
+      "children": [
+        {
+          "label": "christian stocker"
+        }
+      ]
+    },
+    {
+      "label": "legislature",
+      "children": [
+        {
+          "label": "parliament"
+        }
+      ]
+    },
+    {
+      "label": "upper_house",
+      "children": [
+        {
+          "label": "federal council"
+        }
+      ]
+    },
+    {
+      "label": "lower_house",
+      "children": [
+        {
+          "label": "national council"
+        }
+      ]
+    },
+    {
+      "label": "formation",
+      "children": [
+        {
+          "label": "margraviate_oldest_naming",
+          "children": [
+            {
+              "label": "1 november 996"
+            }
+          ]
+        },
+        {
+          "label": "duchy",
+          "children": [
+            {
+              "label": "17 september 1156"
+            }
+          ]
+        },
+        {
+          "label": "archduchy",
+          "children": [
+            {
+              "label": "6 january 1453"
+            }
+          ]
+        },
+        {
+          "label": "imperial_circle",
+          "children": [
+            {
+              "label": "1512"
+            }
+          ]
+        },
+        {
+          "label": "empire",
+          "children": [
+            {
+              "label": "11 august 1804"
+            }
+          ]
+        },
+        {
+          "label": "austria_hungary",
+          "children": [
+            {
+              "label": "30 march 1867"
+            }
+          ]
+        },
+        {
+          "label": "first_republic",
+          "children": [
+            {
+              "label": "10 september 1919"
+            }
+          ]
+        },
+        {
+          "label": "federal_state",
+          "children": [
+            {
+              "label": "1 may 1934"
+            }
+          ]
+        },
+        {
+          "label": "anschluss",
+          "children": [
+            {
+              "label": "13 march 1938"
+            }
+          ]
+        },
+        {
+          "label": "second_republic",
+          "children": [
+            {
+              "label": "27 april 1945"
+            }
+          ]
+        },
+        {
+          "label": "state_treaty",
+          "children": [
+            {
+              "label": "27 july 1955"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "area",
+      "children": [
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "83,879 km"
+            }
+          ]
+        },
+        {
+          "label": "water",
+          "children": [
+            {
+              "label": "0.84"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "population",
+      "children": [
+        {
+          "label": "2024_estimate",
+          "children": [
+            {
+              "label": "9,110,079"
+            }
+          ]
+        },
+        {
+          "label": "density",
+          "children": [
+            {
+              "label": "107.6/km"
+            }
+          ]
+        },
+        {
+          "label": "gdp_ppp",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$682.86 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$74,370"
+            }
+          ]
+        },
+        {
+          "label": "gdp_nominal",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$534.30 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$58,190"
+            }
+          ]
+        },
+        {
+          "label": "gini_2023",
+          "children": [
+            {
+              "label": "28.1 low inequality"
+            }
+          ]
+        },
+        {
+          "label": "hdi_2023",
+          "children": [
+            {
+              "label": "0.930 very high"
+            }
+          ]
+        },
+        {
+          "label": "currency",
+          "children": [
+            {
+              "label": "euro"
+            }
+          ]
+        },
+        {
+          "label": "time_zone",
+          "children": [
+            {
+              "label": "utc +1"
+            }
+          ]
+        },
+        {
+          "label": "summer_dst",
+          "children": [
+            {
+              "label": "utc +2"
+            }
+          ]
+        },
+        {
+          "label": "calling_code",
+          "children": [
+            {
+              "label": "+43"
+            }
+          ]
+        },
+        {
+          "label": "iso_3166_code",
+          "children": [
+            {
+              "label": "at"
+            }
+          ]
+        },
+        {
+          "label": "internet_tld",
+          "children": [
+            {
+              "label": ".at"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

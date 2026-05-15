@@ -1,0 +1,1042 @@
+{
+  "source": "Uruguay",
+  "target": "Lebanon",
+  "source_nodes": 73,
+  "target_nodes": 102,
+  "ted": 80.92070000000001,
+  "structural_similarity": 73.47,
+  "content_similarity": 44.67,
+  "overall_similarity": 53.76,
+  "edit_script": [
+    {
+      "op": "Insert",
+      "node2": "lebanon",
+      "type": "content",
+      "path": "country.name"
+    },
+    {
+      "op": "Insert",
+      "node2": "name",
+      "type": "structural",
+      "path": "country.name"
+    },
+    {
+      "op": "Insert",
+      "node2": "lebanese republic الجمهورية اللبنانية ( arabic ) al-jumhūriyyah al-lubnāniyyah",
+      "type": "content",
+      "path": "country.infobox_title"
+    },
+    {
+      "op": "Insert",
+      "node2": "infobox_title",
+      "type": "structural",
+      "path": "country.infobox_title"
+    },
+    {
+      "op": "Insert",
+      "node2": "beirut / 33",
+      "type": "content",
+      "path": "country.capital_and_largest_city"
+    },
+    {
+      "op": "Insert",
+      "node2": "capital_and_largest_city",
+      "type": "structural",
+      "path": "country.capital_and_largest_city"
+    },
+    {
+      "op": "Insert",
+      "node2": "arabic",
+      "type": "content",
+      "path": "country.official_languages"
+    },
+    {
+      "op": "Insert",
+      "node2": "official_languages",
+      "type": "structural",
+      "path": "country.official_languages"
+    },
+    {
+      "op": "Insert",
+      "node2": "lebanese arabic",
+      "type": "content",
+      "path": "country.local_vernacular"
+    },
+    {
+      "op": "Insert",
+      "node2": "local_vernacular",
+      "type": "structural",
+      "path": "country.local_vernacular"
+    },
+    {
+      "op": "Insert",
+      "node2": "french",
+      "type": "content",
+      "path": "country.recognised_minority_language"
+    },
+    {
+      "op": "Insert",
+      "node2": "recognised_minority_language",
+      "type": "structural",
+      "path": "country.recognised_minority_language"
+    },
+    {
+      "op": "Insert",
+      "node2": "95% arab",
+      "type": "content",
+      "path": "country.ethnic_groups_2021"
+    },
+    {
+      "op": "Insert",
+      "node2": "4% armenian",
+      "type": "content",
+      "path": "country.ethnic_groups_2021"
+    },
+    {
+      "op": "Insert",
+      "node2": "1% others",
+      "type": "content",
+      "path": "country.ethnic_groups_2021"
+    },
+    {
+      "op": "Insert",
+      "node2": "ethnic_groups_2021",
+      "type": "structural",
+      "path": "country.ethnic_groups_2021"
+    },
+    {
+      "op": "Insert",
+      "node2": "% islam % shia % alawite % sunni",
+      "type": "content",
+      "path": "country.religion_2024"
+    },
+    {
+      "op": "Insert",
+      "node2": "% islam % shia % alawite % sunni",
+      "type": "content",
+      "path": "country.religion_2024"
+    },
+    {
+      "op": "Insert",
+      "node2": "% shia % alawite",
+      "type": "content",
+      "path": "country.religion_2024"
+    },
+    {
+      "op": "Insert",
+      "node2": "% alawite",
+      "type": "content",
+      "path": "country.religion_2024"
+    },
+    {
+      "op": "Insert",
+      "node2": "% sunni",
+      "type": "content",
+      "path": "country.religion_2024"
+    },
+    {
+      "op": "Insert",
+      "node2": "% christianity % catholic % orthodox % armenian apostolic % protestant % other christians",
+      "type": "content",
+      "path": "country.religion_2024"
+    },
+    {
+      "op": "Insert",
+      "node2": "% christianity % catholic % orthodox % armenian apostolic % protestant % other christians",
+      "type": "content",
+      "path": "country.religion_2024"
+    },
+    {
+      "op": "Insert",
+      "node2": "% catholic",
+      "type": "content",
+      "path": "country.religion_2024"
+    },
+    {
+      "op": "Insert",
+      "node2": "% orthodox",
+      "type": "content",
+      "path": "country.religion_2024"
+    },
+    {
+      "op": "Insert",
+      "node2": "% armenian apostolic",
+      "type": "content",
+      "path": "country.religion_2024"
+    },
+    {
+      "op": "Insert",
+      "node2": "% protestant",
+      "type": "content",
+      "path": "country.religion_2024"
+    },
+    {
+      "op": "Insert",
+      "node2": "% other christians",
+      "type": "content",
+      "path": "country.religion_2024"
+    },
+    {
+      "op": "Insert",
+      "node2": "% druze",
+      "type": "content",
+      "path": "country.religion_2024"
+    },
+    {
+      "op": "Insert",
+      "node2": "% no religion",
+      "type": "content",
+      "path": "country.religion_2024"
+    },
+    {
+      "op": "Insert",
+      "node2": "religion_2024",
+      "type": "structural",
+      "path": "country.religion_2024"
+    },
+    {
+      "op": "Insert",
+      "node2": "lebanese",
+      "type": "content",
+      "path": "country.demonym"
+    },
+    {
+      "op": "Insert",
+      "node2": "demonym",
+      "type": "structural",
+      "path": "country.demonym"
+    },
+    {
+      "op": "Insert",
+      "node2": "unitary parliamentary republic under confessionalism",
+      "type": "content",
+      "path": "country.government"
+    },
+    {
+      "op": "Insert",
+      "node2": "government",
+      "type": "structural",
+      "path": "country.government"
+    },
+    {
+      "op": "Insert",
+      "node2": "joseph aoun",
+      "type": "content",
+      "path": "country.president"
+    },
+    {
+      "op": "Insert",
+      "node2": "president",
+      "type": "structural",
+      "path": "country.president"
+    },
+    {
+      "op": "Insert",
+      "node2": "nawaf salam",
+      "type": "content",
+      "path": "country.prime_minister"
+    },
+    {
+      "op": "Insert",
+      "node2": "prime_minister",
+      "type": "structural",
+      "path": "country.prime_minister"
+    },
+    {
+      "op": "Insert",
+      "node2": "nabih berri",
+      "type": "content",
+      "path": "country.speaker_of_the_parliament"
+    },
+    {
+      "op": "Insert",
+      "node2": "speaker_of_the_parliament",
+      "type": "structural",
+      "path": "country.speaker_of_the_parliament"
+    },
+    {
+      "op": "Insert",
+      "node2": "parliament",
+      "type": "content",
+      "path": "country.legislature"
+    },
+    {
+      "op": "Insert",
+      "node2": "legislature",
+      "type": "structural",
+      "path": "country.legislature"
+    },
+    {
+      "op": "Insert",
+      "node2": "1516",
+      "type": "content",
+      "path": "country.establishment.emirate_of_mount_lebanon"
+    },
+    {
+      "op": "Insert",
+      "node2": "emirate_of_mount_lebanon",
+      "type": "structural",
+      "path": "country.establishment.emirate_of_mount_lebanon"
+    },
+    {
+      "op": "Insert",
+      "node2": "1 december 1843",
+      "type": "content",
+      "path": "country.establishment.double_qaim_maqamate_of_mount_lebanon"
+    },
+    {
+      "op": "Insert",
+      "node2": "double_qaim_maqamate_of_mount_lebanon",
+      "type": "structural",
+      "path": "country.establishment.double_qaim_maqamate_of_mount_lebanon"
+    },
+    {
+      "op": "Insert",
+      "node2": "9 june 1861",
+      "type": "content",
+      "path": "country.establishment.mount_lebanon_mutasarrifate"
+    },
+    {
+      "op": "Insert",
+      "node2": "mount_lebanon_mutasarrifate",
+      "type": "structural",
+      "path": "country.establishment.mount_lebanon_mutasarrifate"
+    },
+    {
+      "op": "Insert",
+      "node2": "1 september 1920",
+      "type": "content",
+      "path": "country.establishment.greater_lebanon"
+    },
+    {
+      "op": "Insert",
+      "node2": "greater_lebanon",
+      "type": "structural",
+      "path": "country.establishment.greater_lebanon"
+    },
+    {
+      "op": "Insert",
+      "node2": "23 may 1926",
+      "type": "content",
+      "path": "country.establishment.constitution"
+    },
+    {
+      "op": "Insert",
+      "node2": "constitution",
+      "type": "structural",
+      "path": "country.establishment.constitution"
+    },
+    {
+      "op": "Insert",
+      "node2": "22 november 1943",
+      "type": "content",
+      "path": "country.establishment.independence_declared"
+    },
+    {
+      "op": "Insert",
+      "node2": "independence_declared",
+      "type": "structural",
+      "path": "country.establishment.independence_declared"
+    },
+    {
+      "op": "Insert",
+      "node2": "24 october 1945",
+      "type": "content",
+      "path": "country.establishment.french_mandate_ended"
+    },
+    {
+      "op": "Insert",
+      "node2": "french_mandate_ended",
+      "type": "structural",
+      "path": "country.establishment.french_mandate_ended"
+    },
+    {
+      "op": "Insert",
+      "node2": "17 april 1946",
+      "type": "content",
+      "path": "country.establishment.withdrawal_of_french_forces"
+    },
+    {
+      "op": "Insert",
+      "node2": "withdrawal_of_french_forces",
+      "type": "structural",
+      "path": "country.establishment.withdrawal_of_french_forces"
+    },
+    {
+      "op": "Insert",
+      "node2": "24 may 2000",
+      "type": "content",
+      "path": "country.establishment.israeli_troops_withdrawn"
+    },
+    {
+      "op": "Insert",
+      "node2": "israeli_troops_withdrawn",
+      "type": "structural",
+      "path": "country.establishment.israeli_troops_withdrawn"
+    },
+    {
+      "op": "Insert",
+      "node2": "30 april 2005",
+      "type": "content",
+      "path": "country.establishment.syrian_troops_withdrawn"
+    },
+    {
+      "op": "Insert",
+      "node2": "syrian_troops_withdrawn",
+      "type": "structural",
+      "path": "country.establishment.syrian_troops_withdrawn"
+    },
+    {
+      "op": "Insert",
+      "node2": "establishment",
+      "type": "structural",
+      "path": "country.establishment"
+    },
+    {
+      "op": "Insert",
+      "node2": "10,452 km (4,036 sq mi",
+      "type": "content",
+      "path": "country.area.total"
+    },
+    {
+      "op": "Insert",
+      "node2": "total",
+      "type": "structural",
+      "path": "country.area.total"
+    },
+    {
+      "op": "Insert",
+      "node2": "area",
+      "type": "structural",
+      "path": "country.area"
+    },
+    {
+      "op": "Insert",
+      "node2": "5,364,482",
+      "type": "content",
+      "path": "country.population.2024_estimate"
+    },
+    {
+      "op": "Insert",
+      "node2": "2024_estimate",
+      "type": "structural",
+      "path": "country.population.2024_estimate"
+    },
+    {
+      "op": "Insert",
+      "node2": "513/km",
+      "type": "content",
+      "path": "country.population.density"
+    },
+    {
+      "op": "Insert",
+      "node2": "density",
+      "type": "structural",
+      "path": "country.population.density"
+    },
+    {
+      "op": "Insert",
+      "node2": "2022 estimate",
+      "type": "content",
+      "path": "country.population.gdp_ppp"
+    },
+    {
+      "op": "Insert",
+      "node2": "gdp_ppp",
+      "type": "structural",
+      "path": "country.population.gdp_ppp"
+    },
+    {
+      "op": "Insert",
+      "node2": "$billion",
+      "type": "content",
+      "path": "country.population.total"
+    },
+    {
+      "op": "Insert",
+      "node2": "total",
+      "type": "structural",
+      "path": "country.population.total"
+    },
+    {
+      "op": "Insert",
+      "node2": "$11,793",
+      "type": "content",
+      "path": "country.population.per_capita"
+    },
+    {
+      "op": "Insert",
+      "node2": "per_capita",
+      "type": "structural",
+      "path": "country.population.per_capita"
+    },
+    {
+      "op": "Insert",
+      "node2": "2022 estimate",
+      "type": "content",
+      "path": "country.population.gdp_nominal"
+    },
+    {
+      "op": "Insert",
+      "node2": "gdp_nominal",
+      "type": "structural",
+      "path": "country.population.gdp_nominal"
+    },
+    {
+      "op": "Insert",
+      "node2": "$billion",
+      "type": "content",
+      "path": "country.population.total"
+    },
+    {
+      "op": "Insert",
+      "node2": "total",
+      "type": "structural",
+      "path": "country.population.total"
+    },
+    {
+      "op": "Insert",
+      "node2": "$3,283",
+      "type": "content",
+      "path": "country.population.per_capita"
+    },
+    {
+      "op": "Insert",
+      "node2": "per_capita",
+      "type": "structural",
+      "path": "country.population.per_capita"
+    },
+    {
+      "op": "Insert",
+      "node2": "medium inequality",
+      "type": "content",
+      "path": "country.population.gini_2011"
+    },
+    {
+      "op": "Insert",
+      "node2": "gini_2011",
+      "type": "structural",
+      "path": "country.population.gini_2011"
+    },
+    {
+      "op": "Insert",
+      "node2": "high",
+      "type": "content",
+      "path": "country.population.hdi_2023"
+    },
+    {
+      "op": "Insert",
+      "node2": "hdi_2023",
+      "type": "structural",
+      "path": "country.population.hdi_2023"
+    },
+    {
+      "op": "Insert",
+      "node2": "lebanese pound",
+      "type": "content",
+      "path": "country.population.currency"
+    },
+    {
+      "op": "Insert",
+      "node2": "currency",
+      "type": "structural",
+      "path": "country.population.currency"
+    },
+    {
+      "op": "Insert",
+      "node2": "utc +2",
+      "type": "content",
+      "path": "country.population.time_zone"
+    },
+    {
+      "op": "Insert",
+      "node2": "time_zone",
+      "type": "structural",
+      "path": "country.population.time_zone"
+    },
+    {
+      "op": "Insert",
+      "node2": "utc +3",
+      "type": "content",
+      "path": "country.population.summer_dst"
+    },
+    {
+      "op": "Insert",
+      "node2": "summer_dst",
+      "type": "structural",
+      "path": "country.population.summer_dst"
+    },
+    {
+      "op": "Insert",
+      "node2": "+961",
+      "type": "content",
+      "path": "country.population.calling_code"
+    },
+    {
+      "op": "Insert",
+      "node2": "calling_code",
+      "type": "structural",
+      "path": "country.population.calling_code"
+    },
+    {
+      "op": "Insert",
+      "node2": "lb",
+      "type": "content",
+      "path": "country.population.iso_3166_code"
+    },
+    {
+      "op": "Insert",
+      "node2": "iso_3166_code",
+      "type": "structural",
+      "path": "country.population.iso_3166_code"
+    },
+    {
+      "op": "Insert",
+      "node2": "lb",
+      "type": "content",
+      "path": "country.population.internet_tld"
+    },
+    {
+      "op": "Delete",
+      "node1": "uruguay",
+      "type": "content",
+      "path": "country.name"
+    },
+    {
+      "op": "Delete",
+      "node1": "name",
+      "type": "structural",
+      "path": "country.name"
+    },
+    {
+      "op": "Delete",
+      "node1": "oriental republic of uruguay república oriental del uruguay",
+      "type": "content",
+      "path": "country.infobox_title"
+    },
+    {
+      "op": "Delete",
+      "node1": "infobox_title",
+      "type": "structural",
+      "path": "country.infobox_title"
+    },
+    {
+      "op": "Delete",
+      "node1": "montevideo / 34",
+      "type": "content",
+      "path": "country.capital_and_largest_city"
+    },
+    {
+      "op": "Delete",
+      "node1": "capital_and_largest_city",
+      "type": "structural",
+      "path": "country.capital_and_largest_city"
+    },
+    {
+      "op": "Delete",
+      "node1": "spanish",
+      "type": "content",
+      "path": "country.official_languages"
+    },
+    {
+      "op": "Delete",
+      "node1": "uruguayan sign language",
+      "type": "content",
+      "path": "country.official_languages"
+    },
+    {
+      "op": "Delete",
+      "node1": "official_languages",
+      "type": "structural",
+      "path": "country.official_languages"
+    },
+    {
+      "op": "Delete",
+      "node1": "% white",
+      "type": "content",
+      "path": "country.ethnic_groups_2023"
+    },
+    {
+      "op": "Delete",
+      "node1": "% black",
+      "type": "content",
+      "path": "country.ethnic_groups_2023"
+    },
+    {
+      "op": "Delete",
+      "node1": "% indigenous",
+      "type": "content",
+      "path": "country.ethnic_groups_2023"
+    },
+    {
+      "op": "Delete",
+      "node1": "% east asian",
+      "type": "content",
+      "path": "country.ethnic_groups_2023"
+    },
+    {
+      "op": "Delete",
+      "node1": "% other",
+      "type": "content",
+      "path": "country.ethnic_groups_2023"
+    },
+    {
+      "op": "Delete",
+      "node1": "ethnic_groups_2023",
+      "type": "structural",
+      "path": "country.ethnic_groups_2023"
+    },
+    {
+      "op": "Delete",
+      "node1": "uruguayan",
+      "type": "content",
+      "path": "country.demonym"
+    },
+    {
+      "op": "Delete",
+      "node1": "demonym",
+      "type": "structural",
+      "path": "country.demonym"
+    },
+    {
+      "op": "Delete",
+      "node1": "unitary presidential republic",
+      "type": "content",
+      "path": "country.government"
+    },
+    {
+      "op": "Delete",
+      "node1": "government",
+      "type": "structural",
+      "path": "country.government"
+    },
+    {
+      "op": "Delete",
+      "node1": "yamandú orsi",
+      "type": "content",
+      "path": "country.president"
+    },
+    {
+      "op": "Delete",
+      "node1": "president",
+      "type": "structural",
+      "path": "country.president"
+    },
+    {
+      "op": "Delete",
+      "node1": "carolina cosse",
+      "type": "content",
+      "path": "country.vice_president"
+    },
+    {
+      "op": "Delete",
+      "node1": "vice_president",
+      "type": "structural",
+      "path": "country.vice_president"
+    },
+    {
+      "op": "Delete",
+      "node1": "general assembly",
+      "type": "content",
+      "path": "country.legislature"
+    },
+    {
+      "op": "Delete",
+      "node1": "legislature",
+      "type": "structural",
+      "path": "country.legislature"
+    },
+    {
+      "op": "Delete",
+      "node1": "senate",
+      "type": "content",
+      "path": "country.upper_house"
+    },
+    {
+      "op": "Delete",
+      "node1": "upper_house",
+      "type": "structural",
+      "path": "country.upper_house"
+    },
+    {
+      "op": "Delete",
+      "node1": "chamber of representatives",
+      "type": "content",
+      "path": "country.lower_house"
+    },
+    {
+      "op": "Delete",
+      "node1": "lower_house",
+      "type": "structural",
+      "path": "country.lower_house"
+    },
+    {
+      "op": "Delete",
+      "node1": "25 august 1825",
+      "type": "content",
+      "path": "country.independence_from_brazil.declared"
+    },
+    {
+      "op": "Delete",
+      "node1": "declared",
+      "type": "structural",
+      "path": "country.independence_from_brazil.declared"
+    },
+    {
+      "op": "Delete",
+      "node1": "27 august 1828",
+      "type": "content",
+      "path": "country.independence_from_brazil.recognized"
+    },
+    {
+      "op": "Delete",
+      "node1": "recognized",
+      "type": "structural",
+      "path": "country.independence_from_brazil.recognized"
+    },
+    {
+      "op": "Delete",
+      "node1": "15 february 1967",
+      "type": "content",
+      "path": "country.independence_from_brazil.current_constitution"
+    },
+    {
+      "op": "Delete",
+      "node1": "current_constitution",
+      "type": "structural",
+      "path": "country.independence_from_brazil.current_constitution"
+    },
+    {
+      "op": "Delete",
+      "node1": "independence_from_brazil",
+      "type": "structural",
+      "path": "country.independence_from_brazil"
+    },
+    {
+      "op": "Delete",
+      "node1": "176,215 km (68,037 sq mi",
+      "type": "content",
+      "path": "country.area.total"
+    },
+    {
+      "op": "Delete",
+      "node1": "total",
+      "type": "structural",
+      "path": "country.area.total"
+    },
+    {
+      "op": "Delete",
+      "node1": "area",
+      "type": "structural",
+      "path": "country.area"
+    },
+    {
+      "op": "Delete",
+      "node1": "3,499,451",
+      "type": "content",
+      "path": "country.population.2023_census"
+    },
+    {
+      "op": "Delete",
+      "node1": "2023_census",
+      "type": "structural",
+      "path": "country.population.2023_census"
+    },
+    {
+      "op": "Delete",
+      "node1": "km (/sq mi",
+      "type": "content",
+      "path": "country.population.density"
+    },
+    {
+      "op": "Delete",
+      "node1": "density",
+      "type": "structural",
+      "path": "country.population.density"
+    },
+    {
+      "op": "Delete",
+      "node1": "2024 estimate",
+      "type": "content",
+      "path": "country.population.gdp_ppp"
+    },
+    {
+      "op": "Delete",
+      "node1": "gdp_ppp",
+      "type": "structural",
+      "path": "country.population.gdp_ppp"
+    },
+    {
+      "op": "Delete",
+      "node1": "$billion",
+      "type": "content",
+      "path": "country.population.total"
+    },
+    {
+      "op": "Delete",
+      "node1": "total",
+      "type": "structural",
+      "path": "country.population.total"
+    },
+    {
+      "op": "Delete",
+      "node1": "$36,014",
+      "type": "content",
+      "path": "country.population.per_capita"
+    },
+    {
+      "op": "Delete",
+      "node1": "per_capita",
+      "type": "structural",
+      "path": "country.population.per_capita"
+    },
+    {
+      "op": "Delete",
+      "node1": "2024 estimate",
+      "type": "content",
+      "path": "country.population.gdp_nominal"
+    },
+    {
+      "op": "Delete",
+      "node1": "gdp_nominal",
+      "type": "structural",
+      "path": "country.population.gdp_nominal"
+    },
+    {
+      "op": "Delete",
+      "node1": "$billion",
+      "type": "content",
+      "path": "country.population.total"
+    },
+    {
+      "op": "Delete",
+      "node1": "total",
+      "type": "structural",
+      "path": "country.population.total"
+    },
+    {
+      "op": "Delete",
+      "node1": "$23,088",
+      "type": "content",
+      "path": "country.population.per_capita"
+    },
+    {
+      "op": "Delete",
+      "node1": "per_capita",
+      "type": "structural",
+      "path": "country.population.per_capita"
+    },
+    {
+      "op": "Delete",
+      "node1": "medium inequality",
+      "type": "content",
+      "path": "country.population.gini_2022"
+    },
+    {
+      "op": "Delete",
+      "node1": "gini_2022",
+      "type": "structural",
+      "path": "country.population.gini_2022"
+    },
+    {
+      "op": "Delete",
+      "node1": "very high",
+      "type": "content",
+      "path": "country.population.hdi_2023"
+    },
+    {
+      "op": "Delete",
+      "node1": "hdi_2023",
+      "type": "structural",
+      "path": "country.population.hdi_2023"
+    },
+    {
+      "op": "Delete",
+      "node1": "uruguayan peso",
+      "type": "content",
+      "path": "country.population.currency"
+    },
+    {
+      "op": "Delete",
+      "node1": "currency",
+      "type": "structural",
+      "path": "country.population.currency"
+    },
+    {
+      "op": "Delete",
+      "node1": "utc −03:00",
+      "type": "content",
+      "path": "country.population.time_zone"
+    },
+    {
+      "op": "Delete",
+      "node1": "time_zone",
+      "type": "structural",
+      "path": "country.population.time_zone"
+    },
+    {
+      "op": "Delete",
+      "node1": "dd/mm/yyyy",
+      "type": "content",
+      "path": "country.population.date_format"
+    },
+    {
+      "op": "Delete",
+      "node1": "date_format",
+      "type": "structural",
+      "path": "country.population.date_format"
+    },
+    {
+      "op": "Delete",
+      "node1": "+598",
+      "type": "content",
+      "path": "country.population.calling_code"
+    },
+    {
+      "op": "Delete",
+      "node1": "calling_code",
+      "type": "structural",
+      "path": "country.population.calling_code"
+    },
+    {
+      "op": "Delete",
+      "node1": "uy",
+      "type": "content",
+      "path": "country.population.iso_3166_code"
+    },
+    {
+      "op": "Delete",
+      "node1": "iso_3166_code",
+      "type": "structural",
+      "path": "country.population.iso_3166_code"
+    },
+    {
+      "op": "Update",
+      "node1": "uy",
+      "node2": "لبنان",
+      "type": "content",
+      "path": "country.population.internet_tld"
+    },
+    {
+      "op": "Match",
+      "node1": "internet_tld",
+      "node2": "internet_tld",
+      "type": "structural",
+      "path": "country.population.internet_tld"
+    },
+    {
+      "op": "Match",
+      "node1": "population",
+      "node2": "population",
+      "type": "structural",
+      "path": "country.population"
+    },
+    {
+      "op": "Match",
+      "node1": "country",
+      "node2": "country",
+      "type": "structural",
+      "path": "country"
+    }
+  ]
+}

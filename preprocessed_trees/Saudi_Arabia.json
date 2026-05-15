@@ -1,0 +1,306 @@
+{
+  "label": "country",
+  "children": [
+    {
+      "label": "name",
+      "children": [
+        {
+          "label": "saudi arabia"
+        }
+      ]
+    },
+    {
+      "label": "infobox_title",
+      "children": [
+        {
+          "label": "kingdom of saudi arabia المملكة العربية السعودية al-mamlaka al-ʿarabiyya as-suʿūdiyya"
+        }
+      ]
+    },
+    {
+      "label": "capital_and_largest_city",
+      "children": [
+        {
+          "label": "riyadh / 24."
+        }
+      ]
+    },
+    {
+      "label": "official_languages",
+      "children": [
+        {
+          "label": "arabic"
+        }
+      ]
+    },
+    {
+      "label": "religion",
+      "children": [
+        {
+          "label": "sunni islam"
+        }
+      ]
+    },
+    {
+      "label": "demonyms",
+      "children": [
+        {
+          "label": "saudi"
+        },
+        {
+          "label": "saudi arabian"
+        }
+      ]
+    },
+    {
+      "label": "government",
+      "children": [
+        {
+          "label": "unitary islamic absolute monarchy"
+        }
+      ]
+    },
+    {
+      "label": "king",
+      "children": [
+        {
+          "label": "salman"
+        }
+      ]
+    },
+    {
+      "label": "crown_prince_and_prime_minister",
+      "children": [
+        {
+          "label": "mohammed bin salman"
+        }
+      ]
+    },
+    {
+      "label": "legislature",
+      "children": [
+        {
+          "label": "consultative assembly"
+        }
+      ]
+    },
+    {
+      "label": "establishment",
+      "children": [
+        {
+          "label": "emirate_of_diriyah",
+          "children": [
+            {
+              "label": "22 february 1727"
+            }
+          ]
+        },
+        {
+          "label": "emirate_of_nejd",
+          "children": [
+            {
+              "label": "1824"
+            }
+          ]
+        },
+        {
+          "label": "emirate_of_riyadh",
+          "children": [
+            {
+              "label": "13 january 1902"
+            }
+          ]
+        },
+        {
+          "label": "emirate_of_nejd_and_hasa",
+          "children": [
+            {
+              "label": "15 january 1913"
+            }
+          ]
+        },
+        {
+          "label": "sultanate_of_nejd",
+          "children": [
+            {
+              "label": "29 november 1921"
+            }
+          ]
+        },
+        {
+          "label": "kingdom_of_hejaz_and_nejd",
+          "children": [
+            {
+              "label": "8 january 1926"
+            }
+          ]
+        },
+        {
+          "label": "unification_and_proclamation_of_the_kingdom_of_saudi_arabia",
+          "children": [
+            {
+              "label": "23 september 1932"
+            }
+          ]
+        },
+        {
+          "label": "current_constitution",
+          "children": [
+            {
+              "label": "31 january 1992"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "area",
+      "children": [
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "2,149,690 km"
+            }
+          ]
+        },
+        {
+          "label": "water",
+          "children": [
+            {
+              "label": "0.7"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "population",
+      "children": [
+        {
+          "label": "2024_census",
+          "children": [
+            {
+              "label": "33,702,731"
+            }
+          ]
+        },
+        {
+          "label": "density",
+          "children": [
+            {
+              "label": "15/km"
+            }
+          ]
+        },
+        {
+          "label": "gdp_ppp",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$2.690 trillion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$74,670"
+            }
+          ]
+        },
+        {
+          "label": "gdp_nominal",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$1.270 trillion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$35,230"
+            }
+          ]
+        },
+        {
+          "label": "gini_2013",
+          "children": [
+            {
+              "label": "45.9 medium inequality"
+            }
+          ]
+        },
+        {
+          "label": "hdi_2023",
+          "children": [
+            {
+              "label": "0.900 very high"
+            }
+          ]
+        },
+        {
+          "label": "currency",
+          "children": [
+            {
+              "label": "saudi riyal"
+            }
+          ]
+        },
+        {
+          "label": "time_zone",
+          "children": [
+            {
+              "label": "utc +3"
+            }
+          ]
+        },
+        {
+          "label": "calling_code",
+          "children": [
+            {
+              "label": "+966"
+            }
+          ]
+        },
+        {
+          "label": "iso_3166_code",
+          "children": [
+            {
+              "label": "sa"
+            }
+          ]
+        },
+        {
+          "label": "internet_tld",
+          "children": [
+            {
+              "label": ".sa"
+            },
+            {
+              "label": "السعودية."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

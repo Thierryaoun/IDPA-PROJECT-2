@@ -1,0 +1,357 @@
+{
+  "country": "Egypt",
+  "infobox_title": "Arab Republic of Egypt جمهورية مصر العربية ( Arabic ) Jumhūriyyat Miṣr al-ʻArabiyyah",
+  "data": [
+    {
+      "label": "Capital and largest city",
+      "value": "Cairo 30°2′N 31°13′E ﻿ / ﻿ 30.033°N 31.217°E",
+      "links": [
+        {
+          "text": "Cairo",
+          "href": "https://en.wikipedia.org/wiki/Cairo"
+        },
+        {
+          "text": "30°2′N31°13′E﻿ / ﻿30.033°N 31.217°E",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Egypt&params=30_2_N_31_13_E_type:city"
+        }
+      ]
+    },
+    {
+      "label": "Official languages",
+      "value": "Arabic",
+      "links": [
+        {
+          "text": "Arabic",
+          "href": "https://en.wikipedia.org/wiki/Modern_Standard_Arabic"
+        }
+      ]
+    },
+    {
+      "label": "National language",
+      "value": "Egyptian Arabic",
+      "links": [
+        {
+          "text": "Egyptian Arabic",
+          "href": "https://en.wikipedia.org/wiki/Egyptian_Arabic"
+        }
+      ]
+    },
+    {
+      "label": "Religion",
+      "value": "See Religion in Egypt",
+      "links": [
+        {
+          "text": "Religion in Egypt",
+          "href": "https://en.wikipedia.org/wiki/Religion_in_Egypt"
+        }
+      ]
+    },
+    {
+      "label": "Demonym",
+      "value": "Egyptian",
+      "links": [
+        {
+          "text": "Egyptian",
+          "href": "https://en.wikipedia.org/wiki/Egyptian_people"
+        }
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Unitary semi-presidential republic under an authoritarian government",
+      "links": [
+        {
+          "text": "semi-presidential republic",
+          "href": "https://en.wikipedia.org/wiki/Semi-presidential_republic"
+        },
+        {
+          "text": "authoritarian",
+          "href": "https://en.wikipedia.org/wiki/Authoritarianism"
+        }
+      ]
+    },
+    {
+      "label": "• President",
+      "value": "Abdel Fattah el-Sisi",
+      "links": [
+        {
+          "text": "Abdel Fattah el-Sisi",
+          "href": "https://en.wikipedia.org/wiki/Abdel_Fattah_el-Sisi"
+        }
+      ]
+    },
+    {
+      "label": "• Prime Minister",
+      "value": "Mostafa Madbouly",
+      "links": [
+        {
+          "text": "Mostafa Madbouly",
+          "href": "https://en.wikipedia.org/wiki/Mostafa_Madbouly"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "Parliament",
+      "links": [
+        {
+          "text": "Parliament",
+          "href": "https://en.wikipedia.org/wiki/Parliament_of_Egypt"
+        }
+      ]
+    },
+    {
+      "label": "• Upper house",
+      "value": "Senate",
+      "links": [
+        {
+          "text": "Senate",
+          "href": "https://en.wikipedia.org/wiki/Senate_(Egypt)"
+        }
+      ]
+    },
+    {
+      "label": "• Lower house",
+      "value": "House of Representatives",
+      "links": [
+        {
+          "text": "House of Representatives",
+          "href": "https://en.wikipedia.org/wiki/House_of_Representatives_(Egypt)"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Establishment",
+      "rows": [
+        {
+          "label": "• Unification of Upper and Lower Egypt",
+          "value": "c. 3150 BC"
+        },
+        {
+          "label": "• Fatimid Caliphate",
+          "value": "c. 973"
+        },
+        {
+          "label": "• Ayyubid dynasty inaugurated",
+          "value": "c. 1171"
+        },
+        {
+          "label": "• Mamluk Egypt",
+          "value": "c. 1261"
+        },
+        {
+          "label": "• Alawiyya dynasty inaugurated",
+          "value": "9 July 1805"
+        },
+        {
+          "label": "• Declaration of Independence",
+          "value": "28 February 1922"
+        },
+        {
+          "label": "• Revolution Day",
+          "value": "23 July 1952"
+        },
+        {
+          "label": "• Republic declared",
+          "value": "18 June 1953"
+        },
+        {
+          "label": "• Current constitution",
+          "value": "18 January 2014"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "1,010,408 km (390,121 sq mi) ( 29th )",
+          "links": [
+            {
+              "text": "29th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "0.632"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• July 2025 estimate",
+          "value": "107,868,296 ( 15th )",
+          "links": [
+            {
+              "text": "15th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• 2017 census",
+          "value": "94,798,827"
+        },
+        {
+          "label": "• Density",
+          "value": "106.8/km (276.6/sq mi) ( 102nd )",
+          "links": [
+            {
+              "text": "102nd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$2.372 trillion ( 18th )",
+          "links": [
+            {
+              "text": "18th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$21,668 ( 87th )",
+          "links": [
+            {
+              "text": "87th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$347.342 billion ( 44th )",
+          "links": [
+            {
+              "text": "44th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$3,174 ( 138th )",
+          "links": [
+            {
+              "text": "138th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "Gini (2021)",
+          "value": "28.5 low inequality"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.754 high ( 100th )",
+          "links": [
+            {
+              "text": "100th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "Egyptian pound (LE/E£/£E) ( EGP )",
+          "links": [
+            {
+              "text": "Egyptian pound",
+              "href": "https://en.wikipedia.org/wiki/Egyptian_pound"
+            },
+            {
+              "text": "EGP",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC +2 ( EET )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "EET",
+              "href": "https://en.wikipedia.org/wiki/Eastern_European_Time"
+            }
+          ]
+        },
+        {
+          "label": "• Summer ( DST )",
+          "value": "UTC +3 ( EEST )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "EEST",
+              "href": "https://en.wikipedia.org/wiki/Eastern_European_Summer_Time"
+            }
+          ]
+        },
+        {
+          "label": "Calling code",
+          "value": "+20",
+          "links": [
+            {
+              "text": "+20",
+              "href": "https://en.wikipedia.org/wiki/%2B20"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "EG",
+          "links": [
+            {
+              "text": "EG",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:EG"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".eg مصر.",
+          "links": [
+            {
+              "text": ".eg",
+              "href": "https://en.wikipedia.org/wiki/.eg"
+            },
+            {
+              "text": "مصر.",
+              "href": "https://en.wikipedia.org/wiki/%D9%85%D8%B5%D8%B1."
+            }
+          ],
+          "sub_items": [
+            ".eg",
+            "مصر."
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,352 @@
+{
+  "label": "country",
+  "children": [
+    {
+      "label": "name",
+      "children": [
+        {
+          "label": "libya"
+        }
+      ]
+    },
+    {
+      "label": "infobox_title",
+      "children": [
+        {
+          "label": "state of libya دولة ليبيا dawlat lībiyā"
+        }
+      ]
+    },
+    {
+      "label": "capital_and_largest_city",
+      "children": [
+        {
+          "label": "tripoli / 32."
+        }
+      ]
+    },
+    {
+      "label": "official_languages",
+      "children": [
+        {
+          "label": "arabic"
+        }
+      ]
+    },
+    {
+      "label": "local_vernacular",
+      "children": [
+        {
+          "label": "libyan arabic"
+        }
+      ]
+    },
+    {
+      "label": "foreign_languages",
+      "children": [
+        {
+          "label": "italian and english"
+        }
+      ]
+    },
+    {
+      "label": "ethnic_groups_1999",
+      "children": [
+        {
+          "label": "92% arabs"
+        },
+        {
+          "label": "5% berbers"
+        },
+        {
+          "label": "3% others"
+        }
+      ]
+    },
+    {
+      "label": "religion_2020",
+      "children": [
+        {
+          "label": "96.6% islam"
+        },
+        {
+          "label": "2.7% christianity"
+        },
+        {
+          "label": "0.7% others"
+        }
+      ]
+    },
+    {
+      "label": "demonym",
+      "children": [
+        {
+          "label": "libyan"
+        }
+      ]
+    },
+    {
+      "label": "government",
+      "children": [
+        {
+          "label": "unitary republic under a provisional government"
+        }
+      ]
+    },
+    {
+      "label": "chairman_of_the_presidential_council",
+      "children": [
+        {
+          "label": "mohamed al-menfi"
+        }
+      ]
+    },
+    {
+      "label": "vice_chairman_of_the_presidential_council",
+      "children": [
+        {
+          "label": "musa al-koni"
+        }
+      ]
+    },
+    {
+      "label": "prime_minister",
+      "children": [
+        {
+          "label": "abdul hamid dbeibeh"
+        }
+      ]
+    },
+    {
+      "label": "speaker_of_the_house_of_representatives",
+      "children": [
+        {
+          "label": "aguila saleh issa"
+        }
+      ]
+    },
+    {
+      "label": "legislature",
+      "children": [
+        {
+          "label": "high council of state house of representatives"
+        }
+      ]
+    },
+    {
+      "label": "establishment",
+      "children": [
+        {
+          "label": "ottoman_tripolitania",
+          "children": [
+            {
+              "label": "1551"
+            }
+          ]
+        },
+        {
+          "label": "italian_invasion_of_libya",
+          "children": [
+            {
+              "label": "1911"
+            }
+          ]
+        },
+        {
+          "label": "libyan_resistance_movement",
+          "children": [
+            {
+              "label": "1911–1951"
+            }
+          ]
+        },
+        {
+          "label": "tripolitanian_republic",
+          "children": [
+            {
+              "label": "16 november 1918"
+            }
+          ]
+        },
+        {
+          "label": "kingdom_of_libya",
+          "children": [
+            {
+              "label": "24 december 1951"
+            }
+          ]
+        },
+        {
+          "label": "coup_d_état_by_muammar_gaddafi",
+          "children": [
+            {
+              "label": "1 september 1969"
+            }
+          ]
+        },
+        {
+          "label": "great_socialist_people_s_libyan_arab_jamahiriya",
+          "children": [
+            {
+              "label": "2 march 1977"
+            }
+          ]
+        },
+        {
+          "label": "first_libyan_civil_war",
+          "children": [
+            {
+              "label": "17 february 2011"
+            }
+          ]
+        },
+        {
+          "label": "nato_intervention_in_libya",
+          "children": [
+            {
+              "label": "19 march 2011"
+            }
+          ]
+        },
+        {
+          "label": "end_of_second_libyan_civil_war",
+          "children": [
+            {
+              "label": "23 october 2020"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "area",
+      "children": [
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "1,759,541 km"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "population",
+      "children": [
+        {
+          "label": "2024_estimate",
+          "children": [
+            {
+              "label": "7,361,263"
+            }
+          ]
+        },
+        {
+          "label": "density",
+          "children": [
+            {
+              "label": "4.2/km"
+            }
+          ]
+        },
+        {
+          "label": "gdp_ppp",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$123.990 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$17,760"
+            }
+          ]
+        },
+        {
+          "label": "gdp_nominal",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$47.480 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$6,800"
+            }
+          ]
+        },
+        {
+          "label": "hdi_2023",
+          "children": [
+            {
+              "label": "0.721 high"
+            }
+          ]
+        },
+        {
+          "label": "currency",
+          "children": [
+            {
+              "label": "libyan dinar"
+            }
+          ]
+        },
+        {
+          "label": "time_zone",
+          "children": [
+            {
+              "label": "utc +2"
+            }
+          ]
+        },
+        {
+          "label": "calling_code",
+          "children": [
+            {
+              "label": "+218"
+            }
+          ]
+        },
+        {
+          "label": "iso_3166_code",
+          "children": [
+            {
+              "label": "ly"
+            }
+          ]
+        },
+        {
+          "label": "internet_tld",
+          "children": [
+            {
+              "label": ".ly ليبيا."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

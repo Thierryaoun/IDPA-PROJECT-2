@@ -1,0 +1,325 @@
+{
+  "label": "country",
+  "children": [
+    {
+      "label": "name",
+      "children": [
+        {
+          "label": "algeria"
+        }
+      ]
+    },
+    {
+      "label": "infobox_title",
+      "children": [
+        {
+          "label": "people's democratic republic of algeria الجمهورية الجزائرية الديمقراطية الشعبية al-jumhūriyyah al-jazāʾiriyyah ad-dīmuqrāṭiyyah ash‑shaʿbiyyah"
+        }
+      ]
+    },
+    {
+      "label": "capital_and_largest_city",
+      "children": [
+        {
+          "label": "algiers / 36."
+        }
+      ]
+    },
+    {
+      "label": "official_languages",
+      "children": [
+        {
+          "label": "arabic"
+        },
+        {
+          "label": "berber"
+        }
+      ]
+    },
+    {
+      "label": "national_vernacular",
+      "children": [
+        {
+          "label": "algerian arabic"
+        }
+      ]
+    },
+    {
+      "label": "foreign_languages",
+      "children": [
+        {
+          "label": "french english"
+        }
+      ]
+    },
+    {
+      "label": "ethnic_groups",
+      "children": [
+        {
+          "label": "see ethnic groups"
+        }
+      ]
+    },
+    {
+      "label": "religion_2012",
+      "children": [
+        {
+          "label": "99% sunni islam"
+        },
+        {
+          "label": "1% others"
+        }
+      ]
+    },
+    {
+      "label": "demonym",
+      "children": [
+        {
+          "label": "algerian"
+        }
+      ]
+    },
+    {
+      "label": "government",
+      "children": [
+        {
+          "label": "unitary semi-presidential republic"
+        }
+      ]
+    },
+    {
+      "label": "president",
+      "children": [
+        {
+          "label": "abdelmadjid tebboune"
+        }
+      ]
+    },
+    {
+      "label": "prime_minister",
+      "children": [
+        {
+          "label": "sifi ghrieb"
+        }
+      ]
+    },
+    {
+      "label": "council_president",
+      "children": [
+        {
+          "label": "azouz nasri"
+        }
+      ]
+    },
+    {
+      "label": "assembly_president",
+      "children": [
+        {
+          "label": "ibrahim boughali"
+        }
+      ]
+    },
+    {
+      "label": "legislature",
+      "children": [
+        {
+          "label": "parliament"
+        }
+      ]
+    },
+    {
+      "label": "upper_house",
+      "children": [
+        {
+          "label": "council of the nation"
+        }
+      ]
+    },
+    {
+      "label": "lower_house",
+      "children": [
+        {
+          "label": "people's national assembly"
+        }
+      ]
+    },
+    {
+      "label": "formation",
+      "children": [
+        {
+          "label": "numidia",
+          "children": [
+            {
+              "label": "202 bc"
+            }
+          ]
+        },
+        {
+          "label": "regency_of_algiers",
+          "children": [
+            {
+              "label": "1516"
+            }
+          ]
+        },
+        {
+          "label": "french_algeria",
+          "children": [
+            {
+              "label": "5 july 1830"
+            }
+          ]
+        },
+        {
+          "label": "independence",
+          "children": [
+            {
+              "label": "5 july 1962"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "area",
+      "children": [
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "2,381,741 km"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "population",
+      "children": [
+        {
+          "label": "2025_estimate",
+          "children": [
+            {
+              "label": "47,400,000"
+            }
+          ]
+        },
+        {
+          "label": "density",
+          "children": [
+            {
+              "label": "19/km"
+            }
+          ]
+        },
+        {
+          "label": "gdp_ppp",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$875.330 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$18,530"
+            }
+          ]
+        },
+        {
+          "label": "gdp_nominal",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$268.890 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$5,690"
+            }
+          ]
+        },
+        {
+          "label": "gini_2011",
+          "children": [
+            {
+              "label": "27.6 low inequality"
+            }
+          ]
+        },
+        {
+          "label": "hdi_2023",
+          "children": [
+            {
+              "label": "0.763 high"
+            }
+          ]
+        },
+        {
+          "label": "currency",
+          "children": [
+            {
+              "label": "algerian dinar"
+            }
+          ]
+        },
+        {
+          "label": "time_zone",
+          "children": [
+            {
+              "label": "utc +1"
+            }
+          ]
+        },
+        {
+          "label": "calling_code",
+          "children": [
+            {
+              "label": "+213"
+            }
+          ]
+        },
+        {
+          "label": "iso_3166_code",
+          "children": [
+            {
+              "label": "dz"
+            }
+          ]
+        },
+        {
+          "label": "internet_tld",
+          "children": [
+            {
+              "label": ".dz"
+            },
+            {
+              "label": ".الجزائر"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

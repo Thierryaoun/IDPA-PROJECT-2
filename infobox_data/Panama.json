@@ -1,0 +1,395 @@
+{
+  "country": "Panama",
+  "infobox_title": "Republic of Panama República de Panamá",
+  "data": [
+    {
+      "label": "Capital and largest city",
+      "value": "Panama City 8°58′N 79°32′W ﻿ / ﻿ 8.967°N 79.533°W",
+      "links": [
+        {
+          "text": "Panama City",
+          "href": "https://en.wikipedia.org/wiki/Panama_City"
+        },
+        {
+          "text": "8°58′N79°32′W﻿ / ﻿8.967°N 79.533°W",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Panama&params=8_58_N_79_32_W_type:city"
+        }
+      ]
+    },
+    {
+      "label": "Official languages",
+      "value": "Spanish",
+      "links": [
+        {
+          "text": "Spanish",
+          "href": "https://en.wikipedia.org/wiki/Panamanian_Spanish"
+        }
+      ]
+    },
+    {
+      "label": "Recognised regional languages",
+      "value": "Guaymí Buglere Emberá Wounaan Guna Teribe Bribri",
+      "links": [
+        {
+          "text": "Guaymí",
+          "href": "https://en.wikipedia.org/wiki/Guaym%C3%AD_language"
+        },
+        {
+          "text": "Buglere",
+          "href": "https://en.wikipedia.org/wiki/Buglere"
+        },
+        {
+          "text": "Emberá",
+          "href": "https://en.wikipedia.org/wiki/Ember%C3%A1_languages"
+        },
+        {
+          "text": "Wounaan",
+          "href": "https://en.wikipedia.org/wiki/Wounaan_language"
+        },
+        {
+          "text": "Guna",
+          "href": "https://en.wikipedia.org/wiki/Guna_language"
+        },
+        {
+          "text": "Teribe",
+          "href": "https://en.wikipedia.org/wiki/Teribe_language"
+        },
+        {
+          "text": "Bribri",
+          "href": "https://en.wikipedia.org/wiki/Bribri_language"
+        }
+      ]
+    },
+    {
+      "label": "Ethnic groups (2020)",
+      "value": "65.0% Mestizo (mixed White and Indigenous ) 12.3% Indigenous 9.2% Black 6.8% Mulatto (mixed White and Black ) 6.7% White",
+      "links": [
+        {
+          "text": "Mestizo",
+          "href": "https://en.wikipedia.org/wiki/Mestizo"
+        },
+        {
+          "text": "White",
+          "href": "https://en.wikipedia.org/wiki/White_Latin_Americans"
+        },
+        {
+          "text": "Indigenous",
+          "href": "https://en.wikipedia.org/wiki/Indigenous_peoples_of_Panama"
+        },
+        {
+          "text": "Indigenous",
+          "href": "https://en.wikipedia.org/wiki/Indigenous_peoples_of_Panama"
+        },
+        {
+          "text": "Black",
+          "href": "https://en.wikipedia.org/wiki/Afro-Panamanians"
+        },
+        {
+          "text": "Mulatto",
+          "href": "https://en.wikipedia.org/wiki/Mulatto"
+        },
+        {
+          "text": "White",
+          "href": "https://en.wikipedia.org/wiki/White_Latin_Americans"
+        },
+        {
+          "text": "Black",
+          "href": "https://en.wikipedia.org/wiki/Afro-Panamanians"
+        },
+        {
+          "text": "White",
+          "href": "https://en.wikipedia.org/wiki/White_Latin_Americans"
+        }
+      ],
+      "sub_items": [
+        "65.0% Mestizo (mixed White and Indigenous )",
+        "12.3% Indigenous",
+        "9.2% Black",
+        "6.8% Mulatto (mixed White and Black )",
+        "6.7% White"
+      ]
+    },
+    {
+      "label": "Religion (2020)",
+      "value": "91.5% Christianity 63.2% Catholicism 25.0% Protestantism 3.3% other Christian 7.6% no religion 0.9% other",
+      "links": [
+        {
+          "text": "Christianity",
+          "href": "https://en.wikipedia.org/wiki/Christianity_in_Panama"
+        },
+        {
+          "text": "Catholicism",
+          "href": "https://en.wikipedia.org/wiki/Catholic_Church_in_Panama"
+        },
+        {
+          "text": "Protestantism",
+          "href": "https://en.wikipedia.org/wiki/Protestantism"
+        },
+        {
+          "text": "Christian",
+          "href": "https://en.wikipedia.org/wiki/List_of_Christian_denominations"
+        },
+        {
+          "text": "no religion",
+          "href": "https://en.wikipedia.org/wiki/Irreligion_in_Latin_America"
+        }
+      ],
+      "sub_items": [
+        "91.5% Christianity 63.2% Catholicism 25.0% Protestantism 3.3% other Christian",
+        "91.5% Christianity 63.2% Catholicism 25.0% Protestantism 3.3% other Christian",
+        "63.2% Catholicism",
+        "25.0% Protestantism",
+        "3.3% other Christian",
+        "7.6% no religion",
+        "0.9% other"
+      ]
+    },
+    {
+      "label": "Demonym",
+      "value": "Panamanian",
+      "links": [
+        {
+          "text": "Panamanian",
+          "href": "https://en.wikipedia.org/wiki/Panamanians"
+        }
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Unitary presidential republic",
+      "links": [
+        {
+          "text": "presidential republic",
+          "href": "https://en.wikipedia.org/wiki/Presidential_republic"
+        }
+      ]
+    },
+    {
+      "label": "• President",
+      "value": "José Raúl Mulino",
+      "links": [
+        {
+          "text": "José Raúl Mulino",
+          "href": "https://en.wikipedia.org/wiki/Jos%C3%A9_Ra%C3%BAl_Mulino"
+        }
+      ]
+    },
+    {
+      "label": "• Vice President",
+      "value": "Vacant"
+    },
+    {
+      "label": "Legislature",
+      "value": "National Assembly",
+      "links": [
+        {
+          "text": "National Assembly",
+          "href": "https://en.wikipedia.org/wiki/National_Assembly_(Panama)"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Independence",
+      "rows": [
+        {
+          "label": "• from Spanish Empire",
+          "value": "November 28, 1821"
+        },
+        {
+          "label": "• union with Gran Colombia",
+          "value": "December 1821"
+        },
+        {
+          "label": "• from Republic of Colombia",
+          "value": "November 3, 1903"
+        },
+        {
+          "label": "• Current constitution",
+          "value": "October 11, 1972"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "75,417 km (29,119 sq mi) ( 116th )",
+          "links": [
+            {
+              "text": "116th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "2.9"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2022 estimate",
+          "value": "4,337,768 ( 127th )",
+          "links": [
+            {
+              "text": "127th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• Density",
+          "value": "56/km (145.0/sq mi) ( 122nd )",
+          "links": [
+            {
+              "text": "122nd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$195.279 billion ( 80th )",
+          "links": [
+            {
+              "text": "80th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$42,772 ( 50th )",
+          "links": [
+            {
+              "text": "50th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$91.731 billion ( 77th )",
+          "links": [
+            {
+              "text": "77th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$20,092 ( 55th )",
+          "links": [
+            {
+              "text": "55th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "Gini (2023)",
+          "value": "48.9 high inequality"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.839 very high ( 59th )",
+          "links": [
+            {
+              "text": "59th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "Balboa ( PAB ) United States dollar ( USD )",
+          "links": [
+            {
+              "text": "Balboa",
+              "href": "https://en.wikipedia.org/wiki/Panamanian_balboa"
+            },
+            {
+              "text": "PAB",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            },
+            {
+              "text": "United States dollar",
+              "href": "https://en.wikipedia.org/wiki/United_States_dollar"
+            },
+            {
+              "text": "USD",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ],
+          "sub_items": [
+            "Balboa ( PAB )",
+            "United States dollar ( USD )"
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC −5 ( EST )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "EST",
+              "href": "https://en.wikipedia.org/wiki/Eastern_Time_Zone"
+            }
+          ]
+        },
+        {
+          "label": "Date format",
+          "value": "mm/dd/yyyy dd/mm/yyyy"
+        },
+        {
+          "label": "Calling code",
+          "value": "+507",
+          "links": [
+            {
+              "text": "+507",
+              "href": "https://en.wikipedia.org/wiki/Telephone_numbers_in_Panama"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "PA",
+          "links": [
+            {
+              "text": "PA",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:PA"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".pa",
+          "links": [
+            {
+              "text": ".pa",
+              "href": "https://en.wikipedia.org/wiki/.pa"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

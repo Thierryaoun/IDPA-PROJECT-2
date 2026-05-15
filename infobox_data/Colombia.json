@@ -1,0 +1,370 @@
+{
+  "country": "Colombia",
+  "infobox_title": "Republic of Colombia República de Colombia ( Spanish )",
+  "data": [
+    {
+      "label": "Capital and largest city",
+      "value": "Bogotá 4°35′N 74°4′W ﻿ / ﻿ 4.583°N 74.067°W",
+      "links": [
+        {
+          "text": "Bogotá",
+          "href": "https://en.wikipedia.org/wiki/Bogot%C3%A1"
+        },
+        {
+          "text": "4°35′N74°4′W﻿ / ﻿4.583°N 74.067°W",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Colombia&params=4_35_N_74_4_W_type:city"
+        }
+      ]
+    },
+    {
+      "label": "Official languages",
+      "value": "Spanish",
+      "links": [
+        {
+          "text": "Spanish",
+          "href": "https://en.wikipedia.org/wiki/Colombian_Spanish"
+        }
+      ]
+    },
+    {
+      "label": "Recognized regional languages",
+      "value": "Creole English (in San Andrés and Providencia ) 64 other languages",
+      "links": [
+        {
+          "text": "Creole English",
+          "href": "https://en.wikipedia.org/wiki/San_Andr%C3%A9s%E2%80%93Providencia_Creole"
+        },
+        {
+          "text": "San Andrés and Providencia",
+          "href": "https://en.wikipedia.org/wiki/San_Andr%C3%A9s_and_Providencia"
+        },
+        {
+          "text": "64 other languages",
+          "href": "https://en.wikipedia.org/wiki/Languages_of_Colombia"
+        }
+      ]
+    },
+    {
+      "label": "Ethnic groups (2018 census )",
+      "value": "84.99% Mestizo - White 9.34% Black 4.31% Indigenous 0.01% Romanis 1.35% not specified",
+      "links": [
+        {
+          "text": "Mestizo",
+          "href": "https://en.wikipedia.org/wiki/Mestizo_Colombians"
+        },
+        {
+          "text": "White",
+          "href": "https://en.wikipedia.org/wiki/White_Colombians"
+        },
+        {
+          "text": "Black",
+          "href": "https://en.wikipedia.org/wiki/Black_Colombians"
+        },
+        {
+          "text": "Indigenous",
+          "href": "https://en.wikipedia.org/wiki/Indigenous_peoples_in_Colombia"
+        },
+        {
+          "text": "Romanis",
+          "href": "https://en.wikipedia.org/wiki/Romani_people_in_Colombia"
+        }
+      ],
+      "sub_items": [
+        "84.99% Mestizo - White",
+        "9.34% Black",
+        "4.31% Indigenous",
+        "0.01% Romanis",
+        "1.35% not specified"
+      ]
+    },
+    {
+      "label": "Religion (2022)",
+      "value": "70% Catholicism 17% other Christian 11% no religion 1.9% other",
+      "links": [
+        {
+          "text": "Catholicism",
+          "href": "https://en.wikipedia.org/wiki/Catholic_Church_in_Colombia"
+        },
+        {
+          "text": "Christian",
+          "href": "https://en.wikipedia.org/wiki/Christianity_in_Colombia"
+        },
+        {
+          "text": "no religion",
+          "href": "https://en.wikipedia.org/wiki/Irreligion"
+        }
+      ],
+      "sub_items": [
+        "70% Catholicism",
+        "17% other Christian",
+        "11% no religion",
+        "1.9% other"
+      ]
+    },
+    {
+      "label": "Demonym",
+      "value": "Colombian",
+      "links": [
+        {
+          "text": "Colombian",
+          "href": "https://en.wikipedia.org/wiki/Colombians"
+        }
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Unitary presidential republic",
+      "links": [
+        {
+          "text": "presidential republic",
+          "href": "https://en.wikipedia.org/wiki/Presidential_system"
+        }
+      ]
+    },
+    {
+      "label": "• President",
+      "value": "Gustavo Petro",
+      "links": [
+        {
+          "text": "Gustavo Petro",
+          "href": "https://en.wikipedia.org/wiki/Gustavo_Petro"
+        }
+      ]
+    },
+    {
+      "label": "• Vice President",
+      "value": "Francia Márquez",
+      "links": [
+        {
+          "text": "Francia Márquez",
+          "href": "https://en.wikipedia.org/wiki/Francia_M%C3%A1rquez"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "Congress",
+      "links": [
+        {
+          "text": "Congress",
+          "href": "https://en.wikipedia.org/wiki/Congress_of_Colombia"
+        }
+      ]
+    },
+    {
+      "label": "• Upper house",
+      "value": "Senate",
+      "links": [
+        {
+          "text": "Senate",
+          "href": "https://en.wikipedia.org/wiki/Senate_of_Colombia"
+        }
+      ]
+    },
+    {
+      "label": "• Lower house",
+      "value": "Chamber of Representatives",
+      "links": [
+        {
+          "text": "Chamber of Representatives",
+          "href": "https://en.wikipedia.org/wiki/Chamber_of_Representatives_of_Colombia"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Independence from Spain",
+      "rows": [
+        {
+          "label": "• Autonomy",
+          "value": "20 July 1810"
+        },
+        {
+          "label": "• Declared",
+          "value": "16 July 1813"
+        },
+        {
+          "label": "• Achieved",
+          "value": "7 August 1819"
+        },
+        {
+          "label": "• Gran Colombia",
+          "value": "17 December 1819"
+        },
+        {
+          "label": "• Current Constitution",
+          "value": "4 July 1991"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "1,141,748 km (440,831 sq mi) ( 25th )",
+          "links": [
+            {
+              "text": "25th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "2.1 (as of 2015)"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2024 estimate",
+          "value": "52,695,952 ( 27th )",
+          "links": [
+            {
+              "text": "27th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• Density",
+          "value": "46.15/km (119.5/sq mi) ( 174th )",
+          "links": [
+            {
+              "text": "174th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2024 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$1.042 trillion ( 32nd )",
+          "links": [
+            {
+              "text": "32nd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$19,770 ( 82nd )",
+          "links": [
+            {
+              "text": "82nd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2024 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$386.076 billion ( 46th )",
+          "links": [
+            {
+              "text": "46th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$7,327 ( 97th )",
+          "links": [
+            {
+              "text": "97th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "Gini (2023)",
+          "value": "53.9 high inequality"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.788 high ( 83rd )",
+          "links": [
+            {
+              "text": "83rd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "Colombian peso ( COP )",
+          "links": [
+            {
+              "text": "Colombian peso",
+              "href": "https://en.wikipedia.org/wiki/Colombian_peso"
+            },
+            {
+              "text": "COP",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC −5 ( COT )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "COT",
+              "href": "https://en.wikipedia.org/wiki/Time_in_Colombia"
+            }
+          ]
+        },
+        {
+          "label": "Date format",
+          "value": "DMY"
+        },
+        {
+          "label": "Calling code",
+          "value": "+57",
+          "links": [
+            {
+              "text": "+57",
+              "href": "https://en.wikipedia.org/wiki/Telephone_numbers_in_Colombia"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "CO",
+          "links": [
+            {
+              "text": "CO",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:CO"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".co",
+          "links": [
+            {
+              "text": ".co",
+              "href": "https://en.wikipedia.org/wiki/.co"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

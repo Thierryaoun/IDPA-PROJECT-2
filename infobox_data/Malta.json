@@ -1,0 +1,352 @@
+{
+  "country": "Malta",
+  "infobox_title": "Republic of Malta Repubblika ta' Malta ( Maltese )",
+  "data": [
+    {
+      "label": "Capital",
+      "value": "Valletta 35°54′N 14°31′E ﻿ / ﻿ 35.900°N 14.517°E",
+      "links": [
+        {
+          "text": "Valletta",
+          "href": "https://en.wikipedia.org/wiki/Valletta"
+        },
+        {
+          "text": "35°54′N14°31′E﻿ / ﻿35.900°N 14.517°E",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Malta&params=35_54_N_14_31_E_type:city"
+        }
+      ]
+    },
+    {
+      "label": "Official languages",
+      "value": "Maltese English Maltese Sign Language",
+      "links": [
+        {
+          "text": "Maltese",
+          "href": "https://en.wikipedia.org/wiki/Maltese_language"
+        },
+        {
+          "text": "English",
+          "href": "https://en.wikipedia.org/wiki/English_language"
+        },
+        {
+          "text": "Maltese Sign Language",
+          "href": "https://en.wikipedia.org/wiki/Maltese_Sign_Language"
+        }
+      ],
+      "sub_items": [
+        "Maltese",
+        "English",
+        "Maltese Sign Language"
+      ]
+    },
+    {
+      "label": "Other languages",
+      "value": "Italian",
+      "links": [
+        {
+          "text": "Italian",
+          "href": "https://en.wikipedia.org/wiki/Maltese_Italian"
+        }
+      ]
+    },
+    {
+      "label": "Ethnic groups (2021 )",
+      "value": "77.7% Maltese 22.3% other ethnic groups",
+      "links": [
+        {
+          "text": "Maltese",
+          "href": "https://en.wikipedia.org/wiki/Maltese_people"
+        }
+      ],
+      "sub_items": [
+        "77.7% Maltese",
+        "22.3% other ethnic groups"
+      ]
+    },
+    {
+      "label": "Religion (2021)",
+      "value": "88.5% Christianity 82.6% Catholicism ( official ) 5.9% other Christian 5.1% no religion 3.9% Islam 1.4% Hinduism 1.1% other",
+      "links": [
+        {
+          "text": "Christianity",
+          "href": "https://en.wikipedia.org/wiki/Christianity"
+        },
+        {
+          "text": "Catholicism",
+          "href": "https://en.wikipedia.org/wiki/Catholic_Church_in_Malta"
+        },
+        {
+          "text": "official",
+          "href": "https://en.wikipedia.org/wiki/State_Religion"
+        },
+        {
+          "text": "Christian",
+          "href": "https://en.wikipedia.org/wiki/List_of_Christian_denominations"
+        },
+        {
+          "text": "no religion",
+          "href": "https://en.wikipedia.org/wiki/Irreligion"
+        },
+        {
+          "text": "Islam",
+          "href": "https://en.wikipedia.org/wiki/Islam_in_Malta"
+        },
+        {
+          "text": "Hinduism",
+          "href": "https://en.wikipedia.org/wiki/Hinduism_in_Malta"
+        }
+      ],
+      "sub_items": [
+        "88.5% Christianity 82.6% Catholicism ( official ) 5.9% other Christian",
+        "88.5% Christianity 82.6% Catholicism ( official ) 5.9% other Christian",
+        "82.6% Catholicism ( official )",
+        "5.9% other Christian",
+        "5.1% no religion",
+        "3.9% Islam",
+        "1.4% Hinduism",
+        "1.1% other"
+      ]
+    },
+    {
+      "label": "Demonym",
+      "value": "Maltese",
+      "links": [
+        {
+          "text": "Maltese",
+          "href": "https://en.wikipedia.org/wiki/Maltese_people"
+        }
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Unitary parliamentary republic",
+      "links": [
+        {
+          "text": "Unitary parliamentary republic",
+          "href": "https://en.wikipedia.org/wiki/Unitary_parliamentary_republic"
+        }
+      ]
+    },
+    {
+      "label": "• President",
+      "value": "Myriam Spiteri Debono",
+      "links": [
+        {
+          "text": "Myriam Spiteri Debono",
+          "href": "https://en.wikipedia.org/wiki/Myriam_Spiteri_Debono"
+        }
+      ]
+    },
+    {
+      "label": "• Prime Minister",
+      "value": "Robert Abela",
+      "links": [
+        {
+          "text": "Robert Abela",
+          "href": "https://en.wikipedia.org/wiki/Robert_Abela"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "Parliament of Malta",
+      "links": [
+        {
+          "text": "Parliament of Malta",
+          "href": "https://en.wikipedia.org/wiki/Parliament_of_Malta"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Independence from the United Kingdom",
+      "rows": [
+        {
+          "label": "• State of Malta",
+          "value": "21 September 1964"
+        },
+        {
+          "label": "• Republic",
+          "value": "13 December 1974"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "316 km (122 sq mi) ( 187th )",
+          "links": [
+            {
+              "text": "187th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "0.001"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2021 census",
+          "value": "519,562"
+        },
+        {
+          "label": "• Density",
+          "value": "1,649/km (4,270.9/sq mi) ( 8th )",
+          "links": [
+            {
+              "text": "8th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2024 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$36.870 billion ( 140th )",
+          "links": [
+            {
+              "text": "140th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$67,682 ( 20th )",
+          "links": [
+            {
+              "text": "20th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2024 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$22.737 billion ( 118th )",
+          "links": [
+            {
+              "text": "118th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$41,738 ( 25th )",
+          "links": [
+            {
+              "text": "25th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "Gini (2020)",
+          "value": "31.4 medium inequality"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.924 very high ( 24th )",
+          "links": [
+            {
+              "text": "24th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "Euro ( € ) ( EUR )",
+          "links": [
+            {
+              "text": "Euro",
+              "href": "https://en.wikipedia.org/wiki/Euro"
+            },
+            {
+              "text": "€",
+              "href": "https://en.wikipedia.org/wiki/Euro_sign"
+            },
+            {
+              "text": "EUR",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC +1 ( CET )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "CET",
+              "href": "https://en.wikipedia.org/wiki/Central_European_Time"
+            }
+          ]
+        },
+        {
+          "label": "• Summer ( DST )",
+          "value": "UTC +2 ( CEST )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "CEST",
+              "href": "https://en.wikipedia.org/wiki/Central_European_Summer_Time"
+            }
+          ]
+        },
+        {
+          "label": "Calling code",
+          "value": "+356",
+          "links": [
+            {
+              "text": "+356",
+              "href": "https://en.wikipedia.org/wiki/Telephone_numbers_in_Malta"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "MT",
+          "links": [
+            {
+              "text": "MT",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:MT"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".mt",
+          "links": [
+            {
+              "text": ".mt",
+              "href": "https://en.wikipedia.org/wiki/.mt"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

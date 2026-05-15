@@ -1,0 +1,349 @@
+{
+  "label": "country",
+  "children": [
+    {
+      "label": "name",
+      "children": [
+        {
+          "label": "denmark"
+        }
+      ]
+    },
+    {
+      "label": "infobox_title",
+      "children": [
+        {
+          "label": "kingdom of denmark kongeriget danmark kongsríki danmarkar kunngeqarfik danmarki"
+        }
+      ]
+    },
+    {
+      "label": "capital_and_largest_city",
+      "children": [
+        {
+          "label": "copenhagen"
+        }
+      ]
+    },
+    {
+      "label": "official_languages",
+      "children": [
+        {
+          "label": "faroese"
+        },
+        {
+          "label": "greenlandic"
+        }
+      ]
+    },
+    {
+      "label": "recognised_regional_languages",
+      "children": [
+        {
+          "label": "german"
+        }
+      ]
+    },
+    {
+      "label": "demonyms",
+      "children": [
+        {
+          "label": "greenlander"
+        },
+        {
+          "label": "faroe islander"
+        }
+      ]
+    },
+    {
+      "label": "constituent_territories_non_sovereign_parts",
+      "children": [
+        {
+          "label": "faroe islands"
+        },
+        {
+          "label": "greenland"
+        }
+      ]
+    },
+    {
+      "label": "government",
+      "children": [
+        {
+          "label": "unitary parliamentary constitutional monarchy"
+        }
+      ]
+    },
+    {
+      "label": "monarch",
+      "children": [
+        {
+          "label": "frederik x"
+        }
+      ]
+    },
+    {
+      "label": "prime_minister",
+      "children": [
+        {
+          "label": "mette frederiksen"
+        }
+      ]
+    },
+    {
+      "label": "prime_minister_of_the_faroe_islands",
+      "children": [
+        {
+          "label": "aksel v. johannesen"
+        }
+      ]
+    },
+    {
+      "label": "prime_minister_of_greenland",
+      "children": [
+        {
+          "label": "jens frederik nielsen"
+        }
+      ]
+    },
+    {
+      "label": "legislature",
+      "children": [
+        {
+          "label": "folketing , with some authority devolved to løgting and inatsisartut"
+        }
+      ]
+    },
+    {
+      "label": "history",
+      "children": [
+        {
+          "label": "unification",
+          "children": [
+            {
+              "label": "c. 965"
+            }
+          ]
+        },
+        {
+          "label": "faroese_home_rule",
+          "children": [
+            {
+              "label": "24 march 1948"
+            }
+          ]
+        },
+        {
+          "label": "greenlandic_home_rule",
+          "children": [
+            {
+              "label": "1 may 1979"
+            }
+          ]
+        },
+        {
+          "label": "faroese_takeover_act",
+          "children": [
+            {
+              "label": "29 july 2005"
+            }
+          ]
+        },
+        {
+          "label": "greenlandic_self_rule",
+          "children": [
+            {
+              "label": "21 june 2009"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "area",
+      "children": [
+        {
+          "label": "denmark",
+          "children": [
+            {
+              "label": "42,926 km"
+            }
+          ]
+        },
+        {
+          "label": "faroe_islands",
+          "children": [
+            {
+              "label": "1,396 km"
+            }
+          ]
+        },
+        {
+          "label": "greenland",
+          "children": [
+            {
+              "label": "2,166,086 km"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "population",
+      "children": [
+        {
+          "label": "q2_2023_estimate",
+          "children": [
+            {
+              "label": "6,049,579"
+            }
+          ]
+        },
+        {
+          "label": "denmark",
+          "children": [
+            {
+              "label": "5,941,388"
+            }
+          ]
+        },
+        {
+          "label": "greenland_and_faroe_islands",
+          "children": [
+            {
+              "label": "108,191"
+            }
+          ]
+        },
+        {
+          "label": "gdp_ppp",
+          "children": [
+            {
+              "label": "2022 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "€380 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "€62,814"
+            }
+          ]
+        },
+        {
+          "label": "gdp_nominal",
+          "children": [
+            {
+              "label": "2019-2024 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$418.659 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$69,205"
+            }
+          ]
+        },
+        {
+          "label": "hdi_2021",
+          "children": [
+            {
+              "label": "0.948 very high"
+            }
+          ]
+        },
+        {
+          "label": "currency",
+          "children": [
+            {
+              "label": "danish krone faroese króna"
+            }
+          ]
+        },
+        {
+          "label": "time_zone",
+          "children": [
+            {
+              "label": "utc +1"
+            },
+            {
+              "label": "utc"
+            },
+            {
+              "label": "utc-4 to 0"
+            }
+          ]
+        },
+        {
+          "label": "summer_dst",
+          "children": [
+            {
+              "label": "utc+2"
+            },
+            {
+              "label": "utc+1"
+            },
+            {
+              "label": "utc-3 to 0"
+            }
+          ]
+        },
+        {
+          "label": "calling_code",
+          "children": [
+            {
+              "label": "+45"
+            },
+            {
+              "label": "+298"
+            },
+            {
+              "label": "+299"
+            }
+          ]
+        },
+        {
+          "label": "iso_3166_code",
+          "children": [
+            {
+              "label": "dk"
+            }
+          ]
+        },
+        {
+          "label": "internet_tld",
+          "children": [
+            {
+              "label": ".dk"
+            },
+            {
+              "label": ".fo"
+            },
+            {
+              "label": ".gl"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

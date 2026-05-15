@@ -1,0 +1,393 @@
+{
+  "label": "country",
+  "children": [
+    {
+      "label": "name",
+      "children": [
+        {
+          "label": "czechia"
+        }
+      ]
+    },
+    {
+      "label": "infobox_title",
+      "children": [
+        {
+          "label": "czech republic česká republika"
+        }
+      ]
+    },
+    {
+      "label": "capital_and_largest_city",
+      "children": [
+        {
+          "label": "prague / 50."
+        }
+      ]
+    },
+    {
+      "label": "official_languages",
+      "children": [
+        {
+          "label": "czech"
+        }
+      ]
+    },
+    {
+      "label": "officially_recognized_minority_languages",
+      "children": [
+        {
+          "label": "belarusian"
+        },
+        {
+          "label": "bulgarian"
+        },
+        {
+          "label": "croatian"
+        },
+        {
+          "label": "german"
+        },
+        {
+          "label": "greek"
+        },
+        {
+          "label": "hungarian"
+        },
+        {
+          "label": "polish"
+        },
+        {
+          "label": "romani"
+        },
+        {
+          "label": "russian"
+        },
+        {
+          "label": "rusyn"
+        },
+        {
+          "label": "serbian"
+        },
+        {
+          "label": "slovak"
+        },
+        {
+          "label": "ukrainian"
+        },
+        {
+          "label": "vietnamese"
+        }
+      ]
+    },
+    {
+      "label": "ethnic_groups_2021",
+      "children": [
+        {
+          "label": "89% czechs"
+        },
+        {
+          "label": "3.3% moravians"
+        },
+        {
+          "label": "0.9% slovaks"
+        },
+        {
+          "label": "0.7% ukrainians"
+        },
+        {
+          "label": "2.1% other"
+        },
+        {
+          "label": "4.0% two nationalities"
+        }
+      ]
+    },
+    {
+      "label": "religion_2021",
+      "children": [
+        {
+          "label": "56.9% no religion"
+        },
+        {
+          "label": "11.7% christianity"
+        },
+        {
+          "label": "9.3% catholicism"
+        },
+        {
+          "label": "2.4% other christian"
+        },
+        {
+          "label": "1.2% other"
+        },
+        {
+          "label": "30.1% unanswered"
+        }
+      ]
+    },
+    {
+      "label": "demonym",
+      "children": [
+        {
+          "label": "czech"
+        }
+      ]
+    },
+    {
+      "label": "government",
+      "children": [
+        {
+          "label": "unitary parliamentary republic"
+        }
+      ]
+    },
+    {
+      "label": "president",
+      "children": [
+        {
+          "label": "petr pavel"
+        }
+      ]
+    },
+    {
+      "label": "prime_minister",
+      "children": [
+        {
+          "label": "andrej babiš"
+        }
+      ]
+    },
+    {
+      "label": "legislature",
+      "children": [
+        {
+          "label": "parliament"
+        }
+      ]
+    },
+    {
+      "label": "upper_house",
+      "children": [
+        {
+          "label": "senate"
+        }
+      ]
+    },
+    {
+      "label": "lower_house",
+      "children": [
+        {
+          "label": "chamber of deputies"
+        }
+      ]
+    },
+    {
+      "label": "establishment",
+      "children": [
+        {
+          "label": "duchy_of_bohemia",
+          "children": [
+            {
+              "label": "c. 870"
+            }
+          ]
+        },
+        {
+          "label": "kingdom_of_bohemia",
+          "children": [
+            {
+              "label": "1198"
+            }
+          ]
+        },
+        {
+          "label": "czechoslovakia",
+          "children": [
+            {
+              "label": "28 october 1918"
+            }
+          ]
+        },
+        {
+          "label": "czech_republic",
+          "children": [
+            {
+              "label": "1 january 1993"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "area",
+      "children": [
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "78,871 km"
+            }
+          ]
+        },
+        {
+          "label": "water",
+          "children": [
+            {
+              "label": "2.16"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "population",
+      "children": [
+        {
+          "label": "2024_estimate",
+          "children": [
+            {
+              "label": "10,900,555"
+            }
+          ]
+        },
+        {
+          "label": "2021_census",
+          "children": [
+            {
+              "label": "10,524,167"
+            }
+          ]
+        },
+        {
+          "label": "density",
+          "children": [
+            {
+              "label": "133/km"
+            }
+          ]
+        },
+        {
+          "label": "gdp_ppp",
+          "children": [
+            {
+              "label": "2024 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$619.881 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$56,686"
+            }
+          ]
+        },
+        {
+          "label": "gdp_nominal",
+          "children": [
+            {
+              "label": "2024 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$342.992 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$31,365"
+            }
+          ]
+        },
+        {
+          "label": "gini_2023",
+          "children": [
+            {
+              "label": "24.4 low inequality"
+            }
+          ]
+        },
+        {
+          "label": "hdi_2023",
+          "children": [
+            {
+              "label": "0.915 very high"
+            }
+          ]
+        },
+        {
+          "label": "currency",
+          "children": [
+            {
+              "label": "czech koruna"
+            }
+          ]
+        },
+        {
+          "label": "time_zone",
+          "children": [
+            {
+              "label": "utc +1"
+            }
+          ]
+        },
+        {
+          "label": "summer_dst",
+          "children": [
+            {
+              "label": "utc +2"
+            }
+          ]
+        },
+        {
+          "label": "date_format",
+          "children": [
+            {
+              "label": "d. m. yyyy"
+            }
+          ]
+        },
+        {
+          "label": "calling_code",
+          "children": [
+            {
+              "label": "+420"
+            }
+          ]
+        },
+        {
+          "label": "iso_3166_code",
+          "children": [
+            {
+              "label": "cz"
+            }
+          ]
+        },
+        {
+          "label": "internet_tld",
+          "children": [
+            {
+              "label": ".cz"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,457 @@
+{
+  "country": "Ghana",
+  "infobox_title": "Republic of Ghana",
+  "data": [
+    {
+      "label": "Capital and largest city",
+      "value": "Accra 05°33′18″N 00°11′33″W ﻿ / ﻿ 5.55500°N 0.19250°W",
+      "links": [
+        {
+          "text": "Accra",
+          "href": "https://en.wikipedia.org/wiki/Accra"
+        },
+        {
+          "text": "05°33′18″N00°11′33″W﻿ / ﻿5.55500°N 0.19250°W",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Ghana&params=05_33_18_N_00_11_33_W_type:city"
+        }
+      ]
+    },
+    {
+      "label": "Official languages",
+      "value": "English",
+      "links": [
+        {
+          "text": "English",
+          "href": "https://en.wikipedia.org/wiki/English_language"
+        }
+      ]
+    },
+    {
+      "label": "Government-sponsored languages",
+      "value": "Twi Fante Ewe Dagaare Dagbanli Adangme Ga Gonja Kasem Nzema",
+      "links": [
+        {
+          "text": "Twi",
+          "href": "https://en.wikipedia.org/wiki/Twi"
+        },
+        {
+          "text": "Fante",
+          "href": "https://en.wikipedia.org/wiki/Fante_dialect"
+        },
+        {
+          "text": "Ewe",
+          "href": "https://en.wikipedia.org/wiki/Ewe_language"
+        },
+        {
+          "text": "Dagaare",
+          "href": "https://en.wikipedia.org/wiki/Dagaare"
+        },
+        {
+          "text": "Dagbanli",
+          "href": "https://en.wikipedia.org/wiki/Dagbanli"
+        },
+        {
+          "text": "Adangme",
+          "href": "https://en.wikipedia.org/wiki/Adangme"
+        },
+        {
+          "text": "Ga",
+          "href": "https://en.wikipedia.org/wiki/Ga_language"
+        },
+        {
+          "text": "Gonja",
+          "href": "https://en.wikipedia.org/wiki/Gonja_language"
+        },
+        {
+          "text": "Kasem",
+          "href": "https://en.wikipedia.org/wiki/Kasem_language"
+        },
+        {
+          "text": "Nzema",
+          "href": "https://en.wikipedia.org/wiki/Nzema_language"
+        }
+      ],
+      "sub_items": [
+        "Twi",
+        "Fante",
+        "Ewe",
+        "Dagaare",
+        "Dagbanli",
+        "Adangme",
+        "Ga",
+        "Gonja",
+        "Kasem",
+        "Nzema"
+      ]
+    },
+    {
+      "label": "Working languages",
+      "value": "English French Hindi Arabic Ghanaian English Ghanaian Pidgin English",
+      "links": [
+        {
+          "text": "French",
+          "href": "https://en.wikipedia.org/wiki/French_language"
+        },
+        {
+          "text": "Hindi",
+          "href": "https://en.wikipedia.org/wiki/Standard_Hindi"
+        },
+        {
+          "text": "Arabic",
+          "href": "https://en.wikipedia.org/wiki/Arabic"
+        },
+        {
+          "text": "Ghanaian English",
+          "href": "https://en.wikipedia.org/wiki/Ghanaian_English"
+        },
+        {
+          "text": "Ghanaian Pidgin English",
+          "href": "https://en.wikipedia.org/wiki/Ghanaian_Pidgin_English"
+        }
+      ],
+      "sub_items": [
+        "English",
+        "French",
+        "Hindi",
+        "Arabic",
+        "Ghanaian English",
+        "Ghanaian Pidgin English"
+      ]
+    },
+    {
+      "label": "Ethnic groups (2021)",
+      "value": "45.7% Akan 18.5% Mole-Dagbon 12.8% Ewe 7.1% Ga-Adangbe 6.4% Gurma 3.2% Guan 2.7% Gurunsi 2.0% Mande 1.6% other",
+      "links": [
+        {
+          "text": "Akan",
+          "href": "https://en.wikipedia.org/wiki/Akan_people"
+        },
+        {
+          "text": "Mole-Dagbon",
+          "href": "https://en.wikipedia.org/wiki/Mole-Dagbon_people"
+        },
+        {
+          "text": "Ewe",
+          "href": "https://en.wikipedia.org/wiki/Ewe_people"
+        },
+        {
+          "text": "Ga-Adangbe",
+          "href": "https://en.wikipedia.org/wiki/Ga-Adangbe_people"
+        },
+        {
+          "text": "Gurma",
+          "href": "https://en.wikipedia.org/wiki/Gurma_people"
+        },
+        {
+          "text": "Guan",
+          "href": "https://en.wikipedia.org/wiki/Guang_people"
+        },
+        {
+          "text": "Gurunsi",
+          "href": "https://en.wikipedia.org/wiki/Gurunsi_peoples"
+        },
+        {
+          "text": "Mande",
+          "href": "https://en.wikipedia.org/wiki/Mande_people"
+        },
+        {
+          "text": "other",
+          "href": "https://en.wikipedia.org/wiki/Demographics_of_Ghana"
+        }
+      ],
+      "sub_items": [
+        "45.7% Akan",
+        "18.5% Mole-Dagbon",
+        "12.8% Ewe",
+        "7.1% Ga-Adangbe",
+        "6.4% Gurma",
+        "3.2% Guan",
+        "2.7% Gurunsi",
+        "2.0% Mande",
+        "1.6% other"
+      ]
+    },
+    {
+      "label": "Religion (2021)",
+      "value": "71.3% Christianity 19.9% Islam 3.2% traditional faiths 1.1% irreligion 4.5% other",
+      "links": [
+        {
+          "text": "Christianity",
+          "href": "https://en.wikipedia.org/wiki/Christianity_in_Ghana"
+        },
+        {
+          "text": "Islam",
+          "href": "https://en.wikipedia.org/wiki/Islam_in_Ghana"
+        },
+        {
+          "text": "traditional faiths",
+          "href": "https://en.wikipedia.org/wiki/African_traditional_religion"
+        },
+        {
+          "text": "irreligion",
+          "href": "https://en.wikipedia.org/wiki/Irreligion_in_Ghana"
+        },
+        {
+          "text": "other",
+          "href": "https://en.wikipedia.org/wiki/Religion_in_Ghana"
+        }
+      ],
+      "sub_items": [
+        "71.3% Christianity",
+        "19.9% Islam",
+        "3.2% traditional faiths",
+        "1.1% irreligion",
+        "4.5% other"
+      ]
+    },
+    {
+      "label": "Demonym",
+      "value": "Ghanaian",
+      "links": [
+        {
+          "text": "Ghanaian",
+          "href": "https://en.wikipedia.org/wiki/Ghanaian_people"
+        }
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Unitary presidential republic",
+      "links": [
+        {
+          "text": "presidential republic",
+          "href": "https://en.wikipedia.org/wiki/Presidential_system"
+        }
+      ]
+    },
+    {
+      "label": "• President",
+      "value": "John Mahama",
+      "links": [
+        {
+          "text": "John Mahama",
+          "href": "https://en.wikipedia.org/wiki/John_Mahama"
+        }
+      ]
+    },
+    {
+      "label": "• Vice-President",
+      "value": "Jane Naana Opoku-Agyemang",
+      "links": [
+        {
+          "text": "Jane Naana Opoku-Agyemang",
+          "href": "https://en.wikipedia.org/wiki/Jane_Naana_Opoku-Agyemang"
+        }
+      ]
+    },
+    {
+      "label": "• Speaker of Parliament",
+      "value": "Alban Bagbin",
+      "links": [
+        {
+          "text": "Alban Bagbin",
+          "href": "https://en.wikipedia.org/wiki/Alban_Bagbin"
+        }
+      ]
+    },
+    {
+      "label": "• Chief Justice",
+      "value": "Justice Paul Baffoe-Bonnie",
+      "links": [
+        {
+          "text": "Justice Paul Baffoe-Bonnie",
+          "href": "https://en.wikipedia.org/wiki/Paul_Baffoe-Bonnie"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "Parliament",
+      "links": [
+        {
+          "text": "Parliament",
+          "href": "https://en.wikipedia.org/wiki/Parliament_of_Ghana"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Independence from the United Kingdom",
+      "rows": [
+        {
+          "label": "• Dominion",
+          "value": "6 March 1957"
+        },
+        {
+          "label": "• Republic",
+          "value": "1 July 1960"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "240,000 km (93,000 sq mi) ( 80th )",
+          "links": [
+            {
+              "text": "80th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "4.61 (11,000 km ; 4,247 mi )"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2025 estimate",
+          "value": "35,039,451 ( 46th )",
+          "links": [
+            {
+              "text": "46th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• Density",
+          "value": "151/km (391.1/sq mi) ( 90th )",
+          "links": [
+            {
+              "text": "90th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$295.12 billion ( 68th )",
+          "links": [
+            {
+              "text": "68th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$8,042 ( 132nd )",
+          "links": [
+            {
+              "text": "132nd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$88.033 billion ( 79th )",
+          "links": [
+            {
+              "text": "79th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$2,520 ( 143rd )",
+          "links": [
+            {
+              "text": "143rd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "Gini (2024)",
+          "value": "44 medium inequality"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.628 medium ( 143rd )",
+          "links": [
+            {
+              "text": "143rd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "Cedi ( GHS )",
+          "links": [
+            {
+              "text": "Cedi",
+              "href": "https://en.wikipedia.org/wiki/Ghanaian_cedi"
+            },
+            {
+              "text": "GHS",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC ±00:00 ( GMT )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "GMT",
+              "href": "https://en.wikipedia.org/wiki/Greenwich_Mean_Time"
+            }
+          ]
+        },
+        {
+          "label": "Calling code",
+          "value": "+233",
+          "links": [
+            {
+              "text": "+233",
+              "href": "https://en.wikipedia.org/wiki/Telephone_numbers_in_Ghana"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "GH",
+          "links": [
+            {
+              "text": "GH",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:GH"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".gh",
+          "links": [
+            {
+              "text": ".gh",
+              "href": "https://en.wikipedia.org/wiki/.gh"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

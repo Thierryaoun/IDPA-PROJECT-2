@@ -1,0 +1,489 @@
+{
+  "country": "Cameroon",
+  "infobox_title": "Republic of Cameroon République du Cameroun ( French )",
+  "data": [
+    {
+      "label": "Capital",
+      "value": "Yaoundé 3°51′41″N 11°31′14″E ﻿ / ﻿ 3.86139°N 11.52056°E",
+      "links": [
+        {
+          "text": "Yaoundé",
+          "href": "https://en.wikipedia.org/wiki/Yaound%C3%A9"
+        },
+        {
+          "text": "3°51′41″N11°31′14″E﻿ / ﻿3.86139°N 11.52056°E",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Cameroon&params=3_51_41_N_11_31_14_E_type:city"
+        }
+      ]
+    },
+    {
+      "label": "Largest city",
+      "value": "Douala",
+      "links": [
+        {
+          "text": "Douala",
+          "href": "https://en.wikipedia.org/wiki/Douala"
+        }
+      ]
+    },
+    {
+      "label": "Official languages",
+      "value": "French • English",
+      "links": [
+        {
+          "text": "French",
+          "href": "https://en.wikipedia.org/wiki/French_language"
+        },
+        {
+          "text": "English",
+          "href": "https://en.wikipedia.org/wiki/English_language"
+        }
+      ]
+    },
+    {
+      "label": "Recognised regional languages",
+      "value": "Grassfield Languages • Beti • Fufulde • Sawa • Hausa • Baka • Bassa • Chadian Arabic • Bafia • Gbaya • Pidgin • Camfranglais • Mandara",
+      "links": [
+        {
+          "text": "Grassfield Languages",
+          "href": "https://en.wikipedia.org/wiki/Grassfields_languages"
+        },
+        {
+          "text": "Beti",
+          "href": "https://en.wikipedia.org/wiki/Beti_languages"
+        },
+        {
+          "text": "Fufulde",
+          "href": "https://en.wikipedia.org/wiki/Fula_language"
+        },
+        {
+          "text": "Sawa",
+          "href": "https://en.wikipedia.org/wiki/Sawabantu_languages"
+        },
+        {
+          "text": "Hausa",
+          "href": "https://en.wikipedia.org/wiki/Hausa_language"
+        },
+        {
+          "text": "Baka",
+          "href": "https://en.wikipedia.org/wiki/Baka_language"
+        },
+        {
+          "text": "Bassa",
+          "href": "https://en.wikipedia.org/wiki/Basaa_language"
+        },
+        {
+          "text": "Chadian Arabic",
+          "href": "https://en.wikipedia.org/wiki/Chadian_Arabic"
+        },
+        {
+          "text": "Bafia",
+          "href": "https://en.wikipedia.org/wiki/Bafia_languages"
+        },
+        {
+          "text": "Gbaya",
+          "href": "https://en.wikipedia.org/wiki/Gbaya_languages"
+        },
+        {
+          "text": "Pidgin",
+          "href": "https://en.wikipedia.org/wiki/Cameroonian_Pidgin_English"
+        },
+        {
+          "text": "Camfranglais",
+          "href": "https://en.wikipedia.org/wiki/Camfranglais"
+        },
+        {
+          "text": "Mandara",
+          "href": "https://en.wikipedia.org/wiki/Biu%E2%80%93Mandara_languages"
+        }
+      ]
+    },
+    {
+      "label": "Ethnic groups (2022)",
+      "value": "22.2% Bamileke , Bamun 16.4% Biu-Mandara 13.5% Shuwa Arab , Hausa and Kanuri 13.1% Beti - Bassa 12.0% Fulani 9.9% Tikar 9.8% Adamawa-Ubangi ( Mbum - Gbaya ) 4.6% Sawa people 4.3% Southwest Bantu 2.3% Pygmy peoples 3.8% others/foreigners",
+      "links": [
+        {
+          "text": "Bamileke",
+          "href": "https://en.wikipedia.org/wiki/Bamileke_people"
+        },
+        {
+          "text": "Bamun",
+          "href": "https://en.wikipedia.org/wiki/Bamum_people"
+        },
+        {
+          "text": "Biu-Mandara",
+          "href": "https://en.wikipedia.org/wiki/Biu%E2%80%93Mandara_languages"
+        },
+        {
+          "text": "Shuwa Arab",
+          "href": "https://en.wikipedia.org/wiki/Baggara_Arabs"
+        },
+        {
+          "text": "Hausa",
+          "href": "https://en.wikipedia.org/wiki/Hausa_people"
+        },
+        {
+          "text": "Kanuri",
+          "href": "https://en.wikipedia.org/wiki/Kanuri_people"
+        },
+        {
+          "text": "Beti",
+          "href": "https://en.wikipedia.org/wiki/Beti-Pahuin_peoples"
+        },
+        {
+          "text": "Bassa",
+          "href": "https://en.wikipedia.org/wiki/Bassa_people_(Cameroon)"
+        },
+        {
+          "text": "Fulani",
+          "href": "https://en.wikipedia.org/wiki/Fula_people"
+        },
+        {
+          "text": "Tikar",
+          "href": "https://en.wikipedia.org/wiki/Tikar_people"
+        },
+        {
+          "text": "Adamawa-Ubangi",
+          "href": "https://en.wikipedia.org/wiki/Adamawa%E2%80%93Ubangi_languages"
+        },
+        {
+          "text": "Mbum",
+          "href": "https://en.wikipedia.org/wiki/Mbum_languages"
+        },
+        {
+          "text": "Gbaya",
+          "href": "https://en.wikipedia.org/wiki/Gbaya_languages"
+        },
+        {
+          "text": "Sawa people",
+          "href": "https://en.wikipedia.org/wiki/Duala_people"
+        },
+        {
+          "text": "Southwest Bantu",
+          "href": "https://en.wikipedia.org/wiki/Manenguba_languages"
+        },
+        {
+          "text": "Pygmy peoples",
+          "href": "https://en.wikipedia.org/wiki/African_Pygmies"
+        }
+      ],
+      "sub_items": [
+        "22.2% Bamileke , Bamun",
+        "16.4% Biu-Mandara",
+        "13.5% Shuwa Arab , Hausa and Kanuri",
+        "13.1% Beti - Bassa",
+        "12.0% Fulani",
+        "9.9% Tikar",
+        "9.8% Adamawa-Ubangi ( Mbum - Gbaya )",
+        "4.6% Sawa people",
+        "4.3% Southwest Bantu",
+        "2.3% Pygmy peoples",
+        "3.8% others/foreigners"
+      ]
+    },
+    {
+      "label": "Religion (2022)",
+      "value": "66.3% Christianity 30.6% Islam 1.3% traditional faiths 1.1% no religion 0.7% others",
+      "links": [
+        {
+          "text": "Christianity",
+          "href": "https://en.wikipedia.org/wiki/Christianity"
+        },
+        {
+          "text": "Islam",
+          "href": "https://en.wikipedia.org/wiki/Islam_in_Cameroon"
+        },
+        {
+          "text": "traditional faiths",
+          "href": "https://en.wikipedia.org/wiki/Traditional_African_religions"
+        },
+        {
+          "text": "no religion",
+          "href": "https://en.wikipedia.org/wiki/Irreligion"
+        }
+      ],
+      "sub_items": [
+        "66.3% Christianity",
+        "30.6% Islam",
+        "1.3% traditional faiths",
+        "1.1% no religion",
+        "0.7% others"
+      ]
+    },
+    {
+      "label": "Demonym",
+      "value": "Cameroonian",
+      "links": [
+        {
+          "text": "Cameroonian",
+          "href": "https://en.wikipedia.org/wiki/Cameroonians"
+        }
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Unitary presidential republic under a dictatorship",
+      "links": [
+        {
+          "text": "presidential republic",
+          "href": "https://en.wikipedia.org/wiki/Presidential_republic"
+        },
+        {
+          "text": "dictatorship",
+          "href": "https://en.wikipedia.org/wiki/Dictatorship"
+        }
+      ]
+    },
+    {
+      "label": "• President",
+      "value": "Paul Biya",
+      "links": [
+        {
+          "text": "Paul Biya",
+          "href": "https://en.wikipedia.org/wiki/Paul_Biya"
+        }
+      ]
+    },
+    {
+      "label": "• Prime Minister",
+      "value": "Joseph Ngute",
+      "links": [
+        {
+          "text": "Joseph Ngute",
+          "href": "https://en.wikipedia.org/wiki/Joseph_Ngute"
+        }
+      ]
+    },
+    {
+      "label": "• President of Senate",
+      "value": "Marcel Niat Njifenji",
+      "links": [
+        {
+          "text": "Marcel Niat Njifenji",
+          "href": "https://en.wikipedia.org/wiki/Marcel_Niat_Njifenji"
+        }
+      ]
+    },
+    {
+      "label": "• President of National Assembly",
+      "value": "Cavayé Yéguié Djibril",
+      "links": [
+        {
+          "text": "Cavayé Yéguié Djibril",
+          "href": "https://en.wikipedia.org/wiki/Cavay%C3%A9_Y%C3%A9gui%C3%A9_Djibril"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "Parliament",
+      "links": [
+        {
+          "text": "Parliament",
+          "href": "https://en.wikipedia.org/wiki/Parliament_of_Cameroon"
+        }
+      ]
+    },
+    {
+      "label": "• Upper house",
+      "value": "Senate",
+      "links": [
+        {
+          "text": "Senate",
+          "href": "https://en.wikipedia.org/wiki/Senate_of_Cameroon"
+        }
+      ]
+    },
+    {
+      "label": "• Lower house",
+      "value": "National Assembly",
+      "links": [
+        {
+          "text": "National Assembly",
+          "href": "https://en.wikipedia.org/wiki/National_Assembly_of_Cameroon"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Formation",
+      "rows": [
+        {
+          "label": "• Independence of French Cameroons from France",
+          "value": "1 January 1960"
+        },
+        {
+          "label": "• Independence of British Southern Cameroons from the United Kingdom and establishment of the Federal Republic of Cameroon",
+          "value": "1 October 1961"
+        },
+        {
+          "label": "• Cameroonian constitutional referendum of 1972 and establishment of the Unitary State",
+          "value": "20 May 1972"
+        },
+        {
+          "label": "• Current constitution",
+          "value": "18 January 1996"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "475,442 km (183,569 sq mi) ( 53rd )",
+          "links": [
+            {
+              "text": "53rd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "0.57"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2025 estimate",
+          "value": "30,987,821 ( 51st )",
+          "links": [
+            {
+              "text": "51st",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• Density",
+          "value": "39.7/km (102.8/sq mi)"
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2026 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$183.320 billion ( 86th )",
+          "links": [
+            {
+              "text": "86th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$5.960 ( 147th )",
+          "links": [
+            {
+              "text": "147th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2026 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$67.520 billion ( 91st )",
+          "links": [
+            {
+              "text": "91st",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$2,200 ( 152nd )",
+          "links": [
+            {
+              "text": "152nd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "Gini (2021)",
+          "value": "42.2 medium inequality"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.588 medium ( 155th )",
+          "links": [
+            {
+              "text": "155th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "Central African CFA franc ( XAF )",
+          "links": [
+            {
+              "text": "Central African CFA franc",
+              "href": "https://en.wikipedia.org/wiki/Central_African_CFA_franc"
+            },
+            {
+              "text": "XAF",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC +1 ( WAT )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "WAT",
+              "href": "https://en.wikipedia.org/wiki/West_Africa_Time"
+            }
+          ]
+        },
+        {
+          "label": "Calling code",
+          "value": "+237",
+          "links": [
+            {
+              "text": "+237",
+              "href": "https://en.wikipedia.org/wiki/Telephone_numbers_in_Cameroon"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "CM",
+          "links": [
+            {
+              "text": "CM",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:CM"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".cm",
+          "links": [
+            {
+              "text": ".cm",
+              "href": "https://en.wikipedia.org/wiki/.cm"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

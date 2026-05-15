@@ -1,0 +1,344 @@
+{
+  "country": "Djibouti",
+  "infobox_title": "Republic of Djibouti جمهورية جيبوتي ( Arabic ) République de Djibouti ( French ) Jamhuuriyadda Jabuuti ( Somali ) Gabuutih Ummuuno ( Afar )",
+  "data": [
+    {
+      "label": "Capital and largest city",
+      "value": "Djibouti City 11°36′N 43°10′E ﻿ / ﻿ 11.600°N 43.167°E",
+      "links": [
+        {
+          "text": "Djibouti City",
+          "href": "https://en.wikipedia.org/wiki/Djibouti_City"
+        },
+        {
+          "text": "11°36′N43°10′E﻿ / ﻿11.600°N 43.167°E",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Djibouti&params=11_36_N_43_10_E_type:city_region:DJ"
+        }
+      ]
+    },
+    {
+      "label": "Official languages",
+      "value": "Arabic French",
+      "links": [
+        {
+          "text": "Arabic",
+          "href": "https://en.wikipedia.org/wiki/Modern_Standard_Arabic"
+        },
+        {
+          "text": "French",
+          "href": "https://en.wikipedia.org/wiki/French_language"
+        }
+      ],
+      "sub_items": [
+        "Arabic",
+        "French"
+      ]
+    },
+    {
+      "label": "National languages",
+      "value": "Somali Afar",
+      "links": [
+        {
+          "text": "Somali",
+          "href": "https://en.wikipedia.org/wiki/Somali_language"
+        },
+        {
+          "text": "Afar",
+          "href": "https://en.wikipedia.org/wiki/Afar_language"
+        }
+      ],
+      "sub_items": [
+        "Somali",
+        "Afar"
+      ]
+    },
+    {
+      "label": "Ethnic groups",
+      "value": "Somalis 60% Afar 35% Arabs 5%",
+      "links": [
+        {
+          "text": "Somalis",
+          "href": "https://en.wikipedia.org/wiki/Somalis"
+        },
+        {
+          "text": "Afar",
+          "href": "https://en.wikipedia.org/wiki/Afar_people"
+        },
+        {
+          "text": "Arabs",
+          "href": "https://en.wikipedia.org/wiki/Arabs"
+        }
+      ],
+      "sub_items": [
+        "Somalis 60%",
+        "Afar 35%",
+        "Arabs 5%"
+      ]
+    },
+    {
+      "label": "Religion",
+      "value": "94% Islam ( official ) 87% Sunni 8% Non-denominational 2% Shia 3% Other 6% Christianity",
+      "links": [
+        {
+          "text": "Islam",
+          "href": "https://en.wikipedia.org/wiki/Islam_in_Djibouti"
+        },
+        {
+          "text": "official",
+          "href": "https://en.wikipedia.org/wiki/State_religion"
+        },
+        {
+          "text": "Sunni",
+          "href": "https://en.wikipedia.org/wiki/Sunni_Islam"
+        },
+        {
+          "text": "Non-denominational",
+          "href": "https://en.wikipedia.org/wiki/Non-denominational_Muslim"
+        },
+        {
+          "text": "Shia",
+          "href": "https://en.wikipedia.org/wiki/Shia_Islam"
+        },
+        {
+          "text": "Christianity",
+          "href": "https://en.wikipedia.org/wiki/Christianity_in_Djibouti"
+        }
+      ],
+      "sub_items": [
+        "94% Islam ( official ) 87% Sunni 8% Non-denominational 2% Shia 3% Other",
+        "87% Sunni",
+        "8% Non-denominational",
+        "2% Shia",
+        "3% Other",
+        "6% Christianity"
+      ]
+    },
+    {
+      "label": "Demonym",
+      "value": "Djiboutian",
+      "links": [
+        {
+          "text": "Djiboutian",
+          "href": "https://en.wikipedia.org/wiki/Djiboutians"
+        }
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Unitary dominant-party presidential republic under a hereditary dictatorship",
+      "links": [
+        {
+          "text": "presidential republic",
+          "href": "https://en.wikipedia.org/wiki/Presidential_system"
+        },
+        {
+          "text": "hereditary dictatorship",
+          "href": "https://en.wikipedia.org/wiki/Hereditary_dictatorship"
+        }
+      ]
+    },
+    {
+      "label": "• President",
+      "value": "Ismaïl Omar Guelleh",
+      "links": [
+        {
+          "text": "Ismaïl Omar Guelleh",
+          "href": "https://en.wikipedia.org/wiki/Isma%C3%AFl_Omar_Guelleh"
+        }
+      ]
+    },
+    {
+      "label": "• Prime Minister",
+      "value": "Abdoulkader Kamil Mohamed",
+      "links": [
+        {
+          "text": "Abdoulkader Kamil Mohamed",
+          "href": "https://en.wikipedia.org/wiki/Abdoulkader_Kamil_Mohamed"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "National Assembly",
+      "links": [
+        {
+          "text": "National Assembly",
+          "href": "https://en.wikipedia.org/wiki/National_Assembly_(Djibouti)"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Formation",
+      "rows": [
+        {
+          "label": "• Independence from France",
+          "value": "27 June 1977"
+        },
+        {
+          "label": "• Current constitution",
+          "value": "4 September 1992"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "23,200 km (9,000 sq mi) ( 146th )",
+          "links": [
+            {
+              "text": "146th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "0.09 (20 km² / 7.7 sq mi)"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2024 census",
+          "value": "1,066,809"
+        },
+        {
+          "label": "• Density",
+          "value": "46.0/km (119.1/sq mi) ( 168th )",
+          "links": [
+            {
+              "text": "168th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2023 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$7.193 billion ( 167th )",
+          "links": [
+            {
+              "text": "167th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$6,985 ( 137th )",
+          "links": [
+            {
+              "text": "137th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2023 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$3.873 billion ( 172nd )",
+          "links": [
+            {
+              "text": "172nd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$3,761 ( 126th )",
+          "links": [
+            {
+              "text": "126th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "Gini (2017)",
+          "value": "41.6 medium inequality"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.513 low ( 175th )",
+          "links": [
+            {
+              "text": "175th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "Djiboutian franc ( DJF )",
+          "links": [
+            {
+              "text": "Djiboutian franc",
+              "href": "https://en.wikipedia.org/wiki/Djiboutian_franc"
+            },
+            {
+              "text": "DJF",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC +3 ( EAT )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "EAT",
+              "href": "https://en.wikipedia.org/wiki/East_Africa_Time"
+            }
+          ]
+        },
+        {
+          "label": "Calling code",
+          "value": "+253",
+          "links": [
+            {
+              "text": "+253",
+              "href": "https://en.wikipedia.org/wiki/%2B253"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "DJ",
+          "links": [
+            {
+              "text": "DJ",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:DJ"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".dj",
+          "links": [
+            {
+              "text": ".dj",
+              "href": "https://en.wikipedia.org/wiki/.dj"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

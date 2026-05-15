@@ -1,0 +1,393 @@
+{
+  "label": "country",
+  "children": [
+    {
+      "label": "name",
+      "children": [
+        {
+          "label": "russian federation"
+        }
+      ]
+    },
+    {
+      "label": "infobox_title",
+      "children": [
+        {
+          "label": "russian federation российская федерация"
+        }
+      ]
+    },
+    {
+      "label": "capital_and_largest_city",
+      "children": [
+        {
+          "label": "moscow / 55."
+        }
+      ]
+    },
+    {
+      "label": "official_language_and_national_language",
+      "children": [
+        {
+          "label": "russian"
+        }
+      ]
+    },
+    {
+      "label": "recognised_regional_languages",
+      "children": [
+        {
+          "label": "35 regional official languages"
+        }
+      ]
+    },
+    {
+      "label": "ethnic_groups_2021_including_crimea",
+      "children": [
+        {
+          "label": "71.7% russian"
+        },
+        {
+          "label": "3.2% tatar"
+        },
+        {
+          "label": "1.1% bashkir"
+        },
+        {
+          "label": "1.1% chechen"
+        },
+        {
+          "label": "11.3% other"
+        },
+        {
+          "label": "11.6% not reported"
+        }
+      ]
+    },
+    {
+      "label": "religion_2025",
+      "children": [
+        {
+          "label": "68% christianity"
+        },
+        {
+          "label": "67% eastern orthodoxy"
+        },
+        {
+          "label": "1% other christian"
+        },
+        {
+          "label": "14% no religion"
+        },
+        {
+          "label": "7% islam"
+        },
+        {
+          "label": "1% buddhism"
+        },
+        {
+          "label": "4% other religion"
+        },
+        {
+          "label": "4% unsure"
+        },
+        {
+          "label": "2% not answered"
+        }
+      ]
+    },
+    {
+      "label": "demonym",
+      "children": [
+        {
+          "label": "russian"
+        }
+      ]
+    },
+    {
+      "label": "government",
+      "children": [
+        {
+          "label": "federal semi-presidential republic under an authoritarian dictatorship"
+        }
+      ]
+    },
+    {
+      "label": "president",
+      "children": [
+        {
+          "label": "vladimir putin"
+        }
+      ]
+    },
+    {
+      "label": "prime_minister",
+      "children": [
+        {
+          "label": "mikhail mishustin"
+        }
+      ]
+    },
+    {
+      "label": "legislature",
+      "children": [
+        {
+          "label": "federal assembly"
+        }
+      ]
+    },
+    {
+      "label": "upper_house",
+      "children": [
+        {
+          "label": "federation council"
+        }
+      ]
+    },
+    {
+      "label": "lower_house",
+      "children": [
+        {
+          "label": "state duma"
+        }
+      ]
+    },
+    {
+      "label": "formation",
+      "children": [
+        {
+          "label": "kievan_rus",
+          "children": [
+            {
+              "label": "882"
+            }
+          ]
+        },
+        {
+          "label": "vladimir_suzdal",
+          "children": [
+            {
+              "label": "1157"
+            }
+          ]
+        },
+        {
+          "label": "principality_of_moscow",
+          "children": [
+            {
+              "label": "1282"
+            }
+          ]
+        },
+        {
+          "label": "tsardom_of_russia",
+          "children": [
+            {
+              "label": "16 january 1547"
+            }
+          ]
+        },
+        {
+          "label": "russian_empire",
+          "children": [
+            {
+              "label": "2 november 1721"
+            }
+          ]
+        },
+        {
+          "label": "monarchy_abolished",
+          "children": [
+            {
+              "label": "15 march 1917"
+            }
+          ]
+        },
+        {
+          "label": "soviet_union",
+          "children": [
+            {
+              "label": "30 december 1922"
+            }
+          ]
+        },
+        {
+          "label": "declaration_of_state_sovereignty",
+          "children": [
+            {
+              "label": "12 june 1990"
+            }
+          ]
+        },
+        {
+          "label": "russian_federation",
+          "children": [
+            {
+              "label": "12 december 1991"
+            }
+          ]
+        },
+        {
+          "label": "current_constitution",
+          "children": [
+            {
+              "label": "12 december 1993"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "area",
+      "children": [
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "17,098,246 km"
+            }
+          ]
+        },
+        {
+          "label": "water",
+          "children": [
+            {
+              "label": "13"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "population",
+      "children": [
+        {
+          "label": "2025_estimate",
+          "children": [
+            {
+              "label": "146,028,325"
+            },
+            {
+              "label": "143,569,049"
+            }
+          ]
+        },
+        {
+          "label": "density",
+          "children": [
+            {
+              "label": "8.4/km"
+            }
+          ]
+        },
+        {
+          "label": "gdp_ppp",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$7.143 trillion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$49,049"
+            }
+          ]
+        },
+        {
+          "label": "gdp_nominal",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$2.541 trillion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$17,446"
+            }
+          ]
+        },
+        {
+          "label": "gini_2020",
+          "children": [
+            {
+              "label": "36.0 medium inequality"
+            }
+          ]
+        },
+        {
+          "label": "hdi_2023",
+          "children": [
+            {
+              "label": "0.832 very high"
+            }
+          ]
+        },
+        {
+          "label": "currency",
+          "children": [
+            {
+              "label": "russian ruble"
+            }
+          ]
+        },
+        {
+          "label": "time_zone",
+          "children": [
+            {
+              "label": "utc +2 to +12"
+            }
+          ]
+        },
+        {
+          "label": "calling_code",
+          "children": [
+            {
+              "label": "+7"
+            }
+          ]
+        },
+        {
+          "label": "iso_3166_code",
+          "children": [
+            {
+              "label": "ru"
+            }
+          ]
+        },
+        {
+          "label": "internet_tld",
+          "children": [
+            {
+              "label": ".ru"
+            },
+            {
+              "label": ".рф"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

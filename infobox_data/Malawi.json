@@ -1,0 +1,422 @@
+{
+  "country": "Malawi",
+  "infobox_title": "Republic of Malawi Dziko la Malaŵi ( Chichewa ) Charu cha Malaŵi ( Chitumbuka )",
+  "data": [
+    {
+      "label": "Capital and largest city",
+      "value": "Lilongwe 13°57′S 33°42′E ﻿ / ﻿ 13.950°S 33.700°E",
+      "links": [
+        {
+          "text": "Lilongwe",
+          "href": "https://en.wikipedia.org/wiki/Lilongwe"
+        },
+        {
+          "text": "13°57′S33°42′E﻿ / ﻿13.950°S 33.700°E",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Malawi&params=13_57_S_33_42_E_type:city"
+        }
+      ]
+    },
+    {
+      "label": "Official languages",
+      "value": "English",
+      "links": [
+        {
+          "text": "English",
+          "href": "https://en.wikipedia.org/wiki/English_language"
+        }
+      ]
+    },
+    {
+      "label": "Recognised national languages",
+      "value": "( none at national level)"
+    },
+    {
+      "label": "Recognised regional languages",
+      "value": "Chichewa Chitumbuka",
+      "links": [
+        {
+          "text": "Chichewa",
+          "href": "https://en.wikipedia.org/wiki/Chewa_language"
+        },
+        {
+          "text": "Chitumbuka",
+          "href": "https://en.wikipedia.org/wiki/Tumbuka_language"
+        }
+      ],
+      "sub_items": [
+        "Chichewa",
+        "Chitumbuka"
+      ]
+    },
+    {
+      "label": "Ethnic groups (2024 census)",
+      "value": "25.2% Chewa 20.4% Tumbuka 16.4% Lomwe 15.3% Yao 6.4% Ngoni 5.9% Sena 3.8% Mang'anja 1.8% Tonga 1.5% Ngonde 0.6% Lambya 0.5% Sukwa 1.1% other",
+      "links": [
+        {
+          "text": "Chewa",
+          "href": "https://en.wikipedia.org/wiki/Chewa_people"
+        },
+        {
+          "text": "Tumbuka",
+          "href": "https://en.wikipedia.org/wiki/Tumbuka_people"
+        },
+        {
+          "text": "Lomwe",
+          "href": "https://en.wikipedia.org/wiki/Lomwe_people"
+        },
+        {
+          "text": "Yao",
+          "href": "https://en.wikipedia.org/wiki/Yao_people_(East_Africa)"
+        },
+        {
+          "text": "Ngoni",
+          "href": "https://en.wikipedia.org/wiki/Ngoni_people"
+        },
+        {
+          "text": "Sena",
+          "href": "https://en.wikipedia.org/wiki/Sena_people"
+        },
+        {
+          "text": "Mang'anja",
+          "href": "https://en.wikipedia.org/wiki/Mang%27anja"
+        },
+        {
+          "text": "Tonga",
+          "href": "https://en.wikipedia.org/wiki/Tonga_people_(Malawi)"
+        },
+        {
+          "text": "Ngonde",
+          "href": "https://en.wikipedia.org/wiki/Nyakyusa_people"
+        },
+        {
+          "text": "Lambya",
+          "href": "https://en.wikipedia.org/wiki/Lambya_people"
+        },
+        {
+          "text": "Sukwa",
+          "href": "https://en.wikipedia.org/wiki/Sukwa_people"
+        }
+      ],
+      "sub_items": [
+        "25.2% Chewa",
+        "20.4% Tumbuka",
+        "16.4% Lomwe",
+        "15.3% Yao",
+        "6.4% Ngoni",
+        "5.9% Sena",
+        "3.8% Mang'anja",
+        "1.8% Tonga",
+        "1.5% Ngonde",
+        "0.6% Lambya",
+        "0.5% Sukwa",
+        "1.1% other"
+      ]
+    },
+    {
+      "label": "Religion (2018 census)",
+      "value": "82.3% Christianity 58.5% Protestantism 17.2% Catholicism 6.6% other Christian 13.8% Islam 2.1% none 1.2% traditional faiths 0.6% other",
+      "links": [
+        {
+          "text": "Christianity",
+          "href": "https://en.wikipedia.org/wiki/Christianity_in_Malawi"
+        },
+        {
+          "text": "Protestantism",
+          "href": "https://en.wikipedia.org/wiki/Protestantism"
+        },
+        {
+          "text": "Catholicism",
+          "href": "https://en.wikipedia.org/wiki/Catholic_Church_in_Malawi"
+        },
+        {
+          "text": "Christian",
+          "href": "https://en.wikipedia.org/wiki/List_of_Christian_denominations"
+        },
+        {
+          "text": "Islam",
+          "href": "https://en.wikipedia.org/wiki/Islam_in_Malawi"
+        },
+        {
+          "text": "none",
+          "href": "https://en.wikipedia.org/wiki/Irreligion"
+        },
+        {
+          "text": "traditional faiths",
+          "href": "https://en.wikipedia.org/wiki/Traditional_African_religions"
+        }
+      ],
+      "sub_items": [
+        "82.3% Christianity 58.5% Protestantism 17.2% Catholicism 6.6% other Christian",
+        "82.3% Christianity 58.5% Protestantism 17.2% Catholicism 6.6% other Christian",
+        "58.5% Protestantism",
+        "17.2% Catholicism",
+        "6.6% other Christian",
+        "13.8% Islam",
+        "2.1% none",
+        "1.2% traditional faiths",
+        "0.6% other"
+      ]
+    },
+    {
+      "label": "Demonym",
+      "value": "Malawian",
+      "links": [
+        {
+          "text": "Malawian",
+          "href": "https://en.wikipedia.org/wiki/Demographics_of_Malawi"
+        }
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Unitary presidential republic",
+      "links": [
+        {
+          "text": "presidential republic",
+          "href": "https://en.wikipedia.org/wiki/Presidential_system"
+        }
+      ]
+    },
+    {
+      "label": "• President",
+      "value": "Peter Mutharika",
+      "links": [
+        {
+          "text": "Peter Mutharika",
+          "href": "https://en.wikipedia.org/wiki/Peter_Mutharika"
+        }
+      ]
+    },
+    {
+      "label": "• Vice-President",
+      "value": "Jane Ansah",
+      "links": [
+        {
+          "text": "Jane Ansah",
+          "href": "https://en.wikipedia.org/wiki/Jane_Ansah"
+        }
+      ]
+    },
+    {
+      "label": "• House Speaker",
+      "value": "Sameer Suleman",
+      "links": [
+        {
+          "text": "Sameer Suleman",
+          "href": "https://en.wikipedia.org/wiki/Sameer_Suleman"
+        }
+      ]
+    },
+    {
+      "label": "• Chief Justice",
+      "value": "Rizine Mzikamanda",
+      "links": [
+        {
+          "text": "Rizine Mzikamanda",
+          "href": "https://en.wikipedia.org/wiki/Rizine_Mzikamanda"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "National Assembly",
+      "links": [
+        {
+          "text": "National Assembly",
+          "href": "https://en.wikipedia.org/wiki/National_Assembly_(Malawi)"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Independence from the United Kingdom",
+      "rows": [
+        {
+          "label": "• Dominion",
+          "value": "6 July 1964"
+        },
+        {
+          "label": "• Republic",
+          "value": "6 July 1966"
+        },
+        {
+          "label": "• Current constitution",
+          "value": "18 May 1994"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "118,484 km (45,747 sq mi) ( 98th )",
+          "links": [
+            {
+              "text": "98th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "20.6%"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2024 estimate",
+          "value": "21,240,689 ( 62nd )",
+          "links": [
+            {
+              "text": "62nd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• 2018 census",
+          "value": "17,563,749"
+        },
+        {
+          "label": "• Density",
+          "value": "153.1/km (396.5/sq mi) ( 56th )",
+          "links": [
+            {
+              "text": "56th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2023 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$37.919 billion ( 137th )",
+          "links": [
+            {
+              "text": "137th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$1,668 ( 186th )",
+          "links": [
+            {
+              "text": "186th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2023 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$13.176 billion ( 149th )",
+          "links": [
+            {
+              "text": "149th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$579 ( 190th )",
+          "links": [
+            {
+              "text": "190th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "Gini (2016)",
+          "value": "44.7 medium inequality"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.517 low ( 172nd )",
+          "links": [
+            {
+              "text": "172nd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "Malawian kwacha (D) ( MWK )",
+          "links": [
+            {
+              "text": "Malawian kwacha",
+              "href": "https://en.wikipedia.org/wiki/Malawian_kwacha"
+            },
+            {
+              "text": "MWK",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC +2 ( CAT )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "CAT",
+              "href": "https://en.wikipedia.org/wiki/Central_Africa_Time"
+            }
+          ]
+        },
+        {
+          "label": "Date format",
+          "value": "dd/mm/yyyy"
+        },
+        {
+          "label": "Calling code",
+          "value": "+265",
+          "links": [
+            {
+              "text": "+265",
+              "href": "https://en.wikipedia.org/wiki/Telephone_numbers_in_Malawi"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "MW",
+          "links": [
+            {
+              "text": "MW",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:MW"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".mw",
+          "links": [
+            {
+              "text": ".mw",
+              "href": "https://en.wikipedia.org/wiki/.mw"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

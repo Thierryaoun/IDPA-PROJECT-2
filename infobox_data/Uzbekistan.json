@@ -1,0 +1,375 @@
+{
+  "country": "Uzbekistan",
+  "infobox_title": "Republic of Uzbekistan O‘zbekiston Respublikasi , Ўзбекистон Республикаси ( Uzbek )",
+  "data": [
+    {
+      "label": "Capital and largest city",
+      "value": "Tashkent 41°19′N 69°16′E ﻿ / ﻿ 41.317°N 69.267°E",
+      "links": [
+        {
+          "text": "Tashkent",
+          "href": "https://en.wikipedia.org/wiki/Tashkent"
+        },
+        {
+          "text": "41°19′N69°16′E﻿ / ﻿41.317°N 69.267°E",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Uzbekistan&params=41_19_N_69_16_E_type:city_region:UZ"
+        }
+      ]
+    },
+    {
+      "label": "Official languages",
+      "value": "Uzbek",
+      "links": [
+        {
+          "text": "Uzbek",
+          "href": "https://en.wikipedia.org/wiki/Uzbek_language"
+        }
+      ]
+    },
+    {
+      "label": "Recognised languages",
+      "value": "Karakalpak",
+      "links": [
+        {
+          "text": "Karakalpak",
+          "href": "https://en.wikipedia.org/wiki/Karakalpak_language"
+        }
+      ]
+    },
+    {
+      "label": "Ethnic groups (2021)",
+      "value": "84.6% Uzbeks 4.8% Tajiks 2.3% Kazakhs 2.2% Karakalpaks 2.1% Russians 4.0% others",
+      "links": [
+        {
+          "text": "Uzbeks",
+          "href": "https://en.wikipedia.org/wiki/Uzbeks"
+        },
+        {
+          "text": "Tajiks",
+          "href": "https://en.wikipedia.org/wiki/Tajiks"
+        },
+        {
+          "text": "Kazakhs",
+          "href": "https://en.wikipedia.org/wiki/Kazakhs"
+        },
+        {
+          "text": "Karakalpaks",
+          "href": "https://en.wikipedia.org/wiki/Karakalpaks"
+        },
+        {
+          "text": "Russians",
+          "href": "https://en.wikipedia.org/wiki/Russians_in_Uzbekistan"
+        },
+        {
+          "text": "others",
+          "href": "https://en.wikipedia.org/wiki/Ethnic_groups_in_Uzbekistan"
+        }
+      ],
+      "sub_items": [
+        "84.6% Uzbeks",
+        "4.8% Tajiks",
+        "2.3% Kazakhs",
+        "2.2% Karakalpaks",
+        "2.1% Russians",
+        "4.0% others"
+      ]
+    },
+    {
+      "label": "Religion (2020)",
+      "value": "94.78% Islam 3.89% Irreligion 1.04% Christianity 0.27% other religions",
+      "links": [
+        {
+          "text": "Islam",
+          "href": "https://en.wikipedia.org/wiki/Islam"
+        },
+        {
+          "text": "Irreligion",
+          "href": "https://en.wikipedia.org/wiki/Irreligion"
+        },
+        {
+          "text": "Christianity",
+          "href": "https://en.wikipedia.org/wiki/Christianity"
+        },
+        {
+          "text": "other religions",
+          "href": "https://en.wikipedia.org/wiki/Religion_in_Uzbekistan"
+        }
+      ],
+      "sub_items": [
+        "94.78% Islam",
+        "3.89% Irreligion",
+        "1.04% Christianity",
+        "0.27% other religions"
+      ]
+    },
+    {
+      "label": "Demonym",
+      "value": "Uzbek • Uzbek",
+      "links": [
+        {
+          "text": "Uzbek",
+          "href": "https://en.wikipedia.org/wiki/Uzbeks"
+        },
+        {
+          "text": "Uzbek",
+          "href": "https://en.wikipedia.org/wiki/Demographics_of_Uzbekistan"
+        }
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Unitary semi-presidential republic",
+      "links": [
+        {
+          "text": "semi-presidential republic",
+          "href": "https://en.wikipedia.org/wiki/Semi-presidential_republic"
+        }
+      ]
+    },
+    {
+      "label": "• President",
+      "value": "Shavkat Mirziyoyev",
+      "links": [
+        {
+          "text": "Shavkat Mirziyoyev",
+          "href": "https://en.wikipedia.org/wiki/Shavkat_Mirziyoyev"
+        }
+      ]
+    },
+    {
+      "label": "• Prime Minister",
+      "value": "Abdulla Aripov",
+      "links": [
+        {
+          "text": "Abdulla Aripov",
+          "href": "https://en.wikipedia.org/wiki/Abdulla_Aripov"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "Oliy Majlis",
+      "links": [
+        {
+          "text": "Oliy Majlis",
+          "href": "https://en.wikipedia.org/wiki/Oliy_Majlis"
+        }
+      ]
+    },
+    {
+      "label": "• Upper house",
+      "value": "Senate",
+      "links": [
+        {
+          "text": "Senate",
+          "href": "https://en.wikipedia.org/wiki/Senate_of_Uzbekistan"
+        }
+      ]
+    },
+    {
+      "label": "• Lower house",
+      "value": "Legislative Chamber",
+      "links": [
+        {
+          "text": "Legislative Chamber",
+          "href": "https://en.wikipedia.org/wiki/Legislative_Chamber_of_Uzbekistan"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "History",
+      "rows": [
+        {
+          "label": "• Uzbek khanates",
+          "value": "1500–1920"
+        },
+        {
+          "label": "• Turkestan ASSR",
+          "value": "30 April 1918"
+        },
+        {
+          "label": "• Uzbek SSR",
+          "value": "27 October 1924"
+        },
+        {
+          "label": "• Republic",
+          "value": "1 September 1991"
+        },
+        {
+          "label": "• Current constitution",
+          "value": "8 December 1992"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "448,978 km (173,351 sq mi) ( 55th )",
+          "links": [
+            {
+              "text": "55th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "4.9"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2026 estimate",
+          "value": "38,236,704 ( 38th )",
+          "links": [
+            {
+              "text": "38th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• Density",
+          "value": "80.2/km (207.7/sq mi) ( 138th )",
+          "links": [
+            {
+              "text": "138th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$507.8 billion ( 53th )",
+          "links": [
+            {
+              "text": "53th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$12,596 ( 114th )",
+          "links": [
+            {
+              "text": "114th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$140.480 billion ( 60th )",
+          "links": [
+            {
+              "text": "60th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$3,945 ( 134th )",
+          "links": [
+            {
+              "text": "134th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "Gini (2022)",
+          "value": "31.2 medium inequality"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.740 high ( 107th )",
+          "links": [
+            {
+              "text": "107th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "Uzbek sum ( UZS )",
+          "links": [
+            {
+              "text": "Uzbek sum",
+              "href": "https://en.wikipedia.org/wiki/Uzbekistani_soum"
+            },
+            {
+              "text": "UZS",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC +5 ( UZT )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "UZT",
+              "href": "https://en.wikipedia.org/wiki/Uzbekistan_Time"
+            }
+          ]
+        },
+        {
+          "label": "Date format",
+          "value": "dd/mm yyyy"
+        },
+        {
+          "label": "Calling code",
+          "value": "+998",
+          "links": [
+            {
+              "text": "+998",
+              "href": "https://en.wikipedia.org/wiki/Telephone_numbers_in_Uzbekistan"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "UZ",
+          "links": [
+            {
+              "text": "UZ",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:UZ"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".uz",
+          "links": [
+            {
+              "text": ".uz",
+              "href": "https://en.wikipedia.org/wiki/.uz"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

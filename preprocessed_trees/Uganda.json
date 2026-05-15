@@ -1,0 +1,372 @@
+{
+  "label": "country",
+  "children": [
+    {
+      "label": "name",
+      "children": [
+        {
+          "label": "uganda"
+        }
+      ]
+    },
+    {
+      "label": "infobox_title",
+      "children": [
+        {
+          "label": "republic of uganda jamhuri ya uganda official name in local languages luganda : lipabuliika ya uganda lusoga : uganda eryetwala lumasaba : linambo lya uganda"
+        }
+      ]
+    },
+    {
+      "label": "luganda",
+      "children": [
+        {
+          "label": "lipabuliika ya uganda"
+        }
+      ]
+    },
+    {
+      "label": "luganda",
+      "children": [
+        {
+          "label": "lipabuliika ya uganda"
+        }
+      ]
+    },
+    {
+      "label": "lusoga",
+      "children": [
+        {
+          "label": "uganda eryetwala"
+        }
+      ]
+    },
+    {
+      "label": "lumasaba",
+      "children": [
+        {
+          "label": "linambo lya uganda"
+        }
+      ]
+    },
+    {
+      "label": "capital_and_largest_city",
+      "children": [
+        {
+          "label": "kampala"
+        }
+      ]
+    },
+    {
+      "label": "official_languages",
+      "children": [
+        {
+          "label": "english"
+        },
+        {
+          "label": "swahili"
+        }
+      ]
+    },
+    {
+      "label": "other_languages",
+      "children": [
+        {
+          "label": "see languages of uganda"
+        }
+      ]
+    },
+    {
+      "label": "dialect_of_english",
+      "children": [
+        {
+          "label": "uglish"
+        }
+      ]
+    },
+    {
+      "label": "ethnic_groups_2024_census",
+      "children": [
+        {
+          "label": "15.3% baganda"
+        },
+        {
+          "label": "9.1% banyankole"
+        },
+        {
+          "label": "8.1% basoga"
+        },
+        {
+          "label": "6.4% bakiga"
+        },
+        {
+          "label": "6.8% iteso"
+        },
+        {
+          "label": "5.9% langi"
+        },
+        {
+          "label": "4.5% bagisu"
+        },
+        {
+          "label": "4.2% acholi"
+        },
+        {
+          "label": "2.6% lugbara"
+        },
+        {
+          "label": "37.1% others"
+        }
+      ]
+    },
+    {
+      "label": "religion_2024_census",
+      "children": [
+        {
+          "label": "81.7% christianity"
+        },
+        {
+          "label": "42% roman catholic"
+        },
+        {
+          "label": "29% protestant"
+        },
+        {
+          "label": "13.2% islam"
+        },
+        {
+          "label": "3.3% unclassified"
+        },
+        {
+          "label": "1.6% others"
+        },
+        {
+          "label": "0.2% no religion"
+        }
+      ]
+    },
+    {
+      "label": "demonym",
+      "children": [
+        {
+          "label": "ugandan"
+        }
+      ]
+    },
+    {
+      "label": "government",
+      "children": [
+        {
+          "label": "unitary presidential republic under a dictatorship"
+        }
+      ]
+    },
+    {
+      "label": "president",
+      "children": [
+        {
+          "label": "yoweri museveni"
+        }
+      ]
+    },
+    {
+      "label": "vice_president",
+      "children": [
+        {
+          "label": "jessica alupo"
+        }
+      ]
+    },
+    {
+      "label": "prime_minister",
+      "children": [
+        {
+          "label": "robinah nabbanja"
+        }
+      ]
+    },
+    {
+      "label": "legislature",
+      "children": [
+        {
+          "label": "parliament"
+        }
+      ]
+    },
+    {
+      "label": "independence_from_the_united_kingdom",
+      "children": [
+        {
+          "label": "dominion",
+          "children": [
+            {
+              "label": "9 october 1962"
+            }
+          ]
+        },
+        {
+          "label": "republic_declared",
+          "children": [
+            {
+              "label": "9 october 1963"
+            }
+          ]
+        },
+        {
+          "label": "current_constitution",
+          "children": [
+            {
+              "label": "8 october 1995"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "area",
+      "children": [
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "241,038 km"
+            }
+          ]
+        },
+        {
+          "label": "water",
+          "children": [
+            {
+              "label": "15.39"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "population",
+      "children": [
+        {
+          "label": "2024_census",
+          "children": [
+            {
+              "label": "= 45,905,417"
+            }
+          ]
+        },
+        {
+          "label": "density",
+          "children": [
+            {
+              "label": "157.1/km"
+            }
+          ]
+        },
+        {
+          "label": "gdp_ppp",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$187.11 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$3,900"
+            }
+          ]
+        },
+        {
+          "label": "gdp_nominal",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$64.280 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$1,340"
+            }
+          ]
+        },
+        {
+          "label": "gini_2016",
+          "children": [
+            {
+              "label": "42.0 medium inequality"
+            }
+          ]
+        },
+        {
+          "label": "hdi_2023",
+          "children": [
+            {
+              "label": "0.582 medium"
+            }
+          ]
+        },
+        {
+          "label": "currency",
+          "children": [
+            {
+              "label": "ugandan shilling"
+            }
+          ]
+        },
+        {
+          "label": "time_zone",
+          "children": [
+            {
+              "label": "utc +3"
+            }
+          ]
+        },
+        {
+          "label": "calling_code",
+          "children": [
+            {
+              "label": "+256"
+            }
+          ]
+        },
+        {
+          "label": "iso_3166_code",
+          "children": [
+            {
+              "label": "ug"
+            }
+          ]
+        },
+        {
+          "label": "internet_tld",
+          "children": [
+            {
+              "label": ".ug"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

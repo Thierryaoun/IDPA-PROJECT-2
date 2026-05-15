@@ -1,0 +1,366 @@
+{
+  "label": "country",
+  "children": [
+    {
+      "label": "name",
+      "children": [
+        {
+          "label": "cameroon"
+        }
+      ]
+    },
+    {
+      "label": "infobox_title",
+      "children": [
+        {
+          "label": "republic of cameroon république du cameroun"
+        }
+      ]
+    },
+    {
+      "label": "capital",
+      "children": [
+        {
+          "label": "yaoundé / 3."
+        }
+      ]
+    },
+    {
+      "label": "largest_city",
+      "children": [
+        {
+          "label": "douala"
+        }
+      ]
+    },
+    {
+      "label": "official_languages",
+      "children": [
+        {
+          "label": "french • english"
+        }
+      ]
+    },
+    {
+      "label": "recognised_regional_languages",
+      "children": [
+        {
+          "label": "grassfield languages • beti • fufulde • sawa • hausa • baka • bassa • chadian arabic • bafia • gbaya • pidgin • camfranglais • mandara"
+        }
+      ]
+    },
+    {
+      "label": "ethnic_groups_2022",
+      "children": [
+        {
+          "label": "22.2% bamileke , bamun"
+        },
+        {
+          "label": "16.4% biu-mandara"
+        },
+        {
+          "label": "13.5% shuwa arab , hausa and kanuri"
+        },
+        {
+          "label": "13.1% beti - bassa"
+        },
+        {
+          "label": "12.0% fulani"
+        },
+        {
+          "label": "9.9% tikar"
+        },
+        {
+          "label": "9.8% adamawa-ubangi"
+        },
+        {
+          "label": "4.6% sawa people"
+        },
+        {
+          "label": "4.3% southwest bantu"
+        },
+        {
+          "label": "2.3% pygmy peoples"
+        },
+        {
+          "label": "3.8% others/foreigners"
+        }
+      ]
+    },
+    {
+      "label": "religion_2022",
+      "children": [
+        {
+          "label": "66.3% christianity"
+        },
+        {
+          "label": "30.6% islam"
+        },
+        {
+          "label": "1.3% traditional faiths"
+        },
+        {
+          "label": "1.1% no religion"
+        },
+        {
+          "label": "0.7% others"
+        }
+      ]
+    },
+    {
+      "label": "demonym",
+      "children": [
+        {
+          "label": "cameroonian"
+        }
+      ]
+    },
+    {
+      "label": "government",
+      "children": [
+        {
+          "label": "unitary presidential republic under a dictatorship"
+        }
+      ]
+    },
+    {
+      "label": "president",
+      "children": [
+        {
+          "label": "paul biya"
+        }
+      ]
+    },
+    {
+      "label": "prime_minister",
+      "children": [
+        {
+          "label": "joseph ngute"
+        }
+      ]
+    },
+    {
+      "label": "president_of_senate",
+      "children": [
+        {
+          "label": "marcel niat njifenji"
+        }
+      ]
+    },
+    {
+      "label": "president_of_national_assembly",
+      "children": [
+        {
+          "label": "cavayé yéguié djibril"
+        }
+      ]
+    },
+    {
+      "label": "legislature",
+      "children": [
+        {
+          "label": "parliament"
+        }
+      ]
+    },
+    {
+      "label": "upper_house",
+      "children": [
+        {
+          "label": "senate"
+        }
+      ]
+    },
+    {
+      "label": "lower_house",
+      "children": [
+        {
+          "label": "national assembly"
+        }
+      ]
+    },
+    {
+      "label": "formation",
+      "children": [
+        {
+          "label": "independence_of_french_cameroons_from_france",
+          "children": [
+            {
+              "label": "1 january 1960"
+            }
+          ]
+        },
+        {
+          "label": "independence_of_british_southern_cameroons_from_the_united_kingdom_and_establishment_of_the_federal_republic_of_cameroon",
+          "children": [
+            {
+              "label": "1 october 1961"
+            }
+          ]
+        },
+        {
+          "label": "cameroonian_constitutional_referendum_of_1972_and_establishment_of_the_unitary_state",
+          "children": [
+            {
+              "label": "20 may 1972"
+            }
+          ]
+        },
+        {
+          "label": "current_constitution",
+          "children": [
+            {
+              "label": "18 january 1996"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "area",
+      "children": [
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "475,442 km"
+            }
+          ]
+        },
+        {
+          "label": "water",
+          "children": [
+            {
+              "label": "0.57"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "population",
+      "children": [
+        {
+          "label": "2025_estimate",
+          "children": [
+            {
+              "label": "30,987,821"
+            }
+          ]
+        },
+        {
+          "label": "density",
+          "children": [
+            {
+              "label": "39.7/km"
+            }
+          ]
+        },
+        {
+          "label": "gdp_ppp",
+          "children": [
+            {
+              "label": "2026 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$183.320 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$5.960"
+            }
+          ]
+        },
+        {
+          "label": "gdp_nominal",
+          "children": [
+            {
+              "label": "2026 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$67.520 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$2,200"
+            }
+          ]
+        },
+        {
+          "label": "gini_2021",
+          "children": [
+            {
+              "label": "42.2 medium inequality"
+            }
+          ]
+        },
+        {
+          "label": "hdi_2023",
+          "children": [
+            {
+              "label": "0.588 medium"
+            }
+          ]
+        },
+        {
+          "label": "currency",
+          "children": [
+            {
+              "label": "central african cfa franc"
+            }
+          ]
+        },
+        {
+          "label": "time_zone",
+          "children": [
+            {
+              "label": "utc +1"
+            }
+          ]
+        },
+        {
+          "label": "calling_code",
+          "children": [
+            {
+              "label": "+237"
+            }
+          ]
+        },
+        {
+          "label": "iso_3166_code",
+          "children": [
+            {
+              "label": "cm"
+            }
+          ]
+        },
+        {
+          "label": "internet_tld",
+          "children": [
+            {
+              "label": ".cm"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

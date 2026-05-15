@@ -1,0 +1,396 @@
+{
+  "country": "Bosnia and Herzegovina",
+  "infobox_title": "Bosnia and Herzegovina Bosna i Hercegovina Босна и Херцеговина",
+  "data": [
+    {
+      "label": "Capital and largest city",
+      "value": "Sarajevo 43°52′N 18°25′E ﻿ / ﻿ 43.867°N 18.417°E",
+      "links": [
+        {
+          "text": "Sarajevo",
+          "href": "https://en.wikipedia.org/wiki/Sarajevo"
+        },
+        {
+          "text": "43°52′N18°25′E﻿ / ﻿43.867°N 18.417°E",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Bosnia_and_Herzegovina&params=43_52_N_18_25_E_type:city"
+        }
+      ]
+    },
+    {
+      "label": "Official language (federal level)",
+      "value": "None"
+    },
+    {
+      "label": "Religion (2013 census)",
+      "value": "51.3% Islam 46.1% Christianity 30.7% Eastern Orthodox 15.4% Catholicism 2.60% Others",
+      "links": [
+        {
+          "text": "Islam",
+          "href": "https://en.wikipedia.org/wiki/Islam_in_Bosnia_and_Herzegovina"
+        },
+        {
+          "text": "Christianity",
+          "href": "https://en.wikipedia.org/wiki/Christianity"
+        },
+        {
+          "text": "Eastern Orthodox",
+          "href": "https://en.wikipedia.org/wiki/Eastern_Orthodoxy_in_Bosnia_and_Herzegovina"
+        },
+        {
+          "text": "Catholicism",
+          "href": "https://en.wikipedia.org/wiki/Catholicism_in_Bosnia_and_Herzegovina"
+        },
+        {
+          "text": "Others",
+          "href": "https://en.wikipedia.org/wiki/Religion_in_Bosnia_and_Herzegovina"
+        }
+      ],
+      "sub_items": [
+        "51.3% Islam",
+        "46.1% Christianity 30.7% Eastern Orthodox 15.4% Catholicism",
+        "30.7% Eastern Orthodox",
+        "15.4% Catholicism",
+        "2.60% Others"
+      ]
+    },
+    {
+      "label": "Demonyms",
+      "value": "Bosnian Herzegovinian",
+      "links": [
+        {
+          "text": "Bosnian",
+          "href": "https://en.wikipedia.org/wiki/Bosnians"
+        },
+        {
+          "text": "Herzegovinian",
+          "href": "https://en.wikipedia.org/wiki/Herzegovina#Population"
+        }
+      ],
+      "sub_items": [
+        "Bosnian",
+        "Herzegovinian"
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Federal parliamentary directorial republic",
+      "links": [
+        {
+          "text": "Federal",
+          "href": "https://en.wikipedia.org/wiki/Federal_republic"
+        },
+        {
+          "text": "directorial republic",
+          "href": "https://en.wikipedia.org/wiki/Directorial_system"
+        }
+      ]
+    },
+    {
+      "label": "• High Representative",
+      "value": "Christian Schmidt",
+      "links": [
+        {
+          "text": "Christian Schmidt",
+          "href": "https://en.wikipedia.org/wiki/Christian_Schmidt"
+        }
+      ]
+    },
+    {
+      "label": "• Chairman of the Presidency",
+      "value": "Denis Bećirović",
+      "links": [
+        {
+          "text": "Denis Bećirović",
+          "href": "https://en.wikipedia.org/wiki/Denis_Be%C4%87irovi%C4%87"
+        }
+      ]
+    },
+    {
+      "label": "• Members of the Presidency",
+      "value": "Željka Cvijanović Željko Komšić",
+      "links": [
+        {
+          "text": "Željka Cvijanović",
+          "href": "https://en.wikipedia.org/wiki/%C5%BDeljka_Cvijanovi%C4%87"
+        },
+        {
+          "text": "Željko Komšić",
+          "href": "https://en.wikipedia.org/wiki/%C5%BDeljko_Kom%C5%A1i%C4%87"
+        }
+      ]
+    },
+    {
+      "label": "• Chairwoman of the Council of Ministers",
+      "value": "Borjana Krišto",
+      "links": [
+        {
+          "text": "Borjana Krišto",
+          "href": "https://en.wikipedia.org/wiki/Borjana_Kri%C5%A1to"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "Parliamentary Assembly",
+      "links": [
+        {
+          "text": "Parliamentary Assembly",
+          "href": "https://en.wikipedia.org/wiki/Parliamentary_Assembly_of_Bosnia_and_Herzegovina"
+        }
+      ]
+    },
+    {
+      "label": "• Upper house",
+      "value": "House of Peoples",
+      "links": [
+        {
+          "text": "House of Peoples",
+          "href": "https://en.wikipedia.org/wiki/House_of_Peoples_of_Bosnia_and_Herzegovina"
+        }
+      ]
+    },
+    {
+      "label": "• Lower house",
+      "value": "House of Representatives",
+      "links": [
+        {
+          "text": "House of Representatives",
+          "href": "https://en.wikipedia.org/wiki/House_of_Representatives_of_Bosnia_and_Herzegovina"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Establishment history",
+      "rows": [
+        {
+          "label": "• Early medieval Bosnia",
+          "value": "9th century"
+        },
+        {
+          "label": "• Banate of Bosnia",
+          "value": "1154"
+        },
+        {
+          "label": "• Kingdom of Bosnia",
+          "value": "1377"
+        },
+        {
+          "label": "• Ottoman conquest",
+          "value": "1463"
+        },
+        {
+          "label": "• Austro-Hungarian conquest and 1908 annexation",
+          "value": "1878"
+        },
+        {
+          "label": "• Creation of Yugoslavia",
+          "value": "1 December 1918"
+        },
+        {
+          "label": "• ZAVNOBiH",
+          "value": "25 November 1943"
+        },
+        {
+          "label": "• SR Bosnia and Herzegovina within SFR Yugoslavia",
+          "value": "29 November 1945"
+        },
+        {
+          "label": "• Independence from Yugoslavia",
+          "value": "3 March 1992"
+        },
+        {
+          "label": "• Washington Agreement",
+          "value": "18 March 1994"
+        },
+        {
+          "label": "• Dayton Agreement",
+          "value": "14 December 1995"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "51,209 km (19,772 sq mi) ( 125th )",
+          "links": [
+            {
+              "text": "125th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "1.4%"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2023 estimate",
+          "value": "2,904,256 ( 137th )",
+          "links": [
+            {
+              "text": "137th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• 2013 census",
+          "value": "3,531,159"
+        },
+        {
+          "label": "• Density",
+          "value": "61/km (158.0/sq mi) ( 156th )",
+          "links": [
+            {
+              "text": "156th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2026 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$82.23 billion ( 108th )",
+          "links": [
+            {
+              "text": "108th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$23,930 ( 84th )",
+          "links": [
+            {
+              "text": "84th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2026 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$36.24 billion ( 107th )",
+          "links": [
+            {
+              "text": "107th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$10,546 ( 85th )",
+          "links": [
+            {
+              "text": "85th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "Gini (2022)",
+          "value": "27.1 low inequality"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.804 very high ( 74th )",
+          "links": [
+            {
+              "text": "74th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "Convertible mark ( BAM )",
+          "links": [
+            {
+              "text": "Convertible mark",
+              "href": "https://en.wikipedia.org/wiki/Bosnia_and_Herzegovina_convertible_mark"
+            },
+            {
+              "text": "BAM",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC +01 ( CET )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "CET",
+              "href": "https://en.wikipedia.org/wiki/Central_European_Time"
+            }
+          ]
+        },
+        {
+          "label": "• Summer ( DST )",
+          "value": "UTC +02 ( CEST )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "CEST",
+              "href": "https://en.wikipedia.org/wiki/Central_European_Summer_Time"
+            }
+          ]
+        },
+        {
+          "label": "Calling code",
+          "value": "+387",
+          "links": [
+            {
+              "text": "+387",
+              "href": "https://en.wikipedia.org/wiki/Telephone_numbers_in_Bosnia_and_Herzegovina"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "BA",
+          "links": [
+            {
+              "text": "BA",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:BA"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".ba",
+          "links": [
+            {
+              "text": ".ba",
+              "href": "https://en.wikipedia.org/wiki/.ba"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

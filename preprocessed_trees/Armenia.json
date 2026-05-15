@@ -1,0 +1,403 @@
+{
+  "label": "country",
+  "children": [
+    {
+      "label": "name",
+      "children": [
+        {
+          "label": "armenia"
+        }
+      ]
+    },
+    {
+      "label": "infobox_title",
+      "children": [
+        {
+          "label": "republic of armenia հայաստանի հանրապետություն hayastani hanrapetut'yun"
+        }
+      ]
+    },
+    {
+      "label": "capital_and_largest_city",
+      "children": [
+        {
+          "label": "yerevan / 40."
+        }
+      ]
+    },
+    {
+      "label": "official_languages",
+      "children": [
+        {
+          "label": "armenian"
+        }
+      ]
+    },
+    {
+      "label": "recognized_languages",
+      "children": [
+        {
+          "label": "assyrian"
+        },
+        {
+          "label": "german"
+        },
+        {
+          "label": "greek"
+        },
+        {
+          "label": "kurdish"
+        },
+        {
+          "label": "russian"
+        },
+        {
+          "label": "ukrainian"
+        }
+      ]
+    },
+    {
+      "label": "official_script",
+      "children": [
+        {
+          "label": "armenian alphabet"
+        }
+      ]
+    },
+    {
+      "label": "ethnic_groups_2022",
+      "children": [
+        {
+          "label": "98.1% armenians"
+        },
+        {
+          "label": "1.1% yazidis"
+        },
+        {
+          "label": "0.8% other"
+        }
+      ]
+    },
+    {
+      "label": "religion_2022",
+      "children": [
+        {
+          "label": "96.8% christianity"
+        },
+        {
+          "label": "95.2% armenian apostolic church"
+        },
+        {
+          "label": "1.6% other christian"
+        },
+        {
+          "label": "0.6% no religion"
+        },
+        {
+          "label": "0.9% other"
+        },
+        {
+          "label": "1.7% unspecified"
+        }
+      ]
+    },
+    {
+      "label": "demonym",
+      "children": [
+        {
+          "label": "armenian"
+        }
+      ]
+    },
+    {
+      "label": "government",
+      "children": [
+        {
+          "label": "unitary parliamentary republic"
+        }
+      ]
+    },
+    {
+      "label": "president",
+      "children": [
+        {
+          "label": "vahagn khachaturyan"
+        }
+      ]
+    },
+    {
+      "label": "prime_minister",
+      "children": [
+        {
+          "label": "nikol pashinyan"
+        }
+      ]
+    },
+    {
+      "label": "president_of_the_national_assembly",
+      "children": [
+        {
+          "label": "alen simonyan"
+        }
+      ]
+    },
+    {
+      "label": "legislature",
+      "children": [
+        {
+          "label": "national assembly"
+        }
+      ]
+    },
+    {
+      "label": "establishment",
+      "children": [
+        {
+          "label": "urartu",
+          "children": [
+            {
+              "label": "860 bc–547/90 bc"
+            }
+          ]
+        },
+        {
+          "label": "kingdom_of_armenia",
+          "children": [
+            {
+              "label": "331 bc–428 ad"
+            }
+          ]
+        },
+        {
+          "label": "bagratid_armenia",
+          "children": [
+            {
+              "label": "880s–1045"
+            }
+          ]
+        },
+        {
+          "label": "armenian_kingdom_of_cilicia",
+          "children": [
+            {
+              "label": "1198/99–1375"
+            }
+          ]
+        },
+        {
+          "label": "zakarid_armenia",
+          "children": [
+            {
+              "label": "1201–1350"
+            }
+          ]
+        },
+        {
+          "label": "first_republic_of_armenia",
+          "children": [
+            {
+              "label": "28 may 1918"
+            }
+          ]
+        },
+        {
+          "label": "armenian_soviet_socialist_republic",
+          "children": [
+            {
+              "label": "29 november 1920"
+            }
+          ]
+        },
+        {
+          "label": "independence_from_the_ussr",
+          "children": [
+            {
+              "label": "23 september 1991"
+            }
+          ]
+        },
+        {
+          "label": "cis_accession",
+          "children": [
+            {
+              "label": "21 december 1991"
+            }
+          ]
+        },
+        {
+          "label": "admission_to_the_united_nations",
+          "children": [
+            {
+              "label": "2 march 1992"
+            }
+          ]
+        },
+        {
+          "label": "current_constitution",
+          "children": [
+            {
+              "label": "5 july 1995"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "area",
+      "children": [
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "29,743 km"
+            }
+          ]
+        },
+        {
+          "label": "water",
+          "children": [
+            {
+              "label": "4.71"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "population",
+      "children": [
+        {
+          "label": "2025_estimate",
+          "children": [
+            {
+              "label": "3,081,100"
+            }
+          ]
+        },
+        {
+          "label": "density",
+          "children": [
+            {
+              "label": "103.6/km"
+            }
+          ]
+        },
+        {
+          "label": "gdp_ppp",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$74.407 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$23,954"
+            }
+          ]
+        },
+        {
+          "label": "gdp_nominal",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$27.859 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$8,969"
+            }
+          ]
+        },
+        {
+          "label": "gini_2022",
+          "children": [
+            {
+              "label": "27.9 low inequality"
+            }
+          ]
+        },
+        {
+          "label": "hdi_2023",
+          "children": [
+            {
+              "label": "0.811 very high"
+            }
+          ]
+        },
+        {
+          "label": "currency",
+          "children": [
+            {
+              "label": "dram"
+            }
+          ]
+        },
+        {
+          "label": "time_zone",
+          "children": [
+            {
+              "label": "utc +4"
+            }
+          ]
+        },
+        {
+          "label": "date_format",
+          "children": [
+            {
+              "label": "dd.mm.yyyy"
+            }
+          ]
+        },
+        {
+          "label": "calling_code",
+          "children": [
+            {
+              "label": "+374"
+            }
+          ]
+        },
+        {
+          "label": "iso_3166_code",
+          "children": [
+            {
+              "label": "am"
+            }
+          ]
+        },
+        {
+          "label": "internet_tld",
+          "children": [
+            {
+              "label": ".am"
+            },
+            {
+              "label": ".հայ"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

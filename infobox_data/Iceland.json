@@ -1,0 +1,381 @@
+{
+  "country": "Iceland",
+  "infobox_title": "Iceland Ísland ( Icelandic )",
+  "data": [
+    {
+      "label": "Capital and largest city",
+      "value": "Reykjavík 64°08′N 21°56′W ﻿ / ﻿ 64.133°N 21.933°W",
+      "links": [
+        {
+          "text": "Reykjavík",
+          "href": "https://en.wikipedia.org/wiki/Reykjav%C3%ADk"
+        },
+        {
+          "text": "64°08′N21°56′W﻿ / ﻿64.133°N 21.933°W",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Iceland&params=64_08_N_21_56_W_type:city"
+        }
+      ]
+    },
+    {
+      "label": "Official language",
+      "value": "Icelandic",
+      "links": [
+        {
+          "text": "Icelandic",
+          "href": "https://en.wikipedia.org/wiki/Icelandic_language"
+        }
+      ]
+    },
+    {
+      "label": "Ethnic groups (2021)",
+      "value": "86% Icelandic 6% Polish 1% Lithuanian 0.8% Filipino 7% other",
+      "links": [
+        {
+          "text": "Icelandic",
+          "href": "https://en.wikipedia.org/wiki/Icelanders"
+        },
+        {
+          "text": "Polish",
+          "href": "https://en.wikipedia.org/wiki/Poles_in_Iceland"
+        },
+        {
+          "text": "Lithuanian",
+          "href": "https://en.wikipedia.org/wiki/Lithuanians"
+        },
+        {
+          "text": "Filipino",
+          "href": "https://en.wikipedia.org/wiki/Filipinos"
+        }
+      ],
+      "sub_items": [
+        "86% Icelandic",
+        "6% Polish",
+        "1% Lithuanian",
+        "0.8% Filipino",
+        "7% other"
+      ]
+    },
+    {
+      "label": "Religion (2022)",
+      "value": "72.4% Christianity 60.9% Church of Iceland ( official ) 11.5% other Christian 25.2% no religion 1.5% Ásatrúarfélagið 0.9% other",
+      "links": [
+        {
+          "text": "Christianity",
+          "href": "https://en.wikipedia.org/wiki/Christianity"
+        },
+        {
+          "text": "Church of Iceland",
+          "href": "https://en.wikipedia.org/wiki/Church_of_Iceland"
+        },
+        {
+          "text": "official",
+          "href": "https://en.wikipedia.org/wiki/State_religion"
+        },
+        {
+          "text": "Christian",
+          "href": "https://en.wikipedia.org/wiki/List_of_Christian_denominations"
+        },
+        {
+          "text": "no religion",
+          "href": "https://en.wikipedia.org/wiki/Irreligion_in_Iceland"
+        },
+        {
+          "text": "Ásatrúarfélagið",
+          "href": "https://en.wikipedia.org/wiki/%C3%81satr%C3%BAarf%C3%A9lagi%C3%B0"
+        }
+      ],
+      "sub_items": [
+        "72.4% Christianity 60.9% Church of Iceland ( official ) 11.5% other Christian",
+        "72.4% Christianity 60.9% Church of Iceland ( official ) 11.5% other Christian",
+        "60.9% Church of Iceland ( official )",
+        "11.5% other Christian",
+        "25.2% no religion",
+        "1.5% Ásatrúarfélagið",
+        "0.9% other"
+      ]
+    },
+    {
+      "label": "Demonyms",
+      "value": "Icelander Icelandic",
+      "links": [
+        {
+          "text": "Icelander",
+          "href": "https://en.wikipedia.org/wiki/Icelanders"
+        }
+      ],
+      "sub_items": [
+        "Icelander",
+        "Icelandic"
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Unitary parliamentary republic",
+      "links": [
+        {
+          "text": "Unitary parliamentary republic",
+          "href": "https://en.wikipedia.org/wiki/Unitary_parliamentary_republic"
+        }
+      ]
+    },
+    {
+      "label": "• President",
+      "value": "Halla Tómasdóttir",
+      "links": [
+        {
+          "text": "Halla Tómasdóttir",
+          "href": "https://en.wikipedia.org/wiki/Halla_T%C3%B3masd%C3%B3ttir"
+        }
+      ]
+    },
+    {
+      "label": "• Prime Minister",
+      "value": "Kristrún Frostadóttir",
+      "links": [
+        {
+          "text": "Kristrún Frostadóttir",
+          "href": "https://en.wikipedia.org/wiki/Kristr%C3%BAn_Frostad%C3%B3ttir"
+        }
+      ]
+    },
+    {
+      "label": "• Speaker of the Althing",
+      "value": "Þórunn Sveinbjarnardóttir",
+      "links": [
+        {
+          "text": "Þórunn Sveinbjarnardóttir",
+          "href": "https://en.wikipedia.org/wiki/%C3%9E%C3%B3runn_Sveinbjarnard%C3%B3ttir"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "Althing",
+      "links": [
+        {
+          "text": "Althing",
+          "href": "https://en.wikipedia.org/wiki/Althing"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Formation",
+      "rows": [
+        {
+          "label": "• Settlement",
+          "value": "9th century"
+        },
+        {
+          "label": "• Commonwealth",
+          "value": "930–1262"
+        },
+        {
+          "label": "• Union with Norway",
+          "value": "1262–1397"
+        },
+        {
+          "label": "• Kalmar Union",
+          "value": "1397–1523"
+        },
+        {
+          "label": "• Denmark–Norway",
+          "value": "1523–1814"
+        },
+        {
+          "label": "• Ceded to Denmark",
+          "value": "14 January 1814"
+        },
+        {
+          "label": "• Constitution and limited home rule",
+          "value": "5 January 1874"
+        },
+        {
+          "label": "• Extended home rule",
+          "value": "1 February 1904"
+        },
+        {
+          "label": "• Sovereignty and personal union with Denmark",
+          "value": "1 December 1918"
+        },
+        {
+          "label": "• Republic",
+          "value": "17 June 1944 ; 81 years ago"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "103,125 km (39,817 sq mi) ( 106th )",
+          "links": [
+            {
+              "text": "106th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "2.07 (as of 2015)"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2026 census",
+          "value": "394,324 ( 172nd )",
+          "links": [
+            {
+              "text": "172nd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• Density",
+          "value": "3.82/km (9.9/sq mi) ( 238th )",
+          "links": [
+            {
+              "text": "238th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$31.076 billion ( 153rd )",
+          "links": [
+            {
+              "text": "153rd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$81,220 ( 14th )",
+          "links": [
+            {
+              "text": "14th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$35.310 billion ( 105th )",
+          "links": [
+            {
+              "text": "105th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$90,280 ( 5th )",
+          "links": [
+            {
+              "text": "5th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "Gini (2018)",
+          "value": "23.2 low inequality"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.972 very high ( 1st )",
+          "links": [
+            {
+              "text": "1st",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "Icelandic króna ( ISK )",
+          "links": [
+            {
+              "text": "Icelandic króna",
+              "href": "https://en.wikipedia.org/wiki/Icelandic_kr%C3%B3na"
+            },
+            {
+              "text": "ISK",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC ±00:00 ( GMT / WET )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "GMT",
+              "href": "https://en.wikipedia.org/wiki/Greenwich_Mean_Time"
+            },
+            {
+              "text": "WET",
+              "href": "https://en.wikipedia.org/wiki/Western_European_Time"
+            }
+          ]
+        },
+        {
+          "label": "Date format",
+          "value": "dd.mm.yyyy"
+        },
+        {
+          "label": "Calling code",
+          "value": "+354",
+          "links": [
+            {
+              "text": "+354",
+              "href": "https://en.wikipedia.org/wiki/Telephone_numbers_in_Iceland"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "IS",
+          "links": [
+            {
+              "text": "IS",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:IS"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".is",
+          "links": [
+            {
+              "text": ".is",
+              "href": "https://en.wikipedia.org/wiki/.is"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

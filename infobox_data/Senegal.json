@@ -1,0 +1,371 @@
+{
+  "country": "Senegal",
+  "infobox_title": "Republic of Senegal République du Sénégal ( French )",
+  "data": [
+    {
+      "label": "Capital and largest city",
+      "value": "Dakar 14°40′N 17°25′W ﻿ / ﻿ 14.667°N 17.417°W",
+      "links": [
+        {
+          "text": "Dakar",
+          "href": "https://en.wikipedia.org/wiki/Dakar"
+        },
+        {
+          "text": "14°40′N17°25′W﻿ / ﻿14.667°N 17.417°W",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Senegal&params=14_40_N_17_25_W_type:city"
+        }
+      ]
+    },
+    {
+      "label": "Official languages",
+      "value": "French",
+      "links": [
+        {
+          "text": "French",
+          "href": "https://en.wikipedia.org/wiki/French_language"
+        }
+      ]
+    },
+    {
+      "label": "National languages",
+      "value": "Wolof Serer Diola Pulaar Soninke Mandinka",
+      "links": [
+        {
+          "text": "Wolof",
+          "href": "https://en.wikipedia.org/wiki/Wolof_language"
+        },
+        {
+          "text": "Serer",
+          "href": "https://en.wikipedia.org/wiki/Serer_language"
+        },
+        {
+          "text": "Diola",
+          "href": "https://en.wikipedia.org/wiki/Diola_language"
+        },
+        {
+          "text": "Pulaar",
+          "href": "https://en.wikipedia.org/wiki/Pulaar_language"
+        },
+        {
+          "text": "Soninke",
+          "href": "https://en.wikipedia.org/wiki/Soninke_language"
+        },
+        {
+          "text": "Mandinka",
+          "href": "https://en.wikipedia.org/wiki/Mandinka_language"
+        }
+      ],
+      "sub_items": [
+        "Wolof",
+        "Serer",
+        "Diola",
+        "Pulaar",
+        "Soninke",
+        "Mandinka"
+      ]
+    },
+    {
+      "label": "Ethnic groups (2019)",
+      "value": "39.7% Wolof 27.5% Fula 16.0% Serer 4.9% Mandinka 4.2% Jola 2.4% Soninke 5.4% others",
+      "links": [
+        {
+          "text": "Wolof",
+          "href": "https://en.wikipedia.org/wiki/Wolof_people"
+        },
+        {
+          "text": "Fula",
+          "href": "https://en.wikipedia.org/wiki/Fula_people"
+        },
+        {
+          "text": "Serer",
+          "href": "https://en.wikipedia.org/wiki/Serer_people"
+        },
+        {
+          "text": "Mandinka",
+          "href": "https://en.wikipedia.org/wiki/Mandinka_people"
+        },
+        {
+          "text": "Jola",
+          "href": "https://en.wikipedia.org/wiki/Jola_people"
+        },
+        {
+          "text": "Soninke",
+          "href": "https://en.wikipedia.org/wiki/Soninke_people"
+        },
+        {
+          "text": "others",
+          "href": "https://en.wikipedia.org/wiki/Ethnic_groups_in_Senegal"
+        }
+      ],
+      "sub_items": [
+        "39.7% Wolof",
+        "27.5% Fula",
+        "16.0% Serer",
+        "4.9% Mandinka",
+        "4.2% Jola",
+        "2.4% Soninke",
+        "5.4% others"
+      ]
+    },
+    {
+      "label": "Religion (2019)",
+      "value": "97.2% Islam 2.7% Christianity 0.1% other",
+      "links": [
+        {
+          "text": "Islam",
+          "href": "https://en.wikipedia.org/wiki/Religion_in_Senegal"
+        },
+        {
+          "text": "Christianity",
+          "href": "https://en.wikipedia.org/wiki/Religion_in_Senegal"
+        }
+      ],
+      "sub_items": [
+        "97.2% Islam",
+        "2.7% Christianity",
+        "0.1% other"
+      ]
+    },
+    {
+      "label": "Demonym",
+      "value": "Senegalese",
+      "links": [
+        {
+          "text": "Senegalese",
+          "href": "https://en.wikipedia.org/wiki/Senegalese_people"
+        }
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Unitary presidential republic",
+      "links": [
+        {
+          "text": "presidential republic",
+          "href": "https://en.wikipedia.org/wiki/Presidential_system"
+        }
+      ]
+    },
+    {
+      "label": "• President",
+      "value": "Bassirou Diomaye Faye",
+      "links": [
+        {
+          "text": "Bassirou Diomaye Faye",
+          "href": "https://en.wikipedia.org/wiki/Bassirou_Diomaye_Faye"
+        }
+      ]
+    },
+    {
+      "label": "• Prime Minister",
+      "value": "Ousmane Sonko",
+      "links": [
+        {
+          "text": "Ousmane Sonko",
+          "href": "https://en.wikipedia.org/wiki/Ousmane_Sonko"
+        }
+      ]
+    },
+    {
+      "label": "• President of the National Assembly",
+      "value": "Malick Ndiaye",
+      "links": [
+        {
+          "text": "Malick Ndiaye",
+          "href": "https://en.wikipedia.org/wiki/Malick_Ndiaye"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "National Assembly",
+      "links": [
+        {
+          "text": "National Assembly",
+          "href": "https://en.wikipedia.org/wiki/National_Assembly_(Senegal)"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Independence",
+      "rows": [
+        {
+          "label": "• Republic established",
+          "value": "25 November 1958"
+        },
+        {
+          "label": "• Independence from France",
+          "value": "20 June 1960"
+        },
+        {
+          "label": "• Withdrawal from the Mali Federation",
+          "value": "20 August 1960"
+        },
+        {
+          "label": "• Dissolution of the Senegambia Confederation",
+          "value": "30 September 1989"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "196,722 km (75,955 sq mi) ( 86th )",
+          "links": [
+            {
+              "text": "86th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "2.1"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2024 estimate",
+          "value": "18,847,519 ( 68th )",
+          "links": [
+            {
+              "text": "68th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• Density",
+          "value": "96/km (248.6/sq mi)"
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$105.428 billion ( 100th )",
+          "links": [
+            {
+              "text": "100th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$5,498 ( 150th )",
+          "links": [
+            {
+              "text": "150th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$34.728 billion ( 103rd )",
+          "links": [
+            {
+              "text": "103rd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$1,811 ( 154th )",
+          "links": [
+            {
+              "text": "154th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "Gini (2011)",
+          "value": "40.3 medium inequality"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.530 low ( 169th )",
+          "links": [
+            {
+              "text": "169th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "West African CFA franc ( XOF )",
+          "links": [
+            {
+              "text": "West African CFA franc",
+              "href": "https://en.wikipedia.org/wiki/West_African_CFA_franc"
+            },
+            {
+              "text": "XOF",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC ±00:00 ( GMT )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "GMT",
+              "href": "https://en.wikipedia.org/wiki/Greenwich_Mean_Time"
+            }
+          ]
+        },
+        {
+          "label": "Calling code",
+          "value": "+221",
+          "links": [
+            {
+              "text": "+221",
+              "href": "https://en.wikipedia.org/wiki/%2B221"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "SN",
+          "links": [
+            {
+              "text": "SN",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:SN"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".sn",
+          "links": [
+            {
+              "text": ".sn",
+              "href": "https://en.wikipedia.org/wiki/.sn"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

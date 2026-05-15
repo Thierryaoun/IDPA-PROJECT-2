@@ -1,0 +1,405 @@
+{
+  "country": "Croatia",
+  "infobox_title": "Republic of Croatia Republika Hrvatska ( Croatian )",
+  "data": [
+    {
+      "label": "Capital and largest city",
+      "value": "Zagreb 45°48′47″N 15°58′39″E ﻿ / ﻿ 45.81306°N 15.97750°E",
+      "links": [
+        {
+          "text": "Zagreb",
+          "href": "https://en.wikipedia.org/wiki/Zagreb"
+        },
+        {
+          "text": "45°48′47″N15°58′39″E﻿ / ﻿45.81306°N 15.97750°E",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Croatia&params=45_48_47_N_15_58_39_E_type:city"
+        }
+      ]
+    },
+    {
+      "label": "Official languages",
+      "value": "Croatian",
+      "links": [
+        {
+          "text": "Croatian",
+          "href": "https://en.wikipedia.org/wiki/Croatian_language"
+        }
+      ]
+    },
+    {
+      "label": "Writing system",
+      "value": "Latin",
+      "links": [
+        {
+          "text": "Latin",
+          "href": "https://en.wikipedia.org/wiki/Gaj%27s_Latin_alphabet"
+        }
+      ]
+    },
+    {
+      "label": "Ethnic groups (2021)",
+      "value": "91.6% Croats 3.2% Serbs 5.2% others",
+      "links": [
+        {
+          "text": "Croats",
+          "href": "https://en.wikipedia.org/wiki/Croats"
+        },
+        {
+          "text": "Serbs",
+          "href": "https://en.wikipedia.org/wiki/Serbs_of_Croatia"
+        },
+        {
+          "text": "others",
+          "href": "https://en.wikipedia.org/wiki/Demographics_of_Croatia"
+        }
+      ],
+      "sub_items": [
+        "91.6% Croats",
+        "3.2% Serbs",
+        "5.2% others"
+      ]
+    },
+    {
+      "label": "Religion (2021)",
+      "value": "87.4% Christianity 79.0% Catholicism 3.3% Orthodoxy 5.1% other Christian 6.4% no religion 1.3% Islam 1.9% other 3.9% undeclared",
+      "links": [
+        {
+          "text": "Christianity",
+          "href": "https://en.wikipedia.org/wiki/Christianity"
+        },
+        {
+          "text": "Catholicism",
+          "href": "https://en.wikipedia.org/wiki/Catholic_Church_in_Croatia"
+        },
+        {
+          "text": "Orthodoxy",
+          "href": "https://en.wikipedia.org/wiki/Eastern_Orthodoxy_in_Croatia"
+        },
+        {
+          "text": "no religion",
+          "href": "https://en.wikipedia.org/wiki/Irreligion_in_Croatia"
+        },
+        {
+          "text": "Islam",
+          "href": "https://en.wikipedia.org/wiki/Islam_in_Croatia"
+        },
+        {
+          "text": "other",
+          "href": "https://en.wikipedia.org/wiki/Religion_in_Croatia"
+        }
+      ],
+      "sub_items": [
+        "87.4% Christianity 79.0% Catholicism 3.3% Orthodoxy 5.1% other Christian",
+        "87.4% Christianity 79.0% Catholicism 3.3% Orthodoxy 5.1% other Christian",
+        "79.0% Catholicism",
+        "3.3% Orthodoxy",
+        "5.1% other Christian",
+        "6.4% no religion",
+        "1.3% Islam",
+        "1.9% other",
+        "3.9% undeclared"
+      ]
+    },
+    {
+      "label": "Demonym",
+      "value": "Croatian",
+      "links": [
+        {
+          "text": "Croatian",
+          "href": "https://en.wikipedia.org/wiki/Croat"
+        }
+      ],
+      "sub_items": [
+        "Croatian"
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Unitary parliamentary republic",
+      "links": [
+        {
+          "text": "Unitary parliamentary republic",
+          "href": "https://en.wikipedia.org/wiki/Unitary_parliamentary_republic"
+        }
+      ]
+    },
+    {
+      "label": "• President",
+      "value": "Zoran Milanović",
+      "links": [
+        {
+          "text": "Zoran Milanović",
+          "href": "https://en.wikipedia.org/wiki/Zoran_Milanovi%C4%87"
+        }
+      ]
+    },
+    {
+      "label": "• Prime Minister",
+      "value": "Andrej Plenković",
+      "links": [
+        {
+          "text": "Andrej Plenković",
+          "href": "https://en.wikipedia.org/wiki/Andrej_Plenkovi%C4%87"
+        }
+      ]
+    },
+    {
+      "label": "• Speaker of the Parliament",
+      "value": "Gordan Jandroković",
+      "links": [
+        {
+          "text": "Gordan Jandroković",
+          "href": "https://en.wikipedia.org/wiki/Gordan_Jandrokovi%C4%87"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "Sabor",
+      "links": [
+        {
+          "text": "Sabor",
+          "href": "https://en.wikipedia.org/wiki/Sabor"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Establishment history",
+      "rows": [
+        {
+          "label": "• Duchy",
+          "value": "7th century"
+        },
+        {
+          "label": "• Kingdom",
+          "value": "925"
+        },
+        {
+          "label": "• Croatia in personal union with Hungary",
+          "value": "1102"
+        },
+        {
+          "label": "• Joined Habsburg Monarchy",
+          "value": "1 January 1527"
+        },
+        {
+          "label": "• Secession from Austria-Hungary",
+          "value": "29 October 1918"
+        },
+        {
+          "label": "• Creation of Yugoslavia",
+          "value": "4 December 1918"
+        },
+        {
+          "label": "• Socialist Republic of Croatia of Yugoslavia",
+          "value": "9 May 1944"
+        },
+        {
+          "label": "• Declaration of independence",
+          "value": "25 June 1991"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "56,561 km (21,838 sq mi) ( 124th )",
+          "links": [
+            {
+              "text": "124th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "1.09"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2024 estimate",
+          "value": "3,866,233 ( 128th )",
+          "links": [
+            {
+              "text": "128th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• 2021 census",
+          "value": "3,871,833 ( 128th )",
+          "links": [
+            {
+              "text": "128th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• Density",
+          "value": "68.4/km (177.2/sq mi) ( 152nd )",
+          "links": [
+            {
+              "text": "152nd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2026 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$207.40 billion ( 79th )",
+          "links": [
+            {
+              "text": "79th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$53,840 ( 39th )",
+          "links": [
+            {
+              "text": "39th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2026 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$113.13 billion ( 74th )",
+          "links": [
+            {
+              "text": "74th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$29,370 ( 47th )",
+          "links": [
+            {
+              "text": "47th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "Gini (2026)",
+          "value": "30.0 medium inequality"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.889 very high ( 41st )",
+          "links": [
+            {
+              "text": "41st",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "Euro ( € ) ( EUR )",
+          "links": [
+            {
+              "text": "Euro",
+              "href": "https://en.wikipedia.org/wiki/Euro"
+            },
+            {
+              "text": "€",
+              "href": "https://en.wikipedia.org/wiki/Euro_sign"
+            },
+            {
+              "text": "EUR",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC +1 ( CET )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "CET",
+              "href": "https://en.wikipedia.org/wiki/Central_European_Time"
+            }
+          ]
+        },
+        {
+          "label": "• Summer ( DST )",
+          "value": "UTC +2 ( CEST )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "CEST",
+              "href": "https://en.wikipedia.org/wiki/Central_European_Summer_Time"
+            }
+          ]
+        },
+        {
+          "label": "Calling code",
+          "value": "+385",
+          "links": [
+            {
+              "text": "+385",
+              "href": "https://en.wikipedia.org/wiki/Telephone_numbers_in_Croatia"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "HR",
+          "links": [
+            {
+              "text": "HR",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:HR"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".hr and .eu",
+          "links": [
+            {
+              "text": ".hr",
+              "href": "https://en.wikipedia.org/wiki/.hr"
+            },
+            {
+              "text": ".eu",
+              "href": "https://en.wikipedia.org/wiki/.eu"
+            }
+          ],
+          "sub_items": [
+            ".hr and .eu"
+          ]
+        }
+      ]
+    }
+  ]
+}

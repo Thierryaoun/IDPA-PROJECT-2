@@ -1,0 +1,450 @@
+{
+  "country": "Gambia (Republic of The)",
+  "infobox_title": "Republic of the Gambia",
+  "data": [
+    {
+      "label": "Capital",
+      "value": "Banjul 13°27′00″N 16°34′30″W ﻿ / ﻿ 13.45000°N 16.57500°W",
+      "links": [
+        {
+          "text": "Banjul",
+          "href": "https://en.wikipedia.org/wiki/Banjul"
+        },
+        {
+          "text": "13°27′00″N16°34′30″W﻿ / ﻿13.45000°N 16.57500°W",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=The_Gambia&params=13_27_00_N_16_34_30_W_type:city"
+        }
+      ]
+    },
+    {
+      "label": "Largest metropolitan area",
+      "value": "Serrekunda",
+      "links": [
+        {
+          "text": "Serrekunda",
+          "href": "https://en.wikipedia.org/wiki/Serrekunda"
+        }
+      ]
+    },
+    {
+      "label": "Official languages",
+      "value": "English",
+      "links": [
+        {
+          "text": "English",
+          "href": "https://en.wikipedia.org/wiki/English_language"
+        }
+      ]
+    },
+    {
+      "label": "National languages",
+      "value": "List: Mandinka Pulaar Wolof Serer Jola English Balanta Arabic Jola-Fonyi Mandjak Mankanya Noon Dyula Soninke Fula Karon Kassonke Cangin Gambian Sign Language",
+      "links": [
+        {
+          "text": "Mandinka",
+          "href": "https://en.wikipedia.org/wiki/Mandinka_language"
+        },
+        {
+          "text": "Pulaar",
+          "href": "https://en.wikipedia.org/wiki/Pulaar_language"
+        },
+        {
+          "text": "Wolof",
+          "href": "https://en.wikipedia.org/wiki/Wolof_language"
+        },
+        {
+          "text": "Serer",
+          "href": "https://en.wikipedia.org/wiki/Serer_language"
+        },
+        {
+          "text": "Jola",
+          "href": "https://en.wikipedia.org/wiki/Jola_languages"
+        },
+        {
+          "text": "English",
+          "href": "https://en.wikipedia.org/wiki/English_language"
+        },
+        {
+          "text": "Balanta",
+          "href": "https://en.wikipedia.org/wiki/Balanta_languages"
+        },
+        {
+          "text": "Arabic",
+          "href": "https://en.wikipedia.org/wiki/Arabic"
+        },
+        {
+          "text": "Jola-Fonyi",
+          "href": "https://en.wikipedia.org/wiki/Jola-Fonyi_language"
+        },
+        {
+          "text": "Mandjak",
+          "href": "https://en.wikipedia.org/wiki/Mandjak_language"
+        },
+        {
+          "text": "Mankanya",
+          "href": "https://en.wikipedia.org/wiki/Mankanya_language"
+        },
+        {
+          "text": "Noon",
+          "href": "https://en.wikipedia.org/wiki/Noon_language"
+        },
+        {
+          "text": "Dyula",
+          "href": "https://en.wikipedia.org/wiki/Dyula_language"
+        },
+        {
+          "text": "Soninke",
+          "href": "https://en.wikipedia.org/wiki/Soninke_language"
+        },
+        {
+          "text": "Fula",
+          "href": "https://en.wikipedia.org/wiki/Fula_language"
+        },
+        {
+          "text": "Karon",
+          "href": "https://en.wikipedia.org/wiki/Karon_language"
+        },
+        {
+          "text": "Kassonke",
+          "href": "https://en.wikipedia.org/wiki/Kassonke_language"
+        },
+        {
+          "text": "Cangin",
+          "href": "https://en.wikipedia.org/wiki/Cangin_languages"
+        },
+        {
+          "text": "Gambian Sign Language",
+          "href": "https://en.wikipedia.org/wiki/Gambian_Sign_Language"
+        }
+      ],
+      "sub_items": [
+        "Mandinka",
+        "Pulaar",
+        "Wolof",
+        "Serer",
+        "Jola",
+        "English",
+        "Balanta",
+        "Arabic",
+        "Jola-Fonyi",
+        "Mandjak",
+        "Mankanya",
+        "Noon",
+        "Dyula",
+        "Soninke",
+        "Fula",
+        "Karon",
+        "Kassonke",
+        "Cangin",
+        "Gambian Sign Language"
+      ]
+    },
+    {
+      "label": "Ethnic groups (2024 Population and Housing Census)",
+      "value": "34.4% Mandinka 25.0% Fula 15.4% Wolof 9.5% Jola 8.2% Soninke 2.9% Serer 4.6% other",
+      "links": [
+        {
+          "text": "Mandinka",
+          "href": "https://en.wikipedia.org/wiki/Mandinka_people"
+        },
+        {
+          "text": "Fula",
+          "href": "https://en.wikipedia.org/wiki/Fula_people"
+        },
+        {
+          "text": "Wolof",
+          "href": "https://en.wikipedia.org/wiki/Wolof_people"
+        },
+        {
+          "text": "Jola",
+          "href": "https://en.wikipedia.org/wiki/Jola_people"
+        },
+        {
+          "text": "Soninke",
+          "href": "https://en.wikipedia.org/wiki/Soninke_people"
+        },
+        {
+          "text": "Serer",
+          "href": "https://en.wikipedia.org/wiki/Serer_people"
+        }
+      ],
+      "sub_items": [
+        "34.4% Mandinka",
+        "25.0% Fula",
+        "15.4% Wolof",
+        "9.5% Jola",
+        "8.2% Soninke",
+        "2.9% Serer",
+        "4.6% other"
+      ]
+    },
+    {
+      "label": "Religion (2024)",
+      "value": "95.7% Islam 4.2% Christianity 0.1% others",
+      "links": [
+        {
+          "text": "Islam",
+          "href": "https://en.wikipedia.org/wiki/Islam_in_the_Gambia"
+        },
+        {
+          "text": "Christianity",
+          "href": "https://en.wikipedia.org/wiki/Christianity_in_the_Gambia"
+        }
+      ],
+      "sub_items": [
+        "95.7% Islam",
+        "4.2% Christianity",
+        "0.1% others"
+      ]
+    },
+    {
+      "label": "Demonym",
+      "value": "Gambian",
+      "links": [
+        {
+          "text": "Gambian",
+          "href": "https://en.wikipedia.org/wiki/Gambian_people"
+        }
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Unitary presidential republic",
+      "links": [
+        {
+          "text": "presidential republic",
+          "href": "https://en.wikipedia.org/wiki/Presidential_republic"
+        }
+      ]
+    },
+    {
+      "label": "• President",
+      "value": "Adama Barrow",
+      "links": [
+        {
+          "text": "Adama Barrow",
+          "href": "https://en.wikipedia.org/wiki/Adama_Barrow"
+        }
+      ]
+    },
+    {
+      "label": "• Vice President",
+      "value": "Muhammad B. S. Jallow",
+      "links": [
+        {
+          "text": "Muhammad B. S. Jallow",
+          "href": "https://en.wikipedia.org/wiki/Muhammad_B._S._Jallow"
+        }
+      ]
+    },
+    {
+      "label": "• Speaker of the National Assembly",
+      "value": "Fabakary Tombong Jatta",
+      "links": [
+        {
+          "text": "Fabakary Tombong Jatta",
+          "href": "https://en.wikipedia.org/wiki/Fabakary_Tombong_Jatta"
+        }
+      ]
+    },
+    {
+      "label": "• Chief Justice",
+      "value": "Hassan Bubacar Jallow",
+      "links": [
+        {
+          "text": "Hassan Bubacar Jallow",
+          "href": "https://en.wikipedia.org/wiki/Hassan_Bubacar_Jallow"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "National Assembly",
+      "links": [
+        {
+          "text": "National Assembly",
+          "href": "https://en.wikipedia.org/wiki/National_Assembly_of_the_Gambia"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Independence",
+      "rows": [
+        {
+          "label": "• from the United Kingdom",
+          "value": "18 February 1965"
+        },
+        {
+          "label": "• dissolution of the Senegambia Confederation",
+          "value": "30 September 1989"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "11,300 km (4,400 sq mi) ( 159th )",
+          "links": [
+            {
+              "text": "159th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "11.5"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2024 census",
+          "value": "2,422,712 ( 142th )",
+          "links": [
+            {
+              "text": "142th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• Density",
+          "value": "227/km (587.9/sq mi) ( 51th )",
+          "links": [
+            {
+              "text": "51th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2026 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$11.050 billion ( 166th )",
+          "links": [
+            {
+              "text": "166th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$3,820 ( 175th )",
+          "links": [
+            {
+              "text": "175th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2026 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$2.670 billion ( 185th )",
+          "links": [
+            {
+              "text": "185th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$924 ( 180th )",
+          "links": [
+            {
+              "text": "180th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "Gini (2015)",
+          "value": "35.9 medium inequality"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.524 low ( 170th )",
+          "links": [
+            {
+              "text": "170th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "Gambian dalasi ( GMD )",
+          "links": [
+            {
+              "text": "Gambian dalasi",
+              "href": "https://en.wikipedia.org/wiki/Gambian_dalasi"
+            },
+            {
+              "text": "GMD",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC ±00:00 ( GMT )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "GMT",
+              "href": "https://en.wikipedia.org/wiki/Greenwich_Mean_Time"
+            }
+          ]
+        },
+        {
+          "label": "Calling code",
+          "value": "+220",
+          "links": [
+            {
+              "text": "+220",
+              "href": "https://en.wikipedia.org/wiki/%2B220"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "GM",
+          "links": [
+            {
+              "text": "GM",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:GM"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".gm",
+          "links": [
+            {
+              "text": ".gm",
+              "href": "https://en.wikipedia.org/wiki/.gm"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

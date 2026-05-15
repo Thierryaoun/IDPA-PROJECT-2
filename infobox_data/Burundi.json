@@ -1,0 +1,419 @@
+{
+  "country": "Burundi",
+  "infobox_title": "Republic of Burundi Repuburika y’Uburundi ( Kirundi ) République du Burundi ( French )",
+  "data": [
+    {
+      "label": "Capital",
+      "value": "Gitega 3°30′S 30°00′E ﻿ / ﻿ 3.500°S 30.000°E",
+      "links": [
+        {
+          "text": "Gitega",
+          "href": "https://en.wikipedia.org/wiki/Gitega"
+        },
+        {
+          "text": "3°30′S30°00′E﻿ / ﻿3.500°S 30.000°E",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Burundi&params=3_30_S_30_00_E_type:city"
+        }
+      ]
+    },
+    {
+      "label": "Largest city",
+      "value": "Bujumbura",
+      "links": [
+        {
+          "text": "Bujumbura",
+          "href": "https://en.wikipedia.org/wiki/Bujumbura"
+        }
+      ]
+    },
+    {
+      "label": "Official languages",
+      "value": "Kirundi French English",
+      "links": [
+        {
+          "text": "Kirundi",
+          "href": "https://en.wikipedia.org/wiki/Kirundi"
+        },
+        {
+          "text": "French",
+          "href": "https://en.wikipedia.org/wiki/Belgian_French"
+        },
+        {
+          "text": "English",
+          "href": "https://en.wikipedia.org/wiki/English_language"
+        }
+      ],
+      "sub_items": [
+        "Kirundi",
+        "French",
+        "English"
+      ]
+    },
+    {
+      "label": "Recognised national languages",
+      "value": "Kirundi"
+    },
+    {
+      "label": "Ethnic groups",
+      "value": "100% Barundi 85% Hutu 14% Tutsi 1% Twa ~1% other",
+      "links": [
+        {
+          "text": "Barundi",
+          "href": "https://en.wikipedia.org/wiki/Barundi"
+        },
+        {
+          "text": "Hutu",
+          "href": "https://en.wikipedia.org/wiki/Hutu"
+        },
+        {
+          "text": "Tutsi",
+          "href": "https://en.wikipedia.org/wiki/Tutsi"
+        },
+        {
+          "text": "Twa",
+          "href": "https://en.wikipedia.org/wiki/Twa"
+        }
+      ],
+      "sub_items": [
+        "100% Barundi",
+        "85% Hutu 14% Tutsi 1% Twa ~1% other",
+        "85% Hutu 14% Tutsi 1% Twa",
+        "85% Hutu",
+        "14% Tutsi",
+        "1% Twa",
+        "~1% other"
+      ]
+    },
+    {
+      "label": "Religion (2020)",
+      "value": "93.4% Christianity 63.7% Catholicism 25.2% Protestantism 4.5% other Christian 4.3% traditional faiths 2.1% Islam 0.2% other / none",
+      "links": [
+        {
+          "text": "Christianity",
+          "href": "https://en.wikipedia.org/wiki/Christianity_in_Africa"
+        },
+        {
+          "text": "Catholicism",
+          "href": "https://en.wikipedia.org/wiki/Catholic_Church_in_Burundi"
+        },
+        {
+          "text": "Protestantism",
+          "href": "https://en.wikipedia.org/wiki/Protestantism"
+        },
+        {
+          "text": "Christian",
+          "href": "https://en.wikipedia.org/wiki/Christian"
+        },
+        {
+          "text": "traditional faiths",
+          "href": "https://en.wikipedia.org/wiki/African_Traditional_Religion"
+        },
+        {
+          "text": "Islam",
+          "href": "https://en.wikipedia.org/wiki/Islam_in_Burundi"
+        },
+        {
+          "text": "other",
+          "href": "https://en.wikipedia.org/wiki/Religion_in_Burundi"
+        },
+        {
+          "text": "none",
+          "href": "https://en.wikipedia.org/wiki/Irreligion_in_Africa"
+        }
+      ],
+      "sub_items": [
+        "93.4% Christianity 63.7% Catholicism 25.2% Protestantism 4.5% other Christian",
+        "93.4% Christianity 63.7% Catholicism 25.2% Protestantism 4.5% other Christian",
+        "63.7% Catholicism",
+        "25.2% Protestantism",
+        "4.5% other Christian",
+        "4.3% traditional faiths",
+        "2.1% Islam",
+        "0.2% other / none"
+      ]
+    },
+    {
+      "label": "Demonym",
+      "value": "Burundian",
+      "links": [
+        {
+          "text": "Burundian",
+          "href": "https://en.wikipedia.org/wiki/Demographics_of_Burundi"
+        }
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Unitary dominant-party presidential republic under an authoritarian dictatorship",
+      "links": [
+        {
+          "text": "presidential republic",
+          "href": "https://en.wikipedia.org/wiki/Presidential_system"
+        },
+        {
+          "text": "authoritarian",
+          "href": "https://en.wikipedia.org/wiki/Authoritarianism"
+        }
+      ]
+    },
+    {
+      "label": "• President",
+      "value": "Évariste Ndayishimiye",
+      "links": [
+        {
+          "text": "Évariste Ndayishimiye",
+          "href": "https://en.wikipedia.org/wiki/%C3%89variste_Ndayishimiye"
+        }
+      ]
+    },
+    {
+      "label": "• Prime Minister",
+      "value": "Nestor Ntahontuye",
+      "links": [
+        {
+          "text": "Nestor Ntahontuye",
+          "href": "https://en.wikipedia.org/wiki/Nestor_Ntahontuye"
+        }
+      ]
+    },
+    {
+      "label": "• Vice President",
+      "value": "Prosper Bazombanza",
+      "links": [
+        {
+          "text": "Prosper Bazombanza",
+          "href": "https://en.wikipedia.org/wiki/Prosper_Bazombanza"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "Parliament",
+      "links": [
+        {
+          "text": "Parliament",
+          "href": "https://en.wikipedia.org/wiki/Parliament_of_Burundi"
+        }
+      ]
+    },
+    {
+      "label": "• Upper house",
+      "value": "Senate",
+      "links": [
+        {
+          "text": "Senate",
+          "href": "https://en.wikipedia.org/wiki/Senate_(Burundi)"
+        }
+      ]
+    },
+    {
+      "label": "• Lower house",
+      "value": "National Assembly",
+      "links": [
+        {
+          "text": "National Assembly",
+          "href": "https://en.wikipedia.org/wiki/National_Assembly_(Burundi)"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Establishment history",
+      "rows": [
+        {
+          "label": "• Kingdom of Urundi",
+          "value": "1680–1966"
+        },
+        {
+          "label": "• Part of German East Africa",
+          "value": "1890–1916"
+        },
+        {
+          "label": "• Part of Ruanda-Urundi",
+          "value": "1916–1962"
+        },
+        {
+          "label": "• Independence from Belgium",
+          "value": "1 July 1962"
+        },
+        {
+          "label": "• Republic",
+          "value": "28 November 1966"
+        },
+        {
+          "label": "• Burundian Civil War",
+          "value": "21 October 1993 – 15 May 2005"
+        },
+        {
+          "label": "• Current constitution",
+          "value": "17 May 2018"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "27,834 km (10,747 sq mi) ( 142nd )",
+          "links": [
+            {
+              "text": "142nd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "10"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2024 estimate",
+          "value": "14,151,540 ( 78th )",
+          "links": [
+            {
+              "text": "78th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• Density",
+          "value": "565/km (1,463.3/sq mi) ( 25th )",
+          "links": [
+            {
+              "text": "25th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$13.980 billion ( 161th )",
+          "links": [
+            {
+              "text": "161th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$1,020 ( 185th )",
+          "links": [
+            {
+              "text": "185th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$6.750 billion ( 157th )",
+          "links": [
+            {
+              "text": "157th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$489 ( 186th )",
+          "links": [
+            {
+              "text": "186th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "Gini (2020)",
+          "value": "37.5 medium inequality"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.439 low ( 187th )",
+          "links": [
+            {
+              "text": "187th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "Burundian franc (FBu) ( BIF )",
+          "links": [
+            {
+              "text": "Burundian franc",
+              "href": "https://en.wikipedia.org/wiki/Burundian_franc"
+            },
+            {
+              "text": "BIF",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC +2 ( CAT )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "CAT",
+              "href": "https://en.wikipedia.org/wiki/Central_Africa_Time"
+            }
+          ]
+        },
+        {
+          "label": "Calling code",
+          "value": "+257",
+          "links": [
+            {
+              "text": "+257",
+              "href": "https://en.wikipedia.org/wiki/%2B257"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "BI",
+          "links": [
+            {
+              "text": "BI",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:BI"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".bi",
+          "links": [
+            {
+              "text": ".bi",
+              "href": "https://en.wikipedia.org/wiki/.bi"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

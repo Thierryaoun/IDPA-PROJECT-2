@@ -1,0 +1,433 @@
+{
+  "country": "Denmark",
+  "infobox_title": "Kingdom of Denmark Kongeriget Danmark ( Danish ) Kongsríki Danmarkar ( Faroese ) Kunngeqarfik Danmarki ( Greenlandic )",
+  "data": [
+    {
+      "label": "Capital and largest city",
+      "value": "Copenhagen",
+      "links": [
+        {
+          "text": "Copenhagen",
+          "href": "https://en.wikipedia.org/wiki/Copenhagen"
+        }
+      ]
+    },
+    {
+      "label": "Official languages",
+      "value": "Danish ; locally: Faroese Greenlandic",
+      "links": [
+        {
+          "text": "Danish",
+          "href": "https://en.wikipedia.org/wiki/Danish_language"
+        },
+        {
+          "text": "Faroese",
+          "href": "https://en.wikipedia.org/wiki/Faroese_language"
+        },
+        {
+          "text": "Greenlandic",
+          "href": "https://en.wikipedia.org/wiki/Greenlandic_language"
+        }
+      ],
+      "sub_items": [
+        "Faroese",
+        "Greenlandic"
+      ]
+    },
+    {
+      "label": "Recognised regional languages",
+      "value": "German",
+      "links": [
+        {
+          "text": "German",
+          "href": "https://en.wikipedia.org/wiki/German_language"
+        }
+      ]
+    },
+    {
+      "label": "Demonyms",
+      "value": "Danish ; locally: Greenlander Faroe Islander",
+      "links": [
+        {
+          "text": "Danish",
+          "href": "https://en.wikipedia.org/wiki/Danes"
+        },
+        {
+          "text": "Greenlander",
+          "href": "https://en.wikipedia.org/wiki/Greenlanders"
+        },
+        {
+          "text": "Faroe Islander",
+          "href": "https://en.wikipedia.org/wiki/Faroe_Islander"
+        }
+      ],
+      "sub_items": [
+        "Greenlander",
+        "Faroe Islander"
+      ]
+    },
+    {
+      "label": "Constituent territories (non‑sovereign parts)",
+      "value": "Denmark (main) and separate parts: Faroe Islands Greenland",
+      "links": [
+        {
+          "text": "Denmark",
+          "href": "https://en.wikipedia.org/wiki/Denmark"
+        },
+        {
+          "text": "Faroe Islands",
+          "href": "https://en.wikipedia.org/wiki/Faroe_Islands"
+        },
+        {
+          "text": "Greenland",
+          "href": "https://en.wikipedia.org/wiki/Greenland"
+        }
+      ],
+      "sub_items": [
+        "Faroe Islands",
+        "Greenland"
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Unitary parliamentary constitutional monarchy",
+      "links": [
+        {
+          "text": "Unitary",
+          "href": "https://en.wikipedia.org/wiki/Unitary_state"
+        },
+        {
+          "text": "constitutional monarchy",
+          "href": "https://en.wikipedia.org/wiki/Constitutional_monarchy"
+        }
+      ]
+    },
+    {
+      "label": "• Monarch",
+      "value": "Frederik X",
+      "links": [
+        {
+          "text": "Frederik X",
+          "href": "https://en.wikipedia.org/wiki/Frederik_X"
+        }
+      ]
+    },
+    {
+      "label": "• Prime Minister",
+      "value": "Mette Frederiksen",
+      "links": [
+        {
+          "text": "Mette Frederiksen",
+          "href": "https://en.wikipedia.org/wiki/Mette_Frederiksen"
+        }
+      ]
+    },
+    {
+      "label": "• Prime Minister of the Faroe Islands",
+      "value": "Aksel V. Johannesen",
+      "links": [
+        {
+          "text": "Aksel V. Johannesen",
+          "href": "https://en.wikipedia.org/wiki/Aksel_V._Johannesen"
+        }
+      ]
+    },
+    {
+      "label": "• Prime Minister of Greenland",
+      "value": "Jens Frederik Nielsen",
+      "links": [
+        {
+          "text": "Jens Frederik Nielsen",
+          "href": "https://en.wikipedia.org/wiki/Jens_Frederik_Nielsen"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "Folketing , with some authority devolved to Løgting ( Faroe Islands ) and Inatsisartut ( Greenland )",
+      "links": [
+        {
+          "text": "Folketing",
+          "href": "https://en.wikipedia.org/wiki/Folketing"
+        },
+        {
+          "text": "devolved",
+          "href": "https://en.wikipedia.org/wiki/Devolved"
+        },
+        {
+          "text": "Løgting",
+          "href": "https://en.wikipedia.org/wiki/L%C3%B8gting"
+        },
+        {
+          "text": "Faroe Islands",
+          "href": "https://en.wikipedia.org/wiki/Faroe_Islands"
+        },
+        {
+          "text": "Inatsisartut",
+          "href": "https://en.wikipedia.org/wiki/Inatsisartut"
+        },
+        {
+          "text": "Greenland",
+          "href": "https://en.wikipedia.org/wiki/Greenland"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "History",
+      "rows": [
+        {
+          "label": "• Unification",
+          "value": "c. 965"
+        },
+        {
+          "label": "• Faroese home rule",
+          "value": "24 March 1948"
+        },
+        {
+          "label": "• Greenlandic home rule",
+          "value": "1 May 1979"
+        },
+        {
+          "label": "• Faroese takeover act",
+          "value": "29 July 2005"
+        },
+        {
+          "label": "• Greenlandic self rule",
+          "value": "21 June 2009"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Denmark",
+          "value": "42,926 km (16,574 sq mi) ( 12th )",
+          "links": [
+            {
+              "text": "12th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Faroe Islands",
+          "value": "1,396 km (538.999 sq mi)"
+        },
+        {
+          "label": "• Greenland",
+          "value": "2,166,086 km (836,330 sq mi)"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• Q2 2023 estimate",
+          "value": "6,049,579 ( 112th )",
+          "links": [
+            {
+              "text": "112th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• Denmark",
+          "value": "5,941,388"
+        },
+        {
+          "label": "• Greenland and Faroe Islands",
+          "value": "108,191"
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2022 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "€380 billion"
+        },
+        {
+          "label": "• Per capita",
+          "value": "€62,814"
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2019-2024 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$418.659 billion"
+        },
+        {
+          "label": "• Per capita",
+          "value": "$69,205"
+        },
+        {
+          "label": "HDI (2021)",
+          "value": "0.948 very high"
+        },
+        {
+          "label": "Currency",
+          "value": "Danish krone ( DKK ) Faroese króna",
+          "links": [
+            {
+              "text": "Danish krone",
+              "href": "https://en.wikipedia.org/wiki/Danish_krone"
+            },
+            {
+              "text": "DKK",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            },
+            {
+              "text": "Faroese króna",
+              "href": "https://en.wikipedia.org/wiki/Faroese_kr%C3%B3na"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "List UTC +1 ( CET ) (Denmark) UTC ( WET ) (Faroe Islands) UTC-4 to 0 ( AST , WGT , EGT , GMT ) (Greenland)",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "CET",
+              "href": "https://en.wikipedia.org/wiki/Central_European_Time"
+            },
+            {
+              "text": "WET",
+              "href": "https://en.wikipedia.org/wiki/Western_European_Time"
+            },
+            {
+              "text": "AST",
+              "href": "https://en.wikipedia.org/wiki/Atlantic_Time_Zone"
+            },
+            {
+              "text": "WGT",
+              "href": "https://en.wikipedia.org/wiki/West_Greenland_Time"
+            },
+            {
+              "text": "EGT",
+              "href": "https://en.wikipedia.org/wiki/East_Greenland_Time"
+            },
+            {
+              "text": "GMT",
+              "href": "https://en.wikipedia.org/wiki/Greenwich_Mean_Time"
+            }
+          ],
+          "sub_items": [
+            "UTC +1 ( CET ) (Denmark)",
+            "UTC ( WET ) (Faroe Islands)",
+            "UTC-4 to 0 ( AST , WGT , EGT , GMT ) (Greenland)"
+          ]
+        },
+        {
+          "label": "• Summer ( DST )",
+          "value": "List UTC+2 ( CEST ) (Denmark) UTC+1 ( WEST ) (Faroe Islands) UTC-3 to 0 ( ADT , WGST , EGST , GMT) (Greenland)",
+          "links": [
+            {
+              "text": "CEST",
+              "href": "https://en.wikipedia.org/wiki/Central_European_Summer_Time"
+            },
+            {
+              "text": "WEST",
+              "href": "https://en.wikipedia.org/wiki/Western_European_Summer_Time"
+            },
+            {
+              "text": "ADT",
+              "href": "https://en.wikipedia.org/wiki/Atlantic_Time_Zone"
+            },
+            {
+              "text": "WGST",
+              "href": "https://en.wikipedia.org/wiki/West_Greenland_Summer_Time"
+            },
+            {
+              "text": "EGST",
+              "href": "https://en.wikipedia.org/wiki/East_Greenland_Summer_Time"
+            }
+          ],
+          "sub_items": [
+            "UTC+2 ( CEST ) (Denmark)",
+            "UTC+1 ( WEST ) (Faroe Islands)",
+            "UTC-3 to 0 ( ADT , WGST , EGST , GMT) (Greenland)"
+          ]
+        },
+        {
+          "label": "Calling code",
+          "value": "3 codes +45 ( Denmark ) +298 ( Faroe Islands ) +299 ( Greenland )",
+          "links": [
+            {
+              "text": "+45",
+              "href": "https://en.wikipedia.org/wiki/%2B45"
+            },
+            {
+              "text": "Denmark",
+              "href": "https://en.wikipedia.org/wiki/Telephone_numbers_in_Denmark"
+            },
+            {
+              "text": "+298",
+              "href": "https://en.wikipedia.org/wiki/%2B298"
+            },
+            {
+              "text": "Faroe Islands",
+              "href": "https://en.wikipedia.org/wiki/Telephone_numbers_in_the_Faroe_Islands"
+            },
+            {
+              "text": "+299",
+              "href": "https://en.wikipedia.org/wiki/%2B299"
+            },
+            {
+              "text": "Greenland",
+              "href": "https://en.wikipedia.org/wiki/Telephone_numbers_in_Greenland"
+            }
+          ],
+          "sub_items": [
+            "+45 ( Denmark )",
+            "+298 ( Faroe Islands )",
+            "+299 ( Greenland )"
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "DK",
+          "links": [
+            {
+              "text": "DK",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:DK"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": "3 TLDs .dk (Denmark) .fo (Faroe Islands) .gl (Greenland)",
+          "links": [
+            {
+              "text": ".dk",
+              "href": "https://en.wikipedia.org/wiki/.dk"
+            },
+            {
+              "text": ".fo",
+              "href": "https://en.wikipedia.org/wiki/.fo"
+            },
+            {
+              "text": ".gl",
+              "href": "https://en.wikipedia.org/wiki/.gl"
+            }
+          ],
+          "sub_items": [
+            ".dk (Denmark)",
+            ".fo (Faroe Islands)",
+            ".gl (Greenland)"
+          ]
+        }
+      ]
+    }
+  ]
+}

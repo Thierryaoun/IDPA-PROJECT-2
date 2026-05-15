@@ -1,0 +1,395 @@
+{
+  "country": "Liechtenstein",
+  "infobox_title": "Principality of Liechtenstein Fürstentum Liechtenstein ( German )",
+  "data": [
+    {
+      "label": "Capital",
+      "value": "Vaduz",
+      "links": [
+        {
+          "text": "Vaduz",
+          "href": "https://en.wikipedia.org/wiki/Vaduz"
+        }
+      ]
+    },
+    {
+      "label": "Largest municipality",
+      "value": "Schaan 47°10′00″N 9°30′35″E ﻿ / ﻿ 47.16667°N 9.50972°E",
+      "links": [
+        {
+          "text": "Schaan",
+          "href": "https://en.wikipedia.org/wiki/Schaan"
+        },
+        {
+          "text": "47°10′00″N9°30′35″E﻿ / ﻿47.16667°N 9.50972°E",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Liechtenstein&params=47_10_00_N_9_30_35_E_"
+        }
+      ]
+    },
+    {
+      "label": "Official languages",
+      "value": "German",
+      "links": [
+        {
+          "text": "German",
+          "href": "https://en.wikipedia.org/wiki/Swiss_Standard_German"
+        }
+      ]
+    },
+    {
+      "label": "Nationality (2017)",
+      "value": "66.2 % Liechtensteiners 9.5 % Swiss 5.8 % Austrians 4.2 % Germans 3.1 % Italians 1.9 % Portuguese 1.6 % Turks 1.1 % Albanians 1.0 % Spaniards 5.6 % other",
+      "links": [
+        {
+          "text": "Liechtensteiners",
+          "href": "https://en.wikipedia.org/wiki/Liechtensteiners"
+        },
+        {
+          "text": "Swiss",
+          "href": "https://en.wikipedia.org/wiki/Swiss_people"
+        },
+        {
+          "text": "Austrians",
+          "href": "https://en.wikipedia.org/wiki/Austrians"
+        },
+        {
+          "text": "Germans",
+          "href": "https://en.wikipedia.org/wiki/Germans"
+        },
+        {
+          "text": "Italians",
+          "href": "https://en.wikipedia.org/wiki/Italians"
+        },
+        {
+          "text": "Portuguese",
+          "href": "https://en.wikipedia.org/wiki/Portuguese_people"
+        },
+        {
+          "text": "Turks",
+          "href": "https://en.wikipedia.org/wiki/Turkish_people"
+        },
+        {
+          "text": "Albanians",
+          "href": "https://en.wikipedia.org/wiki/Albanians"
+        },
+        {
+          "text": "Spaniards",
+          "href": "https://en.wikipedia.org/wiki/Spaniards"
+        },
+        {
+          "text": "other",
+          "href": "https://en.wikipedia.org/wiki/Demographics_of_Liechtenstein#Ethnic_groups"
+        }
+      ],
+      "sub_items": [
+        "66.2 % Liechtensteiners",
+        "9.5 % Swiss",
+        "5.8 % Austrians",
+        "4.2 % Germans",
+        "3.1 % Italians",
+        "1.9 % Portuguese",
+        "1.6 % Turks",
+        "1.1 % Albanians",
+        "1.0 % Spaniards",
+        "5.6 % other"
+      ]
+    },
+    {
+      "label": "Religion (2020)",
+      "value": "79.4 % Christianity 69.6 % Catholicism ( official ) 9.8 % other Christian 9.6 % no religion 6.0 % Islam 5.0 % other",
+      "links": [
+        {
+          "text": "Christianity",
+          "href": "https://en.wikipedia.org/wiki/Christianity"
+        },
+        {
+          "text": "Catholicism",
+          "href": "https://en.wikipedia.org/wiki/Catholic_Church_in_Liechtenstein"
+        },
+        {
+          "text": "official",
+          "href": "https://en.wikipedia.org/wiki/State_religion"
+        },
+        {
+          "text": "Christian",
+          "href": "https://en.wikipedia.org/wiki/List_of_Christian_denominations"
+        },
+        {
+          "text": "no religion",
+          "href": "https://en.wikipedia.org/wiki/Irreligion"
+        },
+        {
+          "text": "Islam",
+          "href": "https://en.wikipedia.org/wiki/Islam_in_Liechtenstein"
+        },
+        {
+          "text": "other",
+          "href": "https://en.wikipedia.org/wiki/Religion_in_Liechtenstein"
+        }
+      ],
+      "sub_items": [
+        "79.4 % Christianity 69.6 % Catholicism ( official ) 9.8 % other Christian",
+        "69.6 % Catholicism ( official )",
+        "9.8 % other Christian",
+        "9.6 % no religion",
+        "6.0 % Islam",
+        "5.0 % other"
+      ]
+    },
+    {
+      "label": "Demonym",
+      "value": "Liechtensteiner",
+      "links": [
+        {
+          "text": "Liechtensteiner",
+          "href": "https://en.wikipedia.org/wiki/Liechtensteiner"
+        }
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Unitary parliamentary semi- constitutional monarchy with elements of a direct democracy",
+      "links": [
+        {
+          "text": "constitutional monarchy",
+          "href": "https://en.wikipedia.org/wiki/Constitutional_monarchy"
+        },
+        {
+          "text": "direct democracy",
+          "href": "https://en.wikipedia.org/wiki/Direct_democracy"
+        }
+      ]
+    },
+    {
+      "label": "• Monarch",
+      "value": "Hans-Adam II",
+      "links": [
+        {
+          "text": "Hans-Adam II",
+          "href": "https://en.wikipedia.org/wiki/Hans-Adam_II,_Prince_of_Liechtenstein"
+        }
+      ]
+    },
+    {
+      "label": "• Regent and Heir Apparent",
+      "value": "Alois",
+      "links": [
+        {
+          "text": "Alois",
+          "href": "https://en.wikipedia.org/wiki/Alois,_Hereditary_Prince_of_Liechtenstein"
+        }
+      ]
+    },
+    {
+      "label": "• Prime Minister",
+      "value": "Brigitte Haas",
+      "links": [
+        {
+          "text": "Brigitte Haas",
+          "href": "https://en.wikipedia.org/wiki/Brigitte_Haas"
+        }
+      ]
+    },
+    {
+      "label": "• Deputy Prime Minister",
+      "value": "Sabine Monauni",
+      "links": [
+        {
+          "text": "Sabine Monauni",
+          "href": "https://en.wikipedia.org/wiki/Sabine_Monauni"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "Landtag",
+      "links": [
+        {
+          "text": "Landtag",
+          "href": "https://en.wikipedia.org/wiki/Landtag_of_Liechtenstein"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Independence as principality",
+      "rows": [
+        {
+          "label": "• Union between Vaduz and Schellenberg",
+          "value": "23 January 1719"
+        },
+        {
+          "label": "• Treaty of Pressburg",
+          "value": "12 July 1806"
+        },
+        {
+          "label": "• Separation from German Confederation",
+          "value": "23 August 1866"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "160.50 km (61.97 sq mi) ( 190th )",
+          "links": [
+            {
+              "text": "190th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "2.7"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2023 estimate",
+          "value": "41,232 ( 189th )",
+          "links": [
+            {
+              "text": "189th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• Density",
+          "value": "249/km (644.9/sq mi) ( 56th )",
+          "links": [
+            {
+              "text": "56th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2024 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$7.172 billion ( 169th )",
+          "links": [
+            {
+              "text": "169th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$210,600"
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2023 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$8.288 billion ( 155th )",
+          "links": [
+            {
+              "text": "155th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$207,974"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.938 very high ( 17th )",
+          "links": [
+            {
+              "text": "17th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "Swiss franc ( CHF )",
+          "links": [
+            {
+              "text": "Swiss franc",
+              "href": "https://en.wikipedia.org/wiki/Swiss_franc"
+            },
+            {
+              "text": "CHF",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC +01:00 ( CET )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "CET",
+              "href": "https://en.wikipedia.org/wiki/Central_European_Time"
+            }
+          ]
+        },
+        {
+          "label": "• Summer ( DST )",
+          "value": "UTC +02:00 ( CEST )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "CEST",
+              "href": "https://en.wikipedia.org/wiki/Central_European_Time"
+            }
+          ]
+        },
+        {
+          "label": "Calling code",
+          "value": "+423",
+          "links": [
+            {
+              "text": "+423",
+              "href": "https://en.wikipedia.org/wiki/Telephone_numbers_in_Liechtenstein"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "LI",
+          "links": [
+            {
+              "text": "LI",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:LI"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".li",
+          "links": [
+            {
+              "text": ".li",
+              "href": "https://en.wikipedia.org/wiki/.li"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

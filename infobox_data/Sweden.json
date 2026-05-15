@@ -1,0 +1,328 @@
+{
+  "country": "Sweden",
+  "infobox_title": "Kingdom of Sweden Konungariket Sverige ( Swedish )",
+  "data": [
+    {
+      "label": "Capital and largest city",
+      "value": "Stockholm 59°21′N 18°4′E ﻿ / ﻿ 59.350°N 18.067°E",
+      "links": [
+        {
+          "text": "Stockholm",
+          "href": "https://en.wikipedia.org/wiki/Stockholm"
+        },
+        {
+          "text": "59°21′N18°4′E﻿ / ﻿59.350°N 18.067°E",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Sweden&params=59_21_N_18_4_E_type:city"
+        }
+      ]
+    },
+    {
+      "label": "Official languages",
+      "value": "Swedish",
+      "links": [
+        {
+          "text": "Swedish",
+          "href": "https://en.wikipedia.org/wiki/Swedish_language"
+        }
+      ]
+    },
+    {
+      "label": "National minority languages",
+      "value": "Sámi Finnish Meänkieli Romani Yiddish",
+      "links": [
+        {
+          "text": "Sámi",
+          "href": "https://en.wikipedia.org/wiki/S%C3%A1mi_languages"
+        },
+        {
+          "text": "Finnish",
+          "href": "https://en.wikipedia.org/wiki/Finnish_language"
+        },
+        {
+          "text": "Meänkieli",
+          "href": "https://en.wikipedia.org/wiki/Me%C3%A4nkieli"
+        },
+        {
+          "text": "Romani",
+          "href": "https://en.wikipedia.org/wiki/Romani_language"
+        },
+        {
+          "text": "Yiddish",
+          "href": "https://en.wikipedia.org/wiki/Yiddish"
+        }
+      ],
+      "sub_items": [
+        "Sámi",
+        "Finnish",
+        "Meänkieli",
+        "Romani",
+        "Yiddish"
+      ]
+    },
+    {
+      "label": "Demonyms",
+      "value": "Swedish Swede",
+      "links": [
+        {
+          "text": "Swedish",
+          "href": "https://en.wikipedia.org/wiki/Swedes"
+        },
+        {
+          "text": "Swede",
+          "href": "https://en.wikipedia.org/wiki/Swedes"
+        }
+      ],
+      "sub_items": [
+        "Swedish",
+        "Swede"
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Unitary parliamentary constitutional monarchy",
+      "links": [
+        {
+          "text": "constitutional monarchy",
+          "href": "https://en.wikipedia.org/wiki/Constitutional_monarchy"
+        }
+      ]
+    },
+    {
+      "label": "• Monarch",
+      "value": "Carl XVI Gustaf",
+      "links": [
+        {
+          "text": "Carl XVI Gustaf",
+          "href": "https://en.wikipedia.org/wiki/Carl_XVI_Gustaf"
+        }
+      ]
+    },
+    {
+      "label": "• Riksdag Speaker",
+      "value": "Andreas Norlén",
+      "links": [
+        {
+          "text": "Andreas Norlén",
+          "href": "https://en.wikipedia.org/wiki/Andreas_Norl%C3%A9n"
+        }
+      ]
+    },
+    {
+      "label": "• Prime Minister",
+      "value": "Ulf Kristersson",
+      "links": [
+        {
+          "text": "Ulf Kristersson",
+          "href": "https://en.wikipedia.org/wiki/Ulf_Kristersson"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "Riksdag",
+      "links": [
+        {
+          "text": "Riksdag",
+          "href": "https://en.wikipedia.org/wiki/Riksdag"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "History",
+      "rows": [
+        {
+          "label": "• A unified Swedish kingdom established",
+          "value": "By the late 10th century"
+        },
+        {
+          "label": "• Part of the Kalmar Union",
+          "value": "17 June 1397 – 6 June 1523"
+        },
+        {
+          "label": "• Swedish Empire",
+          "value": "1611–1721"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "450,295 km (173,860 sq mi) ( 55th )",
+          "links": [
+            {
+              "text": "55th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "8.97 (2022)"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• October 2025 estimate",
+          "value": "10,610,485 ( 90th )",
+          "links": [
+            {
+              "text": "90th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• Density",
+          "value": "25/km (64.7/sq mi) ( 198th )",
+          "links": [
+            {
+              "text": "198th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$799.68 billion ( 41st )",
+          "links": [
+            {
+              "text": "41st",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$74,900 ( 17th )",
+          "links": [
+            {
+              "text": "17th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$620.30 billion ( 24th )",
+          "links": [
+            {
+              "text": "24th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$58,100 ( 14th )",
+          "links": [
+            {
+              "text": "14th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "Gini (2022)",
+          "value": "27.6 low inequality"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.959 very high ( 5th )",
+          "links": [
+            {
+              "text": "5th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "Swedish krona ( SEK )",
+          "links": [
+            {
+              "text": "Swedish krona",
+              "href": "https://en.wikipedia.org/wiki/Swedish_krona"
+            },
+            {
+              "text": "SEK",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC +1 ( CET )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "CET",
+              "href": "https://en.wikipedia.org/wiki/Central_European_Time"
+            }
+          ]
+        },
+        {
+          "label": "• Summer ( DST )",
+          "value": "UTC +2 ( CEST )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "CEST",
+              "href": "https://en.wikipedia.org/wiki/Central_European_Summer_Time"
+            }
+          ]
+        },
+        {
+          "label": "Calling code",
+          "value": "+46",
+          "links": [
+            {
+              "text": "+46",
+              "href": "https://en.wikipedia.org/wiki/%2B46"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "SE",
+          "links": [
+            {
+              "text": "SE",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:SE"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".se",
+          "links": [
+            {
+              "text": ".se",
+              "href": "https://en.wikipedia.org/wiki/.se"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

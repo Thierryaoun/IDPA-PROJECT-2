@@ -1,0 +1,417 @@
+{
+  "label": "country",
+  "children": [
+    {
+      "label": "name",
+      "children": [
+        {
+          "label": "guyana"
+        }
+      ]
+    },
+    {
+      "label": "infobox_title",
+      "children": [
+        {
+          "label": "co-operative republic of guyana"
+        }
+      ]
+    },
+    {
+      "label": "capital_and_largest_city",
+      "children": [
+        {
+          "label": "georgetown / 6."
+        }
+      ]
+    },
+    {
+      "label": "official_languages",
+      "children": [
+        {
+          "label": "english"
+        }
+      ]
+    },
+    {
+      "label": "recognised_regional_languages",
+      "children": [
+        {
+          "label": "akawaio"
+        },
+        {
+          "label": "macushi"
+        },
+        {
+          "label": "waiwai"
+        },
+        {
+          "label": "arawak"
+        },
+        {
+          "label": "patamona"
+        },
+        {
+          "label": "warao"
+        },
+        {
+          "label": "carib"
+        },
+        {
+          "label": "wapishana"
+        },
+        {
+          "label": "pemon"
+        },
+        {
+          "label": "mawayana"
+        }
+      ]
+    },
+    {
+      "label": "vernacular_language",
+      "children": [
+        {
+          "label": "guyanese creole"
+        }
+      ]
+    },
+    {
+      "label": "other_languages",
+      "children": [
+        {
+          "label": "guyanese hindustani portuguese dutch spanish chinese"
+        },
+        {
+          "label": "guyanese hindustani"
+        },
+        {
+          "label": "portuguese"
+        },
+        {
+          "label": "dutch"
+        },
+        {
+          "label": "spanish"
+        },
+        {
+          "label": "chinese"
+        }
+      ]
+    },
+    {
+      "label": "ethnic_groups_2012",
+      "children": [
+        {
+          "label": "39.8% indian"
+        },
+        {
+          "label": "29.2% african"
+        },
+        {
+          "label": "19.9% mixed"
+        },
+        {
+          "label": "10.5% indigenous"
+        },
+        {
+          "label": "0.3% european"
+        },
+        {
+          "label": "0.2% chinese"
+        }
+      ]
+    },
+    {
+      "label": "religion_2024",
+      "children": [
+        {
+          "label": "55.5% christianity"
+        },
+        {
+          "label": "31.0% hinduism"
+        },
+        {
+          "label": "9.5% islam"
+        },
+        {
+          "label": "4.2% no religion"
+        },
+        {
+          "label": "3.3% others"
+        }
+      ]
+    },
+    {
+      "label": "demonym",
+      "children": [
+        {
+          "label": "guyanese"
+        }
+      ]
+    },
+    {
+      "label": "government",
+      "children": [
+        {
+          "label": "unitary parliamentary republic with an executive presidency"
+        }
+      ]
+    },
+    {
+      "label": "president",
+      "children": [
+        {
+          "label": "irfaan ali"
+        }
+      ]
+    },
+    {
+      "label": "prime_minister_first_vice_president",
+      "children": [
+        {
+          "label": "mark phillips"
+        }
+      ]
+    },
+    {
+      "label": "second_vice_president",
+      "children": [
+        {
+          "label": "bharrat jagdeo"
+        }
+      ]
+    },
+    {
+      "label": "speaker_of_the_national_assembly",
+      "children": [
+        {
+          "label": "manzoor nadir"
+        }
+      ]
+    },
+    {
+      "label": "acting_chief_justice",
+      "children": [
+        {
+          "label": "roxane george-wiltshire"
+        }
+      ]
+    },
+    {
+      "label": "legislature",
+      "children": [
+        {
+          "label": "national assembly"
+        }
+      ]
+    },
+    {
+      "label": "establishment",
+      "children": [
+        {
+          "label": "dutch_control",
+          "children": [
+            {
+              "label": "1667–1815"
+            }
+          ]
+        },
+        {
+          "label": "british_guiana",
+          "children": [
+            {
+              "label": "1831–1966"
+            }
+          ]
+        },
+        {
+          "label": "independence_from_the_united_kingdom_as_guyana",
+          "children": [
+            {
+              "label": "26 may 1966"
+            }
+          ]
+        },
+        {
+          "label": "republic",
+          "children": [
+            {
+              "label": "23 february 1970"
+            }
+          ]
+        },
+        {
+          "label": "joined_caricom_at_the_treaty_of_chaguaramas",
+          "children": [
+            {
+              "label": "1 august 1973"
+            }
+          ]
+        },
+        {
+          "label": "current_constitution",
+          "children": [
+            {
+              "label": "6 october 1980"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "area",
+      "children": [
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "214,969 km"
+            }
+          ]
+        },
+        {
+          "label": "water",
+          "children": [
+            {
+              "label": "8.4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "population",
+      "children": [
+        {
+          "label": "2025_estimate",
+          "children": [
+            {
+              "label": "950,986"
+            }
+          ]
+        },
+        {
+          "label": "density",
+          "children": [
+            {
+              "label": "4.25/km"
+            }
+          ]
+        },
+        {
+          "label": "gdp_ppp",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$75.294 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$94,258"
+            }
+          ]
+        },
+        {
+          "label": "gdp_nominal",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$25.822 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$32,326"
+            }
+          ]
+        },
+        {
+          "label": "gini_2007",
+          "children": [
+            {
+              "label": "44.6 medium inequality"
+            }
+          ]
+        },
+        {
+          "label": "hdi_2023",
+          "children": [
+            {
+              "label": "0.776 high"
+            }
+          ]
+        },
+        {
+          "label": "currency",
+          "children": [
+            {
+              "label": "guyanese dollar"
+            }
+          ]
+        },
+        {
+          "label": "time_zone",
+          "children": [
+            {
+              "label": "utc -04:00"
+            }
+          ]
+        },
+        {
+          "label": "date_format",
+          "children": [
+            {
+              "label": "dd-mm-yyyy"
+            }
+          ]
+        },
+        {
+          "label": "calling_code",
+          "children": [
+            {
+              "label": "+592"
+            }
+          ]
+        },
+        {
+          "label": "iso_3166_code",
+          "children": [
+            {
+              "label": "gy"
+            }
+          ]
+        },
+        {
+          "label": "internet_tld",
+          "children": [
+            {
+              "label": ".gy"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

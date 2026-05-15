@@ -1,0 +1,333 @@
+{
+  "label": "country",
+  "children": [
+    {
+      "label": "name",
+      "children": [
+        {
+          "label": "monaco"
+        }
+      ]
+    },
+    {
+      "label": "infobox_title",
+      "children": [
+        {
+          "label": "principality of monaco principauté de monaco prinçipatu de mùnegu principato di monaco"
+        }
+      ]
+    },
+    {
+      "label": "capital",
+      "children": [
+        {
+          "label": "monaco / 43."
+        }
+      ]
+    },
+    {
+      "label": "largest_quarter",
+      "children": [
+        {
+          "label": "monte carlo"
+        }
+      ]
+    },
+    {
+      "label": "official_languages",
+      "children": [
+        {
+          "label": "french"
+        }
+      ]
+    },
+    {
+      "label": "common_languages",
+      "children": [
+        {
+          "label": "italian"
+        },
+        {
+          "label": "monégasque"
+        },
+        {
+          "label": "ligurian"
+        }
+      ]
+    },
+    {
+      "label": "ethnic_groups",
+      "children": [
+        {
+          "label": "monégasques"
+        },
+        {
+          "label": "french"
+        },
+        {
+          "label": "italians"
+        },
+        {
+          "label": "occitans"
+        }
+      ]
+    },
+    {
+      "label": "religion",
+      "children": [
+        {
+          "label": "86.0% christianity"
+        },
+        {
+          "label": "80.9% catholicism"
+        },
+        {
+          "label": "5.1% other christian"
+        },
+        {
+          "label": "11.7% no religion"
+        },
+        {
+          "label": "1.7% judaism"
+        },
+        {
+          "label": "0.4% islam"
+        },
+        {
+          "label": "0.2% other"
+        }
+      ]
+    },
+    {
+      "label": "demonym",
+      "children": [
+        {
+          "label": "monégasque"
+        }
+      ]
+    },
+    {
+      "label": "government",
+      "children": [
+        {
+          "label": "unitary parliamentary semi- constitutional monarchy"
+        }
+      ]
+    },
+    {
+      "label": "monarch",
+      "children": [
+        {
+          "label": "albert ii"
+        }
+      ]
+    },
+    {
+      "label": "minister_of_state",
+      "children": [
+        {
+          "label": "christophe mirmand"
+        }
+      ]
+    },
+    {
+      "label": "legislature",
+      "children": [
+        {
+          "label": "national council"
+        }
+      ]
+    },
+    {
+      "label": "independence",
+      "children": [
+        {
+          "label": "house_of_grimaldi_under_the_sovereignty_of_the_republic_of_genoa",
+          "children": [
+            {
+              "label": "8 january 1297"
+            }
+          ]
+        },
+        {
+          "label": "from_the_french_empire",
+          "children": [
+            {
+              "label": "17 may 1814"
+            }
+          ]
+        },
+        {
+          "label": "from_occupation_of_the_sixth_coalition",
+          "children": [
+            {
+              "label": "17 june 1814"
+            }
+          ]
+        },
+        {
+          "label": "franco_monégasque_treaty",
+          "children": [
+            {
+              "label": "11 february 1861"
+            }
+          ]
+        },
+        {
+          "label": "constitution",
+          "children": [
+            {
+              "label": "5 january 1911"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "area",
+      "children": [
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "2.084 km"
+            }
+          ]
+        },
+        {
+          "label": "water",
+          "children": [
+            {
+              "label": "negligible"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "population",
+      "children": [
+        {
+          "label": "2024_census",
+          "children": [
+            {
+              "label": "38,423"
+            }
+          ]
+        },
+        {
+          "label": "density",
+          "children": [
+            {
+              "label": "18,446/km"
+            }
+          ]
+        },
+        {
+          "label": "gdp_ppp",
+          "children": [
+            {
+              "label": "2024 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$8.924 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$270,100"
+            }
+          ]
+        },
+        {
+          "label": "gdp_nominal",
+          "children": [
+            {
+              "label": "2024 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$10.434 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$315,800"
+            }
+          ]
+        },
+        {
+          "label": "currency",
+          "children": [
+            {
+              "label": "euro"
+            }
+          ]
+        },
+        {
+          "label": "time_zone",
+          "children": [
+            {
+              "label": "utc +1"
+            }
+          ]
+        },
+        {
+          "label": "summer_dst",
+          "children": [
+            {
+              "label": "utc +2"
+            }
+          ]
+        },
+        {
+          "label": "date_format",
+          "children": [
+            {
+              "label": "dd/mm/yyyy"
+            }
+          ]
+        },
+        {
+          "label": "calling_code",
+          "children": [
+            {
+              "label": "+377"
+            }
+          ]
+        },
+        {
+          "label": "iso_3166_code",
+          "children": [
+            {
+              "label": "mc"
+            }
+          ]
+        },
+        {
+          "label": "internet_tld",
+          "children": [
+            {
+              "label": ".mc"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

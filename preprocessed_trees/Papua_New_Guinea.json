@@ -1,0 +1,300 @@
+{
+  "label": "country",
+  "children": [
+    {
+      "label": "name",
+      "children": [
+        {
+          "label": "papua new guinea"
+        }
+      ]
+    },
+    {
+      "label": "infobox_title",
+      "children": [
+        {
+          "label": "independent state of papua new guinea independen stet bilong papua niugini gau hedinarai ai papua–matamata guinea"
+        }
+      ]
+    },
+    {
+      "label": "capital_and_largest_city",
+      "children": [
+        {
+          "label": "port moresby / 9."
+        }
+      ]
+    },
+    {
+      "label": "official_languages",
+      "children": [
+        {
+          "label": "english"
+        },
+        {
+          "label": "hiri motu"
+        },
+        {
+          "label": "png sign language"
+        },
+        {
+          "label": "tok pisin"
+        }
+      ]
+    },
+    {
+      "label": "indigenous_languages",
+      "children": [
+        {
+          "label": "839 languages"
+        }
+      ]
+    },
+    {
+      "label": "religion_2011",
+      "children": [
+        {
+          "label": "95.5% christianity"
+        },
+        {
+          "label": "64.3% protestantism"
+        },
+        {
+          "label": "26.0% catholicism"
+        },
+        {
+          "label": "5.2% other christian"
+        },
+        {
+          "label": "3.1% unspecified"
+        },
+        {
+          "label": "1.4% others or none"
+        }
+      ]
+    },
+    {
+      "label": "demonym",
+      "children": [
+        {
+          "label": "papua new guinean"
+        }
+      ]
+    },
+    {
+      "label": "government",
+      "children": [
+        {
+          "label": "unitary parliamentary constitutional monarchy"
+        }
+      ]
+    },
+    {
+      "label": "monarch",
+      "children": [
+        {
+          "label": "charles iii"
+        }
+      ]
+    },
+    {
+      "label": "governor_general",
+      "children": [
+        {
+          "label": "bob dadae"
+        }
+      ]
+    },
+    {
+      "label": "prime_minister",
+      "children": [
+        {
+          "label": "james marape"
+        }
+      ]
+    },
+    {
+      "label": "legislature",
+      "children": [
+        {
+          "label": "national parliament"
+        }
+      ]
+    },
+    {
+      "label": "independence_from_australia",
+      "children": [
+        {
+          "label": "administrative_union",
+          "children": [
+            {
+              "label": "1 july 1949"
+            }
+          ]
+        },
+        {
+          "label": "independence",
+          "children": [
+            {
+              "label": "16 september 1975"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "area",
+      "children": [
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "462,840 km"
+            }
+          ]
+        },
+        {
+          "label": "water",
+          "children": [
+            {
+              "label": "2.2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "population",
+      "children": [
+        {
+          "label": "2021_estimate",
+          "children": [
+            {
+              "label": "11,781,559"
+            }
+          ]
+        },
+        {
+          "label": "2024_census",
+          "children": [
+            {
+              "label": "10,185,363"
+            }
+          ]
+        },
+        {
+          "label": "density",
+          "children": [
+            {
+              "label": "25.5/km"
+            }
+          ]
+        },
+        {
+          "label": "gdp_ppp",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$41.810 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$3,760"
+            }
+          ]
+        },
+        {
+          "label": "gdp_nominal",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$32.840 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$2,560"
+            }
+          ]
+        },
+        {
+          "label": "gini_2009",
+          "children": [
+            {
+              "label": "41.9 medium inequality"
+            }
+          ]
+        },
+        {
+          "label": "hdi_2023",
+          "children": [
+            {
+              "label": "0.576 medium"
+            }
+          ]
+        },
+        {
+          "label": "currency",
+          "children": [
+            {
+              "label": "kina"
+            }
+          ]
+        },
+        {
+          "label": "time_zone",
+          "children": [
+            {
+              "label": "utc +10, +11"
+            }
+          ]
+        },
+        {
+          "label": "calling_code",
+          "children": [
+            {
+              "label": "+675"
+            }
+          ]
+        },
+        {
+          "label": "iso_3166_code",
+          "children": [
+            {
+              "label": "pg"
+            }
+          ]
+        },
+        {
+          "label": "internet_tld",
+          "children": [
+            {
+              "label": ".pg"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

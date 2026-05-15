@@ -1,0 +1,360 @@
+{
+  "label": "country",
+  "children": [
+    {
+      "label": "name",
+      "children": [
+        {
+          "label": "belarus"
+        }
+      ]
+    },
+    {
+      "label": "infobox_title",
+      "children": [
+        {
+          "label": "republic of belarus рэспубліка беларусь республика беларусь"
+        }
+      ]
+    },
+    {
+      "label": "capital_and_largest_city",
+      "children": [
+        {
+          "label": "minsk / 53."
+        }
+      ]
+    },
+    {
+      "label": "official_languages",
+      "children": [
+        {
+          "label": "belarusian"
+        },
+        {
+          "label": "russian"
+        }
+      ]
+    },
+    {
+      "label": "widely_used_minority_languages",
+      "children": [
+        {
+          "label": "polish"
+        },
+        {
+          "label": "ukrainian"
+        },
+        {
+          "label": "yiddish"
+        }
+      ]
+    },
+    {
+      "label": "ethnic_groups_2019",
+      "children": [
+        {
+          "label": "84.9% belarusians"
+        },
+        {
+          "label": "7.5% russians"
+        },
+        {
+          "label": "3.1% poles"
+        },
+        {
+          "label": "1.7% ukrainians"
+        },
+        {
+          "label": "2.8% other"
+        }
+      ]
+    },
+    {
+      "label": "religion_2020",
+      "children": [
+        {
+          "label": "91.0% christianity"
+        },
+        {
+          "label": "83.3% eastern orthodoxy"
+        },
+        {
+          "label": "7.7% other christian"
+        },
+        {
+          "label": "7.8% no religion"
+        },
+        {
+          "label": "1.2% other"
+        }
+      ]
+    },
+    {
+      "label": "demonym",
+      "children": [
+        {
+          "label": "belarusian"
+        }
+      ]
+    },
+    {
+      "label": "government",
+      "children": [
+        {
+          "label": "unitary semi-presidential republic under an authoritarian dictatorship"
+        }
+      ]
+    },
+    {
+      "label": "president",
+      "children": [
+        {
+          "label": "alexander lukashenko"
+        }
+      ]
+    },
+    {
+      "label": "prime_minister",
+      "children": [
+        {
+          "label": "alexander turchin"
+        }
+      ]
+    },
+    {
+      "label": "legislature",
+      "children": [
+        {
+          "label": "national assembly"
+        }
+      ]
+    },
+    {
+      "label": "upper_house",
+      "children": [
+        {
+          "label": "council of the republic"
+        }
+      ]
+    },
+    {
+      "label": "lower_house",
+      "children": [
+        {
+          "label": "house of representatives"
+        }
+      ]
+    },
+    {
+      "label": "formation",
+      "children": [
+        {
+          "label": "kievan_rus",
+          "children": [
+            {
+              "label": "882"
+            }
+          ]
+        },
+        {
+          "label": "belarusian_people_s_republic",
+          "children": [
+            {
+              "label": "25 march 1918"
+            }
+          ]
+        },
+        {
+          "label": "byelorussian_soviet_socialist_republic",
+          "children": [
+            {
+              "label": "31 july 1920"
+            }
+          ]
+        },
+        {
+          "label": "declaration_of_independence",
+          "children": [
+            {
+              "label": "25 august 1991"
+            }
+          ]
+        },
+        {
+          "label": "internationally_recognised_dissolution_of_the_soviet_union",
+          "children": [
+            {
+              "label": "26 december 1991"
+            }
+          ]
+        },
+        {
+          "label": "current_constitution",
+          "children": [
+            {
+              "label": "15 march 1994"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "area",
+      "children": [
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "207,600 km"
+            }
+          ]
+        },
+        {
+          "label": "water",
+          "children": [
+            {
+              "label": "2.26%"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "population",
+      "children": [
+        {
+          "label": "2025_estimate",
+          "children": [
+            {
+              "label": "9,109,280"
+            }
+          ]
+        },
+        {
+          "label": "density",
+          "children": [
+            {
+              "label": "43.9/km"
+            }
+          ]
+        },
+        {
+          "label": "gdp_ppp",
+          "children": [
+            {
+              "label": "2023 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$221.186 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$24,016"
+            }
+          ]
+        },
+        {
+          "label": "gdp_nominal",
+          "children": [
+            {
+              "label": "2023 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$68.864 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$7,477"
+            }
+          ]
+        },
+        {
+          "label": "gini_2019",
+          "children": [
+            {
+              "label": "25.3 low inequality"
+            }
+          ]
+        },
+        {
+          "label": "hdi_2023",
+          "children": [
+            {
+              "label": "0.824 very high"
+            }
+          ]
+        },
+        {
+          "label": "currency",
+          "children": [
+            {
+              "label": "belarusian ruble"
+            }
+          ]
+        },
+        {
+          "label": "time_zone",
+          "children": [
+            {
+              "label": "utc +3"
+            }
+          ]
+        },
+        {
+          "label": "date_format",
+          "children": [
+            {
+              "label": "dd.mm.yyyy"
+            }
+          ]
+        },
+        {
+          "label": "calling_code",
+          "children": [
+            {
+              "label": "+375"
+            }
+          ]
+        },
+        {
+          "label": "iso_3166_code",
+          "children": [
+            {
+              "label": "by"
+            }
+          ]
+        },
+        {
+          "label": "internet_tld",
+          "children": [
+            {
+              "label": ".by"
+            },
+            {
+              "label": ".бел"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

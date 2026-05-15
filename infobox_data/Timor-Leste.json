@@ -1,0 +1,440 @@
+{
+  "country": "Timor-Leste",
+  "infobox_title": "Democratic Republic of Timor-Leste República Democrática de Timor-Leste ( Portuguese ) Repúblika Demokrátika Timór Lorosa'e ( Tetum )",
+  "data": [
+    {
+      "label": "Capital and largest city",
+      "value": "Dili 8°33′S 125°34′E ﻿ / ﻿ 8.55°S 125.56°E",
+      "links": [
+        {
+          "text": "Dili",
+          "href": "https://en.wikipedia.org/wiki/Dili"
+        },
+        {
+          "text": "8°33′S125°34′E﻿ / ﻿8.55°S 125.56°E",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Timor-Leste&params=8.55_S_125.56_E_type:city"
+        }
+      ]
+    },
+    {
+      "label": "Official languages",
+      "value": "Portuguese Tetum",
+      "links": [
+        {
+          "text": "Portuguese",
+          "href": "https://en.wikipedia.org/wiki/East_Timorese_Portuguese"
+        },
+        {
+          "text": "Tetum",
+          "href": "https://en.wikipedia.org/wiki/Tetum_language"
+        }
+      ],
+      "sub_items": [
+        "Portuguese",
+        "Tetum"
+      ]
+    },
+    {
+      "label": "Recognised languages",
+      "value": "15 national languages : Atauru Baikeno Bekais Bunak Fataluku Galoli Habun Idalaka Kawaimina Kemak Makalero Makasae Makuva Mambai Tokodede 2 working languages : English Indonesian",
+      "links": [
+        {
+          "text": "national languages",
+          "href": "https://en.wikipedia.org/wiki/National_language"
+        },
+        {
+          "text": "Atauru",
+          "href": "https://en.wikipedia.org/wiki/Atauru_language"
+        },
+        {
+          "text": "Baikeno",
+          "href": "https://en.wikipedia.org/wiki/Uab_Meto_language"
+        },
+        {
+          "text": "Bekais",
+          "href": "https://en.wikipedia.org/wiki/Bekais_language"
+        },
+        {
+          "text": "Bunak",
+          "href": "https://en.wikipedia.org/wiki/Bunak_language"
+        },
+        {
+          "text": "Fataluku",
+          "href": "https://en.wikipedia.org/wiki/Fataluku_language"
+        },
+        {
+          "text": "Galoli",
+          "href": "https://en.wikipedia.org/wiki/Galoli_language"
+        },
+        {
+          "text": "Habun",
+          "href": "https://en.wikipedia.org/wiki/Habun_language"
+        },
+        {
+          "text": "Idalaka",
+          "href": "https://en.wikipedia.org/wiki/Idalaka_language"
+        },
+        {
+          "text": "Kawaimina",
+          "href": "https://en.wikipedia.org/wiki/Kawaimina_languages"
+        },
+        {
+          "text": "Kemak",
+          "href": "https://en.wikipedia.org/wiki/Kemak_language"
+        },
+        {
+          "text": "Makalero",
+          "href": "https://en.wikipedia.org/wiki/Makalero_dialect"
+        },
+        {
+          "text": "Makasae",
+          "href": "https://en.wikipedia.org/wiki/Makasae_language"
+        },
+        {
+          "text": "Makuva",
+          "href": "https://en.wikipedia.org/wiki/Makuv%27a_language"
+        },
+        {
+          "text": "Mambai",
+          "href": "https://en.wikipedia.org/wiki/Mambai_language_(Timor)"
+        },
+        {
+          "text": "Tokodede",
+          "href": "https://en.wikipedia.org/wiki/Tokodede"
+        },
+        {
+          "text": "working languages",
+          "href": "https://en.wikipedia.org/wiki/Working_language"
+        },
+        {
+          "text": "English",
+          "href": "https://en.wikipedia.org/wiki/English_language"
+        },
+        {
+          "text": "Indonesian",
+          "href": "https://en.wikipedia.org/wiki/Indonesian_language"
+        }
+      ],
+      "sub_items": [
+        "Atauru Baikeno Bekais Bunak Fataluku Galoli Habun Idalaka Kawaimina Kemak Makalero Makasae Makuva Mambai Tokodede",
+        "Atauru",
+        "Baikeno",
+        "Bekais",
+        "Bunak",
+        "Fataluku",
+        "Galoli",
+        "Habun",
+        "Idalaka",
+        "Kawaimina",
+        "Kemak",
+        "Makalero",
+        "Makasae",
+        "Makuva",
+        "Mambai",
+        "Tokodede",
+        "English Indonesian",
+        "English",
+        "Indonesian"
+      ]
+    },
+    {
+      "label": "Religion (2015 census)",
+      "value": "99.53% Christianity 97.57% Catholicism 1.96% Protestantism 0.24% Islam 0.23% other",
+      "links": [
+        {
+          "text": "Christianity",
+          "href": "https://en.wikipedia.org/wiki/Christianity"
+        },
+        {
+          "text": "Catholicism",
+          "href": "https://en.wikipedia.org/wiki/Catholic_Church_in_Timor-Leste"
+        },
+        {
+          "text": "Protestantism",
+          "href": "https://en.wikipedia.org/wiki/Protestantism"
+        },
+        {
+          "text": "Islam",
+          "href": "https://en.wikipedia.org/wiki/Islam"
+        },
+        {
+          "text": "other",
+          "href": "https://en.wikipedia.org/wiki/Religion_in_Timor-Leste"
+        }
+      ],
+      "sub_items": [
+        "99.53% Christianity 97.57% Catholicism 1.96% Protestantism",
+        "99.53% Christianity 97.57% Catholicism 1.96% Protestantism",
+        "97.57% Catholicism",
+        "1.96% Protestantism",
+        "0.24% Islam",
+        "0.23% other"
+      ]
+    },
+    {
+      "label": "Demonyms",
+      "value": "East Timorese Timorese Maubere (informal)",
+      "links": [
+        {
+          "text": "Timorese",
+          "href": "https://en.wikipedia.org/wiki/Demographics_of_Timor-Leste"
+        }
+      ],
+      "sub_items": [
+        "East Timorese",
+        "Timorese",
+        "Maubere (informal)"
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Unitary semi-presidential republic",
+      "links": [
+        {
+          "text": "semi-presidential republic",
+          "href": "https://en.wikipedia.org/wiki/Semi-presidential_system"
+        }
+      ]
+    },
+    {
+      "label": "• President",
+      "value": "José Ramos-Horta",
+      "links": [
+        {
+          "text": "José Ramos-Horta",
+          "href": "https://en.wikipedia.org/wiki/Jos%C3%A9_Ramos-Horta"
+        }
+      ]
+    },
+    {
+      "label": "• Prime Minister",
+      "value": "Xanana Gusmão",
+      "links": [
+        {
+          "text": "Xanana Gusmão",
+          "href": "https://en.wikipedia.org/wiki/Xanana_Gusm%C3%A3o"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "National Parliament",
+      "links": [
+        {
+          "text": "National Parliament",
+          "href": "https://en.wikipedia.org/wiki/National_Parliament_of_Timor-Leste"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Independence from Portugal , Indonesia , and United Nations Administered East Timor",
+      "rows": [
+        {
+          "label": "• Portuguese Timor",
+          "value": "Early 18th century"
+        },
+        {
+          "label": "• Independence declared",
+          "value": "28 November 1975",
+          "links": [
+            {
+              "text": "28 November 1975",
+              "href": "https://en.wikipedia.org/wiki/Proclamation_of_Independence_day"
+            }
+          ]
+        },
+        {
+          "label": "• Annexation by Indonesia",
+          "value": "17 July 1976"
+        },
+        {
+          "label": "• Administered by UNTAET",
+          "value": "25 October 1999"
+        },
+        {
+          "label": "• Independence restored",
+          "value": "20 May 2002"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "15,007 km (5,794 sq mi) ( 154th )",
+          "links": [
+            {
+              "text": "154th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "Negligible"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2023 estimate",
+          "value": "1,354,662 ( 153rd )",
+          "links": [
+            {
+              "text": "153rd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• 2022 census",
+          "value": "1,341,737"
+        },
+        {
+          "label": "• Density",
+          "value": "94/km (243.5/sq mi) ( 120th )",
+          "links": [
+            {
+              "text": "120th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$6.970 billion ( 169th )",
+          "links": [
+            {
+              "text": "169th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$4,920 ( 152nd )",
+          "links": [
+            {
+              "text": "152nd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$2.120 billion ( 176th )",
+          "links": [
+            {
+              "text": "176th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$1,490 ( 157th )",
+          "links": [
+            {
+              "text": "157th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "Gini (2014)",
+          "value": "28.7 low inequality"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.634 medium ( 142nd )",
+          "links": [
+            {
+              "text": "142nd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "United States dollar Timor-Leste centavo ( USD )",
+          "links": [
+            {
+              "text": "United States dollar",
+              "href": "https://en.wikipedia.org/wiki/United_States_dollar"
+            },
+            {
+              "text": "Timor-Leste centavo",
+              "href": "https://en.wikipedia.org/wiki/Timor-Leste_centavo_coins"
+            },
+            {
+              "text": "USD",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ],
+          "sub_items": [
+            "United States dollar Timor-Leste centavo",
+            "United States dollar",
+            "Timor-Leste centavo"
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC +9 ( Timor-Leste Time )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "Timor-Leste Time",
+              "href": "https://en.wikipedia.org/wiki/Time_in_Timor-Leste"
+            }
+          ]
+        },
+        {
+          "label": "Calling code",
+          "value": "+670",
+          "links": [
+            {
+              "text": "+670",
+              "href": "https://en.wikipedia.org/wiki/%2B670"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "TL",
+          "links": [
+            {
+              "text": "TL",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:TL"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".tl",
+          "links": [
+            {
+              "text": ".tl",
+              "href": "https://en.wikipedia.org/wiki/.tl"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,391 @@
+{
+  "country": "Kyrgyzstan",
+  "infobox_title": "Kyrgyz Republic Кыргыз Республикасы ( Kyrgyz ) Кыргызская Республика ( Russian )",
+  "data": [
+    {
+      "label": "Capital and largest city",
+      "value": "Bishkek 42°52′N 74°36′E ﻿ / ﻿ 42.867°N 74.600°E",
+      "links": [
+        {
+          "text": "Bishkek",
+          "href": "https://en.wikipedia.org/wiki/Bishkek"
+        },
+        {
+          "text": "42°52′N74°36′E﻿ / ﻿42.867°N 74.600°E",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Kyrgyzstan&params=42_52_N_74_36_E_type:city"
+        }
+      ]
+    },
+    {
+      "label": "Official languages",
+      "value": "Kyrgyz (state) Russian (official)",
+      "links": [
+        {
+          "text": "Kyrgyz",
+          "href": "https://en.wikipedia.org/wiki/Kyrgyz_language"
+        },
+        {
+          "text": "Russian",
+          "href": "https://en.wikipedia.org/wiki/Russian_language"
+        }
+      ],
+      "sub_items": [
+        "Kyrgyz (state) Russian (official)"
+      ]
+    },
+    {
+      "label": "Official script",
+      "value": "Cyrillic",
+      "links": [
+        {
+          "text": "Cyrillic",
+          "href": "https://en.wikipedia.org/wiki/Cyrillic_Script"
+        }
+      ]
+    },
+    {
+      "label": "Ethnic groups (2025)",
+      "value": "77.8% Kyrgyz 14.3% Uzbeks 3.7% Russians 1.0% Dungans 0.9% Tajiks 2.3% Others",
+      "links": [
+        {
+          "text": "Kyrgyz",
+          "href": "https://en.wikipedia.org/wiki/Kyrgyz_people"
+        },
+        {
+          "text": "Uzbeks",
+          "href": "https://en.wikipedia.org/wiki/Uzbeks"
+        },
+        {
+          "text": "Russians",
+          "href": "https://en.wikipedia.org/wiki/Russians_in_Kyrgyzstan"
+        },
+        {
+          "text": "Dungans",
+          "href": "https://en.wikipedia.org/wiki/Dungan_people"
+        },
+        {
+          "text": "Tajiks",
+          "href": "https://en.wikipedia.org/wiki/Tajiks"
+        },
+        {
+          "text": "Others",
+          "href": "https://en.wikipedia.org/wiki/Demographics_of_Kyrgyzstan#Ethnic_groups"
+        }
+      ],
+      "sub_items": [
+        "77.8% Kyrgyz",
+        "14.3% Uzbeks",
+        "3.7% Russians",
+        "1.0% Dungans",
+        "0.9% Tajiks",
+        "2.3% Others"
+      ]
+    },
+    {
+      "label": "Religion (2026)",
+      "value": "91% Islam 8% Christianity 1% Others",
+      "links": [
+        {
+          "text": "Islam",
+          "href": "https://en.wikipedia.org/wiki/Islam_in_Kyrgyzstan"
+        },
+        {
+          "text": "Christianity",
+          "href": "https://en.wikipedia.org/wiki/Christianity_in_Kyrgyzstan"
+        },
+        {
+          "text": "Others",
+          "href": "https://en.wikipedia.org/wiki/Religion_in_Kyrgyzstan"
+        }
+      ],
+      "sub_items": [
+        "91% Islam",
+        "8% Christianity",
+        "1% Others"
+      ]
+    },
+    {
+      "label": "Demonyms",
+      "value": "Kyrgyz Kyrgyzstani",
+      "links": [
+        {
+          "text": "Kyrgyz",
+          "href": "https://en.wikipedia.org/wiki/Kyrgyz_people"
+        }
+      ],
+      "sub_items": [
+        "Kyrgyz",
+        "Kyrgyzstani"
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Unitary presidential republic",
+      "links": [
+        {
+          "text": "presidential republic",
+          "href": "https://en.wikipedia.org/wiki/Presidential_republic"
+        }
+      ]
+    },
+    {
+      "label": "• President",
+      "value": "Sadyr Japarov",
+      "links": [
+        {
+          "text": "Sadyr Japarov",
+          "href": "https://en.wikipedia.org/wiki/Sadyr_Japarov"
+        }
+      ]
+    },
+    {
+      "label": "• Chairman of the Cabinet of Ministers",
+      "value": "Adylbek Kasymaliev",
+      "links": [
+        {
+          "text": "Adylbek Kasymaliev",
+          "href": "https://en.wikipedia.org/wiki/Adylbek_Kasymaliev"
+        }
+      ]
+    },
+    {
+      "label": "• Speaker of the Supreme Council",
+      "value": "Marlen Mamataliev",
+      "links": [
+        {
+          "text": "Marlen Mamataliev",
+          "href": "/w/index.php?title=Marlen_Mamataliev&action=edit&redlink=1"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "Supreme Council",
+      "links": [
+        {
+          "text": "Supreme Council",
+          "href": "https://en.wikipedia.org/wiki/Supreme_Council_(Kyrgyzstan)"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Formation",
+      "rows": [
+        {
+          "label": "• Kyrgyz Khaganate",
+          "value": "840"
+        },
+        {
+          "label": "• Kara-Kyrgyz Khanate",
+          "value": "1842–1867"
+        },
+        {
+          "label": "• Annexed by the Russian Empire",
+          "value": "1876"
+        },
+        {
+          "label": "• Kara-Kirghiz AO",
+          "value": "14 October 1924"
+        },
+        {
+          "label": "• Kirghiz ASSR",
+          "value": "11 February 1926"
+        },
+        {
+          "label": "• Kirghiz SSR",
+          "value": "5 December 1936"
+        },
+        {
+          "label": "• Sovereignty declared",
+          "value": "30 December 1990"
+        },
+        {
+          "label": "• Independence declared from USSR",
+          "value": "31 August 1991"
+        },
+        {
+          "label": "• Independence recognized",
+          "value": "26 December 1991"
+        },
+        {
+          "label": "• Current constitution",
+          "value": "11 April 2021"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "200,105 km (77,261 sq mi) ( 85th )",
+          "links": [
+            {
+              "text": "85th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water",
+          "value": "7,198 km (2,779 sq mi)"
+        },
+        {
+          "label": "• Water (%)",
+          "value": "3.6"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2026 estimate",
+          "value": "7.4 million ( 107th )",
+          "links": [
+            {
+              "text": "107th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• Density",
+          "value": "37/km (95.8/sq mi) ( 109th )",
+          "links": [
+            {
+              "text": "109th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$64.110 billion ( 128th )",
+          "links": [
+            {
+              "text": "128th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$8,870 ( 136th )",
+          "links": [
+            {
+              "text": "136th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$22.587 billion ( 126th )",
+          "links": [
+            {
+              "text": "126th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$3,101 ( 139th )",
+          "links": [
+            {
+              "text": "139th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "Gini (2022)",
+          "value": "26.4 low inequality"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.720 high ( 117th )",
+          "links": [
+            {
+              "text": "117th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "Kyrgyzstani som ( c ) ( KGS )",
+          "links": [
+            {
+              "text": "Kyrgyzstani som",
+              "href": "https://en.wikipedia.org/wiki/Kyrgyzstani_som"
+            },
+            {
+              "text": "KGS",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC +6 ( KGT )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "KGT",
+              "href": "https://en.wikipedia.org/wiki/Kyrgyzstan_Time"
+            }
+          ]
+        },
+        {
+          "label": "Date format",
+          "value": "dd/mm/yyyy"
+        },
+        {
+          "label": "Calling code",
+          "value": "+996",
+          "links": [
+            {
+              "text": "+996",
+              "href": "https://en.wikipedia.org/wiki/Telephone_numbers_in_Kyrgyzstan"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "KG",
+          "links": [
+            {
+              "text": "KG",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:KG"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".kg",
+          "links": [
+            {
+              "text": ".kg",
+              "href": "https://en.wikipedia.org/wiki/.kg"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

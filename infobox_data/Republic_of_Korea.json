@@ -1,0 +1,384 @@
+{
+  "country": "Republic of Korea",
+  "infobox_title": "Republic of Korea 대한민국 ( Korean ) Daehanminguk",
+  "data": [
+    {
+      "label": "Capital and largest city",
+      "value": "Seoul 37°33′N 126°58′E ﻿ / ﻿ 37.550°N 126.967°E",
+      "links": [
+        {
+          "text": "Seoul",
+          "href": "https://en.wikipedia.org/wiki/Seoul"
+        },
+        {
+          "text": "37°33′N126°58′E﻿ / ﻿37.550°N 126.967°E",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=South_Korea&params=37_33_N_126_58_E_type:city"
+        }
+      ]
+    },
+    {
+      "label": "Official languages",
+      "value": "Korean Korean Sign Language",
+      "links": [
+        {
+          "text": "Korean",
+          "href": "https://en.wikipedia.org/wiki/Korean_language"
+        },
+        {
+          "text": "Korean Sign Language",
+          "href": "https://en.wikipedia.org/wiki/Korean_Sign_Language"
+        }
+      ]
+    },
+    {
+      "label": "Official script",
+      "value": "Hangul",
+      "links": [
+        {
+          "text": "Hangul",
+          "href": "https://en.wikipedia.org/wiki/Hangul"
+        }
+      ]
+    },
+    {
+      "label": "Ethnic groups (2024)",
+      "value": "94.8% Korean 5.2% other",
+      "links": [
+        {
+          "text": "Korean",
+          "href": "https://en.wikipedia.org/wiki/Koreans"
+        },
+        {
+          "text": "other",
+          "href": "https://en.wikipedia.org/wiki/Demographics_of_South_Korea#Ethnic_groups"
+        }
+      ],
+      "sub_items": [
+        "94.8% Korean",
+        "5.2% other"
+      ]
+    },
+    {
+      "label": "Religion (2024)",
+      "value": "51% No religion 31% Christianity 20% Protestant 11% Catholic 17% Buddhism 2% other",
+      "links": [
+        {
+          "text": "No religion",
+          "href": "https://en.wikipedia.org/wiki/Irreligion"
+        },
+        {
+          "text": "Christianity",
+          "href": "https://en.wikipedia.org/wiki/Christianity_in_Korea"
+        },
+        {
+          "text": "Protestant",
+          "href": "https://en.wikipedia.org/wiki/Protestant_Christianity"
+        },
+        {
+          "text": "Catholic",
+          "href": "https://en.wikipedia.org/wiki/Catholic_Church_in_Korea"
+        },
+        {
+          "text": "Buddhism",
+          "href": "https://en.wikipedia.org/wiki/Buddhism_in_South_Korea"
+        },
+        {
+          "text": "other",
+          "href": "https://en.wikipedia.org/wiki/Religion_in_South_Korea"
+        }
+      ],
+      "sub_items": [
+        "51% No religion",
+        "31% Christianity 20% Protestant 11% Catholic",
+        "31% Christianity 20% Protestant 11% Catholic",
+        "20% Protestant",
+        "11% Catholic",
+        "17% Buddhism",
+        "2% other"
+      ]
+    },
+    {
+      "label": "Demonyms",
+      "value": "South Korean Korean",
+      "links": [
+        {
+          "text": "South Korean",
+          "href": "https://en.wikipedia.org/wiki/Demographics_of_South_Korea"
+        },
+        {
+          "text": "Korean",
+          "href": "https://en.wikipedia.org/wiki/Koreans"
+        }
+      ],
+      "sub_items": [
+        "South Korean",
+        "Korean"
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Unitary presidential republic",
+      "links": [
+        {
+          "text": "presidential republic",
+          "href": "https://en.wikipedia.org/wiki/Presidential_republic"
+        }
+      ]
+    },
+    {
+      "label": "• President",
+      "value": "Lee Jae Myung",
+      "links": [
+        {
+          "text": "Lee Jae Myung",
+          "href": "https://en.wikipedia.org/wiki/Lee_Jae_Myung"
+        }
+      ]
+    },
+    {
+      "label": "• Prime Minister",
+      "value": "Kim Min-seok",
+      "links": [
+        {
+          "text": "Kim Min-seok",
+          "href": "https://en.wikipedia.org/wiki/Kim_Min-seok_(politician)"
+        }
+      ]
+    },
+    {
+      "label": "• Speaker of the National Assembly",
+      "value": "Woo Won-shik",
+      "links": [
+        {
+          "text": "Woo Won-shik",
+          "href": "https://en.wikipedia.org/wiki/Woo_Won-shik"
+        }
+      ]
+    },
+    {
+      "label": "• Chief Justice of the Supreme Court",
+      "value": "Cho Hee-dae",
+      "links": [
+        {
+          "text": "Cho Hee-dae",
+          "href": "https://en.wikipedia.org/wiki/Cho_Hee-dae"
+        }
+      ]
+    },
+    {
+      "label": "• President of the Constitutional Court",
+      "value": "Kim Sanghwan",
+      "links": [
+        {
+          "text": "Kim Sanghwan",
+          "href": "https://en.wikipedia.org/wiki/Kim_Sanghwan"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "National Assembly",
+      "links": [
+        {
+          "text": "National Assembly",
+          "href": "https://en.wikipedia.org/wiki/National_Assembly_(South_Korea)"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Establishment history",
+      "rows": [
+        {
+          "label": "• Provisional Government in-exile",
+          "value": "11 April 1919"
+        },
+        {
+          "label": "• American administration south of the 38th parallel",
+          "value": "8 September 1945"
+        },
+        {
+          "label": "• Constitution adopted",
+          "value": "17 July 1948"
+        },
+        {
+          "label": "• ROK established",
+          "value": "15 August 1948"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "100,363 km (38,750 sq mi) ( 107th )",
+          "links": [
+            {
+              "text": "107th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "0.3"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2024 estimate",
+          "value": "52,081,799 ( 29th )",
+          "links": [
+            {
+              "text": "29th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• Density",
+          "value": "507/km (1,313.1/sq mi) ( 27th )",
+          "links": [
+            {
+              "text": "27th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$3.363 trillion ( 14th )",
+          "links": [
+            {
+              "text": "14th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$65,080 ( 29th )",
+          "links": [
+            {
+              "text": "29th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$1.859 trillion ( 14th )",
+          "links": [
+            {
+              "text": "14th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$35,962 ( 33rd )",
+          "links": [
+            {
+              "text": "33rd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "Gini (2021)",
+          "value": "33.3 medium inequality"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.937 very high ( 20th )",
+          "links": [
+            {
+              "text": "20th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "Korean Republic won (₩) ( KRW )",
+          "links": [
+            {
+              "text": "Korean Republic won",
+              "href": "https://en.wikipedia.org/wiki/South_Korean_won"
+            },
+            {
+              "text": "KRW",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC +9 ( Korea Standard Time )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "Korea Standard Time",
+              "href": "https://en.wikipedia.org/wiki/Time_in_South_Korea"
+            }
+          ]
+        },
+        {
+          "label": "Calling code",
+          "value": "+82",
+          "links": [
+            {
+              "text": "+82",
+              "href": "https://en.wikipedia.org/wiki/Telephone_numbers_in_South_Korea"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "KR",
+          "links": [
+            {
+              "text": "KR",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:KR"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".kr .한국",
+          "links": [
+            {
+              "text": ".kr",
+              "href": "https://en.wikipedia.org/wiki/.kr"
+            },
+            {
+              "text": ".한국",
+              "href": "https://en.wikipedia.org/wiki/.kr"
+            }
+          ],
+          "sub_items": [
+            ".kr",
+            ".한국"
+          ]
+        }
+      ]
+    }
+  ]
+}

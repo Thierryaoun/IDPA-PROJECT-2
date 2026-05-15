@@ -1,0 +1,375 @@
+{
+  "label": "country",
+  "children": [
+    {
+      "label": "name",
+      "children": [
+        {
+          "label": "iran"
+        }
+      ]
+    },
+    {
+      "label": "infobox_title",
+      "children": [
+        {
+          "label": "islamic republic of iran جمهوری اسلامی ایران jomhuri-ye eslâmi-ye irân"
+        }
+      ]
+    },
+    {
+      "label": "capital_and_largest_city",
+      "children": [
+        {
+          "label": "tehran / 35."
+        }
+      ]
+    },
+    {
+      "label": "official_languages",
+      "children": [
+        {
+          "label": "persian"
+        }
+      ]
+    },
+    {
+      "label": "demonym",
+      "children": [
+        {
+          "label": "iranian"
+        }
+      ]
+    },
+    {
+      "label": "government",
+      "children": [
+        {
+          "label": "unitary presidential theocratic islamic republic"
+        }
+      ]
+    },
+    {
+      "label": "supreme_leader",
+      "children": [
+        {
+          "label": "mojtaba khamenei"
+        }
+      ]
+    },
+    {
+      "label": "president",
+      "children": [
+        {
+          "label": "masoud pezeshkian"
+        }
+      ]
+    },
+    {
+      "label": "vice_president",
+      "children": [
+        {
+          "label": "mohammad reza aref"
+        }
+      ]
+    },
+    {
+      "label": "speaker_of_the_assembly",
+      "children": [
+        {
+          "label": "mohammad bagher ghalibaf"
+        }
+      ]
+    },
+    {
+      "label": "chief_justice",
+      "children": [
+        {
+          "label": "gholam-hossein mohseni-eje'i"
+        }
+      ]
+    },
+    {
+      "label": "legislature",
+      "children": [
+        {
+          "label": "islamic consultative assembly"
+        }
+      ]
+    },
+    {
+      "label": "formation",
+      "children": [
+        {
+          "label": "median_kingdom",
+          "children": [
+            {
+              "label": "c. 678 bc"
+            }
+          ]
+        },
+        {
+          "label": "achaemenid_empire",
+          "children": [
+            {
+              "label": "550 bc"
+            }
+          ]
+        },
+        {
+          "label": "parthian_empire",
+          "children": [
+            {
+              "label": "247 bc"
+            }
+          ]
+        },
+        {
+          "label": "sasanian_empire",
+          "children": [
+            {
+              "label": "224 ad"
+            }
+          ]
+        },
+        {
+          "label": "iranian_intermezzo",
+          "children": [
+            {
+              "label": "821"
+            }
+          ]
+        },
+        {
+          "label": "safavid_iran",
+          "children": [
+            {
+              "label": "22 december 1501"
+            }
+          ]
+        },
+        {
+          "label": "afsharid_iran",
+          "children": [
+            {
+              "label": "22 january 1736"
+            }
+          ]
+        },
+        {
+          "label": "zand_iran",
+          "children": [
+            {
+              "label": "1751"
+            }
+          ]
+        },
+        {
+          "label": "qajar_iran",
+          "children": [
+            {
+              "label": "20 march 1794"
+            }
+          ]
+        },
+        {
+          "label": "constitutional_revolution",
+          "children": [
+            {
+              "label": "12 december 1905"
+            }
+          ]
+        },
+        {
+          "label": "pahlavi_iran",
+          "children": [
+            {
+              "label": "15 december 1925"
+            }
+          ]
+        },
+        {
+          "label": "iranian_revolution",
+          "children": [
+            {
+              "label": "11 february 1979"
+            }
+          ]
+        },
+        {
+          "label": "islamic_republic_established",
+          "children": [
+            {
+              "label": "1 april 1979"
+            }
+          ]
+        },
+        {
+          "label": "current_constitution",
+          "children": [
+            {
+              "label": "3 december 1979"
+            }
+          ]
+        },
+        {
+          "label": "constitutional_amendment",
+          "children": [
+            {
+              "label": "28 july 1989"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "area",
+      "children": [
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "1,648,195 km"
+            }
+          ]
+        },
+        {
+          "label": "water",
+          "children": [
+            {
+              "label": "1.63"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "population",
+      "children": [
+        {
+          "label": "2025_estimate",
+          "children": [
+            {
+              "label": "92,417,681"
+            }
+          ]
+        },
+        {
+          "label": "density",
+          "children": [
+            {
+              "label": "52/km"
+            }
+          ]
+        },
+        {
+          "label": "gdp_ppp",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$1.879 trillion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$21,473"
+            }
+          ]
+        },
+        {
+          "label": "gdp_nominal",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$356.513 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$4,074"
+            }
+          ]
+        },
+        {
+          "label": "gini_2023",
+          "children": [
+            {
+              "label": "35.9 medium inequality"
+            }
+          ]
+        },
+        {
+          "label": "hdi_2023",
+          "children": [
+            {
+              "label": "0.799 high"
+            }
+          ]
+        },
+        {
+          "label": "currency",
+          "children": [
+            {
+              "label": "iranian rial"
+            }
+          ]
+        },
+        {
+          "label": "time_zone",
+          "children": [
+            {
+              "label": "utc +3:30"
+            }
+          ]
+        },
+        {
+          "label": "calling_code",
+          "children": [
+            {
+              "label": "+98"
+            }
+          ]
+        },
+        {
+          "label": "iso_3166_code",
+          "children": [
+            {
+              "label": "ir"
+            }
+          ]
+        },
+        {
+          "label": "internet_tld",
+          "children": [
+            {
+              "label": ".ir"
+            },
+            {
+              "label": "ایران."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

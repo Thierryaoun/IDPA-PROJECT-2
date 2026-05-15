@@ -1,0 +1,399 @@
+{
+  "label": "country",
+  "children": [
+    {
+      "label": "name",
+      "children": [
+        {
+          "label": "spain"
+        }
+      ]
+    },
+    {
+      "label": "infobox_title",
+      "children": [
+        {
+          "label": "kingdom of spain reino de españa in co-official languages basque : espainiako erresuma catalan / valencian : regne d'espanya galician : reino de españa occitan/aranese : reiaume d'espanha"
+        }
+      ]
+    },
+    {
+      "label": "basque",
+      "children": [
+        {
+          "label": "espainiako erresuma"
+        }
+      ]
+    },
+    {
+      "label": "basque",
+      "children": [
+        {
+          "label": "espainiako erresuma"
+        }
+      ]
+    },
+    {
+      "label": "catalan_valencian",
+      "children": [
+        {
+          "label": "regne d'espanya"
+        }
+      ]
+    },
+    {
+      "label": "galician",
+      "children": [
+        {
+          "label": "reino de españa"
+        }
+      ]
+    },
+    {
+      "label": "occitan_aranese",
+      "children": [
+        {
+          "label": "reiaume d'espanha"
+        }
+      ]
+    },
+    {
+      "label": "capital_and_largest_city",
+      "children": [
+        {
+          "label": "madrid / 40."
+        }
+      ]
+    },
+    {
+      "label": "official_language",
+      "children": [
+        {
+          "label": "spanish"
+        }
+      ]
+    },
+    {
+      "label": "nationality_2026",
+      "children": [
+        {
+          "label": "85.4% spanish"
+        },
+        {
+          "label": "14.6% foreigners"
+        }
+      ]
+    },
+    {
+      "label": "religion_2025",
+      "children": [
+        {
+          "label": "58.6% roman catholicism"
+        },
+        {
+          "label": "18.6% practicing catholic"
+        },
+        {
+          "label": "40% non-practicing catholic"
+        },
+        {
+          "label": "13.3% atheist"
+        },
+        {
+          "label": "11.7% indifferent or irreligious"
+        },
+        {
+          "label": "11.1% agnostic"
+        },
+        {
+          "label": "3.6% other religion"
+        },
+        {
+          "label": "1.7% unanswered"
+        }
+      ]
+    },
+    {
+      "label": "demonyms",
+      "children": [
+        {
+          "label": "spaniard"
+        },
+        {
+          "label": "spanish"
+        }
+      ]
+    },
+    {
+      "label": "government",
+      "children": [
+        {
+          "label": "unitary parliamentary constitutional monarchy"
+        }
+      ]
+    },
+    {
+      "label": "monarch",
+      "children": [
+        {
+          "label": "felipe vi"
+        }
+      ]
+    },
+    {
+      "label": "prime_minister",
+      "children": [
+        {
+          "label": "pedro sánchez"
+        }
+      ]
+    },
+    {
+      "label": "president_of_the_congress_of_deputies",
+      "children": [
+        {
+          "label": "francina armengol"
+        }
+      ]
+    },
+    {
+      "label": "president_of_the_senate",
+      "children": [
+        {
+          "label": "pedro rollán"
+        }
+      ]
+    },
+    {
+      "label": "legislature",
+      "children": [
+        {
+          "label": "cortes generales"
+        }
+      ]
+    },
+    {
+      "label": "upper_house",
+      "children": [
+        {
+          "label": "senate"
+        }
+      ]
+    },
+    {
+      "label": "lower_house",
+      "children": [
+        {
+          "label": "congress of deputies"
+        }
+      ]
+    },
+    {
+      "label": "formation",
+      "children": [
+        {
+          "label": "dynastic_union",
+          "children": [
+            {
+              "label": "20 january 1479"
+            }
+          ]
+        },
+        {
+          "label": "sole_sovereign",
+          "children": [
+            {
+              "label": "14 march 1516"
+            }
+          ]
+        },
+        {
+          "label": "centralised_state",
+          "children": [
+            {
+              "label": "9 june 1715"
+            }
+          ]
+        },
+        {
+          "label": "first_constitution",
+          "children": [
+            {
+              "label": "19 march 1812"
+            }
+          ]
+        },
+        {
+          "label": "current_constitution",
+          "children": [
+            {
+              "label": "29 december 1978"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "area",
+      "children": [
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "506,030 km"
+            }
+          ]
+        },
+        {
+          "label": "water",
+          "children": [
+            {
+              "label": "0.89"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "population",
+      "children": [
+        {
+          "label": "2026_estimate",
+          "children": [
+            {
+              "label": "49,570,725"
+            }
+          ]
+        },
+        {
+          "label": "density",
+          "children": [
+            {
+              "label": "98/km"
+            }
+          ]
+        },
+        {
+          "label": "gdp_ppp",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$2.829 trillion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$56,888"
+            }
+          ]
+        },
+        {
+          "label": "gdp_nominal",
+          "children": [
+            {
+              "label": "2025 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$1.891 trillion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$38,040"
+            }
+          ]
+        },
+        {
+          "label": "gini_2024",
+          "children": [
+            {
+              "label": "31.2 medium inequality"
+            }
+          ]
+        },
+        {
+          "label": "hdi_2023",
+          "children": [
+            {
+              "label": "0.918 very high"
+            }
+          ]
+        },
+        {
+          "label": "currency",
+          "children": [
+            {
+              "label": "euro"
+            }
+          ]
+        },
+        {
+          "label": "time_zone",
+          "children": [
+            {
+              "label": "utc ⁠±0 to +1"
+            }
+          ]
+        },
+        {
+          "label": "summer_dst",
+          "children": [
+            {
+              "label": "utc +1 to +2"
+            }
+          ]
+        },
+        {
+          "label": "date_format",
+          "children": [
+            {
+              "label": "dd/mm/yyyy"
+            }
+          ]
+        },
+        {
+          "label": "calling_code",
+          "children": [
+            {
+              "label": "+34"
+            }
+          ]
+        },
+        {
+          "label": "iso_3166_code",
+          "children": [
+            {
+              "label": "es"
+            }
+          ]
+        },
+        {
+          "label": "internet_tld",
+          "children": [
+            {
+              "label": ".es"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

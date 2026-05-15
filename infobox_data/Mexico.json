@@ -1,0 +1,388 @@
+{
+  "country": "Mexico",
+  "infobox_title": "United Mexican States Estados Unidos Mexicanos",
+  "data": [
+    {
+      "label": "Capital and largest city",
+      "value": "Mexico City 19°26′N 99°8′W ﻿ / ﻿ 19.433°N 99.133°W",
+      "links": [
+        {
+          "text": "Mexico City",
+          "href": "https://en.wikipedia.org/wiki/Mexico_City"
+        },
+        {
+          "text": "19°26′N99°8′W﻿ / ﻿19.433°N 99.133°W",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Mexico&params=19_26_N_99_8_W_type:city"
+        }
+      ]
+    },
+    {
+      "label": "Official language",
+      "value": "Spanish",
+      "links": [
+        {
+          "text": "Spanish",
+          "href": "https://en.wikipedia.org/wiki/Mexican_Spanish"
+        }
+      ]
+    },
+    {
+      "label": "Co-official languages",
+      "value": "68 Indigenous languages",
+      "links": [
+        {
+          "text": "Indigenous languages",
+          "href": "https://en.wikipedia.org/wiki/Languages_of_Mexico"
+        }
+      ]
+    },
+    {
+      "label": "Ethnic groups",
+      "value": "See below",
+      "links": [
+        {
+          "text": "See below",
+          "href": "#Ethnicity_and_race"
+        }
+      ]
+    },
+    {
+      "label": "Religion (2020)",
+      "value": "88.9% Christianity 77.7% Catholicism 11.2% Protestantism 8.1% Irreligion 2.4% other religion 0.5% prefer not to say",
+      "links": [
+        {
+          "text": "Christianity",
+          "href": "https://en.wikipedia.org/wiki/Christianity_in_Mexico"
+        },
+        {
+          "text": "Catholicism",
+          "href": "https://en.wikipedia.org/wiki/Catholic_Church_in_Mexico"
+        },
+        {
+          "text": "Protestantism",
+          "href": "https://en.wikipedia.org/wiki/Protestantism_in_Mexico"
+        },
+        {
+          "text": "Irreligion",
+          "href": "https://en.wikipedia.org/wiki/Irreligion_in_Mexico"
+        },
+        {
+          "text": "other religion",
+          "href": "https://en.wikipedia.org/wiki/Religion_in_Mexico"
+        }
+      ],
+      "sub_items": [
+        "88.9% Christianity 77.7% Catholicism 11.2% Protestantism",
+        "88.9% Christianity 77.7% Catholicism 11.2% Protestantism",
+        "77.7% Catholicism",
+        "11.2% Protestantism",
+        "8.1% Irreligion",
+        "2.4% other religion",
+        "0.5% prefer not to say"
+      ]
+    },
+    {
+      "label": "Demonym",
+      "value": "Mexican",
+      "links": [
+        {
+          "text": "Mexican",
+          "href": "https://en.wikipedia.org/wiki/Mexicans"
+        }
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Federal presidential republic",
+      "links": [
+        {
+          "text": "presidential republic",
+          "href": "https://en.wikipedia.org/wiki/Presidential_system"
+        }
+      ]
+    },
+    {
+      "label": "• President",
+      "value": "Claudia Sheinbaum",
+      "links": [
+        {
+          "text": "Claudia Sheinbaum",
+          "href": "https://en.wikipedia.org/wiki/Claudia_Sheinbaum"
+        }
+      ]
+    },
+    {
+      "label": "• President of the Senate",
+      "value": "Laura Itzel Castillo",
+      "links": [
+        {
+          "text": "Laura Itzel Castillo",
+          "href": "https://en.wikipedia.org/wiki/Laura_Itzel_Castillo"
+        }
+      ]
+    },
+    {
+      "label": "• President of the Chamber of Deputies",
+      "value": "Kenia López Rabadán",
+      "links": [
+        {
+          "text": "Kenia López Rabadán",
+          "href": "https://en.wikipedia.org/wiki/Kenia_L%C3%B3pez_Rabad%C3%A1n"
+        }
+      ]
+    },
+    {
+      "label": "• Chief Justice",
+      "value": "Hugo Aguilar Ortiz",
+      "links": [
+        {
+          "text": "Hugo Aguilar Ortiz",
+          "href": "https://en.wikipedia.org/wiki/Hugo_Aguilar_Ortiz"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "Congress",
+      "links": [
+        {
+          "text": "Congress",
+          "href": "https://en.wikipedia.org/wiki/Congress_of_the_Union"
+        }
+      ]
+    },
+    {
+      "label": "• Upper house",
+      "value": "Senate",
+      "links": [
+        {
+          "text": "Senate",
+          "href": "https://en.wikipedia.org/wiki/Senate_of_the_Republic_(Mexico)"
+        }
+      ]
+    },
+    {
+      "label": "• Lower house",
+      "value": "Chamber of Deputies",
+      "links": [
+        {
+          "text": "Chamber of Deputies",
+          "href": "https://en.wikipedia.org/wiki/Chamber_of_Deputies_(Mexico)"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Independence from Spain",
+      "rows": [
+        {
+          "label": "• Start of War of Independence",
+          "value": "16 September 1810"
+        },
+        {
+          "label": "• Declared",
+          "value": "27 September 1821"
+        },
+        {
+          "label": "• Recognized",
+          "value": "28 December 1836"
+        },
+        {
+          "label": "• First constitution",
+          "value": "4 October 1824"
+        },
+        {
+          "label": "• Second constitution",
+          "value": "5 February 1857"
+        },
+        {
+          "label": "• Current constitution",
+          "value": "5 February 1917"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "1,972,550 km (761,610 sq mi) ( 13th )",
+          "links": [
+            {
+              "text": "13th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "1.58 (as of 2015)"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2025 estimate",
+          "value": "131,946,900 ( 10th )",
+          "links": [
+            {
+              "text": "10th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• 2020 census",
+          "value": "126,014,024"
+        },
+        {
+          "label": "• Density",
+          "value": "61/km (158.0/sq mi) ( 142nd )",
+          "links": [
+            {
+              "text": "142nd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$3.396 trillion ( 13th )",
+          "links": [
+            {
+              "text": "13th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$25,463 ( 77th )",
+          "links": [
+            {
+              "text": "77th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$1.693 trillion ( 13th )",
+          "links": [
+            {
+              "text": "13th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$12,692 ( 75th )",
+          "links": [
+            {
+              "text": "75th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "Gini (2022)",
+          "value": "40.2 medium inequality"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.789 high ( 81st )",
+          "links": [
+            {
+              "text": "81st",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "Mexican peso ( MXN )",
+          "links": [
+            {
+              "text": "Mexican peso",
+              "href": "https://en.wikipedia.org/wiki/Mexican_peso"
+            },
+            {
+              "text": "MXN",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC −8 to −5 ( See Time in Mexico )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "Time in Mexico",
+              "href": "https://en.wikipedia.org/wiki/Time_in_Mexico"
+            }
+          ]
+        },
+        {
+          "label": "• Summer ( DST )",
+          "value": "UTC −7 to −5 (varies)",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            }
+          ]
+        },
+        {
+          "label": "Date format",
+          "value": "dd/mm/yyyy"
+        },
+        {
+          "label": "Calling code",
+          "value": "+52",
+          "links": [
+            {
+              "text": "+52",
+              "href": "https://en.wikipedia.org/wiki/Telephone_numbers_in_Mexico"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "MX",
+          "links": [
+            {
+              "text": "MX",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:MX"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".mx",
+          "links": [
+            {
+              "text": ".mx",
+              "href": "https://en.wikipedia.org/wiki/.mx"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

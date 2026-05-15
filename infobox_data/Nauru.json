@@ -1,0 +1,281 @@
+{
+  "country": "Nauru",
+  "infobox_title": "Republic of Nauru Repubrikin Naoero ( Nauruan )",
+  "data": [
+    {
+      "label": "Capital",
+      "value": "Yaren ( de facto ) 0°32′51″S 166°55′3″E ﻿ / ﻿ 0.54750°S 166.91750°E",
+      "links": [
+        {
+          "text": "Yaren",
+          "href": "https://en.wikipedia.org/wiki/Yaren"
+        },
+        {
+          "text": "de facto",
+          "href": "https://en.wikipedia.org/wiki/De_facto"
+        },
+        {
+          "text": "0°32′51″S166°55′3″E﻿ / ﻿0.54750°S 166.91750°E",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Nauru&params=0_32_51_S_166_55_3_E_type:landmark&title=Government+House"
+        }
+      ]
+    },
+    {
+      "label": "Largest city",
+      "value": "Denigomodu",
+      "links": [
+        {
+          "text": "Denigomodu",
+          "href": "https://en.wikipedia.org/wiki/Denigomodu"
+        }
+      ]
+    },
+    {
+      "label": "Official languages",
+      "value": "Nauruan English",
+      "links": [
+        {
+          "text": "Nauruan",
+          "href": "https://en.wikipedia.org/wiki/Nauruan_language"
+        },
+        {
+          "text": "English",
+          "href": "https://en.wikipedia.org/wiki/English_language"
+        }
+      ],
+      "sub_items": [
+        "Nauruan",
+        "English"
+      ]
+    },
+    {
+      "label": "Demonym",
+      "value": "Nauruan",
+      "links": [
+        {
+          "text": "Nauruan",
+          "href": "https://en.wikipedia.org/wiki/Nauruans"
+        }
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Unitary parliamentary republic with an executive presidency under a non-partisan democracy",
+      "links": [
+        {
+          "text": "parliamentary republic with an executive presidency",
+          "href": "https://en.wikipedia.org/wiki/Parliamentary_republics_with_an_executive_presidency"
+        },
+        {
+          "text": "non-partisan democracy",
+          "href": "https://en.wikipedia.org/wiki/Non-partisan_democracy"
+        }
+      ]
+    },
+    {
+      "label": "• President",
+      "value": "David Adeang",
+      "links": [
+        {
+          "text": "David Adeang",
+          "href": "https://en.wikipedia.org/wiki/David_Adeang"
+        }
+      ]
+    },
+    {
+      "label": "• Speaker of the Parliament",
+      "value": "Marcus Stephen",
+      "links": [
+        {
+          "text": "Marcus Stephen",
+          "href": "https://en.wikipedia.org/wiki/Marcus_Stephen"
+        }
+      ]
+    },
+    {
+      "label": "• Minister Assisting the President",
+      "value": "Lionel Aingimea",
+      "links": [
+        {
+          "text": "Lionel Aingimea",
+          "href": "https://en.wikipedia.org/wiki/Lionel_Aingimea"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "Parliament",
+      "links": [
+        {
+          "text": "Parliament",
+          "href": "https://en.wikipedia.org/wiki/Parliament_of_Nauru"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Independence from United Kingdom",
+      "rows": [
+        {
+          "label": "• Declaration of independence",
+          "value": "31 January 1968"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "21 km (8.1 sq mi) ( 193rd )",
+          "links": [
+            {
+              "text": "193rd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "0.57"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2025 estimate",
+          "value": "12,025 ( 239th )",
+          "links": [
+            {
+              "text": "239th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• 2011 census",
+          "value": "12,000"
+        },
+        {
+          "label": "• Density",
+          "value": "480/km (1,243.2/sq mi) ( 20th )",
+          "links": [
+            {
+              "text": "20th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$132 million ( 192nd )",
+          "links": [
+            {
+              "text": "192nd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$10,962 ( 119th )",
+          "links": [
+            {
+              "text": "119th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$172 million ( 195th )",
+          "links": [
+            {
+              "text": "195th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$14,274 ( 75th )",
+          "links": [
+            {
+              "text": "75th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.703 high ( 124th )",
+          "links": [
+            {
+              "text": "124th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "Australian dollar ( AUD )",
+          "links": [
+            {
+              "text": "Australian dollar",
+              "href": "https://en.wikipedia.org/wiki/Australian_dollar"
+            },
+            {
+              "text": "AUD",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC+12"
+        },
+        {
+          "label": "Calling code",
+          "value": "+674",
+          "links": [
+            {
+              "text": "+674",
+              "href": "https://en.wikipedia.org/wiki/%2B674"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "NR",
+          "links": [
+            {
+              "text": "NR",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:NR"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".nr",
+          "links": [
+            {
+              "text": ".nr",
+              "href": "https://en.wikipedia.org/wiki/.nr"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

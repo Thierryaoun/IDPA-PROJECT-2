@@ -1,0 +1,439 @@
+{
+  "country": "Republic of Moldova",
+  "infobox_title": "Republic of Moldova Republica Moldova ( Romanian )",
+  "data": [
+    {
+      "label": "Capital and largest city",
+      "value": "Chișinău 47°0′N 28°55′E ﻿ / ﻿ 47.000°N 28.917°E",
+      "links": [
+        {
+          "text": "Chișinău",
+          "href": "https://en.wikipedia.org/wiki/Chi%C8%99in%C4%83u"
+        },
+        {
+          "text": "47°0′N28°55′E﻿ / ﻿47.000°N 28.917°E",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Moldova&params=47_0_N_28_55_E_type:city"
+        }
+      ]
+    },
+    {
+      "label": "Official language and national language",
+      "value": "Romanian",
+      "links": [
+        {
+          "text": "Romanian",
+          "href": "https://en.wikipedia.org/wiki/Romanian_language"
+        }
+      ]
+    },
+    {
+      "label": "Recognised minority languages",
+      "value": "See list Belarusian Bulgarian Gagauz German Hebrew Polish Romani Russian Ukrainian",
+      "links": [
+        {
+          "text": "Belarusian",
+          "href": "https://en.wikipedia.org/wiki/Belarusian_language"
+        },
+        {
+          "text": "Bulgarian",
+          "href": "https://en.wikipedia.org/wiki/Bulgarian_language"
+        },
+        {
+          "text": "Gagauz",
+          "href": "https://en.wikipedia.org/wiki/Gagauz_language"
+        },
+        {
+          "text": "German",
+          "href": "https://en.wikipedia.org/wiki/German_language"
+        },
+        {
+          "text": "Hebrew",
+          "href": "https://en.wikipedia.org/wiki/Modern_Hebrew"
+        },
+        {
+          "text": "Polish",
+          "href": "https://en.wikipedia.org/wiki/Polish_language"
+        },
+        {
+          "text": "Romani",
+          "href": "https://en.wikipedia.org/wiki/Romani_language"
+        },
+        {
+          "text": "Russian",
+          "href": "https://en.wikipedia.org/wiki/Russian_language"
+        },
+        {
+          "text": "Ukrainian",
+          "href": "https://en.wikipedia.org/wiki/Ukrainian_language"
+        }
+      ],
+      "sub_items": [
+        "Belarusian",
+        "Bulgarian",
+        "Gagauz",
+        "German",
+        "Hebrew",
+        "Polish",
+        "Romani",
+        "Russian",
+        "Ukrainian"
+      ]
+    },
+    {
+      "label": "Ethnic groups (2024; excl. Transnistria )",
+      "value": "76.7% Moldovans 8.0% Romanians 5.1% Ukrainians 4.0% Gagauz 3.4% Russians 1.6% Bulgarians 1.1% other",
+      "links": [
+        {
+          "text": "Moldovans",
+          "href": "https://en.wikipedia.org/wiki/Moldovans"
+        },
+        {
+          "text": "Romanians",
+          "href": "https://en.wikipedia.org/wiki/Romanians"
+        },
+        {
+          "text": "Ukrainians",
+          "href": "https://en.wikipedia.org/wiki/Ukrainians_in_Moldova"
+        },
+        {
+          "text": "Gagauz",
+          "href": "https://en.wikipedia.org/wiki/Gagauz_people"
+        },
+        {
+          "text": "Russians",
+          "href": "https://en.wikipedia.org/wiki/Russians_in_Moldova"
+        },
+        {
+          "text": "Bulgarians",
+          "href": "https://en.wikipedia.org/wiki/Bessarabian_Bulgarians"
+        },
+        {
+          "text": "other",
+          "href": "https://en.wikipedia.org/wiki/Demographics_of_Moldova#Ethnic_groups_and_census_numbers"
+        }
+      ],
+      "sub_items": [
+        "76.7% Moldovans",
+        "8.0% Romanians",
+        "5.1% Ukrainians",
+        "4.0% Gagauz",
+        "3.4% Russians",
+        "1.6% Bulgarians",
+        "1.1% other"
+      ]
+    },
+    {
+      "label": "Religion (2024; excl. Transnistria)",
+      "value": "97.4% Christianity 94.3% Eastern Orthodoxy 3.1% other Christian 0.3% other 1.5% no religion 0.8% unanswered",
+      "links": [
+        {
+          "text": "Christianity",
+          "href": "https://en.wikipedia.org/wiki/Christianity"
+        },
+        {
+          "text": "Eastern Orthodoxy",
+          "href": "https://en.wikipedia.org/wiki/Eastern_Orthodoxy_in_Moldova"
+        },
+        {
+          "text": "other",
+          "href": "https://en.wikipedia.org/wiki/Religion_in_Moldova"
+        },
+        {
+          "text": "no religion",
+          "href": "https://en.wikipedia.org/wiki/Irreligion"
+        }
+      ],
+      "sub_items": [
+        "97.4% Christianity 94.3% Eastern Orthodoxy 3.1% other Christian",
+        "94.3% Eastern Orthodoxy",
+        "3.1% other Christian",
+        "0.3% other",
+        "1.5% no religion",
+        "0.8% unanswered"
+      ]
+    },
+    {
+      "label": "Demonym",
+      "value": "Moldovan",
+      "links": [
+        {
+          "text": "Moldovan",
+          "href": "https://en.wikipedia.org/wiki/Moldovan_people"
+        }
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Unitary parliamentary republic",
+      "links": [
+        {
+          "text": "Unitary parliamentary republic",
+          "href": "https://en.wikipedia.org/wiki/Unitary_parliamentary_republic"
+        }
+      ]
+    },
+    {
+      "label": "• President",
+      "value": "Maia Sandu",
+      "links": [
+        {
+          "text": "Maia Sandu",
+          "href": "https://en.wikipedia.org/wiki/Maia_Sandu"
+        }
+      ]
+    },
+    {
+      "label": "• Prime Minister",
+      "value": "Alexandru Munteanu",
+      "links": [
+        {
+          "text": "Alexandru Munteanu",
+          "href": "https://en.wikipedia.org/wiki/Alexandru_Munteanu"
+        }
+      ]
+    },
+    {
+      "label": "• President of the Parliament",
+      "value": "Igor Grosu",
+      "links": [
+        {
+          "text": "Igor Grosu",
+          "href": "https://en.wikipedia.org/wiki/Igor_Grosu"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "Parliament",
+      "links": [
+        {
+          "text": "Parliament",
+          "href": "https://en.wikipedia.org/wiki/Parliament_of_Moldova"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Formation",
+      "rows": [
+        {
+          "label": "• Principality of Moldavia",
+          "value": "1346"
+        },
+        {
+          "label": "• Bessarabia Governorate",
+          "value": "1812"
+        },
+        {
+          "label": "• Moldavian Democratic Republic",
+          "value": "15 December 1917"
+        },
+        {
+          "label": "• Union with Romania",
+          "value": "9 April 1918"
+        },
+        {
+          "label": "• Moldavian ASSR",
+          "value": "12 October 1924"
+        },
+        {
+          "label": "• Moldavian SSR",
+          "value": "2 August 1940"
+        },
+        {
+          "label": "• Transnistria War",
+          "value": "2 November 1990"
+        },
+        {
+          "label": "• Independence from the Soviet Union",
+          "value": "27 August 1991"
+        },
+        {
+          "label": "• Constitution adopted",
+          "value": "29 July 1994"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Incl. Transnistria",
+          "value": "33,843 km (13,067 sq mi) ( 135th )",
+          "links": [
+            {
+              "text": "135th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "1.4 (incl. Transnistria)"
+        },
+        {
+          "label": "• Excl. Transnistria",
+          "value": "30,319 km (11,706 sq mi)"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• January 2025 estimate",
+          "value": "2,381,325 ( 140th )",
+          "links": [
+            {
+              "text": "140th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• 2024 census",
+          "value": "2,409,207"
+        },
+        {
+          "label": "• Density",
+          "value": "78.5/km (203.3/sq mi)"
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2026 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$48.511 billion ( 135th )",
+          "links": [
+            {
+              "text": "135th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$20,731 ( 93th )",
+          "links": [
+            {
+              "text": "93th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2026 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$21.024 billion ( 129th )",
+          "links": [
+            {
+              "text": "129th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$8,984 ( 89th )",
+          "links": [
+            {
+              "text": "89th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "Gini (2021)",
+          "value": "25.7 low inequality"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.785 high ( 86th )",
+          "links": [
+            {
+              "text": "86th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "Moldovan leu ( MDL )",
+          "links": [
+            {
+              "text": "Moldovan leu",
+              "href": "https://en.wikipedia.org/wiki/Moldovan_leu"
+            },
+            {
+              "text": "MDL",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC +2 ( EET )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "EET",
+              "href": "https://en.wikipedia.org/wiki/Eastern_European_Time"
+            }
+          ]
+        },
+        {
+          "label": "• Summer ( DST )",
+          "value": "UTC +3 ( EEST )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "EEST",
+              "href": "https://en.wikipedia.org/wiki/Eastern_European_Summer_Time"
+            }
+          ]
+        },
+        {
+          "label": "Calling code",
+          "value": "+373",
+          "links": [
+            {
+              "text": "+373",
+              "href": "https://en.wikipedia.org/wiki/Telephone_numbers_in_Moldova"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "MD",
+          "links": [
+            {
+              "text": "MD",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:MD"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".md",
+          "links": [
+            {
+              "text": ".md",
+              "href": "https://en.wikipedia.org/wiki/.md"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

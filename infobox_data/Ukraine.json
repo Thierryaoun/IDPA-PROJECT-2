@@ -1,0 +1,379 @@
+{
+  "country": "Ukraine",
+  "infobox_title": "Ukraine Україна",
+  "data": [
+    {
+      "label": "Capital and largest city",
+      "value": "Kyiv 50°27′N 30°31′E ﻿ / ﻿ 50.450°N 30.517°E",
+      "links": [
+        {
+          "text": "Kyiv",
+          "href": "https://en.wikipedia.org/wiki/Kyiv"
+        },
+        {
+          "text": "50°27′N30°31′E﻿ / ﻿50.450°N 30.517°E",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Ukraine&params=50_27_N_30_31_E_scale:10000000_source:GNS_type:city"
+        }
+      ]
+    },
+    {
+      "label": "Official language and national language",
+      "value": "Ukrainian",
+      "links": [
+        {
+          "text": "Ukrainian",
+          "href": "https://en.wikipedia.org/wiki/Ukrainian_language"
+        }
+      ]
+    },
+    {
+      "label": "Ethnic groups (2001)",
+      "value": "78% Ukrainians 17% Russians 4.9% other",
+      "links": [
+        {
+          "text": "Ukrainians",
+          "href": "https://en.wikipedia.org/wiki/Ukrainians"
+        },
+        {
+          "text": "Russians",
+          "href": "https://en.wikipedia.org/wiki/Russians_in_Ukraine"
+        },
+        {
+          "text": "other",
+          "href": "https://en.wikipedia.org/wiki/Minorities_in_Ukraine"
+        }
+      ],
+      "sub_items": [
+        "78% Ukrainians",
+        "17% Russians",
+        "4.9% other"
+      ]
+    },
+    {
+      "label": "Religion (2018)",
+      "value": "87.3% Christianity 11.0% no religion 0.8% other",
+      "links": [
+        {
+          "text": "Christianity",
+          "href": "https://en.wikipedia.org/wiki/Christianity_in_Ukraine"
+        },
+        {
+          "text": "no religion",
+          "href": "https://en.wikipedia.org/wiki/Irreligion"
+        },
+        {
+          "text": "other",
+          "href": "https://en.wikipedia.org/wiki/Religion_in_Ukraine"
+        }
+      ],
+      "sub_items": [
+        "87.3% Christianity",
+        "11.0% no religion",
+        "0.8% other"
+      ]
+    },
+    {
+      "label": "Demonym",
+      "value": "Ukrainian",
+      "links": [
+        {
+          "text": "Ukrainian",
+          "href": "https://en.wikipedia.org/wiki/Ukrainians"
+        }
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Unitary semi-presidential republic",
+      "links": [
+        {
+          "text": "semi-presidential republic",
+          "href": "https://en.wikipedia.org/wiki/Semi-presidential_republic"
+        }
+      ]
+    },
+    {
+      "label": "• President",
+      "value": "Volodymyr Zelenskyy",
+      "links": [
+        {
+          "text": "Volodymyr Zelenskyy",
+          "href": "https://en.wikipedia.org/wiki/Volodymyr_Zelenskyy"
+        }
+      ]
+    },
+    {
+      "label": "• Prime Minister",
+      "value": "Yulia Svyrydenko",
+      "links": [
+        {
+          "text": "Yulia Svyrydenko",
+          "href": "https://en.wikipedia.org/wiki/Yulia_Svyrydenko"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "Verkhovna Rada",
+      "links": [
+        {
+          "text": "Verkhovna Rada",
+          "href": "https://en.wikipedia.org/wiki/Verkhovna_Rada"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Formation",
+      "rows": [
+        {
+          "label": "• Kievan Rus'",
+          "value": "882"
+        },
+        {
+          "label": "• Galicia–Volhynia",
+          "value": "1199"
+        },
+        {
+          "label": "• Zaporozhian Sich",
+          "value": "1552"
+        },
+        {
+          "label": "• Cossack Hetmanate",
+          "value": "18 August 1649"
+        },
+        {
+          "label": "• People's republic",
+          "value": "20 November 1917"
+        },
+        {
+          "label": "• Second Hetmanate",
+          "value": "29 April 1918"
+        },
+        {
+          "label": "• People's republic",
+          "value": "14 December 1918"
+        },
+        {
+          "label": "• Soviet republic",
+          "value": "10 March 1919"
+        },
+        {
+          "label": "• UN membership",
+          "value": "24 October 1945"
+        },
+        {
+          "label": "• Independence declared",
+          "value": "24 August 1991"
+        },
+        {
+          "label": "• Current constitution",
+          "value": "28 June 1996"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "603,628 km (233,062 sq mi) ( 45th )",
+          "links": [
+            {
+              "text": "45th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "3.8"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• April 2025 estimate",
+          "value": "32,862,000 ( 46th )",
+          "links": [
+            {
+              "text": "46th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• Density",
+          "value": "54.4/km (140.9/sq mi) ( 156th )",
+          "links": [
+            {
+              "text": "156th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$690.059 billion ( 45th )",
+          "links": [
+            {
+              "text": "45th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$20,999 ( 89th )",
+          "links": [
+            {
+              "text": "89th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$205.742 billion ( 58th )",
+          "links": [
+            {
+              "text": "58th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$6,261 ( 112th )",
+          "links": [
+            {
+              "text": "112th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "Gini (2020)",
+          "value": "25.6 low inequality"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.779 high ( 87th )",
+          "links": [
+            {
+              "text": "87th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "Ukrainian hryvnia ( ₴ ) ( UAH )",
+          "links": [
+            {
+              "text": "Ukrainian hryvnia",
+              "href": "https://en.wikipedia.org/wiki/Ukrainian_hryvnia"
+            },
+            {
+              "text": "₴",
+              "href": "https://en.wikipedia.org/wiki/%E2%82%B4"
+            },
+            {
+              "text": "UAH",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC +2 ( EET )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "+2",
+              "href": "https://en.wikipedia.org/wiki/UTC%2B02:00"
+            },
+            {
+              "text": "EET",
+              "href": "https://en.wikipedia.org/wiki/Eastern_European_Time"
+            }
+          ]
+        },
+        {
+          "label": "• Summer ( DST )",
+          "value": "UTC +3 ( EEST )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "+3",
+              "href": "https://en.wikipedia.org/wiki/UTC%2B03:00"
+            },
+            {
+              "text": "EEST",
+              "href": "https://en.wikipedia.org/wiki/Eastern_European_Summer_Time"
+            }
+          ]
+        },
+        {
+          "label": "Date format",
+          "value": "dd.mm.yyyy"
+        },
+        {
+          "label": "Calling code",
+          "value": "+380",
+          "links": [
+            {
+              "text": "+380",
+              "href": "https://en.wikipedia.org/wiki/Telephone_numbers_in_Ukraine"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "UA",
+          "links": [
+            {
+              "text": "UA",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:UA"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".ua .укр",
+          "links": [
+            {
+              "text": ".ua",
+              "href": "https://en.wikipedia.org/wiki/.ua"
+            },
+            {
+              "text": ".укр",
+              "href": "https://en.wikipedia.org/wiki/.%D1%83%D0%BA%D1%80"
+            }
+          ],
+          "sub_items": [
+            ".ua",
+            ".укр"
+          ]
+        }
+      ]
+    }
+  ]
+}

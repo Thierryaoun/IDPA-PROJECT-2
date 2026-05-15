@@ -1,0 +1,441 @@
+{
+  "country": "Slovakia",
+  "infobox_title": "Slovak Republic Slovenská republika ( Slovak )",
+  "data": [
+    {
+      "label": "Capital and largest city",
+      "value": "Bratislava 48°9′9″N 17°6′34″E ﻿ / ﻿ 48.15250°N 17.10944°E",
+      "links": [
+        {
+          "text": "Bratislava",
+          "href": "https://en.wikipedia.org/wiki/Bratislava"
+        },
+        {
+          "text": "48°9′9″N17°6′34″E﻿ / ﻿48.15250°N 17.10944°E",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Slovakia&params=48_9_9_N_17_6_34_E_type:city"
+        }
+      ]
+    },
+    {
+      "label": "Official language",
+      "value": "Slovak",
+      "links": [
+        {
+          "text": "Slovak",
+          "href": "https://en.wikipedia.org/wiki/Slovak_language"
+        }
+      ]
+    },
+    {
+      "label": "Regional and minority languages",
+      "value": "Bulgarian , Czech , Croatian , Hungarian , German , Polish , Romani , Russian , Ruthenian , Serbian , Ukrainian",
+      "links": [
+        {
+          "text": "Bulgarian",
+          "href": "https://en.wikipedia.org/wiki/Bulgarian_language"
+        },
+        {
+          "text": "Czech",
+          "href": "https://en.wikipedia.org/wiki/Czech_language"
+        },
+        {
+          "text": "Croatian",
+          "href": "https://en.wikipedia.org/wiki/Croatian_language"
+        },
+        {
+          "text": "Hungarian",
+          "href": "https://en.wikipedia.org/wiki/Hungarian_language"
+        },
+        {
+          "text": "German",
+          "href": "https://en.wikipedia.org/wiki/German_language"
+        },
+        {
+          "text": "Polish",
+          "href": "https://en.wikipedia.org/wiki/Polish_language"
+        },
+        {
+          "text": "Romani",
+          "href": "https://en.wikipedia.org/wiki/Romani_language"
+        },
+        {
+          "text": "Russian",
+          "href": "https://en.wikipedia.org/wiki/Russian_language"
+        },
+        {
+          "text": "Ruthenian",
+          "href": "https://en.wikipedia.org/wiki/Ruthenian_language"
+        },
+        {
+          "text": "Serbian",
+          "href": "https://en.wikipedia.org/wiki/Serbian_language"
+        },
+        {
+          "text": "Ukrainian",
+          "href": "https://en.wikipedia.org/wiki/Ukrainian_language"
+        }
+      ]
+    },
+    {
+      "label": "Ethnic groups (2021)",
+      "value": "88.6% Slovaks 8.2% Hungarians 1.3% Romani 1.9% others",
+      "links": [
+        {
+          "text": "Slovaks",
+          "href": "https://en.wikipedia.org/wiki/Slovaks"
+        },
+        {
+          "text": "Hungarians",
+          "href": "https://en.wikipedia.org/wiki/Hungarians_in_Slovakia"
+        },
+        {
+          "text": "Romani",
+          "href": "https://en.wikipedia.org/wiki/Romani_people_in_Slovakia"
+        }
+      ],
+      "sub_items": [
+        "88.6% Slovaks",
+        "8.2% Hungarians",
+        "1.3% Romani",
+        "1.9% others"
+      ]
+    },
+    {
+      "label": "Religion (2021)",
+      "value": "68.8% Christianity 59.8% Catholicism 7.6% Protestantism 1.4% other Christian 23.8% no religion 0.9% other 6.5% unspecified",
+      "links": [
+        {
+          "text": "Christianity",
+          "href": "https://en.wikipedia.org/wiki/Christianity"
+        },
+        {
+          "text": "Catholicism",
+          "href": "https://en.wikipedia.org/wiki/Catholic_Church_in_Slovakia"
+        },
+        {
+          "text": "Protestantism",
+          "href": "https://en.wikipedia.org/wiki/Protestantism"
+        },
+        {
+          "text": "Christian",
+          "href": "https://en.wikipedia.org/wiki/List_of_Christian_denominations"
+        },
+        {
+          "text": "no religion",
+          "href": "https://en.wikipedia.org/wiki/Irreligion"
+        }
+      ],
+      "sub_items": [
+        "68.8% Christianity 59.8% Catholicism 7.6% Protestantism 1.4% other Christian",
+        "68.8% Christianity 59.8% Catholicism 7.6% Protestantism 1.4% other Christian",
+        "59.8% Catholicism",
+        "7.6% Protestantism",
+        "1.4% other Christian",
+        "23.8% no religion",
+        "0.9% other",
+        "6.5% unspecified"
+      ]
+    },
+    {
+      "label": "Demonym",
+      "value": "Slovak",
+      "links": [
+        {
+          "text": "Slovak",
+          "href": "https://en.wikipedia.org/wiki/Slovaks"
+        }
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Unitary parliamentary republic",
+      "links": [
+        {
+          "text": "Unitary parliamentary republic",
+          "href": "https://en.wikipedia.org/wiki/Unitary_parliamentary_republic"
+        }
+      ]
+    },
+    {
+      "label": "• President",
+      "value": "Peter Pellegrini",
+      "links": [
+        {
+          "text": "Peter Pellegrini",
+          "href": "https://en.wikipedia.org/wiki/Peter_Pellegrini"
+        }
+      ]
+    },
+    {
+      "label": "• Prime Minister",
+      "value": "Robert Fico",
+      "links": [
+        {
+          "text": "Robert Fico",
+          "href": "https://en.wikipedia.org/wiki/Robert_Fico"
+        }
+      ]
+    },
+    {
+      "label": "• Speaker of the National Council",
+      "value": "Richard Raši",
+      "links": [
+        {
+          "text": "Richard Raši",
+          "href": "https://en.wikipedia.org/wiki/Richard_Ra%C5%A1i"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "National Council",
+      "links": [
+        {
+          "text": "National Council",
+          "href": "https://en.wikipedia.org/wiki/National_Council_of_Slovakia"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Establishment history",
+      "rows": [
+        {
+          "label": "• Independence from Austria-Hungary ( First Czechoslovak Republic )",
+          "value": "28 October 1918"
+        },
+        {
+          "label": "• Treaty of Trianon",
+          "value": "4 June 1920"
+        },
+        {
+          "label": "• Second Czechoslovak Republic",
+          "value": "30 September 1938"
+        },
+        {
+          "label": "• First Slovak Republic",
+          "value": "14 March 1939"
+        },
+        {
+          "label": "• Third Czechoslovak Republic",
+          "value": "24 October 1945"
+        },
+        {
+          "label": "• Fourth Czechoslovak Republic",
+          "value": "25 February 1948"
+        },
+        {
+          "label": "• Czechoslovak Socialist Republic",
+          "value": "11 July 1960"
+        },
+        {
+          "label": "• Slovak Socialist Republic (within Czechoslovak Socialist Republic, change of unitary Czechoslovak state into a federation )",
+          "value": "1 January 1969"
+        },
+        {
+          "label": "• Slovak Republic (change of name within established Czech and Slovak Federative Republic )",
+          "value": "1 March 1990"
+        },
+        {
+          "label": "• Dissolution of Czechoslovakia",
+          "value": "1 January 1993"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "49,035 km (18,933 sq mi) ( 127th )",
+          "links": [
+            {
+              "text": "127th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        },
+        {
+          "label": "• Water (%)",
+          "value": "0.72 (2015)"
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 30 June 2025 estimate",
+          "value": "5,413,813 ( 120th )",
+          "links": [
+            {
+              "text": "120th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• 2021 census",
+          "value": "5,449,270"
+        },
+        {
+          "label": "• Density",
+          "value": "110/km (284.9/sq mi) ( 103rd )",
+          "links": [
+            {
+              "text": "103rd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$256.710 billion ( 70th )",
+          "links": [
+            {
+              "text": "70th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$47,440 ( 46th )",
+          "links": [
+            {
+              "text": "46th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2025 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$152.480 billion ( 61st )",
+          "links": [
+            {
+              "text": "61st",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$28,180 ( 44th )",
+          "links": [
+            {
+              "text": "44th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "Gini (2022)",
+          "value": "21.2 low inequality"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.880 very high ( 44th )",
+          "links": [
+            {
+              "text": "44th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "Euro ( € ) ( EUR )",
+          "links": [
+            {
+              "text": "Euro",
+              "href": "https://en.wikipedia.org/wiki/Euro"
+            },
+            {
+              "text": "€",
+              "href": "https://en.wikipedia.org/wiki/Euro_sign"
+            },
+            {
+              "text": "EUR",
+              "href": "https://en.wikipedia.org/wiki/ISO_4217"
+            }
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC +1 ( CET )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "CET",
+              "href": "https://en.wikipedia.org/wiki/Central_European_Time"
+            }
+          ]
+        },
+        {
+          "label": "• Summer ( DST )",
+          "value": "UTC +2 ( CEST )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "CEST",
+              "href": "https://en.wikipedia.org/wiki/Central_European_Summer_Time"
+            }
+          ]
+        },
+        {
+          "label": "Date format",
+          "value": "d. m. yyyy"
+        },
+        {
+          "label": "Calling code",
+          "value": "+421",
+          "links": [
+            {
+              "text": "+421",
+              "href": "https://en.wikipedia.org/wiki/Telephone_numbers_in_Slovakia"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "SK",
+          "links": [
+            {
+              "text": "SK",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:SK"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".sk and .eu",
+          "links": [
+            {
+              "text": ".sk",
+              "href": "https://en.wikipedia.org/wiki/.sk"
+            },
+            {
+              "text": ".eu",
+              "href": "https://en.wikipedia.org/wiki/.eu"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

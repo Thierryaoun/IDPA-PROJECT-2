@@ -1,0 +1,413 @@
+{
+  "label": "country",
+  "children": [
+    {
+      "label": "name",
+      "children": [
+        {
+          "label": "republic of moldova"
+        }
+      ]
+    },
+    {
+      "label": "infobox_title",
+      "children": [
+        {
+          "label": "republic of moldova republica moldova"
+        }
+      ]
+    },
+    {
+      "label": "capital_and_largest_city",
+      "children": [
+        {
+          "label": "chișinău / 47."
+        }
+      ]
+    },
+    {
+      "label": "official_language_and_national_language",
+      "children": [
+        {
+          "label": "romanian"
+        }
+      ]
+    },
+    {
+      "label": "recognised_minority_languages",
+      "children": [
+        {
+          "label": "belarusian"
+        },
+        {
+          "label": "bulgarian"
+        },
+        {
+          "label": "gagauz"
+        },
+        {
+          "label": "german"
+        },
+        {
+          "label": "hebrew"
+        },
+        {
+          "label": "polish"
+        },
+        {
+          "label": "romani"
+        },
+        {
+          "label": "russian"
+        },
+        {
+          "label": "ukrainian"
+        }
+      ]
+    },
+    {
+      "label": "ethnic_groups_2024_excl_transnistria",
+      "children": [
+        {
+          "label": "76.7% moldovans"
+        },
+        {
+          "label": "8.0% romanians"
+        },
+        {
+          "label": "5.1% ukrainians"
+        },
+        {
+          "label": "4.0% gagauz"
+        },
+        {
+          "label": "3.4% russians"
+        },
+        {
+          "label": "1.6% bulgarians"
+        },
+        {
+          "label": "1.1% other"
+        }
+      ]
+    },
+    {
+      "label": "religion_2024_excl_transnistria",
+      "children": [
+        {
+          "label": "97.4% christianity"
+        },
+        {
+          "label": "94.3% eastern orthodoxy"
+        },
+        {
+          "label": "3.1% other christian"
+        },
+        {
+          "label": "0.3% other"
+        },
+        {
+          "label": "1.5% no religion"
+        },
+        {
+          "label": "0.8% unanswered"
+        }
+      ]
+    },
+    {
+      "label": "demonym",
+      "children": [
+        {
+          "label": "moldovan"
+        }
+      ]
+    },
+    {
+      "label": "government",
+      "children": [
+        {
+          "label": "unitary parliamentary republic"
+        }
+      ]
+    },
+    {
+      "label": "president",
+      "children": [
+        {
+          "label": "maia sandu"
+        }
+      ]
+    },
+    {
+      "label": "prime_minister",
+      "children": [
+        {
+          "label": "alexandru munteanu"
+        }
+      ]
+    },
+    {
+      "label": "president_of_the_parliament",
+      "children": [
+        {
+          "label": "igor grosu"
+        }
+      ]
+    },
+    {
+      "label": "legislature",
+      "children": [
+        {
+          "label": "parliament"
+        }
+      ]
+    },
+    {
+      "label": "formation",
+      "children": [
+        {
+          "label": "principality_of_moldavia",
+          "children": [
+            {
+              "label": "1346"
+            }
+          ]
+        },
+        {
+          "label": "bessarabia_governorate",
+          "children": [
+            {
+              "label": "1812"
+            }
+          ]
+        },
+        {
+          "label": "moldavian_democratic_republic",
+          "children": [
+            {
+              "label": "15 december 1917"
+            }
+          ]
+        },
+        {
+          "label": "union_with_romania",
+          "children": [
+            {
+              "label": "9 april 1918"
+            }
+          ]
+        },
+        {
+          "label": "moldavian_assr",
+          "children": [
+            {
+              "label": "12 october 1924"
+            }
+          ]
+        },
+        {
+          "label": "moldavian_ssr",
+          "children": [
+            {
+              "label": "2 august 1940"
+            }
+          ]
+        },
+        {
+          "label": "transnistria_war",
+          "children": [
+            {
+              "label": "2 november 1990"
+            }
+          ]
+        },
+        {
+          "label": "independence_from_the_soviet_union",
+          "children": [
+            {
+              "label": "27 august 1991"
+            }
+          ]
+        },
+        {
+          "label": "constitution_adopted",
+          "children": [
+            {
+              "label": "29 july 1994"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "area",
+      "children": [
+        {
+          "label": "incl_transnistria",
+          "children": [
+            {
+              "label": "33,843 km"
+            }
+          ]
+        },
+        {
+          "label": "water",
+          "children": [
+            {
+              "label": "1.4"
+            }
+          ]
+        },
+        {
+          "label": "excl_transnistria",
+          "children": [
+            {
+              "label": "30,319 km"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "population",
+      "children": [
+        {
+          "label": "january_2025_estimate",
+          "children": [
+            {
+              "label": "2,381,325"
+            }
+          ]
+        },
+        {
+          "label": "2024_census",
+          "children": [
+            {
+              "label": "2,409,207"
+            }
+          ]
+        },
+        {
+          "label": "density",
+          "children": [
+            {
+              "label": "78.5/km"
+            }
+          ]
+        },
+        {
+          "label": "gdp_ppp",
+          "children": [
+            {
+              "label": "2026 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$48.511 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$20,731"
+            }
+          ]
+        },
+        {
+          "label": "gdp_nominal",
+          "children": [
+            {
+              "label": "2026 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$21.024 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$8,984"
+            }
+          ]
+        },
+        {
+          "label": "gini_2021",
+          "children": [
+            {
+              "label": "25.7 low inequality"
+            }
+          ]
+        },
+        {
+          "label": "hdi_2023",
+          "children": [
+            {
+              "label": "0.785 high"
+            }
+          ]
+        },
+        {
+          "label": "currency",
+          "children": [
+            {
+              "label": "moldovan leu"
+            }
+          ]
+        },
+        {
+          "label": "time_zone",
+          "children": [
+            {
+              "label": "utc +2"
+            }
+          ]
+        },
+        {
+          "label": "summer_dst",
+          "children": [
+            {
+              "label": "utc +3"
+            }
+          ]
+        },
+        {
+          "label": "calling_code",
+          "children": [
+            {
+              "label": "+373"
+            }
+          ]
+        },
+        {
+          "label": "iso_3166_code",
+          "children": [
+            {
+              "label": "md"
+            }
+          ]
+        },
+        {
+          "label": "internet_tld",
+          "children": [
+            {
+              "label": ".md"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

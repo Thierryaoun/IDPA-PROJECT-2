@@ -1,0 +1,442 @@
+{
+  "country": "Central African Republic",
+  "infobox_title": "Central African Republic Ködörösêse tî Bêafrîka ( Sango ) République centrafricaine ( French )",
+  "data": [
+    {
+      "label": "Capital and largest city",
+      "value": "Bangui 4°22′N 18°35′E ﻿ / ﻿ 4.367°N 18.583°E",
+      "links": [
+        {
+          "text": "Bangui",
+          "href": "https://en.wikipedia.org/wiki/Bangui"
+        },
+        {
+          "text": "4°22′N18°35′E﻿ / ﻿4.367°N 18.583°E",
+          "href": "https://geohack.toolforge.org/geohack.php?pagename=Central_African_Republic&params=4_22_N_18_35_E_type:city"
+        }
+      ]
+    },
+    {
+      "label": "Official languages",
+      "value": "French Sango (co-official)",
+      "links": [
+        {
+          "text": "French",
+          "href": "https://en.wikipedia.org/wiki/French_language"
+        },
+        {
+          "text": "Sango",
+          "href": "https://en.wikipedia.org/wiki/Sango_language"
+        }
+      ],
+      "sub_items": [
+        "French",
+        "Sango (co-official)"
+      ]
+    },
+    {
+      "label": "Recognised national languages",
+      "value": "Sango",
+      "links": [
+        {
+          "text": "Sango",
+          "href": "https://en.wikipedia.org/wiki/Sango_language"
+        }
+      ],
+      "sub_items": [
+        "Sango"
+      ]
+    },
+    {
+      "label": "Ethnic groups",
+      "value": "Baggara Arabs Baka Banda Bayaka Fula Gula Gbaya Kara Kresh Mbaka Mandja Ngbandi Runga Sara Vidiri Wodaabe Yakoma Yulu Kanuri Zande other",
+      "links": [
+        {
+          "text": "Baggara Arabs",
+          "href": "https://en.wikipedia.org/wiki/Baggara"
+        },
+        {
+          "text": "Baka",
+          "href": "https://en.wikipedia.org/wiki/Baka_people_(Cameroon_and_Gabon)"
+        },
+        {
+          "text": "Banda",
+          "href": "https://en.wikipedia.org/wiki/Banda_people"
+        },
+        {
+          "text": "Bayaka",
+          "href": "https://en.wikipedia.org/wiki/Aka_people"
+        },
+        {
+          "text": "Fula",
+          "href": "https://en.wikipedia.org/wiki/Fula_people"
+        },
+        {
+          "text": "Gula",
+          "href": "https://en.wikipedia.org/wiki/Gula_People"
+        },
+        {
+          "text": "Gbaya",
+          "href": "https://en.wikipedia.org/wiki/Gbaya_people"
+        },
+        {
+          "text": "Kara",
+          "href": "https://en.wikipedia.org/wiki/Kara_people"
+        },
+        {
+          "text": "Kresh",
+          "href": "https://en.wikipedia.org/wiki/Kresh_people"
+        },
+        {
+          "text": "Mbaka",
+          "href": "https://en.wikipedia.org/wiki/Mbaka_people"
+        },
+        {
+          "text": "Mandja",
+          "href": "https://en.wikipedia.org/wiki/Mandja_people"
+        },
+        {
+          "text": "Ngbandi",
+          "href": "https://en.wikipedia.org/wiki/Ngbandi_people"
+        },
+        {
+          "text": "Runga",
+          "href": "https://en.wikipedia.org/wiki/Runga_people"
+        },
+        {
+          "text": "Sara",
+          "href": "https://en.wikipedia.org/wiki/Sara_people"
+        },
+        {
+          "text": "Vidiri",
+          "href": "https://en.wikipedia.org/wiki/Vidiri_people"
+        },
+        {
+          "text": "Wodaabe",
+          "href": "https://en.wikipedia.org/wiki/Wodaabe"
+        },
+        {
+          "text": "Yakoma",
+          "href": "https://en.wikipedia.org/wiki/Yakoma_people"
+        },
+        {
+          "text": "Yulu",
+          "href": "https://en.wikipedia.org/wiki/Yulu_people"
+        },
+        {
+          "text": "Kanuri",
+          "href": "https://en.wikipedia.org/wiki/Kanuri_people"
+        },
+        {
+          "text": "Zande",
+          "href": "https://en.wikipedia.org/wiki/Zande_people"
+        },
+        {
+          "text": "other",
+          "href": "https://en.wikipedia.org/wiki/Demographics_of_the_Central_African_Republic#Ethnic_groups"
+        }
+      ],
+      "sub_items": [
+        "Baggara Arabs",
+        "Baka",
+        "Banda",
+        "Bayaka",
+        "Fula",
+        "Gula",
+        "Gbaya",
+        "Kara",
+        "Kresh",
+        "Mbaka",
+        "Mandja",
+        "Ngbandi",
+        "Runga",
+        "Sara",
+        "Vidiri",
+        "Wodaabe",
+        "Yakoma",
+        "Yulu",
+        "Kanuri",
+        "Zande",
+        "other"
+      ]
+    },
+    {
+      "label": "Religion (2020)",
+      "value": "73.2% Christianity 13.9% Islam 12.0% traditional faiths 0.9% other / none",
+      "links": [
+        {
+          "text": "Christianity",
+          "href": "https://en.wikipedia.org/wiki/Christianity"
+        },
+        {
+          "text": "Islam",
+          "href": "https://en.wikipedia.org/wiki/Islam_in_Central_African_Republic"
+        },
+        {
+          "text": "traditional faiths",
+          "href": "https://en.wikipedia.org/wiki/African_Traditional_Religion"
+        },
+        {
+          "text": "other",
+          "href": "https://en.wikipedia.org/wiki/Religion_in_the_Central_African_Republic"
+        },
+        {
+          "text": "none",
+          "href": "https://en.wikipedia.org/wiki/Irreligion"
+        }
+      ],
+      "sub_items": [
+        "73.2% Christianity",
+        "13.9% Islam",
+        "12.0% traditional faiths",
+        "0.9% other / none"
+      ]
+    },
+    {
+      "label": "Demonym",
+      "value": "Central African",
+      "links": [
+        {
+          "text": "Central African",
+          "href": "https://en.wikipedia.org/wiki/Demographics_of_the_Central_African_Republic"
+        }
+      ]
+    },
+    {
+      "label": "Government",
+      "value": "Unitary presidential republic",
+      "links": [
+        {
+          "text": "presidential republic",
+          "href": "https://en.wikipedia.org/wiki/Presidential_system"
+        }
+      ]
+    },
+    {
+      "label": "• President",
+      "value": "Faustin-Archange Touadéra",
+      "links": [
+        {
+          "text": "Faustin-Archange Touadéra",
+          "href": "https://en.wikipedia.org/wiki/Faustin-Archange_Touad%C3%A9ra"
+        }
+      ]
+    },
+    {
+      "label": "• Prime Minister",
+      "value": "Félix Moloua",
+      "links": [
+        {
+          "text": "Félix Moloua",
+          "href": "https://en.wikipedia.org/wiki/F%C3%A9lix_Moloua"
+        }
+      ]
+    },
+    {
+      "label": "• President of the National Assembly",
+      "value": "Simplice Sarandji",
+      "links": [
+        {
+          "text": "Simplice Sarandji",
+          "href": "https://en.wikipedia.org/wiki/Simplice_Sarandji"
+        }
+      ]
+    },
+    {
+      "label": "Legislature",
+      "value": "National Assembly",
+      "links": [
+        {
+          "text": "National Assembly",
+          "href": "https://en.wikipedia.org/wiki/National_Assembly_(Central_African_Republic)"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "header": "Independence",
+      "rows": [
+        {
+          "label": "• Republic established",
+          "value": "1 December 1958"
+        },
+        {
+          "label": "• from France",
+          "value": "13 August 1960"
+        },
+        {
+          "label": "• Central African Empire established",
+          "value": "4 December 1976"
+        },
+        {
+          "label": "• Coronation of Bokassa I",
+          "value": "4 December 1977"
+        },
+        {
+          "label": "• Bokassa I's overthrow and republic restored",
+          "value": "21 September 1979"
+        }
+      ]
+    },
+    {
+      "header": "Area",
+      "rows": [
+        {
+          "label": "• Total",
+          "value": "622,984 km (240,535 sq mi) ( 44th )",
+          "links": [
+            {
+              "text": "44th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "header": "Population",
+      "rows": [
+        {
+          "label": "• 2024 estimate",
+          "value": "5,650,957 ( 119th )",
+          "links": [
+            {
+              "text": "119th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
+            }
+          ]
+        },
+        {
+          "label": "• Density",
+          "value": "8.6/km (22.3/sq mi) ( 221st )",
+          "links": [
+            {
+              "text": "221st",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density"
+            }
+          ]
+        },
+        {
+          "label": "GDP ( PPP )",
+          "value": "2026 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$7.940 billion ( 170th )",
+          "links": [
+            {
+              "text": "170th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$1,390 ( 190th )",
+          "links": [
+            {
+              "text": "190th",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "GDP (nominal)",
+          "value": "2026 estimate"
+        },
+        {
+          "label": "• Total",
+          "value": "$3.710 billion ( 182nd )",
+          "links": [
+            {
+              "text": "182nd",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+            }
+          ]
+        },
+        {
+          "label": "• Per capita",
+          "value": "$650 ( 191st )",
+          "links": [
+            {
+              "text": "191st",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita"
+            }
+          ]
+        },
+        {
+          "label": "Gini (2021)",
+          "value": "43 medium inequality"
+        },
+        {
+          "label": "HDI (2023)",
+          "value": "0.414 low ( 191st )",
+          "links": [
+            {
+              "text": "191st",
+              "href": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"
+            }
+          ]
+        },
+        {
+          "label": "Currency",
+          "value": "Central African CFA franc (XAF)",
+          "links": [
+            {
+              "text": "Central African CFA franc",
+              "href": "https://en.wikipedia.org/wiki/Central_African_CFA_franc"
+            }
+          ],
+          "sub_items": [
+            "Central African CFA franc (XAF)"
+          ]
+        },
+        {
+          "label": "Time zone",
+          "value": "UTC +01:00 ( WAT )",
+          "links": [
+            {
+              "text": "UTC",
+              "href": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+            },
+            {
+              "text": "WAT",
+              "href": "https://en.wikipedia.org/wiki/West_Africa_Time"
+            }
+          ]
+        },
+        {
+          "label": "Calling code",
+          "value": "+236",
+          "links": [
+            {
+              "text": "+236",
+              "href": "https://en.wikipedia.org/wiki/%2B236"
+            }
+          ]
+        },
+        {
+          "label": "ISO 3166 code",
+          "value": "CF",
+          "links": [
+            {
+              "text": "CF",
+              "href": "https://en.wikipedia.org/wiki/ISO_3166-2:CF"
+            }
+          ]
+        },
+        {
+          "label": "Internet TLD",
+          "value": ".cf",
+          "links": [
+            {
+              "text": ".cf",
+              "href": "https://en.wikipedia.org/wiki/.cf"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

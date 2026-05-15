@@ -1,0 +1,374 @@
+{
+  "label": "country",
+  "children": [
+    {
+      "label": "name",
+      "children": [
+        {
+          "label": "kenya"
+        }
+      ]
+    },
+    {
+      "label": "infobox_title",
+      "children": [
+        {
+          "label": "republic of kenya jamhuri ya kenya"
+        }
+      ]
+    },
+    {
+      "label": "capital_and_largest_city",
+      "children": [
+        {
+          "label": "nairobi / 1. 36. /"
+        }
+      ]
+    },
+    {
+      "label": "official_languages",
+      "children": [
+        {
+          "label": "swahili"
+        },
+        {
+          "label": "english"
+        }
+      ]
+    },
+    {
+      "label": "national_language",
+      "children": [
+        {
+          "label": "swahili"
+        }
+      ]
+    },
+    {
+      "label": "ethnic_groups_2019_census",
+      "children": [
+        {
+          "label": "17.13% kikuyu"
+        },
+        {
+          "label": "14.35% luhya"
+        },
+        {
+          "label": "13.37% kalenjin"
+        },
+        {
+          "label": "10.65% luo"
+        },
+        {
+          "label": "9.81% kamba"
+        },
+        {
+          "label": "5.85% somali"
+        },
+        {
+          "label": "5.68% kisii"
+        },
+        {
+          "label": "5.23% mijikenda"
+        },
+        {
+          "label": "4.15% meru"
+        },
+        {
+          "label": "13.78% others"
+        }
+      ]
+    },
+    {
+      "label": "religion_2019_census",
+      "children": [
+        {
+          "label": "85.5% christianity"
+        },
+        {
+          "label": "10.9% islam"
+        },
+        {
+          "label": "1.5% no religion"
+        },
+        {
+          "label": "0.7% traditional faiths"
+        },
+        {
+          "label": "1.3% others"
+        }
+      ]
+    },
+    {
+      "label": "demonym",
+      "children": [
+        {
+          "label": "kenyan"
+        }
+      ]
+    },
+    {
+      "label": "government",
+      "children": [
+        {
+          "label": "unitary presidential republic"
+        }
+      ]
+    },
+    {
+      "label": "president",
+      "children": [
+        {
+          "label": "william ruto"
+        }
+      ]
+    },
+    {
+      "label": "deputy_president",
+      "children": [
+        {
+          "label": "kithure kindiki"
+        }
+      ]
+    },
+    {
+      "label": "senate_speaker",
+      "children": [
+        {
+          "label": "amason kingi"
+        }
+      ]
+    },
+    {
+      "label": "assembly_speaker",
+      "children": [
+        {
+          "label": "moses wetangula"
+        }
+      ]
+    },
+    {
+      "label": "chief_justice",
+      "children": [
+        {
+          "label": "martha koome"
+        }
+      ]
+    },
+    {
+      "label": "legislature",
+      "children": [
+        {
+          "label": "parliament"
+        }
+      ]
+    },
+    {
+      "label": "upper_house",
+      "children": [
+        {
+          "label": "senate"
+        }
+      ]
+    },
+    {
+      "label": "lower_house",
+      "children": [
+        {
+          "label": "national assembly"
+        }
+      ]
+    },
+    {
+      "label": "independence_from_the_united_kingdom",
+      "children": [
+        {
+          "label": "dominion",
+          "children": [
+            {
+              "label": "12 december 1963"
+            }
+          ]
+        },
+        {
+          "label": "republic",
+          "children": [
+            {
+              "label": "12 december 1964"
+            }
+          ]
+        },
+        {
+          "label": "current_constitution",
+          "children": [
+            {
+              "label": "27 august 2010"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "area",
+      "children": [
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "580,367 km"
+            }
+          ]
+        },
+        {
+          "label": "water",
+          "children": [
+            {
+              "label": "2.3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "population",
+      "children": [
+        {
+          "label": "2025_estimate",
+          "children": [
+            {
+              "label": "53,330,978"
+            }
+          ]
+        },
+        {
+          "label": "2019_census",
+          "children": [
+            {
+              "label": "47,564,296"
+            }
+          ]
+        },
+        {
+          "label": "density",
+          "children": [
+            {
+              "label": "82/km"
+            }
+          ]
+        },
+        {
+          "label": "gdp_ppp",
+          "children": [
+            {
+              "label": "2026 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$430.22 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$7,930"
+            }
+          ]
+        },
+        {
+          "label": "gdp_nominal",
+          "children": [
+            {
+              "label": "2026 estimate"
+            }
+          ]
+        },
+        {
+          "label": "total",
+          "children": [
+            {
+              "label": "$140.87 billion"
+            }
+          ]
+        },
+        {
+          "label": "per_capita",
+          "children": [
+            {
+              "label": "$2,600"
+            }
+          ]
+        },
+        {
+          "label": "gini_2021",
+          "children": [
+            {
+              "label": "38.7 medium inequality"
+            }
+          ]
+        },
+        {
+          "label": "hdi_2023",
+          "children": [
+            {
+              "label": "0.628 medium"
+            }
+          ]
+        },
+        {
+          "label": "currency",
+          "children": [
+            {
+              "label": "kenyan shilling"
+            }
+          ]
+        },
+        {
+          "label": "time_zone",
+          "children": [
+            {
+              "label": "utc +3"
+            }
+          ]
+        },
+        {
+          "label": "date_format",
+          "children": [
+            {
+              "label": "dd/mm/yy"
+            }
+          ]
+        },
+        {
+          "label": "calling_code",
+          "children": [
+            {
+              "label": "+254"
+            }
+          ]
+        },
+        {
+          "label": "iso_3166_code",
+          "children": [
+            {
+              "label": "ke"
+            }
+          ]
+        },
+        {
+          "label": "internet_tld",
+          "children": [
+            {
+              "label": ".ke"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
