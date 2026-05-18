@@ -2,96 +2,156 @@
   "algorithm": "kmedoids",
   "n_clusters": 3,
   "linkage": null,
-  "inertia": 0.883138,
-  "silhouette_score": 0.1457,
+  "inertia": 1.240026,
+  "silhouette_score": 0.406251,
   "assignments": [
     {
+      "label": "Bahrain",
+      "cluster_id": 2,
+      "medoid": "Yemen",
+      "distance_to_medoid": 0.176923
+    },
+    {
       "label": "Egypt",
-      "cluster_id": 1,
-      "medoid": "Lebanon",
-      "distance_to_medoid": 0.319989
-    },
-    {
-      "label": "Germany",
-      "cluster_id": 1,
-      "medoid": "Lebanon",
-      "distance_to_medoid": 0.364563
-    },
-    {
-      "label": "Italy",
       "cluster_id": 0,
-      "medoid": "Italy",
-      "distance_to_medoid": 0.0
+      "medoid": "Saudi_Arabia",
+      "distance_to_medoid": 0.080227
+    },
+    {
+      "label": "Iraq",
+      "cluster_id": 0,
+      "medoid": "Saudi_Arabia",
+      "distance_to_medoid": 0.202021
+    },
+    {
+      "label": "Israel",
+      "cluster_id": 1,
+      "medoid": "Syrian_Arab_Republic",
+      "distance_to_medoid": 0.186864
+    },
+    {
+      "label": "Jordan",
+      "cluster_id": 0,
+      "medoid": "Saudi_Arabia",
+      "distance_to_medoid": 0.15
+    },
+    {
+      "label": "Kuwait",
+      "cluster_id": 0,
+      "medoid": "Saudi_Arabia",
+      "distance_to_medoid": 0.136364
     },
     {
       "label": "Lebanon",
       "cluster_id": 1,
-      "medoid": "Lebanon",
+      "medoid": "Syrian_Arab_Republic",
+      "distance_to_medoid": 0.119046
+    },
+    {
+      "label": "Oman",
+      "cluster_id": 0,
+      "medoid": "Saudi_Arabia",
+      "distance_to_medoid": 0.0375
+    },
+    {
+      "label": "Qatar",
+      "cluster_id": 0,
+      "medoid": "Saudi_Arabia",
+      "distance_to_medoid": 0.151082
+    },
+    {
+      "label": "Saudi_Arabia",
+      "cluster_id": 0,
+      "medoid": "Saudi_Arabia",
       "distance_to_medoid": 0.0
     },
     {
-      "label": "Switzerland",
-      "cluster_id": 2,
-      "medoid": "Switzerland",
-      "distance_to_medoid": 0.0
-    },
-    {
-      "label": "Syrian Arab Republic",
+      "label": "Syrian_Arab_Republic",
       "cluster_id": 1,
-      "medoid": "Lebanon",
-      "distance_to_medoid": 0.198585
+      "medoid": "Syrian_Arab_Republic",
+      "distance_to_medoid": 0.0
+    },
+    {
+      "label": "Yemen",
+      "cluster_id": 2,
+      "medoid": "Yemen",
+      "distance_to_medoid": 0.0
     }
   ],
   "clusters": {
     "0": [
-      "Italy"
+      "Egypt",
+      "Iraq",
+      "Jordan",
+      "Kuwait",
+      "Oman",
+      "Qatar",
+      "Saudi_Arabia"
     ],
     "1": [
-      "Egypt",
-      "Germany",
+      "Israel",
       "Lebanon",
-      "Syrian Arab Republic"
+      "Syrian_Arab_Republic"
     ],
     "2": [
-      "Switzerland"
+      "Bahrain",
+      "Yemen"
     ]
   },
   "medoids": {
-    "0": "Italy",
-    "1": "Lebanon",
-    "2": "Switzerland"
+    "0": "Saudi_Arabia",
+    "1": "Syrian_Arab_Republic",
+    "2": "Yemen"
   },
   "cluster_stats": {
     "0": {
-      "size": 1,
-      "avg_intra_dist": 0.0,
-      "max_intra_dist": 0.0,
-      "diameter": 0.0
+      "size": 7,
+      "avg_distance_to_medoid": 0.10817,
+      "max_distance_to_medoid": 0.202021,
+      "avg_pairwise_distance": 0.146939,
+      "diameter": 0.227273
     },
     "1": {
-      "size": 4,
-      "avg_intra_dist": 0.220784,
-      "max_intra_dist": 0.364563,
-      "diameter": 0.369001
+      "size": 3,
+      "avg_distance_to_medoid": 0.10197,
+      "max_distance_to_medoid": 0.186864,
+      "avg_pairwise_distance": 0.166111,
+      "diameter": 0.192425
     },
     "2": {
-      "size": 1,
-      "avg_intra_dist": 0.0,
-      "max_intra_dist": 0.0,
-      "diameter": 0.0
+      "size": 2,
+      "avg_distance_to_medoid": 0.088462,
+      "max_distance_to_medoid": 0.176923,
+      "avg_pairwise_distance": 0.176923,
+      "diameter": 0.176923
     }
   },
   "metadata": {
-    "iterations": 2,
+    "iterations": 5,
     "converged": true,
     "init_method": "heuristic",
     "seed": 42,
-    "run_time_seconds": 0.001,
-    "n_documents": 6,
+    "matrix_id": "3875e364ab7b",
+    "matrix_labels": [
+      "Bahrain",
+      "Egypt",
+      "Iraq",
+      "Israel",
+      "Jordan",
+      "Kuwait",
+      "Lebanon",
+      "Oman",
+      "Qatar",
+      "Saudi_Arabia",
+      "Syrian_Arab_Republic",
+      "Yemen"
+    ],
+    "run_time_seconds": 0.003,
+    "n_documents": 12,
     "inter_cluster_distances": {
-      "0,1": 0.450834,
-      "0,2": 0.418087,
-      "1,2": 0.479025
+      "0,1": 0.262829,
+      "0,2": 0.348011,
+      "1,2": 0.360772
     }
   }
 }

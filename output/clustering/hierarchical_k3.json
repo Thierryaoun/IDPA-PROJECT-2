@@ -1,126 +1,129 @@
 {
   "algorithm": "hierarchical",
   "n_clusters": 3,
-  "linkage": "complete",
-  "inertia": 2.233983,
-  "silhouette_score": 0.145802,
+  "linkage": "average",
+  "inertia": 1.240026,
+  "silhouette_score": 0.406251,
   "assignments": [
     {
-      "label": "Oman",
-      "cluster_id": 0,
-      "medoid": "Iraq",
-      "distance_to_medoid": 0.26918
-    },
-    {
-      "label": "Jordan",
-      "cluster_id": 0,
-      "medoid": "Iraq",
-      "distance_to_medoid": 0.246958
-    },
-    {
-      "label": "Egypt",
-      "cluster_id": 0,
-      "medoid": "Iraq",
-      "distance_to_medoid": 0.240708
-    },
-    {
-      "label": "Iraq",
-      "cluster_id": 0,
-      "medoid": "Iraq",
-      "distance_to_medoid": 0.0
-    },
-    {
       "label": "Bahrain",
-      "cluster_id": 1,
+      "cluster_id": 0,
       "medoid": "Bahrain",
       "distance_to_medoid": 0.0
     },
     {
       "label": "Yemen",
-      "cluster_id": 1,
+      "cluster_id": 0,
       "medoid": "Bahrain",
-      "distance_to_medoid": 0.292951
+      "distance_to_medoid": 0.176923
+    },
+    {
+      "label": "Iraq",
+      "cluster_id": 1,
+      "medoid": "Saudi_Arabia",
+      "distance_to_medoid": 0.202021
+    },
+    {
+      "label": "Egypt",
+      "cluster_id": 1,
+      "medoid": "Saudi_Arabia",
+      "distance_to_medoid": 0.080227
+    },
+    {
+      "label": "Oman",
+      "cluster_id": 1,
+      "medoid": "Saudi_Arabia",
+      "distance_to_medoid": 0.0375
+    },
+    {
+      "label": "Saudi_Arabia",
+      "cluster_id": 1,
+      "medoid": "Saudi_Arabia",
+      "distance_to_medoid": 0.0
+    },
+    {
+      "label": "Jordan",
+      "cluster_id": 1,
+      "medoid": "Saudi_Arabia",
+      "distance_to_medoid": 0.15
+    },
+    {
+      "label": "Kuwait",
+      "cluster_id": 1,
+      "medoid": "Saudi_Arabia",
+      "distance_to_medoid": 0.136364
+    },
+    {
+      "label": "Qatar",
+      "cluster_id": 1,
+      "medoid": "Saudi_Arabia",
+      "distance_to_medoid": 0.151082
     },
     {
       "label": "Israel",
       "cluster_id": 2,
-      "medoid": "Israel",
-      "distance_to_medoid": 0.0
+      "medoid": "Syrian_Arab_Republic",
+      "distance_to_medoid": 0.186864
     },
     {
       "label": "Lebanon",
       "cluster_id": 2,
-      "medoid": "Israel",
-      "distance_to_medoid": 0.202331
+      "medoid": "Syrian_Arab_Republic",
+      "distance_to_medoid": 0.119046
     },
     {
-      "label": "Syrian Arab Republic",
+      "label": "Syrian_Arab_Republic",
       "cluster_id": 2,
-      "medoid": "Israel",
-      "distance_to_medoid": 0.21657
-    },
-    {
-      "label": "Saudi Arabia",
-      "cluster_id": 2,
-      "medoid": "Israel",
-      "distance_to_medoid": 0.276774
-    },
-    {
-      "label": "Kuwait",
-      "cluster_id": 2,
-      "medoid": "Israel",
-      "distance_to_medoid": 0.268466
-    },
-    {
-      "label": "Qatar",
-      "cluster_id": 2,
-      "medoid": "Israel",
-      "distance_to_medoid": 0.220045
+      "medoid": "Syrian_Arab_Republic",
+      "distance_to_medoid": 0.0
     }
   ],
   "clusters": {
     "0": [
-      "Oman",
-      "Jordan",
-      "Egypt",
-      "Iraq"
-    ],
-    "1": [
       "Bahrain",
       "Yemen"
+    ],
+    "1": [
+      "Iraq",
+      "Egypt",
+      "Oman",
+      "Saudi_Arabia",
+      "Jordan",
+      "Kuwait",
+      "Qatar"
     ],
     "2": [
       "Israel",
       "Lebanon",
-      "Syrian Arab Republic",
-      "Saudi Arabia",
-      "Kuwait",
-      "Qatar"
+      "Syrian_Arab_Republic"
     ]
   },
   "medoids": {
-    "0": "Iraq",
-    "1": "Bahrain",
-    "2": "Israel"
+    "0": "Bahrain",
+    "1": "Saudi_Arabia",
+    "2": "Syrian_Arab_Republic"
   },
   "cluster_stats": {
     "0": {
-      "size": 4,
-      "avg_intra_dist": 0.189211,
-      "max_intra_dist": 0.26918,
-      "diameter": 0.292498
+      "size": 2,
+      "avg_distance_to_medoid": 0.088462,
+      "max_distance_to_medoid": 0.176923,
+      "avg_pairwise_distance": 0.176923,
+      "diameter": 0.176923
     },
     "1": {
-      "size": 2,
-      "avg_intra_dist": 0.146475,
-      "max_intra_dist": 0.292951,
-      "diameter": 0.292951
+      "size": 7,
+      "avg_distance_to_medoid": 0.10817,
+      "max_distance_to_medoid": 0.202021,
+      "avg_pairwise_distance": 0.146939,
+      "diameter": 0.227273
     },
     "2": {
-      "size": 6,
-      "avg_intra_dist": 0.197364,
-      "max_intra_dist": 0.276774,
-      "diameter": 0.29666
+      "size": 3,
+      "avg_distance_to_medoid": 0.10197,
+      "max_distance_to_medoid": 0.186864,
+      "avg_pairwise_distance": 0.166111,
+      "diameter": 0.192425
     }
   },
   "metadata": {
@@ -128,100 +131,115 @@
       {
         "step": 1,
         "merged": [
-          5,
-          8
+          7,
+          9
         ],
         "new_id": 12,
-        "distance": 0.195275,
+        "distance": 0.0375,
         "size": 2
       },
       {
         "step": 2,
         "merged": [
-          6,
-          10
+          1,
+          12
         ],
         "new_id": 13,
-        "distance": 0.198585,
-        "size": 2
+        "distance": 0.079203,
+        "size": 3
       },
       {
         "step": 3,
         "merged": [
-          3,
-          13
+          5,
+          8
         ],
         "new_id": 14,
-        "distance": 0.21657,
-        "size": 3
+        "distance": 0.108333,
+        "size": 2
       },
       {
         "step": 4,
         "merged": [
-          1,
-          2
+          4,
+          14
         ],
         "new_id": 15,
-        "distance": 0.240708,
-        "size": 2
+        "distance": 0.115278,
+        "size": 3
       },
       {
         "step": 5,
         "merged": [
-          9,
-          12
+          6,
+          10
         ],
         "new_id": 16,
-        "distance": 0.2523,
-        "size": 3
+        "distance": 0.119046,
+        "size": 2
       },
       {
         "step": 6,
         "merged": [
-          4,
+          13,
           15
         ],
         "new_id": 17,
-        "distance": 0.258775,
-        "size": 3
+        "distance": 0.159409,
+        "size": 6
       },
       {
         "step": 7,
         "merged": [
-          7,
-          17
+          0,
+          11
         ],
         "new_id": 18,
-        "distance": 0.292498,
-        "size": 4
+        "distance": 0.176923,
+        "size": 2
       },
       {
         "step": 8,
         "merged": [
-          0,
-          11
+          2,
+          17
         ],
         "new_id": 19,
-        "distance": 0.292951,
-        "size": 2
+        "distance": 0.186041,
+        "size": 7
       },
       {
         "step": 9,
         "merged": [
-          14,
+          3,
           16
         ],
         "new_id": 20,
-        "distance": 0.29666,
-        "size": 6
+        "distance": 0.189644,
+        "size": 3
       }
     ],
-    "run_time_seconds": 0.002,
+    "matrix_id": "3875e364ab7b",
+    "matrix_labels": [
+      "Bahrain",
+      "Egypt",
+      "Iraq",
+      "Israel",
+      "Jordan",
+      "Kuwait",
+      "Lebanon",
+      "Oman",
+      "Qatar",
+      "Saudi_Arabia",
+      "Syrian_Arab_Republic",
+      "Yemen"
+    ],
+    "run_time_seconds": 0.001,
     "n_documents": 12,
     "inter_cluster_distances": {
-      "0,1": 0.31587,
-      "0,2": 0.267768,
-      "1,2": 0.342675
+      "0,1": 0.35625,
+      "0,2": 0.391211,
+      "1,2": 0.262829
     }
   }
 }

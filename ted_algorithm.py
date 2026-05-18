@@ -231,8 +231,28 @@ def get_field_weight(field_path: str) -> float:
     return best_weight
 
 
-def normalize_country_tree(tree: TreeNode, debug: dict = None) -> TreeNode:
-    """Build a weighted semantic tree from a raw/preprocessed infobox tree."""
+def _field_matches_filter(canonical: str, field_filter: set) -> bool:
+    """Return True if *canonical* starts with any prefix in *field_filter*."""
+    for prefix in field_filter:
+        if canonical == prefix or canonical.startswith(prefix + "."):
+            return True
+    return False
+
+
+def normalize_country_tree(
+    tree: TreeNode,
+    debug: dict = None,
+    field_filter: set | None = None,
+) -> TreeNode:
+    """Build a weighted semantic tree from a raw/preprocessed infobox tree.
+
+    Parameters
+    ----------
+    field_filter : optional set of canonical field prefixes to include.
+        If None, all fields are included (default behaviour).
+        Example: {"economy.gdp", "geography.area"} compares only on
+        GDP and land area.
+    """
     debug = debug if debug is not None else {}
     debug.setdefault("fields_removed", [])
     debug.setdefault("fields_normalized", [])
@@ -247,6 +267,9 @@ def normalize_country_tree(tree: TreeNode, debug: dict = None) -> TreeNode:
             continue
         if should_ignore_field(canonical, " ".join(cleaned_values)):
             debug["fields_removed"].append({"field": raw_path, "canonical": canonical})
+            continue
+        # Field filter: skip fields not in the selected set
+        if field_filter is not None and not _field_matches_filter(canonical, field_filter):
             continue
         if canonical != raw_path:
             debug["fields_normalized"].append({"from": raw_path, "to": canonical})

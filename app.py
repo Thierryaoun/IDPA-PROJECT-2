@@ -65,19 +65,23 @@ _jobs_lock = threading.Lock()
 
 # ── Cache-path helpers ────────────────────────────────────────────────────────
 
-def _matrix_cache_path(labels: List[str]) -> str:
-    """Deterministic, collision-free cache filename for any label set.
+def _matrix_cache_path(labels: List[str], field_filter=None) -> str:
+    """Deterministic, collision-free cache filename for any label+field set.
 
-    Uses MD5 of sorted comma-joined labels so subsets never collide
-    with the full matrix or with each other.
+    Both the country selection and the field filter are hashed so different
+    combinations always map to separate cache files.
     """
     key = ",".join(sorted(labels))
-    h   = hashlib.md5(key.encode()).hexdigest()[:8]
+    if field_filter:
+        key += "|" + ",".join(sorted(field_filter))
+    h = hashlib.md5(key.encode()).hexdigest()[:8]
     return os.path.join(_OUTPUT_DIR, f"distance_matrix_{len(labels)}_{h}.json")
 
 
-def _matrix_id_from_labels(labels: List[str]) -> str:
+def _matrix_id_from_labels(labels: List[str], field_set=None) -> str:
     key = ",".join(sorted(labels))
+    if field_set:
+        key += "|" + ",".join(sorted(field_set))
     return hashlib.md5(key.encode()).hexdigest()[:12]
 
 
@@ -146,9 +150,15 @@ def api_status():
 @app.route("/api/matrix/start", methods=["POST"])
 def api_matrix_start():
     body         = request.get_json(silent=True) or {}
-    countries    = body.get("countries")       # None → all
+    countries    = body.get("countries")        # None → all
     use_semantic = bool(body.get("use_semantic", True))
     force        = bool(body.get("force", False))
+    fields       = body.get("fields")           # None → all fields; list → filter
+
+    field_filter = set(fields) if fields else None
+
+    if field_filter is not None and len(field_filter) == 0:
+        return jsonify({"error": "Select at least one field group."}), 400
 
     job_id = str(uuid.uuid4())[:8]
     with _jobs_lock:
@@ -166,9 +176,8 @@ def api_matrix_start():
                         message=f"{n} trees loaded. Computing distances…",
                         progress=15)
 
-            # ── Key fix: each label-set gets its OWN cache file ───────────────
             loaded_labels = sorted(_pipeline.trees.keys())
-            cache_path    = _matrix_cache_path(loaded_labels)
+            cache_path    = _matrix_cache_path(loaded_labels, field_filter)
 
             if force and os.path.exists(cache_path):
                 os.remove(cache_path)
@@ -179,6 +188,7 @@ def api_matrix_start():
                 trees=_pipeline.trees,
                 use_semantic=use_semantic,
                 cache_path=cache_path,
+                field_filter=field_filter,
             )
             _job_update(job_id,
                         status="done", progress=100,
@@ -233,33 +243,31 @@ def api_matrix():
             raw = load_json(path)
         except Exception:
             continue
-        labels = raw.get("labels", [])
-        mid    = raw.get("matrix_id") or _matrix_id_from_labels(labels)
+        labels    = raw.get("labels", [])
+        field_set = raw.get("selected_fields")
+        mid       = raw.get("matrix_id") or _matrix_id_from_labels(labels, field_set)
 
+        base_resp = {"labels": labels, "matrix": raw["matrix"],
+                     "stats": raw.get("stats", {}), "n": len(labels),
+                     "matrix_id": mid, "selected_fields": field_set}
         if want_id and mid == want_id:
-            return jsonify({"labels": labels, "matrix": raw["matrix"],
-                            "stats": raw.get("stats", {}), "n": len(labels),
-                            "matrix_id": mid})
+            return jsonify(base_resp)
         if want_n and len(labels) == want_n and want_id is None:
-            return jsonify({"labels": labels, "matrix": raw["matrix"],
-                            "stats": raw.get("stats", {}), "n": len(labels),
-                            "matrix_id": mid})
+            return jsonify(base_resp)
         if want_id is None and want_n is None:
-            # Return first available
-            return jsonify({"labels": labels, "matrix": raw["matrix"],
-                            "stats": raw.get("stats", {}), "n": len(labels),
-                            "matrix_id": mid})
+            return jsonify(base_resp)
 
     return jsonify({"error": "No matching distance matrix found. Run /api/matrix/start first."}), 404
 
 
 def _dm_response(dm: DistanceMatrix):
     return jsonify({
-        "labels":    dm.labels,
-        "matrix":    dm.matrix,
-        "stats":     dm.stats,
-        "n":         dm.n,
-        "matrix_id": dm.matrix_id,
+        "labels":          dm.labels,
+        "matrix":          dm.matrix,
+        "stats":           dm.stats,
+        "n":               dm.n,
+        "matrix_id":       dm.matrix_id,
+        "selected_fields": sorted(dm.field_set) if dm.field_set else None,
     })
 
 

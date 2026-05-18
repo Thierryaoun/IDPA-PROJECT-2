@@ -1,0 +1,3510 @@
+{
+  "algorithm": "hierarchical",
+  "n_clusters": 5,
+  "linkage": "complete",
+  "inertia": 54.47229,
+  "silhouette_score": 0.119692,
+  "assignments": [
+    {
+      "label": "Denmark",
+      "cluster_id": 0,
+      "medoid": "Denmark",
+      "distance_to_medoid": 0.0
+    },
+    {
+      "label": "Netherlands__Kingdom_of_the_",
+      "cluster_id": 1,
+      "medoid": "Netherlands__Kingdom_of_the_",
+      "distance_to_medoid": 0.0
+    },
+    {
+      "label": "Republic_of_Moldova",
+      "cluster_id": 2,
+      "medoid": "Russian_Federation",
+      "distance_to_medoid": 0.353682
+    },
+    {
+      "label": "Sri_Lanka",
+      "cluster_id": 2,
+      "medoid": "Russian_Federation",
+      "distance_to_medoid": 0.305734
+    },
+    {
+      "label": "Ukraine",
+      "cluster_id": 2,
+      "medoid": "Russian_Federation",
+      "distance_to_medoid": 0.279708
+    },
+    {
+      "label": "Bangladesh",
+      "cluster_id": 2,
+      "medoid": "Russian_Federation",
+      "distance_to_medoid": 0.398186
+    },
+    {
+      "label": "Eritrea",
+      "cluster_id": 2,
+      "medoid": "Russian_Federation",
+      "distance_to_medoid": 0.372402
+    },
+    {
+      "label": "Fiji",
+      "cluster_id": 2,
+      "medoid": "Russian_Federation",
+      "distance_to_medoid": 0.36281
+    },
+    {
+      "label": "Maldives",
+      "cluster_id": 2,
+      "medoid": "Russian_Federation",
+      "distance_to_medoid": 0.386854
+    },
+    {
+      "label": "Sao_Tome_and_Principe",
+      "cluster_id": 2,
+      "medoid": "Russian_Federation",
+      "distance_to_medoid": 0.357538
+    },
+    {
+      "label": "Malaysia",
+      "cluster_id": 2,
+      "medoid": "Russian_Federation",
+      "distance_to_medoid": 0.331638
+    },
+    {
+      "label": "Brazil",
+      "cluster_id": 2,
+      "medoid": "Russian_Federation",
+      "distance_to_medoid": 0.334992
+    },
+    {
+      "label": "Argentina",
+      "cluster_id": 2,
+      "medoid": "Russian_Federation",
+      "distance_to_medoid": 0.388793
+    },
+    {
+      "label": "Chile",
+      "cluster_id": 2,
+      "medoid": "Russian_Federation",
+      "distance_to_medoid": 0.392245
+    },
+    {
+      "label": "France",
+      "cluster_id": 2,
+      "medoid": "Russian_Federation",
+      "distance_to_medoid": 0.348241
+    },
+    {
+      "label": "Japan",
+      "cluster_id": 2,
+      "medoid": "Russian_Federation",
+      "distance_to_medoid": 0.352852
+    },
+    {
+      "label": "Bosnia_and_Herzegovina",
+      "cluster_id": 2,
+      "medoid": "Russian_Federation",
+      "distance_to_medoid": 0.360306
+    },
+    {
+      "label": "United_Kingdom_of_Great_Britain_and_Northern_Ireland",
+      "cluster_id": 2,
+      "medoid": "Russian_Federation",
+      "distance_to_medoid": 0.310459
+    },
+    {
+      "label": "Yemen",
+      "cluster_id": 2,
+      "medoid": "Russian_Federation",
+      "distance_to_medoid": 0.292823
+    },
+    {
+      "label": "Bahrain",
+      "cluster_id": 2,
+      "medoid": "Russian_Federation",
+      "distance_to_medoid": 0.276728
+    },
+    {
+      "label": "Russian_Federation",
+      "cluster_id": 2,
+      "medoid": "Russian_Federation",
+      "distance_to_medoid": 0.0
+    },
+    {
+      "label": "Switzerland",
+      "cluster_id": 3,
+      "medoid": "Uzbekistan",
+      "distance_to_medoid": 0.407319
+    },
+    {
+      "label": "South_Africa",
+      "cluster_id": 3,
+      "medoid": "Uzbekistan",
+      "distance_to_medoid": 0.404814
+    },
+    {
+      "label": "Zimbabwe",
+      "cluster_id": 3,
+      "medoid": "Uzbekistan",
+      "distance_to_medoid": 0.40032
+    },
+    {
+      "label": "Haiti",
+      "cluster_id": 3,
+      "medoid": "Uzbekistan",
+      "distance_to_medoid": 0.353025
+    },
+    {
+      "label": "Italy",
+      "cluster_id": 3,
+      "medoid": "Uzbekistan",
+      "distance_to_medoid": 0.359505
+    },
+    {
+      "label": "Ireland",
+      "cluster_id": 3,
+      "medoid": "Uzbekistan",
+      "distance_to_medoid": 0.313157
+    },
+    {
+      "label": "Romania",
+      "cluster_id": 3,
+      "medoid": "Uzbekistan",
+      "distance_to_medoid": 0.283701
+    },
+    {
+      "label": "Uzbekistan",
+      "cluster_id": 3,
+      "medoid": "Uzbekistan",
+      "distance_to_medoid": 0.0
+    },
+    {
+      "label": "Nigeria",
+      "cluster_id": 3,
+      "medoid": "Uzbekistan",
+      "distance_to_medoid": 0.348759
+    },
+    {
+      "label": "Philippines",
+      "cluster_id": 3,
+      "medoid": "Uzbekistan",
+      "distance_to_medoid": 0.352579
+    },
+    {
+      "label": "Liberia",
+      "cluster_id": 3,
+      "medoid": "Uzbekistan",
+      "distance_to_medoid": 0.368538
+    },
+    {
+      "label": "Indonesia",
+      "cluster_id": 3,
+      "medoid": "Uzbekistan",
+      "distance_to_medoid": 0.327564
+    },
+    {
+      "label": "United_States_of_America",
+      "cluster_id": 3,
+      "medoid": "Uzbekistan",
+      "distance_to_medoid": 0.321873
+    },
+    {
+      "label": "Uruguay",
+      "cluster_id": 3,
+      "medoid": "Uzbekistan",
+      "distance_to_medoid": 0.296657
+    },
+    {
+      "label": "Ethiopia",
+      "cluster_id": 3,
+      "medoid": "Uzbekistan",
+      "distance_to_medoid": 0.361451
+    },
+    {
+      "label": "Namibia",
+      "cluster_id": 3,
+      "medoid": "Uzbekistan",
+      "distance_to_medoid": 0.386999
+    },
+    {
+      "label": "Norway",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.401089
+    },
+    {
+      "label": "Democratic_People_s_Republic_of_Korea",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.353006
+    },
+    {
+      "label": "Spain",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.306134
+    },
+    {
+      "label": "Luxembourg",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.284539
+    },
+    {
+      "label": "Greece",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.267329
+    },
+    {
+      "label": "Saudi_Arabia",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.287803
+    },
+    {
+      "label": "China",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.33251
+    },
+    {
+      "label": "Iran__Islamic_Republic_of_",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.346944
+    },
+    {
+      "label": "Türkiye",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.346374
+    },
+    {
+      "label": "Comoros",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.302421
+    },
+    {
+      "label": "Portugal",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.323334
+    },
+    {
+      "label": "Libya",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.342251
+    },
+    {
+      "label": "Guyana",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.306306
+    },
+    {
+      "label": "Mali",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.340589
+    },
+    {
+      "label": "Vietnam",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.304386
+    },
+    {
+      "label": "Brunei",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.282734
+    },
+    {
+      "label": "Afghanistan",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.291818
+    },
+    {
+      "label": "Kuwait",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.281833
+    },
+    {
+      "label": "Qatar",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.241773
+    },
+    {
+      "label": "Lao_People_s_Democratic_Republic",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.288058
+    },
+    {
+      "label": "Lebanon",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.280442
+    },
+    {
+      "label": "Syrian_Arab_Republic",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.292114
+    },
+    {
+      "label": "Armenia",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.279535
+    },
+    {
+      "label": "Albania",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.283215
+    },
+    {
+      "label": "Djibouti",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.23832
+    },
+    {
+      "label": "Israel",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.232171
+    },
+    {
+      "label": "Republic_of_Korea",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.28155
+    },
+    {
+      "label": "Kyrgyzstan",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.299386
+    },
+    {
+      "label": "Mongolia",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.259533
+    },
+    {
+      "label": "Hungary",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.26426
+    },
+    {
+      "label": "Montenegro",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.264918
+    },
+    {
+      "label": "Slovakia",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.286715
+    },
+    {
+      "label": "Georgia",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.276764
+    },
+    {
+      "label": "Serbia",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.277693
+    },
+    {
+      "label": "North_Macedonia",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.228126
+    },
+    {
+      "label": "Tonga",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.199885
+    },
+    {
+      "label": "Azerbaijan",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.235699
+    },
+    {
+      "label": "United_Arab_Emirates",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.236181
+    },
+    {
+      "label": "Bulgaria",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.256629
+    },
+    {
+      "label": "Croatia",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.242692
+    },
+    {
+      "label": "Lithuania",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.244378
+    },
+    {
+      "label": "Somalia",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.262652
+    },
+    {
+      "label": "Sudan",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.29112
+    },
+    {
+      "label": "Oman",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.271157
+    },
+    {
+      "label": "Bhutan",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.207157
+    },
+    {
+      "label": "Slovenia",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.251756
+    },
+    {
+      "label": "Democratic_Republic_of_the_Congo",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.232882
+    },
+    {
+      "label": "Egypt",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.242199
+    },
+    {
+      "label": "Saint_Lucia",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.15447
+    },
+    {
+      "label": "Jamaica",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.15223
+    },
+    {
+      "label": "Antigua_and_Barbuda",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.136679
+    },
+    {
+      "label": "Grenada",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.0
+    },
+    {
+      "label": "Cameroon",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.218858
+    },
+    {
+      "label": "Iraq",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.21168
+    },
+    {
+      "label": "Czechia",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.176826
+    },
+    {
+      "label": "Kazakhstan",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.200428
+    },
+    {
+      "label": "Poland",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.190094
+    },
+    {
+      "label": "Algeria",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.205154
+    },
+    {
+      "label": "Tunisia",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.210318
+    },
+    {
+      "label": "Togo",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.177739
+    },
+    {
+      "label": "Morocco",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.17004
+    },
+    {
+      "label": "Thailand",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.179697
+    },
+    {
+      "label": "Belarus",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.198027
+    },
+    {
+      "label": "Madagascar",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.209651
+    },
+    {
+      "label": "Austria",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.255883
+    },
+    {
+      "label": "Cambodia",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.253753
+    },
+    {
+      "label": "Palau",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.277394
+    },
+    {
+      "label": "Marshall_Islands",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.273841
+    },
+    {
+      "label": "Micronesia__Federated_States_of_",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.269812
+    },
+    {
+      "label": "Suriname",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.343441
+    },
+    {
+      "label": "Cyprus",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.306274
+    },
+    {
+      "label": "Zambia",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.241635
+    },
+    {
+      "label": "Malawi",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.294915
+    },
+    {
+      "label": "Ghana",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.291125
+    },
+    {
+      "label": "Sierra_Leone",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.292877
+    },
+    {
+      "label": "Kiribati",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.275414
+    },
+    {
+      "label": "Mauritius",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.293715
+    },
+    {
+      "label": "Seychelles",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.266945
+    },
+    {
+      "label": "Uganda",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.337599
+    },
+    {
+      "label": "United_Republic_of_Tanzania",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.337495
+    },
+    {
+      "label": "South_Sudan",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.343675
+    },
+    {
+      "label": "Chad",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.248364
+    },
+    {
+      "label": "Papua_New_Guinea",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.28931
+    },
+    {
+      "label": "Finland",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.311837
+    },
+    {
+      "label": "Latvia",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.310931
+    },
+    {
+      "label": "Niger",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.339818
+    },
+    {
+      "label": "Benin",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.297823
+    },
+    {
+      "label": "Gambia__Republic_of_The_",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.286995
+    },
+    {
+      "label": "Senegal",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.307571
+    },
+    {
+      "label": "Mozambique",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.278394
+    },
+    {
+      "label": "Angola",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.319754
+    },
+    {
+      "label": "Cabo_Verde",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.285492
+    },
+    {
+      "label": "Guinea",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.321755
+    },
+    {
+      "label": "Guinea_Bissau",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.326554
+    },
+    {
+      "label": "Ecuador",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.368543
+    },
+    {
+      "label": "Central_African_Republic",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.335648
+    },
+    {
+      "label": "Mauritania",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.311148
+    },
+    {
+      "label": "Costa_Rica",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.336647
+    },
+    {
+      "label": "El_Salvador",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.299984
+    },
+    {
+      "label": "Guatemala",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.329292
+    },
+    {
+      "label": "Panama",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.299318
+    },
+    {
+      "label": "Honduras",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.358833
+    },
+    {
+      "label": "Nicaragua",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.359287
+    },
+    {
+      "label": "Cuba",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.370483
+    },
+    {
+      "label": "Peru",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.328769
+    },
+    {
+      "label": "Colombia",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.275014
+    },
+    {
+      "label": "Venezuela__Bolivarian_Republic_of_",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.300864
+    },
+    {
+      "label": "Mexico",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.295407
+    },
+    {
+      "label": "Bolivia",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.311739
+    },
+    {
+      "label": "Paraguay",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.305268
+    },
+    {
+      "label": "Samoa",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.354835
+    },
+    {
+      "label": "Monaco",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.360572
+    },
+    {
+      "label": "Andorra",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.347463
+    },
+    {
+      "label": "San_Marino",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.353578
+    },
+    {
+      "label": "New_Zealand",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.313362
+    },
+    {
+      "label": "Turkmenistan",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.334665
+    },
+    {
+      "label": "Vanuatu",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.246927
+    },
+    {
+      "label": "Solomon_Islands",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.225121
+    },
+    {
+      "label": "Tuvalu",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.211226
+    },
+    {
+      "label": "Singapore",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.264746
+    },
+    {
+      "label": "Estonia",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.27034
+    },
+    {
+      "label": "Malta",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.260679
+    },
+    {
+      "label": "Dominica",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.272698
+    },
+    {
+      "label": "Saint_Kitts_and_Nevis",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.255596
+    },
+    {
+      "label": "Saint_Vincent_and_the_Grenadines",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.244289
+    },
+    {
+      "label": "Botswana",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.259716
+    },
+    {
+      "label": "Iceland",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.26431
+    },
+    {
+      "label": "Burkina_Faso",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.320057
+    },
+    {
+      "label": "Timor-Leste",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.359788
+    },
+    {
+      "label": "Myanmar",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.260528
+    },
+    {
+      "label": "Equatorial_Guinea",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.273821
+    },
+    {
+      "label": "Lesotho",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.205094
+    },
+    {
+      "label": "Tajikistan",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.232969
+    },
+    {
+      "label": "Burundi",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.223001
+    },
+    {
+      "label": "Rwanda",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.257983
+    },
+    {
+      "label": "Dominican_Republic",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.21063
+    },
+    {
+      "label": "Nepal",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.221478
+    },
+    {
+      "label": "Côte_d_Ivoire",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.283705
+    },
+    {
+      "label": "Congo",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.268451
+    },
+    {
+      "label": "Gabon",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.315474
+    },
+    {
+      "label": "Barbados",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.253899
+    },
+    {
+      "label": "Trinidad_and_Tobago",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.268144
+    },
+    {
+      "label": "Eswatini",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.242422
+    },
+    {
+      "label": "Bahamas__The",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.172366
+    },
+    {
+      "label": "Belize",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.176867
+    },
+    {
+      "label": "Belgium",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.217172
+    },
+    {
+      "label": "Jordan",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.199473
+    },
+    {
+      "label": "Kenya",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.28021
+    },
+    {
+      "label": "India",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.303022
+    },
+    {
+      "label": "Pakistan",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.30529
+    },
+    {
+      "label": "Australia",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.325341
+    },
+    {
+      "label": "Canada",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.316746
+    },
+    {
+      "label": "Liechtenstein",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.34385
+    },
+    {
+      "label": "Sweden",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.35472
+    },
+    {
+      "label": "Germany",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.321689
+    },
+    {
+      "label": "Nauru",
+      "cluster_id": 4,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.316842
+    }
+  ],
+  "clusters": {
+    "0": [
+      "Denmark"
+    ],
+    "1": [
+      "Netherlands__Kingdom_of_the_"
+    ],
+    "2": [
+      "Republic_of_Moldova",
+      "Sri_Lanka",
+      "Ukraine",
+      "Bangladesh",
+      "Eritrea",
+      "Fiji",
+      "Maldives",
+      "Sao_Tome_and_Principe",
+      "Malaysia",
+      "Brazil",
+      "Argentina",
+      "Chile",
+      "France",
+      "Japan",
+      "Bosnia_and_Herzegovina",
+      "United_Kingdom_of_Great_Britain_and_Northern_Ireland",
+      "Yemen",
+      "Bahrain",
+      "Russian_Federation"
+    ],
+    "3": [
+      "Switzerland",
+      "South_Africa",
+      "Zimbabwe",
+      "Haiti",
+      "Italy",
+      "Ireland",
+      "Romania",
+      "Uzbekistan",
+      "Nigeria",
+      "Philippines",
+      "Liberia",
+      "Indonesia",
+      "United_States_of_America",
+      "Uruguay",
+      "Ethiopia",
+      "Namibia"
+    ],
+    "4": [
+      "Norway",
+      "Democratic_People_s_Republic_of_Korea",
+      "Spain",
+      "Luxembourg",
+      "Greece",
+      "Saudi_Arabia",
+      "China",
+      "Iran__Islamic_Republic_of_",
+      "Türkiye",
+      "Comoros",
+      "Portugal",
+      "Libya",
+      "Guyana",
+      "Mali",
+      "Vietnam",
+      "Brunei",
+      "Afghanistan",
+      "Kuwait",
+      "Qatar",
+      "Lao_People_s_Democratic_Republic",
+      "Lebanon",
+      "Syrian_Arab_Republic",
+      "Armenia",
+      "Albania",
+      "Djibouti",
+      "Israel",
+      "Republic_of_Korea",
+      "Kyrgyzstan",
+      "Mongolia",
+      "Hungary",
+      "Montenegro",
+      "Slovakia",
+      "Georgia",
+      "Serbia",
+      "North_Macedonia",
+      "Tonga",
+      "Azerbaijan",
+      "United_Arab_Emirates",
+      "Bulgaria",
+      "Croatia",
+      "Lithuania",
+      "Somalia",
+      "Sudan",
+      "Oman",
+      "Bhutan",
+      "Slovenia",
+      "Democratic_Republic_of_the_Congo",
+      "Egypt",
+      "Saint_Lucia",
+      "Jamaica",
+      "Antigua_and_Barbuda",
+      "Grenada",
+      "Cameroon",
+      "Iraq",
+      "Czechia",
+      "Kazakhstan",
+      "Poland",
+      "Algeria",
+      "Tunisia",
+      "Togo",
+      "Morocco",
+      "Thailand",
+      "Belarus",
+      "Madagascar",
+      "Austria",
+      "Cambodia",
+      "Palau",
+      "Marshall_Islands",
+      "Micronesia__Federated_States_of_",
+      "Suriname",
+      "Cyprus",
+      "Zambia",
+      "Malawi",
+      "Ghana",
+      "Sierra_Leone",
+      "Kiribati",
+      "Mauritius",
+      "Seychelles",
+      "Uganda",
+      "United_Republic_of_Tanzania",
+      "South_Sudan",
+      "Chad",
+      "Papua_New_Guinea",
+      "Finland",
+      "Latvia",
+      "Niger",
+      "Benin",
+      "Gambia__Republic_of_The_",
+      "Senegal",
+      "Mozambique",
+      "Angola",
+      "Cabo_Verde",
+      "Guinea",
+      "Guinea_Bissau",
+      "Ecuador",
+      "Central_African_Republic",
+      "Mauritania",
+      "Costa_Rica",
+      "El_Salvador",
+      "Guatemala",
+      "Panama",
+      "Honduras",
+      "Nicaragua",
+      "Cuba",
+      "Peru",
+      "Colombia",
+      "Venezuela__Bolivarian_Republic_of_",
+      "Mexico",
+      "Bolivia",
+      "Paraguay",
+      "Samoa",
+      "Monaco",
+      "Andorra",
+      "San_Marino",
+      "New_Zealand",
+      "Turkmenistan",
+      "Vanuatu",
+      "Solomon_Islands",
+      "Tuvalu",
+      "Singapore",
+      "Estonia",
+      "Malta",
+      "Dominica",
+      "Saint_Kitts_and_Nevis",
+      "Saint_Vincent_and_the_Grenadines",
+      "Botswana",
+      "Iceland",
+      "Burkina_Faso",
+      "Timor-Leste",
+      "Myanmar",
+      "Equatorial_Guinea",
+      "Lesotho",
+      "Tajikistan",
+      "Burundi",
+      "Rwanda",
+      "Dominican_Republic",
+      "Nepal",
+      "Côte_d_Ivoire",
+      "Congo",
+      "Gabon",
+      "Barbados",
+      "Trinidad_and_Tobago",
+      "Eswatini",
+      "Bahamas__The",
+      "Belize",
+      "Belgium",
+      "Jordan",
+      "Kenya",
+      "India",
+      "Pakistan",
+      "Australia",
+      "Canada",
+      "Liechtenstein",
+      "Sweden",
+      "Germany",
+      "Nauru"
+    ]
+  },
+  "medoids": {
+    "0": "Denmark",
+    "1": "Netherlands__Kingdom_of_the_",
+    "2": "Russian_Federation",
+    "3": "Uzbekistan",
+    "4": "Grenada"
+  },
+  "cluster_stats": {
+    "0": {
+      "size": 1,
+      "avg_distance_to_medoid": 0.0,
+      "max_distance_to_medoid": 0.0,
+      "avg_pairwise_distance": 0.0,
+      "diameter": 0.0
+    },
+    "1": {
+      "size": 1,
+      "avg_distance_to_medoid": 0.0,
+      "max_distance_to_medoid": 0.0,
+      "avg_pairwise_distance": 0.0,
+      "diameter": 0.0
+    },
+    "2": {
+      "size": 19,
+      "avg_distance_to_medoid": 0.326631,
+      "max_distance_to_medoid": 0.398186,
+      "avg_pairwise_distance": 0.378637,
+      "diameter": 0.489511
+    },
+    "3": {
+      "size": 16,
+      "avg_distance_to_medoid": 0.330391,
+      "max_distance_to_medoid": 0.407319,
+      "avg_pairwise_distance": 0.398179,
+      "diameter": 0.496155
+    },
+    "4": {
+      "size": 156,
+      "avg_distance_to_medoid": 0.275513,
+      "max_distance_to_medoid": 0.401089,
+      "avg_pairwise_distance": 0.330889,
+      "diameter": 0.509646
+    }
+  },
+  "metadata": {
+    "merge_history": [
+      {
+        "step": 1,
+        "merged": [
+          20,
+          133
+        ],
+        "new_id": 193,
+        "distance": 0.120513,
+        "size": 2
+      },
+      {
+        "step": 2,
+        "merged": [
+          5,
+          68
+        ],
+        "new_id": 194,
+        "distance": 0.136679,
+        "size": 2
+      },
+      {
+        "step": 3,
+        "merged": [
+          11,
+          17
+        ],
+        "new_id": 195,
+        "distance": 0.140341,
+        "size": 2
+      },
+      {
+        "step": 4,
+        "merged": [
+          2,
+          175
+        ],
+        "new_id": 196,
+        "distance": 0.147203,
+        "size": 2
+      },
+      {
+        "step": 5,
+        "merged": [
+          48,
+          82
+        ],
+        "new_id": 197,
+        "distance": 0.151181,
+        "size": 2
+      },
+      {
+        "step": 6,
+        "merged": [
+          115,
+          170
+        ],
+        "new_id": 198,
+        "distance": 0.152604,
+        "size": 2
+      },
+      {
+        "step": 7,
+        "merged": [
+          144,
+          146
+        ],
+        "new_id": 199,
+        "distance": 0.153918,
+        "size": 2
+      },
+      {
+        "step": 8,
+        "merged": [
+          158,
+          177
+        ],
+        "new_id": 200,
+        "distance": 0.16164,
+        "size": 2
+      },
+      {
+        "step": 9,
+        "merged": [
+          84,
+          194
+        ],
+        "new_id": 201,
+        "distance": 0.163357,
+        "size": 3
+      },
+      {
+        "step": 10,
+        "merged": [
+          172,
+          198
+        ],
+        "new_id": 202,
+        "distance": 0.168313,
+        "size": 3
+      },
+      {
+        "step": 11,
+        "merged": [
+          66,
+          154
+        ],
+        "new_id": 203,
+        "distance": 0.17138,
+        "size": 2
+      },
+      {
+        "step": 12,
+        "merged": [
+          87,
+          136
+        ],
+        "new_id": 204,
+        "distance": 0.180982,
+        "size": 2
+      },
+      {
+        "step": 13,
+        "merged": [
+          102,
+          203
+        ],
+        "new_id": 205,
+        "distance": 0.18306,
+        "size": 3
+      },
+      {
+        "step": 14,
+        "merged": [
+          145,
+          201
+        ],
+        "new_id": 206,
+        "distance": 0.18706,
+        "size": 4
+      },
+      {
+        "step": 15,
+        "merged": [
+          196,
+          202
+        ],
+        "new_id": 207,
+        "distance": 0.192492,
+        "size": 5
+      },
+      {
+        "step": 16,
+        "merged": [
+          90,
+          138
+        ],
+        "new_id": 208,
+        "distance": 0.195275,
+        "size": 2
+      },
+      {
+        "step": 17,
+        "merged": [
+          95,
+          169
+        ],
+        "new_id": 209,
+        "distance": 0.195827,
+        "size": 2
+      },
+      {
+        "step": 18,
+        "merged": [
+          27,
+          143
+        ],
+        "new_id": 210,
+        "distance": 0.198038,
+        "size": 2
+      },
+      {
+        "step": 19,
+        "merged": [
+          94,
+          168
+        ],
+        "new_id": 211,
+        "distance": 0.198585,
+        "size": 2
+      },
+      {
+        "step": 20,
+        "merged": [
+          187,
+          200
+        ],
+        "new_id": 212,
+        "distance": 0.199823,
+        "size": 3
+      },
+      {
+        "step": 21,
+        "merged": [
+          126,
+          173
+        ],
+        "new_id": 213,
+        "distance": 0.2005,
+        "size": 2
+      },
+      {
+        "step": 22,
+        "merged": [
+          40,
+          99
+        ],
+        "new_id": 214,
+        "distance": 0.202251,
+        "size": 2
+      },
+      {
+        "step": 23,
+        "merged": [
+          36,
+          188
+        ],
+        "new_id": 215,
+        "distance": 0.202613,
+        "size": 2
+      },
+      {
+        "step": 24,
+        "merged": [
+          50,
+          120
+        ],
+        "new_id": 216,
+        "distance": 0.202714,
+        "size": 2
+      },
+      {
+        "step": 25,
+        "merged": [
+          4,
+          28
+        ],
+        "new_id": 217,
+        "distance": 0.203499,
+        "size": 2
+      },
+      {
+        "step": 26,
+        "merged": [
+          43,
+          204
+        ],
+        "new_id": 218,
+        "distance": 0.205002,
+        "size": 3
+      },
+      {
+        "step": 27,
+        "merged": [
+          63,
+          151
+        ],
+        "new_id": 219,
+        "distance": 0.205224,
+        "size": 2
+      },
+      {
+        "step": 28,
+        "merged": [
+          30,
+          80
+        ],
+        "new_id": 220,
+        "distance": 0.205617,
+        "size": 2
+      },
+      {
+        "step": 29,
+        "merged": [
+          15,
+          101
+        ],
+        "new_id": 221,
+        "distance": 0.205731,
+        "size": 2
+      },
+      {
+        "step": 30,
+        "merged": [
+          1,
+          197
+        ],
+        "new_id": 222,
+        "distance": 0.206127,
+        "size": 3
+      },
+      {
+        "step": 31,
+        "merged": [
+          16,
+          86
+        ],
+        "new_id": 223,
+        "distance": 0.206851,
+        "size": 2
+      },
+      {
+        "step": 32,
+        "merged": [
+          107,
+          111
+        ],
+        "new_id": 224,
+        "distance": 0.207529,
+        "size": 2
+      },
+      {
+        "step": 33,
+        "merged": [
+          19,
+          157
+        ],
+        "new_id": 225,
+        "distance": 0.2078,
+        "size": 2
+      },
+      {
+        "step": 34,
+        "merged": [
+          10,
+          181
+        ],
+        "new_id": 226,
+        "distance": 0.210932,
+        "size": 2
+      },
+      {
+        "step": 35,
+        "merged": [
+          69,
+          131
+        ],
+        "new_id": 227,
+        "distance": 0.211135,
+        "size": 2
+      },
+      {
+        "step": 36,
+        "merged": [
+          191,
+          205
+        ],
+        "new_id": 228,
+        "distance": 0.212507,
+        "size": 4
+      },
+      {
+        "step": 37,
+        "merged": [
+          49,
+          199
+        ],
+        "new_id": 229,
+        "distance": 0.21408,
+        "size": 3
+      },
+      {
+        "step": 38,
+        "merged": [
+          110,
+          193
+        ],
+        "new_id": 230,
+        "distance": 0.215965,
+        "size": 3
+      },
+      {
+        "step": 39,
+        "merged": [
+          67,
+          150
+        ],
+        "new_id": 231,
+        "distance": 0.216759,
+        "size": 2
+      },
+      {
+        "step": 40,
+        "merged": [
+          14,
+          174
+        ],
+        "new_id": 232,
+        "distance": 0.21771,
+        "size": 2
+      },
+      {
+        "step": 41,
+        "merged": [
+          195,
+          223
+        ],
+        "new_id": 233,
+        "distance": 0.217902,
+        "size": 4
+      },
+      {
+        "step": 42,
+        "merged": [
+          32,
+          108
+        ],
+        "new_id": 234,
+        "distance": 0.221643,
+        "size": 2
+      },
+      {
+        "step": 43,
+        "merged": [
+          56,
+          106
+        ],
+        "new_id": 235,
+        "distance": 0.224777,
+        "size": 2
+      },
+      {
+        "step": 44,
+        "merged": [
+          46,
+          52
+        ],
+        "new_id": 236,
+        "distance": 0.225721,
+        "size": 2
+      },
+      {
+        "step": 45,
+        "merged": [
+          207,
+          221
+        ],
+        "new_id": 237,
+        "distance": 0.225918,
+        "size": 7
+      },
+      {
+        "step": 46,
+        "merged": [
+          18,
+          219
+        ],
+        "new_id": 238,
+        "distance": 0.226516,
+        "size": 3
+      },
+      {
+        "step": 47,
+        "merged": [
+          91,
+          113
+        ],
+        "new_id": 239,
+        "distance": 0.226537,
+        "size": 2
+      },
+      {
+        "step": 48,
+        "merged": [
+          7,
+          222
+        ],
+        "new_id": 240,
+        "distance": 0.226706,
+        "size": 4
+      },
+      {
+        "step": 49,
+        "merged": [
+          75,
+          114
+        ],
+        "new_id": 241,
+        "distance": 0.227712,
+        "size": 2
+      },
+      {
+        "step": 50,
+        "merged": [
+          213,
+          226
+        ],
+        "new_id": 242,
+        "distance": 0.229323,
+        "size": 4
+      },
+      {
+        "step": 51,
+        "merged": [
+          116,
+          217
+        ],
+        "new_id": 243,
+        "distance": 0.229861,
+        "size": 3
+      },
+      {
+        "step": 52,
+        "merged": [
+          54,
+          209
+        ],
+        "new_id": 244,
+        "distance": 0.230468,
+        "size": 3
+      },
+      {
+        "step": 53,
+        "merged": [
+          218,
+          237
+        ],
+        "new_id": 245,
+        "distance": 0.230512,
+        "size": 10
+      },
+      {
+        "step": 54,
+        "merged": [
+          109,
+          153
+        ],
+        "new_id": 246,
+        "distance": 0.233414,
+        "size": 2
+      },
+      {
+        "step": 55,
+        "merged": [
+          25,
+          214
+        ],
+        "new_id": 247,
+        "distance": 0.238316,
+        "size": 3
+      },
+      {
+        "step": 56,
+        "merged": [
+          38,
+          62
+        ],
+        "new_id": 248,
+        "distance": 0.239109,
+        "size": 2
+      },
+      {
+        "step": 57,
+        "merged": [
+          64,
+          152
+        ],
+        "new_id": 249,
+        "distance": 0.239451,
+        "size": 2
+      },
+      {
+        "step": 58,
+        "merged": [
+          60,
+          93
+        ],
+        "new_id": 250,
+        "distance": 0.241901,
+        "size": 2
+      },
+      {
+        "step": 59,
+        "merged": [
+          53,
+          227
+        ],
+        "new_id": 251,
+        "distance": 0.245932,
+        "size": 3
+      },
+      {
+        "step": 60,
+        "merged": [
+          155,
+          235
+        ],
+        "new_id": 252,
+        "distance": 0.246064,
+        "size": 3
+      },
+      {
+        "step": 61,
+        "merged": [
+          6,
+          34
+        ],
+        "new_id": 253,
+        "distance": 0.2461,
+        "size": 2
+      },
+      {
+        "step": 62,
+        "merged": [
+          220,
+          245
+        ],
+        "new_id": 254,
+        "distance": 0.246582,
+        "size": 12
+      },
+      {
+        "step": 63,
+        "merged": [
+          210,
+          216
+        ],
+        "new_id": 255,
+        "distance": 0.24737,
+        "size": 4
+      },
+      {
+        "step": 64,
+        "merged": [
+          57,
+          233
+        ],
+        "new_id": 256,
+        "distance": 0.249819,
+        "size": 5
+      },
+      {
+        "step": 65,
+        "merged": [
+          100,
+          231
+        ],
+        "new_id": 257,
+        "distance": 0.249999,
+        "size": 3
+      },
+      {
+        "step": 66,
+        "merged": [
+          242,
+          247
+        ],
+        "new_id": 258,
+        "distance": 0.253806,
+        "size": 7
+      },
+      {
+        "step": 67,
+        "merged": [
+          89,
+          246
+        ],
+        "new_id": 259,
+        "distance": 0.254081,
+        "size": 3
+      },
+      {
+        "step": 68,
+        "merged": [
+          225,
+          236
+        ],
+        "new_id": 260,
+        "distance": 0.255293,
+        "size": 4
+      },
+      {
+        "step": 69,
+        "merged": [
+          139,
+          239
+        ],
+        "new_id": 261,
+        "distance": 0.255377,
+        "size": 3
+      },
+      {
+        "step": 70,
+        "merged": [
+          215,
+          230
+        ],
+        "new_id": 262,
+        "distance": 0.255627,
+        "size": 5
+      },
+      {
+        "step": 71,
+        "merged": [
+          77,
+          129
+        ],
+        "new_id": 263,
+        "distance": 0.257855,
+        "size": 2
+      },
+      {
+        "step": 72,
+        "merged": [
+          179,
+          183
+        ],
+        "new_id": 264,
+        "distance": 0.260094,
+        "size": 2
+      },
+      {
+        "step": 73,
+        "merged": [
+          33,
+          132
+        ],
+        "new_id": 265,
+        "distance": 0.262527,
+        "size": 2
+      },
+      {
+        "step": 74,
+        "merged": [
+          65,
+          119
+        ],
+        "new_id": 266,
+        "distance": 0.262544,
+        "size": 2
+      },
+      {
+        "step": 75,
+        "merged": [
+          88,
+          263
+        ],
+        "new_id": 267,
+        "distance": 0.265044,
+        "size": 3
+      },
+      {
+        "step": 76,
+        "merged": [
+          212,
+          252
+        ],
+        "new_id": 268,
+        "distance": 0.265676,
+        "size": 6
+      },
+      {
+        "step": 77,
+        "merged": [
+          22,
+          76
+        ],
+        "new_id": 269,
+        "distance": 0.266736,
+        "size": 2
+      },
+      {
+        "step": 78,
+        "merged": [
+          206,
+          254
+        ],
+        "new_id": 270,
+        "distance": 0.267652,
+        "size": 16
+      },
+      {
+        "step": 79,
+        "merged": [
+          211,
+          240
+        ],
+        "new_id": 271,
+        "distance": 0.268857,
+        "size": 6
+      },
+      {
+        "step": 80,
+        "merged": [
+          130,
+          224
+        ],
+        "new_id": 272,
+        "distance": 0.270801,
+        "size": 3
+      },
+      {
+        "step": 81,
+        "merged": [
+          55,
+          59
+        ],
+        "new_id": 273,
+        "distance": 0.272468,
+        "size": 2
+      },
+      {
+        "step": 82,
+        "merged": [
+          128,
+          260
+        ],
+        "new_id": 274,
+        "distance": 0.273662,
+        "size": 5
+      },
+      {
+        "step": 83,
+        "merged": [
+          244,
+          255
+        ],
+        "new_id": 275,
+        "distance": 0.274476,
+        "size": 7
+      },
+      {
+        "step": 84,
+        "merged": [
+          249,
+          258
+        ],
+        "new_id": 276,
+        "distance": 0.274911,
+        "size": 9
+      },
+      {
+        "step": 85,
+        "merged": [
+          12,
+          142
+        ],
+        "new_id": 277,
+        "distance": 0.276728,
+        "size": 2
+      },
+      {
+        "step": 86,
+        "merged": [
+          228,
+          259
+        ],
+        "new_id": 278,
+        "distance": 0.278436,
+        "size": 7
+      },
+      {
+        "step": 87,
+        "merged": [
+          79,
+          178
+        ],
+        "new_id": 279,
+        "distance": 0.278511,
+        "size": 2
+      },
+      {
+        "step": 88,
+        "merged": [
+          39,
+          251
+        ],
+        "new_id": 280,
+        "distance": 0.279048,
+        "size": 4
+      },
+      {
+        "step": 89,
+        "merged": [
+          156,
+          276
+        ],
+        "new_id": 281,
+        "distance": 0.280366,
+        "size": 10
+      },
+      {
+        "step": 90,
+        "merged": [
+          163,
+          180
+        ],
+        "new_id": 282,
+        "distance": 0.281848,
+        "size": 2
+      },
+      {
+        "step": 91,
+        "merged": [
+          184,
+          185
+        ],
+        "new_id": 283,
+        "distance": 0.282319,
+        "size": 2
+      },
+      {
+        "step": 92,
+        "merged": [
+          141,
+          186
+        ],
+        "new_id": 284,
+        "distance": 0.283701,
+        "size": 2
+      },
+      {
+        "step": 93,
+        "merged": [
+          42,
+          278
+        ],
+        "new_id": 285,
+        "distance": 0.284116,
+        "size": 8
+      },
+      {
+        "step": 94,
+        "merged": [
+          124,
+          238
+        ],
+        "new_id": 286,
+        "distance": 0.285247,
+        "size": 4
+      },
+      {
+        "step": 95,
+        "merged": [
+          159,
+          164
+        ],
+        "new_id": 287,
+        "distance": 0.285936,
+        "size": 2
+      },
+      {
+        "step": 96,
+        "merged": [
+          9,
+          29
+        ],
+        "new_id": 288,
+        "distance": 0.286921,
+        "size": 2
+      },
+      {
+        "step": 97,
+        "merged": [
+          74,
+          123
+        ],
+        "new_id": 289,
+        "distance": 0.287793,
+        "size": 2
+      },
+      {
+        "step": 98,
+        "merged": [
+          241,
+          281
+        ],
+        "new_id": 290,
+        "distance": 0.288867,
+        "size": 12
+      },
+      {
+        "step": 99,
+        "merged": [
+          70,
+          71
+        ],
+        "new_id": 291,
+        "distance": 0.289246,
+        "size": 2
+      },
+      {
+        "step": 100,
+        "merged": [
+          0,
+          208
+        ],
+        "new_id": 292,
+        "distance": 0.289492,
+        "size": 3
+      },
+      {
+        "step": 101,
+        "merged": [
+          44,
+          248
+        ],
+        "new_id": 293,
+        "distance": 0.289774,
+        "size": 3
+      },
+      {
+        "step": 102,
+        "merged": [
+          250,
+          286
+        ],
+        "new_id": 294,
+        "distance": 0.290509,
+        "size": 6
+      },
+      {
+        "step": 103,
+        "merged": [
+          190,
+          277
+        ],
+        "new_id": 295,
+        "distance": 0.292951,
+        "size": 3
+      },
+      {
+        "step": 104,
+        "merged": [
+          232,
+          256
+        ],
+        "new_id": 296,
+        "distance": 0.294191,
+        "size": 7
+      },
+      {
+        "step": 105,
+        "merged": [
+          243,
+          291
+        ],
+        "new_id": 297,
+        "distance": 0.297988,
+        "size": 5
+      },
+      {
+        "step": 106,
+        "merged": [
+          104,
+          149
+        ],
+        "new_id": 298,
+        "distance": 0.298027,
+        "size": 2
+      },
+      {
+        "step": 107,
+        "merged": [
+          51,
+          234
+        ],
+        "new_id": 299,
+        "distance": 0.298266,
+        "size": 3
+      },
+      {
+        "step": 108,
+        "merged": [
+          229,
+          269
+        ],
+        "new_id": 300,
+        "distance": 0.298679,
+        "size": 5
+      },
+      {
+        "step": 109,
+        "merged": [
+          117,
+          275
+        ],
+        "new_id": 301,
+        "distance": 0.299474,
+        "size": 8
+      },
+      {
+        "step": 110,
+        "merged": [
+          92,
+          271
+        ],
+        "new_id": 302,
+        "distance": 0.300531,
+        "size": 7
+      },
+      {
+        "step": 111,
+        "merged": [
+          268,
+          300
+        ],
+        "new_id": 303,
+        "distance": 0.300856,
+        "size": 11
+      },
+      {
+        "step": 112,
+        "merged": [
+          78,
+          283
+        ],
+        "new_id": 304,
+        "distance": 0.302108,
+        "size": 3
+      },
+      {
+        "step": 113,
+        "merged": [
+          270,
+          288
+        ],
+        "new_id": 305,
+        "distance": 0.304026,
+        "size": 18
+      },
+      {
+        "step": 114,
+        "merged": [
+          280,
+          289
+        ],
+        "new_id": 306,
+        "distance": 0.305113,
+        "size": 6
+      },
+      {
+        "step": 115,
+        "merged": [
+          134,
+          262
+        ],
+        "new_id": 307,
+        "distance": 0.305405,
+        "size": 6
+      },
+      {
+        "step": 116,
+        "merged": [
+          24,
+          292
+        ],
+        "new_id": 308,
+        "distance": 0.305978,
+        "size": 4
+      },
+      {
+        "step": 117,
+        "merged": [
+          37,
+          137
+        ],
+        "new_id": 309,
+        "distance": 0.306442,
+        "size": 2
+      },
+      {
+        "step": 118,
+        "merged": [
+          161,
+          265
+        ],
+        "new_id": 310,
+        "distance": 0.306499,
+        "size": 3
+      },
+      {
+        "step": 119,
+        "merged": [
+          8,
+          31
+        ],
+        "new_id": 311,
+        "distance": 0.307306,
+        "size": 2
+      },
+      {
+        "step": 120,
+        "merged": [
+          162,
+          257
+        ],
+        "new_id": 312,
+        "distance": 0.314626,
+        "size": 4
+      },
+      {
+        "step": 121,
+        "merged": [
+          261,
+          290
+        ],
+        "new_id": 313,
+        "distance": 0.315529,
+        "size": 15
+      },
+      {
+        "step": 122,
+        "merged": [
+          274,
+          305
+        ],
+        "new_id": 314,
+        "distance": 0.319301,
+        "size": 23
+      },
+      {
+        "step": 123,
+        "merged": [
+          182,
+          295
+        ],
+        "new_id": 315,
+        "distance": 0.319853,
+        "size": 4
+      },
+      {
+        "step": 124,
+        "merged": [
+          294,
+          297
+        ],
+        "new_id": 316,
+        "distance": 0.321233,
+        "size": 11
+      },
+      {
+        "step": 125,
+        "merged": [
+          279,
+          309
+        ],
+        "new_id": 317,
+        "distance": 0.322657,
+        "size": 4
+      },
+      {
+        "step": 126,
+        "merged": [
+          293,
+          296
+        ],
+        "new_id": 318,
+        "distance": 0.323889,
+        "size": 10
+      },
+      {
+        "step": 127,
+        "merged": [
+          61,
+          85
+        ],
+        "new_id": 319,
+        "distance": 0.326979,
+        "size": 2
+      },
+      {
+        "step": 128,
+        "merged": [
+          302,
+          313
+        ],
+        "new_id": 320,
+        "distance": 0.330128,
+        "size": 22
+      },
+      {
+        "step": 129,
+        "merged": [
+          176,
+          303
+        ],
+        "new_id": 321,
+        "distance": 0.331214,
+        "size": 12
+      },
+      {
+        "step": 130,
+        "merged": [
+          165,
+          285
+        ],
+        "new_id": 322,
+        "distance": 0.33129,
+        "size": 9
+      },
+      {
+        "step": 131,
+        "merged": [
+          3,
+          148
+        ],
+        "new_id": 323,
+        "distance": 0.331923,
+        "size": 2
+      },
+      {
+        "step": 132,
+        "merged": [
+          273,
+          298
+        ],
+        "new_id": 324,
+        "distance": 0.333183,
+        "size": 4
+      },
+      {
+        "step": 133,
+        "merged": [
+          272,
+          322
+        ],
+        "new_id": 325,
+        "distance": 0.334004,
+        "size": 12
+      },
+      {
+        "step": 134,
+        "merged": [
+          299,
+          306
+        ],
+        "new_id": 326,
+        "distance": 0.334047,
+        "size": 9
+      },
+      {
+        "step": 135,
+        "merged": [
+          72,
+          105
+        ],
+        "new_id": 327,
+        "distance": 0.336616,
+        "size": 2
+      },
+      {
+        "step": 136,
+        "merged": [
+          81,
+          284
+        ],
+        "new_id": 328,
+        "distance": 0.337122,
+        "size": 3
+      },
+      {
+        "step": 137,
+        "merged": [
+          125,
+          135
+        ],
+        "new_id": 329,
+        "distance": 0.339883,
+        "size": 2
+      },
+      {
+        "step": 138,
+        "merged": [
+          35,
+          317
+        ],
+        "new_id": 330,
+        "distance": 0.340462,
+        "size": 5
+      },
+      {
+        "step": 139,
+        "merged": [
+          26,
+          171
+        ],
+        "new_id": 331,
+        "distance": 0.340568,
+        "size": 2
+      },
+      {
+        "step": 140,
+        "merged": [
+          166,
+          266
+        ],
+        "new_id": 332,
+        "distance": 0.341137,
+        "size": 3
+      },
+      {
+        "step": 141,
+        "merged": [
+          301,
+          318
+        ],
+        "new_id": 333,
+        "distance": 0.341689,
+        "size": 18
+      },
+      {
+        "step": 142,
+        "merged": [
+          308,
+          320
+        ],
+        "new_id": 334,
+        "distance": 0.341962,
+        "size": 26
+      },
+      {
+        "step": 143,
+        "merged": [
+          96,
+          304
+        ],
+        "new_id": 335,
+        "distance": 0.346543,
+        "size": 4
+      },
+      {
+        "step": 144,
+        "merged": [
+          189,
+          334
+        ],
+        "new_id": 336,
+        "distance": 0.346771,
+        "size": 27
+      },
+      {
+        "step": 145,
+        "merged": [
+          112,
+          323
+        ],
+        "new_id": 337,
+        "distance": 0.3471,
+        "size": 3
+      },
+      {
+        "step": 146,
+        "merged": [
+          287,
+          314
+        ],
+        "new_id": 338,
+        "distance": 0.34788,
+        "size": 25
+      },
+      {
+        "step": 147,
+        "merged": [
+          23,
+          253
+        ],
+        "new_id": 339,
+        "distance": 0.348114,
+        "size": 3
+      },
+      {
+        "step": 148,
+        "merged": [
+          310,
+          316
+        ],
+        "new_id": 340,
+        "distance": 0.351313,
+        "size": 14
+      },
+      {
+        "step": 149,
+        "merged": [
+          41,
+          307
+        ],
+        "new_id": 341,
+        "distance": 0.353907,
+        "size": 7
+      },
+      {
+        "step": 150,
+        "merged": [
+          264,
+          340
+        ],
+        "new_id": 342,
+        "distance": 0.355823,
+        "size": 16
+      },
+      {
+        "step": 151,
+        "merged": [
+          160,
+          192
+        ],
+        "new_id": 343,
+        "distance": 0.357987,
+        "size": 2
+      },
+      {
+        "step": 152,
+        "merged": [
+          97,
+          327
+        ],
+        "new_id": 344,
+        "distance": 0.362812,
+        "size": 3
+      },
+      {
+        "step": 153,
+        "merged": [
+          21,
+          315
+        ],
+        "new_id": 345,
+        "distance": 0.363693,
+        "size": 5
+      },
+      {
+        "step": 154,
+        "merged": [
+          122,
+          321
+        ],
+        "new_id": 346,
+        "distance": 0.363899,
+        "size": 13
+      },
+      {
+        "step": 155,
+        "merged": [
+          103,
+          339
+        ],
+        "new_id": 347,
+        "distance": 0.367113,
+        "size": 4
+      },
+      {
+        "step": 156,
+        "merged": [
+          336,
+          338
+        ],
+        "new_id": 348,
+        "distance": 0.367292,
+        "size": 52
+      },
+      {
+        "step": 157,
+        "merged": [
+          140,
+          282
+        ],
+        "new_id": 349,
+        "distance": 0.369333,
+        "size": 3
+      },
+      {
+        "step": 158,
+        "merged": [
+          83,
+          328
+        ],
+        "new_id": 350,
+        "distance": 0.371371,
+        "size": 4
+      },
+      {
+        "step": 159,
+        "merged": [
+          267,
+          311
+        ],
+        "new_id": 351,
+        "distance": 0.371408,
+        "size": 5
+      },
+      {
+        "step": 160,
+        "merged": [
+          325,
+          342
+        ],
+        "new_id": 352,
+        "distance": 0.373988,
+        "size": 28
+      },
+      {
+        "step": 161,
+        "merged": [
+          45,
+          312
+        ],
+        "new_id": 353,
+        "distance": 0.374026,
+        "size": 5
+      },
+      {
+        "step": 162,
+        "merged": [
+          98,
+          332
+        ],
+        "new_id": 354,
+        "distance": 0.378555,
+        "size": 4
+      },
+      {
+        "step": 163,
+        "merged": [
+          331,
+          333
+        ],
+        "new_id": 355,
+        "distance": 0.381396,
+        "size": 20
+      },
+      {
+        "step": 164,
+        "merged": [
+          13,
+          324
+        ],
+        "new_id": 356,
+        "distance": 0.389776,
+        "size": 5
+      },
+      {
+        "step": 165,
+        "merged": [
+          346,
+          355
+        ],
+        "new_id": 357,
+        "distance": 0.392004,
+        "size": 33
+      },
+      {
+        "step": 166,
+        "merged": [
+          329,
+          335
+        ],
+        "new_id": 358,
+        "distance": 0.394452,
+        "size": 6
+      },
+      {
+        "step": 167,
+        "merged": [
+          326,
+          341
+        ],
+        "new_id": 359,
+        "distance": 0.395229,
+        "size": 16
+      },
+      {
+        "step": 168,
+        "merged": [
+          344,
+          348
+        ],
+        "new_id": 360,
+        "distance": 0.396469,
+        "size": 55
+      },
+      {
+        "step": 169,
+        "merged": [
+          352,
+          359
+        ],
+        "new_id": 361,
+        "distance": 0.403298,
+        "size": 44
+      },
+      {
+        "step": 170,
+        "merged": [
+          58,
+          118
+        ],
+        "new_id": 362,
+        "distance": 0.411242,
+        "size": 2
+      },
+      {
+        "step": 171,
+        "merged": [
+          73,
+          350
+        ],
+        "new_id": 363,
+        "distance": 0.411853,
+        "size": 5
+      },
+      {
+        "step": 172,
+        "merged": [
+          349,
+          356
+        ],
+        "new_id": 364,
+        "distance": 0.414195,
+        "size": 8
+      },
+      {
+        "step": 173,
+        "merged": [
+          319,
+          345
+        ],
+        "new_id": 365,
+        "distance": 0.417908,
+        "size": 7
+      },
+      {
+        "step": 174,
+        "merged": [
+          147,
+          337
+        ],
+        "new_id": 366,
+        "distance": 0.419737,
+        "size": 4
+      },
+      {
+        "step": 175,
+        "merged": [
+          330,
+          360
+        ],
+        "new_id": 367,
+        "distance": 0.422846,
+        "size": 60
+      },
+      {
+        "step": 176,
+        "merged": [
+          353,
+          367
+        ],
+        "new_id": 368,
+        "distance": 0.427139,
+        "size": 65
+      },
+      {
+        "step": 177,
+        "merged": [
+          358,
+          362
+        ],
+        "new_id": 369,
+        "distance": 0.427943,
+        "size": 8
+      },
+      {
+        "step": 178,
+        "merged": [
+          351,
+          354
+        ],
+        "new_id": 370,
+        "distance": 0.428783,
+        "size": 9
+      },
+      {
+        "step": 179,
+        "merged": [
+          361,
+          366
+        ],
+        "new_id": 371,
+        "distance": 0.429373,
+        "size": 48
+      },
+      {
+        "step": 180,
+        "merged": [
+          357,
+          370
+        ],
+        "new_id": 372,
+        "distance": 0.447088,
+        "size": 42
+      },
+      {
+        "step": 181,
+        "merged": [
+          347,
+          365
+        ],
+        "new_id": 373,
+        "distance": 0.449437,
+        "size": 11
+      },
+      {
+        "step": 182,
+        "merged": [
+          363,
+          369
+        ],
+        "new_id": 374,
+        "distance": 0.456019,
+        "size": 13
+      },
+      {
+        "step": 183,
+        "merged": [
+          371,
+          372
+        ],
+        "new_id": 375,
+        "distance": 0.473451,
+        "size": 90
+      },
+      {
+        "step": 184,
+        "merged": [
+          343,
+          374
+        ],
+        "new_id": 376,
+        "distance": 0.484642,
+        "size": 15
+      },
+      {
+        "step": 185,
+        "merged": [
+          364,
+          373
+        ],
+        "new_id": 377,
+        "distance": 0.489511,
+        "size": 19
+      },
+      {
+        "step": 186,
+        "merged": [
+          368,
+          375
+        ],
+        "new_id": 378,
+        "distance": 0.492891,
+        "size": 155
+      },
+      {
+        "step": 187,
+        "merged": [
+          167,
+          376
+        ],
+        "new_id": 379,
+        "distance": 0.496155,
+        "size": 16
+      },
+      {
+        "step": 188,
+        "merged": [
+          127,
+          378
+        ],
+        "new_id": 380,
+        "distance": 0.509646,
+        "size": 156
+      }
+    ],
+    "matrix_id": "3fb0e05bbe7e",
+    "matrix_labels": [
+      "Afghanistan",
+      "Albania",
+      "Algeria",
+      "Andorra",
+      "Angola",
+      "Antigua_and_Barbuda",
+      "Argentina",
+      "Armenia",
+      "Australia",
+      "Austria",
+      "Azerbaijan",
+      "Bahamas__The",
+      "Bahrain",
+      "Bangladesh",
+      "Barbados",
+      "Belarus",
+      "Belgium",
+      "Belize",
+      "Benin",
+      "Bhutan",
+      "Bolivia",
+      "Bosnia_and_Herzegovina",
+      "Botswana",
+      "Brazil",
+      "Brunei",
+      "Bulgaria",
+      "Burkina_Faso",
+      "Burundi",
+      "Cabo_Verde",
+      "Cambodia",
+      "Cameroon",
+      "Canada",
+      "Central_African_Republic",
+      "Chad",
+      "Chile",
+      "China",
+      "Colombia",
+      "Comoros",
+      "Congo",
+      "Costa_Rica",
+      "Croatia",
+      "Cuba",
+      "Cyprus",
+      "Czechia",
+      "Côte_d_Ivoire",
+      "Democratic_People_s_Republic_of_Korea",
+      "Democratic_Republic_of_the_Congo",
+      "Denmark",
+      "Djibouti",
+      "Dominica",
+      "Dominican_Republic",
+      "Ecuador",
+      "Egypt",
+      "El_Salvador",
+      "Equatorial_Guinea",
+      "Eritrea",
+      "Estonia",
+      "Eswatini",
+      "Ethiopia",
+      "Fiji",
+      "Finland",
+      "France",
+      "Gabon",
+      "Gambia__Republic_of_The_",
+      "Georgia",
+      "Germany",
+      "Ghana",
+      "Greece",
+      "Grenada",
+      "Guatemala",
+      "Guinea",
+      "Guinea_Bissau",
+      "Guyana",
+      "Haiti",
+      "Honduras",
+      "Hungary",
+      "Iceland",
+      "India",
+      "Indonesia",
+      "Iran__Islamic_Republic_of_",
+      "Iraq",
+      "Ireland",
+      "Israel",
+      "Italy",
+      "Jamaica",
+      "Japan",
+      "Jordan",
+      "Kazakhstan",
+      "Kenya",
+      "Kiribati",
+      "Kuwait",
+      "Kyrgyzstan",
+      "Lao_People_s_Democratic_Republic",
+      "Latvia",
+      "Lebanon",
+      "Lesotho",
+      "Liberia",
+      "Libya",
+      "Liechtenstein",
+      "Lithuania",
+      "Luxembourg",
+      "Madagascar",
+      "Malawi",
+      "Malaysia",
+      "Maldives",
+      "Mali",
+      "Malta",
+      "Marshall_Islands",
+      "Mauritania",
+      "Mauritius",
+      "Mexico",
+      "Micronesia__Federated_States_of_",
+      "Monaco",
+      "Mongolia",
+      "Montenegro",
+      "Morocco",
+      "Mozambique",
+      "Myanmar",
+      "Namibia",
+      "Nauru",
+      "Nepal",
+      "Netherlands__Kingdom_of_the_",
+      "New_Zealand",
+      "Nicaragua",
+      "Niger",
+      "Nigeria",
+      "North_Macedonia",
+      "Norway",
+      "Oman",
+      "Pakistan",
+      "Palau",
+      "Panama",
+      "Papua_New_Guinea",
+      "Paraguay",
+      "Peru",
+      "Philippines",
+      "Poland",
+      "Portugal",
+      "Qatar",
+      "Republic_of_Korea",
+      "Republic_of_Moldova",
+      "Romania",
+      "Russian_Federation",
+      "Rwanda",
+      "Saint_Kitts_and_Nevis",
+      "Saint_Lucia",
+      "Saint_Vincent_and_the_Grenadines",
+      "Samoa",
+      "San_Marino",
+      "Sao_Tome_and_Principe",
+      "Saudi_Arabia",
+      "Senegal",
+      "Serbia",
+      "Seychelles",
+      "Sierra_Leone",
+      "Singapore",
+      "Slovakia",
+      "Slovenia",
+      "Solomon_Islands",
+      "Somalia",
+      "South_Africa",
+      "South_Sudan",
+      "Spain",
+      "Sri_Lanka",
+      "Sudan",
+      "Suriname",
+      "Sweden",
+      "Switzerland",
+      "Syrian_Arab_Republic",
+      "Tajikistan",
+      "Thailand",
+      "Timor-Leste",
+      "Togo",
+      "Tonga",
+      "Trinidad_and_Tobago",
+      "Tunisia",
+      "Turkmenistan",
+      "Tuvalu",
+      "Türkiye",
+      "Uganda",
+      "Ukraine",
+      "United_Arab_Emirates",
+      "United_Kingdom_of_Great_Britain_and_Northern_Ireland",
+      "United_Republic_of_Tanzania",
+      "United_States_of_America",
+      "Uruguay",
+      "Uzbekistan",
+      "Vanuatu",
+      "Venezuela__Bolivarian_Republic_of_",
+      "Vietnam",
+      "Yemen",
+      "Zambia",
+      "Zimbabwe"
+    ],
+    "run_time_seconds": 0.773,
+    "n_documents": 193,
+    "inter_cluster_distances": {
+      "0,1": 0.544919,
+      "0,2": 0.612441,
+      "0,3": 0.53824,
+      "0,4": 0.532155,
+      "1,2": 0.588917,
+      "1,3": 0.498838,
+      "1,4": 0.51527,
+      "2,3": 0.351698,
+      "2,4": 0.302505,
+      "3,4": 0.263702
+    }
+  }
+}

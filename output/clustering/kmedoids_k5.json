@@ -1,0 +1,272 @@
+{
+  "algorithm": "kmedoids",
+  "n_clusters": 5,
+  "linkage": null,
+  "inertia": 5.499096,
+  "silhouette_score": 0.066567,
+  "assignments": [
+    {
+      "label": "Argentina",
+      "cluster_id": 0,
+      "medoid": "Argentina",
+      "distance_to_medoid": 0.0
+    },
+    {
+      "label": "Brazil",
+      "cluster_id": 0,
+      "medoid": "Argentina",
+      "distance_to_medoid": 0.333399
+    },
+    {
+      "label": "Chile",
+      "cluster_id": 0,
+      "medoid": "Argentina",
+      "distance_to_medoid": 0.2461
+    },
+    {
+      "label": "China",
+      "cluster_id": 1,
+      "medoid": "Iraq",
+      "distance_to_medoid": 0.339926
+    },
+    {
+      "label": "Colombia",
+      "cluster_id": 3,
+      "medoid": "Kenya",
+      "distance_to_medoid": 0.287836
+    },
+    {
+      "label": "Egypt",
+      "cluster_id": 1,
+      "medoid": "Iraq",
+      "distance_to_medoid": 0.240708
+    },
+    {
+      "label": "Ethiopia",
+      "cluster_id": 1,
+      "medoid": "Iraq",
+      "distance_to_medoid": 0.299884
+    },
+    {
+      "label": "France",
+      "cluster_id": 2,
+      "medoid": "Japan",
+      "distance_to_medoid": 0.326979
+    },
+    {
+      "label": "Germany",
+      "cluster_id": 2,
+      "medoid": "Japan",
+      "distance_to_medoid": 0.320905
+    },
+    {
+      "label": "Ghana",
+      "cluster_id": 3,
+      "medoid": "Kenya",
+      "distance_to_medoid": 0.264259
+    },
+    {
+      "label": "India",
+      "cluster_id": 3,
+      "medoid": "Kenya",
+      "distance_to_medoid": 0.265044
+    },
+    {
+      "label": "Indonesia",
+      "cluster_id": 1,
+      "medoid": "Iraq",
+      "distance_to_medoid": 0.311887
+    },
+    {
+      "label": "Iraq",
+      "cluster_id": 1,
+      "medoid": "Iraq",
+      "distance_to_medoid": 0.0
+    },
+    {
+      "label": "Italy",
+      "cluster_id": 3,
+      "medoid": "Kenya",
+      "distance_to_medoid": 0.373184
+    },
+    {
+      "label": "Japan",
+      "cluster_id": 2,
+      "medoid": "Japan",
+      "distance_to_medoid": 0.0
+    },
+    {
+      "label": "Jordan",
+      "cluster_id": 3,
+      "medoid": "Kenya",
+      "distance_to_medoid": 0.241993
+    },
+    {
+      "label": "Kenya",
+      "cluster_id": 3,
+      "medoid": "Kenya",
+      "distance_to_medoid": 0.0
+    },
+    {
+      "label": "Lebanon",
+      "cluster_id": 1,
+      "medoid": "Iraq",
+      "distance_to_medoid": 0.28738
+    },
+    {
+      "label": "Nigeria",
+      "cluster_id": 3,
+      "medoid": "Kenya",
+      "distance_to_medoid": 0.35732
+    },
+    {
+      "label": "Peru",
+      "cluster_id": 3,
+      "medoid": "Kenya",
+      "distance_to_medoid": 0.33983
+    },
+    {
+      "label": "South Africa",
+      "cluster_id": 3,
+      "medoid": "Kenya",
+      "distance_to_medoid": 0.341481
+    },
+    {
+      "label": "Spain",
+      "cluster_id": 1,
+      "medoid": "Iraq",
+      "distance_to_medoid": 0.32098
+    },
+    {
+      "label": "Switzerland",
+      "cluster_id": 4,
+      "medoid": "Switzerland",
+      "distance_to_medoid": 0.0
+    }
+  ],
+  "clusters": {
+    "0": [
+      "Argentina",
+      "Brazil",
+      "Chile"
+    ],
+    "1": [
+      "China",
+      "Egypt",
+      "Ethiopia",
+      "Indonesia",
+      "Iraq",
+      "Lebanon",
+      "Spain"
+    ],
+    "2": [
+      "France",
+      "Germany",
+      "Japan"
+    ],
+    "3": [
+      "Colombia",
+      "Ghana",
+      "India",
+      "Italy",
+      "Jordan",
+      "Kenya",
+      "Nigeria",
+      "Peru",
+      "South Africa"
+    ],
+    "4": [
+      "Switzerland"
+    ]
+  },
+  "medoids": {
+    "0": "Argentina",
+    "1": "Iraq",
+    "2": "Japan",
+    "3": "Kenya",
+    "4": "Switzerland"
+  },
+  "cluster_stats": {
+    "0": {
+      "size": 3,
+      "avg_distance_to_medoid": 0.193166,
+      "max_distance_to_medoid": 0.333399,
+      "avg_pairwise_distance": 0.309204,
+      "diameter": 0.348114
+    },
+    "1": {
+      "size": 7,
+      "avg_distance_to_medoid": 0.257252,
+      "max_distance_to_medoid": 0.339926,
+      "avg_pairwise_distance": 0.356181,
+      "diameter": 0.423563
+    },
+    "2": {
+      "size": 3,
+      "avg_distance_to_medoid": 0.215961,
+      "max_distance_to_medoid": 0.326979,
+      "avg_pairwise_distance": 0.359174,
+      "diameter": 0.429639
+    },
+    "3": {
+      "size": 9,
+      "avg_distance_to_medoid": 0.27455,
+      "max_distance_to_medoid": 0.373184,
+      "avg_pairwise_distance": 0.353446,
+      "diameter": 0.463698
+    },
+    "4": {
+      "size": 1,
+      "avg_distance_to_medoid": 0.0,
+      "max_distance_to_medoid": 0.0,
+      "avg_pairwise_distance": 0.0,
+      "diameter": 0.0
+    }
+  },
+  "metadata": {
+    "iterations": 10,
+    "converged": true,
+    "init_method": "heuristic",
+    "seed": 42,
+    "matrix_id": "e44f71a34cc2",
+    "matrix_labels": [
+      "Argentina",
+      "Brazil",
+      "Chile",
+      "China",
+      "Colombia",
+      "Egypt",
+      "Ethiopia",
+      "France",
+      "Germany",
+      "Ghana",
+      "India",
+      "Indonesia",
+      "Iraq",
+      "Italy",
+      "Japan",
+      "Jordan",
+      "Kenya",
+      "Lebanon",
+      "Nigeria",
+      "Peru",
+      "South Africa",
+      "Spain",
+      "Switzerland"
+    ],
+    "run_time_seconds": 0.013,
+    "n_documents": 23,
+    "inter_cluster_distances": {
+      "0,1": 0.398789,
+      "0,2": 0.354185,
+      "0,3": 0.366824,
+      "0,4": 0.456385,
+      "1,2": 0.367378,
+      "1,3": 0.294881,
+      "1,4": 0.394752,
+      "2,3": 0.401801,
+      "2,4": 0.479504,
+      "3,4": 0.414633
+    }
+  }
+}

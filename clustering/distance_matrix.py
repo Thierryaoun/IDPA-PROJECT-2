@@ -143,6 +143,7 @@ def build_distance_matrix(
     trees: dict[str, TreeNode],
     use_semantic: bool = True,
     cache_path: str | None = None,
+    field_filter: set | None = None,
 ) -> DistanceMatrix:
     """
     Compute the full pairwise distance matrix for a collection of trees.
@@ -154,6 +155,9 @@ def build_distance_matrix(
                    if False, use raw unit-cost TED (faster, less accurate)
     cache_path   : if given, save the matrix here after computation and
                    load from here on subsequent calls (skip recomputation)
+    field_filter : optional set of canonical field prefixes to include in TED.
+                   None means all fields (default). Only applies in semantic mode.
+                   Example: {"economy.gdp", "geography.area"}
 
     Returns
     -------
@@ -181,15 +185,20 @@ def build_distance_matrix(
 
     # ── Pre-normalize all trees once (semantic mode) ──────────────────────────
     if use_semantic:
-        logger.info("Pre-normalizing trees…")
+        if field_filter is not None:
+            logger.info("Pre-normalizing trees (field filter: %s)…", sorted(field_filter))
+        else:
+            logger.info("Pre-normalizing trees…")
         normalized: dict[str, TreeNode] = {}
         for name in labels:
             try:
-                normalized[name] = normalize_country_tree(trees[name])
+                normalized[name] = normalize_country_tree(trees[name], field_filter=field_filter)
             except Exception as exc:
                 logger.warning("Normalization failed for %r: %s — using raw tree", name, exc)
                 normalized[name] = trees[name]
     else:
+        if field_filter is not None:
+            logger.warning("field_filter has no effect in non-semantic mode (use_semantic=False).")
         normalized = {name: trees[name] for name in labels}
 
     # ── Pairwise computation ──────────────────────────────────────────────────
@@ -217,7 +226,7 @@ def build_distance_matrix(
 
     reporter.done()
 
-    dm = DistanceMatrix(labels=labels, matrix=matrix)
+    dm = DistanceMatrix(labels=labels, matrix=matrix, field_set=field_filter)
     logger.info("Matrix stats: %s", dm.stats)
 
     # ── Cache to disk ─────────────────────────────────────────────────────────

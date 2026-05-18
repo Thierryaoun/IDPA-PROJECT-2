@@ -71,6 +71,7 @@ class DistanceMatrix:
         labels: List[str],
         matrix: List[List[float]],
         skip_validation: bool = False,
+        field_set=None,
     ) -> None:
         if len(labels) != len(matrix):
             raise ValueError(
@@ -82,6 +83,8 @@ class DistanceMatrix:
         # Build a fast name→index lookup
         self._index: Dict[str, int] = {lbl: i for i, lbl in enumerate(labels)}
         self.stats = matrix_stats(matrix)
+        # Optional set of field prefixes used during TED computation
+        self.field_set = frozenset(field_set) if field_set else None
         if not skip_validation:
             self._validate()
 
@@ -121,13 +124,15 @@ class DistanceMatrix:
 
     @property
     def matrix_id(self) -> str:
-        """Stable short identifier based on sorted labels.
+        """Stable short identifier based on sorted labels and selected fields.
 
         Used to match a result to its source matrix without storing
         the full matrix inside every result file.
         """
         import hashlib
         key = ",".join(sorted(self.labels))
+        if self.field_set:
+            key += "|" + ",".join(sorted(self.field_set))
         return hashlib.md5(key.encode()).hexdigest()[:12]
 
     # ── Access ────────────────────────────────────────────────────────────────
@@ -151,12 +156,15 @@ class DistanceMatrix:
     # ── Serialisation ─────────────────────────────────────────────────────────
 
     def to_dict(self) -> dict:
-        return {
+        d = {
             "labels":    self.labels,
             "matrix":    self.matrix,
             "stats":     self.stats,
             "matrix_id": self.matrix_id,
         }
+        if self.field_set:
+            d["selected_fields"] = sorted(self.field_set)
+        return d
 
     def save(self, path: str) -> None:
         """Persist to a JSON file so the expensive computation is not repeated."""
@@ -167,7 +175,13 @@ class DistanceMatrix:
     def load(cls, path: str) -> "DistanceMatrix":
         """Restore a previously saved distance matrix (skips full re-validation)."""
         data = load_json(path)
-        dm = cls(labels=data["labels"], matrix=data["matrix"], skip_validation=True)
+        field_set = data.get("selected_fields")  # None for legacy matrices
+        dm = cls(
+            labels=data["labels"],
+            matrix=data["matrix"],
+            skip_validation=True,
+            field_set=field_set,
+        )
         logger.info("Distance matrix loaded <- %s  (%dx%d)", path, dm.n, dm.n)
         return dm
 
@@ -180,7 +194,7 @@ class DistanceMatrix:
             [self.matrix[i][j] for j in indices]
             for i in indices
         ]
-        return DistanceMatrix(labels=names, matrix=sub_matrix)
+        return DistanceMatrix(labels=names, matrix=sub_matrix, field_set=self.field_set)
 
     def __repr__(self) -> str:
         return (

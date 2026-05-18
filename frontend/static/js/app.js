@@ -25,17 +25,37 @@ function cleanLabel(name) {
     .trim();
 }
 
+/* ── Field groups ───────────────────────────────────────────────────────────────
+   Each group maps to one or more canonical field prefixes in TED normalization.
+   All groups are selected by default (= same as "use all fields").
+────────────────────────────────────────────────────────────────────────────── */
+const FIELD_GROUPS = [
+  { id: "languages",  label: "Languages",     desc: "Official, recognized & spoken languages",  fields: ["languages.official", "languages.recognized", "languages.spoken"] },
+  { id: "religion",   label: "Religion",       desc: "Religious composition",                    fields: ["demographics.religion"] },
+  { id: "ethnicity",  label: "Ethnic Groups",  desc: "Ethnic / racial composition",              fields: ["demographics.ethnic_groups"] },
+  { id: "government", label: "Government",     desc: "Type of government / political system",    fields: ["politics.government"] },
+  { id: "gdp",        label: "Economy (GDP)",  desc: "Gross domestic product",                   fields: ["economy.gdp"] },
+  { id: "currency",   label: "Currency",       desc: "National currency",                        fields: ["economy.currency"] },
+  { id: "population", label: "Population",     desc: "Population size and density",              fields: ["demographics.population"] },
+  { id: "area",       label: "Area",           desc: "Land area",                                fields: ["geography.area"] },
+  { id: "region",     label: "Region",         desc: "Geographic region / continent",            fields: ["geography.region", "geography.continent"] },
+  { id: "hdi",        label: "HDI",            desc: "Human Development Index",                  fields: ["demographics.hdi"] },
+  { id: "gini",       label: "Gini",           desc: "Income inequality (Gini coefficient)",     fields: ["demographics.gini"] },
+  { id: "history",    label: "History",        desc: "Independence / formation events",          fields: ["history.establishment"] },
+];
+
 /* ── App singleton ──────────────────────────────────────────────────────────── */
 const App = (() => {
   /* State */
-  let _allCountries  = [];   // raw IDs (file stems, no .json)
-  let _selected      = new Set();
-  let _currentResult = null;
-  let _matrixData    = null;
-  let _savedResults  = [];
-  let _currentAlgo   = "kmedoids";
-  let _pollTimer     = null;
-  let _activeTab     = "clusters";
+  let _allCountries   = [];   // raw IDs (file stems, no .json)
+  let _selected       = new Set();
+  let _selectedFields = new Set(FIELD_GROUPS.map(g => g.id));  // all on by default
+  let _currentResult  = null;
+  let _matrixData     = null;
+  let _savedResults   = [];
+  let _currentAlgo    = "kmedoids";
+  let _pollTimer      = null;
+  let _activeTab      = "clusters";
 
   /* ── Init ─────────────────────────────────────────────────────────────── */
   async function init() {
@@ -50,6 +70,7 @@ const App = (() => {
       renderCountryGrid(e.target.value.toLowerCase());
     });
 
+    renderFieldGrid();
     await refreshStatus();
     await loadCountries();
     await refreshResults();
@@ -125,6 +146,57 @@ const App = (() => {
     document.getElementById("stat-selected").textContent = _selected.size;
   }
 
+  /* ── Field grid ───────────────────────────────────────────────────────── */
+  function renderFieldGrid() {
+    const grid = document.getElementById("field-grid");
+    if (!grid) return;
+    grid.innerHTML = "";
+    FIELD_GROUPS.forEach(group => {
+      const chip = document.createElement("div");
+      chip.className = "field-chip" + (_selectedFields.has(group.id) ? " selected" : "");
+      chip.innerHTML = `
+        <div class="field-chip-name">
+          <span class="field-chip-check"></span>
+          ${group.label}
+        </div>
+        <div class="field-chip-desc">${group.desc}</div>
+      `;
+      chip.addEventListener("click", () => {
+        if (_selectedFields.has(group.id)) _selectedFields.delete(group.id);
+        else _selectedFields.add(group.id);
+        chip.classList.toggle("selected", _selectedFields.has(group.id));
+        updateFieldCount();
+      });
+      grid.appendChild(chip);
+    });
+    updateFieldCount();
+  }
+
+  function updateFieldCount() {
+    const el = document.getElementById("field-sel-count");
+    if (el) el.textContent = `${_selectedFields.size} / ${FIELD_GROUPS.length} field groups selected`;
+  }
+
+  function selectAllFields() {
+    _selectedFields = new Set(FIELD_GROUPS.map(g => g.id));
+    renderFieldGrid();
+  }
+
+  function clearFields() {
+    _selectedFields.clear();
+    renderFieldGrid();
+  }
+
+  /* Expand selected field group IDs to the actual canonical field prefixes */
+  function _resolveFieldFilter() {
+    if (_selectedFields.size === FIELD_GROUPS.length) return null;  // all = no filter
+    const prefixes = [];
+    FIELD_GROUPS.forEach(g => {
+      if (_selectedFields.has(g.id)) prefixes.push(...g.fields);
+    });
+    return prefixes.length > 0 ? prefixes : null;
+  }
+
   /* ── Region quick-select ──────────────────────────────────────────────── */
   function selectRegion(region) {
     if (region === "all")        { _allCountries.forEach(n => _selected.add(n)); }
@@ -139,12 +211,16 @@ const App = (() => {
 
   /* ── Matrix computation ───────────────────────────────────────────────── */
   async function computeMatrix() {
-    const useS    = document.getElementById("use-semantic").checked;
-    const force   = document.getElementById("force-recompute").checked;
+    const useS      = document.getElementById("use-semantic").checked;
+    const force     = document.getElementById("force-recompute").checked;
     const countries = _selected.size === _allCountries.length ? null : [..._selected];
+    const fields    = _resolveFieldFilter();   // null = all fields
 
     if (_selected.size < 2) {
       toast("Select at least 2 countries.", "error"); return;
+    }
+    if (_selectedFields.size === 0) {
+      toast("Select at least one field group.", "error"); return;
     }
 
     document.getElementById("matrix-progress").classList.remove("hidden");
@@ -152,7 +228,7 @@ const App = (() => {
     document.getElementById("btn-compute").disabled = true;
 
     try {
-      const { job_id } = await API.startMatrix({ countries, use_semantic: useS, force });
+      const { job_id } = await API.startMatrix({ countries, use_semantic: useS, force, fields });
       pollJob(job_id, async () => {
         setBar(100, "Done.");
         await refreshStatus();
@@ -302,14 +378,48 @@ const App = (() => {
   }
 
   function renderResultMetrics(result) {
-    const algo = result.algorithm === "hierarchical"
-      ? `HAC (${result.linkage || "avg"})` : "K-Medoids";
-    document.getElementById("m-algo").textContent    = algo;
-    document.getElementById("m-k").textContent       = result.n_clusters;
-    document.getElementById("m-sil").textContent     =
-      result.silhouette_score !== null ? result.silhouette_score.toFixed(3) : "n/a";
-    document.getElementById("m-inertia").textContent =
-      result.inertia !== null ? result.inertia.toFixed(3) : "n/a";
+    const isHAC = result.algorithm === "hierarchical";
+    const algo  = isHAC ? `HAC (${result.linkage || "avg"})` : "K-Medoids";
+    const meta  = result.metadata || {};
+
+    document.getElementById("m-algo").textContent = algo;
+    document.getElementById("m-k").textContent    = result.n_clusters;
+    document.getElementById("m-docs").textContent =
+      meta.n_documents != null ? meta.n_documents
+      : (result.assignments ? result.assignments.length : "—");
+
+    /* Silhouette score — color-coded by quality */
+    const sil   = result.silhouette_score;
+    const silEl = document.getElementById("m-sil");
+    if (sil != null && !isNaN(sil)) {
+      silEl.textContent = sil.toFixed(4);
+      silEl.style.color = sil >= 0.5 ? "var(--green)"
+                        : sil >= 0.25 ? "var(--orange)"
+                        : "var(--red)";
+    } else {
+      silEl.textContent = "n/a";
+      silEl.style.color = "";
+    }
+
+    /* Inertia (total sum of distances to medoids) */
+    const inertiaEl = document.getElementById("m-inertia");
+    inertiaEl.textContent =
+      result.inertia != null ? result.inertia.toFixed(4) : "n/a";
+
+    /* Algorithm-specific detail card */
+    const extraEl    = document.getElementById("m-extra");
+    const extraLabel = document.getElementById("m-extra-label");
+    if (isHAC) {
+      const lnk = result.linkage || "—";
+      extraEl.textContent = lnk.charAt(0).toUpperCase() + lnk.slice(1) + " linkage";
+      extraLabel.textContent = "Linkage";
+    } else {
+      const iters     = meta.iterations != null ? meta.iterations : "—";
+      const converged = meta.converged  != null ? (meta.converged ? "yes" : "no") : "—";
+      const initM     = meta.init_method || "—";
+      extraEl.innerHTML = `${iters}&nbsp;iter &nbsp;&bull;&nbsp; conv:&nbsp;${converged}<br><span style="font-size:0.72rem;color:var(--text-dim)">init: ${initM}</span>`;
+      extraLabel.textContent = "K-Medoids";
+    }
   }
 
   function renderClusterCards(result) {
@@ -350,9 +460,10 @@ const App = (() => {
         </div>
         ${stats ? `
         <div class="cluster-stats-bar">
-          <span class="cstat">avg dist&nbsp;<strong>${(stats.avg_distance_to_medoid||0).toFixed(3)}</strong></span>
-          <span class="cstat">pairwise&nbsp;<strong>${(stats.avg_pairwise_distance||0).toFixed(3)}</strong></span>
-          <span class="cstat">diam&nbsp;<strong>${(stats.diameter||0).toFixed(3)}</strong></span>
+          <span class="cstat" title="Average distance from each member to the cluster medoid">avg-med&nbsp;<strong>${(stats.avg_distance_to_medoid||0).toFixed(3)}</strong></span>
+          <span class="cstat" title="Maximum distance from any member to the cluster medoid">max-med&nbsp;<strong>${(stats.max_distance_to_medoid||0).toFixed(3)}</strong></span>
+          <span class="cstat" title="Mean of all pairwise distances within the cluster">pairwise&nbsp;<strong>${(stats.avg_pairwise_distance||0).toFixed(3)}</strong></span>
+          <span class="cstat" title="Maximum pairwise distance between any two members">diam&nbsp;<strong>${(stats.diameter||0).toFixed(3)}</strong></span>
         </div>` : ""}
       `;
       container.appendChild(card);
@@ -438,19 +549,16 @@ const App = (() => {
 
       /* Metric comparison row */
       const row = document.getElementById("cmp-metric-row");
-      const silA = a.silhouette_score !== null ? a.silhouette_score.toFixed(3) : "n/a";
-      const silB = b.silhouette_score !== null ? b.silhouette_score.toFixed(3) : "n/a";
-      const winner = a.silhouette_score !== null && b.silhouette_score !== null
-        ? (a.silhouette_score > b.silhouette_score ? "A" : "B") : "—";
+      const nA = (a.metadata && a.metadata.n_documents) || a.assignments.length;
+      const nB = (b.metadata && b.metadata.n_documents) || b.assignments.length;
 
       row.innerHTML = `
-        <div class="stat-card"><div class="stat-value" style="font-size:1.1rem">${_algoLabel(a)}</div><div class="stat-label">Algorithm A</div></div>
+        <div class="stat-card accent-blue"><div class="stat-value" style="font-size:1.1rem">${_algoLabel(a)}</div><div class="stat-label">Algorithm A</div></div>
         <div class="stat-card"><div class="stat-value">${a.n_clusters}</div><div class="stat-label">k (A)</div></div>
-        <div class="stat-card accent-green"><div class="stat-value">${silA}</div><div class="stat-label">Silhouette A</div></div>
-        <div class="stat-card"><div class="stat-value" style="font-size:1.1rem">${_algoLabel(b)}</div><div class="stat-label">Algorithm B</div></div>
+        <div class="stat-card"><div class="stat-value">${nA}</div><div class="stat-label">Countries (A)</div></div>
+        <div class="stat-card accent-purple"><div class="stat-value" style="font-size:1.1rem">${_algoLabel(b)}</div><div class="stat-label">Algorithm B</div></div>
         <div class="stat-card"><div class="stat-value">${b.n_clusters}</div><div class="stat-label">k (B)</div></div>
-        <div class="stat-card accent-purple"><div class="stat-value">${silB}</div><div class="stat-label">Silhouette B</div></div>
-        <div class="stat-card"><div class="stat-value" style="color:#f59e0b">${winner}</div><div class="stat-label">Better silhouette</div></div>
+        <div class="stat-card"><div class="stat-value">${nB}</div><div class="stat-label">Countries (B)</div></div>
       `;
       row.style.display = "";
 
@@ -514,6 +622,7 @@ const App = (() => {
   return {
     init, navigate,
     selectRegion, selectAlgo,
+    selectAllFields, clearFields,
     computeMatrix, runClustering,
     loadResult, refreshResults,
     switchTab, renderCompare,

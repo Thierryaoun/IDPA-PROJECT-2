@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8"/>
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>ClusterLab — Document Clustering</title>
+  <title>WikiBot — Country Clustering</title>
   <link rel="stylesheet" href="/static/css/main.css"/>
   <script src="https://cdn.jsdelivr.net/npm/d3@7/dist/d3.min.js"></script>
 </head>
@@ -13,8 +13,7 @@
 <aside id="sidebar">
   <div class="sidebar-brand">
     <div class="brand-icon">&#9638;</div>
-    <span class="brand-text">ClusterLab</span>
-    <span class="brand-ver">v2</span>
+    <span class="brand-text">WikiBot</span>
   </div>
 
   <nav class="sidebar-nav">
@@ -51,7 +50,7 @@
   <section id="page-dataset" class="page active">
     <div class="page-header">
       <h1>Dataset</h1>
-      <p class="page-sub">Select the countries to include and compute their pairwise TED distance matrix.</p>
+      <p class="page-sub">Select countries and choose which infobox fields drive the TED comparison, then compute the distance matrix.</p>
     </div>
 
     <!-- Summary stats -->
@@ -88,12 +87,29 @@
       <div id="country-grid" class="country-grid"></div>
     </div>
 
+    <!-- Field selector -->
+    <div class="card">
+      <div class="card-title">TED Fields</div>
+      <div class="info-note" style="margin-bottom:1rem">
+        Choose which Wikipedia infobox fields are compared by the TED algorithm.
+        <strong>Selecting fewer fields focuses the similarity on specific dimensions</strong>
+        (e.g. Economy + Area clusters countries by economic and geographic profile).
+        All fields are used by default.
+      </div>
+      <div class="card-toolbar" style="margin-bottom:0.75rem">
+        <button class="btn btn-sm" onclick="App.selectAllFields()">All fields</button>
+        <button class="btn btn-sm" onclick="App.clearFields()">None</button>
+        <span id="field-sel-count" style="font-size:0.8rem;color:var(--text-muted);margin-left:0.25rem"></span>
+      </div>
+      <div id="field-grid" class="field-grid"></div>
+    </div>
+
     <!-- Matrix options -->
     <div class="card">
       <div class="card-title">Distance Matrix</div>
       <div class="info-note" style="margin-bottom:1rem">
         The first run computes all pairwise TED distances and caches the result.
-        <strong>Subsequent runs load from cache instantly.</strong>
+        <strong>Subsequent runs with the same country + field selection load from cache instantly.</strong>
         Force-recompute only when trees have changed.
       </div>
       <div class="form-row">
@@ -189,9 +205,6 @@
               <option value="complete">Complete linkage (max)</option>
             </select>
           </div>
-          <div class="info-note">
-            Ward's linkage is <strong>not supported</strong> — it requires a Euclidean embedding, which TED distances do not provide.
-          </div>
         </div>
 
         <div style="margin-top:1.5rem;display:flex;align-items:center;gap:0.75rem">
@@ -208,7 +221,7 @@
   <section id="page-results" class="page">
     <div class="page-header">
       <h1>Results</h1>
-      <p class="page-sub">Explore cluster assignments, quality metrics, and visualizations.</p>
+      <p class="page-sub">Explore cluster assignments and visualizations.</p>
     </div>
 
     <!-- Result file selector -->
@@ -234,13 +247,21 @@
         <div class="stat-value" id="m-k">—</div>
         <div class="stat-label">Clusters (k)</div>
       </div>
+      <div class="stat-card">
+        <div class="stat-value" id="m-docs">—</div>
+        <div class="stat-label">Countries</div>
+      </div>
       <div class="stat-card accent-green">
         <div class="stat-value" id="m-sil">—</div>
-        <div class="stat-label">Silhouette score</div>
+        <div class="stat-label">Silhouette Score</div>
       </div>
-      <div class="stat-card accent-orange">
+      <div class="stat-card accent-purple">
         <div class="stat-value" id="m-inertia">—</div>
-        <div class="stat-label">Inertia</div>
+        <div class="stat-label">Total Inertia</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-value" id="m-extra" style="font-size:0.82rem;line-height:1.4">—</div>
+        <div class="stat-label" id="m-extra-label">Details</div>
       </div>
     </div>
 
