@@ -1,0 +1,419 @@
+{
+  "algorithm": "hierarchical",
+  "n_clusters": 5,
+  "linkage": "average",
+  "inertia": 5.560237,
+  "silhouette_score": 0.094032,
+  "assignments": [
+    {
+      "label": "South Africa",
+      "cluster_id": 0,
+      "medoid": "South Africa",
+      "distance_to_medoid": 0.0
+    },
+    {
+      "label": "Switzerland",
+      "cluster_id": 1,
+      "medoid": "Switzerland",
+      "distance_to_medoid": 0.0
+    },
+    {
+      "label": "France",
+      "cluster_id": 2,
+      "medoid": "Chile",
+      "distance_to_medoid": 0.346938
+    },
+    {
+      "label": "Brazil",
+      "cluster_id": 2,
+      "medoid": "Chile",
+      "distance_to_medoid": 0.348114
+    },
+    {
+      "label": "Argentina",
+      "cluster_id": 2,
+      "medoid": "Chile",
+      "distance_to_medoid": 0.2461
+    },
+    {
+      "label": "Chile",
+      "cluster_id": 2,
+      "medoid": "Chile",
+      "distance_to_medoid": 0.0
+    },
+    {
+      "label": "Nigeria",
+      "cluster_id": 3,
+      "medoid": "Jordan",
+      "distance_to_medoid": 0.335815
+    },
+    {
+      "label": "Italy",
+      "cluster_id": 3,
+      "medoid": "Jordan",
+      "distance_to_medoid": 0.360608
+    },
+    {
+      "label": "Spain",
+      "cluster_id": 3,
+      "medoid": "Jordan",
+      "distance_to_medoid": 0.349962
+    },
+    {
+      "label": "Ethiopia",
+      "cluster_id": 3,
+      "medoid": "Jordan",
+      "distance_to_medoid": 0.3431
+    },
+    {
+      "label": "Lebanon",
+      "cluster_id": 3,
+      "medoid": "Jordan",
+      "distance_to_medoid": 0.311423
+    },
+    {
+      "label": "Peru",
+      "cluster_id": 3,
+      "medoid": "Jordan",
+      "distance_to_medoid": 0.319655
+    },
+    {
+      "label": "Indonesia",
+      "cluster_id": 3,
+      "medoid": "Jordan",
+      "distance_to_medoid": 0.29838
+    },
+    {
+      "label": "Ghana",
+      "cluster_id": 3,
+      "medoid": "Jordan",
+      "distance_to_medoid": 0.304278
+    },
+    {
+      "label": "India",
+      "cluster_id": 3,
+      "medoid": "Jordan",
+      "distance_to_medoid": 0.309847
+    },
+    {
+      "label": "Egypt",
+      "cluster_id": 3,
+      "medoid": "Jordan",
+      "distance_to_medoid": 0.258775
+    },
+    {
+      "label": "Iraq",
+      "cluster_id": 3,
+      "medoid": "Jordan",
+      "distance_to_medoid": 0.246958
+    },
+    {
+      "label": "Colombia",
+      "cluster_id": 3,
+      "medoid": "Jordan",
+      "distance_to_medoid": 0.264857
+    },
+    {
+      "label": "Jordan",
+      "cluster_id": 3,
+      "medoid": "Jordan",
+      "distance_to_medoid": 0.0
+    },
+    {
+      "label": "Kenya",
+      "cluster_id": 3,
+      "medoid": "Jordan",
+      "distance_to_medoid": 0.241993
+    },
+    {
+      "label": "China",
+      "cluster_id": 4,
+      "medoid": "Germany",
+      "distance_to_medoid": 0.352529
+    },
+    {
+      "label": "Germany",
+      "cluster_id": 4,
+      "medoid": "Germany",
+      "distance_to_medoid": 0.0
+    },
+    {
+      "label": "Japan",
+      "cluster_id": 4,
+      "medoid": "Germany",
+      "distance_to_medoid": 0.320905
+    }
+  ],
+  "clusters": {
+    "0": [
+      "South Africa"
+    ],
+    "1": [
+      "Switzerland"
+    ],
+    "2": [
+      "France",
+      "Brazil",
+      "Argentina",
+      "Chile"
+    ],
+    "3": [
+      "Nigeria",
+      "Italy",
+      "Spain",
+      "Ethiopia",
+      "Lebanon",
+      "Peru",
+      "Indonesia",
+      "Ghana",
+      "India",
+      "Egypt",
+      "Iraq",
+      "Colombia",
+      "Jordan",
+      "Kenya"
+    ],
+    "4": [
+      "China",
+      "Germany",
+      "Japan"
+    ]
+  },
+  "medoids": {
+    "0": "South Africa",
+    "1": "Switzerland",
+    "2": "Chile",
+    "3": "Jordan",
+    "4": "Germany"
+  },
+  "cluster_stats": {
+    "0": {
+      "size": 1,
+      "avg_intra_dist": 0.0,
+      "max_intra_dist": 0.0,
+      "diameter": 0.0
+    },
+    "1": {
+      "size": 1,
+      "avg_intra_dist": 0.0,
+      "max_intra_dist": 0.0,
+      "diameter": 0.0
+    },
+    "2": {
+      "size": 4,
+      "avg_intra_dist": 0.235288,
+      "max_intra_dist": 0.348114,
+      "diameter": 0.377844
+    },
+    "3": {
+      "size": 14,
+      "avg_intra_dist": 0.281832,
+      "max_intra_dist": 0.360608,
+      "diameter": 0.463231
+    },
+    "4": {
+      "size": 3,
+      "avg_intra_dist": 0.224478,
+      "max_intra_dist": 0.352529,
+      "diameter": 0.435178
+    }
+  },
+  "metadata": {
+    "merge_history": [
+      {
+        "step": 1,
+        "merged": [
+          5,
+          12
+        ],
+        "new_id": 23,
+        "distance": 0.240708,
+        "size": 2
+      },
+      {
+        "step": 2,
+        "merged": [
+          15,
+          16
+        ],
+        "new_id": 24,
+        "distance": 0.241993,
+        "size": 2
+      },
+      {
+        "step": 3,
+        "merged": [
+          0,
+          2
+        ],
+        "new_id": 25,
+        "distance": 0.2461,
+        "size": 2
+      },
+      {
+        "step": 4,
+        "merged": [
+          4,
+          24
+        ],
+        "new_id": 26,
+        "distance": 0.276346,
+        "size": 3
+      },
+      {
+        "step": 5,
+        "merged": [
+          9,
+          10
+        ],
+        "new_id": 27,
+        "distance": 0.278309,
+        "size": 2
+      },
+      {
+        "step": 6,
+        "merged": [
+          23,
+          26
+        ],
+        "new_id": 28,
+        "distance": 0.28806,
+        "size": 5
+      },
+      {
+        "step": 7,
+        "merged": [
+          27,
+          28
+        ],
+        "new_id": 29,
+        "distance": 0.302703,
+        "size": 7
+      },
+      {
+        "step": 8,
+        "merged": [
+          11,
+          29
+        ],
+        "new_id": 30,
+        "distance": 0.313837,
+        "size": 8
+      },
+      {
+        "step": 9,
+        "merged": [
+          8,
+          14
+        ],
+        "new_id": 31,
+        "distance": 0.320905,
+        "size": 2
+      },
+      {
+        "step": 10,
+        "merged": [
+          13,
+          21
+        ],
+        "new_id": 32,
+        "distance": 0.334353,
+        "size": 2
+      },
+      {
+        "step": 11,
+        "merged": [
+          1,
+          25
+        ],
+        "new_id": 33,
+        "distance": 0.340756,
+        "size": 3
+      },
+      {
+        "step": 12,
+        "merged": [
+          19,
+          30
+        ],
+        "new_id": 34,
+        "distance": 0.342726,
+        "size": 9
+      },
+      {
+        "step": 13,
+        "merged": [
+          17,
+          34
+        ],
+        "new_id": 35,
+        "distance": 0.356684,
+        "size": 10
+      },
+      {
+        "step": 14,
+        "merged": [
+          7,
+          33
+        ],
+        "new_id": 36,
+        "distance": 0.364952,
+        "size": 4
+      },
+      {
+        "step": 15,
+        "merged": [
+          6,
+          35
+        ],
+        "new_id": 37,
+        "distance": 0.36805,
+        "size": 11
+      },
+      {
+        "step": 16,
+        "merged": [
+          32,
+          37
+        ],
+        "new_id": 38,
+        "distance": 0.381463,
+        "size": 13
+      },
+      {
+        "step": 17,
+        "merged": [
+          18,
+          38
+        ],
+        "new_id": 39,
+        "distance": 0.392513,
+        "size": 14
+      },
+      {
+        "step": 18,
+        "merged": [
+          3,
+          31
+        ],
+        "new_id": 40,
+        "distance": 0.393853,
+        "size": 3
+      }
+    ],
+    "run_time_seconds": 0.002,
+    "n_documents": 23,
+    "inter_cluster_distances": {
+      "0,1": 0.496155,
+      "0,2": 0.473266,
+      "0,3": 0.374798,
+      "0,4": 0.515021,
+      "1,2": 0.468887,
+      "1,3": 0.401866,
+      "1,4": 0.466085,
+      "2,3": 0.367822,
+      "2,4": 0.447614,
+      "3,4": 0.348973
+    }
+  }
+}

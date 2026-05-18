@@ -1,0 +1,142 @@
+{
+  "algorithm": "hierarchical",
+  "n_clusters": 3,
+  "linkage": "average",
+  "inertia": 1.267495,
+  "silhouette_score": 0.14962,
+  "assignments": [
+    {
+      "label": "Switzerland",
+      "cluster_id": 0,
+      "medoid": "Switzerland",
+      "distance_to_medoid": 0.0
+    },
+    {
+      "label": "Cyprus",
+      "cluster_id": 1,
+      "medoid": "Lebanon",
+      "distance_to_medoid": 0.349376
+    },
+    {
+      "label": "Egypt",
+      "cluster_id": 1,
+      "medoid": "Lebanon",
+      "distance_to_medoid": 0.319989
+    },
+    {
+      "label": "Lebanon",
+      "cluster_id": 1,
+      "medoid": "Lebanon",
+      "distance_to_medoid": 0.0
+    },
+    {
+      "label": "Syrian Arab Republic",
+      "cluster_id": 1,
+      "medoid": "Lebanon",
+      "distance_to_medoid": 0.198585
+    },
+    {
+      "label": "France",
+      "cluster_id": 2,
+      "medoid": "France",
+      "distance_to_medoid": 0.0
+    },
+    {
+      "label": "Italy",
+      "cluster_id": 2,
+      "medoid": "France",
+      "distance_to_medoid": 0.399545
+    }
+  ],
+  "clusters": {
+    "0": [
+      "Switzerland"
+    ],
+    "1": [
+      "Cyprus",
+      "Egypt",
+      "Lebanon",
+      "Syrian Arab Republic"
+    ],
+    "2": [
+      "France",
+      "Italy"
+    ]
+  },
+  "medoids": {
+    "0": "Switzerland",
+    "1": "Lebanon",
+    "2": "France"
+  },
+  "cluster_stats": {
+    "0": {
+      "size": 1,
+      "avg_intra_dist": 0.0,
+      "max_intra_dist": 0.0,
+      "diameter": 0.0
+    },
+    "1": {
+      "size": 4,
+      "avg_intra_dist": 0.216988,
+      "max_intra_dist": 0.349376,
+      "diameter": 0.371929
+    },
+    "2": {
+      "size": 2,
+      "avg_intra_dist": 0.199773,
+      "max_intra_dist": 0.399545,
+      "diameter": 0.399545
+    }
+  },
+  "metadata": {
+    "merge_history": [
+      {
+        "step": 1,
+        "merged": [
+          4,
+          6
+        ],
+        "new_id": 7,
+        "distance": 0.198585,
+        "size": 2
+      },
+      {
+        "step": 2,
+        "merged": [
+          1,
+          7
+        ],
+        "new_id": 8,
+        "distance": 0.319018,
+        "size": 3
+      },
+      {
+        "step": 3,
+        "merged": [
+          0,
+          8
+        ],
+        "new_id": 9,
+        "distance": 0.360736,
+        "size": 4
+      },
+      {
+        "step": 4,
+        "merged": [
+          2,
+          3
+        ],
+        "new_id": 10,
+        "distance": 0.399545,
+        "size": 2
+      }
+    ],
+    "run_time_seconds": 0.002,
+    "n_documents": 7,
+    "inter_cluster_distances": {
+      "0,1": 0.479025,
+      "0,2": 0.485777,
+      "1,2": 0.47766
+    }
+  }
+}

@@ -1,0 +1,1460 @@
+{
+  "algorithm": "kmedoids",
+  "n_clusters": 7,
+  "linkage": null,
+  "inertia": 48.87818,
+  "silhouette_score": 0.034329,
+  "assignments": [
+    {
+      "label": "Afghanistan",
+      "cluster_id": 5,
+      "medoid": "Tuvalu",
+      "distance_to_medoid": 0.280651
+    },
+    {
+      "label": "Albania",
+      "cluster_id": 2,
+      "medoid": "Israel",
+      "distance_to_medoid": 0.200554
+    },
+    {
+      "label": "Algeria",
+      "cluster_id": 1,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.205154
+    },
+    {
+      "label": "Andorra",
+      "cluster_id": 5,
+      "medoid": "Tuvalu",
+      "distance_to_medoid": 0.314619
+    },
+    {
+      "label": "Angola",
+      "cluster_id": 6,
+      "medoid": "Zambia",
+      "distance_to_medoid": 0.245237
+    },
+    {
+      "label": "Antigua and Barbuda",
+      "cluster_id": 1,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.136679
+    },
+    {
+      "label": "Argentina",
+      "cluster_id": 4,
+      "medoid": "Paraguay",
+      "distance_to_medoid": 0.302376
+    },
+    {
+      "label": "Armenia",
+      "cluster_id": 2,
+      "medoid": "Israel",
+      "distance_to_medoid": 0.226706
+    },
+    {
+      "label": "Australia",
+      "cluster_id": 3,
+      "medoid": "Lesotho",
+      "distance_to_medoid": 0.320228
+    },
+    {
+      "label": "Austria",
+      "cluster_id": 1,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.255883
+    },
+    {
+      "label": "Azerbaijan",
+      "cluster_id": 0,
+      "medoid": "Azerbaijan",
+      "distance_to_medoid": 0.0
+    },
+    {
+      "label": "Bahamas  The",
+      "cluster_id": 1,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.172366
+    },
+    {
+      "label": "Bahrain",
+      "cluster_id": 1,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.284025
+    },
+    {
+      "label": "Bangladesh",
+      "cluster_id": 2,
+      "medoid": "Israel",
+      "distance_to_medoid": 0.362978
+    },
+    {
+      "label": "Barbados",
+      "cluster_id": 3,
+      "medoid": "Lesotho",
+      "distance_to_medoid": 0.239537
+    },
+    {
+      "label": "Belarus",
+      "cluster_id": 1,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.198027
+    },
+    {
+      "label": "Belgium",
+      "cluster_id": 1,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.217172
+    },
+    {
+      "label": "Belize",
+      "cluster_id": 1,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.176867
+    },
+    {
+      "label": "Benin",
+      "cluster_id": 0,
+      "medoid": "Azerbaijan",
+      "distance_to_medoid": 0.216711
+    },
+    {
+      "label": "Bhutan",
+      "cluster_id": 1,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.207157
+    },
+    {
+      "label": "Bolivia",
+      "cluster_id": 4,
+      "medoid": "Paraguay",
+      "distance_to_medoid": 0.120513
+    },
+    {
+      "label": "Bosnia and Herzegovina",
+      "cluster_id": 1,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.356842
+    },
+    {
+      "label": "Botswana",
+      "cluster_id": 6,
+      "medoid": "Zambia",
+      "distance_to_medoid": 0.216103
+    },
+    {
+      "label": "Brazil",
+      "cluster_id": 4,
+      "medoid": "Paraguay",
+      "distance_to_medoid": 0.316785
+    },
+    {
+      "label": "Brunei",
+      "cluster_id": 1,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.282734
+    },
+    {
+      "label": "Bulgaria",
+      "cluster_id": 2,
+      "medoid": "Israel",
+      "distance_to_medoid": 0.241031
+    },
+    {
+      "label": "Burkina Faso",
+      "cluster_id": 6,
+      "medoid": "Zambia",
+      "distance_to_medoid": 0.297614
+    },
+    {
+      "label": "Burundi",
+      "cluster_id": 1,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.223001
+    },
+    {
+      "label": "Cabo Verde",
+      "cluster_id": 2,
+      "medoid": "Israel",
+      "distance_to_medoid": 0.207245
+    },
+    {
+      "label": "Cambodia",
+      "cluster_id": 1,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.253753
+    },
+    {
+      "label": "Cameroon",
+      "cluster_id": 1,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.218858
+    },
+    {
+      "label": "Canada",
+      "cluster_id": 1,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.316746
+    },
+    {
+      "label": "Central African Republic",
+      "cluster_id": 6,
+      "medoid": "Zambia",
+      "distance_to_medoid": 0.291189
+    },
+    {
+      "label": "Chad",
+      "cluster_id": 3,
+      "medoid": "Lesotho",
+      "distance_to_medoid": 0.23878
+    },
+    {
+      "label": "Chile",
+      "cluster_id": 4,
+      "medoid": "Paraguay",
+      "distance_to_medoid": 0.230546
+    },
+    {
+      "label": "China",
+      "cluster_id": 0,
+      "medoid": "Azerbaijan",
+      "distance_to_medoid": 0.314855
+    },
+    {
+      "label": "Colombia",
+      "cluster_id": 4,
+      "medoid": "Paraguay",
+      "distance_to_medoid": 0.228155
+    },
+    {
+      "label": "Comoros",
+      "cluster_id": 0,
+      "medoid": "Azerbaijan",
+      "distance_to_medoid": 0.267036
+    },
+    {
+      "label": "Congo",
+      "cluster_id": 3,
+      "medoid": "Lesotho",
+      "distance_to_medoid": 0.240119
+    },
+    {
+      "label": "Costa Rica",
+      "cluster_id": 0,
+      "medoid": "Azerbaijan",
+      "distance_to_medoid": 0.2904
+    },
+    {
+      "label": "Croatia",
+      "cluster_id": 2,
+      "medoid": "Israel",
+      "distance_to_medoid": 0.210537
+    },
+    {
+      "label": "Cuba",
+      "cluster_id": 4,
+      "medoid": "Paraguay",
+      "distance_to_medoid": 0.314918
+    },
+    {
+      "label": "Cyprus",
+      "cluster_id": 6,
+      "medoid": "Zambia",
+      "distance_to_medoid": 0.255049
+    },
+    {
+      "label": "Czechia",
+      "cluster_id": 1,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.176826
+    },
+    {
+      "label": "Côte d Ivoire",
+      "cluster_id": 3,
+      "medoid": "Lesotho",
+      "distance_to_medoid": 0.269929
+    },
+    {
+      "label": "Democratic People s Republic of Korea",
+      "cluster_id": 0,
+      "medoid": "Azerbaijan",
+      "distance_to_medoid": 0.318416
+    },
+    {
+      "label": "Democratic Republic of the Congo",
+      "cluster_id": 1,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.232882
+    },
+    {
+      "label": "Denmark",
+      "cluster_id": 0,
+      "medoid": "Azerbaijan",
+      "distance_to_medoid": 0.507414
+    },
+    {
+      "label": "Djibouti",
+      "cluster_id": 2,
+      "medoid": "Israel",
+      "distance_to_medoid": 0.151181
+    },
+    {
+      "label": "Dominica",
+      "cluster_id": 6,
+      "medoid": "Zambia",
+      "distance_to_medoid": 0.260789
+    },
+    {
+      "label": "Dominican Republic",
+      "cluster_id": 1,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.21063
+    },
+    {
+      "label": "Ecuador",
+      "cluster_id": 6,
+      "medoid": "Zambia",
+      "distance_to_medoid": 0.294303
+    },
+    {
+      "label": "Egypt",
+      "cluster_id": 1,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.242199
+    },
+    {
+      "label": "El Salvador",
+      "cluster_id": 2,
+      "medoid": "Israel",
+      "distance_to_medoid": 0.234301
+    },
+    {
+      "label": "Equatorial Guinea",
+      "cluster_id": 3,
+      "medoid": "Lesotho",
+      "distance_to_medoid": 0.220719
+    },
+    {
+      "label": "Eritrea",
+      "cluster_id": 6,
+      "medoid": "Zambia",
+      "distance_to_medoid": 0.307841
+    },
+    {
+      "label": "Estonia",
+      "cluster_id": 2,
+      "medoid": "Israel",
+      "distance_to_medoid": 0.225521
+    },
+    {
+      "label": "Eswatini",
+      "cluster_id": 3,
+      "medoid": "Lesotho",
+      "distance_to_medoid": 0.230661
+    },
+    {
+      "label": "Ethiopia",
+      "cluster_id": 1,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.318098
+    },
+    {
+      "label": "Fiji",
+      "cluster_id": 2,
+      "medoid": "Israel",
+      "distance_to_medoid": 0.315776
+    },
+    {
+      "label": "Finland",
+      "cluster_id": 2,
+      "medoid": "Israel",
+      "distance_to_medoid": 0.219515
+    },
+    {
+      "label": "France",
+      "cluster_id": 4,
+      "medoid": "Paraguay",
+      "distance_to_medoid": 0.367667
+    },
+    {
+      "label": "Gabon",
+      "cluster_id": 3,
+      "medoid": "Lesotho",
+      "distance_to_medoid": 0.28193
+    },
+    {
+      "label": "Gambia  Republic of The ",
+      "cluster_id": 5,
+      "medoid": "Tuvalu",
+      "distance_to_medoid": 0.238565
+    },
+    {
+      "label": "Georgia",
+      "cluster_id": 0,
+      "medoid": "Azerbaijan",
+      "distance_to_medoid": 0.263605
+    },
+    {
+      "label": "Germany",
+      "cluster_id": 2,
+      "medoid": "Israel",
+      "distance_to_medoid": 0.295095
+    },
+    {
+      "label": "Ghana",
+      "cluster_id": 6,
+      "medoid": "Zambia",
+      "distance_to_medoid": 0.212507
+    },
+    {
+      "label": "Greece",
+      "cluster_id": 0,
+      "medoid": "Azerbaijan",
+      "distance_to_medoid": 0.215937
+    },
+    {
+      "label": "Grenada",
+      "cluster_id": 1,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.0
+    },
+    {
+      "label": "Guatemala",
+      "cluster_id": 6,
+      "medoid": "Zambia",
+      "distance_to_medoid": 0.247232
+    },
+    {
+      "label": "Guinea",
+      "cluster_id": 5,
+      "medoid": "Tuvalu",
+      "distance_to_medoid": 0.264494
+    },
+    {
+      "label": "Guinea Bissau",
+      "cluster_id": 3,
+      "medoid": "Lesotho",
+      "distance_to_medoid": 0.282683
+    },
+    {
+      "label": "Guyana",
+      "cluster_id": 6,
+      "medoid": "Zambia",
+      "distance_to_medoid": 0.284749
+    },
+    {
+      "label": "Haiti",
+      "cluster_id": 3,
+      "medoid": "Lesotho",
+      "distance_to_medoid": 0.346763
+    },
+    {
+      "label": "Honduras",
+      "cluster_id": 0,
+      "medoid": "Azerbaijan",
+      "distance_to_medoid": 0.291655
+    },
+    {
+      "label": "Hungary",
+      "cluster_id": 2,
+      "medoid": "Israel",
+      "distance_to_medoid": 0.227235
+    },
+    {
+      "label": "Iceland",
+      "cluster_id": 0,
+      "medoid": "Azerbaijan",
+      "distance_to_medoid": 0.217481
+    },
+    {
+      "label": "India",
+      "cluster_id": 3,
+      "medoid": "Lesotho",
+      "distance_to_medoid": 0.276544
+    },
+    {
+      "label": "Indonesia",
+      "cluster_id": 1,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.299859
+    },
+    {
+      "label": "Iran  Islamic Republic of ",
+      "cluster_id": 0,
+      "medoid": "Azerbaijan",
+      "distance_to_medoid": 0.304433
+    },
+    {
+      "label": "Iraq",
+      "cluster_id": 1,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.21168
+    },
+    {
+      "label": "Ireland",
+      "cluster_id": 1,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.311262
+    },
+    {
+      "label": "Israel",
+      "cluster_id": 2,
+      "medoid": "Israel",
+      "distance_to_medoid": 0.0
+    },
+    {
+      "label": "Italy",
+      "cluster_id": 4,
+      "medoid": "Paraguay",
+      "distance_to_medoid": 0.319474
+    },
+    {
+      "label": "Jamaica",
+      "cluster_id": 1,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.15223
+    },
+    {
+      "label": "Japan",
+      "cluster_id": 1,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.341289
+    },
+    {
+      "label": "Jordan",
+      "cluster_id": 1,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.199473
+    },
+    {
+      "label": "Kazakhstan",
+      "cluster_id": 0,
+      "medoid": "Azerbaijan",
+      "distance_to_medoid": 0.197374
+    },
+    {
+      "label": "Kenya",
+      "cluster_id": 3,
+      "medoid": "Lesotho",
+      "distance_to_medoid": 0.268439
+    },
+    {
+      "label": "Kiribati",
+      "cluster_id": 6,
+      "medoid": "Zambia",
+      "distance_to_medoid": 0.224955
+    },
+    {
+      "label": "Kuwait",
+      "cluster_id": 5,
+      "medoid": "Tuvalu",
+      "distance_to_medoid": 0.264994
+    },
+    {
+      "label": "Kyrgyzstan",
+      "cluster_id": 0,
+      "medoid": "Azerbaijan",
+      "distance_to_medoid": 0.246987
+    },
+    {
+      "label": "Lao People s Democratic Republic",
+      "cluster_id": 0,
+      "medoid": "Azerbaijan",
+      "distance_to_medoid": 0.252577
+    },
+    {
+      "label": "Latvia",
+      "cluster_id": 2,
+      "medoid": "Israel",
+      "distance_to_medoid": 0.234753
+    },
+    {
+      "label": "Lebanon",
+      "cluster_id": 2,
+      "medoid": "Israel",
+      "distance_to_medoid": 0.202331
+    },
+    {
+      "label": "Lesotho",
+      "cluster_id": 3,
+      "medoid": "Lesotho",
+      "distance_to_medoid": 0.0
+    },
+    {
+      "label": "Liberia",
+      "cluster_id": 1,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.296893
+    },
+    {
+      "label": "Libya",
+      "cluster_id": 0,
+      "medoid": "Azerbaijan",
+      "distance_to_medoid": 0.324003
+    },
+    {
+      "label": "Liechtenstein",
+      "cluster_id": 5,
+      "medoid": "Tuvalu",
+      "distance_to_medoid": 0.343379
+    },
+    {
+      "label": "Lithuania",
+      "cluster_id": 0,
+      "medoid": "Azerbaijan",
+      "distance_to_medoid": 0.222774
+    },
+    {
+      "label": "Luxembourg",
+      "cluster_id": 0,
+      "medoid": "Azerbaijan",
+      "distance_to_medoid": 0.276974
+    },
+    {
+      "label": "Madagascar",
+      "cluster_id": 1,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.209651
+    },
+    {
+      "label": "Malawi",
+      "cluster_id": 6,
+      "medoid": "Zambia",
+      "distance_to_medoid": 0.192044
+    },
+    {
+      "label": "Malaysia",
+      "cluster_id": 1,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.332151
+    },
+    {
+      "label": "Maldives",
+      "cluster_id": 6,
+      "medoid": "Zambia",
+      "distance_to_medoid": 0.335759
+    },
+    {
+      "label": "Mali",
+      "cluster_id": 6,
+      "medoid": "Zambia",
+      "distance_to_medoid": 0.324276
+    },
+    {
+      "label": "Malta",
+      "cluster_id": 2,
+      "medoid": "Israel",
+      "distance_to_medoid": 0.221428
+    },
+    {
+      "label": "Marshall Islands",
+      "cluster_id": 5,
+      "medoid": "Tuvalu",
+      "distance_to_medoid": 0.245844
+    },
+    {
+      "label": "Mauritania",
+      "cluster_id": 6,
+      "medoid": "Zambia",
+      "distance_to_medoid": 0.254809
+    },
+    {
+      "label": "Mauritius",
+      "cluster_id": 6,
+      "medoid": "Zambia",
+      "distance_to_medoid": 0.244232
+    },
+    {
+      "label": "Mexico",
+      "cluster_id": 4,
+      "medoid": "Paraguay",
+      "distance_to_medoid": 0.215965
+    },
+    {
+      "label": "Micronesia  Federated States of ",
+      "cluster_id": 6,
+      "medoid": "Zambia",
+      "distance_to_medoid": 0.214361
+    },
+    {
+      "label": "Monaco",
+      "cluster_id": 5,
+      "medoid": "Tuvalu",
+      "distance_to_medoid": 0.321592
+    },
+    {
+      "label": "Mongolia",
+      "cluster_id": 0,
+      "medoid": "Azerbaijan",
+      "distance_to_medoid": 0.216632
+    },
+    {
+      "label": "Montenegro",
+      "cluster_id": 2,
+      "medoid": "Israel",
+      "distance_to_medoid": 0.264313
+    },
+    {
+      "label": "Morocco",
+      "cluster_id": 1,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.17004
+    },
+    {
+      "label": "Mozambique",
+      "cluster_id": 6,
+      "medoid": "Zambia",
+      "distance_to_medoid": 0.216969
+    },
+    {
+      "label": "Myanmar",
+      "cluster_id": 1,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.260528
+    },
+    {
+      "label": "Namibia",
+      "cluster_id": 6,
+      "medoid": "Zambia",
+      "distance_to_medoid": 0.339369
+    },
+    {
+      "label": "Nauru",
+      "cluster_id": 5,
+      "medoid": "Tuvalu",
+      "distance_to_medoid": 0.276663
+    },
+    {
+      "label": "Nepal",
+      "cluster_id": 0,
+      "medoid": "Azerbaijan",
+      "distance_to_medoid": 0.220751
+    },
+    {
+      "label": "Netherlands  Kingdom of the ",
+      "cluster_id": 5,
+      "medoid": "Tuvalu",
+      "distance_to_medoid": 0.509755
+    },
+    {
+      "label": "New Zealand",
+      "cluster_id": 0,
+      "medoid": "Azerbaijan",
+      "distance_to_medoid": 0.294526
+    },
+    {
+      "label": "Nicaragua",
+      "cluster_id": 0,
+      "medoid": "Azerbaijan",
+      "distance_to_medoid": 0.310197
+    },
+    {
+      "label": "Niger",
+      "cluster_id": 6,
+      "medoid": "Zambia",
+      "distance_to_medoid": 0.274125
+    },
+    {
+      "label": "Nigeria",
+      "cluster_id": 6,
+      "medoid": "Zambia",
+      "distance_to_medoid": 0.352847
+    },
+    {
+      "label": "North Macedonia",
+      "cluster_id": 2,
+      "medoid": "Israel",
+      "distance_to_medoid": 0.209078
+    },
+    {
+      "label": "Norway",
+      "cluster_id": 6,
+      "medoid": "Zambia",
+      "distance_to_medoid": 0.393616
+    },
+    {
+      "label": "Oman",
+      "cluster_id": 1,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.271157
+    },
+    {
+      "label": "Pakistan",
+      "cluster_id": 3,
+      "medoid": "Lesotho",
+      "distance_to_medoid": 0.304774
+    },
+    {
+      "label": "Palau",
+      "cluster_id": 1,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.277394
+    },
+    {
+      "label": "Panama",
+      "cluster_id": 6,
+      "medoid": "Zambia",
+      "distance_to_medoid": 0.219806
+    },
+    {
+      "label": "Papua New Guinea",
+      "cluster_id": 5,
+      "medoid": "Tuvalu",
+      "distance_to_medoid": 0.248411
+    },
+    {
+      "label": "Paraguay",
+      "cluster_id": 4,
+      "medoid": "Paraguay",
+      "distance_to_medoid": 0.0
+    },
+    {
+      "label": "Peru",
+      "cluster_id": 6,
+      "medoid": "Zambia",
+      "distance_to_medoid": 0.271701
+    },
+    {
+      "label": "Philippines",
+      "cluster_id": 3,
+      "medoid": "Lesotho",
+      "distance_to_medoid": 0.347084
+    },
+    {
+      "label": "Poland",
+      "cluster_id": 1,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.190094
+    },
+    {
+      "label": "Portugal",
+      "cluster_id": 0,
+      "medoid": "Azerbaijan",
+      "distance_to_medoid": 0.30312
+    },
+    {
+      "label": "Qatar",
+      "cluster_id": 2,
+      "medoid": "Israel",
+      "distance_to_medoid": 0.220045
+    },
+    {
+      "label": "Republic of Korea",
+      "cluster_id": 0,
+      "medoid": "Azerbaijan",
+      "distance_to_medoid": 0.236192
+    },
+    {
+      "label": "Republic of Moldova",
+      "cluster_id": 2,
+      "medoid": "Israel",
+      "distance_to_medoid": 0.313297
+    },
+    {
+      "label": "Romania",
+      "cluster_id": 4,
+      "medoid": "Paraguay",
+      "distance_to_medoid": 0.297965
+    },
+    {
+      "label": "Russian Federation",
+      "cluster_id": 1,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.302505
+    },
+    {
+      "label": "Rwanda",
+      "cluster_id": 1,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.257983
+    },
+    {
+      "label": "Saint Kitts and Nevis",
+      "cluster_id": 3,
+      "medoid": "Lesotho",
+      "distance_to_medoid": 0.212427
+    },
+    {
+      "label": "Saint Lucia",
+      "cluster_id": 1,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.15447
+    },
+    {
+      "label": "Saint Vincent and the Grenadines",
+      "cluster_id": 5,
+      "medoid": "Tuvalu",
+      "distance_to_medoid": 0.1849
+    },
+    {
+      "label": "Samoa",
+      "cluster_id": 5,
+      "medoid": "Tuvalu",
+      "distance_to_medoid": 0.33676
+    },
+    {
+      "label": "San Marino",
+      "cluster_id": 5,
+      "medoid": "Tuvalu",
+      "distance_to_medoid": 0.325392
+    },
+    {
+      "label": "Sao Tome and Principe",
+      "cluster_id": 3,
+      "medoid": "Lesotho",
+      "distance_to_medoid": 0.338686
+    },
+    {
+      "label": "Saudi Arabia",
+      "cluster_id": 0,
+      "medoid": "Azerbaijan",
+      "distance_to_medoid": 0.245556
+    },
+    {
+      "label": "Senegal",
+      "cluster_id": 2,
+      "medoid": "Israel",
+      "distance_to_medoid": 0.244464
+    },
+    {
+      "label": "Serbia",
+      "cluster_id": 0,
+      "medoid": "Azerbaijan",
+      "distance_to_medoid": 0.25614
+    },
+    {
+      "label": "Seychelles",
+      "cluster_id": 3,
+      "medoid": "Lesotho",
+      "distance_to_medoid": 0.223377
+    },
+    {
+      "label": "Sierra Leone",
+      "cluster_id": 6,
+      "medoid": "Zambia",
+      "distance_to_medoid": 0.206663
+    },
+    {
+      "label": "Singapore",
+      "cluster_id": 2,
+      "medoid": "Israel",
+      "distance_to_medoid": 0.243092
+    },
+    {
+      "label": "Slovakia",
+      "cluster_id": 2,
+      "medoid": "Israel",
+      "distance_to_medoid": 0.272483
+    },
+    {
+      "label": "Slovenia",
+      "cluster_id": 1,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.251756
+    },
+    {
+      "label": "Solomon Islands",
+      "cluster_id": 5,
+      "medoid": "Tuvalu",
+      "distance_to_medoid": 0.16164
+    },
+    {
+      "label": "Somalia",
+      "cluster_id": 1,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.262652
+    },
+    {
+      "label": "South Africa",
+      "cluster_id": 3,
+      "medoid": "Lesotho",
+      "distance_to_medoid": 0.397934
+    },
+    {
+      "label": "South Sudan",
+      "cluster_id": 6,
+      "medoid": "Zambia",
+      "distance_to_medoid": 0.290362
+    },
+    {
+      "label": "Spain",
+      "cluster_id": 1,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.306134
+    },
+    {
+      "label": "Sri Lanka",
+      "cluster_id": 0,
+      "medoid": "Azerbaijan",
+      "distance_to_medoid": 0.32107
+    },
+    {
+      "label": "Sudan",
+      "cluster_id": 6,
+      "medoid": "Zambia",
+      "distance_to_medoid": 0.2814
+    },
+    {
+      "label": "Suriname",
+      "cluster_id": 6,
+      "medoid": "Zambia",
+      "distance_to_medoid": 0.270339
+    },
+    {
+      "label": "Sweden",
+      "cluster_id": 0,
+      "medoid": "Azerbaijan",
+      "distance_to_medoid": 0.344973
+    },
+    {
+      "label": "Switzerland",
+      "cluster_id": 3,
+      "medoid": "Lesotho",
+      "distance_to_medoid": 0.38838
+    },
+    {
+      "label": "Syrian Arab Republic",
+      "cluster_id": 2,
+      "medoid": "Israel",
+      "distance_to_medoid": 0.21657
+    },
+    {
+      "label": "Tajikistan",
+      "cluster_id": 3,
+      "medoid": "Lesotho",
+      "distance_to_medoid": 0.195827
+    },
+    {
+      "label": "Thailand",
+      "cluster_id": 1,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.179697
+    },
+    {
+      "label": "Timor-Leste",
+      "cluster_id": 3,
+      "medoid": "Lesotho",
+      "distance_to_medoid": 0.297504
+    },
+    {
+      "label": "Togo",
+      "cluster_id": 1,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.177739
+    },
+    {
+      "label": "Tonga",
+      "cluster_id": 5,
+      "medoid": "Tuvalu",
+      "distance_to_medoid": 0.197295
+    },
+    {
+      "label": "Trinidad and Tobago",
+      "cluster_id": 3,
+      "medoid": "Lesotho",
+      "distance_to_medoid": 0.252999
+    },
+    {
+      "label": "Tunisia",
+      "cluster_id": 1,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.210318
+    },
+    {
+      "label": "Turkmenistan",
+      "cluster_id": 0,
+      "medoid": "Azerbaijan",
+      "distance_to_medoid": 0.282569
+    },
+    {
+      "label": "Tuvalu",
+      "cluster_id": 5,
+      "medoid": "Tuvalu",
+      "distance_to_medoid": 0.0
+    },
+    {
+      "label": "Türkiye",
+      "cluster_id": 0,
+      "medoid": "Azerbaijan",
+      "distance_to_medoid": 0.277308
+    },
+    {
+      "label": "Uganda",
+      "cluster_id": 6,
+      "medoid": "Zambia",
+      "distance_to_medoid": 0.285185
+    },
+    {
+      "label": "Ukraine",
+      "cluster_id": 0,
+      "medoid": "Azerbaijan",
+      "distance_to_medoid": 0.302826
+    },
+    {
+      "label": "United Arab Emirates",
+      "cluster_id": 0,
+      "medoid": "Azerbaijan",
+      "distance_to_medoid": 0.210932
+    },
+    {
+      "label": "United Kingdom of Great Britain and Northern Ireland",
+      "cluster_id": 1,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.309333
+    },
+    {
+      "label": "United Republic of Tanzania",
+      "cluster_id": 6,
+      "medoid": "Zambia",
+      "distance_to_medoid": 0.276734
+    },
+    {
+      "label": "United States of America",
+      "cluster_id": 1,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.277042
+    },
+    {
+      "label": "Uruguay",
+      "cluster_id": 4,
+      "medoid": "Paraguay",
+      "distance_to_medoid": 0.25519
+    },
+    {
+      "label": "Uzbekistan",
+      "cluster_id": 1,
+      "medoid": "Grenada",
+      "distance_to_medoid": 0.263702
+    },
+    {
+      "label": "Vanuatu",
+      "cluster_id": 5,
+      "medoid": "Tuvalu",
+      "distance_to_medoid": 0.177424
+    },
+    {
+      "label": "Venezuela  Bolivarian Republic of ",
+      "cluster_id": 6,
+      "medoid": "Zambia",
+      "distance_to_medoid": 0.209192
+    },
+    {
+      "label": "Vietnam",
+      "cluster_id": 0,
+      "medoid": "Azerbaijan",
+      "distance_to_medoid": 0.285952
+    },
+    {
+      "label": "Yemen",
+      "cluster_id": 3,
+      "medoid": "Lesotho",
+      "distance_to_medoid": 0.312128
+    },
+    {
+      "label": "Zambia",
+      "cluster_id": 6,
+      "medoid": "Zambia",
+      "distance_to_medoid": 0.0
+    },
+    {
+      "label": "Zimbabwe",
+      "cluster_id": 3,
+      "medoid": "Lesotho",
+      "distance_to_medoid": 0.3776
+    }
+  ],
+  "clusters": {
+    "0": [
+      "Azerbaijan",
+      "Benin",
+      "China",
+      "Comoros",
+      "Costa Rica",
+      "Democratic People s Republic of Korea",
+      "Denmark",
+      "Georgia",
+      "Greece",
+      "Honduras",
+      "Iceland",
+      "Iran  Islamic Republic of ",
+      "Kazakhstan",
+      "Kyrgyzstan",
+      "Lao People s Democratic Republic",
+      "Libya",
+      "Lithuania",
+      "Luxembourg",
+      "Mongolia",
+      "Nepal",
+      "New Zealand",
+      "Nicaragua",
+      "Portugal",
+      "Republic of Korea",
+      "Saudi Arabia",
+      "Serbia",
+      "Sri Lanka",
+      "Sweden",
+      "Turkmenistan",
+      "Türkiye",
+      "Ukraine",
+      "United Arab Emirates",
+      "Vietnam"
+    ],
+    "1": [
+      "Algeria",
+      "Antigua and Barbuda",
+      "Austria",
+      "Bahamas  The",
+      "Bahrain",
+      "Belarus",
+      "Belgium",
+      "Belize",
+      "Bhutan",
+      "Bosnia and Herzegovina",
+      "Brunei",
+      "Burundi",
+      "Cambodia",
+      "Cameroon",
+      "Canada",
+      "Czechia",
+      "Democratic Republic of the Congo",
+      "Dominican Republic",
+      "Egypt",
+      "Ethiopia",
+      "Grenada",
+      "Indonesia",
+      "Iraq",
+      "Ireland",
+      "Jamaica",
+      "Japan",
+      "Jordan",
+      "Liberia",
+      "Madagascar",
+      "Malaysia",
+      "Morocco",
+      "Myanmar",
+      "Oman",
+      "Palau",
+      "Poland",
+      "Russian Federation",
+      "Rwanda",
+      "Saint Lucia",
+      "Slovenia",
+      "Somalia",
+      "Spain",
+      "Thailand",
+      "Togo",
+      "Tunisia",
+      "United Kingdom of Great Britain and Northern Ireland",
+      "United States of America",
+      "Uzbekistan"
+    ],
+    "2": [
+      "Albania",
+      "Armenia",
+      "Bangladesh",
+      "Bulgaria",
+      "Cabo Verde",
+      "Croatia",
+      "Djibouti",
+      "El Salvador",
+      "Estonia",
+      "Fiji",
+      "Finland",
+      "Germany",
+      "Hungary",
+      "Israel",
+      "Latvia",
+      "Lebanon",
+      "Malta",
+      "Montenegro",
+      "North Macedonia",
+      "Qatar",
+      "Republic of Moldova",
+      "Senegal",
+      "Singapore",
+      "Slovakia",
+      "Syrian Arab Republic"
+    ],
+    "3": [
+      "Australia",
+      "Barbados",
+      "Chad",
+      "Congo",
+      "Côte d Ivoire",
+      "Equatorial Guinea",
+      "Eswatini",
+      "Gabon",
+      "Guinea Bissau",
+      "Haiti",
+      "India",
+      "Kenya",
+      "Lesotho",
+      "Pakistan",
+      "Philippines",
+      "Saint Kitts and Nevis",
+      "Sao Tome and Principe",
+      "Seychelles",
+      "South Africa",
+      "Switzerland",
+      "Tajikistan",
+      "Timor-Leste",
+      "Trinidad and Tobago",
+      "Yemen",
+      "Zimbabwe"
+    ],
+    "4": [
+      "Argentina",
+      "Bolivia",
+      "Brazil",
+      "Chile",
+      "Colombia",
+      "Cuba",
+      "France",
+      "Italy",
+      "Mexico",
+      "Paraguay",
+      "Romania",
+      "Uruguay"
+    ],
+    "5": [
+      "Afghanistan",
+      "Andorra",
+      "Gambia  Republic of The ",
+      "Guinea",
+      "Kuwait",
+      "Liechtenstein",
+      "Marshall Islands",
+      "Monaco",
+      "Nauru",
+      "Netherlands  Kingdom of the ",
+      "Papua New Guinea",
+      "Saint Vincent and the Grenadines",
+      "Samoa",
+      "San Marino",
+      "Solomon Islands",
+      "Tonga",
+      "Tuvalu",
+      "Vanuatu"
+    ],
+    "6": [
+      "Angola",
+      "Botswana",
+      "Burkina Faso",
+      "Central African Republic",
+      "Cyprus",
+      "Dominica",
+      "Ecuador",
+      "Eritrea",
+      "Ghana",
+      "Guatemala",
+      "Guyana",
+      "Kiribati",
+      "Malawi",
+      "Maldives",
+      "Mali",
+      "Mauritania",
+      "Mauritius",
+      "Micronesia  Federated States of ",
+      "Mozambique",
+      "Namibia",
+      "Niger",
+      "Nigeria",
+      "Norway",
+      "Panama",
+      "Peru",
+      "Sierra Leone",
+      "South Sudan",
+      "Sudan",
+      "Suriname",
+      "Uganda",
+      "United Republic of Tanzania",
+      "Venezuela  Bolivarian Republic of ",
+      "Zambia"
+    ]
+  },
+  "medoids": {
+    "0": "Azerbaijan",
+    "1": "Grenada",
+    "2": "Israel",
+    "3": "Lesotho",
+    "4": "Paraguay",
+    "5": "Tuvalu",
+    "6": "Zambia"
+  },
+  "cluster_stats": {
+    "0": {
+      "size": 33,
+      "avg_intra_dist": 0.267799,
+      "max_intra_dist": 0.507414,
+      "diameter": 0.61416
+    },
+    "1": {
+      "size": 47,
+      "avg_intra_dist": 0.237509,
+      "max_intra_dist": 0.356842,
+      "diameter": 0.459259
+    },
+    "2": {
+      "size": 25,
+      "avg_intra_dist": 0.230381,
+      "max_intra_dist": 0.362978,
+      "diameter": 0.464143
+    },
+    "3": {
+      "size": 25,
+      "avg_intra_dist": 0.274602,
+      "max_intra_dist": 0.397934,
+      "diameter": 0.52717
+    },
+    "4": {
+      "size": 12,
+      "avg_intra_dist": 0.247463,
+      "max_intra_dist": 0.367667,
+      "diameter": 0.453198
+    },
+    "5": {
+      "size": 18,
+      "avg_intra_dist": 0.260688,
+      "max_intra_dist": 0.509755,
+      "diameter": 0.545948
+    },
+    "6": {
+      "size": 33,
+      "avg_intra_dist": 0.260344,
+      "max_intra_dist": 0.393616,
+      "diameter": 0.517676
+    }
+  },
+  "metadata": {
+    "iterations": 28,
+    "converged": true,
+    "init_method": "heuristic",
+    "seed": 42,
+    "run_time_seconds": 4.826,
+    "n_documents": 193,
+    "inter_cluster_distances": {
+      "0,1": 0.235699,
+      "0,2": 0.228424,
+      "0,3": 0.262398,
+      "0,4": 0.33183,
+      "0,5": 0.243021,
+      "0,6": 0.220683,
+      "1,2": 0.232171,
+      "1,3": 0.205094,
+      "1,4": 0.305268,
+      "1,5": 0.211226,
+      "1,6": 0.241635,
+      "2,3": 0.281561,
+      "2,4": 0.361511,
+      "2,5": 0.213722,
+      "2,6": 0.248382,
+      "3,4": 0.309909,
+      "3,5": 0.241993,
+      "3,6": 0.264831,
+      "4,5": 0.347382,
+      "4,6": 0.292889,
+      "5,6": 0.225177
+    }
+  }
+}

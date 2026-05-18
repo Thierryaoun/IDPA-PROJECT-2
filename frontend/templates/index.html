@@ -1,0 +1,335 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>ClusterLab — Document Clustering</title>
+  <link rel="stylesheet" href="/static/css/main.css"/>
+  <script src="https://cdn.jsdelivr.net/npm/d3@7/dist/d3.min.js"></script>
+</head>
+<body>
+
+<!-- ── Sidebar ──────────────────────────────────────────────────────────── -->
+<aside id="sidebar">
+  <div class="sidebar-brand">
+    <div class="brand-icon">&#9638;</div>
+    <span class="brand-text">ClusterLab</span>
+    <span class="brand-ver">v2</span>
+  </div>
+
+  <nav class="sidebar-nav">
+    <div class="sidebar-section">Workflow</div>
+    <a href="#" class="nav-item active" data-page="dataset">
+      <span class="nav-icon">&#9776;</span>
+      <span class="nav-label">Dataset</span>
+    </a>
+    <a href="#" class="nav-item" data-page="configure">
+      <span class="nav-icon">&#9881;</span>
+      <span class="nav-label">Configure</span>
+    </a>
+    <div class="sidebar-section">Analysis</div>
+    <a href="#" class="nav-item" data-page="results">
+      <span class="nav-icon">&#9741;</span>
+      <span class="nav-label">Results</span>
+    </a>
+    <a href="#" class="nav-item" data-page="compare">
+      <span class="nav-icon">&#8646;</span>
+      <span class="nav-label">Compare</span>
+    </a>
+  </nav>
+
+  <div class="sidebar-footer">
+    <div id="status-dot" class="status-dot offline"></div>
+    <span id="status-label">Not ready</span>
+  </div>
+</aside>
+
+<!-- ── Main ─────────────────────────────────────────────────────────────── -->
+<main id="main">
+
+  <!-- ══════════════════════ PAGE: Dataset ══════════════════════════════ -->
+  <section id="page-dataset" class="page active">
+    <div class="page-header">
+      <h1>Dataset</h1>
+      <p class="page-sub">Select the countries to include and compute their pairwise TED distance matrix.</p>
+    </div>
+
+    <!-- Summary stats -->
+    <div class="card-row">
+      <div class="stat-card">
+        <div class="stat-value" id="stat-available">—</div>
+        <div class="stat-label">Countries available</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-value" id="stat-selected">0</div>
+        <div class="stat-label">Selected</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-value" id="stat-matrix">—</div>
+        <div class="stat-label">Matrix status</div>
+      </div>
+    </div>
+
+    <!-- Country selector -->
+    <div class="card">
+      <div class="card-title">Country Selection</div>
+      <div class="card-toolbar">
+        <input type="text" id="country-search" class="search-input" placeholder="&#128269; Search countries…"/>
+        <div class="btn-group">
+          <button class="btn btn-sm" onclick="App.selectRegion('all')">All</button>
+          <button class="btn btn-sm" onclick="App.selectRegion('none')">None</button>
+          <button class="btn btn-sm" onclick="App.selectRegion('MiddleEast')">Middle East</button>
+          <button class="btn btn-sm" onclick="App.selectRegion('Europe')">Europe</button>
+          <button class="btn btn-sm" onclick="App.selectRegion('LatAm')">Latin Am.</button>
+          <button class="btn btn-sm" onclick="App.selectRegion('Asia')">Asia</button>
+          <button class="btn btn-sm" onclick="App.selectRegion('Africa')">Africa</button>
+        </div>
+      </div>
+      <div id="country-grid" class="country-grid"></div>
+    </div>
+
+    <!-- Matrix options -->
+    <div class="card">
+      <div class="card-title">Distance Matrix</div>
+      <div class="info-note" style="margin-bottom:1rem">
+        The first run computes all pairwise TED distances and caches the result.
+        <strong>Subsequent runs load from cache instantly.</strong>
+        Force-recompute only when trees have changed.
+      </div>
+      <div class="form-row">
+        <label class="toggle-label">
+          <input type="checkbox" id="use-semantic" checked/>
+          <span class="toggle-track"><span class="toggle-thumb"></span></span>
+          Semantic-aware TED weights
+        </label>
+        <label class="toggle-label">
+          <input type="checkbox" id="force-recompute"/>
+          <span class="toggle-track"><span class="toggle-thumb"></span></span>
+          Force recompute (ignore cache)
+        </label>
+      </div>
+      <div style="margin-top:1.25rem">
+        <button class="btn btn-primary" id="btn-compute" onclick="App.computeMatrix()">
+          Compute Distance Matrix
+        </button>
+      </div>
+
+      <!-- Progress bar (hidden until running) -->
+      <div id="matrix-progress" class="progress-wrap hidden">
+        <div class="progress-bar-track">
+          <div class="progress-bar-fill" id="matrix-bar"></div>
+        </div>
+        <div class="progress-msg" id="matrix-msg">Initialising…</div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ══════════════════════ PAGE: Configure ════════════════════════════ -->
+  <section id="page-configure" class="page">
+    <div class="page-header">
+      <h1>Configure</h1>
+      <p class="page-sub">Choose a clustering algorithm and tune its parameters, then run.</p>
+    </div>
+
+    <div class="two-col">
+      <!-- Algorithm picker -->
+      <div class="card">
+        <div class="card-title">Algorithm</div>
+        <div class="algo-cards">
+          <div class="algo-card selected" data-algo="kmedoids" onclick="App.selectAlgo('kmedoids')">
+            <div class="algo-name">K-Medoids (PAM)</div>
+            <div class="algo-desc">Partitions around actual data points (medoids). Works with any distance metric — ideal for TED. Robust and interpretable.</div>
+          </div>
+          <div class="algo-card" data-algo="hierarchical" onclick="App.selectAlgo('hierarchical')">
+            <div class="algo-name">Hierarchical (HAC)</div>
+            <div class="algo-desc">Bottom-up agglomerative clustering. Produces a full dendrogram showing merge order and distances. Cut at any k.</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Parameters -->
+      <div class="card">
+        <div class="card-title">Parameters</div>
+
+        <div class="param-group">
+          <label class="param-label">
+            Number of clusters (k)
+            <span class="param-value" id="lbl-k">5</span>
+          </label>
+          <input type="range" class="slider" id="param-k" min="2" max="20" value="5"
+                 oninput="document.getElementById('lbl-k').textContent=this.value"/>
+        </div>
+
+        <!-- K-Medoids only -->
+        <div id="km-params">
+          <div class="param-group">
+            <label class="param-label">Initialisation method</label>
+            <select class="select-input" id="param-init" style="width:100%">
+              <option value="heuristic">Heuristic (furthest-first)</option>
+              <option value="random">Random</option>
+            </select>
+          </div>
+          <div class="param-group">
+            <label class="param-label">
+              Max SWAP iterations
+              <span class="param-value" id="lbl-iter">100</span>
+            </label>
+            <input type="range" class="slider" id="param-iter" min="10" max="500" value="100" step="10"
+                   oninput="document.getElementById('lbl-iter').textContent=this.value"/>
+          </div>
+        </div>
+
+        <!-- HAC only -->
+        <div id="hac-params" class="hidden">
+          <div class="param-group">
+            <label class="param-label">Linkage criterion</label>
+            <select class="select-input" id="param-linkage" style="width:100%">
+              <option value="average">Average (UPGMA)</option>
+              <option value="single">Single linkage (min)</option>
+              <option value="complete">Complete linkage (max)</option>
+            </select>
+          </div>
+          <div class="info-note">
+            Ward's linkage is <strong>not supported</strong> — it requires a Euclidean embedding, which TED distances do not provide.
+          </div>
+        </div>
+
+        <div style="margin-top:1.5rem;display:flex;align-items:center;gap:0.75rem">
+          <button class="btn btn-primary" id="btn-run" onclick="App.runClustering()">
+            Run Clustering
+          </button>
+          <div id="run-spinner" class="spinner hidden"></div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ══════════════════════ PAGE: Results ══════════════════════════════ -->
+  <section id="page-results" class="page">
+    <div class="page-header">
+      <h1>Results</h1>
+      <p class="page-sub">Explore cluster assignments, quality metrics, and visualizations.</p>
+    </div>
+
+    <!-- Result file selector -->
+    <div class="card">
+      <div class="card-toolbar">
+        <label class="param-label" style="margin:0;font-size:0.85rem;color:var(--text-muted)">Load result:</label>
+        <select class="select-input" id="result-select"
+                onchange="App.loadResult(this.value)"
+                style="min-width:280px;flex:1;max-width:480px">
+          <option value="">— select a saved result —</option>
+        </select>
+        <button class="btn btn-sm" onclick="App.refreshResults()">&#8635; Refresh</button>
+      </div>
+    </div>
+
+    <!-- Metric summary cards (hidden until result loaded) -->
+    <div class="card-row" id="metric-cards" style="display:none">
+      <div class="stat-card accent-blue">
+        <div class="stat-value" id="m-algo" style="font-size:1.1rem">—</div>
+        <div class="stat-label">Algorithm</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-value" id="m-k">—</div>
+        <div class="stat-label">Clusters (k)</div>
+      </div>
+      <div class="stat-card accent-green">
+        <div class="stat-value" id="m-sil">—</div>
+        <div class="stat-label">Silhouette score</div>
+      </div>
+      <div class="stat-card accent-orange">
+        <div class="stat-value" id="m-inertia">—</div>
+        <div class="stat-label">Inertia</div>
+      </div>
+    </div>
+
+    <!-- Tabs + panes -->
+    <div id="result-body" style="display:none">
+      <div class="tab-bar">
+        <button class="tab-btn active" data-tab="clusters"   onclick="App.switchTab('clusters',   this)">Clusters</button>
+        <button class="tab-btn"        data-tab="dendrogram" onclick="App.switchTab('dendrogram', this)">Dendrogram</button>
+        <button class="tab-btn"        data-tab="heatmap"    onclick="App.switchTab('heatmap',    this)">Heatmap</button>
+        <button class="tab-btn"        data-tab="clustermap" onclick="App.switchTab('clustermap', this)">Cluster Map</button>
+      </div>
+
+      <div id="tab-clusters" class="tab-pane active">
+        <div id="cluster-cards-container" class="cluster-cards-grid"></div>
+      </div>
+
+      <div id="tab-dendrogram" class="tab-pane">
+        <div class="card chart-card">
+          <div class="card-title">Dendrogram — Merge Hierarchy</div>
+          <div id="chart-dendrogram"></div>
+        </div>
+      </div>
+
+      <div id="tab-heatmap" class="tab-pane">
+        <div class="card chart-card">
+          <div class="card-title">Distance Heatmap — Pairwise TED</div>
+          <div id="chart-heatmap"></div>
+        </div>
+      </div>
+
+      <div id="tab-clustermap" class="tab-pane">
+        <div class="card chart-card">
+          <div class="card-title">Cluster Force Map</div>
+          <div id="chart-clustermap"></div>
+        </div>
+      </div>
+    </div>
+
+    <div id="results-empty" class="empty-state">
+      <div class="empty-icon">&#9741;</div>
+      <div class="empty-text">No result loaded yet. Run clustering from the <strong>Configure</strong> page, or select a saved result above.</div>
+    </div>
+  </section>
+
+  <!-- ══════════════════════ PAGE: Compare ══════════════════════════════ -->
+  <section id="page-compare" class="page">
+    <div class="page-header">
+      <h1>Compare</h1>
+      <p class="page-sub">Side-by-side comparison of two saved clustering results.</p>
+    </div>
+
+    <div class="card">
+      <div class="card-toolbar" style="flex-wrap:wrap;gap:1.25rem">
+        <div style="display:flex;align-items:center;gap:0.6rem">
+          <label class="param-label" style="margin:0;white-space:nowrap">Result A</label>
+          <select class="select-input" id="cmp-a" style="min-width:220px" onchange="App.renderCompare()"></select>
+        </div>
+        <div style="color:var(--text-dim);font-size:1.2rem">&#8646;</div>
+        <div style="display:flex;align-items:center;gap:0.6rem">
+          <label class="param-label" style="margin:0;white-space:nowrap">Result B</label>
+          <select class="select-input" id="cmp-b" style="min-width:220px" onchange="App.renderCompare()"></select>
+        </div>
+      </div>
+    </div>
+
+    <div id="compare-body" style="display:none">
+      <div class="card-row" id="cmp-metric-row" style="display:none"></div>
+      <div class="two-col" id="cmp-cluster-cols">
+        <div id="cmp-col-a"></div>
+        <div id="cmp-col-b"></div>
+      </div>
+    </div>
+
+    <div id="compare-empty" class="empty-state">
+      <div class="empty-icon">&#8646;</div>
+      <div class="empty-text">Select two different saved results above to compare them side by side.</div>
+    </div>
+  </section>
+
+</main>
+
+<!-- ── Toast notification ──────────────────────────────────────────────── -->
+<div id="toast" class="toast hidden"></div>
+
+<!-- ── Scripts ─────────────────────────────────────────────────────────── -->
+<script src="/static/js/api.js"></script>
+<script src="/static/js/charts/dendrogram.js"></script>
+<script src="/static/js/charts/heatmap.js"></script>
+<script src="/static/js/charts/clustermap.js"></script>
+<script src="/static/js/app.js"></script>
+</body>
+</html>

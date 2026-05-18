@@ -363,6 +363,21 @@ def _subtree_delete_cost(node):
     return node.weight + sum(_subtree_delete_cost(c) for c in node.children)
 
 
+def cost_del_tree(node):
+    """CostDelTree: weighted cost to delete the entire subtree rooted at node."""
+    return delete_cost(node) + sum(cost_del_tree(c) for c in node.children)
+
+
+def cost_ins_tree(node):
+    """CostInsTree: weighted cost to insert the entire subtree rooted at node."""
+    return insert_cost(node) + sum(cost_ins_tree(c) for c in node.children)
+
+
+def _unit_subtree_size(node):
+    """Unit cost to delete/insert an entire subtree (one per node)."""
+    return 1 + sum(_unit_subtree_size(c) for c in node.children)
+
+
 def structure_only_tree(node):
     """Copy keeping only structural nodes (strips all content leaves)."""
     if node.is_leaf():
@@ -443,6 +458,10 @@ def _related_fields(c1, c2):
 
 
 def _value_rename_cost(path, value1, value2, weight):
+    if _is_date_field(path):
+        return (1.0 - _date_similarity([value1], [value2])) * weight
+    if _is_enum_field(path):
+        return (1.0 - _enum_similarity([value1], [value2])) * weight
     if _is_distribution_field(path):
         return _distribution_value_cost(value1, value2, weight)
     if _is_numeric_field(path):
@@ -453,6 +472,8 @@ def _value_rename_cost(path, value1, value2, weight):
         sim = _set_similarity([value1], [value2])
         if sim > 0:
             return (1.0 - sim) * weight
+    if "government" in path:
+        return (1.0 - _government_similarity([value1], [value2])) * weight
     ratio = SequenceMatcher(None, value1, value2).ratio()
     return (1.0 - ratio) * weight
 
@@ -527,57 +548,113 @@ def _index_tree(root):
 
 
 # ═══════════════════════════════════════════════════════════════════════════════
-# 6. Tree Edit Distance
+# 6. Tree Edit Distance — Nierman-Jagadish recursive algorithm
+#
+# Algorithm (from the literature):
+#   Input:  A, B — document trees
+#   Output: TED(A, B)
+#
+#   M = Degree(A),  N = Degree(B)          // first-level subtree counts
+#   Dist[0..M][0..N]
+#   Dist[0][0] = CostUpd(R(A), R(B))       // root update cost
+#   For i = 1..M: Dist[i][0] = Dist[i-1][0] + CostDelTree(Ai)
+#   For j = 1..N: Dist[0][j] = Dist[0][j-1] + CostInsTree(Bj)
+#   For i = 1..M, j = 1..N:
+#     Dist[i][j] = min{
+#       Dist[i-1][j-1] + TED(Ai, Bj),     // recursive call
+#       Dist[i-1][j]   + CostDelTree(Ai),
+#       Dist[i][j-1]   + CostInsTree(Bj)
+#     }
+#   Return Dist[M][N]
 # ═══════════════════════════════════════════════════════════════════════════════
 
-def tree_edit_distance(t1, t2):
-    """Compute Nierman-Jagadish TED with structural path enforcement."""
-    p1 = _compute_structural_paths(t1)
-    p2 = _compute_structural_paths(t2)
-    n1, lm1, kr1, _ = _index_tree(t1)
-    n2, lm2, kr2, _ = _index_tree(t2)
-    sz1, sz2 = len(n1) - 1, len(n2) - 1
-    TD = [[0.0] * (sz2 + 1) for _ in range(sz1 + 1)]
-    for ki in kr1:
-        for kj in kr2:
-            _fd(ki, kj, n1, n2, lm1, lm2, TD, p1, p2)
-    return TD[sz1][sz2]
+def tree_edit_distance(A, B, _paths1=None, _paths2=None, _memo=None):
+    """Nierman-Jagadish TED: recursive, top-down, weighted cost model."""
+    if _paths1 is None:
+        _paths1 = _compute_structural_paths(A)
+    if _paths2 is None:
+        _paths2 = _compute_structural_paths(B)
+    if _memo is None:
+        _memo = {}
+
+    key = (id(A), id(B))
+    if key in _memo:
+        return _memo[key]
+
+    M = len(A.children)   # Degree(A): number of first-level subtrees
+    N = len(B.children)   # Degree(B): number of first-level subtrees
+
+    # Dist[0..M][0..N]
+    Dist = [[0.0] * (N + 1) for _ in range(M + 1)]
+
+    # Line 4: Dist[0][0] = CostUpd(R(A), R(B))
+    Dist[0][0] = rename_cost(A, B, _paths1, _paths2)
+
+    # Line 5: Dist[i][0] = Dist[i-1][0] + CostDelTree(Ai)
+    for i in range(1, M + 1):
+        Dist[i][0] = Dist[i - 1][0] + cost_del_tree(A.children[i - 1])
+
+    # Line 6: Dist[0][j] = Dist[0][j-1] + CostInsTree(Bj)
+    for j in range(1, N + 1):
+        Dist[0][j] = Dist[0][j - 1] + cost_ins_tree(B.children[j - 1])
+
+    # Lines 7-17: main recurrence with recursive TED(Ai, Bj)
+    for i in range(1, M + 1):
+        for j in range(1, N + 1):
+            Ai = A.children[i - 1]
+            Bj = B.children[j - 1]
+            Dist[i][j] = min(
+                Dist[i - 1][j - 1] + tree_edit_distance(Ai, Bj, _paths1, _paths2, _memo),
+                Dist[i - 1][j]     + cost_del_tree(Ai),
+                Dist[i][j - 1]     + cost_ins_tree(Bj),
+            )
+
+    result = Dist[M][N]
+    _memo[key] = result
+    return result
 
 
-def tree_edit_distance_legacy(t1, t2):
-    """Original unweighted Nierman-Jagadish TED behavior."""
-    p1 = _compute_structural_paths(t1)
-    p2 = _compute_structural_paths(t2)
-    n1, lm1, kr1, _ = _index_tree(t1)
-    n2, lm2, kr2, _ = _index_tree(t2)
-    sz1, sz2 = len(n1) - 1, len(n2) - 1
-    TD = [[0.0] * (sz2 + 1) for _ in range(sz1 + 1)]
-    for ki in kr1:
-        for kj in kr2:
-            _fd_legacy(ki, kj, n1, n2, lm1, lm2, TD, p1, p2)
-    return TD[sz1][sz2]
+def tree_edit_distance_legacy(A, B, _paths1=None, _paths2=None, _memo=None):
+    """Nierman-Jagadish TED: recursive, top-down, unweighted (unit) cost model."""
+    if _paths1 is None:
+        _paths1 = _compute_structural_paths(A)
+    if _paths2 is None:
+        _paths2 = _compute_structural_paths(B)
+    if _memo is None:
+        _memo = {}
 
+    key = (id(A), id(B))
+    if key in _memo:
+        return _memo[key]
 
-def _fd_legacy(i, j, n1, n2, lm1, lm2, TD, p1, p2):
-    p, q = lm1[i], lm2[j]
-    m, n = i - p + 2, j - q + 2
-    FD = [[0.0] * n for _ in range(m)]
-    for s in range(1, m):
-        FD[s][0] = FD[s - 1][0] + 1.0
-    for t in range(1, n):
-        FD[0][t] = FD[0][t - 1] + 1.0
-    for s in range(1, m):
-        for t in range(1, n):
-            si, ti = s + p - 1, t + q - 1
-            cd = FD[s - 1][t] + 1.0
-            ci = FD[s][t - 1] + 1.0
-            if lm1[si] == p and lm2[ti] == q:
-                cr = FD[s - 1][t - 1] + _legacy_rename_cost(n1[si], n2[ti], p1, p2)
-                FD[s][t] = min(cd, ci, cr)
-                TD[si][ti] = FD[s][t]
-            else:
-                cs = FD[lm1[si] - p][lm2[ti] - q] + TD[si][ti]
-                FD[s][t] = min(cd, ci, cs)
+    M = len(A.children)
+    N = len(B.children)
+
+    Dist = [[0.0] * (N + 1) for _ in range(M + 1)]
+
+    # Dist[0][0] = CostUpd(R(A), R(B)) with unit/string-similarity cost
+    Dist[0][0] = _legacy_rename_cost(A, B, _paths1, _paths2)
+
+    # Boundary: cost to delete/insert entire subtrees (unit cost per node)
+    for i in range(1, M + 1):
+        Dist[i][0] = Dist[i - 1][0] + _unit_subtree_size(A.children[i - 1])
+
+    for j in range(1, N + 1):
+        Dist[0][j] = Dist[0][j - 1] + _unit_subtree_size(B.children[j - 1])
+
+    for i in range(1, M + 1):
+        for j in range(1, N + 1):
+            Ai = A.children[i - 1]
+            Bj = B.children[j - 1]
+            Dist[i][j] = min(
+                Dist[i - 1][j - 1] + tree_edit_distance_legacy(Ai, Bj, _paths1, _paths2, _memo),
+                Dist[i - 1][j]     + _unit_subtree_size(Ai),
+                Dist[i][j - 1]     + _unit_subtree_size(Bj),
+            )
+
+    result = Dist[M][N]
+    _memo[key] = result
+    return result
 
 
 def _legacy_rename_cost(n1, n2, paths1, paths2):
@@ -592,28 +669,6 @@ def _legacy_rename_cost(n1, n2, paths1, paths2):
             return INF_COST
         return round(1.0 - SequenceMatcher(None, n1.label, n2.label).ratio(), 4)
     return INF_COST
-
-
-def _fd(i, j, n1, n2, lm1, lm2, TD, p1, p2):
-    p, q = lm1[i], lm2[j]
-    m, n = i - p + 2, j - q + 2
-    FD = [[0.0] * n for _ in range(m)]
-    for s in range(1, m):
-        FD[s][0] = FD[s - 1][0] + delete_cost(n1[s + p - 1])
-    for t in range(1, n):
-        FD[0][t] = FD[0][t - 1] + insert_cost(n2[t + q - 1])
-    for s in range(1, m):
-        for t in range(1, n):
-            si, ti = s + p - 1, t + q - 1
-            cd = FD[s - 1][t] + delete_cost(n1[si])
-            ci = FD[s][t - 1] + insert_cost(n2[ti])
-            if lm1[si] == p and lm2[ti] == q:
-                cr = FD[s - 1][t - 1] + rename_cost(n1[si], n2[ti], p1, p2)
-                FD[s][t] = min(cd, ci, cr)
-                TD[si][ti] = FD[s][t]
-            else:
-                cs = FD[lm1[si] - p][lm2[ti] - q] + TD[si][ti]
-                FD[s][t] = min(cd, ci, cs)
 
 
 # ═══════════════════════════════════════════════════════════════════════════════
@@ -685,10 +740,17 @@ def compute_similarity(t1, t2, use_semantic_preprocessing=True,
     weighted_similarity = 1.0 - distance / max_cost if max_cost else 1.0
     script = compute_edit_script(nt1, nt2)
     edits = [op for op in script if op["op"] != OP_MATCH]
+
+    # Annotate each edit operation with its semantic classification
+    classified_edits = [{**op, "classification": classify_edit_op(op)} for op in edits]
+    expected_domain  = [e for e in classified_edits if e["classification"] == "expected_domain_difference"]
+    structural_diffs = [e for e in classified_edits if e["classification"] == "structural_difference"]
+    content_updates  = [e for e in classified_edits if e["classification"] == "content_update"]
+
     debug = {
         "tree1": debug1,
         "tree2": debug2,
-        "top_edit_operations": edits[:top_edits],
+        "top_edit_operations": classified_edits[:top_edits],
         "weighted_cost_contribution_by_field": _cost_contributions(edits),
     }
     result.update({
@@ -707,6 +769,18 @@ def compute_similarity(t1, t2, use_semantic_preprocessing=True,
             len(debug1.get("fields_normalized", [])) +
             len(debug2.get("fields_normalized", []))
         ),
+        "edit_classification": {
+            "expected_domain_differences": len(expected_domain),
+            "structural_differences": len(structural_diffs),
+            "content_updates": len(content_updates),
+            "note": (
+                "expected_domain_differences are normal country-specific values "
+                "(population, area, GDP, dates); "
+                "structural_differences indicate fields present in one country but "
+                "not the other; "
+                "content_updates are shared fields with differing values."
+            ),
+        },
         "debug": debug,
     })
     if save_debug_path:
@@ -784,6 +858,10 @@ def _skip_content_field(path):
 
 def _field_similarity(path, values1, values2):
     p = path.lower()
+    if _is_date_field(p):
+        return _date_similarity(values1, values2)
+    if _is_enum_field(p):
+        return _enum_similarity(values1, values2)
     if "time_zone" in p or "summer_dst" in p:
         return _timezone_similarity(values1, values2)
     if _is_numeric_field(p):
@@ -817,6 +895,64 @@ def _is_set_field(path):
     return any(term in path for term in set_terms)
 
 
+_DATE_FIELD_TERMS = frozenset({
+    "establishment", "independence", "founded", "formation",
+    "history", "declared", "recognized", "ratified",
+})
+
+
+def _is_date_field(path):
+    return any(t in path for t in _DATE_FIELD_TERMS)
+
+
+def _extract_year(text):
+    m = re.search(r'\b(1[0-9]{3}|20[0-9]{2})\b', text)
+    return int(m.group(1)) if m else None
+
+
+def _date_similarity(values1, values2):
+    y1 = _extract_year(" ".join(values1))
+    y2 = _extract_year(" ".join(values2))
+    if y1 is None or y2 is None:
+        return SequenceMatcher(None, " ".join(values1), " ".join(values2)).ratio()
+    if y1 == y2:
+        return 1.0
+    return max(0.0, 1.0 - abs(y1 - y2) / 500.0)
+
+
+_ENUM_FIELD_TERMS = frozenset({"driving_side", "date_format"})
+
+
+def _is_enum_field(path):
+    return any(t in path for t in _ENUM_FIELD_TERMS)
+
+
+def _enum_similarity(values1, values2):
+    v1 = clean_value(" ".join(values1))
+    v2 = clean_value(" ".join(values2))
+    return 1.0 if v1 == v2 else 0.0
+
+
+# Government-form categories for semantic comparison
+_GOV_CATEGORIES = {
+    "republic":      frozenset({"republic", "republican"}),
+    "monarchy":      frozenset({"monarchy", "kingdom", "sultanate", "emirate", "principality"}),
+    "federal":       frozenset({"federal", "federation"}),
+    "unitary":       frozenset({"unitary"}),
+    "democracy":     frozenset({"democracy", "democratic"}),
+    "presidential":  frozenset({"presidential"}),
+    "parliamentary": frozenset({"parliamentary", "parliament"}),
+    "socialist":     frozenset({"socialist", "communist", "marxist"}),
+    "theocracy":     frozenset({"theocracy", "theocratic", "islamic republic"}),
+    "authoritarian": frozenset({"authoritarian", "autocratic"}),
+}
+
+
+def _gov_categories(text):
+    t = text.lower()
+    return {cat for cat, terms in _GOV_CATEGORIES.items() if any(kw in t for kw in terms)}
+
+
 def _normalize_tokens(values):
     text = " ".join(values).lower()
     text = re.sub(r"\d+(?:\.\d+)?%?", " ", text)
@@ -839,9 +975,15 @@ def _set_similarity(values1, values2):
 
 
 def _government_similarity(values1, values2):
-    text_ratio = SequenceMatcher(None, " ".join(values1), " ".join(values2)).ratio()
-    token_ratio = _set_similarity(values1, values2)
-    return (text_ratio + token_ratio) / 2
+    text1, text2 = " ".join(values1), " ".join(values2)
+    cats1, cats2 = _gov_categories(text1), _gov_categories(text2)
+    if cats1 and cats2:
+        union = cats1 | cats2
+        cat_sim = len(cats1 & cats2) / len(union)
+    else:
+        cat_sim = SequenceMatcher(None, text1, text2).ratio()
+    token_sim = _set_similarity(values1, values2)
+    return (cat_sim + token_sim) / 2
 
 
 def _distribution_similarity(values1, values2):
@@ -936,6 +1078,71 @@ OP_MATCH = "Match"
 OP_INSERT = "Insert"
 OP_DELETE = "Delete"
 OP_UPDATE = "Update"
+
+# Fields whose values are inherently country-specific and expected to differ.
+# Finding different values in these fields is a normal domain difference, NOT
+# a meaningful structural mismatch or anomaly between two countries.
+_EXPECTED_DOMAIN_FIELDS = frozenset({
+    "demographics.population",
+    "demographics.population.density",
+    "demographics.population.total",
+    "demographics.population.estimate",
+    "demographics.hdi",
+    "demographics.gini",
+    "geography.area",
+    "geography.area.total",
+    "geography.area.km2",
+    "economy.gdp",
+    "economy.gdp.ppp",
+    "economy.gdp.nominal",
+    "economy.gdp.total",
+    "economy.gdp.per_capita",
+    "history.establishment",
+    "history.establishment.independence",
+    "history.establishment.declared",
+    "history.establishment.recognized",
+})
+
+# Fields where structural presence/absence is meaningful
+_STRUCTURAL_SIGNIFICANCE_FIELDS = frozenset({
+    "languages.official",
+    "languages.recognized",
+    "demographics.religion",
+    "demographics.ethnic_groups",
+    "politics.government",
+    "geography.region",
+    "geography.continent",
+    "economy.currency",
+})
+
+
+def classify_edit_op(op):
+    """Classify an edit operation into one of three semantic categories.
+
+    Returns:
+      "match"                    — no change
+      "expected_domain_difference" — fields expected to vary between any two countries
+                                    (population, area, GDP, dates, etc.)
+      "structural_difference"    — a whole field category is present in one tree
+                                    but absent in the other
+      "content_update"           — same field exists in both trees, values differ
+    """
+    op_type = op.get("op", "")
+    node_type = op.get("type", "")
+    path = (op.get("path") or "").lower()
+    canonical = _canonical_path(path) if path else ""
+
+    if op_type == OP_MATCH:
+        return "match"
+
+    for field in _EXPECTED_DOMAIN_FIELDS:
+        if canonical == field or canonical.startswith(field + ".") or field.startswith(canonical + "."):
+            return "expected_domain_difference"
+
+    if node_type == "structural" and op_type in (OP_DELETE, OP_INSERT):
+        return "structural_difference"
+
+    return "content_update"
 
 
 def compute_edit_script(t1, t2):
@@ -1082,26 +1289,35 @@ def print_tree(node, prefix="", is_last=True, is_root=True):
 
 
 def print_edit_script(ops, show_matches=False):
-    edits = [o for o in ops if o["op"] != OP_MATCH]
+    edits   = [o for o in ops if o["op"] != OP_MATCH]
     matches = [o for o in ops if o["op"] == OP_MATCH]
     se = [o for o in edits if o["type"] == "structural"]
     ce = [o for o in edits if o["type"] == "content"]
 
+    # Classify edits if not already annotated
+    expected  = [o for o in edits if o.get("classification") == "expected_domain_difference"]
+    struct_d  = [o for o in edits if o.get("classification") == "structural_difference"]
+    content_u = [o for o in edits if o.get("classification") == "content_update"]
+
     print(f"    Summary: {len(matches)} matches, {len(edits)} edits "
           f"({len(se)} structural, {len(ce)} content)")
+    if expected or struct_d or content_u:
+        print(f"    Classification: {len(struct_d)} structural differences, "
+              f"{len(content_u)} content updates, "
+              f"{len(expected)} expected domain differences")
     print()
 
     if se:
         print("    STRUCTURAL CHANGES")
         print("    " + "─" * 50)
         for o in se:
-            field = o.get("path", "").split(".")[-1] or o.get("node1", "")
+            tag = f"  [{o.get('classification', '')}]" if o.get("classification") else ""
             if o["op"] == OP_UPDATE:
-                print(f"      UPDATE field: {o['node1']}  →  {o['node2']}")
+                print(f"      UPDATE field: {o['node1']}  →  {o['node2']}{tag}")
             elif o["op"] == OP_DELETE:
-                print(f"      DELETE field: {o['node1']}")
+                print(f"      DELETE field: {o['node1']}{tag}")
             elif o["op"] == OP_INSERT:
-                print(f"      INSERT field: {o['node2']}")
+                print(f"      INSERT field: {o['node2']}{tag}")
         print()
 
     if ce:
@@ -1109,12 +1325,13 @@ def print_edit_script(ops, show_matches=False):
         print("    " + "─" * 50)
         for o in ce:
             field = o.get("path", "").split(".")[-1] or "?"
+            tag = f"  [{o.get('classification', '')}]" if o.get("classification") else ""
             if o["op"] == OP_UPDATE:
-                print(f"      UPDATE {field}: {o['node1']}  →  {o['node2']}")
+                print(f"      UPDATE {field}: {o['node1']}  →  {o['node2']}{tag}")
             elif o["op"] == OP_DELETE:
-                print(f"      DELETE {field}: {o['node1']}")
+                print(f"      DELETE {field}: {o['node1']}{tag}")
             elif o["op"] == OP_INSERT:
-                print(f"      INSERT {field}: {o['node2']}")
+                print(f"      INSERT {field}: {o['node2']}{tag}")
         print()
 
     if show_matches and matches:
