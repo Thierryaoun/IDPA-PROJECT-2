@@ -4335,3 +4335,1252 @@
 00:00:34 [DEBUG   ] clustering.kmedoids —   run 5/5  init=random  inertia=2.790000
 00:00:34 [INFO    ] clustering.kmedoids — K-Medoids complete.  k=1, best_inertia=2.7900, n_init=5
 00:01:30 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:01:30] "GET /api/status HTTP/1.1" 200 -
+00:02:32 [INFO    ] werkzeug — [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+00:02:32 [INFO    ] werkzeug — [33mPress CTRL+C to quit[0m
+00:02:35 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:02:35] "GET / HTTP/1.1" 200 -
+00:02:36 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:02:36] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+00:02:36 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:02:36] "[36mGET /static/js/api.js HTTP/1.1[0m" 304 -
+00:02:36 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:02:36] "[36mGET /static/js/charts/dendrogram.js HTTP/1.1[0m" 304 -
+00:02:36 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:02:36] "[36mGET /static/js/charts/heatmap.js HTTP/1.1[0m" 304 -
+00:02:36 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:02:36] "[36mGET /static/js/charts/clustermap.js HTTP/1.1[0m" 304 -
+00:02:36 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:02:36] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+00:02:36 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:02:36] "GET /api/status HTTP/1.1" 200 -
+00:02:36 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:02:36] "GET /api/countries HTTP/1.1" 200 -
+00:02:37 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:02:37] "GET /api/results HTTP/1.1" 200 -
+00:02:45 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:02:45] "GET /api/status HTTP/1.1" 200 -
+00:02:53 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:02:53] "GET /api/status HTTP/1.1" 200 -
+00:02:53 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:02:53] "GET / HTTP/1.1" 200 -
+00:02:54 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:02:54] "GET /static/css/main.css HTTP/1.1" 200 -
+00:02:54 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:02:54] "GET /static/js/charts/dendrogram.js HTTP/1.1" 200 -
+00:02:54 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:02:54] "GET /static/js/charts/heatmap.js HTTP/1.1" 200 -
+00:02:54 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:02:54] "GET /static/js/api.js HTTP/1.1" 200 -
+00:02:54 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:02:54] "GET /static/js/charts/clustermap.js HTTP/1.1" 200 -
+00:02:54 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:02:54] "GET /static/js/app.js HTTP/1.1" 200 -
+00:02:54 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:02:54] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+00:02:54 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:02:54] "GET /api/status HTTP/1.1" 200 -
+00:02:54 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:02:54] "GET /api/countries HTTP/1.1" 200 -
+00:02:54 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:02:54] "GET /api/results HTTP/1.1" 200 -
+00:03:02 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:03:02] "GET /api/status HTTP/1.1" 200 -
+00:03:10 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:03:10] "POST /api/matrix/start HTTP/1.1" 200 -
+00:03:10 [INFO    ] clustering.distance_matrix — Loaded 12 country trees from 'C:\\Users\\User\\Desktop\\IDPA PROJECT_V2\\IDPA-PROJECT-2\\preprocessed_trees'
+00:03:10 [INFO    ] clustering.pipeline — 12 trees loaded.
+00:03:10 [INFO    ] clustering.distance_matrix — Computing semantic distance matrix for 12 documents (66 pairs)…
+00:03:10 [INFO    ] clustering.distance_matrix — Pre-normalizing trees (field filter: ['demographics.religion', 'languages.official', 'languages.recognized', 'languages.spoken', 'politics.government'])…
+00:03:10 [INFO    ] clustering.distance_matrix — Matrix stats: {'n': 12, 'pairs': 66, 'min': 0.0375, 'max': 0.163973, 'mean': 0.111224, 'std': 0.02928}
+00:03:10 [INFO    ] clustering.models — Distance matrix saved -> C:\Users\User\Desktop\IDPA PROJECT_V2\IDPA-PROJECT-2\output\clustering\distance_matrix_12_cd41ce88.json  (12x12)
+00:03:10 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:03:10] "GET /api/status HTTP/1.1" 200 -
+00:03:11 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:03:11] "GET /api/job/686eb7a1 HTTP/1.1" 200 -
+00:03:12 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:03:12] "GET /api/status HTTP/1.1" 200 -
+00:03:12 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:03:12] "GET /api/matrix HTTP/1.1" 200 -
+00:03:18 [INFO    ] clustering.kmedoids — K-Medoids: n=12, k=2, init=heuristic, max_iter=100, n_init=3
+00:03:18 [DEBUG   ] clustering.kmedoids — Initial medoids: ['Saudi_Arabia', 'Israel']
+00:03:18 [DEBUG   ] clustering.kmedoids —   iter 0  inertia=0.762487
+00:03:18 [INFO    ] clustering.kmedoids — K-Medoids converged in 1 iteration(s).  Inertia=0.762487
+00:03:18 [DEBUG   ] clustering.kmedoids —   run 1/3  init=heuristic  inertia=0.762487
+00:03:18 [DEBUG   ] clustering.kmedoids — Initial medoids: ['Bahrain', 'Jordan']
+00:03:18 [DEBUG   ] clustering.kmedoids —   iter 0  inertia=1.017983
+00:03:18 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[1]=Saudi_Arabia  (inertia=0.812097)
+00:03:18 [DEBUG   ] clustering.kmedoids —   iter 1  inertia=0.812097
+00:03:18 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[0]=Israel  (inertia=0.762487)
+00:03:18 [DEBUG   ] clustering.kmedoids —   iter 2  inertia=0.762487
+00:03:18 [INFO    ] clustering.kmedoids — K-Medoids converged in 3 iteration(s).  Inertia=0.762487
+00:03:18 [DEBUG   ] clustering.kmedoids —   run 2/3  init=random  inertia=0.762487
+00:03:18 [DEBUG   ] clustering.kmedoids — Initial medoids: ['Lebanon', 'Qatar']
+00:03:18 [DEBUG   ] clustering.kmedoids —   iter 0  inertia=0.989247
+00:03:18 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[1]=Saudi_Arabia  (inertia=0.810054)
+00:03:18 [DEBUG   ] clustering.kmedoids —   iter 1  inertia=0.810054
+00:03:18 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[0]=Israel  (inertia=0.762487)
+00:03:18 [DEBUG   ] clustering.kmedoids —   iter 2  inertia=0.762487
+00:03:18 [INFO    ] clustering.kmedoids — K-Medoids converged in 3 iteration(s).  Inertia=0.762487
+00:03:18 [DEBUG   ] clustering.kmedoids —   run 3/3  init=random  inertia=0.762487
+00:03:18 [INFO    ] clustering.kmedoids — K-Medoids complete.  k=2, best_inertia=0.7625, n_init=3
+00:03:18 [DEBUG   ] clustering.evaluation — find_best_k: k=2  sil=0.2953
+00:03:18 [INFO    ] clustering.kmedoids — K-Medoids: n=12, k=3, init=heuristic, max_iter=100, n_init=3
+00:03:18 [DEBUG   ] clustering.kmedoids — Initial medoids: ['Saudi_Arabia', 'Israel', 'Iraq']
+00:03:18 [DEBUG   ] clustering.kmedoids —   iter 0  inertia=0.640263
+00:03:18 [INFO    ] clustering.kmedoids — K-Medoids converged in 1 iteration(s).  Inertia=0.640263
+00:03:18 [DEBUG   ] clustering.kmedoids —   run 1/3  init=heuristic  inertia=0.640263
+00:03:18 [DEBUG   ] clustering.kmedoids — Initial medoids: ['Bahrain', 'Jordan', 'Iraq']
+00:03:18 [DEBUG   ] clustering.kmedoids —   iter 0  inertia=0.877400
+00:03:18 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[1]=Saudi_Arabia  (inertia=0.689873)
+00:03:18 [DEBUG   ] clustering.kmedoids —   iter 1  inertia=0.689873
+00:03:18 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[0]=Israel  (inertia=0.640263)
+00:03:18 [DEBUG   ] clustering.kmedoids —   iter 2  inertia=0.640263
+00:03:18 [INFO    ] clustering.kmedoids — K-Medoids converged in 3 iteration(s).  Inertia=0.640263
+00:03:18 [DEBUG   ] clustering.kmedoids —   run 2/3  init=random  inertia=0.640263
+00:03:18 [DEBUG   ] clustering.kmedoids — Initial medoids: ['Lebanon', 'Qatar', 'Syrian_Arab_Republic']
+00:03:18 [DEBUG   ] clustering.kmedoids —   iter 0  inertia=0.831504
+00:03:18 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[1]=Saudi_Arabia  (inertia=0.717137)
+00:03:18 [DEBUG   ] clustering.kmedoids —   iter 1  inertia=0.717137
+00:03:18 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[0]=Israel  (inertia=0.666927)
+00:03:18 [DEBUG   ] clustering.kmedoids —   iter 2  inertia=0.666927
+00:03:18 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[2]=Iraq  (inertia=0.640263)
+00:03:18 [DEBUG   ] clustering.kmedoids —   iter 3  inertia=0.640263
+00:03:18 [INFO    ] clustering.kmedoids — K-Medoids converged in 4 iteration(s).  Inertia=0.640263
+00:03:18 [DEBUG   ] clustering.kmedoids —   run 3/3  init=random  inertia=0.640263
+00:03:18 [INFO    ] clustering.kmedoids — K-Medoids complete.  k=3, best_inertia=0.6403, n_init=3
+00:03:18 [DEBUG   ] clustering.evaluation — find_best_k: k=3  sil=0.2748
+00:03:18 [INFO    ] clustering.kmedoids — K-Medoids: n=12, k=4, init=heuristic, max_iter=100, n_init=3
+00:03:18 [DEBUG   ] clustering.kmedoids — Initial medoids: ['Saudi_Arabia', 'Israel', 'Iraq', 'Egypt']
+00:03:18 [DEBUG   ] clustering.kmedoids —   iter 0  inertia=0.525663
+00:03:18 [INFO    ] clustering.kmedoids — K-Medoids converged in 1 iteration(s).  Inertia=0.525663
+00:03:18 [DEBUG   ] clustering.kmedoids —   run 1/3  init=heuristic  inertia=0.525663
+00:03:18 [DEBUG   ] clustering.kmedoids — Initial medoids: ['Bahrain', 'Jordan', 'Iraq', 'Oman']
+00:03:18 [DEBUG   ] clustering.kmedoids —   iter 0  inertia=0.746067
+00:03:18 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[3]=Saudi_Arabia  (inertia=0.618707)
+00:03:18 [DEBUG   ] clustering.kmedoids —   iter 1  inertia=0.618707
+00:03:18 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[1]=Israel  (inertia=0.550983)
+00:03:18 [DEBUG   ] clustering.kmedoids —   iter 2  inertia=0.550983
+00:03:18 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[0]=Egypt  (inertia=0.525663)
+00:03:18 [DEBUG   ] clustering.kmedoids —   iter 3  inertia=0.525663
+00:03:18 [INFO    ] clustering.kmedoids — K-Medoids converged in 4 iteration(s).  Inertia=0.525663
+00:03:18 [DEBUG   ] clustering.kmedoids —   run 2/3  init=random  inertia=0.525663
+00:03:18 [DEBUG   ] clustering.kmedoids — Initial medoids: ['Lebanon', 'Qatar', 'Syrian_Arab_Republic', 'Egypt']
+00:03:18 [DEBUG   ] clustering.kmedoids —   iter 0  inertia=0.744631
+00:03:18 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[2]=Saudi_Arabia  (inertia=0.626097)
+00:03:18 [DEBUG   ] clustering.kmedoids —   iter 1  inertia=0.626097
+00:03:18 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[1]=Israel  (inertia=0.562633)
+00:03:18 [DEBUG   ] clustering.kmedoids —   iter 2  inertia=0.562633
+00:03:18 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[0]=Iraq  (inertia=0.525663)
+00:03:18 [DEBUG   ] clustering.kmedoids —   iter 3  inertia=0.525663
+00:03:18 [INFO    ] clustering.kmedoids — K-Medoids converged in 4 iteration(s).  Inertia=0.525663
+00:03:18 [DEBUG   ] clustering.kmedoids —   run 3/3  init=random  inertia=0.525663
+00:03:18 [INFO    ] clustering.kmedoids — K-Medoids complete.  k=4, best_inertia=0.5257, n_init=3
+00:03:18 [DEBUG   ] clustering.evaluation — find_best_k: k=4  sil=0.0814
+00:03:18 [INFO    ] clustering.kmedoids — K-Medoids: n=12, k=5, init=heuristic, max_iter=100, n_init=3
+00:03:18 [DEBUG   ] clustering.kmedoids — Initial medoids: ['Saudi_Arabia', 'Israel', 'Iraq', 'Egypt', 'Lebanon']
+00:03:18 [DEBUG   ] clustering.kmedoids —   iter 0  inertia=0.440410
+00:03:18 [INFO    ] clustering.kmedoids — K-Medoids converged in 1 iteration(s).  Inertia=0.440410
+00:03:18 [DEBUG   ] clustering.kmedoids —   run 1/3  init=heuristic  inertia=0.440410
+00:03:18 [DEBUG   ] clustering.kmedoids — Initial medoids: ['Bahrain', 'Jordan', 'Iraq', 'Oman', 'Kuwait']
+00:03:18 [DEBUG   ] clustering.kmedoids —   iter 0  inertia=0.661567
+00:03:18 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[3]=Saudi_Arabia  (inertia=0.557457)
+00:03:18 [DEBUG   ] clustering.kmedoids —   iter 1  inertia=0.557457
+00:03:18 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[4]=Israel  (inertia=0.479817)
+00:03:18 [DEBUG   ] clustering.kmedoids —   iter 2  inertia=0.479817
+00:03:18 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[0]=Egypt  (inertia=0.454497)
+00:03:18 [DEBUG   ] clustering.kmedoids —   iter 3  inertia=0.454497
+00:03:18 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[1]=Lebanon  (inertia=0.440410)
+00:03:18 [DEBUG   ] clustering.kmedoids —   iter 4  inertia=0.440410
+00:03:18 [INFO    ] clustering.kmedoids — K-Medoids converged in 5 iteration(s).  Inertia=0.440410
+00:03:18 [DEBUG   ] clustering.kmedoids —   run 2/3  init=random  inertia=0.440410
+00:03:18 [DEBUG   ] clustering.kmedoids — Initial medoids: ['Lebanon', 'Qatar', 'Syrian_Arab_Republic', 'Egypt', 'Iraq']
+00:03:18 [DEBUG   ] clustering.kmedoids —   iter 0  inertia=0.616714
+00:03:18 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[2]=Saudi_Arabia  (inertia=0.503874)
+00:03:18 [DEBUG   ] clustering.kmedoids —   iter 1  inertia=0.503874
+00:03:18 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[1]=Israel  (inertia=0.440410)
+00:03:18 [DEBUG   ] clustering.kmedoids —   iter 2  inertia=0.440410
+00:03:18 [INFO    ] clustering.kmedoids — K-Medoids converged in 3 iteration(s).  Inertia=0.440410
+00:03:18 [DEBUG   ] clustering.kmedoids —   run 3/3  init=random  inertia=0.440410
+00:03:18 [INFO    ] clustering.kmedoids — K-Medoids complete.  k=5, best_inertia=0.4404, n_init=3
+00:03:18 [DEBUG   ] clustering.evaluation — find_best_k: k=5  sil=0.0536
+00:03:18 [INFO    ] clustering.kmedoids — K-Medoids: n=12, k=6, init=heuristic, max_iter=100, n_init=3
+00:03:18 [DEBUG   ] clustering.kmedoids — Initial medoids: ['Saudi_Arabia', 'Israel', 'Iraq', 'Egypt', 'Lebanon', 'Qatar']
+00:03:18 [DEBUG   ] clustering.kmedoids —   iter 0  inertia=0.368410
+00:03:18 [INFO    ] clustering.kmedoids — K-Medoids converged in 1 iteration(s).  Inertia=0.368410
+00:03:18 [DEBUG   ] clustering.kmedoids —   run 1/3  init=heuristic  inertia=0.368410
+00:03:18 [DEBUG   ] clustering.kmedoids — Initial medoids: ['Bahrain', 'Jordan', 'Iraq', 'Oman', 'Kuwait', 'Qatar']
+00:03:18 [DEBUG   ] clustering.kmedoids —   iter 0  inertia=0.588337
+00:03:18 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[3]=Saudi_Arabia  (inertia=0.485457)
+00:03:18 [DEBUG   ] clustering.kmedoids —   iter 1  inertia=0.485457
+00:03:18 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[4]=Israel  (inertia=0.407817)
+00:03:18 [DEBUG   ] clustering.kmedoids —   iter 2  inertia=0.407817
+00:03:18 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[0]=Egypt  (inertia=0.382497)
+00:03:18 [DEBUG   ] clustering.kmedoids —   iter 3  inertia=0.382497
+00:03:18 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[1]=Lebanon  (inertia=0.368410)
+00:03:18 [DEBUG   ] clustering.kmedoids —   iter 4  inertia=0.368410
+00:03:18 [INFO    ] clustering.kmedoids — K-Medoids converged in 5 iteration(s).  Inertia=0.368410
+00:03:18 [DEBUG   ] clustering.kmedoids —   run 2/3  init=random  inertia=0.368410
+00:03:18 [DEBUG   ] clustering.kmedoids — Initial medoids: ['Lebanon', 'Qatar', 'Syrian_Arab_Republic', 'Egypt', 'Iraq', 'Israel']
+00:03:18 [DEBUG   ] clustering.kmedoids —   iter 0  inertia=0.481250
+00:03:18 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[2]=Saudi_Arabia  (inertia=0.368410)
+00:03:18 [DEBUG   ] clustering.kmedoids —   iter 1  inertia=0.368410
+00:03:18 [INFO    ] clustering.kmedoids — K-Medoids converged in 2 iteration(s).  Inertia=0.368410
+00:03:18 [DEBUG   ] clustering.kmedoids —   run 3/3  init=random  inertia=0.368410
+00:03:18 [INFO    ] clustering.kmedoids — K-Medoids complete.  k=6, best_inertia=0.3684, n_init=3
+00:03:18 [DEBUG   ] clustering.evaluation — find_best_k: k=6  sil=-0.0200
+00:03:18 [INFO    ] clustering.kmedoids — K-Medoids: n=12, k=7, init=heuristic, max_iter=100, n_init=3
+00:03:18 [DEBUG   ] clustering.kmedoids — Initial medoids: ['Saudi_Arabia', 'Israel', 'Iraq', 'Egypt', 'Lebanon', 'Qatar', 'Jordan']
+00:03:18 [DEBUG   ] clustering.kmedoids —   iter 0  inertia=0.297243
+00:03:18 [INFO    ] clustering.kmedoids — K-Medoids converged in 1 iteration(s).  Inertia=0.297243
+00:03:18 [DEBUG   ] clustering.kmedoids —   run 1/3  init=heuristic  inertia=0.297243
+00:03:18 [DEBUG   ] clustering.kmedoids — Initial medoids: ['Bahrain', 'Jordan', 'Iraq', 'Oman', 'Kuwait', 'Qatar', 'Lebanon']
+00:03:18 [DEBUG   ] clustering.kmedoids —   iter 0  inertia=0.470244
+00:03:18 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[3]=Saudi_Arabia  (inertia=0.396777)
+00:03:18 [DEBUG   ] clustering.kmedoids —   iter 1  inertia=0.396777
+00:03:18 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[4]=Israel  (inertia=0.322563)
+00:03:18 [DEBUG   ] clustering.kmedoids —   iter 2  inertia=0.322563
+00:03:18 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[0]=Egypt  (inertia=0.297243)
+00:03:18 [DEBUG   ] clustering.kmedoids —   iter 3  inertia=0.297243
+00:03:18 [INFO    ] clustering.kmedoids — K-Medoids converged in 4 iteration(s).  Inertia=0.297243
+00:03:18 [DEBUG   ] clustering.kmedoids —   run 2/3  init=random  inertia=0.297243
+00:03:18 [DEBUG   ] clustering.kmedoids — Initial medoids: ['Lebanon', 'Qatar', 'Syrian_Arab_Republic', 'Egypt', 'Iraq', 'Israel', 'Saudi_Arabia']
+00:03:18 [DEBUG   ] clustering.kmedoids —   iter 0  inertia=0.300577
+00:03:18 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[2]=Jordan  (inertia=0.297243)
+00:03:18 [DEBUG   ] clustering.kmedoids —   iter 1  inertia=0.297243
+00:03:18 [INFO    ] clustering.kmedoids — K-Medoids converged in 2 iteration(s).  Inertia=0.297243
+00:03:18 [DEBUG   ] clustering.kmedoids —   run 3/3  init=random  inertia=0.297243
+00:03:18 [INFO    ] clustering.kmedoids — K-Medoids complete.  k=7, best_inertia=0.2972, n_init=3
+00:03:18 [DEBUG   ] clustering.evaluation — find_best_k: k=7  sil=-0.0115
+00:03:18 [INFO    ] clustering.kmedoids — K-Medoids: n=12, k=8, init=heuristic, max_iter=100, n_init=3
+00:03:18 [DEBUG   ] clustering.kmedoids — Initial medoids: ['Saudi_Arabia', 'Israel', 'Iraq', 'Egypt', 'Lebanon', 'Qatar', 'Jordan', 'Bahrain']
+00:03:18 [DEBUG   ] clustering.kmedoids —   iter 0  inertia=0.226243
+00:03:18 [INFO    ] clustering.kmedoids — K-Medoids converged in 1 iteration(s).  Inertia=0.226243
+00:03:18 [DEBUG   ] clustering.kmedoids —   run 1/3  init=heuristic  inertia=0.226243
+00:03:18 [DEBUG   ] clustering.kmedoids — Initial medoids: ['Bahrain', 'Jordan', 'Iraq', 'Oman', 'Kuwait', 'Qatar', 'Lebanon', 'Yemen']
+00:03:18 [DEBUG   ] clustering.kmedoids —   iter 0  inertia=0.331184
+00:03:18 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[0]=Israel  (inertia=0.268950)
+00:03:18 [DEBUG   ] clustering.kmedoids —   iter 1  inertia=0.268950
+00:03:18 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[4]=Egypt  (inertia=0.260583)
+00:03:18 [DEBUG   ] clustering.kmedoids —   iter 2  inertia=0.260583
+00:03:18 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[3]=Saudi_Arabia  (inertia=0.237583)
+00:03:18 [DEBUG   ] clustering.kmedoids —   iter 3  inertia=0.237583
+00:03:18 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[7]=Bahrain  (inertia=0.226243)
+00:03:18 [DEBUG   ] clustering.kmedoids —   iter 4  inertia=0.226243
+00:03:18 [INFO    ] clustering.kmedoids — K-Medoids converged in 5 iteration(s).  Inertia=0.226243
+00:03:18 [DEBUG   ] clustering.kmedoids —   run 2/3  init=random  inertia=0.226243
+00:03:18 [DEBUG   ] clustering.kmedoids — Initial medoids: ['Lebanon', 'Qatar', 'Syrian_Arab_Republic', 'Egypt', 'Iraq', 'Israel', 'Saudi_Arabia', 'Oman']
+00:03:18 [DEBUG   ] clustering.kmedoids —   iter 0  inertia=0.263077
+00:03:18 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[7]=Jordan  (inertia=0.229410)
+00:03:18 [DEBUG   ] clustering.kmedoids —   iter 1  inertia=0.229410
+00:03:18 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[2]=Bahrain  (inertia=0.226243)
+00:03:18 [DEBUG   ] clustering.kmedoids —   iter 2  inertia=0.226243
+00:03:18 [INFO    ] clustering.kmedoids — K-Medoids converged in 3 iteration(s).  Inertia=0.226243
+00:03:18 [DEBUG   ] clustering.kmedoids —   run 3/3  init=random  inertia=0.226243
+00:03:18 [INFO    ] clustering.kmedoids — K-Medoids complete.  k=8, best_inertia=0.2262, n_init=3
+00:03:18 [DEBUG   ] clustering.evaluation — find_best_k: k=8  sil=0.0176
+00:03:18 [INFO    ] clustering.kmedoids — K-Medoids: n=12, k=9, init=heuristic, max_iter=100, n_init=3
+00:03:18 [DEBUG   ] clustering.kmedoids — Initial medoids: ['Saudi_Arabia', 'Israel', 'Iraq', 'Egypt', 'Lebanon', 'Qatar', 'Jordan', 'Bahrain', 'Syrian_Arab_Republic']
+00:03:18 [DEBUG   ] clustering.kmedoids —   iter 0  inertia=0.158410
+00:03:18 [INFO    ] clustering.kmedoids — K-Medoids converged in 1 iteration(s).  Inertia=0.158410
+00:03:18 [DEBUG   ] clustering.kmedoids —   run 1/3  init=heuristic  inertia=0.158410
+00:03:18 [DEBUG   ] clustering.kmedoids — Initial medoids: ['Bahrain', 'Jordan', 'Iraq', 'Oman', 'Kuwait', 'Qatar', 'Lebanon', 'Yemen', 'Israel']
+00:03:18 [DEBUG   ] clustering.kmedoids —   iter 0  inertia=0.195720
+00:03:18 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[0]=Egypt  (inertia=0.179583)
+00:03:18 [DEBUG   ] clustering.kmedoids —   iter 1  inertia=0.179583
+00:03:18 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[3]=Saudi_Arabia  (inertia=0.176333)
+00:03:18 [DEBUG   ] clustering.kmedoids —   iter 2  inertia=0.176333
+00:03:18 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[7]=Bahrain  (inertia=0.164993)
+00:03:18 [DEBUG   ] clustering.kmedoids —   iter 3  inertia=0.164993
+00:03:18 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[4]=Syrian_Arab_Republic  (inertia=0.158410)
+00:03:18 [DEBUG   ] clustering.kmedoids —   iter 4  inertia=0.158410
+00:03:18 [INFO    ] clustering.kmedoids — K-Medoids converged in 5 iteration(s).  Inertia=0.158410
+00:03:18 [DEBUG   ] clustering.kmedoids —   run 2/3  init=random  inertia=0.158410
+00:03:18 [DEBUG   ] clustering.kmedoids — Initial medoids: ['Lebanon', 'Qatar', 'Syrian_Arab_Republic', 'Egypt', 'Iraq', 'Israel', 'Saudi_Arabia', 'Oman', 'Bahrain']
+00:03:18 [DEBUG   ] clustering.kmedoids —   iter 0  inertia=0.192077
+00:03:18 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[7]=Jordan  (inertia=0.158410)
+00:03:18 [DEBUG   ] clustering.kmedoids —   iter 1  inertia=0.158410
+00:03:18 [INFO    ] clustering.kmedoids — K-Medoids converged in 2 iteration(s).  Inertia=0.158410
+00:03:18 [DEBUG   ] clustering.kmedoids —   run 3/3  init=random  inertia=0.158410
+00:03:18 [INFO    ] clustering.kmedoids — K-Medoids complete.  k=9, best_inertia=0.1584, n_init=3
+00:03:18 [DEBUG   ] clustering.evaluation — find_best_k: k=9  sil=0.0069
+00:03:18 [INFO    ] clustering.kmedoids — K-Medoids: n=12, k=10, init=heuristic, max_iter=100, n_init=3
+00:03:18 [DEBUG   ] clustering.kmedoids — Initial medoids: ['Saudi_Arabia', 'Israel', 'Iraq', 'Egypt', 'Lebanon', 'Qatar', 'Jordan', 'Bahrain', 'Syrian_Arab_Republic', 'Kuwait']
+00:03:18 [DEBUG   ] clustering.kmedoids —   iter 0  inertia=0.097160
+00:03:18 [INFO    ] clustering.kmedoids — K-Medoids converged in 1 iteration(s).  Inertia=0.097160
+00:03:18 [DEBUG   ] clustering.kmedoids —   run 1/3  init=heuristic  inertia=0.097160
+00:03:18 [DEBUG   ] clustering.kmedoids — Initial medoids: ['Bahrain', 'Jordan', 'Iraq', 'Oman', 'Kuwait', 'Qatar', 'Lebanon', 'Yemen', 'Israel', 'Saudi_Arabia']
+00:03:18 [DEBUG   ] clustering.kmedoids —   iter 0  inertia=0.157200
+00:03:18 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[3]=Egypt  (inertia=0.105333)
+00:03:18 [DEBUG   ] clustering.kmedoids —   iter 1  inertia=0.105333
+00:03:18 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[7]=Syrian_Arab_Republic  (inertia=0.097160)
+00:03:18 [DEBUG   ] clustering.kmedoids —   iter 2  inertia=0.097160
+00:03:18 [INFO    ] clustering.kmedoids — K-Medoids converged in 3 iteration(s).  Inertia=0.097160
+00:03:18 [DEBUG   ] clustering.kmedoids —   run 2/3  init=random  inertia=0.097160
+00:03:18 [DEBUG   ] clustering.kmedoids — Initial medoids: ['Lebanon', 'Qatar', 'Syrian_Arab_Republic', 'Egypt', 'Iraq', 'Israel', 'Saudi_Arabia', 'Oman', 'Bahrain', 'Yemen']
+00:03:18 [DEBUG   ] clustering.kmedoids —   iter 0  inertia=0.132417
+00:03:18 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[7]=Jordan  (inertia=0.098750)
+00:03:18 [DEBUG   ] clustering.kmedoids —   iter 1  inertia=0.098750
+00:03:18 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[9]=Kuwait  (inertia=0.097160)
+00:03:18 [DEBUG   ] clustering.kmedoids —   iter 2  inertia=0.097160
+00:03:18 [INFO    ] clustering.kmedoids — K-Medoids converged in 3 iteration(s).  Inertia=0.097160
+00:03:18 [DEBUG   ] clustering.kmedoids —   run 3/3  init=random  inertia=0.097160
+00:03:18 [INFO    ] clustering.kmedoids — K-Medoids complete.  k=10, best_inertia=0.0972, n_init=3
+00:03:18 [DEBUG   ] clustering.evaluation — find_best_k: k=10  sil=0.0202
+00:03:18 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:03:18] "POST /api/best_k HTTP/1.1" 200 -
+00:03:19 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:03:19] "GET /api/status HTTP/1.1" 200 -
+00:03:24 [INFO    ] clustering.kmedoids — K-Medoids: n=12, k=2, init=heuristic, max_iter=100, n_init=5
+00:03:24 [DEBUG   ] clustering.kmedoids — Initial medoids: ['Saudi_Arabia', 'Israel']
+00:03:24 [DEBUG   ] clustering.kmedoids —   iter 0  inertia=0.762487
+00:03:24 [INFO    ] clustering.kmedoids — K-Medoids converged in 1 iteration(s).  Inertia=0.762487
+00:03:24 [DEBUG   ] clustering.kmedoids —   run 1/5  init=heuristic  inertia=0.762487
+00:03:24 [DEBUG   ] clustering.kmedoids — Initial medoids: ['Bahrain', 'Jordan']
+00:03:24 [DEBUG   ] clustering.kmedoids —   iter 0  inertia=1.017983
+00:03:24 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[1]=Saudi_Arabia  (inertia=0.812097)
+00:03:24 [DEBUG   ] clustering.kmedoids —   iter 1  inertia=0.812097
+00:03:24 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[0]=Israel  (inertia=0.762487)
+00:03:24 [DEBUG   ] clustering.kmedoids —   iter 2  inertia=0.762487
+00:03:24 [INFO    ] clustering.kmedoids — K-Medoids converged in 3 iteration(s).  Inertia=0.762487
+00:03:24 [DEBUG   ] clustering.kmedoids —   run 2/5  init=random  inertia=0.762487
+00:03:24 [DEBUG   ] clustering.kmedoids — Initial medoids: ['Lebanon', 'Qatar']
+00:03:24 [DEBUG   ] clustering.kmedoids —   iter 0  inertia=0.989247
+00:03:24 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[1]=Saudi_Arabia  (inertia=0.810054)
+00:03:24 [DEBUG   ] clustering.kmedoids —   iter 1  inertia=0.810054
+00:03:24 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[0]=Israel  (inertia=0.762487)
+00:03:24 [DEBUG   ] clustering.kmedoids —   iter 2  inertia=0.762487
+00:03:24 [INFO    ] clustering.kmedoids — K-Medoids converged in 3 iteration(s).  Inertia=0.762487
+00:03:24 [DEBUG   ] clustering.kmedoids —   run 3/5  init=random  inertia=0.762487
+00:03:24 [DEBUG   ] clustering.kmedoids — Initial medoids: ['Jordan', 'Lebanon']
+00:03:24 [DEBUG   ] clustering.kmedoids —   iter 0  inertia=1.016714
+00:03:24 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[0]=Saudi_Arabia  (inertia=0.810054)
+00:03:24 [DEBUG   ] clustering.kmedoids —   iter 1  inertia=0.810054
+00:03:24 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[1]=Israel  (inertia=0.762487)
+00:03:24 [DEBUG   ] clustering.kmedoids —   iter 2  inertia=0.762487
+00:03:24 [INFO    ] clustering.kmedoids — K-Medoids converged in 3 iteration(s).  Inertia=0.762487
+00:03:24 [DEBUG   ] clustering.kmedoids —   run 4/5  init=random  inertia=0.762487
+00:03:24 [DEBUG   ] clustering.kmedoids — Initial medoids: ['Egypt', 'Lebanon']
+00:03:24 [DEBUG   ] clustering.kmedoids —   iter 0  inertia=1.037587
+00:03:24 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[1]=Saudi_Arabia  (inertia=0.786777)
+00:03:24 [DEBUG   ] clustering.kmedoids —   iter 1  inertia=0.786777
+00:03:24 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[0]=Israel  (inertia=0.762487)
+00:03:24 [DEBUG   ] clustering.kmedoids —   iter 2  inertia=0.762487
+00:03:24 [INFO    ] clustering.kmedoids — K-Medoids converged in 3 iteration(s).  Inertia=0.762487
+00:03:24 [DEBUG   ] clustering.kmedoids —   run 5/5  init=random  inertia=0.762487
+00:03:24 [INFO    ] clustering.kmedoids — K-Medoids complete.  k=2, best_inertia=0.7625, n_init=5
+00:03:24 [INFO    ] clustering.evaluation — Computing evaluation metrics for kmedoids result…
+00:03:24 [INFO    ] clustering.evaluation — Evaluation complete.  silhouette=0.2953  inertia=0.7625
+00:03:24 [INFO    ] clustering.pipeline — run('kmedoids', k=2) finished in 0.01s  inertia=0.7625  silhouette=0.2953
+00:03:24 [INFO    ] clustering.models — ClusterResult saved -> C:\Users\User\Desktop\IDPA PROJECT_V2\IDPA-PROJECT-2\output\clustering\kmedoids_k2.json
+00:03:24 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:03:24] "POST /api/cluster HTTP/1.1" 200 -
+00:03:24 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:03:24] "GET /api/results HTTP/1.1" 200 -
+00:03:25 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:03:25] "GET /api/result/kmedoids_k2.json HTTP/1.1" 200 -
+00:03:25 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:03:25] "GET /api/results HTTP/1.1" 200 -
+00:03:26 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:03:26] "GET /api/status HTTP/1.1" 200 -
+00:03:35 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:03:35] "GET /api/status HTTP/1.1" 200 -
+00:03:43 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:03:43] "GET /api/status HTTP/1.1" 200 -
+00:03:51 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:03:51] "GET /api/status HTTP/1.1" 200 -
+00:03:59 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:03:59] "GET /api/status HTTP/1.1" 200 -
+00:04:07 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:04:07] "GET /api/status HTTP/1.1" 200 -
+00:04:15 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:04:15] "GET /api/status HTTP/1.1" 200 -
+00:04:23 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:04:23] "GET /api/status HTTP/1.1" 200 -
+00:04:31 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:04:31] "GET /api/status HTTP/1.1" 200 -
+00:04:39 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:04:39] "GET /api/status HTTP/1.1" 200 -
+00:05:02 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:05:02] "GET /api/status HTTP/1.1" 200 -
+00:05:11 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:05:11] "GET /api/status HTTP/1.1" 200 -
+00:05:19 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:05:19] "GET /api/status HTTP/1.1" 200 -
+00:05:27 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:05:27] "GET /api/status HTTP/1.1" 200 -
+00:05:35 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:05:35] "GET /api/status HTTP/1.1" 200 -
+00:05:43 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:05:43] "GET /api/status HTTP/1.1" 200 -
+00:05:51 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:05:51] "GET /api/status HTTP/1.1" 200 -
+00:05:59 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:05:59] "GET /api/status HTTP/1.1" 200 -
+00:06:07 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:06:07] "GET /api/status HTTP/1.1" 200 -
+00:06:30 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:06:30] "GET /api/status HTTP/1.1" 200 -
+00:06:40 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:06:40] "GET /api/status HTTP/1.1" 200 -
+00:06:47 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:06:47] "GET /api/status HTTP/1.1" 200 -
+00:06:55 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:06:55] "GET /api/status HTTP/1.1" 200 -
+00:07:03 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:07:03] "GET /api/status HTTP/1.1" 200 -
+00:07:11 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:07:11] "GET /api/status HTTP/1.1" 200 -
+00:07:19 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:07:19] "GET /api/status HTTP/1.1" 200 -
+00:07:27 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:07:27] "GET /api/status HTTP/1.1" 200 -
+00:07:35 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:07:35] "GET /api/status HTTP/1.1" 200 -
+00:07:43 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:07:43] "GET /api/status HTTP/1.1" 200 -
+00:07:51 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:07:51] "GET /api/status HTTP/1.1" 200 -
+00:08:30 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:08:30] "GET /api/status HTTP/1.1" 200 -
+00:09:15 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:09:15] "GET /api/status HTTP/1.1" 200 -
+00:09:16 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:09:16] "GET / HTTP/1.1" 200 -
+00:09:17 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:09:17] "GET /static/css/main.css HTTP/1.1" 200 -
+00:09:17 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:09:17] "[36mGET /static/js/charts/heatmap.js HTTP/1.1[0m" 304 -
+00:09:17 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:09:17] "[36mGET /static/js/charts/dendrogram.js HTTP/1.1[0m" 304 -
+00:09:17 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:09:17] "[36mGET /static/js/api.js HTTP/1.1[0m" 304 -
+00:09:17 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:09:17] "[36mGET /static/js/charts/clustermap.js HTTP/1.1[0m" 304 -
+00:09:17 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:09:17] "GET /static/js/app.js HTTP/1.1" 200 -
+00:09:17 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:09:17] "GET /api/status HTTP/1.1" 200 -
+00:09:17 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:09:17] "GET /api/countries HTTP/1.1" 200 -
+00:09:17 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:09:17] "GET /api/results HTTP/1.1" 200 -
+00:09:25 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:09:25] "GET /api/status HTTP/1.1" 200 -
+00:09:27 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:09:27] "GET / HTTP/1.1" 200 -
+00:09:27 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:09:27] "GET /static/css/main.css HTTP/1.1" 200 -
+00:09:27 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:09:27] "GET /static/js/api.js HTTP/1.1" 200 -
+00:09:27 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:09:27] "GET /static/js/charts/clustermap.js HTTP/1.1" 200 -
+00:09:27 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:09:27] "GET /static/js/charts/dendrogram.js HTTP/1.1" 200 -
+00:09:27 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:09:27] "GET /static/js/charts/heatmap.js HTTP/1.1" 200 -
+00:09:27 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:09:27] "GET /static/js/app.js HTTP/1.1" 200 -
+00:09:27 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:09:27] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+00:09:27 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:09:27] "GET /api/status HTTP/1.1" 200 -
+00:09:28 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:09:28] "GET /api/countries HTTP/1.1" 200 -
+00:09:28 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:09:28] "GET /api/results HTTP/1.1" 200 -
+00:09:35 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:09:35] "POST /api/matrix/start HTTP/1.1" 200 -
+00:09:35 [INFO    ] clustering.distance_matrix — Loaded 12 country trees from 'C:\\Users\\User\\Desktop\\IDPA PROJECT_V2\\IDPA-PROJECT-2\\preprocessed_trees'
+00:09:35 [INFO    ] clustering.pipeline — 12 trees loaded.
+00:09:35 [INFO    ] clustering.distance_matrix — Loading cached distance matrix from 'C:\\Users\\User\\Desktop\\IDPA PROJECT_V2\\IDPA-PROJECT-2\\output\\clustering\\distance_matrix_12_4d5af8c5.json'
+00:09:35 [INFO    ] clustering.models — Distance matrix loaded <- C:\Users\User\Desktop\IDPA PROJECT_V2\IDPA-PROJECT-2\output\clustering\distance_matrix_12_4d5af8c5.json  (12x12)
+00:09:36 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:09:36] "GET /api/status HTTP/1.1" 200 -
+00:09:36 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:09:36] "GET /api/job/e27649e7 HTTP/1.1" 200 -
+00:09:37 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:09:37] "GET /api/status HTTP/1.1" 200 -
+00:09:37 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:09:37] "GET /api/matrix HTTP/1.1" 200 -
+00:09:41 [INFO    ] clustering.kmedoids — K-Medoids: n=12, k=2, init=heuristic, max_iter=100, n_init=3
+00:09:41 [DEBUG   ] clustering.kmedoids — Initial medoids: ['Qatar', 'Yemen']
+00:09:41 [DEBUG   ] clustering.kmedoids —   iter 0  inertia=2.673332
+00:09:41 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[1]=Iraq  (inertia=2.608509)
+00:09:41 [DEBUG   ] clustering.kmedoids —   iter 1  inertia=2.608509
+00:09:41 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[0]=Israel  (inertia=2.580212)
+00:09:41 [DEBUG   ] clustering.kmedoids —   iter 2  inertia=2.580212
+00:09:41 [INFO    ] clustering.kmedoids — K-Medoids converged in 3 iteration(s).  Inertia=2.580212
+00:09:41 [DEBUG   ] clustering.kmedoids —   run 1/3  init=heuristic  inertia=2.580212
+00:09:41 [DEBUG   ] clustering.kmedoids — Initial medoids: ['Bahrain', 'Jordan']
+00:09:41 [DEBUG   ] clustering.kmedoids —   iter 0  inertia=2.890091
+00:09:41 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[1]=Israel  (inertia=2.647399)
+00:09:41 [DEBUG   ] clustering.kmedoids —   iter 1  inertia=2.647399
+00:09:41 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[0]=Iraq  (inertia=2.580212)
+00:09:41 [DEBUG   ] clustering.kmedoids —   iter 2  inertia=2.580212
+00:09:41 [INFO    ] clustering.kmedoids — K-Medoids converged in 3 iteration(s).  Inertia=2.580212
+00:09:41 [DEBUG   ] clustering.kmedoids —   run 2/3  init=random  inertia=2.580212
+00:09:41 [DEBUG   ] clustering.kmedoids — Initial medoids: ['Lebanon', 'Qatar']
+00:09:41 [DEBUG   ] clustering.kmedoids —   iter 0  inertia=2.696958
+00:09:41 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[0]=Iraq  (inertia=2.608509)
+00:09:41 [DEBUG   ] clustering.kmedoids —   iter 1  inertia=2.608509
+00:09:41 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[1]=Israel  (inertia=2.580212)
+00:09:41 [DEBUG   ] clustering.kmedoids —   iter 2  inertia=2.580212
+00:09:41 [INFO    ] clustering.kmedoids — K-Medoids converged in 3 iteration(s).  Inertia=2.580212
+00:09:41 [DEBUG   ] clustering.kmedoids —   run 3/3  init=random  inertia=2.580212
+00:09:41 [INFO    ] clustering.kmedoids — K-Medoids complete.  k=2, best_inertia=2.5802, n_init=3
+00:09:41 [DEBUG   ] clustering.evaluation — find_best_k: k=2  sil=0.1362
+00:09:41 [INFO    ] clustering.kmedoids — K-Medoids: n=12, k=3, init=heuristic, max_iter=100, n_init=3
+00:09:41 [DEBUG   ] clustering.kmedoids — Initial medoids: ['Qatar', 'Yemen', 'Egypt']
+00:09:41 [DEBUG   ] clustering.kmedoids —   iter 0  inertia=2.265869
+00:09:41 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[0]=Israel  (inertia=2.234821)
+00:09:41 [DEBUG   ] clustering.kmedoids —   iter 1  inertia=2.234821
+00:09:41 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[2]=Iraq  (inertia=2.233983)
+00:09:41 [DEBUG   ] clustering.kmedoids —   iter 2  inertia=2.233983
+00:09:41 [INFO    ] clustering.kmedoids — K-Medoids converged in 3 iteration(s).  Inertia=2.233983
+00:09:41 [DEBUG   ] clustering.kmedoids —   run 1/3  init=heuristic  inertia=2.233983
+00:09:41 [DEBUG   ] clustering.kmedoids — Initial medoids: ['Bahrain', 'Jordan', 'Iraq']
+00:09:41 [DEBUG   ] clustering.kmedoids —   iter 0  inertia=2.531325
+00:09:41 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[1]=Israel  (inertia=2.233983)
+00:09:41 [DEBUG   ] clustering.kmedoids —   iter 1  inertia=2.233983
+00:09:41 [INFO    ] clustering.kmedoids — K-Medoids converged in 2 iteration(s).  Inertia=2.233983
+00:09:41 [DEBUG   ] clustering.kmedoids —   run 2/3  init=random  inertia=2.233983
+00:09:41 [DEBUG   ] clustering.kmedoids — Initial medoids: ['Lebanon', 'Qatar', 'Syrian_Arab_Republic']
+00:09:41 [DEBUG   ] clustering.kmedoids —   iter 0  inertia=2.498373
+00:09:41 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[2]=Iraq  (inertia=2.242832)
+00:09:41 [DEBUG   ] clustering.kmedoids —   iter 1  inertia=2.242832
+00:09:41 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[1]=Kuwait  (inertia=2.239903)
+00:09:41 [DEBUG   ] clustering.kmedoids —   iter 2  inertia=2.239903
+00:09:41 [INFO    ] clustering.kmedoids — K-Medoids converged in 3 iteration(s).  Inertia=2.239903
+00:09:41 [DEBUG   ] clustering.kmedoids —   run 3/3  init=random  inertia=2.239903
+00:09:41 [INFO    ] clustering.kmedoids — K-Medoids complete.  k=3, best_inertia=2.2340, n_init=3
+00:09:41 [DEBUG   ] clustering.evaluation — find_best_k: k=3  sil=0.1458
+00:09:41 [INFO    ] clustering.kmedoids — K-Medoids: n=12, k=4, init=heuristic, max_iter=100, n_init=3
+00:09:41 [DEBUG   ] clustering.kmedoids — Initial medoids: ['Qatar', 'Yemen', 'Egypt', 'Bahrain']
+00:09:41 [DEBUG   ] clustering.kmedoids —   iter 0  inertia=1.972918
+00:09:41 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[1]=Lebanon  (inertia=1.900192)
+00:09:41 [DEBUG   ] clustering.kmedoids —   iter 1  inertia=1.900192
+00:09:41 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[0]=Kuwait  (inertia=1.895578)
+00:09:41 [DEBUG   ] clustering.kmedoids —   iter 2  inertia=1.895578
+00:09:41 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[2]=Iraq  (inertia=1.893673)
+00:09:41 [DEBUG   ] clustering.kmedoids —   iter 3  inertia=1.893673
+00:09:41 [INFO    ] clustering.kmedoids — K-Medoids converged in 4 iteration(s).  Inertia=1.893673
+00:09:41 [DEBUG   ] clustering.kmedoids —   run 1/3  init=heuristic  inertia=1.893673
+00:09:41 [DEBUG   ] clustering.kmedoids — Initial medoids: ['Bahrain', 'Jordan', 'Iraq', 'Oman']
+00:09:41 [DEBUG   ] clustering.kmedoids —   iter 0  inertia=2.198982
+00:09:41 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[1]=Israel  (inertia=1.955012)
+00:09:41 [DEBUG   ] clustering.kmedoids —   iter 1  inertia=1.955012
+00:09:41 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[3]=Kuwait  (inertia=1.911658)
+00:09:41 [DEBUG   ] clustering.kmedoids —   iter 2  inertia=1.911658
+00:09:41 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[1]=Lebanon  (inertia=1.893673)
+00:09:41 [DEBUG   ] clustering.kmedoids —   iter 3  inertia=1.893673
+00:09:41 [INFO    ] clustering.kmedoids — K-Medoids converged in 4 iteration(s).  Inertia=1.893673
+00:09:41 [DEBUG   ] clustering.kmedoids —   run 2/3  init=random  inertia=1.893673
+00:09:41 [DEBUG   ] clustering.kmedoids — Initial medoids: ['Lebanon', 'Qatar', 'Syrian_Arab_Republic', 'Egypt']
+00:09:41 [DEBUG   ] clustering.kmedoids —   iter 0  inertia=2.081221
+00:09:41 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[2]=Bahrain  (inertia=1.900192)
+00:09:41 [DEBUG   ] clustering.kmedoids —   iter 1  inertia=1.900192
+00:09:41 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[1]=Kuwait  (inertia=1.895578)
+00:09:41 [DEBUG   ] clustering.kmedoids —   iter 2  inertia=1.895578
+00:09:41 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[3]=Iraq  (inertia=1.893673)
+00:09:41 [DEBUG   ] clustering.kmedoids —   iter 3  inertia=1.893673
+00:09:41 [INFO    ] clustering.kmedoids — K-Medoids converged in 4 iteration(s).  Inertia=1.893673
+00:09:41 [DEBUG   ] clustering.kmedoids —   run 3/3  init=random  inertia=1.893673
+00:09:41 [INFO    ] clustering.kmedoids — K-Medoids complete.  k=4, best_inertia=1.8937, n_init=3
+00:09:41 [DEBUG   ] clustering.evaluation — find_best_k: k=4  sil=0.1551
+00:09:41 [INFO    ] clustering.kmedoids — K-Medoids: n=12, k=5, init=heuristic, max_iter=100, n_init=3
+00:09:41 [DEBUG   ] clustering.kmedoids — Initial medoids: ['Qatar', 'Yemen', 'Egypt', 'Bahrain', 'Syrian_Arab_Republic']
+00:09:41 [DEBUG   ] clustering.kmedoids —   iter 0  inertia=1.621480
+00:09:41 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[4]=Lebanon  (inertia=1.607241)
+00:09:41 [DEBUG   ] clustering.kmedoids —   iter 1  inertia=1.607241
+00:09:41 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[0]=Kuwait  (inertia=1.602627)
+00:09:41 [DEBUG   ] clustering.kmedoids —   iter 2  inertia=1.602627
+00:09:41 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[2]=Iraq  (inertia=1.600723)
+00:09:41 [DEBUG   ] clustering.kmedoids —   iter 3  inertia=1.600723
+00:09:41 [INFO    ] clustering.kmedoids — K-Medoids converged in 4 iteration(s).  Inertia=1.600723
+00:09:41 [DEBUG   ] clustering.kmedoids —   run 1/3  init=heuristic  inertia=1.600723
+00:09:41 [DEBUG   ] clustering.kmedoids — Initial medoids: ['Bahrain', 'Jordan', 'Iraq', 'Oman', 'Kuwait']
+00:09:41 [DEBUG   ] clustering.kmedoids —   iter 0  inertia=1.815971
+00:09:41 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[1]=Lebanon  (inertia=1.624493)
+00:09:41 [DEBUG   ] clustering.kmedoids —   iter 1  inertia=1.624493
+00:09:41 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[3]=Yemen  (inertia=1.600723)
+00:09:41 [DEBUG   ] clustering.kmedoids —   iter 2  inertia=1.600723
+00:09:41 [INFO    ] clustering.kmedoids — K-Medoids converged in 3 iteration(s).  Inertia=1.600723
+00:09:41 [DEBUG   ] clustering.kmedoids —   run 2/3  init=random  inertia=1.600723
+00:09:41 [DEBUG   ] clustering.kmedoids — Initial medoids: ['Lebanon', 'Qatar', 'Syrian_Arab_Republic', 'Egypt', 'Iraq']
+00:09:41 [DEBUG   ] clustering.kmedoids —   iter 0  inertia=1.793627
+00:09:41 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[2]=Bahrain  (inertia=1.647667)
+00:09:41 [DEBUG   ] clustering.kmedoids —   iter 1  inertia=1.647667
+00:09:41 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[3]=Yemen  (inertia=1.605336)
+00:09:41 [DEBUG   ] clustering.kmedoids —   iter 2  inertia=1.605336
+00:09:41 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[1]=Kuwait  (inertia=1.600723)
+00:09:41 [DEBUG   ] clustering.kmedoids —   iter 3  inertia=1.600723
+00:09:41 [INFO    ] clustering.kmedoids — K-Medoids converged in 4 iteration(s).  Inertia=1.600723
+00:09:41 [DEBUG   ] clustering.kmedoids —   run 3/3  init=random  inertia=1.600723
+00:09:41 [INFO    ] clustering.kmedoids — K-Medoids complete.  k=5, best_inertia=1.6007, n_init=3
+00:09:41 [DEBUG   ] clustering.evaluation — find_best_k: k=5  sil=0.1341
+00:09:41 [INFO    ] clustering.kmedoids — K-Medoids: n=12, k=6, init=heuristic, max_iter=100, n_init=3
+00:09:41 [DEBUG   ] clustering.kmedoids — Initial medoids: ['Qatar', 'Yemen', 'Egypt', 'Bahrain', 'Syrian_Arab_Republic', 'Oman']
+00:09:41 [DEBUG   ] clustering.kmedoids —   iter 0  inertia=1.362212
+00:09:41 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[4]=Lebanon  (inertia=1.347973)
+00:09:41 [DEBUG   ] clustering.kmedoids —   iter 1  inertia=1.347973
+00:09:41 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[2]=Iraq  (inertia=1.336156)
+00:09:41 [DEBUG   ] clustering.kmedoids —   iter 2  inertia=1.336156
+00:09:41 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[0]=Kuwait  (inertia=1.331543)
+00:09:41 [DEBUG   ] clustering.kmedoids —   iter 3  inertia=1.331543
+00:09:41 [INFO    ] clustering.kmedoids — K-Medoids converged in 4 iteration(s).  Inertia=1.331543
+00:09:41 [DEBUG   ] clustering.kmedoids —   run 1/3  init=heuristic  inertia=1.331543
+00:09:41 [DEBUG   ] clustering.kmedoids — Initial medoids: ['Bahrain', 'Jordan', 'Iraq', 'Oman', 'Kuwait', 'Qatar']
+00:09:41 [DEBUG   ] clustering.kmedoids —   iter 0  inertia=1.547938
+00:09:41 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[5]=Lebanon  (inertia=1.377535)
+00:09:41 [DEBUG   ] clustering.kmedoids —   iter 1  inertia=1.377535
+00:09:41 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[1]=Yemen  (inertia=1.331543)
+00:09:41 [DEBUG   ] clustering.kmedoids —   iter 2  inertia=1.331543
+00:09:41 [INFO    ] clustering.kmedoids — K-Medoids converged in 3 iteration(s).  Inertia=1.331543
+00:09:41 [DEBUG   ] clustering.kmedoids —   run 2/3  init=random  inertia=1.331543
+00:09:41 [DEBUG   ] clustering.kmedoids — Initial medoids: ['Lebanon', 'Qatar', 'Syrian_Arab_Republic', 'Egypt', 'Iraq', 'Israel']
+00:09:41 [DEBUG   ] clustering.kmedoids —   iter 0  inertia=1.591296
+00:09:41 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[0]=Bahrain  (inertia=1.445336)
+00:09:41 [DEBUG   ] clustering.kmedoids —   iter 1  inertia=1.445336
+00:09:41 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[5]=Yemen  (inertia=1.368955)
+00:09:41 [DEBUG   ] clustering.kmedoids —   iter 2  inertia=1.368955
+00:09:41 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[3]=Oman  (inertia=1.350395)
+00:09:41 [DEBUG   ] clustering.kmedoids —   iter 3  inertia=1.350395
+00:09:41 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[2]=Lebanon  (inertia=1.336156)
+00:09:41 [DEBUG   ] clustering.kmedoids —   iter 4  inertia=1.336156
+00:09:41 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[1]=Kuwait  (inertia=1.331543)
+00:09:41 [DEBUG   ] clustering.kmedoids —   iter 5  inertia=1.331543
+00:09:41 [INFO    ] clustering.kmedoids — K-Medoids converged in 6 iteration(s).  Inertia=1.331543
+00:09:41 [DEBUG   ] clustering.kmedoids —   run 3/3  init=random  inertia=1.331543
+00:09:41 [INFO    ] clustering.kmedoids — K-Medoids complete.  k=6, best_inertia=1.3315, n_init=3
+00:09:41 [DEBUG   ] clustering.evaluation — find_best_k: k=6  sil=0.1151
+00:09:41 [INFO    ] clustering.kmedoids — K-Medoids: n=12, k=7, init=heuristic, max_iter=100, n_init=3
+00:09:41 [DEBUG   ] clustering.kmedoids — Initial medoids: ['Qatar', 'Yemen', 'Egypt', 'Bahrain', 'Syrian_Arab_Republic', 'Oman', 'Jordan']
+00:09:41 [DEBUG   ] clustering.kmedoids —   iter 0  inertia=1.103437
+00:09:41 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[4]=Lebanon  (inertia=1.089198)
+00:09:41 [DEBUG   ] clustering.kmedoids —   iter 1  inertia=1.089198
+00:09:41 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[0]=Kuwait  (inertia=1.084585)
+00:09:41 [DEBUG   ] clustering.kmedoids —   iter 2  inertia=1.084585
+00:09:41 [INFO    ] clustering.kmedoids — K-Medoids converged in 3 iteration(s).  Inertia=1.084585
+00:09:41 [DEBUG   ] clustering.kmedoids —   run 1/3  init=heuristic  inertia=1.084585
+00:09:41 [DEBUG   ] clustering.kmedoids — Initial medoids: ['Bahrain', 'Jordan', 'Iraq', 'Oman', 'Kuwait', 'Qatar', 'Lebanon']
+00:09:41 [DEBUG   ] clustering.kmedoids —   iter 0  inertia=1.182261
+00:09:41 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[5]=Yemen  (inertia=1.084585)
+00:09:41 [DEBUG   ] clustering.kmedoids —   iter 1  inertia=1.084585
+00:09:41 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[1]=Saudi_Arabia  (inertia=1.083857)
+00:09:41 [DEBUG   ] clustering.kmedoids —   iter 2  inertia=1.083857
+00:09:41 [INFO    ] clustering.kmedoids — K-Medoids converged in 3 iteration(s).  Inertia=1.083857
+00:09:41 [DEBUG   ] clustering.kmedoids —   run 2/3  init=random  inertia=1.083857
+00:09:41 [DEBUG   ] clustering.kmedoids — Initial medoids: ['Lebanon', 'Qatar', 'Syrian_Arab_Republic', 'Egypt', 'Iraq', 'Israel', 'Saudi_Arabia']
+00:09:41 [DEBUG   ] clustering.kmedoids —   iter 0  inertia=1.338996
+00:09:41 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[0]=Bahrain  (inertia=1.193036)
+00:09:41 [DEBUG   ] clustering.kmedoids —   iter 1  inertia=1.193036
+00:09:41 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[5]=Yemen  (inertia=1.116655)
+00:09:41 [DEBUG   ] clustering.kmedoids —   iter 2  inertia=1.116655
+00:09:41 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[3]=Oman  (inertia=1.098095)
+00:09:41 [DEBUG   ] clustering.kmedoids —   iter 3  inertia=1.098095
+00:09:41 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[2]=Lebanon  (inertia=1.083857)
+00:09:41 [DEBUG   ] clustering.kmedoids —   iter 4  inertia=1.083857
+00:09:41 [INFO    ] clustering.kmedoids — K-Medoids converged in 5 iteration(s).  Inertia=1.083857
+00:09:41 [DEBUG   ] clustering.kmedoids —   run 3/3  init=random  inertia=1.083857
+00:09:41 [INFO    ] clustering.kmedoids — K-Medoids complete.  k=7, best_inertia=1.0839, n_init=3
+00:09:41 [DEBUG   ] clustering.evaluation — find_best_k: k=7  sil=0.1161
+00:09:41 [INFO    ] clustering.kmedoids — K-Medoids: n=12, k=8, init=heuristic, max_iter=100, n_init=3
+00:09:41 [DEBUG   ] clustering.kmedoids — Initial medoids: ['Qatar', 'Yemen', 'Egypt', 'Bahrain', 'Syrian_Arab_Republic', 'Oman', 'Jordan', 'Saudi_Arabia']
+00:09:41 [DEBUG   ] clustering.kmedoids —   iter 0  inertia=0.851137
+00:09:41 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[4]=Lebanon  (inertia=0.836899)
+00:09:41 [DEBUG   ] clustering.kmedoids —   iter 1  inertia=0.836899
+00:09:41 [INFO    ] clustering.kmedoids — K-Medoids converged in 2 iteration(s).  Inertia=0.836899
+00:09:41 [DEBUG   ] clustering.kmedoids —   run 1/3  init=heuristic  inertia=0.836899
+00:09:41 [DEBUG   ] clustering.kmedoids — Initial medoids: ['Bahrain', 'Jordan', 'Iraq', 'Oman', 'Kuwait', 'Qatar', 'Lebanon', 'Yemen']
+00:09:41 [DEBUG   ] clustering.kmedoids —   iter 0  inertia=0.889310
+00:09:41 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[4]=Saudi_Arabia  (inertia=0.836899)
+00:09:41 [DEBUG   ] clustering.kmedoids —   iter 1  inertia=0.836899
+00:09:41 [INFO    ] clustering.kmedoids — K-Medoids converged in 2 iteration(s).  Inertia=0.836899
+00:09:41 [DEBUG   ] clustering.kmedoids —   run 2/3  init=random  inertia=0.836899
+00:09:41 [DEBUG   ] clustering.kmedoids — Initial medoids: ['Lebanon', 'Qatar', 'Syrian_Arab_Republic', 'Egypt', 'Iraq', 'Israel', 'Saudi_Arabia', 'Oman']
+00:09:41 [DEBUG   ] clustering.kmedoids —   iter 0  inertia=1.079728
+00:09:41 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[0]=Bahrain  (inertia=0.933768)
+00:09:41 [DEBUG   ] clustering.kmedoids —   iter 1  inertia=0.933768
+00:09:41 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[5]=Yemen  (inertia=0.857388)
+00:09:41 [DEBUG   ] clustering.kmedoids —   iter 2  inertia=0.857388
+00:09:41 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[2]=Lebanon  (inertia=0.843149)
+00:09:41 [DEBUG   ] clustering.kmedoids —   iter 3  inertia=0.843149
+00:09:41 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[3]=Jordan  (inertia=0.836899)
+00:09:41 [DEBUG   ] clustering.kmedoids —   iter 4  inertia=0.836899
+00:09:41 [INFO    ] clustering.kmedoids — K-Medoids converged in 5 iteration(s).  Inertia=0.836899
+00:09:41 [DEBUG   ] clustering.kmedoids —   run 3/3  init=random  inertia=0.836899
+00:09:41 [INFO    ] clustering.kmedoids — K-Medoids complete.  k=8, best_inertia=0.8369, n_init=3
+00:09:41 [DEBUG   ] clustering.evaluation — find_best_k: k=8  sil=0.1018
+00:09:41 [INFO    ] clustering.kmedoids — K-Medoids: n=12, k=9, init=heuristic, max_iter=100, n_init=3
+00:09:41 [DEBUG   ] clustering.kmedoids — Initial medoids: ['Qatar', 'Yemen', 'Egypt', 'Bahrain', 'Syrian_Arab_Republic', 'Oman', 'Jordan', 'Saudi_Arabia', 'Iraq']
+00:09:41 [DEBUG   ] clustering.kmedoids —   iter 0  inertia=0.610429
+00:09:41 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[4]=Lebanon  (inertia=0.596191)
+00:09:41 [DEBUG   ] clustering.kmedoids —   iter 1  inertia=0.596191
+00:09:41 [INFO    ] clustering.kmedoids — K-Medoids converged in 2 iteration(s).  Inertia=0.596191
+00:09:41 [DEBUG   ] clustering.kmedoids —   run 1/3  init=heuristic  inertia=0.596191
+00:09:41 [DEBUG   ] clustering.kmedoids — Initial medoids: ['Bahrain', 'Jordan', 'Iraq', 'Oman', 'Kuwait', 'Qatar', 'Lebanon', 'Yemen', 'Israel']
+00:09:41 [DEBUG   ] clustering.kmedoids —   iter 0  inertia=0.686979
+00:09:41 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[4]=Saudi_Arabia  (inertia=0.634567)
+00:09:41 [DEBUG   ] clustering.kmedoids —   iter 1  inertia=0.634567
+00:09:41 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[8]=Egypt  (inertia=0.596191)
+00:09:41 [DEBUG   ] clustering.kmedoids —   iter 2  inertia=0.596191
+00:09:41 [INFO    ] clustering.kmedoids — K-Medoids converged in 3 iteration(s).  Inertia=0.596191
+00:09:41 [DEBUG   ] clustering.kmedoids —   run 2/3  init=random  inertia=0.596191
+00:09:41 [DEBUG   ] clustering.kmedoids — Initial medoids: ['Lebanon', 'Qatar', 'Syrian_Arab_Republic', 'Egypt', 'Iraq', 'Israel', 'Saudi_Arabia', 'Oman', 'Bahrain']
+00:09:41 [DEBUG   ] clustering.kmedoids —   iter 0  inertia=0.735183
+00:09:41 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[0]=Yemen  (inertia=0.640818)
+00:09:41 [DEBUG   ] clustering.kmedoids —   iter 1  inertia=0.640818
+00:09:41 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[5]=Jordan  (inertia=0.610429)
+00:09:41 [DEBUG   ] clustering.kmedoids —   iter 2  inertia=0.610429
+00:09:41 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[2]=Lebanon  (inertia=0.596191)
+00:09:41 [DEBUG   ] clustering.kmedoids —   iter 3  inertia=0.596191
+00:09:41 [INFO    ] clustering.kmedoids — K-Medoids converged in 4 iteration(s).  Inertia=0.596191
+00:09:41 [DEBUG   ] clustering.kmedoids —   run 3/3  init=random  inertia=0.596191
+00:09:41 [INFO    ] clustering.kmedoids — K-Medoids complete.  k=9, best_inertia=0.5962, n_init=3
+00:09:41 [DEBUG   ] clustering.evaluation — find_best_k: k=9  sil=0.0939
+00:09:41 [INFO    ] clustering.kmedoids — K-Medoids: n=12, k=10, init=heuristic, max_iter=100, n_init=3
+00:09:41 [DEBUG   ] clustering.kmedoids — Initial medoids: ['Qatar', 'Yemen', 'Egypt', 'Bahrain', 'Syrian_Arab_Republic', 'Oman', 'Jordan', 'Saudi_Arabia', 'Iraq', 'Israel']
+00:09:41 [DEBUG   ] clustering.kmedoids —   iter 0  inertia=0.393860
+00:09:41 [INFO    ] clustering.kmedoids — K-Medoids converged in 1 iteration(s).  Inertia=0.393860
+00:09:41 [DEBUG   ] clustering.kmedoids —   run 1/3  init=heuristic  inertia=0.393860
+00:09:41 [DEBUG   ] clustering.kmedoids — Initial medoids: ['Bahrain', 'Jordan', 'Iraq', 'Oman', 'Kuwait', 'Qatar', 'Lebanon', 'Yemen', 'Israel', 'Saudi_Arabia']
+00:09:41 [DEBUG   ] clustering.kmedoids —   iter 0  inertia=0.439293
+00:09:41 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[4]=Egypt  (inertia=0.393860)
+00:09:41 [DEBUG   ] clustering.kmedoids —   iter 1  inertia=0.393860
+00:09:41 [INFO    ] clustering.kmedoids — K-Medoids converged in 2 iteration(s).  Inertia=0.393860
+00:09:41 [DEBUG   ] clustering.kmedoids —   run 2/3  init=random  inertia=0.393860
+00:09:41 [DEBUG   ] clustering.kmedoids — Initial medoids: ['Lebanon', 'Qatar', 'Syrian_Arab_Republic', 'Egypt', 'Iraq', 'Israel', 'Saudi_Arabia', 'Oman', 'Bahrain', 'Yemen']
+00:09:41 [DEBUG   ] clustering.kmedoids —   iter 0  inertia=0.442233
+00:09:41 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[0]=Jordan  (inertia=0.393860)
+00:09:41 [DEBUG   ] clustering.kmedoids —   iter 1  inertia=0.393860
+00:09:41 [INFO    ] clustering.kmedoids — K-Medoids converged in 2 iteration(s).  Inertia=0.393860
+00:09:41 [DEBUG   ] clustering.kmedoids —   run 3/3  init=random  inertia=0.393860
+00:09:41 [INFO    ] clustering.kmedoids — K-Medoids complete.  k=10, best_inertia=0.3939, n_init=3
+00:09:41 [DEBUG   ] clustering.evaluation — find_best_k: k=10  sil=0.0355
+00:09:41 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:09:41] "POST /api/best_k HTTP/1.1" 200 -
+00:09:44 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:09:44] "GET /api/status HTTP/1.1" 200 -
+00:09:48 [INFO    ] clustering.kmedoids — K-Medoids: n=12, k=4, init=heuristic, max_iter=100, n_init=5
+00:09:48 [DEBUG   ] clustering.kmedoids — Initial medoids: ['Qatar', 'Yemen', 'Egypt', 'Bahrain']
+00:09:48 [DEBUG   ] clustering.kmedoids —   iter 0  inertia=1.972918
+00:09:48 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[1]=Lebanon  (inertia=1.900192)
+00:09:48 [DEBUG   ] clustering.kmedoids —   iter 1  inertia=1.900192
+00:09:48 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[0]=Kuwait  (inertia=1.895578)
+00:09:48 [DEBUG   ] clustering.kmedoids —   iter 2  inertia=1.895578
+00:09:48 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[2]=Iraq  (inertia=1.893673)
+00:09:48 [DEBUG   ] clustering.kmedoids —   iter 3  inertia=1.893673
+00:09:48 [INFO    ] clustering.kmedoids — K-Medoids converged in 4 iteration(s).  Inertia=1.893673
+00:09:48 [DEBUG   ] clustering.kmedoids —   run 1/5  init=heuristic  inertia=1.893673
+00:09:48 [DEBUG   ] clustering.kmedoids — Initial medoids: ['Bahrain', 'Jordan', 'Iraq', 'Oman']
+00:09:48 [DEBUG   ] clustering.kmedoids —   iter 0  inertia=2.198982
+00:09:48 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[1]=Israel  (inertia=1.955012)
+00:09:48 [DEBUG   ] clustering.kmedoids —   iter 1  inertia=1.955012
+00:09:48 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[3]=Kuwait  (inertia=1.911658)
+00:09:48 [DEBUG   ] clustering.kmedoids —   iter 2  inertia=1.911658
+00:09:48 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[1]=Lebanon  (inertia=1.893673)
+00:09:48 [DEBUG   ] clustering.kmedoids —   iter 3  inertia=1.893673
+00:09:48 [INFO    ] clustering.kmedoids — K-Medoids converged in 4 iteration(s).  Inertia=1.893673
+00:09:48 [DEBUG   ] clustering.kmedoids —   run 2/5  init=random  inertia=1.893673
+00:09:48 [DEBUG   ] clustering.kmedoids — Initial medoids: ['Lebanon', 'Qatar', 'Syrian_Arab_Republic', 'Egypt']
+00:09:48 [DEBUG   ] clustering.kmedoids —   iter 0  inertia=2.081221
+00:09:48 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[2]=Bahrain  (inertia=1.900192)
+00:09:48 [DEBUG   ] clustering.kmedoids —   iter 1  inertia=1.900192
+00:09:48 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[1]=Kuwait  (inertia=1.895578)
+00:09:48 [DEBUG   ] clustering.kmedoids —   iter 2  inertia=1.895578
+00:09:48 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[3]=Iraq  (inertia=1.893673)
+00:09:48 [DEBUG   ] clustering.kmedoids —   iter 3  inertia=1.893673
+00:09:48 [INFO    ] clustering.kmedoids — K-Medoids converged in 4 iteration(s).  Inertia=1.893673
+00:09:48 [DEBUG   ] clustering.kmedoids —   run 3/5  init=random  inertia=1.893673
+00:09:48 [DEBUG   ] clustering.kmedoids — Initial medoids: ['Jordan', 'Lebanon', 'Oman', 'Yemen']
+00:09:48 [DEBUG   ] clustering.kmedoids —   iter 0  inertia=2.003612
+00:09:48 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[2]=Kuwait  (inertia=1.911950)
+00:09:48 [DEBUG   ] clustering.kmedoids —   iter 1  inertia=1.911950
+00:09:48 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[0]=Iraq  (inertia=1.893673)
+00:09:48 [DEBUG   ] clustering.kmedoids —   iter 2  inertia=1.893673
+00:09:48 [INFO    ] clustering.kmedoids — K-Medoids converged in 3 iteration(s).  Inertia=1.893673
+00:09:48 [DEBUG   ] clustering.kmedoids —   run 4/5  init=random  inertia=1.893673
+00:09:48 [DEBUG   ] clustering.kmedoids — Initial medoids: ['Egypt', 'Lebanon', 'Bahrain', 'Israel']
+00:09:48 [DEBUG   ] clustering.kmedoids —   iter 0  inertia=2.014504
+00:09:48 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[3]=Kuwait  (inertia=1.895578)
+00:09:48 [DEBUG   ] clustering.kmedoids —   iter 1  inertia=1.895578
+00:09:48 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[0]=Iraq  (inertia=1.893673)
+00:09:48 [DEBUG   ] clustering.kmedoids —   iter 2  inertia=1.893673
+00:09:48 [INFO    ] clustering.kmedoids — K-Medoids converged in 3 iteration(s).  Inertia=1.893673
+00:09:48 [DEBUG   ] clustering.kmedoids —   run 5/5  init=random  inertia=1.893673
+00:09:48 [INFO    ] clustering.kmedoids — K-Medoids complete.  k=4, best_inertia=1.8937, n_init=5
+00:09:48 [INFO    ] clustering.evaluation — Computing evaluation metrics for kmedoids result…
+00:09:48 [INFO    ] clustering.evaluation — Evaluation complete.  silhouette=0.1551  inertia=1.8937
+00:09:48 [INFO    ] clustering.pipeline — run('kmedoids', k=4) finished in 0.01s  inertia=1.8937  silhouette=0.1551
+00:09:48 [INFO    ] clustering.models — ClusterResult saved -> C:\Users\User\Desktop\IDPA PROJECT_V2\IDPA-PROJECT-2\output\clustering\kmedoids_k4.json
+00:09:48 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:09:48] "POST /api/cluster HTTP/1.1" 200 -
+00:09:49 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:09:49] "GET /api/results HTTP/1.1" 200 -
+00:09:49 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:09:49] "GET /api/results HTTP/1.1" 200 -
+00:09:49 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:09:49] "GET /api/result/kmedoids_k4.json HTTP/1.1" 200 -
+00:09:52 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:09:52] "GET /api/status HTTP/1.1" 200 -
+00:10:00 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:10:00] "GET /api/status HTTP/1.1" 200 -
+00:10:08 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:10:08] "GET /api/status HTTP/1.1" 200 -
+00:10:16 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:10:16] "GET /api/status HTTP/1.1" 200 -
+00:10:24 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:10:24] "GET /api/status HTTP/1.1" 200 -
+00:10:32 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:10:32] "GET /api/status HTTP/1.1" 200 -
+00:10:40 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:10:40] "GET /api/status HTTP/1.1" 200 -
+00:10:48 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:10:48] "GET /api/status HTTP/1.1" 200 -
+00:10:56 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:10:56] "GET /api/status HTTP/1.1" 200 -
+00:11:04 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:11:04] "GET /api/status HTTP/1.1" 200 -
+00:11:05 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:11:05] "POST /api/matrix/start HTTP/1.1" 200 -
+00:11:05 [INFO    ] clustering.distance_matrix — Loaded 12 country trees from 'C:\\Users\\User\\Desktop\\IDPA PROJECT_V2\\IDPA-PROJECT-2\\preprocessed_trees'
+00:11:05 [INFO    ] clustering.pipeline — 12 trees loaded.
+00:11:05 [INFO    ] clustering.distance_matrix — Loading cached distance matrix from 'C:\\Users\\User\\Desktop\\IDPA PROJECT_V2\\IDPA-PROJECT-2\\output\\clustering\\distance_matrix_12_4d5af8c5.json'
+00:11:05 [INFO    ] clustering.models — Distance matrix loaded <- C:\Users\User\Desktop\IDPA PROJECT_V2\IDPA-PROJECT-2\output\clustering\distance_matrix_12_4d5af8c5.json  (12x12)
+00:11:06 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:11:06] "GET /api/job/967e6d02 HTTP/1.1" 200 -
+00:11:07 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:11:07] "GET /api/status HTTP/1.1" 200 -
+00:11:07 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:11:07] "GET /api/matrix HTTP/1.1" 200 -
+00:11:07 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:11:07] "POST /api/matrix/start HTTP/1.1" 200 -
+00:11:07 [INFO    ] clustering.distance_matrix — Loaded 12 country trees from 'C:\\Users\\User\\Desktop\\IDPA PROJECT_V2\\IDPA-PROJECT-2\\preprocessed_trees'
+00:11:07 [INFO    ] clustering.pipeline — 12 trees loaded.
+00:11:07 [INFO    ] clustering.distance_matrix — Loading cached distance matrix from 'C:\\Users\\User\\Desktop\\IDPA PROJECT_V2\\IDPA-PROJECT-2\\output\\clustering\\distance_matrix_12_4d5af8c5.json'
+00:11:07 [INFO    ] clustering.models — Distance matrix loaded <- C:\Users\User\Desktop\IDPA PROJECT_V2\IDPA-PROJECT-2\output\clustering\distance_matrix_12_4d5af8c5.json  (12x12)
+00:11:08 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:11:08] "GET /api/job/b307cc1d HTTP/1.1" 200 -
+00:11:09 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:11:09] "GET /api/status HTTP/1.1" 200 -
+00:11:09 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:11:09] "GET /api/matrix HTTP/1.1" 200 -
+00:11:12 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:11:12] "GET /api/status HTTP/1.1" 200 -
+00:11:18 [INFO    ] clustering.kmedoids — K-Medoids: n=12, k=12, init=heuristic, max_iter=100, n_init=5
+00:11:18 [DEBUG   ] clustering.kmedoids — Initial medoids: ['Qatar', 'Yemen', 'Egypt', 'Bahrain', 'Syrian_Arab_Republic', 'Oman', 'Jordan', 'Saudi_Arabia', 'Iraq', 'Israel', 'Lebanon', 'Kuwait']
+00:11:18 [DEBUG   ] clustering.kmedoids —   iter 0  inertia=0.000000
+00:11:18 [INFO    ] clustering.kmedoids — K-Medoids converged in 1 iteration(s).  Inertia=0.000000
+00:11:18 [DEBUG   ] clustering.kmedoids —   run 1/5  init=heuristic  inertia=0.000000
+00:11:18 [DEBUG   ] clustering.kmedoids — Initial medoids: ['Bahrain', 'Jordan', 'Iraq', 'Oman', 'Kuwait', 'Qatar', 'Lebanon', 'Yemen', 'Israel', 'Saudi_Arabia', 'Egypt', 'Syrian_Arab_Republic']
+00:11:18 [DEBUG   ] clustering.kmedoids —   iter 0  inertia=0.000000
+00:11:18 [INFO    ] clustering.kmedoids — K-Medoids converged in 1 iteration(s).  Inertia=0.000000
+00:11:18 [DEBUG   ] clustering.kmedoids —   run 2/5  init=random  inertia=0.000000
+00:11:18 [DEBUG   ] clustering.kmedoids — Initial medoids: ['Lebanon', 'Qatar', 'Syrian_Arab_Republic', 'Egypt', 'Iraq', 'Israel', 'Saudi_Arabia', 'Oman', 'Bahrain', 'Yemen', 'Jordan', 'Kuwait']
+00:11:18 [DEBUG   ] clustering.kmedoids —   iter 0  inertia=0.000000
+00:11:18 [INFO    ] clustering.kmedoids — K-Medoids converged in 1 iteration(s).  Inertia=0.000000
+00:11:18 [DEBUG   ] clustering.kmedoids —   run 3/5  init=random  inertia=0.000000
+00:11:18 [DEBUG   ] clustering.kmedoids — Initial medoids: ['Jordan', 'Lebanon', 'Oman', 'Yemen', 'Egypt', 'Iraq', 'Syrian_Arab_Republic', 'Bahrain', 'Qatar', 'Saudi_Arabia', 'Israel', 'Kuwait']
+00:11:18 [DEBUG   ] clustering.kmedoids —   iter 0  inertia=0.000000
+00:11:18 [INFO    ] clustering.kmedoids — K-Medoids converged in 1 iteration(s).  Inertia=0.000000
+00:11:18 [DEBUG   ] clustering.kmedoids —   run 4/5  init=random  inertia=0.000000
+00:11:18 [DEBUG   ] clustering.kmedoids — Initial medoids: ['Egypt', 'Lebanon', 'Bahrain', 'Israel', 'Iraq', 'Jordan', 'Syrian_Arab_Republic', 'Saudi_Arabia', 'Kuwait', 'Qatar', 'Yemen', 'Oman']
+00:11:18 [DEBUG   ] clustering.kmedoids —   iter 0  inertia=0.000000
+00:11:18 [INFO    ] clustering.kmedoids — K-Medoids converged in 1 iteration(s).  Inertia=0.000000
+00:11:18 [DEBUG   ] clustering.kmedoids —   run 5/5  init=random  inertia=0.000000
+00:11:18 [INFO    ] clustering.kmedoids — K-Medoids complete.  k=12, best_inertia=0.0000, n_init=5
+00:11:18 [INFO    ] clustering.evaluation — Computing evaluation metrics for kmedoids result…
+00:11:18 [INFO    ] clustering.evaluation — Evaluation complete.  silhouette=0.0000  inertia=0.0000
+00:11:18 [INFO    ] clustering.pipeline — run('kmedoids', k=12) finished in 0.00s  inertia=0.0000  silhouette=0.0000
+00:11:18 [INFO    ] clustering.models — ClusterResult saved -> C:\Users\User\Desktop\IDPA PROJECT_V2\IDPA-PROJECT-2\output\clustering\kmedoids_k12.json
+00:11:18 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:11:18] "POST /api/cluster HTTP/1.1" 200 -
+00:11:19 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:11:19] "GET /api/results HTTP/1.1" 200 -
+00:11:19 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:11:19] "GET /api/result/kmedoids_k12.json HTTP/1.1" 200 -
+00:11:19 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:11:19] "GET /api/results HTTP/1.1" 200 -
+00:11:20 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:11:20] "GET /api/status HTTP/1.1" 200 -
+00:11:28 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:11:28] "GET /api/status HTTP/1.1" 200 -
+00:11:36 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:11:36] "GET /api/status HTTP/1.1" 200 -
+00:11:44 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:11:44] "GET /api/status HTTP/1.1" 200 -
+00:11:49 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:11:49] "POST /api/matrix/start HTTP/1.1" 200 -
+00:11:49 [INFO    ] clustering.distance_matrix — Loaded 17 country trees from 'C:\\Users\\User\\Desktop\\IDPA PROJECT_V2\\IDPA-PROJECT-2\\preprocessed_trees'
+00:11:49 [INFO    ] clustering.pipeline — 17 trees loaded.
+00:11:49 [INFO    ] clustering.distance_matrix — Computing semantic distance matrix for 17 documents (136 pairs)…
+00:11:49 [INFO    ] clustering.distance_matrix — Pre-normalizing trees…
+00:11:50 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:11:50] "GET /api/job/0d53cdf6 HTTP/1.1" 200 -
+00:11:51 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:11:51] "GET /api/job/0d53cdf6 HTTP/1.1" 200 -
+00:11:52 [INFO    ] clustering.distance_matrix — Matrix stats: {'n': 17, 'pairs': 136, 'min': 0.063057, 'max': 0.466147, 'mean': 0.196287, 'std': 0.089744}
+00:11:52 [INFO    ] clustering.models — Distance matrix saved -> C:\Users\User\Desktop\IDPA PROJECT_V2\IDPA-PROJECT-2\output\clustering\distance_matrix_17_e1a98e88.json  (17x17)
+00:11:52 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:11:52] "GET /api/status HTTP/1.1" 200 -
+00:11:52 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:11:52] "GET /api/job/0d53cdf6 HTTP/1.1" 200 -
+00:11:53 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:11:53] "GET /api/status HTTP/1.1" 200 -
+00:11:53 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:11:53] "GET /api/matrix HTTP/1.1" 200 -
+00:12:00 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:12:00] "GET /api/status HTTP/1.1" 200 -
+00:12:02 [INFO    ] clustering.kmedoids — K-Medoids: n=17, k=2, init=heuristic, max_iter=100, n_init=3
+00:12:02 [DEBUG   ] clustering.kmedoids — Initial medoids: ['Germany', 'Denmark']
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 0  inertia=1.792531
+00:12:02 [INFO    ] clustering.kmedoids — K-Medoids converged in 1 iteration(s).  Inertia=1.792531
+00:12:02 [DEBUG   ] clustering.kmedoids —   run 1/3  init=heuristic  inertia=1.792531
+00:12:02 [DEBUG   ] clustering.kmedoids — Initial medoids: ['Belgium', 'Italy']
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 0  inertia=2.347398
+00:12:02 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[1]=Germany  (inertia=2.032732)
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 1  inertia=2.032732
+00:12:02 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[0]=Denmark  (inertia=1.792531)
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 2  inertia=1.792531
+00:12:02 [INFO    ] clustering.kmedoids — K-Medoids converged in 3 iteration(s).  Inertia=1.792531
+00:12:02 [DEBUG   ] clustering.kmedoids —   run 2/3  init=random  inertia=1.792531
+00:12:02 [DEBUG   ] clustering.kmedoids — Initial medoids: ['Romania', 'Denmark']
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 0  inertia=2.128270
+00:12:02 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[0]=Germany  (inertia=1.792531)
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 1  inertia=1.792531
+00:12:02 [INFO    ] clustering.kmedoids — K-Medoids converged in 2 iteration(s).  Inertia=1.792531
+00:12:02 [DEBUG   ] clustering.kmedoids —   run 3/3  init=random  inertia=1.792531
+00:12:02 [INFO    ] clustering.kmedoids — K-Medoids complete.  k=2, best_inertia=1.7925, n_init=3
+00:12:02 [DEBUG   ] clustering.evaluation — find_best_k: k=2  sil=0.4888
+00:12:02 [INFO    ] clustering.kmedoids — K-Medoids: n=17, k=3, init=heuristic, max_iter=100, n_init=3
+00:12:02 [DEBUG   ] clustering.kmedoids — Initial medoids: ['Germany', 'Denmark', 'Switzerland']
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 0  inertia=1.497560
+00:12:02 [INFO    ] clustering.kmedoids — K-Medoids converged in 1 iteration(s).  Inertia=1.497560
+00:12:02 [DEBUG   ] clustering.kmedoids —   run 1/3  init=heuristic  inertia=1.497560
+00:12:02 [DEBUG   ] clustering.kmedoids — Initial medoids: ['Belgium', 'Italy', 'Poland']
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 0  inertia=2.201877
+00:12:02 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[1]=Germany  (inertia=1.942085)
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 1  inertia=1.942085
+00:12:02 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[0]=Denmark  (inertia=1.691863)
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 2  inertia=1.691863
+00:12:02 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[2]=Switzerland  (inertia=1.497560)
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 3  inertia=1.497560
+00:12:02 [INFO    ] clustering.kmedoids — K-Medoids converged in 4 iteration(s).  Inertia=1.497560
+00:12:02 [DEBUG   ] clustering.kmedoids —   run 2/3  init=random  inertia=1.497560
+00:12:02 [DEBUG   ] clustering.kmedoids — Initial medoids: ['Romania', 'Denmark', 'Bulgaria']
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 0  inertia=1.992643
+00:12:02 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[0]=Germany  (inertia=1.680558)
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 1  inertia=1.680558
+00:12:02 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[2]=Switzerland  (inertia=1.497560)
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 2  inertia=1.497560
+00:12:02 [INFO    ] clustering.kmedoids — K-Medoids converged in 3 iteration(s).  Inertia=1.497560
+00:12:02 [DEBUG   ] clustering.kmedoids —   run 3/3  init=random  inertia=1.497560
+00:12:02 [INFO    ] clustering.kmedoids — K-Medoids complete.  k=3, best_inertia=1.4976, n_init=3
+00:12:02 [DEBUG   ] clustering.evaluation — find_best_k: k=3  sil=0.4308
+00:12:02 [INFO    ] clustering.kmedoids — K-Medoids: n=17, k=4, init=heuristic, max_iter=100, n_init=3
+00:12:02 [DEBUG   ] clustering.kmedoids — Initial medoids: ['Germany', 'Denmark', 'Switzerland', 'Norway']
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 0  inertia=1.264096
+00:12:02 [INFO    ] clustering.kmedoids — K-Medoids converged in 1 iteration(s).  Inertia=1.264096
+00:12:02 [DEBUG   ] clustering.kmedoids —   run 1/3  init=heuristic  inertia=1.264096
+00:12:02 [DEBUG   ] clustering.kmedoids — Initial medoids: ['Belgium', 'Italy', 'Poland', 'Portugal']
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 0  inertia=2.004630
+00:12:02 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[1]=Germany  (inertia=1.759164)
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 1  inertia=1.759164
+00:12:02 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[0]=Denmark  (inertia=1.517194)
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 2  inertia=1.517194
+00:12:02 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[2]=Switzerland  (inertia=1.322891)
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 3  inertia=1.322891
+00:12:02 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[3]=Norway  (inertia=1.264096)
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 4  inertia=1.264096
+00:12:02 [INFO    ] clustering.kmedoids — K-Medoids converged in 5 iteration(s).  Inertia=1.264096
+00:12:02 [DEBUG   ] clustering.kmedoids —   run 2/3  init=random  inertia=1.264096
+00:12:02 [DEBUG   ] clustering.kmedoids — Initial medoids: ['Romania', 'Denmark', 'Bulgaria', 'Germany']
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 0  inertia=1.575789
+00:12:02 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[0]=Switzerland  (inertia=1.385587)
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 1  inertia=1.385587
+00:12:02 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[2]=Norway  (inertia=1.264096)
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 2  inertia=1.264096
+00:12:02 [INFO    ] clustering.kmedoids — K-Medoids converged in 3 iteration(s).  Inertia=1.264096
+00:12:02 [DEBUG   ] clustering.kmedoids —   run 3/3  init=random  inertia=1.264096
+00:12:02 [INFO    ] clustering.kmedoids — K-Medoids complete.  k=4, best_inertia=1.2641, n_init=3
+00:12:02 [DEBUG   ] clustering.evaluation — find_best_k: k=4  sil=0.3197
+00:12:02 [INFO    ] clustering.kmedoids — K-Medoids: n=17, k=5, init=heuristic, max_iter=100, n_init=3
+00:12:02 [DEBUG   ] clustering.kmedoids — Initial medoids: ['Germany', 'Denmark', 'Switzerland', 'Norway', 'Portugal']
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 0  inertia=1.089427
+00:12:02 [INFO    ] clustering.kmedoids — K-Medoids converged in 1 iteration(s).  Inertia=1.089427
+00:12:02 [DEBUG   ] clustering.kmedoids —   run 1/3  init=heuristic  inertia=1.089427
+00:12:02 [DEBUG   ] clustering.kmedoids — Initial medoids: ['Belgium', 'Italy', 'Poland', 'Portugal', 'Bulgaria']
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 0  inertia=1.864181
+00:12:02 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[1]=Germany  (inertia=1.647191)
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 1  inertia=1.647191
+00:12:02 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[0]=Denmark  (inertia=1.405222)
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 2  inertia=1.405222
+00:12:02 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[2]=Switzerland  (inertia=1.210918)
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 3  inertia=1.210918
+00:12:02 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[4]=Norway  (inertia=1.089427)
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 4  inertia=1.089427
+00:12:02 [INFO    ] clustering.kmedoids — K-Medoids converged in 5 iteration(s).  Inertia=1.089427
+00:12:02 [DEBUG   ] clustering.kmedoids —   run 2/3  init=random  inertia=1.089427
+00:12:02 [DEBUG   ] clustering.kmedoids — Initial medoids: ['Romania', 'Denmark', 'Bulgaria', 'Germany', 'Sweden']
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 0  inertia=1.410194
+00:12:02 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[0]=Switzerland  (inertia=1.219155)
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 1  inertia=1.219155
+00:12:02 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[2]=Norway  (inertia=1.137874)
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 2  inertia=1.137874
+00:12:02 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[4]=Portugal  (inertia=1.089427)
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 3  inertia=1.089427
+00:12:02 [INFO    ] clustering.kmedoids — K-Medoids converged in 4 iteration(s).  Inertia=1.089427
+00:12:02 [DEBUG   ] clustering.kmedoids —   run 3/3  init=random  inertia=1.089427
+00:12:02 [INFO    ] clustering.kmedoids — K-Medoids complete.  k=5, best_inertia=1.0894, n_init=3
+00:12:02 [DEBUG   ] clustering.evaluation — find_best_k: k=5  sil=0.2688
+00:12:02 [INFO    ] clustering.kmedoids — K-Medoids: n=17, k=6, init=heuristic, max_iter=100, n_init=3
+00:12:02 [DEBUG   ] clustering.kmedoids — Initial medoids: ['Germany', 'Denmark', 'Switzerland', 'Norway', 'Portugal', 'France']
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 0  inertia=0.959355
+00:12:02 [INFO    ] clustering.kmedoids — K-Medoids converged in 1 iteration(s).  Inertia=0.959355
+00:12:02 [DEBUG   ] clustering.kmedoids —   run 1/3  init=heuristic  inertia=0.959355
+00:12:02 [DEBUG   ] clustering.kmedoids — Initial medoids: ['Belgium', 'Italy', 'Poland', 'Portugal', 'Bulgaria', 'Greece']
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 0  inertia=1.717830
+00:12:02 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[2]=Denmark  (inertia=1.499574)
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 1  inertia=1.499574
+00:12:02 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[5]=Germany  (inertia=1.322472)
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 2  inertia=1.322472
+00:12:02 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[1]=Switzerland  (inertia=1.122084)
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 3  inertia=1.122084
+00:12:02 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[0]=Norway  (inertia=0.977454)
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 4  inertia=0.977454
+00:12:02 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[4]=France  (inertia=0.959355)
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 5  inertia=0.959355
+00:12:02 [INFO    ] clustering.kmedoids — K-Medoids converged in 6 iteration(s).  Inertia=0.959355
+00:12:02 [DEBUG   ] clustering.kmedoids —   run 2/3  init=random  inertia=0.959355
+00:12:02 [DEBUG   ] clustering.kmedoids — Initial medoids: ['Romania', 'Denmark', 'Bulgaria', 'Germany', 'Sweden', 'Finland']
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 0  inertia=1.341721
+00:12:02 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[5]=Switzerland  (inertia=1.118507)
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 1  inertia=1.118507
+00:12:02 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[0]=Norway  (inertia=1.025902)
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 2  inertia=1.025902
+00:12:02 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[2]=Portugal  (inertia=0.963206)
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 3  inertia=0.963206
+00:12:02 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[4]=France  (inertia=0.959355)
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 4  inertia=0.959355
+00:12:02 [INFO    ] clustering.kmedoids — K-Medoids converged in 5 iteration(s).  Inertia=0.959355
+00:12:02 [DEBUG   ] clustering.kmedoids —   run 3/3  init=random  inertia=0.959355
+00:12:02 [INFO    ] clustering.kmedoids — K-Medoids complete.  k=6, best_inertia=0.9594, n_init=3
+00:12:02 [DEBUG   ] clustering.evaluation — find_best_k: k=6  sil=0.1280
+00:12:02 [INFO    ] clustering.kmedoids — K-Medoids: n=17, k=7, init=heuristic, max_iter=100, n_init=3
+00:12:02 [DEBUG   ] clustering.kmedoids — Initial medoids: ['Germany', 'Denmark', 'Switzerland', 'Norway', 'Portugal', 'France', 'Bulgaria']
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 0  inertia=0.847383
+00:12:02 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[6]=Sweden  (inertia=0.833134)
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 1  inertia=0.833134
+00:12:02 [INFO    ] clustering.kmedoids — K-Medoids converged in 2 iteration(s).  Inertia=0.833134
+00:12:02 [DEBUG   ] clustering.kmedoids —   run 1/3  init=heuristic  inertia=0.833134
+00:12:02 [DEBUG   ] clustering.kmedoids — Initial medoids: ['Belgium', 'Italy', 'Poland', 'Portugal', 'Bulgaria', 'Greece', 'France']
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 0  inertia=1.568548
+00:12:02 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[2]=Denmark  (inertia=1.350292)
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 1  inertia=1.350292
+00:12:02 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[5]=Germany  (inertia=1.192400)
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 2  inertia=1.192400
+00:12:02 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[1]=Switzerland  (inertia=0.992013)
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 3  inertia=0.992013
+00:12:02 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[0]=Norway  (inertia=0.847383)
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 4  inertia=0.847383
+00:12:02 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[4]=Sweden  (inertia=0.833134)
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 5  inertia=0.833134
+00:12:02 [INFO    ] clustering.kmedoids — K-Medoids converged in 6 iteration(s).  Inertia=0.833134
+00:12:02 [DEBUG   ] clustering.kmedoids —   run 2/3  init=random  inertia=0.833134
+00:12:02 [DEBUG   ] clustering.kmedoids — Initial medoids: ['Romania', 'Denmark', 'Bulgaria', 'Germany', 'Sweden', 'Finland', 'Austria']
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 0  inertia=1.255447
+00:12:02 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[5]=Switzerland  (inertia=1.034640)
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 1  inertia=1.034640
+00:12:02 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[6]=Norway  (inertia=0.925253)
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 2  inertia=0.925253
+00:12:02 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[0]=Portugal  (inertia=0.851233)
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 3  inertia=0.851233
+00:12:02 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[2]=France  (inertia=0.833134)
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 4  inertia=0.833134
+00:12:02 [INFO    ] clustering.kmedoids — K-Medoids converged in 5 iteration(s).  Inertia=0.833134
+00:12:02 [DEBUG   ] clustering.kmedoids —   run 3/3  init=random  inertia=0.833134
+00:12:02 [INFO    ] clustering.kmedoids — K-Medoids complete.  k=7, best_inertia=0.8331, n_init=3
+00:12:02 [DEBUG   ] clustering.evaluation — find_best_k: k=7  sil=0.0104
+00:12:02 [INFO    ] clustering.kmedoids — K-Medoids: n=17, k=8, init=heuristic, max_iter=100, n_init=3
+00:12:02 [DEBUG   ] clustering.kmedoids — Initial medoids: ['Germany', 'Denmark', 'Switzerland', 'Norway', 'Portugal', 'France', 'Bulgaria', 'Sweden']
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 0  inertia=0.721161
+00:12:02 [INFO    ] clustering.kmedoids — K-Medoids converged in 1 iteration(s).  Inertia=0.721161
+00:12:02 [DEBUG   ] clustering.kmedoids —   run 1/3  init=heuristic  inertia=0.721161
+00:12:02 [DEBUG   ] clustering.kmedoids — Initial medoids: ['Belgium', 'Italy', 'Poland', 'Portugal', 'Bulgaria', 'Greece', 'France', 'Switzerland']
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 0  inertia=1.283553
+00:12:02 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[2]=Denmark  (inertia=1.065297)
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 1  inertia=1.065297
+00:12:02 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[0]=Sweden  (inertia=0.906939)
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 2  inertia=0.906939
+00:12:02 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[5]=Norway  (inertia=0.817219)
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 3  inertia=0.817219
+00:12:02 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[1]=Germany  (inertia=0.721161)
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 4  inertia=0.721161
+00:12:02 [INFO    ] clustering.kmedoids — K-Medoids converged in 5 iteration(s).  Inertia=0.721161
+00:12:02 [DEBUG   ] clustering.kmedoids —   run 2/3  init=random  inertia=0.721161
+00:12:02 [DEBUG   ] clustering.kmedoids — Initial medoids: ['Romania', 'Denmark', 'Bulgaria', 'Germany', 'Sweden', 'Finland', 'Austria', 'Portugal']
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 0  inertia=1.090278
+00:12:02 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[5]=Switzerland  (inertia=0.869471)
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 1  inertia=0.869471
+00:12:02 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[6]=Norway  (inertia=0.760085)
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 2  inertia=0.760085
+00:12:02 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[0]=France  (inertia=0.721161)
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 3  inertia=0.721161
+00:12:02 [INFO    ] clustering.kmedoids — K-Medoids converged in 4 iteration(s).  Inertia=0.721161
+00:12:02 [DEBUG   ] clustering.kmedoids —   run 3/3  init=random  inertia=0.721161
+00:12:02 [INFO    ] clustering.kmedoids — K-Medoids complete.  k=8, best_inertia=0.7212, n_init=3
+00:12:02 [DEBUG   ] clustering.evaluation — find_best_k: k=8  sil=0.0266
+00:12:02 [INFO    ] clustering.kmedoids — K-Medoids: n=17, k=9, init=heuristic, max_iter=100, n_init=3
+00:12:02 [DEBUG   ] clustering.kmedoids — Initial medoids: ['Germany', 'Denmark', 'Switzerland', 'Norway', 'Portugal', 'France', 'Bulgaria', 'Sweden', 'Romania']
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 0  inertia=0.630013
+00:12:02 [INFO    ] clustering.kmedoids — K-Medoids converged in 1 iteration(s).  Inertia=0.630013
+00:12:02 [DEBUG   ] clustering.kmedoids —   run 1/3  init=heuristic  inertia=0.630013
+00:12:02 [DEBUG   ] clustering.kmedoids — Initial medoids: ['Belgium', 'Italy', 'Poland', 'Portugal', 'Bulgaria', 'Greece', 'France', 'Switzerland', 'Spain']
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 0  inertia=1.141168
+00:12:02 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[2]=Denmark  (inertia=0.916216)
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 1  inertia=0.916216
+00:12:02 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[5]=Germany  (inertia=0.797062)
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 2  inertia=0.797062
+00:12:02 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[0]=Norway  (inertia=0.653639)
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 3  inertia=0.653639
+00:12:02 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[8]=Sweden  (inertia=0.636554)
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 4  inertia=0.636554
+00:12:02 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[1]=Romania  (inertia=0.630013)
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 5  inertia=0.630013
+00:12:02 [INFO    ] clustering.kmedoids — K-Medoids converged in 6 iteration(s).  Inertia=0.630013
+00:12:02 [DEBUG   ] clustering.kmedoids —   run 2/3  init=random  inertia=0.630013
+00:12:02 [DEBUG   ] clustering.kmedoids — Initial medoids: ['Romania', 'Denmark', 'Bulgaria', 'Germany', 'Sweden', 'Finland', 'Austria', 'Portugal', 'Belgium']
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 0  inertia=1.007181
+00:12:02 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[5]=Switzerland  (inertia=0.790659)
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 1  inertia=0.790659
+00:12:02 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[8]=Norway  (inertia=0.676218)
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 2  inertia=0.676218
+00:12:02 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[6]=France  (inertia=0.630013)
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 3  inertia=0.630013
+00:12:02 [INFO    ] clustering.kmedoids — K-Medoids converged in 4 iteration(s).  Inertia=0.630013
+00:12:02 [DEBUG   ] clustering.kmedoids —   run 3/3  init=random  inertia=0.630013
+00:12:02 [INFO    ] clustering.kmedoids — K-Medoids complete.  k=9, best_inertia=0.6300, n_init=3
+00:12:02 [DEBUG   ] clustering.evaluation — find_best_k: k=9  sil=-0.0140
+00:12:02 [INFO    ] clustering.kmedoids — K-Medoids: n=17, k=10, init=heuristic, max_iter=100, n_init=3
+00:12:02 [DEBUG   ] clustering.kmedoids — Initial medoids: ['Germany', 'Denmark', 'Switzerland', 'Norway', 'Portugal', 'France', 'Bulgaria', 'Sweden', 'Romania', 'Hungary']
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 0  inertia=0.540209
+00:12:02 [INFO    ] clustering.kmedoids — K-Medoids converged in 1 iteration(s).  Inertia=0.540209
+00:12:02 [DEBUG   ] clustering.kmedoids —   run 1/3  init=heuristic  inertia=0.540209
+00:12:02 [DEBUG   ] clustering.kmedoids — Initial medoids: ['Belgium', 'Italy', 'Poland', 'Portugal', 'Bulgaria', 'Greece', 'France', 'Switzerland', 'Spain', 'Hungary']
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 0  inertia=1.017357
+00:12:02 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[1]=Denmark  (inertia=0.792405)
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 1  inertia=0.792405
+00:12:02 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[5]=Norway  (inertia=0.690236)
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 2  inertia=0.690236
+00:12:02 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[0]=Germany  (inertia=0.564107)
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 3  inertia=0.564107
+00:12:02 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[8]=Sweden  (inertia=0.547021)
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 4  inertia=0.547021
+00:12:02 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[2]=Romania  (inertia=0.540209)
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 5  inertia=0.540209
+00:12:02 [INFO    ] clustering.kmedoids — K-Medoids converged in 6 iteration(s).  Inertia=0.540209
+00:12:02 [DEBUG   ] clustering.kmedoids —   run 2/3  init=random  inertia=0.540209
+00:12:02 [DEBUG   ] clustering.kmedoids — Initial medoids: ['Romania', 'Denmark', 'Bulgaria', 'Germany', 'Sweden', 'Finland', 'Austria', 'Portugal', 'Belgium', 'Norway']
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 0  inertia=0.813927
+00:12:02 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[5]=Switzerland  (inertia=0.597405)
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 1  inertia=0.597405
+00:12:02 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[8]=France  (inertia=0.546146)
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 2  inertia=0.546146
+00:12:02 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[6]=Hungary  (inertia=0.540209)
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 3  inertia=0.540209
+00:12:02 [INFO    ] clustering.kmedoids — K-Medoids converged in 4 iteration(s).  Inertia=0.540209
+00:12:02 [DEBUG   ] clustering.kmedoids —   run 3/3  init=random  inertia=0.540209
+00:12:02 [INFO    ] clustering.kmedoids — K-Medoids complete.  k=10, best_inertia=0.5402, n_init=3
+00:12:02 [DEBUG   ] clustering.evaluation — find_best_k: k=10  sil=0.0133
+00:12:02 [INFO    ] clustering.kmedoids — K-Medoids: n=17, k=11, init=heuristic, max_iter=100, n_init=3
+00:12:02 [DEBUG   ] clustering.kmedoids — Initial medoids: ['Germany', 'Denmark', 'Switzerland', 'Norway', 'Portugal', 'France', 'Bulgaria', 'Sweden', 'Romania', 'Hungary', 'Italy']
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 0  inertia=0.455601
+00:12:02 [INFO    ] clustering.kmedoids — K-Medoids converged in 1 iteration(s).  Inertia=0.455601
+00:12:02 [DEBUG   ] clustering.kmedoids —   run 1/3  init=heuristic  inertia=0.455601
+00:12:02 [DEBUG   ] clustering.kmedoids — Initial medoids: ['Belgium', 'Italy', 'Poland', 'Portugal', 'Bulgaria', 'Greece', 'France', 'Switzerland', 'Spain', 'Hungary', 'Finland']
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 0  inertia=0.909821
+00:12:02 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[5]=Denmark  (inertia=0.676258)
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 1  inertia=0.676258
+00:12:02 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[1]=Norway  (inertia=0.571070)
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 2  inertia=0.571070
+00:12:02 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[8]=Germany  (inertia=0.477348)
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 3  inertia=0.477348
+00:12:02 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[0]=Romania  (inertia=0.465013)
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 4  inertia=0.465013
+00:12:02 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[10]=Sweden  (inertia=0.455873)
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 5  inertia=0.455873
+00:12:02 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[2]=Italy  (inertia=0.455601)
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 6  inertia=0.455601
+00:12:02 [INFO    ] clustering.kmedoids — K-Medoids converged in 7 iteration(s).  Inertia=0.455601
+00:12:02 [DEBUG   ] clustering.kmedoids —   run 2/3  init=random  inertia=0.455601
+00:12:02 [DEBUG   ] clustering.kmedoids — Initial medoids: ['Romania', 'Denmark', 'Bulgaria', 'Germany', 'Sweden', 'Finland', 'Austria', 'Portugal', 'Belgium', 'Norway', 'Greece']
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 0  inertia=0.736871
+00:12:02 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[5]=Switzerland  (inertia=0.520348)
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 1  inertia=0.520348
+00:12:02 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[10]=France  (inertia=0.467333)
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 2  inertia=0.467333
+00:12:02 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[8]=Hungary  (inertia=0.456342)
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 3  inertia=0.456342
+00:12:02 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[6]=Italy  (inertia=0.455601)
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 4  inertia=0.455601
+00:12:02 [INFO    ] clustering.kmedoids — K-Medoids converged in 5 iteration(s).  Inertia=0.455601
+00:12:02 [DEBUG   ] clustering.kmedoids —   run 3/3  init=random  inertia=0.455601
+00:12:02 [INFO    ] clustering.kmedoids — K-Medoids complete.  k=11, best_inertia=0.4556, n_init=3
+00:12:02 [DEBUG   ] clustering.evaluation — find_best_k: k=11  sil=0.0043
+00:12:02 [INFO    ] clustering.kmedoids — K-Medoids: n=17, k=12, init=heuristic, max_iter=100, n_init=3
+00:12:02 [DEBUG   ] clustering.kmedoids — Initial medoids: ['Germany', 'Denmark', 'Switzerland', 'Norway', 'Portugal', 'France', 'Bulgaria', 'Sweden', 'Romania', 'Hungary', 'Italy', 'Poland']
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 0  inertia=0.371266
+00:12:02 [INFO    ] clustering.kmedoids — K-Medoids converged in 1 iteration(s).  Inertia=0.371266
+00:12:02 [DEBUG   ] clustering.kmedoids —   run 1/3  init=heuristic  inertia=0.371266
+00:12:02 [DEBUG   ] clustering.kmedoids — Initial medoids: ['Belgium', 'Italy', 'Poland', 'Portugal', 'Bulgaria', 'Greece', 'France', 'Switzerland', 'Spain', 'Hungary', 'Finland', 'Austria']
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 0  inertia=0.779487
+00:12:02 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[5]=Denmark  (inertia=0.545924)
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 1  inertia=0.545924
+00:12:02 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[0]=Norway  (inertia=0.440619)
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 2  inertia=0.440619
+00:12:02 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[8]=Germany  (inertia=0.387687)
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 3  inertia=0.387687
+00:12:02 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[10]=Sweden  (inertia=0.378547)
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 4  inertia=0.378547
+00:12:02 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[11]=Romania  (inertia=0.371266)
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 5  inertia=0.371266
+00:12:02 [INFO    ] clustering.kmedoids — K-Medoids converged in 6 iteration(s).  Inertia=0.371266
+00:12:02 [DEBUG   ] clustering.kmedoids —   run 2/3  init=random  inertia=0.371266
+00:12:02 [DEBUG   ] clustering.kmedoids — Initial medoids: ['Romania', 'Denmark', 'Bulgaria', 'Germany', 'Sweden', 'Finland', 'Austria', 'Portugal', 'Belgium', 'Norway', 'Greece', 'Hungary']
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 0  inertia=0.645188
+00:12:02 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[5]=Switzerland  (inertia=0.430544)
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 1  inertia=0.430544
+00:12:02 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[10]=France  (inertia=0.377529)
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 2  inertia=0.377529
+00:12:02 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[8]=Italy  (inertia=0.371734)
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 3  inertia=0.371734
+00:12:02 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[6]=Poland  (inertia=0.371266)
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 4  inertia=0.371266
+00:12:02 [INFO    ] clustering.kmedoids — K-Medoids converged in 5 iteration(s).  Inertia=0.371266
+00:12:02 [DEBUG   ] clustering.kmedoids —   run 3/3  init=random  inertia=0.371266
+00:12:02 [INFO    ] clustering.kmedoids — K-Medoids complete.  k=12, best_inertia=0.3713, n_init=3
+00:12:02 [DEBUG   ] clustering.evaluation — find_best_k: k=12  sil=0.0280
+00:12:02 [INFO    ] clustering.kmedoids — K-Medoids: n=17, k=13, init=heuristic, max_iter=100, n_init=3
+00:12:02 [DEBUG   ] clustering.kmedoids — Initial medoids: ['Germany', 'Denmark', 'Switzerland', 'Norway', 'Portugal', 'France', 'Bulgaria', 'Sweden', 'Romania', 'Hungary', 'Italy', 'Poland', 'Austria']
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 0  inertia=0.287399
+00:12:02 [INFO    ] clustering.kmedoids — K-Medoids converged in 1 iteration(s).  Inertia=0.287399
+00:12:02 [DEBUG   ] clustering.kmedoids —   run 1/3  init=heuristic  inertia=0.287399
+00:12:02 [DEBUG   ] clustering.kmedoids — Initial medoids: ['Belgium', 'Italy', 'Poland', 'Portugal', 'Bulgaria', 'Greece', 'France', 'Switzerland', 'Spain', 'Hungary', 'Finland', 'Austria', 'Germany']
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 0  inertia=0.695957
+00:12:02 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[5]=Denmark  (inertia=0.442255)
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 1  inertia=0.442255
+00:12:02 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[8]=Norway  (inertia=0.308874)
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 2  inertia=0.308874
+00:12:02 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[0]=Romania  (inertia=0.296538)
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 3  inertia=0.296538
+00:12:02 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[10]=Sweden  (inertia=0.287399)
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 4  inertia=0.287399
+00:12:02 [INFO    ] clustering.kmedoids — K-Medoids converged in 5 iteration(s).  Inertia=0.287399
+00:12:02 [DEBUG   ] clustering.kmedoids —   run 2/3  init=random  inertia=0.287399
+00:12:02 [DEBUG   ] clustering.kmedoids — Initial medoids: ['Romania', 'Denmark', 'Bulgaria', 'Germany', 'Sweden', 'Finland', 'Austria', 'Portugal', 'Belgium', 'Norway', 'Greece', 'Hungary', 'Poland']
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 0  inertia=0.560853
+00:12:02 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[5]=Switzerland  (inertia=0.346209)
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 1  inertia=0.346209
+00:12:02 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[10]=France  (inertia=0.293193)
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 2  inertia=0.293193
+00:12:02 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[8]=Italy  (inertia=0.287399)
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 3  inertia=0.287399
+00:12:02 [INFO    ] clustering.kmedoids — K-Medoids converged in 4 iteration(s).  Inertia=0.287399
+00:12:02 [DEBUG   ] clustering.kmedoids —   run 3/3  init=random  inertia=0.287399
+00:12:02 [INFO    ] clustering.kmedoids — K-Medoids complete.  k=13, best_inertia=0.2874, n_init=3
+00:12:02 [DEBUG   ] clustering.evaluation — find_best_k: k=13  sil=0.0508
+00:12:02 [INFO    ] clustering.kmedoids — K-Medoids: n=17, k=14, init=heuristic, max_iter=100, n_init=3
+00:12:02 [DEBUG   ] clustering.kmedoids — Initial medoids: ['Germany', 'Denmark', 'Switzerland', 'Norway', 'Portugal', 'France', 'Bulgaria', 'Sweden', 'Romania', 'Hungary', 'Italy', 'Poland', 'Austria', 'Belgium']
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 0  inertia=0.208586
+00:12:02 [INFO    ] clustering.kmedoids — K-Medoids converged in 1 iteration(s).  Inertia=0.208586
+00:12:02 [DEBUG   ] clustering.kmedoids —   run 1/3  init=heuristic  inertia=0.208586
+00:12:02 [DEBUG   ] clustering.kmedoids — Initial medoids: ['Belgium', 'Italy', 'Poland', 'Portugal', 'Bulgaria', 'Greece', 'France', 'Switzerland', 'Spain', 'Hungary', 'Finland', 'Austria', 'Germany', 'Denmark']
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 0  inertia=0.365199
+00:12:02 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[5]=Norway  (inertia=0.231261)
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 1  inertia=0.231261
+00:12:02 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[8]=Romania  (inertia=0.217725)
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 2  inertia=0.217725
+00:12:02 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[10]=Sweden  (inertia=0.208586)
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 3  inertia=0.208586
+00:12:02 [INFO    ] clustering.kmedoids — K-Medoids converged in 4 iteration(s).  Inertia=0.208586
+00:12:02 [DEBUG   ] clustering.kmedoids —   run 2/3  init=random  inertia=0.208586
+00:12:02 [DEBUG   ] clustering.kmedoids — Initial medoids: ['Romania', 'Denmark', 'Bulgaria', 'Germany', 'Sweden', 'Finland', 'Austria', 'Portugal', 'Belgium', 'Norway', 'Greece', 'Hungary', 'Poland', 'Spain']
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 0  inertia=0.497796
+00:12:02 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[4]=Switzerland  (inertia=0.277736)
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 1  inertia=0.277736
+00:12:02 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[10]=France  (inertia=0.224721)
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 2  inertia=0.224721
+00:12:02 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[13]=Italy  (inertia=0.217725)
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 3  inertia=0.217725
+00:12:02 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[5]=Sweden  (inertia=0.208586)
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 4  inertia=0.208586
+00:12:02 [INFO    ] clustering.kmedoids — K-Medoids converged in 5 iteration(s).  Inertia=0.208586
+00:12:02 [DEBUG   ] clustering.kmedoids —   run 3/3  init=random  inertia=0.208586
+00:12:02 [INFO    ] clustering.kmedoids — K-Medoids complete.  k=14, best_inertia=0.2086, n_init=3
+00:12:02 [DEBUG   ] clustering.evaluation — find_best_k: k=14  sil=0.0450
+00:12:02 [INFO    ] clustering.kmedoids — K-Medoids: n=17, k=15, init=heuristic, max_iter=100, n_init=3
+00:12:02 [DEBUG   ] clustering.kmedoids — Initial medoids: ['Germany', 'Denmark', 'Switzerland', 'Norway', 'Portugal', 'France', 'Bulgaria', 'Sweden', 'Romania', 'Hungary', 'Italy', 'Poland', 'Austria', 'Belgium', 'Greece']
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 0  inertia=0.131529
+00:12:02 [INFO    ] clustering.kmedoids — K-Medoids converged in 1 iteration(s).  Inertia=0.131529
+00:12:02 [DEBUG   ] clustering.kmedoids —   run 1/3  init=heuristic  inertia=0.131529
+00:12:02 [DEBUG   ] clustering.kmedoids — Initial medoids: ['Belgium', 'Italy', 'Poland', 'Portugal', 'Bulgaria', 'Greece', 'France', 'Switzerland', 'Spain', 'Hungary', 'Finland', 'Austria', 'Germany', 'Denmark', 'Romania']
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 0  inertia=0.274050
+00:12:02 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[12]=Norway  (inertia=0.135253)
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 1  inertia=0.135253
+00:12:02 [INFO    ] clustering.kmedoids — K-Medoids converged in 2 iteration(s).  Inertia=0.135253
+00:12:02 [DEBUG   ] clustering.kmedoids —   run 2/3  init=random  inertia=0.135253
+00:12:02 [DEBUG   ] clustering.kmedoids — Initial medoids: ['Romania', 'Denmark', 'Bulgaria', 'Germany', 'Sweden', 'Finland', 'Austria', 'Portugal', 'Belgium', 'Norway', 'Greece', 'Hungary', 'Poland', 'Spain', 'Italy']
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 0  inertia=0.413189
+00:12:02 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[4]=Switzerland  (inertia=0.193128)
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 1  inertia=0.193128
+00:12:02 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[3]=France  (inertia=0.135253)
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 2  inertia=0.135253
+00:12:02 [INFO    ] clustering.kmedoids — K-Medoids converged in 3 iteration(s).  Inertia=0.135253
+00:12:02 [DEBUG   ] clustering.kmedoids —   run 3/3  init=random  inertia=0.135253
+00:12:02 [INFO    ] clustering.kmedoids — K-Medoids complete.  k=15, best_inertia=0.1315, n_init=3
+00:12:02 [DEBUG   ] clustering.evaluation — find_best_k: k=15  sil=0.0053
+00:12:02 [INFO    ] clustering.kmedoids — K-Medoids: n=17, k=16, init=heuristic, max_iter=100, n_init=3
+00:12:02 [DEBUG   ] clustering.kmedoids — Initial medoids: ['Germany', 'Denmark', 'Switzerland', 'Norway', 'Portugal', 'France', 'Bulgaria', 'Sweden', 'Romania', 'Hungary', 'Italy', 'Poland', 'Austria', 'Belgium', 'Greece', 'Finland']
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 0  inertia=0.063057
+00:12:02 [INFO    ] clustering.kmedoids — K-Medoids converged in 1 iteration(s).  Inertia=0.063057
+00:12:02 [DEBUG   ] clustering.kmedoids —   run 1/3  init=heuristic  inertia=0.063057
+00:12:02 [DEBUG   ] clustering.kmedoids — Initial medoids: ['Belgium', 'Italy', 'Poland', 'Portugal', 'Bulgaria', 'Greece', 'France', 'Switzerland', 'Spain', 'Hungary', 'Finland', 'Austria', 'Germany', 'Denmark', 'Romania', 'Sweden']
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 0  inertia=0.193254
+00:12:02 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[8]=Norway  (inertia=0.063057)
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 1  inertia=0.063057
+00:12:02 [INFO    ] clustering.kmedoids — K-Medoids converged in 2 iteration(s).  Inertia=0.063057
+00:12:02 [DEBUG   ] clustering.kmedoids —   run 2/3  init=random  inertia=0.063057
+00:12:02 [DEBUG   ] clustering.kmedoids — Initial medoids: ['Romania', 'Denmark', 'Bulgaria', 'Germany', 'Sweden', 'Finland', 'Austria', 'Portugal', 'Belgium', 'Norway', 'Greece', 'Hungary', 'Poland', 'Spain', 'Italy', 'France']
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 0  inertia=0.283117
+00:12:02 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[4]=Switzerland  (inertia=0.063057)
+00:12:02 [DEBUG   ] clustering.kmedoids —   iter 1  inertia=0.063057
+00:12:02 [INFO    ] clustering.kmedoids — K-Medoids converged in 2 iteration(s).  Inertia=0.063057
+00:12:02 [DEBUG   ] clustering.kmedoids —   run 3/3  init=random  inertia=0.063057
+00:12:02 [INFO    ] clustering.kmedoids — K-Medoids complete.  k=16, best_inertia=0.0631, n_init=3
+00:12:02 [DEBUG   ] clustering.evaluation — find_best_k: k=16  sil=0.0121
+00:12:02 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:12:02] "POST /api/best_k HTTP/1.1" 200 -
+00:12:08 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:12:08] "GET /api/status HTTP/1.1" 200 -
+00:12:16 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:12:16] "GET /api/status HTTP/1.1" 200 -
+00:12:24 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:12:24] "GET /api/status HTTP/1.1" 200 -
+00:12:32 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:12:32] "GET /api/status HTTP/1.1" 200 -
+00:12:35 [INFO    ] clustering.kmedoids — K-Medoids: n=17, k=2, init=heuristic, max_iter=100, n_init=5
+00:12:35 [DEBUG   ] clustering.kmedoids — Initial medoids: ['Germany', 'Denmark']
+00:12:35 [DEBUG   ] clustering.kmedoids —   iter 0  inertia=1.792531
+00:12:35 [INFO    ] clustering.kmedoids — K-Medoids converged in 1 iteration(s).  Inertia=1.792531
+00:12:35 [DEBUG   ] clustering.kmedoids —   run 1/5  init=heuristic  inertia=1.792531
+00:12:35 [DEBUG   ] clustering.kmedoids — Initial medoids: ['Belgium', 'Italy']
+00:12:35 [DEBUG   ] clustering.kmedoids —   iter 0  inertia=2.347398
+00:12:35 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[1]=Germany  (inertia=2.032732)
+00:12:35 [DEBUG   ] clustering.kmedoids —   iter 1  inertia=2.032732
+00:12:35 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[0]=Denmark  (inertia=1.792531)
+00:12:35 [DEBUG   ] clustering.kmedoids —   iter 2  inertia=1.792531
+00:12:35 [INFO    ] clustering.kmedoids — K-Medoids converged in 3 iteration(s).  Inertia=1.792531
+00:12:35 [DEBUG   ] clustering.kmedoids —   run 2/5  init=random  inertia=1.792531
+00:12:35 [DEBUG   ] clustering.kmedoids — Initial medoids: ['Romania', 'Denmark']
+00:12:35 [DEBUG   ] clustering.kmedoids —   iter 0  inertia=2.128270
+00:12:35 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[0]=Germany  (inertia=1.792531)
+00:12:35 [DEBUG   ] clustering.kmedoids —   iter 1  inertia=1.792531
+00:12:35 [INFO    ] clustering.kmedoids — K-Medoids converged in 2 iteration(s).  Inertia=1.792531
+00:12:35 [DEBUG   ] clustering.kmedoids —   run 3/5  init=random  inertia=1.792531
+00:12:35 [DEBUG   ] clustering.kmedoids — Initial medoids: ['Hungary', 'Romania']
+00:12:35 [DEBUG   ] clustering.kmedoids —   iter 0  inertia=2.335336
+00:12:35 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[1]=Germany  (inertia=2.032410)
+00:12:35 [DEBUG   ] clustering.kmedoids —   iter 1  inertia=2.032410
+00:12:35 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[0]=Denmark  (inertia=1.792531)
+00:12:35 [DEBUG   ] clustering.kmedoids —   iter 2  inertia=1.792531
+00:12:35 [INFO    ] clustering.kmedoids — K-Medoids converged in 3 iteration(s).  Inertia=1.792531
+00:12:35 [DEBUG   ] clustering.kmedoids —   run 4/5  init=random  inertia=1.792531
+00:12:35 [DEBUG   ] clustering.kmedoids — Initial medoids: ['Bulgaria', 'Portugal']
+00:12:35 [DEBUG   ] clustering.kmedoids —   iter 0  inertia=2.837421
+00:12:35 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[0]=Germany  (inertia=1.948620)
+00:12:35 [DEBUG   ] clustering.kmedoids —   iter 1  inertia=1.948620
+00:12:35 [DEBUG   ] clustering.kmedoids —     Best swap → medoid[1]=Denmark  (inertia=1.792531)
+00:12:35 [DEBUG   ] clustering.kmedoids —   iter 2  inertia=1.792531
+00:12:35 [INFO    ] clustering.kmedoids — K-Medoids converged in 3 iteration(s).  Inertia=1.792531
+00:12:35 [DEBUG   ] clustering.kmedoids —   run 5/5  init=random  inertia=1.792531
+00:12:35 [INFO    ] clustering.kmedoids — K-Medoids complete.  k=2, best_inertia=1.7925, n_init=5
+00:12:35 [INFO    ] clustering.evaluation — Computing evaluation metrics for kmedoids result…
+00:12:35 [INFO    ] clustering.evaluation — Evaluation complete.  silhouette=0.4888  inertia=1.7925
+00:12:35 [INFO    ] clustering.pipeline — run('kmedoids', k=2) finished in 0.01s  inertia=1.7925  silhouette=0.4888
+00:12:35 [INFO    ] clustering.models — ClusterResult saved -> C:\Users\User\Desktop\IDPA PROJECT_V2\IDPA-PROJECT-2\output\clustering\kmedoids_k2.json
+00:12:35 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:12:35] "POST /api/cluster HTTP/1.1" 200 -
+00:12:36 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:12:36] "GET /api/results HTTP/1.1" 200 -
+00:12:36 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:12:36] "GET /api/results HTTP/1.1" 200 -
+00:12:36 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:12:36] "GET /api/result/kmedoids_k2.json HTTP/1.1" 200 -
+00:12:40 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:12:40] "GET /api/status HTTP/1.1" 200 -
+00:12:48 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:12:48] "GET /api/status HTTP/1.1" 200 -
+00:12:56 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:12:56] "GET /api/status HTTP/1.1" 200 -
+00:13:04 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:13:04] "GET /api/status HTTP/1.1" 200 -
+00:13:13 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:13:13] "GET /api/status HTTP/1.1" 200 -
+00:13:21 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:13:21] "GET /api/status HTTP/1.1" 200 -
+00:13:29 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:13:29] "GET /api/status HTTP/1.1" 200 -
+00:13:37 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:13:37] "GET /api/status HTTP/1.1" 200 -
+00:13:45 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:13:45] "GET /api/status HTTP/1.1" 200 -
+00:13:53 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:13:53] "GET /api/status HTTP/1.1" 200 -
+00:14:01 [INFO    ] werkzeug — 127.0.0.1 - - [19/May/2026 00:14:01] "GET /api/status HTTP/1.1" 200 -
