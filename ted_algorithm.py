@@ -1,9 +1,89 @@
 import json
+import html
 import os
+import re
 import sys
+import unicodedata
 from difflib import SequenceMatcher
+from xml.etree import ElementTree
 
 INF_COST = 999999.0  # Forbids cross-field content rename
+
+
+# Semantic preprocessing configuration. Keep these dictionaries in one place so
+# field aliases, ignored metadata, and weights can be tuned without touching TED.
+FIELD_ALIASES = {
+    "official_language": "languages.official",
+    "official_languages": "languages.official",
+    "recognized_national_languages": "languages.recognized",
+    "recognized_languages": "languages.recognized",
+    "recognised_minority_language": "languages.recognized",
+    "recognised_minority_languages": "languages.recognized",
+    "national_languages": "languages.recognized",
+    "spoken_languages": "languages.spoken",
+    "local_vernacular": "languages.spoken",
+    "national_vernacular": "languages.spoken",
+    "foreign_languages": "languages.spoken",
+    "significant_language": "languages.spoken",
+    "other_languages": "languages.spoken",
+    "special_status": "languages.recognized",
+    "ethnic_groups": "demographics.ethnic_groups",
+    "ethnic_group": "demographics.ethnic_groups",
+    "religion": "demographics.religion",
+    "religions": "demographics.religion",
+    "government_type": "politics.government",
+    "government": "politics.government",
+    "politics": "politics.government",
+    "capital": "identity.capital",
+    "capital_city": "identity.capital",
+    "capital_and_largest_city": "identity.capital",
+    "currency": "economy.currency",
+    "currencies": "economy.currency",
+    "gdp_ppp": "economy.gdp.ppp",
+    "gdp_nominal": "economy.gdp.nominal",
+    "population_estimate": "demographics.population",
+    "population_census": "demographics.population",
+    "density": "demographics.population.density",
+    "hdi": "demographics.hdi",
+    "gini": "demographics.gini",
+    "establishment": "history.establishment",
+    "establishment_history": "history.establishment",
+    "formation": "history.establishment",
+    "area": "geography.area",
+}
+
+IGNORE_FIELDS = {
+    "name", "native_name", "conventional_long_name", "common_name",
+    "infobox_title", "image_flag", "image_coat", "flag_caption",
+    "symbol_type", "national_anthem", "iso3166code", "iso_3166_code",
+    "calling_code", "cctld", "internet_tld", "drives_on",
+    "driving_side", "date_format", "utc_offset", "time_zone",
+    "summer_dst", "coordinates", "latd", "longd", "latm", "longm",
+    "leader_name", "leader_title", "president", "prime_minister",
+    "supreme_leader", "monarch", "king", "queen", "governor_general",
+    "chief_justice", "speaker", "parliament_speaker",
+    "speaker_of_the_parliament", "council_president", "assembly_president",
+    "knesset_speaker", "legislature", "largest_city", "demonym",
+    "identity.capital",
+}
+
+FIELD_WEIGHTS = {
+    "languages.official": 2.0,
+    "languages.recognized": 1.5,
+    "languages.spoken": 1.0,
+    "demographics.religion": 2.0,
+    "demographics.ethnic_groups": 1.5,
+    "politics.government": 1.5,
+    "geography.region": 2.0,
+    "geography.continent": 2.0,
+    "economy.currency": 0.8,
+    "economy.gdp": 0.5,
+    "demographics.population": 0.5,
+    "history.establishment": 0.3,
+    "geography.area": 0.8,
+    "demographics.hdi": 0.8,
+    "demographics.gini": 0.8,
+}
 
 
 # ═══════════════════════════════════════════════════════════════════════════════
@@ -11,9 +91,10 @@ INF_COST = 999999.0  # Forbids cross-field content rename
 # ═══════════════════════════════════════════════════════════════════════════════
 
 class TreeNode:
-    def __init__(self, label: str, children: list = None):
+    def __init__(self, label: str, children: list = None, weight: float = 1.0):
         self.label = label
         self.children = children if children is not None else []
+        self.weight = weight
 
     def add_child(self, child):
         self.children.append(child)
@@ -67,6 +148,221 @@ def load_tree_from_json(filepath):
         return load_tree_from_dict(json.load(f))
 
 
+def parse_country_xml(filepath):
+    """Parse a simple XML tree into TreeNode form.
+
+    The current project stores extracted infoboxes as JSON, but this keeps the
+    semantic pipeline usable if XML files are added later.
+    """
+    root_el = ElementTree.parse(filepath).getroot()
+
+    def walk(el):
+        node = TreeNode(clean_value(el.tag) or "node")
+        text = clean_value(el.text or "")
+        if text:
+            node.add_child(TreeNode(text))
+        for child in el:
+            node.add_child(walk(child))
+        return node
+
+    return walk(root_el)
+
+
+def clean_value(value: str) -> str:
+    """Clean noisy scraped labels/values before tree comparison."""
+    if value is None:
+        return ""
+    value = html.unescape(str(value))
+    value = unicodedata.normalize("NFKC", value)
+    replacements = {
+        "â€“": "-", "â€”": "-", "â€²": "'", "â€³": '"',
+        "Â°": "°", "Â": "", "\u00a0": " ",
+    }
+    for bad, good in replacements.items():
+        value = value.replace(bad, good)
+    value = re.sub(r"<[^>]+>", " ", value)
+    value = re.sub(r"\[(?:\d+|note\s*\d+|[a-zA-Z])\]", " ", value, flags=re.I)
+    value = re.sub(r"/\s*\d{1,3}(?:\.\d+)?\.?", " ", value)
+    value = re.sub(r"\d+(?:\.\d+)?°?\s*[NSEW]\b", " ", value, flags=re.I)
+    value = re.sub(r"[\u200b\u200c\u200d\ufeff]", " ", value)
+    value = re.sub(r"\s+", " ", value).strip().lower()
+    meaningless = {"", "-", "—", "n/a", "na", "none", "unknown", "see text"}
+    return "" if value in meaningless else value
+
+
+def normalize_field_name(field_name: str) -> str:
+    """Map raw field labels to canonical semantic labels."""
+    cleaned = clean_value(field_name)
+    key = cleaned.replace(" ", "_").replace("-", "_")
+    key = re.sub(r"[^\w]+", "_", key)
+    key = re.sub(r"_+", "_", key).strip("_")
+    key = re.sub(r"_\d{4}(?:_est|_estimate|_census)?$", "", key)
+    key = re.sub(r"_\d{4}_(?:est|estimate|census)$", "", key)
+    if key.startswith("ethnic_groups"):
+        return "demographics.ethnic_groups"
+    if key.startswith("religion"):
+        return "demographics.religion"
+    if key.startswith("hdi"):
+        return "demographics.hdi"
+    if key.startswith("gini"):
+        return "demographics.gini"
+    if key.endswith("_estimate") or key.endswith("_census") or "population" in key:
+        return FIELD_ALIASES.get(key, "demographics.population")
+    return FIELD_ALIASES.get(key, key)
+
+
+def should_ignore_field(field_path: str, value: str = "") -> bool:
+    parts = [p for p in field_path.lower().split(".") if p]
+    leaf = parts[-1] if parts else field_path.lower()
+    if field_path.lower() in IGNORE_FIELDS or leaf in IGNORE_FIELDS:
+        return True
+    if leaf == "capital" and re.search(r"/\s*\d", value or ""):
+        return True
+    return False
+
+
+def get_field_weight(field_path: str) -> float:
+    path = field_path.lower()
+    best_len, best_weight = -1, 1.0
+    for prefix, weight in FIELD_WEIGHTS.items():
+        if path == prefix or path.startswith(prefix + "."):
+            if len(prefix) > best_len:
+                best_len, best_weight = len(prefix), weight
+    return best_weight
+
+
+def normalize_country_tree(tree: TreeNode, debug: dict = None) -> TreeNode:
+    """Build a weighted semantic tree from a raw/preprocessed infobox tree."""
+    debug = debug if debug is not None else {}
+    debug.setdefault("fields_removed", [])
+    debug.setdefault("fields_normalized", [])
+    root = TreeNode("country", weight=1.0)
+    raw_fields = _collect_raw_fields(tree)
+
+    for raw_path, values in raw_fields:
+        canonical = _canonical_path(raw_path)
+        cleaned_values = [clean_value(v) for v in values]
+        cleaned_values = [v for v in cleaned_values if v]
+        if not cleaned_values:
+            continue
+        if should_ignore_field(canonical, " ".join(cleaned_values)):
+            debug["fields_removed"].append({"field": raw_path, "canonical": canonical})
+            continue
+        if canonical != raw_path:
+            debug["fields_normalized"].append({"from": raw_path, "to": canonical})
+        _add_semantic_field(root, canonical, cleaned_values)
+
+    _merge_duplicate_structures(root)
+    _cap_direct_value_weights(root)
+    _sort_tree(root)
+    return root
+
+
+def _collect_raw_fields(node, prefix=""):
+    fields = []
+    for child in node.children:
+        if child.is_structural():
+            path = f"{prefix}.{child.label}" if prefix else child.label
+            direct = [c.label for c in child.children if c.is_leaf()]
+            if direct:
+                fields.append((path, direct))
+            fields.extend(_collect_raw_fields(child, path))
+    return fields
+
+
+def _canonical_path(raw_path):
+    parts = [p for p in raw_path.split(".") if p and p != "country"]
+    if not parts:
+        return "country"
+    # Repair GDP rows that were scraped under population with generic siblings.
+    if parts[0] == "population":
+        leaf = parts[-1]
+        if leaf in {"gdp_ppp", "gdp_nominal"}:
+            return normalize_field_name(leaf)
+        if leaf in {"total", "per_capita"}:
+            # The original flat tree cannot always tell PPP vs nominal. Keep it
+            # under economy.gdp so it is not treated as population.
+            return f"economy.gdp.{leaf}"
+        return normalize_field_name(leaf)
+    if len(parts) == 1:
+        return normalize_field_name(parts[0])
+    head = normalize_field_name(parts[0])
+    leaf = normalize_field_name(parts[-1])
+    if head == "history.establishment":
+        return f"{head}.{leaf}"
+    if head in {"geography.area", "economy.gdp"}:
+        return f"{head}.{leaf}"
+    return leaf if "." in leaf else f"{head}.{leaf}"
+
+
+def _add_semantic_field(root, canonical_path, values):
+    current = root
+    parts = canonical_path.split(".")
+    for i, part in enumerate(parts):
+        path = ".".join(parts[:i + 1])
+        child = _find_child(current, part)
+        if not child:
+            child = current.add_child(TreeNode(part, weight=get_field_weight(path)))
+        current = child
+    if (_is_distribution_field(canonical_path) or _is_set_field(canonical_path)) and len(values) > 1:
+        values = [" | ".join(sorted(values))]
+    existing = {c.label for c in current.children if c.is_leaf()}
+    for value in values:
+        if value not in existing:
+            current.add_child(TreeNode(value, weight=get_field_weight(canonical_path)))
+            existing.add(value)
+
+
+def _find_child(node, label):
+    for child in node.children:
+        if child.label == label and child.is_structural():
+            return child
+    return None
+
+
+def _merge_duplicate_structures(node):
+    merged = {}
+    new_children = []
+    for child in node.children:
+        if child.is_structural():
+            _merge_duplicate_structures(child)
+            if child.label in merged:
+                merged[child.label].children.extend(child.children)
+            else:
+                merged[child.label] = child
+                new_children.append(child)
+        elif child.label not in {c.label for c in new_children if c.is_leaf()}:
+            new_children.append(child)
+    node.children = new_children
+
+
+def _cap_direct_value_weights(node):
+    """Keep repeated values from dominating a semantic field's total cost."""
+    direct_leaves = [c for c in node.children if c.is_leaf()]
+    if direct_leaves:
+        per_value = getattr(node, "weight", 1.0) / len(direct_leaves)
+        for leaf in direct_leaves:
+            leaf.weight = per_value
+    for child in node.children:
+        if child.is_structural():
+            _cap_direct_value_weights(child)
+
+
+def _sort_tree(node):
+    node.children.sort(key=lambda c: (0 if c.is_structural() else 1, c.label))
+    for child in node.children:
+        if child.is_structural():
+            _sort_tree(child)
+
+
+def weighted_tree_cost(root):
+    return sum(_subtree_delete_cost(c) for c in root.children) + root.weight
+
+
+def _subtree_delete_cost(node):
+    return node.weight + sum(_subtree_delete_cost(c) for c in node.children)
+
+
 def structure_only_tree(node):
     """Copy keeping only structural nodes (strips all content leaves)."""
     if node.is_leaf():
@@ -106,26 +402,89 @@ def _compute_structural_paths(root):
 # ═══════════════════════════════════════════════════════════════════════════════
 
 def insert_cost(node):
-    return 1.0
+    return getattr(node, "weight", 1.0)
 
 
 def delete_cost(node):
-    return 1.0
+    return getattr(node, "weight", 1.0)
 
 
 def rename_cost(n1, n2, paths1, paths2):
-
-    if n1.label == n2.label:
+    l1, l2 = clean_value(n1.label), clean_value(n2.label)
+    weight = (getattr(n1, "weight", 1.0) + getattr(n2, "weight", 1.0)) / 2
+    if l1 == l2:
         return 0.0
     if n1.is_structural() and n2.is_structural():
-        return 1.0
+        c1, c2 = normalize_field_name(l1), normalize_field_name(l2)
+        if c1 == c2:
+            return 0.0
+        if _related_fields(c1, c2):
+            return round(0.2 * weight, 4)
+        return weight
     if n1.is_content() and n2.is_content():
         p1 = paths1.get(id(n1), "")
         p2 = paths2.get(id(n2), "")
-        if p1 != p2:
+        canonical_path = _canonical_path(p1)
+        if canonical_path != _canonical_path(p2):
             return INF_COST  # FORBIDDEN: different structural context
-        return round(1.0 - SequenceMatcher(None, n1.label, n2.label).ratio(), 4)
+        if l1 == l2:
+            return 0.0
+        return round(_value_rename_cost(canonical_path, l1, l2, weight), 4)
     return INF_COST  # type mismatch
+
+
+def _related_fields(c1, c2):
+    p1, p2 = c1.split("."), c2.split(".")
+    if p1[0] == p2[0] and p1[0] in {
+        "languages", "demographics", "economy", "politics", "history", "geography"
+    }:
+        return True
+    return SequenceMatcher(None, c1, c2).ratio() >= 0.65
+
+
+def _value_rename_cost(path, value1, value2, weight):
+    if _is_distribution_field(path):
+        return _distribution_value_cost(value1, value2, weight)
+    if _is_numeric_field(path):
+        n1, n2 = _extract_number(value1), _extract_number(value2)
+        if n1 is not None and n2 is not None and n1 > 0 and n2 > 0:
+            return (1.0 - min(n1, n2) / max(n1, n2)) * weight
+    if _is_set_field(path):
+        sim = _set_similarity([value1], [value2])
+        if sim > 0:
+            return (1.0 - sim) * weight
+    ratio = SequenceMatcher(None, value1, value2).ratio()
+    return (1.0 - ratio) * weight
+
+
+def _distribution_value_cost(value1, value2, weight):
+    d1, d2 = _parse_distribution([value1]), _parse_distribution([value2])
+    if d1 and d2:
+        keys = set(d1) | set(d2)
+        total = sum(max(d1.get(k, 0.0), d2.get(k, 0.0)) for k in keys)
+        if total > 0:
+            overlap = sum(min(d1.get(k, 0.0), d2.get(k, 0.0)) for k in keys)
+            return (1.0 - overlap / total) * weight
+    pct1, cat1 = _split_percent_category(value1)
+    pct2, cat2 = _split_percent_category(value2)
+    if not cat1 or not cat2:
+        return (1.0 - SequenceMatcher(None, value1, value2).ratio()) * weight
+    category_overlap = _set_similarity([cat1], [cat2])
+    if category_overlap == 0:
+        category_overlap = SequenceMatcher(None, cat1, cat2).ratio()
+    percent_similarity = 1.0
+    if pct1 is not None and pct2 is not None:
+        percent_similarity = 1.0 - min(abs(pct1 - pct2) / 100.0, 1.0)
+    similarity = 0.75 * category_overlap + 0.25 * percent_similarity
+    return (1.0 - similarity) * weight
+
+
+def _split_percent_category(value):
+    m = re.search(r"(\d+(?:\.\d+)?)\s*%", value)
+    pct = float(m.group(1)) if m else None
+    category = re.sub(r"\d+(?:\.\d+)?\s*%", " ", value)
+    category = re.sub(r"[^a-z0-9]+", " ", category).strip()
+    return pct, category
 
 
 # ═══════════════════════════════════════════════════════════════════════════════
@@ -183,6 +542,56 @@ def tree_edit_distance(t1, t2):
         for kj in kr2:
             _fd(ki, kj, n1, n2, lm1, lm2, TD, p1, p2)
     return TD[sz1][sz2]
+
+
+def tree_edit_distance_legacy(t1, t2):
+    """Original unweighted Nierman-Jagadish TED behavior."""
+    p1 = _compute_structural_paths(t1)
+    p2 = _compute_structural_paths(t2)
+    n1, lm1, kr1, _ = _index_tree(t1)
+    n2, lm2, kr2, _ = _index_tree(t2)
+    sz1, sz2 = len(n1) - 1, len(n2) - 1
+    TD = [[0.0] * (sz2 + 1) for _ in range(sz1 + 1)]
+    for ki in kr1:
+        for kj in kr2:
+            _fd_legacy(ki, kj, n1, n2, lm1, lm2, TD, p1, p2)
+    return TD[sz1][sz2]
+
+
+def _fd_legacy(i, j, n1, n2, lm1, lm2, TD, p1, p2):
+    p, q = lm1[i], lm2[j]
+    m, n = i - p + 2, j - q + 2
+    FD = [[0.0] * n for _ in range(m)]
+    for s in range(1, m):
+        FD[s][0] = FD[s - 1][0] + 1.0
+    for t in range(1, n):
+        FD[0][t] = FD[0][t - 1] + 1.0
+    for s in range(1, m):
+        for t in range(1, n):
+            si, ti = s + p - 1, t + q - 1
+            cd = FD[s - 1][t] + 1.0
+            ci = FD[s][t - 1] + 1.0
+            if lm1[si] == p and lm2[ti] == q:
+                cr = FD[s - 1][t - 1] + _legacy_rename_cost(n1[si], n2[ti], p1, p2)
+                FD[s][t] = min(cd, ci, cr)
+                TD[si][ti] = FD[s][t]
+            else:
+                cs = FD[lm1[si] - p][lm2[ti] - q] + TD[si][ti]
+                FD[s][t] = min(cd, ci, cs)
+
+
+def _legacy_rename_cost(n1, n2, paths1, paths2):
+    if n1.label == n2.label:
+        return 0.0
+    if n1.is_structural() and n2.is_structural():
+        return 1.0
+    if n1.is_content() and n2.is_content():
+        p1 = paths1.get(id(n1), "")
+        p2 = paths2.get(id(n2), "")
+        if p1 != p2:
+            return INF_COST
+        return round(1.0 - SequenceMatcher(None, n1.label, n2.label).ratio(), 4)
+    return INF_COST
 
 
 def _fd(i, j, n1, n2, lm1, lm2, TD, p1, p2):
@@ -244,17 +653,267 @@ def tree_similarity(t1, t2):
     }
 
 
+def compute_similarity(t1, t2, use_semantic_preprocessing=True,
+                       save_debug_path=None, top_edits=25):
+    """Compare two countries with raw TED plus optional semantic TED.
+
+    Nierman-Jagadish TED remains the core distance algorithm. Semantic mode only
+    changes the tree representation and weighted cost model before TED runs.
+    """
+    raw_distance = tree_edit_distance_legacy(t1, t2)
+    raw_total = t1.size() + t2.size()
+    raw_similarity = 1.0 - raw_distance / raw_total if raw_total else 1.0
+    result = {
+        "raw_ted_distance": raw_distance,
+        "raw_tree_similarity": round(raw_similarity, 4),
+        "raw_tree_similarity_percent": round(raw_similarity * 100, 2),
+        "raw_tree1_size": t1.size(),
+        "raw_tree2_size": t2.size(),
+        "warning": (
+            "This score measures normalized infobox tree similarity, "
+            "not real-world geopolitical similarity."
+        ),
+    }
+    if not use_semantic_preprocessing:
+        result["semantic_preprocessing"] = False
+        return result
+
+    debug1, debug2 = {}, {}
+    nt1, nt2 = normalize_country_tree(t1, debug1), normalize_country_tree(t2, debug2)
+    distance = tree_edit_distance(nt1, nt2)
+    max_cost = weighted_tree_cost(nt1) + weighted_tree_cost(nt2)
+    weighted_similarity = 1.0 - distance / max_cost if max_cost else 1.0
+    script = compute_edit_script(nt1, nt2)
+    edits = [op for op in script if op["op"] != OP_MATCH]
+    debug = {
+        "tree1": debug1,
+        "tree2": debug2,
+        "top_edit_operations": edits[:top_edits],
+        "weighted_cost_contribution_by_field": _cost_contributions(edits),
+    }
+    result.update({
+        "semantic_preprocessing": True,
+        "semantic_ted_distance": distance,
+        "max_possible_cost": max_cost,
+        "weighted_semantic_tree_similarity": round(weighted_similarity, 4),
+        "weighted_semantic_tree_similarity_percent": round(weighted_similarity * 100, 2),
+        "semantic_tree1_size": nt1.size(),
+        "semantic_tree2_size": nt2.size(),
+        "ignored_field_count": (
+            len(debug1.get("fields_removed", [])) +
+            len(debug2.get("fields_removed", []))
+        ),
+        "fields_normalized_count": (
+            len(debug1.get("fields_normalized", [])) +
+            len(debug2.get("fields_normalized", []))
+        ),
+        "debug": debug,
+    })
+    if save_debug_path:
+        try:
+            debug_dir = os.path.dirname(save_debug_path)
+            if debug_dir:
+                os.makedirs(debug_dir, exist_ok=True)
+            with open(save_debug_path, "w", encoding="utf-8") as f:
+                json.dump(result, f, indent=2, ensure_ascii=False)
+        except OSError as exc:
+            result["debug_save_error"] = str(exc)
+    return result
+
+
+def _cost_contributions(edits):
+    totals = {}
+    for op in edits:
+        path = op.get("path") or "unknown"
+        canonical = _canonical_path(path)
+        category = ".".join(canonical.split(".")[:2]) if "." in canonical else canonical
+        totals[category] = round(totals.get(category, 0.0) + get_field_weight(canonical), 4)
+    return dict(sorted(totals.items(), key=lambda item: item[1], reverse=True))
+
+
 def _content_similarity(t1, t2):
-    """Compare leaf values only for structurally matching fields."""
+    """Compare useful leaf values only for structurally matching fields."""
     f1, f2 = _field_values(t1), _field_values(t2)
-    common = set(f1) & set(f2)
+    common = {k for k in set(f1) & set(f2) if not _skip_content_field(k)}
     if not common:
         return 0.0
     sims = []
     for k in common:
-        v1, v2 = " ".join(f1[k]), " ".join(f2[k])
-        sims.append(SequenceMatcher(None, v1, v2).ratio())
+        sims.append(_field_similarity(k, f1[k], f2[k]))
     return sum(sims) / len(sims)
+
+
+IDENTITY_CONTENT_FIELDS = {
+    "name",
+    "infobox_title",
+    "capital",
+    "capital_and_largest_city",
+    "largest_city",
+    "demonym",
+    "currency",
+    "calling_code",
+    "iso_3166_code",
+    "internet_tld",
+    "date_format",
+    "driving_side",
+}
+
+LEADER_FIELD_TERMS = {
+    "president",
+    "prime_minister",
+    "supreme_leader",
+    "monarch",
+    "king",
+    "queen",
+    "governor_general",
+    "chief_justice",
+    "speaker",
+    "parliament_speaker",
+    "council_president",
+    "assembly_president",
+}
+
+
+def _skip_content_field(path):
+    parts = path.lower().split(".")
+    leaf = parts[-1]
+    if leaf in IDENTITY_CONTENT_FIELDS or leaf in LEADER_FIELD_TERMS:
+        return True
+    return any(p in LEADER_FIELD_TERMS for p in parts)
+
+
+def _field_similarity(path, values1, values2):
+    p = path.lower()
+    if "time_zone" in p or "summer_dst" in p:
+        return _timezone_similarity(values1, values2)
+    if _is_numeric_field(p):
+        return _numeric_similarity(values1, values2)
+    if _is_distribution_field(p):
+        return _distribution_similarity(values1, values2)
+    if _is_set_field(p):
+        return _set_similarity(values1, values2)
+    if "government" in p:
+        return _government_similarity(values1, values2)
+    return SequenceMatcher(None, " ".join(values1), " ".join(values2)).ratio()
+
+
+def _is_numeric_field(path):
+    numeric_terms = (
+        "area", "population", "density", "gdp", "per_capita",
+        "gini", "hdi", "water", "estimate", "total"
+    )
+    return any(term in path for term in numeric_terms)
+
+
+def _is_distribution_field(path):
+    return "religion" in path or "ethnic_group" in path
+
+
+def _is_set_field(path):
+    set_terms = (
+        "language", "vernacular", "legislature", "upper_house",
+        "lower_house"
+    )
+    return any(term in path for term in set_terms)
+
+
+def _normalize_tokens(values):
+    text = " ".join(values).lower()
+    text = re.sub(r"\d+(?:\.\d+)?%?", " ", text)
+    text = re.sub(r"[^a-z0-9]+", " ", text)
+    stop = {
+        "and", "or", "the", "of", "other", "others", "see", "groups",
+        "languages", "language", "official", "national", "recognised",
+        "recognized", "minority"
+    }
+    return {t for t in text.split() if t and t not in stop}
+
+
+def _set_similarity(values1, values2):
+    s1, s2 = _normalize_tokens(values1), _normalize_tokens(values2)
+    if not s1 and not s2:
+        return 1.0
+    if not s1 or not s2:
+        return 0.0
+    return len(s1 & s2) / len(s1 | s2)
+
+
+def _government_similarity(values1, values2):
+    text_ratio = SequenceMatcher(None, " ".join(values1), " ".join(values2)).ratio()
+    token_ratio = _set_similarity(values1, values2)
+    return (text_ratio + token_ratio) / 2
+
+
+def _distribution_similarity(values1, values2):
+    d1, d2 = _parse_distribution(values1), _parse_distribution(values2)
+    if d1 and d2:
+        keys = set(d1) | set(d2)
+        total = sum(max(d1.get(k, 0.0), d2.get(k, 0.0)) for k in keys)
+        if total > 0:
+            overlap = sum(min(d1.get(k, 0.0), d2.get(k, 0.0)) for k in keys)
+            return overlap / total
+    return _set_similarity(values1, values2)
+
+
+def _parse_distribution(values):
+    dist = {}
+    for value in values:
+        m = re.search(r"(\d+(?:\.\d+)?)\s*%", value)
+        if not m:
+            continue
+        pct = float(m.group(1))
+        label = re.sub(r"\d+(?:\.\d+)?\s*%", " ", value.lower())
+        label = re.sub(r"[^a-z0-9]+", " ", label).strip()
+        label = " ".join(t for t in label.split()
+                         if t not in {"and", "or", "the", "of", "other", "others"})
+        if label:
+            dist[label] = dist.get(label, 0.0) + pct
+    return dist
+
+
+def _numeric_similarity(values1, values2):
+    n1, n2 = _extract_number(" ".join(values1)), _extract_number(" ".join(values2))
+    if n1 is None or n2 is None:
+        return SequenceMatcher(None, " ".join(values1), " ".join(values2)).ratio()
+    if n1 == n2:
+        return 1.0
+    if n1 <= 0 or n2 <= 0:
+        return 0.0
+    return min(n1, n2) / max(n1, n2)
+
+
+def _extract_number(text):
+    m = re.search(r"[-+]?\d[\d,]*(?:\.\d+)?", text)
+    if not m:
+        return None
+    num = float(m.group(0).replace(",", ""))
+    lower = text.lower()
+    if "trillion" in lower:
+        num *= 1_000_000_000_000
+    elif "billion" in lower:
+        num *= 1_000_000_000
+    elif "million" in lower:
+        num *= 1_000_000
+    elif "thousand" in lower:
+        num *= 1_000
+    return num
+
+
+def _timezone_similarity(values1, values2):
+    z1, z2 = _extract_utc_offset(" ".join(values1)), _extract_utc_offset(" ".join(values2))
+    if z1 is None or z2 is None:
+        return SequenceMatcher(None, " ".join(values1), " ".join(values2)).ratio()
+    return max(0.0, 1.0 - abs(z1 - z2) / 12.0)
+
+
+def _extract_utc_offset(text):
+    m = re.search(r"utc\s*([+-])\s*(\d{1,2})(?::?(\d{2}))?", text.lower())
+    if not m:
+        return None
+    sign = -1 if m.group(1) == "-" else 1
+    hours = int(m.group(2))
+    minutes = int(m.group(3) or 0)
+    return sign * (hours + minutes / 60)
 
 
 def _field_values(node, prefix=""):
@@ -262,9 +921,9 @@ def _field_values(node, prefix=""):
     for c in node.children:
         if c.is_structural():
             k = f"{prefix}.{c.label}" if prefix else c.label
-            lv = [l.label for l in c.leaves()]
-            if lv:
-                fields[k] = lv
+            direct_values = [leaf.label for leaf in c.children if leaf.is_leaf()]
+            if direct_values:
+                fields[k] = direct_values
             fields.update(_field_values(c, k))
     return fields
 
@@ -599,11 +1258,25 @@ def main():
     print("\n" + "=" * 60)
     print("  SIMILARITY")
     print("=" * 60 + "\n")
+    debug_path = os.path.join(
+        TREE_DIR,
+        f"_debug_{n1.replace(' ', '_')}_vs_{n2.replace(' ', '_')}.json"
+    )
+    sem = compute_similarity(t1, t2, use_semantic_preprocessing=True,
+                             save_debug_path=debug_path)
     sim = tree_similarity(t1, t2)
-    print(f"    TED = {sim['distance']}")
-    print(f"    Structural similarity : {sim['structural_similarity_percent']:.2f}%")
-    print(f"    Content similarity    : {sim['content_similarity_percent']:.2f}%")
-    print(f"    Overall similarity    : {sim['overall_similarity_percent']:.2f}%")
+    print(f"    Raw TED distance                : {sem['raw_ted_distance']}")
+    print(f"    Raw normalized tree similarity  : {sem['raw_tree_similarity_percent']:.2f}%")
+    print(f"    Semantic TED distance           : {sem['semantic_ted_distance']}")
+    print(f"    Weighted semantic tree similarity: "
+          f"{sem['weighted_semantic_tree_similarity_percent']:.2f}%")
+    print(f"    Raw tree sizes                  : "
+          f"{sem['raw_tree1_size']} / {sem['raw_tree2_size']}")
+    print(f"    Semantic tree sizes             : "
+          f"{sem['semantic_tree1_size']} / {sem['semantic_tree2_size']}")
+    print(f"    Ignored fields                  : {sem['ignored_field_count']}")
+    print(f"    Debug saved to                  : {debug_path}")
+    print(f"    WARNING: {sem['warning']}")
 
     # Edit script
     print("\n" + "=" * 60)

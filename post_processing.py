@@ -4,7 +4,7 @@ import sys
 
 from ted_algorithm import (
     TreeNode, load_tree_from_json, compute_edit_script,
-    tree_edit_distance, tree_similarity, print_tree
+    tree_edit_distance, tree_similarity, compute_similarity, print_tree
 )
 from tree_patching import apply_patch, verify_patch
 
@@ -268,10 +268,19 @@ def run_full_pipeline(t1: TreeNode, t2: TreeNode,
     print(f"  Step 1: Computing similarity ({name1} vs {name2})")
     print("  " + "-" * 50)
     sim = tree_similarity(t1, t2)
-    print(f"    Structural similarity : {sim['structural_similarity_percent']:.2f}%")
-    print(f"    Content similarity    : {sim['content_similarity_percent']:.2f}%")
-    print(f"    Overall similarity    : {sim['overall_similarity_percent']:.2f}%")
-    print(f"    Tree Edit Distance    : {sim['distance']}")
+    semantic = compute_similarity(t1, t2, use_semantic_preprocessing=True)
+    print(f"    Raw normalized tree similarity       : "
+          f"{semantic['raw_tree_similarity_percent']:.2f}%")
+    print(f"    Weighted semantic tree similarity    : "
+          f"{semantic['weighted_semantic_tree_similarity_percent']:.2f}%")
+    print(f"    Raw Tree Edit Distance               : {semantic['raw_ted_distance']}")
+    print(f"    Semantic Tree Edit Distance          : {semantic['semantic_ted_distance']}")
+    print(f"    Raw tree sizes                       : "
+          f"{semantic['raw_tree1_size']} / {semantic['raw_tree2_size']}")
+    print(f"    Semantic tree sizes                  : "
+          f"{semantic['semantic_tree1_size']} / {semantic['semantic_tree2_size']}")
+    print(f"    Ignored fields                       : {semantic['ignored_field_count']}")
+    print(f"    WARNING: {semantic['warning']}")
     print()
 
     # ── Step 2: Edit script ──
@@ -350,8 +359,21 @@ def run_full_pipeline(t1: TreeNode, t2: TreeNode,
             "structural": sim["structural_similarity_percent"],
             "content": sim["content_similarity_percent"],
             "overall": sim["overall_similarity_percent"],
+            "raw_tree": semantic["raw_tree_similarity_percent"],
+            "weighted_semantic_tree": semantic["weighted_semantic_tree_similarity_percent"],
         },
         "tree_edit_distance": sim["distance"],
+        "semantic_tree_edit_distance": semantic["semantic_ted_distance"],
+        "max_possible_cost": semantic["max_possible_cost"],
+        "preprocessing_stats": {
+            "raw_tree1_size": semantic["raw_tree1_size"],
+            "raw_tree2_size": semantic["raw_tree2_size"],
+            "semantic_tree1_size": semantic["semantic_tree1_size"],
+            "semantic_tree2_size": semantic["semantic_tree2_size"],
+            "ignored_field_count": semantic["ignored_field_count"],
+            "fields_normalized_count": semantic["fields_normalized_count"],
+        },
+        "debug": semantic["debug"],
         "edit_script": script
     }
     with open(diff_path, "w", encoding="utf-8") as f:
