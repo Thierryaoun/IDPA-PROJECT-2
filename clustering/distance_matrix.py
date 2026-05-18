@@ -130,6 +130,12 @@ def _filter_to_paths(nt: TreeNode, keep: frozenset) -> TreeNode:
     structural nodes (and their subtrees) whose path is in *keep*.
     Top-level containers (demographics, economy, …) are kept only when they
     have at least one retained second-level child.
+
+    Only second-level STRUCTURAL grandchildren are considered: a leaf that is a
+    direct child of a first-level container is not a second-level path and must
+    NOT be retained here — doing so would smuggle fields that are absent from
+    the shared intersection into the filtered tree, inflating its cost and
+    distorting the TED normalization.
     """
     new_root = TreeNode(nt.label, weight=nt.weight)
     for child in nt.children:
@@ -140,8 +146,12 @@ def _filter_to_paths(nt: TreeNode, keep: frozenset) -> TreeNode:
             path = f"{child.label}.{gc.label}"
             if gc.is_structural() and path in keep:
                 new_child.children.append(gc)  # keeps entire subtree
-            elif not gc.is_structural():
-                new_child.children.append(gc)  # direct leaf stays
+            # NOTE: direct leaf children of first-level nodes are intentionally
+            # NOT kept here.  They are not second-level structural paths and
+            # therefore not part of the shared intersection.  Keeping them would
+            # add country-specific artifacts (sub-region names, territory
+            # officer names, etc.) that are not present in the other tree,
+            # causing spurious deletion costs and inflated distances.
         if new_child.children:
             new_root.children.append(new_child)
     return new_root

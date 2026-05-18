@@ -70,31 +70,7 @@
           "label": "53.31% islam"
         },
         {
-          "label": "26.84% shia"
-        },
-        {
-          "label": "0.64% alawite"
-        },
-        {
-          "label": "26.55% sunni"
-        },
-        {
           "label": "41.40% christianity"
-        },
-        {
-          "label": "28.11% catholic"
-        },
-        {
-          "label": "8.30% orthodox"
-        },
-        {
-          "label": "2.92% armenian apostolic"
-        },
-        {
-          "label": "0.53% protestant"
-        },
-        {
-          "label": "1.64% other christians"
         },
         {
           "label": "5.21% druze"
@@ -156,30 +132,6 @@
       "label": "establishment",
       "children": [
         {
-          "label": "emirate_of_mount_lebanon",
-          "children": [
-            {
-              "label": "1516"
-            }
-          ]
-        },
-        {
-          "label": "double_qaim_maqamate_of_mount_lebanon",
-          "children": [
-            {
-              "label": "1 december 1843"
-            }
-          ]
-        },
-        {
-          "label": "mount_lebanon_mutasarrifate",
-          "children": [
-            {
-              "label": "9 june 1861"
-            }
-          ]
-        },
-        {
           "label": "greater_lebanon",
           "children": [
             {
@@ -200,38 +152,6 @@
           "children": [
             {
               "label": "22 november 1943"
-            }
-          ]
-        },
-        {
-          "label": "french_mandate_ended",
-          "children": [
-            {
-              "label": "24 october 1945"
-            }
-          ]
-        },
-        {
-          "label": "withdrawal_of_french_forces",
-          "children": [
-            {
-              "label": "17 april 1946"
-            }
-          ]
-        },
-        {
-          "label": "israeli_troops_withdrawn",
-          "children": [
-            {
-              "label": "24 may 2000"
-            }
-          ]
-        },
-        {
-          "label": "syrian_troops_withdrawn",
-          "children": [
-            {
-              "label": "30 april 2005"
             }
           ]
         }

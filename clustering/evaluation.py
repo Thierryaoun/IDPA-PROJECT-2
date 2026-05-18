@@ -304,19 +304,44 @@ def find_best_k(
                 result = hierarchical_clustering(dm, n_clusters=k, linkage=linkage)
 
             sil = silhouette_score(dm, result)
+
+            # Compute an adjusted silhouette that penalises highly imbalanced
+            # clusterings.  A singleton cluster (1 member) has silhouette 0 by
+            # convention, but it also inflates the silhouette of every other
+            # member — making k=2 with one outlier appear artificially optimal.
+            # We reduce the effective silhouette by 40 % for each singleton
+            # cluster (capped at an 80 % reduction total), so that a balanced
+            # k=3 or k=4 can win over a degenerate k=2.
+            sizes = [len(result.clusters[cid]) for cid in result.clusters]
+            singleton_count = sum(1 for s in sizes if s == 1)
+            if singleton_count > 0 and math.isfinite(sil):
+                penalty = min(0.8, 0.4 * singleton_count)
+                sil_adj = sil * (1.0 - penalty)
+            else:
+                sil_adj = sil
+
             scores.append({
-                "k":          k,
-                "silhouette": round(sil, 6) if math.isfinite(sil) else None,
-                "inertia":    round(result.inertia, 6) if result.inertia is not None else None,
+                "k":             k,
+                "silhouette":    round(sil, 6) if math.isfinite(sil) else None,
+                "silhouette_adj": round(sil_adj, 6) if math.isfinite(sil_adj) else None,
+                "inertia":       round(result.inertia, 6) if result.inertia is not None else None,
+                "singleton_clusters": singleton_count,
             })
-            logger.debug("find_best_k: k=%d  sil=%.4f", k, sil if math.isfinite(sil) else float("nan"))
+            logger.debug(
+                "find_best_k: k=%d  sil=%.4f  sil_adj=%.4f  singletons=%d",
+                k,
+                sil if math.isfinite(sil) else float("nan"),
+                sil_adj if math.isfinite(sil_adj) else float("nan"),
+                singleton_count,
+            )
         except Exception as exc:
             logger.warning("find_best_k: k=%d failed: %s", k, exc)
-            scores.append({"k": k, "silhouette": None, "inertia": None})
+            scores.append({"k": k, "silhouette": None, "silhouette_adj": None,
+                           "inertia": None, "singleton_clusters": 0})
 
-    valid = [s for s in scores if s["silhouette"] is not None]
+    valid = [s for s in scores if s["silhouette_adj"] is not None]
     if valid:
-        best = max(valid, key=lambda s: s["silhouette"])
+        best = max(valid, key=lambda s: s["silhouette_adj"])
         best_k   = best["k"]
         best_sil = best["silhouette"]
     else:

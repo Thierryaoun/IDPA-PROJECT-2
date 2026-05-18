@@ -29,6 +29,9 @@
       "label": "official_languages",
       "children": [
         {
+          "label": "danish"
+        },
+        {
           "label": "faroese"
         },
         {
@@ -45,13 +48,44 @@
       ]
     },
     {
+      "label": "ethnic_groups_2024",
+      "children": [
+        {
+          "label": "86.9% danish"
+        },
+        {
+          "label": "13.1% non-danish"
+        }
+      ]
+    },
+    {
+      "label": "religion_2023",
+      "children": [
+        {
+          "label": "74% christianity"
+        },
+        {
+          "label": "65% church of denmark"
+        },
+        {
+          "label": "9% other christian"
+        },
+        {
+          "label": "22% no religion"
+        },
+        {
+          "label": "4% islam"
+        }
+      ]
+    },
+    {
       "label": "demonyms",
       "children": [
         {
-          "label": "greenlander"
+          "label": "danish"
         },
         {
-          "label": "faroe islander"
+          "label": "dane"
         }
       ]
     },
@@ -163,7 +197,7 @@
       "label": "area",
       "children": [
         {
-          "label": "denmark",
+          "label": "total",
           "children": [
             {
               "label": "42,926 km"
@@ -171,18 +205,10 @@
           ]
         },
         {
-          "label": "faroe_islands",
+          "label": "water",
           "children": [
             {
-              "label": "1,396 km"
-            }
-          ]
-        },
-        {
-          "label": "greenland",
-          "children": [
-            {
-              "label": "2,166,086 km"
+              "label": "1.64"
             }
           ]
         }

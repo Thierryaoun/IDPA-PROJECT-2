@@ -1,147 +1,156 @@
 {
-  "algorithm": "kmedoids",
+  "algorithm": "hierarchical",
   "n_clusters": 2,
-  "linkage": null,
-  "inertia": 1.125231,
-  "silhouette_score": 0.126033,
+  "linkage": "average",
+  "inertia": 1.144603,
+  "silhouette_score": 0.238344,
   "assignments": [
     {
-      "label": "Argentina",
+      "label": "Ecuador",
       "cluster_id": 0,
-      "medoid": "Chile",
-      "distance_to_medoid": 0.067058
+      "medoid": "Ecuador",
+      "distance_to_medoid": 0.0
     },
     {
       "label": "Brazil",
-      "cluster_id": 0,
+      "cluster_id": 1,
       "medoid": "Chile",
       "distance_to_medoid": 0.114351
     },
     {
+      "label": "Nicaragua",
+      "cluster_id": 1,
+      "medoid": "Chile",
+      "distance_to_medoid": 0.09604
+    },
+    {
+      "label": "Paraguay",
+      "cluster_id": 1,
+      "medoid": "Chile",
+      "distance_to_medoid": 0.070218
+    },
+    {
+      "label": "Uruguay",
+      "cluster_id": 1,
+      "medoid": "Chile",
+      "distance_to_medoid": 0.061357
+    },
+    {
+      "label": "Argentina",
+      "cluster_id": 1,
+      "medoid": "Chile",
+      "distance_to_medoid": 0.067058
+    },
+    {
+      "label": "Mexico",
+      "cluster_id": 1,
+      "medoid": "Chile",
+      "distance_to_medoid": 0.066137
+    },
+    {
+      "label": "Peru",
+      "cluster_id": 1,
+      "medoid": "Chile",
+      "distance_to_medoid": 0.055185
+    },
+    {
       "label": "Chile",
-      "cluster_id": 0,
+      "cluster_id": 1,
       "medoid": "Chile",
       "distance_to_medoid": 0.0
     },
     {
       "label": "Colombia",
-      "cluster_id": 0,
+      "cluster_id": 1,
       "medoid": "Chile",
       "distance_to_medoid": 0.054665
     },
     {
-      "label": "Costa_Rica",
-      "cluster_id": 0,
-      "medoid": "Chile",
-      "distance_to_medoid": 0.076613
-    },
-    {
       "label": "Cuba",
-      "cluster_id": 0,
+      "cluster_id": 1,
       "medoid": "Chile",
       "distance_to_medoid": 0.088102
     },
     {
+      "label": "Costa_Rica",
+      "cluster_id": 1,
+      "medoid": "Chile",
+      "distance_to_medoid": 0.076613
+    },
+    {
       "label": "Dominican_Republic",
-      "cluster_id": 0,
+      "cluster_id": 1,
       "medoid": "Chile",
       "distance_to_medoid": 0.074673
     },
     {
-      "label": "Ecuador",
-      "cluster_id": 1,
-      "medoid": "Honduras",
-      "distance_to_medoid": 0.088988
-    },
-    {
-      "label": "El_Salvador",
-      "cluster_id": 1,
-      "medoid": "Honduras",
-      "distance_to_medoid": 0.07427
-    },
-    {
-      "label": "Guatemala",
-      "cluster_id": 1,
-      "medoid": "Honduras",
-      "distance_to_medoid": 0.071061
-    },
-    {
-      "label": "Honduras",
-      "cluster_id": 1,
-      "medoid": "Honduras",
-      "distance_to_medoid": 0.0
-    },
-    {
-      "label": "Mexico",
-      "cluster_id": 0,
-      "medoid": "Chile",
-      "distance_to_medoid": 0.066137
-    },
-    {
-      "label": "Nicaragua",
-      "cluster_id": 1,
-      "medoid": "Honduras",
-      "distance_to_medoid": 0.08833
-    },
-    {
       "label": "Panama",
-      "cluster_id": 0,
+      "cluster_id": 1,
       "medoid": "Chile",
       "distance_to_medoid": 0.074223
     },
     {
-      "label": "Paraguay",
-      "cluster_id": 0,
+      "label": "El_Salvador",
+      "cluster_id": 1,
       "medoid": "Chile",
-      "distance_to_medoid": 0.070218
+      "distance_to_medoid": 0.083619
     },
     {
-      "label": "Peru",
-      "cluster_id": 0,
+      "label": "Guatemala",
+      "cluster_id": 1,
       "medoid": "Chile",
-      "distance_to_medoid": 0.055185
+      "distance_to_medoid": 0.08106
     },
     {
-      "label": "Uruguay",
-      "cluster_id": 0,
+      "label": "Honduras",
+      "cluster_id": 1,
       "medoid": "Chile",
-      "distance_to_medoid": 0.061357
+      "distance_to_medoid": 0.081302
     }
   ],
   "clusters": {
     "0": [
-      "Argentina",
-      "Brazil",
-      "Chile",
-      "Colombia",
-      "Costa_Rica",
-      "Cuba",
-      "Dominican_Republic",
-      "Mexico",
-      "Panama",
-      "Paraguay",
-      "Peru",
-      "Uruguay"
+      "Ecuador"
     ],
     "1": [
-      "Ecuador",
+      "Brazil",
+      "Nicaragua",
+      "Paraguay",
+      "Uruguay",
+      "Argentina",
+      "Mexico",
+      "Peru",
+      "Chile",
+      "Colombia",
+      "Cuba",
+      "Costa_Rica",
+      "Dominican_Republic",
+      "Panama",
       "El_Salvador",
       "Guatemala",
-      "Honduras",
-      "Nicaragua"
+      "Honduras"
     ]
   },
   "medoids": {
-    "0": "Chile",
-    "1": "Honduras"
+    "0": "Ecuador",
+    "1": "Chile"
   },
   "cluster_stats": {
     "0": {
-      "size": 12,
-      "avg_distance_to_medoid": 0.066882,
+      "size": 1,
+      "avg_distance_to_medoid": 0.0,
+      "max_distance_to_medoid": 0.0,
+      "avg_pairwise_distance": 0.0,
+      "diameter": 0.0,
+      "closest_pair": null,
+      "farthest_pair": null
+    },
+    "1": {
+      "size": 16,
+      "avg_distance_to_medoid": 0.071538,
       "max_distance_to_medoid": 0.114351,
-      "avg_pairwise_distance": 0.0919,
-      "diameter": 0.135334,
+      "avg_pairwise_distance": 0.096054,
+      "diameter": 0.140043,
       "closest_pair": {
         "a": "Chile",
         "b": "Colombia",
@@ -149,33 +158,164 @@
       },
       "farthest_pair": {
         "a": "Brazil",
-        "b": "Panama",
-        "distance": 0.135334
-      }
-    },
-    "1": {
-      "size": 5,
-      "avg_distance_to_medoid": 0.06453,
-      "max_distance_to_medoid": 0.088988,
-      "avg_pairwise_distance": 0.101863,
-      "diameter": 0.145054,
-      "closest_pair": {
-        "a": "Guatemala",
-        "b": "Honduras",
-        "distance": 0.071061
-      },
-      "farthest_pair": {
-        "a": "Ecuador",
         "b": "Nicaragua",
-        "distance": 0.145054
+        "distance": 0.140043
       }
     }
   },
   "metadata": {
-    "iterations": 2,
-    "converged": true,
-    "init_method": "heuristic",
-    "seed": 42,
+    "merge_history": [
+      {
+        "step": 1,
+        "merged": [
+          2,
+          3
+        ],
+        "new_id": 17,
+        "distance": 0.054665,
+        "size": 2
+      },
+      {
+        "step": 2,
+        "merged": [
+          0,
+          11
+        ],
+        "new_id": 18,
+        "distance": 0.064922,
+        "size": 2
+      },
+      {
+        "step": 3,
+        "merged": [
+          14,
+          16
+        ],
+        "new_id": 19,
+        "distance": 0.06748,
+        "size": 2
+      },
+      {
+        "step": 4,
+        "merged": [
+          15,
+          17
+        ],
+        "new_id": 20,
+        "distance": 0.069206,
+        "size": 3
+      },
+      {
+        "step": 5,
+        "merged": [
+          9,
+          10
+        ],
+        "new_id": 21,
+        "distance": 0.071061,
+        "size": 2
+      },
+      {
+        "step": 6,
+        "merged": [
+          4,
+          6
+        ],
+        "new_id": 22,
+        "distance": 0.072897,
+        "size": 2
+      },
+      {
+        "step": 7,
+        "merged": [
+          18,
+          20
+        ],
+        "new_id": 23,
+        "distance": 0.074221,
+        "size": 5
+      },
+      {
+        "step": 8,
+        "merged": [
+          8,
+          21
+        ],
+        "new_id": 24,
+        "distance": 0.080668,
+        "size": 3
+      },
+      {
+        "step": 9,
+        "merged": [
+          19,
+          23
+        ],
+        "new_id": 25,
+        "distance": 0.082476,
+        "size": 7
+      },
+      {
+        "step": 10,
+        "merged": [
+          5,
+          22
+        ],
+        "new_id": 26,
+        "distance": 0.086376,
+        "size": 3
+      },
+      {
+        "step": 11,
+        "merged": [
+          25,
+          26
+        ],
+        "new_id": 27,
+        "distance": 0.09272,
+        "size": 10
+      },
+      {
+        "step": 12,
+        "merged": [
+          13,
+          24
+        ],
+        "new_id": 28,
+        "distance": 0.09304,
+        "size": 4
+      },
+      {
+        "step": 13,
+        "merged": [
+          27,
+          28
+        ],
+        "new_id": 29,
+        "distance": 0.096915,
+        "size": 14
+      },
+      {
+        "step": 14,
+        "merged": [
+          12,
+          29
+        ],
+        "new_id": 30,
+        "distance": 0.105974,
+        "size": 15
+      },
+      {
+        "step": 15,
+        "merged": [
+          1,
+          30
+        ],
+        "new_id": 31,
+        "distance": 0.124424,
+        "size": 16
+      }
+    ],
     "matrix_id": "b9364e5e1d52",
     "matrix_labels": [
       "Argentina",
@@ -196,11 +336,10 @@
       "Peru",
       "Uruguay"
     ],
-    "n_init": 5,
-    "run_time_seconds": 0.007,
+    "run_time_seconds": 0.002,
     "n_documents": 17,
     "inter_cluster_distances": {
-      "0,1": 0.081302
+      "0,1": 0.113428
     },
     "nearest_neighbors": {
       "Argentina": [
@@ -208,31 +347,31 @@
           "label": "Mexico",
           "distance": 0.064922,
           "same_cluster": true,
-          "cluster_id": 0
+          "cluster_id": 1
         },
         {
           "label": "Chile",
           "distance": 0.067058,
           "same_cluster": true,
-          "cluster_id": 0
+          "cluster_id": 1
         },
         {
           "label": "Peru",
           "distance": 0.076348,
           "same_cluster": true,
-          "cluster_id": 0
+          "cluster_id": 1
         },
         {
           "label": "Uruguay",
           "distance": 0.07759,
           "same_cluster": true,
-          "cluster_id": 0
+          "cluster_id": 1
         },
         {
           "label": "Colombia",
           "distance": 0.087268,
           "same_cluster": true,
-          "cluster_id": 0
+          "cluster_id": 1
         }
       ],
       "Brazil": [
@@ -240,31 +379,31 @@
           "label": "Mexico",
           "distance": 0.094529,
           "same_cluster": true,
-          "cluster_id": 0
+          "cluster_id": 1
         },
         {
           "label": "Argentina",
           "distance": 0.103128,
           "same_cluster": true,
-          "cluster_id": 0
+          "cluster_id": 1
         },
         {
           "label": "Uruguay",
           "distance": 0.112321,
           "same_cluster": true,
-          "cluster_id": 0
+          "cluster_id": 1
         },
         {
           "label": "Chile",
           "distance": 0.114351,
           "same_cluster": true,
-          "cluster_id": 0
+          "cluster_id": 1
         },
         {
           "label": "Paraguay",
           "distance": 0.117902,
           "same_cluster": true,
-          "cluster_id": 0
+          "cluster_id": 1
         }
       ],
       "Chile": [
@@ -272,31 +411,31 @@
           "label": "Colombia",
           "distance": 0.054665,
           "same_cluster": true,
-          "cluster_id": 0
+          "cluster_id": 1
         },
         {
           "label": "Peru",
           "distance": 0.055185,
           "same_cluster": true,
-          "cluster_id": 0
+          "cluster_id": 1
         },
         {
           "label": "Uruguay",
           "distance": 0.061357,
           "same_cluster": true,
-          "cluster_id": 0
+          "cluster_id": 1
         },
         {
           "label": "Mexico",
           "distance": 0.066137,
           "same_cluster": true,
-          "cluster_id": 0
+          "cluster_id": 1
         },
         {
           "label": "Argentina",
           "distance": 0.067058,
           "same_cluster": true,
-          "cluster_id": 0
+          "cluster_id": 1
         }
       ],
       "Colombia": [
@@ -304,31 +443,31 @@
           "label": "Chile",
           "distance": 0.054665,
           "same_cluster": true,
-          "cluster_id": 0
+          "cluster_id": 1
         },
         {
           "label": "Mexico",
           "distance": 0.074718,
           "same_cluster": true,
-          "cluster_id": 0
+          "cluster_id": 1
         },
         {
           "label": "Paraguay",
           "distance": 0.077197,
           "same_cluster": true,
-          "cluster_id": 0
+          "cluster_id": 1
         },
         {
           "label": "Peru",
           "distance": 0.083226,
           "same_cluster": true,
-          "cluster_id": 0
+          "cluster_id": 1
         },
         {
           "label": "Argentina",
           "distance": 0.087268,
           "same_cluster": true,
-          "cluster_id": 0
+          "cluster_id": 1
         }
       ],
       "Costa_Rica": [
@@ -336,31 +475,31 @@
           "label": "Dominican_Republic",
           "distance": 0.072897,
           "same_cluster": true,
-          "cluster_id": 0
+          "cluster_id": 1
         },
         {
           "label": "Chile",
           "distance": 0.076613,
           "same_cluster": true,
-          "cluster_id": 0
+          "cluster_id": 1
         },
         {
           "label": "Uruguay",
           "distance": 0.08589,
           "same_cluster": true,
-          "cluster_id": 0
+          "cluster_id": 1
         },
         {
           "label": "Cuba",
           "distance": 0.088601,
           "same_cluster": true,
-          "cluster_id": 0
+          "cluster_id": 1
         },
         {
           "label": "Paraguay",
           "distance": 0.092401,
           "same_cluster": true,
-          "cluster_id": 0
+          "cluster_id": 1
         }
       ],
       "Cuba": [
@@ -368,31 +507,31 @@
           "label": "Dominican_Republic",
           "distance": 0.084151,
           "same_cluster": true,
-          "cluster_id": 0
+          "cluster_id": 1
         },
         {
           "label": "Mexico",
           "distance": 0.087708,
           "same_cluster": true,
-          "cluster_id": 0
+          "cluster_id": 1
         },
         {
           "label": "Chile",
           "distance": 0.088102,
           "same_cluster": true,
-          "cluster_id": 0
+          "cluster_id": 1
         },
         {
           "label": "Costa_Rica",
           "distance": 0.088601,
           "same_cluster": true,
-          "cluster_id": 0
+          "cluster_id": 1
         },
         {
           "label": "Uruguay",
           "distance": 0.088685,
           "same_cluster": true,
-          "cluster_id": 0
+          "cluster_id": 1
         }
       ],
       "Dominican_Republic": [
@@ -400,63 +539,63 @@
           "label": "Costa_Rica",
           "distance": 0.072897,
           "same_cluster": true,
-          "cluster_id": 0
+          "cluster_id": 1
         },
         {
           "label": "Chile",
           "distance": 0.074673,
           "same_cluster": true,
-          "cluster_id": 0
+          "cluster_id": 1
         },
         {
           "label": "Guatemala",
           "distance": 0.083132,
-          "same_cluster": false,
+          "same_cluster": true,
           "cluster_id": 1
         },
         {
           "label": "Cuba",
           "distance": 0.084151,
           "same_cluster": true,
-          "cluster_id": 0
+          "cluster_id": 1
         },
         {
           "label": "Mexico",
           "distance": 0.085195,
           "same_cluster": true,
-          "cluster_id": 0
+          "cluster_id": 1
         }
       ],
       "Ecuador": [
         {
           "label": "Honduras",
           "distance": 0.088988,
-          "same_cluster": true,
+          "same_cluster": false,
           "cluster_id": 1
         },
         {
           "label": "Chile",
           "distance": 0.113428,
           "same_cluster": false,
-          "cluster_id": 0
+          "cluster_id": 1
         },
         {
           "label": "Guatemala",
           "distance": 0.117032,
-          "same_cluster": true,
+          "same_cluster": false,
           "cluster_id": 1
         },
         {
           "label": "Panama",
           "distance": 0.121081,
           "same_cluster": false,
-          "cluster_id": 0
+          "cluster_id": 1
         },
         {
           "label": "Paraguay",
           "distance": 0.122811,
           "same_cluster": false,
-          "cluster_id": 0
+          "cluster_id": 1
         }
       ],
       "El_Salvador": [
@@ -469,8 +608,8 @@
         {
           "label": "Chile",
           "distance": 0.083619,
-          "same_cluster": false,
-          "cluster_id": 0
+          "same_cluster": true,
+          "cluster_id": 1
         },
         {
           "label": "Guatemala",
@@ -481,14 +620,14 @@
         {
           "label": "Dominican_Republic",
           "distance": 0.087452,
-          "same_cluster": false,
-          "cluster_id": 0
+          "same_cluster": true,
+          "cluster_id": 1
         },
         {
           "label": "Uruguay",
           "distance": 0.090559,
-          "same_cluster": false,
-          "cluster_id": 0
+          "same_cluster": true,
+          "cluster_id": 1
         }
       ],
       "Guatemala": [
@@ -501,14 +640,14 @@
         {
           "label": "Chile",
           "distance": 0.08106,
-          "same_cluster": false,
-          "cluster_id": 0
+          "same_cluster": true,
+          "cluster_id": 1
         },
         {
           "label": "Dominican_Republic",
           "distance": 0.083132,
-          "same_cluster": false,
-          "cluster_id": 0
+          "same_cluster": true,
+          "cluster_id": 1
         },
         {
           "label": "El_Salvador",
@@ -519,8 +658,8 @@
         {
           "label": "Cuba",
           "distance": 0.089489,
-          "same_cluster": false,
-          "cluster_id": 0
+          "same_cluster": true,
+          "cluster_id": 1
         }
       ],
       "Honduras": [
@@ -539,8 +678,8 @@
         {
           "label": "Chile",
           "distance": 0.081302,
-          "same_cluster": false,
-          "cluster_id": 0
+          "same_cluster": true,
+          "cluster_id": 1
         },
         {
           "label": "Nicaragua",
@@ -551,8 +690,8 @@
         {
           "label": "Ecuador",
           "distance": 0.088988,
-          "same_cluster": true,
-          "cluster_id": 1
+          "same_cluster": false,
+          "cluster_id": 0
         }
       ],
       "Mexico": [
@@ -560,31 +699,31 @@
           "label": "Argentina",
           "distance": 0.064922,
           "same_cluster": true,
-          "cluster_id": 0
+          "cluster_id": 1
         },
         {
           "label": "Chile",
           "distance": 0.066137,
           "same_cluster": true,
-          "cluster_id": 0
+          "cluster_id": 1
         },
         {
           "label": "Peru",
           "distance": 0.073796,
           "same_cluster": true,
-          "cluster_id": 0
+          "cluster_id": 1
         },
         {
           "label": "Colombia",
           "distance": 0.074718,
           "same_cluster": true,
-          "cluster_id": 0
+          "cluster_id": 1
         },
         {
           "label": "Uruguay",
           "distance": 0.083874,
           "same_cluster": true,
-          "cluster_id": 0
+          "cluster_id": 1
         }
       ],
       "Nicaragua": [
@@ -597,20 +736,20 @@
         {
           "label": "Chile",
           "distance": 0.09604,
-          "same_cluster": false,
-          "cluster_id": 0
+          "same_cluster": true,
+          "cluster_id": 1
         },
         {
           "label": "Cuba",
           "distance": 0.096111,
-          "same_cluster": false,
-          "cluster_id": 0
+          "same_cluster": true,
+          "cluster_id": 1
         },
         {
           "label": "Paraguay",
           "distance": 0.098072,
-          "same_cluster": false,
-          "cluster_id": 0
+          "same_cluster": true,
+          "cluster_id": 1
         },
         {
           "label": "El_Salvador",
@@ -624,31 +763,31 @@
           "label": "Chile",
           "distance": 0.074223,
           "same_cluster": true,
-          "cluster_id": 0
+          "cluster_id": 1
         },
         {
           "label": "Uruguay",
           "distance": 0.085797,
           "same_cluster": true,
-          "cluster_id": 0
+          "cluster_id": 1
         },
         {
           "label": "Paraguay",
           "distance": 0.087236,
           "same_cluster": true,
-          "cluster_id": 0
+          "cluster_id": 1
         },
         {
           "label": "Honduras",
           "distance": 0.089044,
-          "same_cluster": false,
+          "same_cluster": true,
           "cluster_id": 1
         },
         {
           "label": "Dominican_Republic",
           "distance": 0.093255,
           "same_cluster": true,
-          "cluster_id": 0
+          "cluster_id": 1
         }
       ],
       "Paraguay": [
@@ -656,31 +795,31 @@
           "label": "Uruguay",
           "distance": 0.06748,
           "same_cluster": true,
-          "cluster_id": 0
+          "cluster_id": 1
         },
         {
           "label": "Chile",
           "distance": 0.070218,
           "same_cluster": true,
-          "cluster_id": 0
+          "cluster_id": 1
         },
         {
           "label": "Colombia",
           "distance": 0.077197,
           "same_cluster": true,
-          "cluster_id": 0
+          "cluster_id": 1
         },
         {
           "label": "Peru",
           "distance": 0.082639,
           "same_cluster": true,
-          "cluster_id": 0
+          "cluster_id": 1
         },
         {
           "label": "Panama",
           "distance": 0.087236,
           "same_cluster": true,
-          "cluster_id": 0
+          "cluster_id": 1
         }
       ],
       "Peru": [
@@ -688,31 +827,31 @@
           "label": "Chile",
           "distance": 0.055185,
           "same_cluster": true,
-          "cluster_id": 0
+          "cluster_id": 1
         },
         {
           "label": "Mexico",
           "distance": 0.073796,
           "same_cluster": true,
-          "cluster_id": 0
+          "cluster_id": 1
         },
         {
           "label": "Argentina",
           "distance": 0.076348,
           "same_cluster": true,
-          "cluster_id": 0
+          "cluster_id": 1
         },
         {
           "label": "Paraguay",
           "distance": 0.082639,
           "same_cluster": true,
-          "cluster_id": 0
+          "cluster_id": 1
         },
         {
           "label": "Colombia",
           "distance": 0.083226,
           "same_cluster": true,
-          "cluster_id": 0
+          "cluster_id": 1
         }
       ],
       "Uruguay": [
@@ -720,31 +859,31 @@
           "label": "Chile",
           "distance": 0.061357,
           "same_cluster": true,
-          "cluster_id": 0
+          "cluster_id": 1
         },
         {
           "label": "Paraguay",
           "distance": 0.06748,
           "same_cluster": true,
-          "cluster_id": 0
+          "cluster_id": 1
         },
         {
           "label": "Argentina",
           "distance": 0.07759,
           "same_cluster": true,
-          "cluster_id": 0
+          "cluster_id": 1
         },
         {
           "label": "Mexico",
           "distance": 0.083874,
           "same_cluster": true,
-          "cluster_id": 0
+          "cluster_id": 1
         },
         {
           "label": "Panama",
           "distance": 0.085797,
           "same_cluster": true,
-          "cluster_id": 0
+          "cluster_id": 1
         }
       ]
     }

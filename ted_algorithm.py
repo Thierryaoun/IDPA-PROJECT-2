@@ -33,6 +33,12 @@ FIELD_ALIASES = {
     "co_official_language": "languages.recognized",
     "minority_languages": "languages.recognized",
     "minority_language": "languages.recognized",
+    "recognised_regional_languages": "languages.recognized",
+    "recognised_regional_language": "languages.recognized",
+    "recognized_regional_languages": "languages.recognized",
+    "recognized_regional_language": "languages.recognized",
+    "regional_official_languages": "languages.recognized",
+    "regional_official_language": "languages.recognized",
     "spoken_languages": "languages.spoken",
     "local_vernacular": "languages.spoken",
     "national_vernacular": "languages.spoken",
@@ -101,6 +107,13 @@ IGNORE_FIELDS = {
     "emperor", "empress", "sultan", "caliph", "head_of_state", "head_of_government",
     "president_of_the_senate", "president_of_the_national_assembly",
     "president_of_the_congress_of_deputies",
+    # Constituent territory / overseas territory fields — country-specific structural
+    # feature that is not comparable across countries (Denmark, France, Netherlands, etc.)
+    "constituent_territories", "constituent_territories_non_sovereign_parts",
+    "non_sovereign_constituent_countries", "overseas_territories",
+    "constituent_countries", "autonomous_regions",
+    # Area sub-region labels that appear as first-level nodes in multi-territory states
+    "area_rank",
 }
 
 FIELD_WEIGHTS = {
@@ -223,7 +236,12 @@ def clean_value(value: str) -> str:
     value = re.sub(r"[\u200b\u200c\u200d\ufeff]", " ", value)
     value = re.sub(r"\s+", " ", value).strip().lower()
     meaningless = {"", "-", "—", "n/a", "na", "none", "unknown", "see text"}
-    return "" if value in meaningless else value
+    if value in meaningless:
+        return ""
+    # "see languages of france", "see list of ...", etc. — Wikipedia cross-references
+    if re.match(r"^see\b", value):
+        return ""
+    return value
 
 
 def normalize_field_name(field_name: str) -> str:
@@ -263,9 +281,12 @@ def should_ignore_field(field_path: str, value: str = "") -> bool:
     # Any field naming a specific government officer: "president_of_the_X", "chief_X_of_the_Y",
     # "speaker_of_the_X", etc.  These are leader names in disguise.
     _OFFICER_PREFIXES = (
-        "president_of_the_", "speaker_of_the_", "chair_of_the_",
+        "president_of_the_", "president_of_",
+        "prime_minister_of_", "prime_minister_of_the_",
+        "speaker_of_the_", "chair_of_the_",
         "chief_justice_of_the_", "secretary_of_the_", "minister_of_the_",
         "director_of_the_", "head_of_the_", "commissioner_of_the_",
+        "chancellor_of_", "governor_of_", "governor_general_of_",
     )
     if any(leaf.startswith(p) for p in _OFFICER_PREFIXES):
         return True
@@ -328,6 +349,21 @@ def normalize_country_tree(
         if should_ignore_field(canonical, " ".join(cleaned_values)):
             debug["fields_removed"].append({"field": raw_path, "canonical": canonical})
             continue
+        # Strip metadata noise from demographic/population fields.
+        # Some infoboxes (e.g. France) bundle calling codes, TLDs, ISO codes,
+        # and timezone strings as siblings of actual population figures under
+        # the same "population" structural node. Remove these non-population
+        # values so they don't inflate the cost of that field.
+        if canonical.startswith("demographics.population"):
+            cleaned_values = [
+                v for v in cleaned_values
+                if not re.match(r"^\+\d", v)               # calling codes: +33, +44
+                and not re.match(r"^\.[a-z]{2,3}$", v)     # internet TLDs: .fr, .de
+                and not re.match(r"^[a-z]{2,3}$", v)       # ISO-2/3 codes: fr, de, fra
+                and "utc" not in v                          # timezone strings: utc+1, utc 0
+            ]
+            if not cleaned_values:
+                continue
         # Field filter: skip fields not in the selected set
         if field_filter is not None and not _field_matches_filter(canonical, field_filter):
             continue
@@ -366,7 +402,17 @@ def _canonical_path(raw_path):
             # The original flat tree cannot always tell PPP vs nominal. Keep it
             # under economy.gdp so it is not treated as population.
             return f"economy.gdp.{leaf}"
-        return normalize_field_name(leaf)
+        canon = normalize_field_name(leaf)
+        if "." in canon:
+            # Properly mapped to a known multi-level path (e.g. density →
+            # demographics.population.density, hdi → demographics.hdi).
+            return canon
+        # Unknown leaf under "population" — typically a sub-region name such as
+        # "population.denmark" or "population.greenland_and_faroe_islands".
+        # These are country-specific breakdowns of the total population; fold
+        # them into the generic population field so they don't become spurious
+        # top-level nodes in the semantic tree.
+        return "demographics.population"
     if len(parts) == 1:
         return normalize_field_name(parts[0])
     head = normalize_field_name(parts[0])
