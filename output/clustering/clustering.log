@@ -915,3 +915,155 @@
 19:27:11 [DEBUG   ] clustering.kmedoids —   iter 0  inertia=2.790000
 19:27:11 [INFO    ] clustering.kmedoids — K-Medoids converged in 1 iteration(s).  Inertia=2.790000
 19:27:11 [INFO    ] clustering.kmedoids — K-Medoids complete.  k=1, inertia=2.7900, iters=1
+19:28:58 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 19:28:58] "GET / HTTP/1.1" 200 -
+19:28:58 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 19:28:58] "GET /static/css/main.css HTTP/1.1" 200 -
+19:28:59 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 19:28:59] "GET /static/js/api.js HTTP/1.1" 200 -
+19:28:59 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 19:28:59] "GET /static/js/app.js HTTP/1.1" 200 -
+19:28:59 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 19:28:59] "GET /static/js/charts/clustermap.js HTTP/1.1" 200 -
+19:28:59 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 19:28:59] "GET /static/js/charts/heatmap.js HTTP/1.1" 200 -
+19:28:59 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 19:28:59] "GET /static/js/charts/dendrogram.js HTTP/1.1" 200 -
+19:28:59 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 19:28:59] "GET /api/status HTTP/1.1" 200 -
+19:29:00 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 19:29:00] "GET /api/countries HTTP/1.1" 200 -
+19:29:00 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 19:29:00] "GET /api/results HTTP/1.1" 200 -
+19:29:08 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 19:29:08] "GET /api/status HTTP/1.1" 200 -
+19:29:10 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 19:29:10] "POST /api/matrix/start HTTP/1.1" 200 -
+19:29:10 [INFO    ] clustering.distance_matrix — Loaded 12 country trees from 'C:\\Users\\User\\Desktop\\IDPA PROJECT_V2\\IDPA-PROJECT-2\\preprocessed_trees'
+19:29:10 [INFO    ] clustering.pipeline — 12 trees loaded.
+19:29:10 [INFO    ] clustering.distance_matrix — Loading cached distance matrix from 'C:\\Users\\User\\Desktop\\IDPA PROJECT_V2\\IDPA-PROJECT-2\\output\\clustering\\distance_matrix.json'
+19:29:10 [INFO    ] clustering.models — Distance matrix loaded <- C:\Users\User\Desktop\IDPA PROJECT_V2\IDPA-PROJECT-2\output\clustering\distance_matrix.json  (17x17)
+19:29:10 [WARNING ] clustering.distance_matrix — Cached matrix labels differ from loaded trees — recomputing.
+19:29:10 [INFO    ] clustering.distance_matrix — Computing semantic distance matrix for 12 documents (66 pairs)…
+19:29:10 [INFO    ] clustering.distance_matrix — Pre-normalizing trees…
+19:29:12 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 19:29:12] "GET /api/job/960b09f8 HTTP/1.1" 200 -
+19:29:13 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 19:29:13] "GET /api/job/960b09f8 HTTP/1.1" 200 -
+19:29:13 [INFO    ] clustering.distance_matrix — Matrix stats: {'n': 12, 'pairs': 66, 'min': 0.195275, 'max': 0.414096, 'mean': 0.302929, 'std': 0.04917}
+19:29:13 [INFO    ] clustering.models — Distance matrix saved -> C:\Users\User\Desktop\IDPA PROJECT_V2\IDPA-PROJECT-2\output\clustering\distance_matrix.json  (12x12)
+19:29:14 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 19:29:14] "GET /api/job/960b09f8 HTTP/1.1" 200 -
+19:29:14 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 19:29:14] "GET /api/status HTTP/1.1" 200 -
+19:29:14 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 19:29:14] "GET /api/matrix HTTP/1.1" 200 -
+19:29:16 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 19:29:16] "GET /api/status HTTP/1.1" 200 -
+19:29:24 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 19:29:24] "GET /api/status HTTP/1.1" 200 -
+19:29:32 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 19:29:32] "GET /api/status HTTP/1.1" 200 -
+19:29:34 [INFO    ] clustering.hierarchical — HAC: n=12, k=3, linkage=complete
+19:29:34 [DEBUG   ] clustering.hierarchical —   Merged clusters 5+8 → 12  (dist=0.1953, size=2)
+19:29:34 [DEBUG   ] clustering.hierarchical —   Merged clusters 6+10 → 13  (dist=0.1986, size=2)
+19:29:34 [DEBUG   ] clustering.hierarchical —   Merged clusters 3+13 → 14  (dist=0.2166, size=3)
+19:29:34 [DEBUG   ] clustering.hierarchical —   Merged clusters 1+2 → 15  (dist=0.2407, size=2)
+19:29:34 [DEBUG   ] clustering.hierarchical —   Merged clusters 9+12 → 16  (dist=0.2523, size=3)
+19:29:34 [DEBUG   ] clustering.hierarchical —   Merged clusters 4+15 → 17  (dist=0.2588, size=3)
+19:29:34 [DEBUG   ] clustering.hierarchical —   Merged clusters 7+17 → 18  (dist=0.2925, size=4)
+19:29:34 [DEBUG   ] clustering.hierarchical —   Merged clusters 0+11 → 19  (dist=0.2930, size=2)
+19:29:34 [DEBUG   ] clustering.hierarchical —   Merged clusters 14+16 → 20  (dist=0.2967, size=6)
+19:29:34 [INFO    ] clustering.hierarchical — HAC complete.  Inertia=2.2340
+19:29:34 [INFO    ] clustering.evaluation — Computing evaluation metrics for hierarchical result…
+19:29:34 [INFO    ] clustering.evaluation — Evaluation complete.  silhouette=0.1458  inertia=2.2340
+19:29:34 [INFO    ] clustering.pipeline — run('hierarchical', k=3) finished in 0.00s  inertia=2.2340  silhouette=0.1458
+19:29:34 [INFO    ] clustering.models — ClusterResult saved -> C:\Users\User\Desktop\IDPA PROJECT_V2\IDPA-PROJECT-2\output\clustering\hierarchical_k3.json
+19:29:34 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 19:29:34] "POST /api/cluster HTTP/1.1" 200 -
+19:29:34 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 19:29:34] "GET /api/results HTTP/1.1" 200 -
+19:29:34 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 19:29:34] "GET /api/results HTTP/1.1" 200 -
+19:29:34 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 19:29:34] "GET /api/result/hierarchical_k3.json HTTP/1.1" 200 -
+19:29:40 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 19:29:40] "GET /api/status HTTP/1.1" 200 -
+19:29:48 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 19:29:48] "GET /api/status HTTP/1.1" 200 -
+19:29:56 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 19:29:56] "GET /api/status HTTP/1.1" 200 -
+19:30:04 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 19:30:04] "GET /api/status HTTP/1.1" 200 -
+19:30:12 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 19:30:12] "GET /api/status HTTP/1.1" 200 -
+19:30:20 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 19:30:20] "GET /api/status HTTP/1.1" 200 -
+19:30:28 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 19:30:28] "GET /api/status HTTP/1.1" 200 -
+19:30:36 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 19:30:36] "GET /api/status HTTP/1.1" 200 -
+19:30:40 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 19:30:40] "GET /api/result/hierarchical_k5_demo.json HTTP/1.1" 200 -
+19:30:41 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 19:30:41] "GET /api/matrix?n=23 HTTP/1.1" 200 -
+19:30:44 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 19:30:44] "GET /api/status HTTP/1.1" 200 -
+19:30:46 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 19:30:46] "GET /api/result/hierarchical_k3.json HTTP/1.1" 200 -
+19:30:46 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 19:30:46] "GET /api/matrix?n=12 HTTP/1.1" 200 -
+19:30:52 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 19:30:52] "GET /api/status HTTP/1.1" 200 -
+19:31:01 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 19:31:01] "GET /api/status HTTP/1.1" 200 -
+19:31:09 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 19:31:09] "GET /api/status HTTP/1.1" 200 -
+19:31:17 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 19:31:17] "GET /api/status HTTP/1.1" 200 -
+19:31:25 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 19:31:25] "GET /api/status HTTP/1.1" 200 -
+19:31:33 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 19:31:33] "GET /api/status HTTP/1.1" 200 -
+19:31:41 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 19:31:41] "GET /api/status HTTP/1.1" 200 -
+19:31:49 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 19:31:49] "GET /api/status HTTP/1.1" 200 -
+19:32:07 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 19:32:07] "GET /api/status HTTP/1.1" 200 -
+19:32:12 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 19:32:12] "GET /api/status HTTP/1.1" 200 -
+19:32:20 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 19:32:20] "GET /api/status HTTP/1.1" 200 -
+19:32:28 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 19:32:28] "GET /api/status HTTP/1.1" 200 -
+19:32:36 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 19:32:36] "GET /api/status HTTP/1.1" 200 -
+19:32:41 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 19:32:41] "POST /api/matrix/start HTTP/1.1" 200 -
+19:32:41 [INFO    ] clustering.distance_matrix — Loaded 6 country trees from 'C:\\Users\\User\\Desktop\\IDPA PROJECT_V2\\IDPA-PROJECT-2\\preprocessed_trees'
+19:32:41 [INFO    ] clustering.pipeline — 6 trees loaded.
+19:32:41 [INFO    ] clustering.distance_matrix — Loading cached distance matrix from 'C:\\Users\\User\\Desktop\\IDPA PROJECT_V2\\IDPA-PROJECT-2\\output\\clustering\\distance_matrix.json'
+19:32:41 [INFO    ] clustering.models — Distance matrix loaded <- C:\Users\User\Desktop\IDPA PROJECT_V2\IDPA-PROJECT-2\output\clustering\distance_matrix.json  (12x12)
+19:32:41 [WARNING ] clustering.distance_matrix — Cached matrix labels differ from loaded trees — recomputing.
+19:32:41 [INFO    ] clustering.distance_matrix — Computing semantic distance matrix for 6 documents (15 pairs)…
+19:32:41 [INFO    ] clustering.distance_matrix — Pre-normalizing trees…
+19:32:42 [INFO    ] clustering.distance_matrix — Matrix stats: {'n': 6, 'pairs': 15, 'min': 0.198585, 'max': 0.489278, 'mean': 0.388673, 'std': 0.074868}
+19:32:42 [INFO    ] clustering.models — Distance matrix saved -> C:\Users\User\Desktop\IDPA PROJECT_V2\IDPA-PROJECT-2\output\clustering\distance_matrix.json  (6x6)
+19:32:42 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 19:32:42] "GET /api/job/fc6c16fc HTTP/1.1" 200 -
+19:32:42 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 19:32:42] "GET /api/status HTTP/1.1" 200 -
+19:32:43 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 19:32:43] "GET /api/matrix HTTP/1.1" 200 -
+19:32:44 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 19:32:44] "GET /api/status HTTP/1.1" 200 -
+19:32:52 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 19:32:52] "GET /api/status HTTP/1.1" 200 -
+19:32:53 [INFO    ] clustering.kmedoids — K-Medoids: n=6, k=2, init=heuristic, max_iter=100
+19:32:53 [DEBUG   ] clustering.kmedoids — Initial medoids: ['Egypt', 'Switzerland']
+19:32:53 [DEBUG   ] clustering.kmedoids —   iter 0  inertia=1.335787
+19:32:53 [DEBUG   ] clustering.kmedoids —     Swap medoid[0]=Egypt → Lebanon  (inertia=1.301225)
+19:32:53 [DEBUG   ] clustering.kmedoids —   iter 1  inertia=1.301225
+19:32:53 [DEBUG   ] clustering.kmedoids —     Swap medoid[1]=Switzerland → Egypt  (inertia=1.293810)
+19:32:53 [DEBUG   ] clustering.kmedoids —   iter 2  inertia=1.293810
+19:32:53 [INFO    ] clustering.kmedoids — K-Medoids converged in 3 iteration(s).  Inertia=1.293810
+19:32:53 [INFO    ] clustering.kmedoids — K-Medoids complete.  k=2, inertia=1.2938, iters=3
+19:32:53 [INFO    ] clustering.evaluation — Computing evaluation metrics for kmedoids result…
+19:32:53 [INFO    ] clustering.evaluation — Evaluation complete.  silhouette=0.1763  inertia=1.2938
+19:32:53 [INFO    ] clustering.pipeline — run('kmedoids', k=2) finished in 0.00s  inertia=1.2938  silhouette=0.1763
+19:32:53 [INFO    ] clustering.models — ClusterResult saved -> C:\Users\User\Desktop\IDPA PROJECT_V2\IDPA-PROJECT-2\output\clustering\kmedoids_k2.json
+19:32:53 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 19:32:53] "POST /api/cluster HTTP/1.1" 200 -
+19:32:54 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 19:32:54] "GET /api/results HTTP/1.1" 200 -
+19:32:54 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 19:32:54] "GET /api/result/kmedoids_k2.json HTTP/1.1" 200 -
+19:32:54 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 19:32:54] "GET /api/results HTTP/1.1" 200 -
+19:33:00 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 19:33:00] "GET /api/status HTTP/1.1" 200 -
+19:33:08 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 19:33:08] "GET /api/status HTTP/1.1" 200 -
+19:33:16 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 19:33:16] "GET /api/status HTTP/1.1" 200 -
+19:33:24 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 19:33:24] "GET /api/status HTTP/1.1" 200 -
+19:33:27 [INFO    ] clustering.kmedoids — K-Medoids: n=6, k=3, init=heuristic, max_iter=100
+19:33:27 [DEBUG   ] clustering.kmedoids — Initial medoids: ['Egypt', 'Switzerland', 'Italy']
+19:33:27 [DEBUG   ] clustering.kmedoids —   iter 0  inertia=0.984877
+19:33:27 [DEBUG   ] clustering.kmedoids —     Swap medoid[0]=Egypt → Lebanon  (inertia=0.883138)
+19:33:27 [DEBUG   ] clustering.kmedoids —   iter 1  inertia=0.883138
+19:33:27 [INFO    ] clustering.kmedoids — K-Medoids converged in 2 iteration(s).  Inertia=0.883138
+19:33:27 [INFO    ] clustering.kmedoids — K-Medoids complete.  k=3, inertia=0.8831, iters=2
+19:33:27 [INFO    ] clustering.evaluation — Computing evaluation metrics for kmedoids result…
+19:33:27 [INFO    ] clustering.evaluation — Evaluation complete.  silhouette=0.1457  inertia=0.8831
+19:33:27 [INFO    ] clustering.pipeline — run('kmedoids', k=3) finished in 0.00s  inertia=0.8831  silhouette=0.1457
+19:33:27 [INFO    ] clustering.models — ClusterResult saved -> C:\Users\User\Desktop\IDPA PROJECT_V2\IDPA-PROJECT-2\output\clustering\kmedoids_k3.json
+19:33:27 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 19:33:27] "POST /api/cluster HTTP/1.1" 200 -
+19:33:27 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 19:33:27] "GET /api/results HTTP/1.1" 200 -
+19:33:28 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 19:33:28] "GET /api/result/kmedoids_k3.json HTTP/1.1" 200 -
+19:33:28 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 19:33:28] "GET /api/results HTTP/1.1" 200 -
+19:33:32 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 19:33:32] "GET /api/status HTTP/1.1" 200 -
+19:33:40 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 19:33:40] "GET /api/status HTTP/1.1" 200 -
+19:33:49 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 19:33:49] "GET /api/status HTTP/1.1" 200 -
+19:33:57 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 19:33:57] "GET /api/status HTTP/1.1" 200 -
+19:34:05 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 19:34:05] "GET /api/status HTTP/1.1" 200 -
+19:34:13 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 19:34:13] "GET /api/status HTTP/1.1" 200 -
+19:34:20 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 19:34:20] "GET /api/status HTTP/1.1" 200 -
+19:34:29 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 19:34:29] "GET /api/status HTTP/1.1" 200 -
+19:34:37 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 19:34:37] "GET /api/status HTTP/1.1" 200 -
+19:34:45 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 19:34:45] "GET /api/status HTTP/1.1" 200 -
+19:34:52 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 19:34:52] "GET /api/status HTTP/1.1" 200 -
+19:35:00 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 19:35:00] "GET /api/status HTTP/1.1" 200 -
+19:35:08 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 19:35:08] "GET /api/status HTTP/1.1" 200 -
+19:35:16 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 19:35:16] "GET /api/status HTTP/1.1" 200 -
+19:35:24 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 19:35:24] "GET /api/status HTTP/1.1" 200 -
+19:35:32 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 19:35:32] "GET /api/status HTTP/1.1" 200 -
+19:35:40 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 19:35:40] "GET /api/status HTTP/1.1" 200 -
+19:35:48 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 19:35:48] "GET /api/status HTTP/1.1" 200 -
+19:35:56 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 19:35:56] "GET /api/status HTTP/1.1" 200 -
+19:36:04 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 19:36:04] "GET /api/status HTTP/1.1" 200 -
+19:36:12 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 19:36:12] "GET /api/status HTTP/1.1" 200 -
+19:36:20 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 19:36:20] "GET /api/status HTTP/1.1" 200 -
+19:36:29 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 19:36:29] "GET /api/status HTTP/1.1" 200 -
+19:36:37 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 19:36:37] "GET /api/status HTTP/1.1" 200 -
+19:36:45 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 19:36:45] "GET /api/status HTTP/1.1" 200 -
+19:36:53 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 19:36:53] "GET /api/status HTTP/1.1" 200 -
+19:37:01 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 19:37:01] "GET /api/status HTTP/1.1" 200 -
