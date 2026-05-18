@@ -622,3 +622,16 @@
 18:40:31 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:40:31] "GET /api/matrix HTTP/1.1" 200 -
 18:41:30 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:41:30] "GET /api/status HTTP/1.1" 200 -
 18:42:30 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:42:30] "GET /api/status HTTP/1.1" 200 -
+18:42:41 [INFO    ] werkzeug — [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+18:42:41 [INFO    ] werkzeug — [33mPress CTRL+C to quit[0m
+18:42:45 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:42:45] "GET /api/matrix?n=7 HTTP/1.1" 200 -
+18:42:46 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:42:46] "GET /api/matrix?n=23 HTTP/1.1" 200 -
+18:43:02 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:43:02] "GET /api/result/hierarchical_k5_demo.json HTTP/1.1" 200 -
+18:43:02 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:43:02] "GET /api/matrix?n=23 HTTP/1.1" 200 -
+18:43:21 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:43:21] "GET / HTTP/1.1" 200 -
+18:43:21 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:43:21] "GET /static/js/app.js HTTP/1.1" 200 -
+18:43:21 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:43:21] "GET /static/js/charts/dendrogram.js HTTP/1.1" 200 -
+18:43:21 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:43:21] "GET /static/css/main.css HTTP/1.1" 200 -
+18:43:30 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:43:30] "GET /api/status HTTP/1.1" 200 -
+18:43:35 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:43:35] "GET /static/js/app.js HTTP/1.1" 200 -
