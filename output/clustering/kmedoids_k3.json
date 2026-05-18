@@ -1,0 +1,97 @@
+{
+  "algorithm": "kmedoids",
+  "n_clusters": 3,
+  "linkage": null,
+  "inertia": 0.883138,
+  "silhouette_score": 0.1457,
+  "assignments": [
+    {
+      "label": "Egypt",
+      "cluster_id": 1,
+      "medoid": "Lebanon",
+      "distance_to_medoid": 0.319989
+    },
+    {
+      "label": "Germany",
+      "cluster_id": 1,
+      "medoid": "Lebanon",
+      "distance_to_medoid": 0.364563
+    },
+    {
+      "label": "Italy",
+      "cluster_id": 0,
+      "medoid": "Italy",
+      "distance_to_medoid": 0.0
+    },
+    {
+      "label": "Lebanon",
+      "cluster_id": 1,
+      "medoid": "Lebanon",
+      "distance_to_medoid": 0.0
+    },
+    {
+      "label": "Switzerland",
+      "cluster_id": 2,
+      "medoid": "Switzerland",
+      "distance_to_medoid": 0.0
+    },
+    {
+      "label": "Syrian Arab Republic",
+      "cluster_id": 1,
+      "medoid": "Lebanon",
+      "distance_to_medoid": 0.198585
+    }
+  ],
+  "clusters": {
+    "0": [
+      "Italy"
+    ],
+    "1": [
+      "Egypt",
+      "Germany",
+      "Lebanon",
+      "Syrian Arab Republic"
+    ],
+    "2": [
+      "Switzerland"
+    ]
+  },
+  "medoids": {
+    "0": "Italy",
+    "1": "Lebanon",
+    "2": "Switzerland"
+  },
+  "cluster_stats": {
+    "0": {
+      "size": 1,
+      "avg_intra_dist": 0.0,
+      "max_intra_dist": 0.0,
+      "diameter": 0.0
+    },
+    "1": {
+      "size": 4,
+      "avg_intra_dist": 0.220784,
+      "max_intra_dist": 0.364563,
+      "diameter": 0.369001
+    },
+    "2": {
+      "size": 1,
+      "avg_intra_dist": 0.0,
+      "max_intra_dist": 0.0,
+      "diameter": 0.0
+    }
+  },
+  "metadata": {
+    "iterations": 2,
+    "converged": true,
+    "init_method": "heuristic",
+    "seed": 42,
+    "run_time_seconds": 0.001,
+    "n_documents": 6,
+    "inter_cluster_distances": {
+      "0,1": 0.450834,
+      "0,2": 0.418087,
+      "1,2": 0.479025
+    }
+  }
+}

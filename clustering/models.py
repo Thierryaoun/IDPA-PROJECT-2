@@ -16,6 +16,7 @@ Design notes:
 from __future__ import annotations
 
 import json
+import math
 import os
 from dataclasses import dataclass, field
 from typing import Any, Dict, List, Optional
@@ -23,6 +24,28 @@ from typing import Any, Dict, List, Optional
 from .utils import get_logger, save_json, load_json, matrix_stats
 
 logger = get_logger(__name__)
+
+
+# ─────────────────────────────────────────────────────────────────────────────
+# Display-name helper  (stem → readable label for UI only)
+# ─────────────────────────────────────────────────────────────────────────────
+
+def display_name(stem: str) -> str:
+    """Convert a filename stem to a readable UI label.
+
+    Examples
+    --------
+    "Lebanon"                         -> "Lebanon"
+    "South_Africa"                    -> "South Africa"
+    "Bahamas__The"                    -> "Bahamas, The"
+    "Iran__Islamic_Republic_of_"      -> "Iran, Islamic Republic of"
+    "Gambia__Republic_of_The_"        -> "Gambia, Republic of The"
+    """
+    # Replace double underscore first (it becomes ", "), then single underscore
+    result = stem.replace("__", ", ").replace("_", " ").strip()
+    # Strip trailing comma-space if stem ended with underscore groups
+    result = result.rstrip(", ").strip()
+    return result
 
 
 # ─────────────────────────────────────────────────────────────────────────────
@@ -43,14 +66,69 @@ class DistanceMatrix:
         Precomputed descriptive statistics (min, max, mean, std).
     """
 
-    def __init__(self, labels: List[str], matrix: List[List[float]]) -> None:
-        assert len(labels) == len(matrix), "labels and matrix must have the same length"
+    def __init__(
+        self,
+        labels: List[str],
+        matrix: List[List[float]],
+        skip_validation: bool = False,
+    ) -> None:
+        if len(labels) != len(matrix):
+            raise ValueError(
+                f"labels length {len(labels)} != matrix rows {len(matrix)}"
+            )
         self.labels = labels
         self.matrix = matrix
         self.n = len(labels)
         # Build a fast name→index lookup
         self._index: Dict[str, int] = {lbl: i for i, lbl in enumerate(labels)}
         self.stats = matrix_stats(matrix)
+        if not skip_validation:
+            self._validate()
+
+    # ── Validation ────────────────────────────────────────────────────────────
+
+    def _validate(self) -> None:
+        """Check that the matrix is square, symmetric, has zero diagonal,
+        finite values, and all values in [0, 1].  Raises ValueError on failure.
+        """
+        n = self.n
+        TOL = 1e-8
+        for i in range(n):
+            row = self.matrix[i]
+            if len(row) != n:
+                raise ValueError(
+                    f"Matrix row {i} has length {len(row)}, expected {n}"
+                )
+            if abs(row[i]) > TOL:
+                raise ValueError(
+                    f"Diagonal matrix[{i}][{i}] = {row[i]:.6g} is not zero"
+                )
+            for j in range(i + 1, n):
+                v = row[j]
+                if not math.isfinite(v):
+                    raise ValueError(
+                        f"matrix[{i}][{j}] is not finite: {v}"
+                    )
+                if v < -TOL or v > 1.0 + TOL:
+                    raise ValueError(
+                        f"matrix[{i}][{j}] = {v:.6g} is outside [0, 1]"
+                    )
+                if abs(v - self.matrix[j][i]) > TOL:
+                    raise ValueError(
+                        f"matrix not symmetric: [{i}][{j}]={v:.6g} "
+                        f"but [{j}][{i}]={self.matrix[j][i]:.6g}"
+                    )
+
+    @property
+    def matrix_id(self) -> str:
+        """Stable short identifier based on sorted labels.
+
+        Used to match a result to its source matrix without storing
+        the full matrix inside every result file.
+        """
+        import hashlib
+        key = ",".join(sorted(self.labels))
+        return hashlib.md5(key.encode()).hexdigest()[:12]
 
     # ── Access ────────────────────────────────────────────────────────────────
 
@@ -74,9 +152,10 @@ class DistanceMatrix:
 
     def to_dict(self) -> dict:
         return {
-            "labels": self.labels,
-            "matrix": self.matrix,
-            "stats":  self.stats,
+            "labels":    self.labels,
+            "matrix":    self.matrix,
+            "stats":     self.stats,
+            "matrix_id": self.matrix_id,
         }
 
     def save(self, path: str) -> None:
@@ -86,9 +165,9 @@ class DistanceMatrix:
 
     @classmethod
     def load(cls, path: str) -> "DistanceMatrix":
-        """Restore a previously saved distance matrix."""
+        """Restore a previously saved distance matrix (skips full re-validation)."""
         data = load_json(path)
-        dm = cls(labels=data["labels"], matrix=data["matrix"])
+        dm = cls(labels=data["labels"], matrix=data["matrix"], skip_validation=True)
         logger.info("Distance matrix loaded <- %s  (%dx%d)", path, dm.n, dm.n)
         return dm
 

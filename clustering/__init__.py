@@ -33,7 +33,7 @@ Individual components are also importable directly for custom use:
 """
 
 from .pipeline        import ClusteringPipeline
-from .models          import DistanceMatrix, ClusterResult, ClusterAssignment, ClusterConfig
+from .models          import DistanceMatrix, ClusterResult, ClusterAssignment, ClusterConfig, display_name
 from .distance_matrix import load_country_trees, build_distance_matrix
 from .hierarchical    import hierarchical_clustering
 from .kmedoids        import kmedoids
@@ -48,6 +48,7 @@ __all__ = [
     "ClusterResult",
     "ClusterAssignment",
     "ClusterConfig",
+    "display_name",
     # Algorithms
     "hierarchical_clustering",
     "kmedoids",

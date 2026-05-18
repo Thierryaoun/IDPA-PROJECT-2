@@ -39,6 +39,22 @@ from clustering import (
     attach_evaluation,
 )
 
+
+def _setup_logging_safe(level: str = "INFO", log_file: str | None = None) -> None:
+    """Set up logging, gracefully falling back if the log file is locked."""
+    try:
+        setup_logging(level=level, log_file=log_file)
+    except PermissionError:
+        # Log file locked (e.g. another process holds it on Windows)
+        fallback = log_file.replace(".log", "_fallback.log") if log_file else None
+        try:
+            setup_logging(level=level, log_file=fallback)
+            print(f"[warn] Could not open {log_file!r} — logging to {fallback!r}")
+        except Exception:
+            setup_logging(level=level)   # console-only as last resort
+    except Exception:
+        setup_logging(level=level)
+
 # ─────────────────────────────────────────────────────────────────────────────
 # Validation (unit tests — no real data needed)
 # ─────────────────────────────────────────────────────────────────────────────
@@ -160,12 +176,14 @@ def run_validation() -> bool:
 # ─────────────────────────────────────────────────────────────────────────────
 
 # A hand-picked set covering different world regions for a visible demo.
+# IDs must match the filename stems in preprocessed_trees/ (no .json extension,
+# underscores preserved, no space conversion).
 DEMO_COUNTRIES = [
-    "Lebanon", "Syria", "Jordan", "Iraq", "Egypt",          # Middle East / Levant
-    "France", "Germany", "Switzerland", "Italy", "Spain",   # Western Europe
-    "Brazil", "Argentina", "Chile", "Colombia", "Peru",     # Latin America
-    "China", "Japan", "India", "South Korea", "Indonesia",  # East / South Asia
-    "Nigeria", "Kenya", "Ethiopia", "South Africa", "Ghana",# Africa
+    "Lebanon", "Syrian_Arab_Republic", "Jordan", "Iraq", "Egypt",   # Middle East / Levant
+    "France", "Germany", "Switzerland", "Italy", "Spain",           # Western Europe
+    "Brazil", "Argentina", "Chile", "Colombia", "Peru",             # Latin America
+    "China", "Japan", "India", "Republic_of_Korea", "Indonesia",    # East / South Asia
+    "Nigeria", "Kenya", "Ethiopia", "South_Africa", "Ghana",        # Africa
 ]
 
 
@@ -189,9 +207,17 @@ def run_demo() -> None:
     # Load only the demo subset
     pipeline.load_trees(country_filter=DEMO_COUNTRIES)
     actual_countries = list(pipeline.trees.keys())
-    print(f"\n  Loaded {len(actual_countries)} countries:")
+    missing = sorted(set(DEMO_COUNTRIES) - set(actual_countries))
+
+    print(f"\n  Loaded {len(actual_countries)} / {len(DEMO_COUNTRIES)} requested countries:")
     for c in sorted(actual_countries):
         print(f"    - {c}")
+
+    if missing:
+        print(f"\n  [WARN] {len(missing)} requested country/countries not found in "
+              f"preprocessed_trees/:")
+        for m in missing:
+            print(f"    MISSING: {m}")
 
     if len(actual_countries) < 4:
         print("\n  [WARN] Too few countries found in preprocessed_trees/.")
@@ -281,7 +307,7 @@ def run_full(n_clusters: int = 7) -> None:
 # ─────────────────────────────────────────────────────────────────────────────
 
 def main() -> None:
-    setup_logging(level="INFO", log_file="output/clustering/clustering.log")
+    _setup_logging_safe(level="INFO", log_file="output/clustering/clustering.log")
 
     mode = sys.argv[1] if len(sys.argv) > 1 else "--demo"
 

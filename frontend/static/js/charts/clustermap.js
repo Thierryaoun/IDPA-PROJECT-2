@@ -18,8 +18,8 @@ const ClustermapChart = (() => {
     const W = el.clientWidth || 680;
     const H = 460;
 
-    const palette = ["#6366f1","#22c55e","#f59e0b","#ef4444","#a855f7",
-                     "#3b82f6","#ec4899","#14b8a6","#f97316","#84cc16"];
+    const palette = ["#4f46e5","#16a34a","#d97706","#dc2626","#7c3aed",
+                     "#2563eb","#db2777","#0d9488","#ea580c","#65a30d"];
 
     const clusterOf = {};
     const isMedoid = {};
@@ -76,17 +76,17 @@ const ClustermapChart = (() => {
     const linkSel = linkG.selectAll("line")
       .data(links)
       .join("line")
-      .attr("stroke", "#2e3350")
+      .attr("stroke", "#cbd5e1")
       .attr("stroke-width", d => Math.max(0.5, (1 - d.dist) * 2))
-      .attr("stroke-opacity", 0.5);
+      .attr("stroke-opacity", 0.7);
 
     const nodeSel = nodeG.selectAll("circle")
       .data(nodes)
       .join("circle")
       .attr("r", d => d.medoid ? 9 : 6)
       .attr("fill", d => palette[d.cluster % palette.length])
-      .attr("stroke", d => d.medoid ? "#fff" : "#0f1117")
-      .attr("stroke-width", d => d.medoid ? 2 : 1)
+      .attr("stroke", d => d.medoid ? "#1a2035" : "#ffffff")
+      .attr("stroke-width", d => d.medoid ? 2 : 1.5)
       .call(drag(sim));
 
     nodeSel.append("title").text(d => `${d.id} (cluster ${d.cluster})`);

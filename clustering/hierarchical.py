@@ -64,7 +64,14 @@ def hierarchical_clustering(
     """
     if linkage not in ("single", "complete", "average"):
         raise ValueError(f"Unknown linkage {linkage!r}. Choose single/complete/average.")
-    n_clusters = max(1, min(n_clusters, dm.n))
+    if dm.n == 0:
+        raise ValueError("Distance matrix is empty (n=0).")
+    if n_clusters < 1:
+        raise ValueError(f"n_clusters must be >= 1, got {n_clusters}.")
+    if n_clusters > dm.n:
+        raise ValueError(
+            f"n_clusters={n_clusters} exceeds number of documents n={dm.n}."
+        )
     logger.info(
         "HAC: n=%d, k=%d, linkage=%s", dm.n, n_clusters, linkage
     )
@@ -157,7 +164,12 @@ def hierarchical_clustering(
         medoids=medoids_by_name,
         linkage=linkage,
         inertia=round(inertia, 6),
-        metadata={"merge_history": merge_history},
+        metadata={
+            "merge_history":  merge_history,
+            # Matrix provenance — used by frontend to refuse mismatched display
+            "matrix_id":      dm.matrix_id,
+            "matrix_labels":  dm.labels,
+        },
     )
     logger.info("HAC complete.  Inertia=%.4f", inertia)
     return result

@@ -635,3 +635,283 @@
 18:43:21 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:43:21] "GET /static/css/main.css HTTP/1.1" 200 -
 18:43:30 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:43:30] "GET /api/status HTTP/1.1" 200 -
 18:43:35 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:43:35] "GET /static/js/app.js HTTP/1.1" 200 -
+18:44:30 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:44:30] "GET /api/status HTTP/1.1" 200 -
+18:45:06 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:45:06] "GET /api/status HTTP/1.1" 200 -
+18:45:07 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:45:07] "GET /api/status HTTP/1.1" 200 -
+18:45:07 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:45:07] "GET / HTTP/1.1" 200 -
+18:45:07 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:45:07] "GET /static/css/main.css HTTP/1.1" 200 -
+18:45:08 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:45:08] "GET /static/js/api.js HTTP/1.1" 200 -
+18:45:08 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:45:08] "[36mGET /static/js/charts/clustermap.js HTTP/1.1[0m" 304 -
+18:45:08 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:45:08] "GET /static/js/charts/dendrogram.js HTTP/1.1" 200 -
+18:45:08 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:45:08] "GET /static/js/charts/heatmap.js HTTP/1.1" 200 -
+18:45:08 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:45:08] "GET /static/js/app.js HTTP/1.1" 200 -
+18:45:08 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:45:08] "GET /api/status HTTP/1.1" 200 -
+18:45:08 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:45:08] "GET /api/countries HTTP/1.1" 200 -
+18:45:08 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:45:08] "GET /api/results HTTP/1.1" 200 -
+18:45:16 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:45:16] "GET /api/status HTTP/1.1" 200 -
+18:45:25 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:45:25] "GET /api/status HTTP/1.1" 200 -
+18:45:32 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:45:32] "GET /api/status HTTP/1.1" 200 -
+18:45:41 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:45:41] "GET /api/status HTTP/1.1" 200 -
+18:45:48 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:45:48] "GET /api/status HTTP/1.1" 200 -
+18:45:57 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:45:57] "GET /api/status HTTP/1.1" 200 -
+18:46:04 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:46:04] "GET /api/status HTTP/1.1" 200 -
+18:46:13 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:46:13] "GET /api/status HTTP/1.1" 200 -
+18:46:13 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:46:13] "POST /api/matrix/start HTTP/1.1" 200 -
+18:46:13 [INFO    ] clustering.distance_matrix — Loaded 10 country trees from 'C:\\Users\\User\\Desktop\\IDPA PROJECT_V2\\IDPA-PROJECT-2\\preprocessed_trees'
+18:46:13 [INFO    ] clustering.pipeline — 10 trees loaded.
+18:46:13 [INFO    ] clustering.distance_matrix — Loading cached distance matrix from 'C:\\Users\\User\\Desktop\\IDPA PROJECT_V2\\IDPA-PROJECT-2\\output\\clustering\\distance_matrix.json'
+18:46:13 [INFO    ] clustering.models — Distance matrix loaded <- C:\Users\User\Desktop\IDPA PROJECT_V2\IDPA-PROJECT-2\output\clustering\distance_matrix.json  (7x7)
+18:46:13 [WARNING ] clustering.distance_matrix — Cached matrix labels differ from loaded trees — recomputing.
+18:46:13 [INFO    ] clustering.distance_matrix — Computing semantic distance matrix for 10 documents (45 pairs)…
+18:46:13 [INFO    ] clustering.distance_matrix — Pre-normalizing trees…
+18:46:14 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:46:14] "GET /api/job/445b41e4 HTTP/1.1" 200 -
+18:46:15 [INFO    ] clustering.distance_matrix — Matrix stats: {'n': 10, 'pairs': 45, 'min': 0.198585, 'max': 0.49235, 'mean': 0.400643, 'std': 0.060131}
+18:46:15 [INFO    ] clustering.models — Distance matrix saved -> C:\Users\User\Desktop\IDPA PROJECT_V2\IDPA-PROJECT-2\output\clustering\distance_matrix.json  (10x10)
+18:46:16 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:46:16] "GET /api/job/445b41e4 HTTP/1.1" 200 -
+18:46:16 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:46:16] "GET /api/status HTTP/1.1" 200 -
+18:46:16 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:46:16] "GET /api/matrix HTTP/1.1" 200 -
+18:46:20 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:46:20] "GET /api/status HTTP/1.1" 200 -
+18:46:29 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:46:29] "GET /api/status HTTP/1.1" 200 -
+18:46:36 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:46:36] "GET /api/status HTTP/1.1" 200 -
+18:46:45 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:46:45] "GET /api/status HTTP/1.1" 200 -
+18:46:45 [INFO    ] clustering.hierarchical — HAC: n=10, k=3, linkage=complete
+18:46:45 [DEBUG   ] clustering.hierarchical —   Merged clusters 6+8 → 10  (dist=0.1986, size=2)
+18:46:45 [DEBUG   ] clustering.hierarchical —   Merged clusters 3+4 → 11  (dist=0.2984, size=2)
+18:46:45 [DEBUG   ] clustering.hierarchical —   Merged clusters 1+10 → 12  (dist=0.3200, size=3)
+18:46:45 [DEBUG   ] clustering.hierarchical —   Merged clusters 0+9 → 13  (dist=0.3200, size=2)
+18:46:45 [DEBUG   ] clustering.hierarchical —   Merged clusters 11+12 → 14  (dist=0.3861, size=5)
+18:46:45 [DEBUG   ] clustering.hierarchical —   Merged clusters 2+5 → 15  (dist=0.3995, size=2)
+18:46:45 [DEBUG   ] clustering.hierarchical —   Merged clusters 13+14 → 16  (dist=0.4313, size=7)
+18:46:45 [INFO    ] clustering.hierarchical — HAC complete.  Inertia=2.4097
+18:46:45 [INFO    ] clustering.evaluation — Computing evaluation metrics for hierarchical result…
+18:46:45 [INFO    ] clustering.evaluation — Evaluation complete.  silhouette=0.1286  inertia=2.4097
+18:46:45 [INFO    ] clustering.pipeline — run('hierarchical', k=3) finished in 0.00s  inertia=2.4097  silhouette=0.1286
+18:46:45 [INFO    ] clustering.models — ClusterResult saved -> C:\Users\User\Desktop\IDPA PROJECT_V2\IDPA-PROJECT-2\output\clustering\hierarchical_k3.json
+18:46:45 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:46:45] "POST /api/cluster HTTP/1.1" 200 -
+18:46:45 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:46:45] "GET /api/results HTTP/1.1" 200 -
+18:46:46 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:46:46] "GET /api/results HTTP/1.1" 200 -
+18:46:46 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:46:46] "GET /api/result/hierarchical_k3.json HTTP/1.1" 200 -
+18:46:52 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:46:52] "GET /api/status HTTP/1.1" 200 -
+18:47:01 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:47:01] "GET /api/status HTTP/1.1" 200 -
+18:47:08 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:47:08] "GET /api/status HTTP/1.1" 200 -
+18:47:17 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:47:17] "GET /api/status HTTP/1.1" 200 -
+18:47:24 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:47:24] "GET /api/status HTTP/1.1" 200 -
+18:47:33 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:47:33] "GET /api/status HTTP/1.1" 200 -
+18:47:40 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:47:40] "GET /api/status HTTP/1.1" 200 -
+18:47:49 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:47:49] "GET /api/status HTTP/1.1" 200 -
+18:47:56 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:47:56] "GET /api/status HTTP/1.1" 200 -
+18:48:05 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:48:05] "GET /api/status HTTP/1.1" 200 -
+18:48:12 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:48:12] "GET /api/status HTTP/1.1" 200 -
+18:48:21 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:48:21] "GET /api/status HTTP/1.1" 200 -
+18:48:29 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:48:29] "GET /api/status HTTP/1.1" 200 -
+18:48:37 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:48:37] "GET /api/status HTTP/1.1" 200 -
+18:48:45 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:48:45] "GET /api/status HTTP/1.1" 200 -
+18:48:53 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:48:53] "GET /api/status HTTP/1.1" 200 -
+18:49:00 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:49:00] "GET /api/status HTTP/1.1" 200 -
+18:49:09 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:49:09] "GET /api/status HTTP/1.1" 200 -
+18:49:17 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:49:17] "GET /api/status HTTP/1.1" 200 -
+18:49:25 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:49:25] "GET /api/status HTTP/1.1" 200 -
+18:49:33 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:49:33] "GET /api/status HTTP/1.1" 200 -
+18:49:41 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:49:41] "GET /api/status HTTP/1.1" 200 -
+18:49:49 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:49:49] "GET /api/status HTTP/1.1" 200 -
+18:49:57 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:49:57] "GET /api/status HTTP/1.1" 200 -
+18:50:05 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:50:05] "GET /api/status HTTP/1.1" 200 -
+18:50:13 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:50:13] "GET /api/status HTTP/1.1" 200 -
+18:50:21 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:50:21] "GET /api/status HTTP/1.1" 200 -
+18:50:29 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:50:29] "GET /api/status HTTP/1.1" 200 -
+18:50:37 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:50:37] "GET /api/status HTTP/1.1" 200 -
+18:50:45 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:50:45] "GET /api/status HTTP/1.1" 200 -
+18:51:30 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:51:30] "GET /api/status HTTP/1.1" 200 -
+18:52:10 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:52:10] "GET /api/status HTTP/1.1" 200 -
+18:52:13 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:52:13] "GET /api/status HTTP/1.1" 200 -
+18:52:21 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:52:21] "GET /api/status HTTP/1.1" 200 -
+18:52:29 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:52:29] "GET /api/status HTTP/1.1" 200 -
+18:52:37 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:52:37] "GET /api/status HTTP/1.1" 200 -
+18:52:45 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:52:45] "GET /api/status HTTP/1.1" 200 -
+18:52:53 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:52:53] "GET /api/status HTTP/1.1" 200 -
+18:53:01 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:53:01] "GET /api/status HTTP/1.1" 200 -
+18:53:09 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:53:09] "GET /api/status HTTP/1.1" 200 -
+18:53:17 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:53:17] "GET /api/status HTTP/1.1" 200 -
+18:53:30 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:53:30] "GET /api/status HTTP/1.1" 200 -
+18:54:30 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:54:30] "GET /api/status HTTP/1.1" 200 -
+18:55:30 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:55:30] "GET /api/status HTTP/1.1" 200 -
+18:56:01 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:56:01] "GET /api/status HTTP/1.1" 200 -
+18:56:05 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:56:05] "GET /api/status HTTP/1.1" 200 -
+18:56:12 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:56:12] "POST /api/matrix/start HTTP/1.1" 200 -
+18:56:12 [INFO    ] clustering.distance_matrix — Loaded 11 country trees from 'C:\\Users\\User\\Desktop\\IDPA PROJECT_V2\\IDPA-PROJECT-2\\preprocessed_trees'
+18:56:12 [INFO    ] clustering.pipeline — 11 trees loaded.
+18:56:12 [INFO    ] clustering.distance_matrix — Loading cached distance matrix from 'C:\\Users\\User\\Desktop\\IDPA PROJECT_V2\\IDPA-PROJECT-2\\output\\clustering\\distance_matrix.json'
+18:56:12 [INFO    ] clustering.models — Distance matrix loaded <- C:\Users\User\Desktop\IDPA PROJECT_V2\IDPA-PROJECT-2\output\clustering\distance_matrix.json  (10x10)
+18:56:12 [WARNING ] clustering.distance_matrix — Cached matrix labels differ from loaded trees — recomputing.
+18:56:12 [INFO    ] clustering.distance_matrix — Computing semantic distance matrix for 11 documents (55 pairs)…
+18:56:12 [INFO    ] clustering.distance_matrix — Pre-normalizing trees…
+18:56:13 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:56:13] "GET /api/job/c29c9d21 HTTP/1.1" 200 -
+18:56:13 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:56:13] "GET /api/status HTTP/1.1" 200 -
+18:56:14 [INFO    ] clustering.distance_matrix — Matrix stats: {'n': 11, 'pairs': 55, 'min': 0.195275, 'max': 0.414096, 'mean': 0.302792, 'std': 0.046889}
+18:56:14 [INFO    ] clustering.models — Distance matrix saved -> C:\Users\User\Desktop\IDPA PROJECT_V2\IDPA-PROJECT-2\output\clustering\distance_matrix.json  (11x11)
+18:56:14 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:56:14] "GET /api/job/c29c9d21 HTTP/1.1" 200 -
+18:56:14 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:56:14] "GET /api/status HTTP/1.1" 200 -
+18:56:15 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:56:15] "GET /api/matrix HTTP/1.1" 200 -
+18:56:20 [INFO    ] clustering.hierarchical — HAC: n=11, k=3, linkage=complete
+18:56:20 [DEBUG   ] clustering.hierarchical —   Merged clusters 5+8 → 11  (dist=0.1953, size=2)
+18:56:20 [DEBUG   ] clustering.hierarchical —   Merged clusters 3+6 → 12  (dist=0.2023, size=2)
+18:56:20 [DEBUG   ] clustering.hierarchical —   Merged clusters 1+2 → 13  (dist=0.2407, size=2)
+18:56:20 [DEBUG   ] clustering.hierarchical —   Merged clusters 9+11 → 14  (dist=0.2523, size=3)
+18:56:20 [DEBUG   ] clustering.hierarchical —   Merged clusters 4+13 → 15  (dist=0.2588, size=3)
+18:56:20 [DEBUG   ] clustering.hierarchical —   Merged clusters 7+15 → 16  (dist=0.2925, size=4)
+18:56:20 [DEBUG   ] clustering.hierarchical —   Merged clusters 0+10 → 17  (dist=0.2930, size=2)
+18:56:20 [DEBUG   ] clustering.hierarchical —   Merged clusters 12+14 → 18  (dist=0.2967, size=5)
+18:56:20 [INFO    ] clustering.hierarchical — HAC complete.  Inertia=1.9851
+18:56:20 [INFO    ] clustering.evaluation — Computing evaluation metrics for hierarchical result…
+18:56:20 [INFO    ] clustering.evaluation — Evaluation complete.  silhouette=0.1368  inertia=1.9851
+18:56:20 [INFO    ] clustering.pipeline — run('hierarchical', k=3) finished in 0.00s  inertia=1.9851  silhouette=0.1368
+18:56:20 [INFO    ] clustering.models — ClusterResult saved -> C:\Users\User\Desktop\IDPA PROJECT_V2\IDPA-PROJECT-2\output\clustering\hierarchical_k3.json
+18:56:20 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:56:20] "POST /api/cluster HTTP/1.1" 200 -
+18:56:21 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:56:21] "GET /api/results HTTP/1.1" 200 -
+18:56:21 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:56:21] "GET /api/status HTTP/1.1" 200 -
+18:56:21 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:56:21] "GET /api/results HTTP/1.1" 200 -
+18:56:21 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:56:21] "GET /api/result/hierarchical_k3.json HTTP/1.1" 200 -
+18:56:28 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:56:28] "GET /api/status HTTP/1.1" 200 -
+18:56:37 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:56:37] "GET /api/status HTTP/1.1" 200 -
+18:56:44 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:56:44] "GET /api/status HTTP/1.1" 200 -
+18:56:53 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:56:53] "GET /api/status HTTP/1.1" 200 -
+18:57:00 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:57:00] "GET /api/status HTTP/1.1" 200 -
+18:57:09 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:57:09] "GET /api/status HTTP/1.1" 200 -
+18:57:13 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:57:13] "POST /api/matrix/start HTTP/1.1" 200 -
+18:57:13 [INFO    ] clustering.distance_matrix — Loaded 28 country trees from 'C:\\Users\\User\\Desktop\\IDPA PROJECT_V2\\IDPA-PROJECT-2\\preprocessed_trees'
+18:57:13 [INFO    ] clustering.pipeline — 28 trees loaded.
+18:57:13 [INFO    ] clustering.distance_matrix — Loading cached distance matrix from 'C:\\Users\\User\\Desktop\\IDPA PROJECT_V2\\IDPA-PROJECT-2\\output\\clustering\\distance_matrix.json'
+18:57:13 [INFO    ] clustering.models — Distance matrix loaded <- C:\Users\User\Desktop\IDPA PROJECT_V2\IDPA-PROJECT-2\output\clustering\distance_matrix.json  (11x11)
+18:57:13 [WARNING ] clustering.distance_matrix — Cached matrix labels differ from loaded trees — recomputing.
+18:57:13 [INFO    ] clustering.distance_matrix — Computing semantic distance matrix for 28 documents (378 pairs)…
+18:57:13 [INFO    ] clustering.distance_matrix — Pre-normalizing trees…
+18:57:15 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:57:15] "GET /api/job/63298ba5 HTTP/1.1" 200 -
+18:57:16 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:57:16] "GET /api/job/63298ba5 HTTP/1.1" 200 -
+18:57:17 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:57:17] "GET /api/status HTTP/1.1" 200 -
+18:57:17 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:57:17] "GET /api/job/63298ba5 HTTP/1.1" 200 -
+18:57:18 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:57:18] "GET /api/job/63298ba5 HTTP/1.1" 200 -
+18:57:20 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:57:20] "GET /api/job/63298ba5 HTTP/1.1" 200 -
+18:57:20 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:57:20] "GET /api/job/63298ba5 HTTP/1.1" 200 -
+18:57:22 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:57:22] "GET /api/job/63298ba5 HTTP/1.1" 200 -
+18:57:23 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:57:23] "GET /api/job/63298ba5 HTTP/1.1" 200 -
+18:57:24 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:57:24] "GET /api/job/63298ba5 HTTP/1.1" 200 -
+18:57:25 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:57:25] "GET /api/job/63298ba5 HTTP/1.1" 200 -
+18:57:25 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:57:25] "GET /api/status HTTP/1.1" 200 -
+18:57:27 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:57:27] "GET /api/job/63298ba5 HTTP/1.1" 200 -
+18:57:28 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:57:28] "GET /api/job/63298ba5 HTTP/1.1" 200 -
+18:57:29 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:57:29] "GET /api/job/63298ba5 HTTP/1.1" 200 -
+18:57:30 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:57:30] "GET /api/job/63298ba5 HTTP/1.1" 200 -
+18:57:31 [INFO    ] clustering.distance_matrix — Matrix stats: {'n': 28, 'pairs': 378, 'min': 0.195275, 'max': 0.601973, 'mean': 0.365733, 'std': 0.080842}
+18:57:31 [INFO    ] clustering.models — Distance matrix saved -> C:\Users\User\Desktop\IDPA PROJECT_V2\IDPA-PROJECT-2\output\clustering\distance_matrix.json  (28x28)
+18:57:31 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:57:31] "GET /api/job/63298ba5 HTTP/1.1" 200 -
+18:57:32 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:57:32] "GET /api/status HTTP/1.1" 200 -
+18:57:32 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:57:32] "GET /api/matrix HTTP/1.1" 200 -
+18:57:32 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:57:32] "GET /api/status HTTP/1.1" 200 -
+18:57:41 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:57:41] "GET /api/status HTTP/1.1" 200 -
+18:57:43 [INFO    ] clustering.hierarchical — HAC: n=28, k=3, linkage=complete
+18:57:43 [DEBUG   ] clustering.hierarchical —   Merged clusters 15+21 → 28  (dist=0.1953, size=2)
+18:57:43 [DEBUG   ] clustering.hierarchical —   Merged clusters 12+16 → 29  (dist=0.2023, size=2)
+18:57:43 [DEBUG   ] clustering.hierarchical —   Merged clusters 2+14 → 30  (dist=0.2069, size=2)
+18:57:43 [DEBUG   ] clustering.hierarchical —   Merged clusters 9+23 → 31  (dist=0.2168, size=2)
+18:57:43 [DEBUG   ] clustering.hierarchical —   Merged clusters 11+19 → 32  (dist=0.2182, size=2)
+18:57:43 [DEBUG   ] clustering.hierarchical —   Merged clusters 3+10 → 33  (dist=0.2421, size=2)
+18:57:43 [DEBUG   ] clustering.hierarchical —   Merged clusters 30+32 → 34  (dist=0.2559, size=4)
+18:57:43 [DEBUG   ] clustering.hierarchical —   Merged clusters 5+18 → 35  (dist=0.2593, size=2)
+18:57:43 [DEBUG   ] clustering.hierarchical —   Merged clusters 28+31 → 36  (dist=0.2785, size=4)
+18:57:43 [DEBUG   ] clustering.hierarchical —   Merged clusters 0+34 → 37  (dist=0.2843, size=5)
+18:57:43 [DEBUG   ] clustering.hierarchical —   Merged clusters 29+33 → 38  (dist=0.2857, size=4)
+18:57:43 [DEBUG   ] clustering.hierarchical —   Merged clusters 1+27 → 39  (dist=0.2930, size=2)
+18:57:43 [DEBUG   ] clustering.hierarchical —   Merged clusters 36+38 → 40  (dist=0.3012, size=8)
+18:57:43 [DEBUG   ] clustering.hierarchical —   Merged clusters 8+20 → 41  (dist=0.3160, size=2)
+18:57:43 [DEBUG   ] clustering.hierarchical —   Merged clusters 35+37 → 42  (dist=0.3236, size=7)
+18:57:43 [DEBUG   ] clustering.hierarchical —   Merged clusters 13+22 → 43  (dist=0.3292, size=2)
+18:57:43 [DEBUG   ] clustering.hierarchical —   Merged clusters 6+25 → 44  (dist=0.3370, size=2)
+18:57:43 [DEBUG   ] clustering.hierarchical —   Merged clusters 40+42 → 45  (dist=0.3405, size=15)
+18:57:43 [DEBUG   ] clustering.hierarchical —   Merged clusters 7+39 → 46  (dist=0.3537, size=3)
+18:57:43 [DEBUG   ] clustering.hierarchical —   Merged clusters 41+45 → 47  (dist=0.3745, size=17)
+18:57:43 [DEBUG   ] clustering.hierarchical —   Merged clusters 24+43 → 48  (dist=0.3809, size=3)
+18:57:43 [DEBUG   ] clustering.hierarchical —   Merged clusters 44+47 → 49  (dist=0.4269, size=19)
+18:57:43 [DEBUG   ] clustering.hierarchical —   Merged clusters 26+48 → 50  (dist=0.4380, size=4)
+18:57:43 [DEBUG   ] clustering.hierarchical —   Merged clusters 17+49 → 51  (dist=0.4681, size=20)
+18:57:43 [DEBUG   ] clustering.hierarchical —   Merged clusters 46+50 → 52  (dist=0.4858, size=7)
+18:57:43 [INFO    ] clustering.hierarchical — HAC complete.  Inertia=7.5101
+18:57:43 [INFO    ] clustering.evaluation — Computing evaluation metrics for hierarchical result…
+18:57:43 [INFO    ] clustering.evaluation — Evaluation complete.  silhouette=0.1398  inertia=7.5101
+18:57:43 [INFO    ] clustering.pipeline — run('hierarchical', k=3) finished in 0.00s  inertia=7.5101  silhouette=0.1398
+18:57:43 [INFO    ] clustering.models — ClusterResult saved -> C:\Users\User\Desktop\IDPA PROJECT_V2\IDPA-PROJECT-2\output\clustering\hierarchical_k3.json
+18:57:43 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:57:43] "POST /api/cluster HTTP/1.1" 200 -
+18:57:43 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:57:43] "GET /api/results HTTP/1.1" 200 -
+18:57:44 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:57:44] "GET /api/results HTTP/1.1" 200 -
+18:57:44 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:57:44] "GET /api/result/hierarchical_k3.json HTTP/1.1" 200 -
+18:57:48 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:57:48] "GET /api/status HTTP/1.1" 200 -
+18:57:57 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:57:57] "GET /api/status HTTP/1.1" 200 -
+18:58:04 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:58:04] "GET /api/status HTTP/1.1" 200 -
+18:58:08 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:58:08] "POST /api/matrix/start HTTP/1.1" 200 -
+18:58:08 [INFO    ] clustering.distance_matrix — Loaded 17 country trees from 'C:\\Users\\User\\Desktop\\IDPA PROJECT_V2\\IDPA-PROJECT-2\\preprocessed_trees'
+18:58:08 [INFO    ] clustering.pipeline — 17 trees loaded.
+18:58:08 [INFO    ] clustering.distance_matrix — Loading cached distance matrix from 'C:\\Users\\User\\Desktop\\IDPA PROJECT_V2\\IDPA-PROJECT-2\\output\\clustering\\distance_matrix.json'
+18:58:08 [INFO    ] clustering.models — Distance matrix loaded <- C:\Users\User\Desktop\IDPA PROJECT_V2\IDPA-PROJECT-2\output\clustering\distance_matrix.json  (28x28)
+18:58:08 [WARNING ] clustering.distance_matrix — Cached matrix labels differ from loaded trees — recomputing.
+18:58:08 [INFO    ] clustering.distance_matrix — Computing semantic distance matrix for 17 documents (136 pairs)…
+18:58:08 [INFO    ] clustering.distance_matrix — Pre-normalizing trees…
+18:58:10 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:58:10] "GET /api/job/0c3c22a2 HTTP/1.1" 200 -
+18:58:11 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:58:11] "GET /api/job/0c3c22a2 HTTP/1.1" 200 -
+18:58:12 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:58:12] "GET /api/job/0c3c22a2 HTTP/1.1" 200 -
+18:58:13 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:58:13] "GET /api/status HTTP/1.1" 200 -
+18:58:13 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:58:13] "GET /api/job/0c3c22a2 HTTP/1.1" 200 -
+18:58:14 [INFO    ] clustering.distance_matrix — Matrix stats: {'n': 17, 'pairs': 136, 'min': 0.236268, 'max': 0.601973, 'mean': 0.393326, 'std': 0.082123}
+18:58:14 [INFO    ] clustering.models — Distance matrix saved -> C:\Users\User\Desktop\IDPA PROJECT_V2\IDPA-PROJECT-2\output\clustering\distance_matrix.json  (17x17)
+18:58:15 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:58:15] "GET /api/job/0c3c22a2 HTTP/1.1" 200 -
+18:58:15 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:58:15] "GET /api/status HTTP/1.1" 200 -
+18:58:15 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:58:15] "GET /api/matrix HTTP/1.1" 200 -
+18:58:20 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:58:20] "GET /api/status HTTP/1.1" 200 -
+18:58:27 [INFO    ] clustering.hierarchical — HAC: n=17, k=3, linkage=complete
+18:58:27 [DEBUG   ] clustering.hierarchical —   Merged clusters 7+11 → 17  (dist=0.2363, size=2)
+18:58:27 [DEBUG   ] clustering.hierarchical —   Merged clusters 2+8 → 18  (dist=0.2421, size=2)
+18:58:27 [DEBUG   ] clustering.hierarchical —   Merged clusters 17+18 → 19  (dist=0.2679, size=4)
+18:58:27 [DEBUG   ] clustering.hierarchical —   Merged clusters 0+1 → 20  (dist=0.2702, size=2)
+18:58:27 [DEBUG   ] clustering.hierarchical —   Merged clusters 4+19 → 21  (dist=0.3081, size=5)
+18:58:27 [DEBUG   ] clustering.hierarchical —   Merged clusters 6+12 → 22  (dist=0.3160, size=2)
+18:58:27 [DEBUG   ] clustering.hierarchical —   Merged clusters 9+13 → 23  (dist=0.3292, size=2)
+18:58:27 [DEBUG   ] clustering.hierarchical —   Merged clusters 14+20 → 24  (dist=0.3501, size=3)
+18:58:27 [DEBUG   ] clustering.hierarchical —   Merged clusters 21+22 → 25  (dist=0.3717, size=7)
+18:58:27 [DEBUG   ] clustering.hierarchical —   Merged clusters 23+24 → 26  (dist=0.3940, size=5)
+18:58:27 [DEBUG   ] clustering.hierarchical —   Merged clusters 15+25 → 27  (dist=0.3981, size=8)
+18:58:27 [DEBUG   ] clustering.hierarchical —   Merged clusters 5+26 → 28  (dist=0.4256, size=6)
+18:58:27 [DEBUG   ] clustering.hierarchical —   Merged clusters 10+27 → 29  (dist=0.4681, size=9)
+18:58:27 [DEBUG   ] clustering.hierarchical —   Merged clusters 16+28 → 30  (dist=0.4858, size=7)
+18:58:27 [INFO    ] clustering.hierarchical — HAC complete.  Inertia=4.4295
+18:58:27 [INFO    ] clustering.evaluation — Computing evaluation metrics for hierarchical result…
+18:58:27 [INFO    ] clustering.evaluation — Evaluation complete.  silhouette=0.0826  inertia=4.4295
+18:58:27 [INFO    ] clustering.pipeline — run('hierarchical', k=3) finished in 0.00s  inertia=4.4295  silhouette=0.0826
+18:58:27 [INFO    ] clustering.models — ClusterResult saved -> C:\Users\User\Desktop\IDPA PROJECT_V2\IDPA-PROJECT-2\output\clustering\hierarchical_k3.json
+18:58:27 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:58:27] "POST /api/cluster HTTP/1.1" 200 -
+18:58:27 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:58:27] "GET /api/results HTTP/1.1" 200 -
+18:58:28 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:58:28] "GET /api/results HTTP/1.1" 200 -
+18:58:28 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:58:28] "GET /api/result/hierarchical_k3.json HTTP/1.1" 200 -
+18:58:28 [INFO    ] werkzeug — 127.0.0.1 - - [18/May/2026 18:58:28] "GET /api/status HTTP/1.1" 200 -
+19:27:11 [INFO    ] clustering.kmedoids — K-Medoids: n=6, k=2, init=heuristic, max_iter=100
+19:27:11 [DEBUG   ] clustering.kmedoids — Initial medoids: ['B3', 'A1']
+19:27:11 [DEBUG   ] clustering.kmedoids —   iter 0  inertia=0.210000
+19:27:11 [DEBUG   ] clustering.kmedoids —     Swap medoid[0]=B3 → B4  (inertia=0.200000)
+19:27:11 [DEBUG   ] clustering.kmedoids —   iter 1  inertia=0.200000
+19:27:11 [INFO    ] clustering.kmedoids — K-Medoids converged in 2 iteration(s).  Inertia=0.200000
+19:27:11 [INFO    ] clustering.kmedoids — K-Medoids complete.  k=2, inertia=0.2000, iters=2
+19:27:11 [INFO    ] clustering.evaluation — Computing evaluation metrics for kmedoids result…
+19:27:11 [INFO    ] clustering.evaluation — Evaluation complete.  silhouette=0.9390  inertia=0.2000
+19:27:11 [INFO    ] clustering.hierarchical — HAC: n=6, k=2, linkage=average
+19:27:11 [DEBUG   ] clustering.hierarchical —   Merged clusters 3+4 → 6  (dist=0.0400, size=2)
+19:27:11 [DEBUG   ] clustering.hierarchical —   Merged clusters 0+1 → 7  (dist=0.0500, size=2)
+19:27:11 [DEBUG   ] clustering.hierarchical —   Merged clusters 5+6 → 8  (dist=0.0550, size=3)
+19:27:11 [DEBUG   ] clustering.hierarchical —   Merged clusters 2+7 → 9  (dist=0.0650, size=3)
+19:27:11 [INFO    ] clustering.hierarchical — HAC complete.  Inertia=0.2000
+19:27:11 [INFO    ] clustering.evaluation — Computing evaluation metrics for hierarchical result…
+19:27:11 [INFO    ] clustering.evaluation — Evaluation complete.  silhouette=0.9390  inertia=0.2000
+19:27:11 [INFO    ] clustering.models — Distance matrix saved -> output\clustering\_test_matrix.json  (6x6)
+19:27:11 [INFO    ] clustering.models — Distance matrix loaded <- output\clustering\_test_matrix.json  (6x6)
+19:27:11 [INFO    ] clustering.models — ClusterResult saved -> output\clustering\_test_result.json
+19:27:11 [INFO    ] clustering.kmedoids — K-Medoids: n=6, k=1, init=heuristic, max_iter=100
+19:27:11 [DEBUG   ] clustering.kmedoids — Initial medoids: ['B3']
+19:27:11 [DEBUG   ] clustering.kmedoids —   iter 0  inertia=2.790000
+19:27:11 [INFO    ] clustering.kmedoids — K-Medoids converged in 1 iteration(s).  Inertia=2.790000
+19:27:11 [INFO    ] clustering.kmedoids — K-Medoids complete.  k=1, inertia=2.7900, iters=1

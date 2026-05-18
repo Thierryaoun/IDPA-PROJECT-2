@@ -106,10 +106,11 @@ def intra_cluster_distances(
 ) -> Dict[int, dict]:
     """
     For each cluster compute:
-      avg_intra_dist  — mean pairwise distance within the cluster
-      max_intra_dist  — max distance between any member and its medoid
-      diameter        — max pairwise distance between any two cluster members
-      size            — number of members
+      avg_distance_to_medoid — mean distance from each member to the cluster medoid
+      max_distance_to_medoid — max distance from any member to the medoid
+      avg_pairwise_distance  — true mean of all pairwise within-cluster distances
+      diameter               — max pairwise distance between any two cluster members
+      size                   — number of members
     """
     stats: Dict[int, dict] = {}
 
@@ -121,29 +122,33 @@ def intra_cluster_distances(
         if size == 1:
             stats[cid] = {
                 "size": 1,
-                "avg_intra_dist": 0.0,
-                "max_intra_dist": 0.0,
+                "avg_distance_to_medoid": 0.0,
+                "max_distance_to_medoid": 0.0,
+                "avg_pairwise_distance":  0.0,
                 "diameter": 0.0,
             }
             continue
 
         # avg / max distance from each member to the medoid
         dists_to_medoid = [dm.get(i, medoid_idx) for i in indices]
-        avg_intra = sum(dists_to_medoid) / size
-        max_intra = max(dists_to_medoid)
+        avg_to_medoid = sum(dists_to_medoid) / size
+        max_to_medoid = max(dists_to_medoid)
 
-        # diameter: max pairwise within cluster
-        diameter = max(
-            dm.get(i, j)
+        # All unique pairwise distances within the cluster
+        pairwise = [
+            dm.get(indices[a], indices[b])
             for a in range(len(indices))
-            for i, j in [(indices[a], indices[b]) for b in range(a + 1, len(indices))]
-        ) if size > 1 else 0.0
+            for b in range(a + 1, len(indices))
+        ]
+        avg_pairwise = sum(pairwise) / len(pairwise) if pairwise else 0.0
+        diameter     = max(pairwise) if pairwise else 0.0
 
         stats[cid] = {
             "size": size,
-            "avg_intra_dist": round(avg_intra, 6),
-            "max_intra_dist": round(max_intra, 6),
-            "diameter": round(diameter, 6),
+            "avg_distance_to_medoid": round(avg_to_medoid, 6),
+            "max_distance_to_medoid": round(max_to_medoid, 6),
+            "avg_pairwise_distance":  round(avg_pairwise, 6),
+            "diameter":               round(diameter, 6),
         }
 
     return stats

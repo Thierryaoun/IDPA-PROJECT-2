@@ -74,7 +74,14 @@ def kmedoids(
     -------
     ClusterResult with medoids, assignments, inertia, and convergence info.
     """
-    n_clusters = max(1, min(n_clusters, dm.n))
+    if dm.n == 0:
+        raise ValueError("Distance matrix is empty (n=0).")
+    if n_clusters < 1:
+        raise ValueError(f"n_clusters must be >= 1, got {n_clusters}.")
+    if n_clusters > dm.n:
+        raise ValueError(
+            f"n_clusters={n_clusters} exceeds number of documents n={dm.n}."
+        )
     logger.info(
         "K-Medoids: n=%d, k=%d, init=%s, max_iter=%d",
         dm.n, n_clusters, init_method, max_iter,
@@ -174,10 +181,13 @@ def kmedoids(
         medoids=medoids_by_name,
         inertia=round(final_inertia, 6),
         metadata={
-            "iterations": iterations_run,
-            "converged": converged,
-            "init_method": init_method,
-            "seed": seed,
+            "iterations":     iterations_run,
+            "converged":      converged,
+            "init_method":    init_method,
+            "seed":           seed,
+            # Matrix provenance — used by frontend to refuse mismatched display
+            "matrix_id":     dm.matrix_id,
+            "matrix_labels": dm.labels,
         },
     )
     logger.info(

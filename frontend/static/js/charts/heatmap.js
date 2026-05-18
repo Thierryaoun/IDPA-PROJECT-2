@@ -83,15 +83,16 @@ const HeatmapChart = (() => {
         .append("div")
         .attr("class", "hm-tooltip")
         .style("position", "absolute")
-        .style("background",  "rgba(15,17,23,0.94)")
-        .style("border",      "1px solid #2e3350")
+        .style("background",  "rgba(255,255,255,0.97)")
+        .style("border",      "1px solid #bcc6d4")
         .style("border-radius", "6px")
         .style("padding",     "7px 11px")
         .style("font-size",   "12px")
-        .style("color",       "#e2e8f0")
+        .style("color",       "#1a2035")
         .style("pointer-events", "none")
         .style("white-space", "nowrap")
         .style("z-index",     "50")
+        .style("box-shadow",  "0 4px 12px rgba(0,0,0,0.10)")
         .style("display",     "none");
     }
 
@@ -108,8 +109,8 @@ const HeatmapChart = (() => {
           .attr("y",      ri * CELL)
           .attr("width",  CELL)
           .attr("height", CELL)
-          .attr("fill",   isDiag ? "#1a1d27" : colorScale(dist))
-          .attr("stroke", CELL > 6 ? "#0f1117" : "none")
+          .attr("fill",   isDiag ? "#e8edf4" : colorScale(dist))
+          .attr("stroke", CELL > 6 ? "#ffffff" : "none")
           .attr("stroke-width", CELL > 6 ? 0.5 : 0)
           .on("mouseover", function(event) {
             if (!isDiag) {
@@ -122,11 +123,11 @@ const HeatmapChart = (() => {
                 .html(`
                   <div style="margin-bottom:4px">
                     <span style="color:${cRColor};font-weight:700">${cleanLabel(rowLbl)}</span>
-                    <span style="color:#8892a4"> vs </span>
+                    <span style="color:#5a6a85"> vs </span>
                     <span style="color:${cCColor};font-weight:700">${cleanLabel(colLbl)}</span>
                   </div>
-                  <div>Distance: <strong style="color:#e2e8f0">${dist.toFixed(4)}</strong></div>
-                  <div style="color:#8892a4;font-size:10px">Similarity: ${((1-dist)*100).toFixed(1)}%</div>
+                  <div>Distance: <strong style="color:#1a2035">${dist.toFixed(4)}</strong></div>
+                  <div style="color:#5a6a85;font-size:10px">Similarity: ${((1-dist)*100).toFixed(1)}%</div>
                 `);
             }
             d3.select(this)
@@ -146,7 +147,7 @@ const HeatmapChart = (() => {
             const origR2 = origIndex[rowLbl];
             const origC2 = origIndex[colLbl];
             d3.select(this)
-              .attr("stroke", CELL > 6 ? "#0f1117" : "none")
+              .attr("stroke", CELL > 6 ? "#ffffff" : "none")
               .attr("stroke-width", CELL > 6 ? 0.5 : 0);
           });
       });
@@ -232,8 +233,8 @@ const HeatmapChart = (() => {
         .attr("x",           0)
         .attr("y",           -8)
         .attr("font-size",   "11px")
-        .attr("fill",        "#8892a4")
-        .text(`${n} × ${n} matrix  (labels hidden above 60 countries — hover for names)`);
+        .attr("fill",        "#64748b")
+        .text(`${n} x ${n} matrix  (labels hidden above 60 countries — hover for names)`);
     }
 
     /* ── Colour legend ── */
@@ -254,13 +255,13 @@ const HeatmapChart = (() => {
     lg.append("rect")
       .attr("width", lgW).attr("height", 10).attr("rx", 3)
       .attr("fill", `url(#hm-gradient-${containerId})`);
-    lg.append("text").attr("y", 22).attr("font-size", "10px").attr("fill", "#8892a4")
+    lg.append("text").attr("y", 22).attr("font-size", "10px").attr("fill", "#64748b")
       .text("0 (identical)");
     lg.append("text").attr("x", lgW).attr("y", 22)
-      .attr("text-anchor", "end").attr("font-size", "10px").attr("fill", "#8892a4")
+      .attr("text-anchor", "end").attr("font-size", "10px").attr("fill", "#64748b")
       .text(`${maxDist.toFixed(3)} (max distance)`);
     lg.append("text").attr("x", lgW / 2).attr("y", 34)
-      .attr("text-anchor", "middle").attr("font-size", "10px").attr("fill", "#3d4463")
+      .attr("text-anchor", "middle").attr("font-size", "10px").attr("fill", "#94a3b8")
       .text("TED distance");
   }
 

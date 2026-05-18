@@ -4,11 +4,11 @@
 
 /* ── Region quick-select map ───────────────────────────────────────────────── */
 const REGION_MAP = {
-  MiddleEast: ["Lebanon","Syria","Jordan","Iraq","Egypt","Saudi_Arabia","Iran","Israel","Yemen","Kuwait","Bahrain","Qatar","Oman","Syria"],
+  MiddleEast: ["Lebanon","Syrian_Arab_Republic","Jordan","Iraq","Egypt","Saudi_Arabia","Iran__Islamic_Republic_of","Israel","Yemen","Kuwait","Bahrain","Qatar","Oman"],
   Europe:     ["France","Germany","Switzerland","Italy","Spain","United_Kingdom","Poland","Netherlands","Sweden","Norway","Denmark","Finland","Belgium","Austria","Portugal","Greece","Czech_Republic","Hungary","Romania","Bulgaria"],
-  LatAm:      ["Brazil","Argentina","Chile","Colombia","Peru","Mexico","Venezuela","Ecuador","Bolivia","Paraguay","Uruguay","Cuba","Dominican_Republic","Guatemala","Honduras","El_Salvador","Nicaragua","Costa_Rica","Panama"],
-  Asia:       ["China","Japan","India","South_Korea","Indonesia","Philippines","Vietnam","Thailand","Malaysia","Singapore","Bangladesh","Pakistan","Sri_Lanka","Nepal","Myanmar","Cambodia","Laos","Mongolia"],
-  Africa:     ["Nigeria","Kenya","Ethiopia","South_Africa","Ghana","Tanzania","Uganda","Rwanda","Senegal","Morocco","Algeria","Tunisia","Libya","Sudan","Egypt","Cameroon","Ivory_Coast","Mali","Niger"],
+  LatAm:      ["Brazil","Argentina","Chile","Colombia","Peru","Mexico","Venezuela__Bolivarian_Republic_of","Ecuador","Bolivia__Plurinational_State_of","Paraguay","Uruguay","Cuba","Dominican_Republic","Guatemala","Honduras","El_Salvador","Nicaragua","Costa_Rica","Panama"],
+  Asia:       ["China","Japan","India","Republic_of_Korea","Indonesia","Philippines","Viet_Nam","Thailand","Malaysia","Singapore","Bangladesh","Pakistan","Sri_Lanka","Nepal","Myanmar","Cambodia","Lao_People_s_Democratic_Republic","Mongolia"],
+  Africa:     ["Nigeria","Kenya","Ethiopia","South_Africa","Ghana","United_Republic_of_Tanzania","Uganda","Rwanda","Senegal","Morocco","Algeria","Tunisia","Libya","Sudan","Egypt","Cameroon","Cote_d_Ivoire","Mali","Niger"],
 };
 
 /* ── Label cleaning ─────────────────────────────────────────────────────────
@@ -63,7 +63,7 @@ const App = (() => {
     document.querySelectorAll(".page").forEach(el =>
       el.classList.toggle("active", el.id === `page-${page}`));
     if (page === "results") refreshResults();
-    if (page === "compare") refreshCompare();
+    if (page === "compare") refreshResults();
   }
 
   /* ── Status indicator ─────────────────────────────────────────────────── */
@@ -271,10 +271,15 @@ const App = (() => {
       const data = await API.getResult(filename);
       _currentResult = data;
 
-      /* Load the matrix that matches this result's n_documents */
-      const nDocs = data.metadata && data.metadata.n_documents;
-      if (!_matrixData || (nDocs && _matrixData.n !== nDocs)) {
-        try { _matrixData = await API.getMatrix(nDocs || undefined); } catch (_) {}
+      /* Load the matrix that produced this result (by ID if available, size otherwise) */
+      const matrixId = data.metadata && data.metadata.matrix_id;
+      const nDocs    = data.metadata && data.metadata.n_documents;
+      if (matrixId) {
+        if (!_matrixData || _matrixData.matrix_id !== matrixId) {
+          try { _matrixData = await API.getMatrix({ id: matrixId }); } catch (_) {}
+        }
+      } else if (nDocs && (!_matrixData || _matrixData.n !== nDocs)) {
+        try { _matrixData = await API.getMatrix({ n: nDocs }); } catch (_) {}
       }
 
       renderResultMetrics(data);
@@ -311,8 +316,8 @@ const App = (() => {
     const container = document.getElementById("cluster-cards-container");
     container.innerHTML = "";
     const PALETTE = [
-      "#6366f1","#22c55e","#f59e0b","#ef4444","#a855f7",
-      "#3b82f6","#ec4899","#14b8a6","#f97316","#84cc16",
+      "#4f46e5","#16a34a","#d97706","#dc2626","#7c3aed",
+      "#2563eb","#db2777","#0d9488","#ea580c","#65a30d",
     ];
 
     const distOf = {};
@@ -345,8 +350,8 @@ const App = (() => {
         </div>
         ${stats ? `
         <div class="cluster-stats-bar">
-          <span class="cstat">avg&nbsp;<strong>${(stats.avg_intra_dist||0).toFixed(3)}</strong></span>
-          <span class="cstat">max&nbsp;<strong>${(stats.max_intra_dist||0).toFixed(3)}</strong></span>
+          <span class="cstat">avg dist&nbsp;<strong>${(stats.avg_distance_to_medoid||0).toFixed(3)}</strong></span>
+          <span class="cstat">pairwise&nbsp;<strong>${(stats.avg_pairwise_distance||0).toFixed(3)}</strong></span>
           <span class="cstat">diam&nbsp;<strong>${(stats.diameter||0).toFixed(3)}</strong></span>
         </div>` : ""}
       `;
@@ -366,13 +371,54 @@ const App = (() => {
 
   function renderCurrentTab() {
     if (!_currentResult) return;
+    if (_activeTab === "clusters") return;  // cluster cards rendered separately
+
+    const chartId = `chart-${_activeTab}`;
+    const chartEl = document.getElementById(chartId);
+    if (!chartEl) return;
+
+    /* Check matrix-result provenance */
+    const resultMid = _currentResult.metadata && _currentResult.metadata.matrix_id;
+    const hasInfo   = !!resultMid;
+
+    if (!_matrixData) {
+      chartEl.innerHTML = '<div class="empty-state"><div class="empty-text">Distance matrix not loaded. Use the Dataset page to compute or load a matrix first.</div></div>';
+      return;
+    }
+
+    if (hasInfo && _matrixData.matrix_id && _matrixData.matrix_id !== resultMid) {
+      chartEl.innerHTML = `<div class="empty-state warn"><div class="empty-text">
+        <strong>Matrix mismatch.</strong><br>
+        This result was computed with matrix&nbsp;<code>${resultMid}</code>
+        but the loaded matrix is&nbsp;<code>${_matrixData.matrix_id}</code>.<br>
+        Go to the Dataset page, select the same countries, and recompute the matrix.
+      </div></div>`;
+      return;
+    }
+
+    /* Legacy result (no matrix_id stored) — show a soft warning banner but still render */
+    if (!hasInfo) {
+      const banner = document.createElement("div");
+      banner.className = "info-note";
+      banner.style.marginBottom = "0.75rem";
+      banner.innerHTML = "<strong>Note:</strong> This is a legacy result with no matrix provenance record. The chart may be incorrect if the matrix has changed since this result was computed.";
+      chartEl.innerHTML = "";
+      chartEl.appendChild(banner);
+      const inner = document.createElement("div");
+      inner.id = chartId + "-inner";
+      chartEl.appendChild(inner);
+      if (_activeTab === "dendrogram") DendrogramChart.render(chartId + "-inner", _currentResult, _matrixData);
+      else if (_activeTab === "heatmap") HeatmapChart.render(chartId + "-inner", _currentResult, _matrixData);
+      else if (_activeTab === "clustermap") ClustermapChart.render(chartId + "-inner", _currentResult, _matrixData);
+      return;
+    }
+
     if (_activeTab === "dendrogram") {
-      /* Pass matrixData so dendrogram can resolve integer node IDs → names */
-      DendrogramChart.render("chart-dendrogram", _currentResult, _matrixData);
+      DendrogramChart.render(chartId, _currentResult, _matrixData);
     } else if (_activeTab === "heatmap") {
-      HeatmapChart.render("chart-heatmap", _currentResult, _matrixData);
+      HeatmapChart.render(chartId, _currentResult, _matrixData);
     } else if (_activeTab === "clustermap") {
-      ClustermapChart.render("chart-clustermap", _currentResult, _matrixData);
+      ClustermapChart.render(chartId, _currentResult, _matrixData);
     }
   }
 
@@ -423,8 +469,8 @@ const App = (() => {
 
   function _renderCmpColumn(colId, result, filename) {
     const PALETTE = [
-      "#6366f1","#22c55e","#f59e0b","#ef4444","#a855f7",
-      "#3b82f6","#ec4899","#14b8a6","#f97316","#84cc16",
+      "#4f46e5","#16a34a","#d97706","#dc2626","#7c3aed",
+      "#2563eb","#db2777","#0d9488","#ea580c","#65a30d",
     ];
     const col = document.getElementById(colId);
     col.innerHTML = `<div class="cmp-header">${filename}</div>`;

@@ -75,14 +75,13 @@ def load_country_trees(
         if not fname.endswith(".json") or fname.startswith("_"):
             continue
 
-        stem = fname[:-5]               # strip ".json"
-        display_name = stem.replace("_", " ")
+        stem = fname[:-5]               # strip ".json"  ← stable internal ID
 
         if filter_set and stem.lower() not in filter_set:
             continue
 
         try:
-            trees[display_name] = load_tree_from_json(
+            trees[stem] = load_tree_from_json(
                 os.path.join(tree_dir, fname)
             )
         except Exception as exc:

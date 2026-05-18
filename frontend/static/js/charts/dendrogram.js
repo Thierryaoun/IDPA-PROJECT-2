@@ -9,8 +9,9 @@
  * Leaf IDs 0..n-1 map to matrixData.labels[i].
  * Internal nodes get IDs n, n+1, … (the new_id values).
  *
- * If k > 1, the tree is partial (stops before full root).
- * A lightweight virtual root is added so D3 has one tree.
+ * If k > 1 the algorithm stopped before the full root, so the dendrogram
+ * is partial: k sub-trees remain. A lightweight virtual root is added so
+ * D3 has a single tree to render, and a note is shown to the user.
  */
 
 const DendrogramChart = (() => {
@@ -23,7 +24,7 @@ const DendrogramChart = (() => {
 
     const history = result && result.metadata && result.metadata.merge_history;
     if (!history || history.length === 0) {
-      _empty(el, "Dendrogram is only available for Hierarchical clustering.");
+      _empty(el, "Dendrogram is only available for Hierarchical (HAC) clustering.");
       return;
     }
     if (!matrixData || !matrixData.labels) {
@@ -31,11 +32,21 @@ const DendrogramChart = (() => {
       return;
     }
 
-    const labels = matrixData.labels;   // index → country name
-    const root   = _buildTree(history, labels, result);
+    const labels   = matrixData.labels;   // index → country name
+    const isPartial = result.n_clusters > 1;
+    const root     = _buildTree(history, labels, result);
     if (!root) { _empty(el, "Could not build dendrogram tree."); return; }
 
-    _draw(el, root, result, labels.length);
+    /* Truncation note for partial trees */
+    if (isPartial) {
+      const note = document.createElement("div");
+      note.className = "info-note";
+      note.style.marginBottom = "0.6rem";
+      note.innerHTML = `<strong>Partial dendrogram</strong> — showing ${result.n_clusters} sub-trees (k=${result.n_clusters}). The algorithm stopped before merging all clusters into one root. The dashed virtual connector is not a real merge step.`;
+      el.appendChild(note);
+    }
+
+    _draw(el, root, result, labels.length, isPartial);
   }
 
   /* ── Build tree from merge_history ─────────────────────────────────────── */
@@ -101,13 +112,13 @@ const DendrogramChart = (() => {
     /* Virtual root: height slightly above the last merge */
     const maxH = history[history.length - 1].distance;
     return {
-      id:       -1,
-      name:     "root",
-      cluster:  -1,
-      height:   maxH * 1.05,
-      isLeaf:   false,
+      id:        -1,
+      name:      "root",
+      cluster:   -1,
+      height:    maxH * 1.08,
+      isLeaf:    false,
       isVirtual: true,
-      children: roots,
+      children:  roots,
     };
   }
 
@@ -125,13 +136,13 @@ const DendrogramChart = (() => {
 
   /* ── Draw ───────────────────────────────────────────────────────────────── */
 
-  function _draw(el, root, result, n) {
+  function _draw(el, root, result, n, isPartial) {
     const PALETTE = [
-      "#6366f1","#22c55e","#f59e0b","#ef4444","#a855f7",
-      "#3b82f6","#ec4899","#14b8a6","#f97316","#84cc16",
+      "#4f46e5","#16a34a","#d97706","#dc2626","#7c3aed",
+      "#2563eb","#db2777","#0d9488","#ea580c","#65a30d",
     ];
     const color = (cluster) =>
-      cluster >= 0 ? PALETTE[cluster % PALETTE.length] : "#8892a4";
+      cluster >= 0 ? PALETTE[cluster % PALETTE.length] : "#94a3b8";
 
     /* ── Compute leaf y-positions (depth-first left-to-right) ── */
     const leaves = [];
@@ -158,7 +169,7 @@ const DendrogramChart = (() => {
     assignY(root);
 
     /* ── SVG setup with zoom/pan ── */
-    const LABEL_W = 130;
+    const LABEL_W = 140;
     const AXIS_H  = 36;
     const PAD     = { top: AXIS_H + 8, right: LABEL_W + 8, bottom: 16, left: 12 };
     const svgW    = (el.clientWidth  || 720);
@@ -195,20 +206,21 @@ const DendrogramChart = (() => {
     function drawLinks(node) {
       if (!node.children || node.children.length === 0) return;
 
-      const px = xScale(node.height);   // parent x (further right = lower distance)
+      const px = xScale(node.height);
       const py = node._y;
 
       /* Vertical bar at parent x connecting the children */
-      const ys = node.children.map(c => c._y);
+      const ys  = node.children.map(c => c._y);
       const yMin = Math.min(...ys);
       const yMax = Math.max(...ys);
 
       linksG.append("line")
         .attr("x1", px).attr("y1", yMin)
         .attr("x2", px).attr("y2", yMax)
-        .attr("stroke", node.isVirtual ? "#2e3350" : color(_dominantCluster(node)))
-        .attr("stroke-width", node.isVirtual ? 1 : 1.5)
-        .attr("stroke-opacity", node.isVirtual ? 0.4 : 0.7);
+        .attr("stroke",        node.isVirtual ? "#cbd5e1" : color(_dominantCluster(node)))
+        .attr("stroke-width",  node.isVirtual ? 1 : 1.5)
+        .attr("stroke-opacity",node.isVirtual ? 0.5 : 0.7)
+        .attr("stroke-dasharray", node.isVirtual ? "4,3" : null);
 
       /* Horizontal arms to each child */
       node.children.forEach(child => {
@@ -216,14 +228,15 @@ const DendrogramChart = (() => {
         const cy = child._y;
         const lineColor = child.isLeaf
           ? color(child.cluster)
-          : (node.isVirtual ? "#2e3350" : color(_dominantCluster(child)));
+          : (node.isVirtual ? "#cbd5e1" : color(_dominantCluster(child)));
 
         linksG.append("line")
           .attr("x1", px).attr("y1", cy)
           .attr("x2", cx).attr("y2", cy)
-          .attr("stroke", lineColor)
-          .attr("stroke-width", child.isLeaf ? 1 : 1.5)
-          .attr("stroke-opacity", node.isVirtual ? 0.4 : 0.8);
+          .attr("stroke",        lineColor)
+          .attr("stroke-width",  child.isLeaf ? 1 : 1.5)
+          .attr("stroke-opacity",node.isVirtual ? 0.5 : 0.8)
+          .attr("stroke-dasharray", node.isVirtual ? "4,3" : null);
 
         drawLinks(child);
       });
@@ -238,9 +251,9 @@ const DendrogramChart = (() => {
 
       nodesG.append("circle")
         .attr("cx", x).attr("cy", y).attr("r", 3.5)
-        .attr("fill", c)
-        .attr("stroke", "#0f1117")
-        .attr("stroke-width", 1);
+        .attr("fill",   c)
+        .attr("stroke", "#ffffff")
+        .attr("stroke-width", 1.5);
 
       nodesG.append("text")
         .attr("x", x + 6)
@@ -253,25 +266,25 @@ const DendrogramChart = (() => {
     /* ── Distance axis ── */
     const axisScale = d3.scaleLinear()
       .domain([0, maxDist])
-      .range([plotW, 0]);   // reversed: 0 on right, max on left
+      .range([plotW, 0]);
 
     const axis = d3.axisTop(axisScale)
       .ticks(6)
       .tickFormat(d3.format(".3f"));
 
     const axisG = outerG.append("g").call(axis);
-    axisG.select(".domain").attr("stroke", "#2e3350");
-    axisG.selectAll("line").attr("stroke", "#2e3350");
+    axisG.select(".domain").attr("stroke", "#cbd5e1");
+    axisG.selectAll("line").attr("stroke", "#cbd5e1");
     axisG.selectAll("text")
-      .attr("fill", "#8892a4")
+      .attr("fill", "#64748b")
       .attr("font-size", "10px");
     axisG.append("text")
       .attr("x", plotW / 2)
       .attr("y", -24)
       .attr("text-anchor", "middle")
-      .attr("fill", "#8892a4")
+      .attr("fill", "#64748b")
       .attr("font-size", "10px")
-      .text("Merge distance (lower = more similar)   ←");
+      .text("Merge distance (lower = more similar)   <-");
 
     /* ── Zoom hint ── */
     outerG.append("text")
@@ -279,8 +292,8 @@ const DendrogramChart = (() => {
       .attr("y", plotH + PAD.bottom - 2)
       .attr("text-anchor", "end")
       .attr("font-size", "9px")
-      .attr("fill", "#3d4463")
-      .text("scroll to zoom · drag to pan");
+      .attr("fill", "#94a3b8")
+      .text("scroll to zoom  drag to pan");
   }
 
   /* ── Helpers ─────────────────────────────────────────────────────────────── */
