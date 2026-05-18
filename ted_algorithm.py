@@ -15,11 +15,24 @@ INF_COST = 999999.0  # Forbids cross-field content rename
 FIELD_ALIASES = {
     "official_language": "languages.official",
     "official_languages": "languages.official",
+    "official_language_and_national_language": "languages.official",
+    "official_and_national_language": "languages.official",
+    "official_language_or_national_language": "languages.official",
+    "national_language": "languages.official",
+    "national_languages_and_official_languages": "languages.official",
     "recognized_national_languages": "languages.recognized",
     "recognized_languages": "languages.recognized",
     "recognised_minority_language": "languages.recognized",
     "recognised_minority_languages": "languages.recognized",
     "national_languages": "languages.recognized",
+    "national_minority_languages": "languages.recognized",
+    "national_minority_language": "languages.recognized",
+    "regional_languages": "languages.recognized",
+    "regional_language": "languages.recognized",
+    "co_official_languages": "languages.recognized",
+    "co_official_language": "languages.recognized",
+    "minority_languages": "languages.recognized",
+    "minority_language": "languages.recognized",
     "spoken_languages": "languages.spoken",
     "local_vernacular": "languages.spoken",
     "national_vernacular": "languages.spoken",
@@ -65,6 +78,29 @@ IGNORE_FIELDS = {
     "speaker_of_the_parliament", "council_president", "assembly_president",
     "knesset_speaker", "legislature", "largest_city", "demonym",
     "identity.capital",
+    # Legislature chamber names — differ between every parliamentary country → noise
+    "lower_house", "upper_house",
+    # Demonyms and nationality labels — not semantically meaningful for clustering
+    "demonyms", "nationality",
+    # Additional leader/title fields not caught by the generic list above
+    "emir", "crown_prince", "crown_prince_and_prime_minister",
+    "chancellor", "riksdag_speaker",
+    # Data artifacts from Wikipedia infobox scraping (quarter/month keys)
+    "q1", "q2", "q3", "q4",
+    "january", "february", "march", "april", "june",
+    "july", "august", "september", "october", "november", "december",
+    # Country-name-in-regional-language fields (Spain, etc.) — these are native_name variants,
+    # not linguistic content. A country name written in Basque/Catalan/Galician tells us nothing
+    # about linguistic policy and inflates the structural distance for Spain unfairly.
+    "basque", "catalan", "catalan_valencian", "valencian",
+    "galician", "occitan_aranese", "aranese", "aragonese", "asturian",
+    "breton", "scots_gaelic", "welsh", "irish", "cornish", "manx",
+    # Script/writing system fields — not semantically meaningful for country clustering
+    "official_script", "script",
+    # Additional leader/title fields
+    "emperor", "empress", "sultan", "caliph", "head_of_state", "head_of_government",
+    "president_of_the_senate", "president_of_the_national_assembly",
+    "president_of_the_congress_of_deputies",
 }
 
 FIELD_WEIGHTS = {
@@ -208,6 +244,12 @@ def normalize_field_name(field_name: str) -> str:
         return "demographics.gini"
     if key.endswith("_estimate") or key.endswith("_census") or "population" in key:
         return FIELD_ALIASES.get(key, "demographics.population")
+    # Population estimates embedded in weird field names (e.g. "metropolitan_france_estimate_as_of_january")
+    if "_estimate_as_of_" in key or (re.search(r"_as_of_\d{4}$", key)):
+        return "demographics.population"
+    # Pure month-name keys (population date artifacts: "january", "february_1", etc.)
+    if re.match(r"^(january|february|march|april|june|july|august|september|october|november|december)(_\d+)?$", key):
+        return "demographics.population"
     return FIELD_ALIASES.get(key, key)
 
 
@@ -217,6 +259,24 @@ def should_ignore_field(field_path: str, value: str = "") -> bool:
     if field_path.lower() in IGNORE_FIELDS or leaf in IGNORE_FIELDS:
         return True
     if leaf == "capital" and re.search(r"/\s*\d", value or ""):
+        return True
+    # Any field naming a specific government officer: "president_of_the_X", "chief_X_of_the_Y",
+    # "speaker_of_the_X", etc.  These are leader names in disguise.
+    _OFFICER_PREFIXES = (
+        "president_of_the_", "speaker_of_the_", "chair_of_the_",
+        "chief_justice_of_the_", "secretary_of_the_", "minister_of_the_",
+        "director_of_the_", "head_of_the_", "commissioner_of_the_",
+    )
+    if any(leaf.startswith(p) for p in _OFFICER_PREFIXES):
+        return True
+    if leaf.endswith("_of_the_parliament") or leaf.endswith("_of_parliament"):
+        return True
+    # Population artifact: month name followed by digit (e.g. "january_1", "october_1")
+    _MONTHS = {
+        "january", "february", "march", "april", "june",
+        "july", "august", "september", "october", "november", "december",
+    }
+    if re.match(r"^(" + "|".join(_MONTHS) + r")_\d", leaf):
         return True
     return False
 
@@ -966,8 +1026,10 @@ _GOV_CATEGORIES = {
     "presidential":  frozenset({"presidential"}),
     "parliamentary": frozenset({"parliamentary", "parliament"}),
     "socialist":     frozenset({"socialist", "communist", "marxist"}),
-    "theocracy":     frozenset({"theocracy", "theocratic", "islamic republic"}),
+    "theocracy":     frozenset({"theocracy", "theocratic", "islamic republic", "islamic"}),
     "authoritarian": frozenset({"authoritarian", "autocratic"}),
+    # Distinguishes constitutional/parliamentary monarchies from absolute ones
+    "absolute":      frozenset({"absolute"}),
 }
 
 
@@ -1006,7 +1068,9 @@ def _government_similarity(values1, values2):
     else:
         cat_sim = SequenceMatcher(None, text1, text2).ratio()
     token_sim = _set_similarity(values1, values2)
-    return (cat_sim + token_sim) / 2
+    # Category match carries more weight than token overlap — it distinguishes
+    # absolute monarchy from constitutional/parliamentary monarchy correctly.
+    return 0.65 * cat_sim + 0.35 * token_sim
 
 
 def _distribution_similarity(values1, values2):

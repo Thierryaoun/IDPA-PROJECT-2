@@ -2,85 +2,743 @@
   "algorithm": "kmedoids",
   "n_clusters": 2,
   "linkage": null,
-  "inertia": 1.29381,
-  "silhouette_score": 0.176299,
+  "inertia": 1.792531,
+  "silhouette_score": 0.488813,
   "assignments": [
     {
-      "label": "Egypt",
+      "label": "Austria",
+      "cluster_id": 1,
+      "medoid": "Germany",
+      "distance_to_medoid": 0.083867
+    },
+    {
+      "label": "Belgium",
+      "cluster_id": 1,
+      "medoid": "Germany",
+      "distance_to_medoid": 0.078813
+    },
+    {
+      "label": "Bulgaria",
+      "cluster_id": 1,
+      "medoid": "Germany",
+      "distance_to_medoid": 0.111973
+    },
+    {
+      "label": "Denmark",
       "cluster_id": 0,
-      "medoid": "Egypt",
+      "medoid": "Denmark",
       "distance_to_medoid": 0.0
+    },
+    {
+      "label": "Finland",
+      "cluster_id": 1,
+      "medoid": "Germany",
+      "distance_to_medoid": 0.085558
+    },
+    {
+      "label": "France",
+      "cluster_id": 1,
+      "medoid": "Germany",
+      "distance_to_medoid": 0.130072
     },
     {
       "label": "Germany",
-      "cluster_id": 0,
-      "medoid": "Egypt",
-      "distance_to_medoid": 0.346841
-    },
-    {
-      "label": "Italy",
-      "cluster_id": 0,
-      "medoid": "Egypt",
-      "distance_to_medoid": 0.350911
-    },
-    {
-      "label": "Lebanon",
       "cluster_id": 1,
-      "medoid": "Lebanon",
+      "medoid": "Germany",
       "distance_to_medoid": 0.0
     },
     {
-      "label": "Switzerland",
-      "cluster_id": 0,
-      "medoid": "Egypt",
-      "distance_to_medoid": 0.397474
+      "label": "Greece",
+      "cluster_id": 1,
+      "medoid": "Germany",
+      "distance_to_medoid": 0.077057
     },
     {
-      "label": "Syrian Arab Republic",
+      "label": "Hungary",
       "cluster_id": 1,
-      "medoid": "Lebanon",
-      "distance_to_medoid": 0.198585
+      "medoid": "Germany",
+      "distance_to_medoid": 0.089804
+    },
+    {
+      "label": "Italy",
+      "cluster_id": 1,
+      "medoid": "Germany",
+      "distance_to_medoid": 0.084608
+    },
+    {
+      "label": "Norway",
+      "cluster_id": 1,
+      "medoid": "Germany",
+      "distance_to_medoid": 0.233464
+    },
+    {
+      "label": "Poland",
+      "cluster_id": 1,
+      "medoid": "Germany",
+      "distance_to_medoid": 0.084336
+    },
+    {
+      "label": "Portugal",
+      "cluster_id": 1,
+      "medoid": "Germany",
+      "distance_to_medoid": 0.174669
+    },
+    {
+      "label": "Romania",
+      "cluster_id": 1,
+      "medoid": "Germany",
+      "distance_to_medoid": 0.091148
+    },
+    {
+      "label": "Spain",
+      "cluster_id": 1,
+      "medoid": "Germany",
+      "distance_to_medoid": 0.072196
+    },
+    {
+      "label": "Sweden",
+      "cluster_id": 1,
+      "medoid": "Germany",
+      "distance_to_medoid": 0.099996
+    },
+    {
+      "label": "Switzerland",
+      "cluster_id": 1,
+      "medoid": "Germany",
+      "distance_to_medoid": 0.294971
     }
   ],
   "clusters": {
     "0": [
-      "Egypt",
-      "Germany",
-      "Italy",
-      "Switzerland"
+      "Denmark"
     ],
     "1": [
-      "Lebanon",
-      "Syrian Arab Republic"
+      "Austria",
+      "Belgium",
+      "Bulgaria",
+      "Finland",
+      "France",
+      "Germany",
+      "Greece",
+      "Hungary",
+      "Italy",
+      "Norway",
+      "Poland",
+      "Portugal",
+      "Romania",
+      "Spain",
+      "Sweden",
+      "Switzerland"
     ]
   },
   "medoids": {
-    "0": "Egypt",
-    "1": "Lebanon"
+    "0": "Denmark",
+    "1": "Germany"
   },
   "cluster_stats": {
     "0": {
-      "size": 4,
-      "avg_intra_dist": 0.273806,
-      "max_intra_dist": 0.397474,
-      "diameter": 0.466085
+      "size": 1,
+      "avg_distance_to_medoid": 0.0,
+      "max_distance_to_medoid": 0.0,
+      "avg_pairwise_distance": 0.0,
+      "diameter": 0.0,
+      "closest_pair": null,
+      "farthest_pair": null
     },
     "1": {
-      "size": 2,
-      "avg_intra_dist": 0.099292,
-      "max_intra_dist": 0.198585,
-      "diameter": 0.198585
+      "size": 16,
+      "avg_distance_to_medoid": 0.112033,
+      "max_distance_to_medoid": 0.294971,
+      "avg_pairwise_distance": 0.174449,
+      "diameter": 0.341645,
+      "closest_pair": {
+        "a": "Spain",
+        "b": "Sweden",
+        "distance": 0.063057
+      },
+      "farthest_pair": {
+        "a": "Portugal",
+        "b": "Switzerland",
+        "distance": 0.341645
+      }
     }
   },
   "metadata": {
-    "iterations": 3,
+    "iterations": 1,
     "converged": true,
     "init_method": "heuristic",
     "seed": 42,
-    "run_time_seconds": 0.003,
-    "n_documents": 6,
+    "matrix_id": "e1a98e88b6f5",
+    "matrix_labels": [
+      "Austria",
+      "Belgium",
+      "Bulgaria",
+      "Denmark",
+      "Finland",
+      "France",
+      "Germany",
+      "Greece",
+      "Hungary",
+      "Italy",
+      "Norway",
+      "Poland",
+      "Portugal",
+      "Romania",
+      "Spain",
+      "Sweden",
+      "Switzerland"
+    ],
+    "n_init": 5,
+    "run_time_seconds": 0.006,
+    "n_documents": 17,
     "inter_cluster_distances": {
-      "0,1": 0.319989
+      "0,1": 0.358106
+    },
+    "nearest_neighbors": {
+      "Austria": [
+        {
+          "label": "Germany",
+          "distance": 0.083867,
+          "same_cluster": true,
+          "cluster_id": 1
+        },
+        {
+          "label": "Belgium",
+          "distance": 0.130333,
+          "same_cluster": true,
+          "cluster_id": 1
+        },
+        {
+          "label": "Sweden",
+          "distance": 0.130585,
+          "same_cluster": true,
+          "cluster_id": 1
+        },
+        {
+          "label": "Romania",
+          "distance": 0.135281,
+          "same_cluster": true,
+          "cluster_id": 1
+        },
+        {
+          "label": "Italy",
+          "distance": 0.141643,
+          "same_cluster": true,
+          "cluster_id": 1
+        }
+      ],
+      "Belgium": [
+        {
+          "label": "Germany",
+          "distance": 0.078813,
+          "same_cluster": true,
+          "cluster_id": 1
+        },
+        {
+          "label": "Sweden",
+          "distance": 0.089975,
+          "same_cluster": true,
+          "cluster_id": 1
+        },
+        {
+          "label": "Spain",
+          "distance": 0.105689,
+          "same_cluster": true,
+          "cluster_id": 1
+        },
+        {
+          "label": "Greece",
+          "distance": 0.112407,
+          "same_cluster": true,
+          "cluster_id": 1
+        },
+        {
+          "label": "Finland",
+          "distance": 0.123443,
+          "same_cluster": true,
+          "cluster_id": 1
+        }
+      ],
+      "Bulgaria": [
+        {
+          "label": "Germany",
+          "distance": 0.111973,
+          "same_cluster": true,
+          "cluster_id": 1
+        },
+        {
+          "label": "Finland",
+          "distance": 0.134826,
+          "same_cluster": true,
+          "cluster_id": 1
+        },
+        {
+          "label": "Sweden",
+          "distance": 0.135007,
+          "same_cluster": true,
+          "cluster_id": 1
+        },
+        {
+          "label": "Romania",
+          "distance": 0.135627,
+          "same_cluster": true,
+          "cluster_id": 1
+        },
+        {
+          "label": "Italy",
+          "distance": 0.140449,
+          "same_cluster": true,
+          "cluster_id": 1
+        }
+      ],
+      "Denmark": [
+        {
+          "label": "Sweden",
+          "distance": 0.33039,
+          "same_cluster": false,
+          "cluster_id": 1
+        },
+        {
+          "label": "Portugal",
+          "distance": 0.330758,
+          "same_cluster": false,
+          "cluster_id": 1
+        },
+        {
+          "label": "Spain",
+          "distance": 0.337237,
+          "same_cluster": false,
+          "cluster_id": 1
+        },
+        {
+          "label": "Finland",
+          "distance": 0.33883,
+          "same_cluster": false,
+          "cluster_id": 1
+        },
+        {
+          "label": "Belgium",
+          "distance": 0.339011,
+          "same_cluster": false,
+          "cluster_id": 1
+        }
+      ],
+      "Finland": [
+        {
+          "label": "Sweden",
+          "distance": 0.068473,
+          "same_cluster": true,
+          "cluster_id": 1
+        },
+        {
+          "label": "Germany",
+          "distance": 0.085558,
+          "same_cluster": true,
+          "cluster_id": 1
+        },
+        {
+          "label": "Greece",
+          "distance": 0.096294,
+          "same_cluster": true,
+          "cluster_id": 1
+        },
+        {
+          "label": "Spain",
+          "distance": 0.103053,
+          "same_cluster": true,
+          "cluster_id": 1
+        },
+        {
+          "label": "Poland",
+          "distance": 0.110166,
+          "same_cluster": true,
+          "cluster_id": 1
+        }
+      ],
+      "France": [
+        {
+          "label": "Germany",
+          "distance": 0.130072,
+          "same_cluster": true,
+          "cluster_id": 1
+        },
+        {
+          "label": "Spain",
+          "distance": 0.137903,
+          "same_cluster": true,
+          "cluster_id": 1
+        },
+        {
+          "label": "Romania",
+          "distance": 0.147897,
+          "same_cluster": true,
+          "cluster_id": 1
+        },
+        {
+          "label": "Greece",
+          "distance": 0.149282,
+          "same_cluster": true,
+          "cluster_id": 1
+        },
+        {
+          "label": "Poland",
+          "distance": 0.154822,
+          "same_cluster": true,
+          "cluster_id": 1
+        }
+      ],
+      "Germany": [
+        {
+          "label": "Spain",
+          "distance": 0.072196,
+          "same_cluster": true,
+          "cluster_id": 1
+        },
+        {
+          "label": "Greece",
+          "distance": 0.077057,
+          "same_cluster": true,
+          "cluster_id": 1
+        },
+        {
+          "label": "Belgium",
+          "distance": 0.078813,
+          "same_cluster": true,
+          "cluster_id": 1
+        },
+        {
+          "label": "Austria",
+          "distance": 0.083867,
+          "same_cluster": true,
+          "cluster_id": 1
+        },
+        {
+          "label": "Poland",
+          "distance": 0.084336,
+          "same_cluster": true,
+          "cluster_id": 1
+        }
+      ],
+      "Greece": [
+        {
+          "label": "Germany",
+          "distance": 0.077057,
+          "same_cluster": true,
+          "cluster_id": 1
+        },
+        {
+          "label": "Sweden",
+          "distance": 0.095982,
+          "same_cluster": true,
+          "cluster_id": 1
+        },
+        {
+          "label": "Finland",
+          "distance": 0.096294,
+          "same_cluster": true,
+          "cluster_id": 1
+        },
+        {
+          "label": "Romania",
+          "distance": 0.102483,
+          "same_cluster": true,
+          "cluster_id": 1
+        },
+        {
+          "label": "Belgium",
+          "distance": 0.112407,
+          "same_cluster": true,
+          "cluster_id": 1
+        }
+      ],
+      "Hungary": [
+        {
+          "label": "Germany",
+          "distance": 0.089804,
+          "same_cluster": true,
+          "cluster_id": 1
+        },
+        {
+          "label": "Sweden",
+          "distance": 0.098053,
+          "same_cluster": true,
+          "cluster_id": 1
+        },
+        {
+          "label": "Romania",
+          "distance": 0.103384,
+          "same_cluster": true,
+          "cluster_id": 1
+        },
+        {
+          "label": "Finland",
+          "distance": 0.115407,
+          "same_cluster": true,
+          "cluster_id": 1
+        },
+        {
+          "label": "Italy",
+          "distance": 0.123811,
+          "same_cluster": true,
+          "cluster_id": 1
+        }
+      ],
+      "Italy": [
+        {
+          "label": "Germany",
+          "distance": 0.084608,
+          "same_cluster": true,
+          "cluster_id": 1
+        },
+        {
+          "label": "Poland",
+          "distance": 0.105806,
+          "same_cluster": true,
+          "cluster_id": 1
+        },
+        {
+          "label": "Spain",
+          "distance": 0.109634,
+          "same_cluster": true,
+          "cluster_id": 1
+        },
+        {
+          "label": "Finland",
+          "distance": 0.120826,
+          "same_cluster": true,
+          "cluster_id": 1
+        },
+        {
+          "label": "Greece",
+          "distance": 0.121227,
+          "same_cluster": true,
+          "cluster_id": 1
+        }
+      ],
+      "Norway": [
+        {
+          "label": "Sweden",
+          "distance": 0.193254,
+          "same_cluster": true,
+          "cluster_id": 1
+        },
+        {
+          "label": "Finland",
+          "distance": 0.210994,
+          "same_cluster": true,
+          "cluster_id": 1
+        },
+        {
+          "label": "Spain",
+          "distance": 0.222236,
+          "same_cluster": true,
+          "cluster_id": 1
+        },
+        {
+          "label": "Hungary",
+          "distance": 0.227789,
+          "same_cluster": true,
+          "cluster_id": 1
+        },
+        {
+          "label": "Poland",
+          "distance": 0.232498,
+          "same_cluster": true,
+          "cluster_id": 1
+        }
+      ],
+      "Poland": [
+        {
+          "label": "Germany",
+          "distance": 0.084336,
+          "same_cluster": true,
+          "cluster_id": 1
+        },
+        {
+          "label": "Sweden",
+          "distance": 0.084631,
+          "same_cluster": true,
+          "cluster_id": 1
+        },
+        {
+          "label": "Italy",
+          "distance": 0.105806,
+          "same_cluster": true,
+          "cluster_id": 1
+        },
+        {
+          "label": "Finland",
+          "distance": 0.110166,
+          "same_cluster": true,
+          "cluster_id": 1
+        },
+        {
+          "label": "Romania",
+          "distance": 0.115259,
+          "same_cluster": true,
+          "cluster_id": 1
+        }
+      ],
+      "Portugal": [
+        {
+          "label": "Romania",
+          "distance": 0.165169,
+          "same_cluster": true,
+          "cluster_id": 1
+        },
+        {
+          "label": "Germany",
+          "distance": 0.174669,
+          "same_cluster": true,
+          "cluster_id": 1
+        },
+        {
+          "label": "Finland",
+          "distance": 0.180859,
+          "same_cluster": true,
+          "cluster_id": 1
+        },
+        {
+          "label": "Sweden",
+          "distance": 0.185989,
+          "same_cluster": true,
+          "cluster_id": 1
+        },
+        {
+          "label": "Belgium",
+          "distance": 0.188994,
+          "same_cluster": true,
+          "cluster_id": 1
+        }
+      ],
+      "Romania": [
+        {
+          "label": "Germany",
+          "distance": 0.091148,
+          "same_cluster": true,
+          "cluster_id": 1
+        },
+        {
+          "label": "Sweden",
+          "distance": 0.101855,
+          "same_cluster": true,
+          "cluster_id": 1
+        },
+        {
+          "label": "Greece",
+          "distance": 0.102483,
+          "same_cluster": true,
+          "cluster_id": 1
+        },
+        {
+          "label": "Hungary",
+          "distance": 0.103384,
+          "same_cluster": true,
+          "cluster_id": 1
+        },
+        {
+          "label": "Spain",
+          "distance": 0.112879,
+          "same_cluster": true,
+          "cluster_id": 1
+        }
+      ],
+      "Spain": [
+        {
+          "label": "Sweden",
+          "distance": 0.063057,
+          "same_cluster": true,
+          "cluster_id": 1
+        },
+        {
+          "label": "Germany",
+          "distance": 0.072196,
+          "same_cluster": true,
+          "cluster_id": 1
+        },
+        {
+          "label": "Finland",
+          "distance": 0.103053,
+          "same_cluster": true,
+          "cluster_id": 1
+        },
+        {
+          "label": "Belgium",
+          "distance": 0.105689,
+          "same_cluster": true,
+          "cluster_id": 1
+        },
+        {
+          "label": "Italy",
+          "distance": 0.109634,
+          "same_cluster": true,
+          "cluster_id": 1
+        }
+      ],
+      "Sweden": [
+        {
+          "label": "Spain",
+          "distance": 0.063057,
+          "same_cluster": true,
+          "cluster_id": 1
+        },
+        {
+          "label": "Finland",
+          "distance": 0.068473,
+          "same_cluster": true,
+          "cluster_id": 1
+        },
+        {
+          "label": "Poland",
+          "distance": 0.084631,
+          "same_cluster": true,
+          "cluster_id": 1
+        },
+        {
+          "label": "Belgium",
+          "distance": 0.089975,
+          "same_cluster": true,
+          "cluster_id": 1
+        },
+        {
+          "label": "Greece",
+          "distance": 0.095982,
+          "same_cluster": true,
+          "cluster_id": 1
+        }
+      ],
+      "Switzerland": [
+        {
+          "label": "Hungary",
+          "distance": 0.283117,
+          "same_cluster": true,
+          "cluster_id": 1
+        },
+        {
+          "label": "Belgium",
+          "distance": 0.284995,
+          "same_cluster": true,
+          "cluster_id": 1
+        },
+        {
+          "label": "Austria",
+          "distance": 0.28928,
+          "same_cluster": true,
+          "cluster_id": 1
+        },
+        {
+          "label": "Romania",
+          "distance": 0.291687,
+          "same_cluster": true,
+          "cluster_id": 1
+        },
+        {
+          "label": "Greece",
+          "distance": 0.293898,
+          "same_cluster": true,
+          "cluster_id": 1
+        }
+      ]
     }
   }
 }

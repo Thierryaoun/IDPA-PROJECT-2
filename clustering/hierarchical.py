@@ -16,8 +16,6 @@ single   — minimum distance between any cross-cluster pair ("nearest neighbour
 complete — maximum distance between any cross-cluster pair ("furthest neighbour")
 average  — mean of all pairwise cross-cluster distances (UPGMA)
 
-Ward's linkage is intentionally NOT offered because it requires a Euclidean
-embedding, which TED distances do not provide.
 
 Medoid selection
 ----------------

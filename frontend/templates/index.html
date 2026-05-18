@@ -214,6 +214,20 @@
           <div id="run-spinner" class="spinner hidden"></div>
         </div>
       </div>
+
+      <!-- Best-k advisor -->
+      <div class="card">
+        <div class="card-title">Best k Advisor</div>
+        <div class="info-note" style="margin-bottom:1rem">
+          Sweeps k from 2 up to your chosen k+5 and ranks each value by
+          <strong>silhouette score</strong> (higher = tighter, better-separated clusters).
+          The recommended k is automatically applied to the slider.
+        </div>
+        <button class="btn" id="btn-bestk" onclick="App.findBestK()">Find Best k</button>
+        <div id="bestk-panel" class="hidden" style="margin-top:1rem">
+          <div id="bestk-chart" style="min-height:40px"></div>
+        </div>
+      </div>
     </div>
   </section>
 

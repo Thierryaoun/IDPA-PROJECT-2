@@ -164,6 +164,7 @@ class ClusteringPipeline:
                 max_iter=kwargs.get("max_iter", 100),
                 init_method=kwargs.get("init_method", "heuristic"),
                 seed=kwargs.get("seed", 42),
+                n_init=kwargs.get("n_init", 5),
             )
         elif algorithm == "hierarchical":
             result = hierarchical_clustering(

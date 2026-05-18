@@ -40,7 +40,7 @@ Typically converges in < 20 iterations.
 """
 
 import random
-from typing import Dict, List, Optional, Tuple
+from typing import Dict, List, Optional, Tuple  # noqa: F401
 
 from .models import ClusterAssignment, ClusterResult, DistanceMatrix
 from .utils import get_logger
@@ -58,6 +58,7 @@ def kmedoids(
     max_iter: int = 100,
     init_method: str = "heuristic",
     seed: Optional[int] = 42,
+    n_init: int = 5,
 ) -> ClusterResult:
     """
     Run K-Medoids (PAM) on *dm*.
@@ -68,7 +69,10 @@ def kmedoids(
     n_clusters  : number of clusters k  (1 ≤ k ≤ dm.n)
     max_iter    : maximum SWAP iterations before forced stop
     init_method : "heuristic" (recommended) | "random"
-    seed        : random seed (used only by "random" init)
+    seed        : random seed base for reproducibility
+    n_init      : number of independent restarts; best inertia wins.
+                  For heuristic: run 1 heuristic + (n_init-1) random restarts.
+                  For random: run n_init random restarts.
 
     Returns
     -------
@@ -82,18 +86,56 @@ def kmedoids(
         raise ValueError(
             f"n_clusters={n_clusters} exceeds number of documents n={dm.n}."
         )
+
+    n_init = max(1, n_init)
     logger.info(
-        "K-Medoids: n=%d, k=%d, init=%s, max_iter=%d",
-        dm.n, n_clusters, init_method, max_iter,
+        "K-Medoids: n=%d, k=%d, init=%s, max_iter=%d, n_init=%d",
+        dm.n, n_clusters, init_method, max_iter, n_init,
     )
 
+    best_result: Optional[ClusterResult] = None
+
+    for run_idx in range(n_init):
+        # First run uses the requested init method; subsequent runs are random
+        # (gives heuristic its best shot while still exploring other starts)
+        current_init = init_method if run_idx == 0 else "random"
+        current_seed = (seed or 0) + run_idx
+
+        run_result = _kmedoids_single_run(
+            dm, n_clusters, max_iter, current_init, current_seed
+        )
+        logger.debug(
+            "  run %d/%d  init=%s  inertia=%.6f",
+            run_idx + 1, n_init, current_init, run_result.inertia,
+        )
+
+        if best_result is None or run_result.inertia < best_result.inertia - 1e-9:
+            best_result = run_result
+
+    assert best_result is not None
+    logger.info(
+        "K-Medoids complete.  k=%d, best_inertia=%.4f, n_init=%d",
+        n_clusters, best_result.inertia, n_init,
+    )
+    best_result.metadata["n_init"] = n_init
+    return best_result
+
+
+def _kmedoids_single_run(
+    dm: DistanceMatrix,
+    n_clusters: int,
+    max_iter: int,
+    init_method: str,
+    seed: Optional[int],
+) -> ClusterResult:
+    """One complete PAM run from initialisation through convergence."""
     # ── Phase 1: Initialise medoids ──────────────────────────────────────────
     medoid_indices: List[int] = _initialize_medoids(dm, n_clusters, init_method, seed)
     logger.debug("Initial medoids: %s", [dm.labels[m] for m in medoid_indices])
 
-    prev_inertia = float("inf")
     iterations_run = 0
     converged = False
+    inertia = 0.0
 
     for iteration in range(max_iter):
         iterations_run = iteration + 1
@@ -103,33 +145,25 @@ def kmedoids(
         inertia = _compute_inertia(dm, medoid_indices, assignments_map)
         logger.debug("  iter %d  inertia=%.6f", iteration, inertia)
 
-        # ── Phase 3: SWAP — try every (medoid, non-medoid) pair ──────────────
-        improved = False
-        for m_pos, m_idx in enumerate(medoid_indices):
-            for c_idx in range(dm.n):
-                if c_idx in medoid_indices:
-                    continue
+        # ── Phase 3: SWAP — best-improvement: evaluate ALL (medoid, non-medoid)
+        #    pairs, then accept the single best improving swap.
+        best_swap_inertia = inertia
+        best_swap: Optional[Tuple[int, int, List[int], List[int]]] = None
 
-                # Tentative new medoid set with m_idx replaced by c_idx
+        medoid_set = set(medoid_indices)
+        for m_pos, _ in enumerate(medoid_indices):
+            for c_idx in range(dm.n):
+                if c_idx in medoid_set:
+                    continue
                 candidate_medoids = medoid_indices[:m_pos] + [c_idx] + medoid_indices[m_pos + 1:]
                 candidate_assignments = _assign_clusters(dm, candidate_medoids)
                 candidate_inertia = _compute_inertia(dm, candidate_medoids, candidate_assignments)
 
-                if candidate_inertia < inertia - 1e-9:
-                    medoid_indices = candidate_medoids
-                    assignments_map = candidate_assignments
-                    inertia = candidate_inertia
-                    improved = True
-                    logger.debug(
-                        "    Swap medoid[%d]=%s → %s  (inertia=%.6f)",
-                        m_pos, dm.labels[m_idx], dm.labels[c_idx], inertia,
-                    )
-                    # Restart the swap loop with the improved medoid set
-                    break
-            if improved:
-                break
+                if candidate_inertia < best_swap_inertia - 1e-9:
+                    best_swap_inertia = candidate_inertia
+                    best_swap = (m_pos, c_idx, candidate_medoids, candidate_assignments)
 
-        if not improved:
+        if best_swap is None:
             converged = True
             logger.info(
                 "K-Medoids converged in %d iteration(s).  Inertia=%.6f",
@@ -137,17 +171,22 @@ def kmedoids(
             )
             break
 
+        m_pos, c_idx, medoid_indices, assignments_map = best_swap
+        inertia = best_swap_inertia
+        logger.debug(
+            "    Best swap → medoid[%d]=%s  (inertia=%.6f)",
+            m_pos, dm.labels[c_idx], inertia,
+        )
+
     if not converged:
         logger.warning(
-            "K-Medoids reached max_iter=%d without full convergence.  "
-            "Inertia=%.6f",
+            "K-Medoids reached max_iter=%d without full convergence.  Inertia=%.6f",
             max_iter, inertia,
         )
 
     # ── Build output structures ───────────────────────────────────────────────
     final_assignments_map = _assign_clusters(dm, medoid_indices)
 
-    # Map medoid index → cluster id (0-based, sorted by medoid label for determinism)
     sorted_medoids = sorted(enumerate(medoid_indices), key=lambda x: dm.labels[x[1]])
     medoid_to_cluster: Dict[int, int] = {
         m_idx: new_cid
@@ -173,7 +212,7 @@ def kmedoids(
 
     final_inertia = sum(a.distance_to_medoid for a in assignments)
 
-    result = ClusterResult(
+    return ClusterResult(
         algorithm="kmedoids",
         n_clusters=n_clusters,
         assignments=assignments,
@@ -185,16 +224,10 @@ def kmedoids(
             "converged":      converged,
             "init_method":    init_method,
             "seed":           seed,
-            # Matrix provenance — used by frontend to refuse mismatched display
             "matrix_id":     dm.matrix_id,
             "matrix_labels": dm.labels,
         },
     )
-    logger.info(
-        "K-Medoids complete.  k=%d, inertia=%.4f, iters=%d",
-        n_clusters, final_inertia, iterations_run,
-    )
-    return result
 
 
 # ─────────────────────────────────────────────────────────────────────────────

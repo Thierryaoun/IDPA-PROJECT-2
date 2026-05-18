@@ -439,7 +439,29 @@ const App = (() => {
       const stats   = result.cluster_stats ? result.cluster_stats[cid] : null;
       const c       = PALETTE[cid % PALETTE.length];
 
-      const card    = document.createElement("div");
+      /* Closest / farthest pair strings */
+      const cp = stats && stats.closest_pair;
+      const fp = stats && stats.farthest_pair;
+      const cpHtml = cp
+        ? `<div class="pair-row pair-closest" title="Most similar pair in this cluster">
+             <span class="pair-icon">&#8613;</span>
+             <span class="pair-label">Closest:&nbsp;</span>
+             <strong>${cleanLabel(cp.a)}</strong>
+             <span class="pair-sep">&harr;</span>
+             <strong>${cleanLabel(cp.b)}</strong>
+             <span class="pair-dist">&nbsp;d=${cp.distance.toFixed(4)}</span>
+           </div>` : "";
+      const fpHtml = fp
+        ? `<div class="pair-row pair-farthest" title="Most dissimilar pair in this cluster">
+             <span class="pair-icon">&#8615;</span>
+             <span class="pair-label">Farthest:&nbsp;</span>
+             <strong>${cleanLabel(fp.a)}</strong>
+             <span class="pair-sep">&harr;</span>
+             <strong>${cleanLabel(fp.b)}</strong>
+             <span class="pair-dist">&nbsp;d=${fp.distance.toFixed(4)}</span>
+           </div>` : "";
+
+      const card = document.createElement("div");
       card.className = "cluster-card";
       card.style.cssText = `border-left: 3px solid ${c}`;
 
@@ -452,11 +474,11 @@ const App = (() => {
         </div>
         <div class="cluster-member-list">
           ${members.slice().sort().map(name => `
-            <div class="cluster-member${name === medoid ? " is-medoid" : ""}">
-              <span>${name === medoid ? "&#9670;&nbsp;" : ""}${cleanLabel(name)}</span>
-              <span class="member-dist">${(distOf[name] ?? 0).toFixed(4)}</span>
-            </div>
-          `).join("")}
+              <div class="cluster-member${name === medoid ? " is-medoid" : ""}">
+                <span>${name === medoid ? "&#9670;&nbsp;" : ""}${cleanLabel(name)}</span>
+                <span class="member-dist">${(distOf[name] ?? 0).toFixed(4)}</span>
+              </div>`
+          ).join("")}
         </div>
         ${stats ? `
         <div class="cluster-stats-bar">
@@ -464,10 +486,160 @@ const App = (() => {
           <span class="cstat" title="Maximum distance from any member to the cluster medoid">max-med&nbsp;<strong>${(stats.max_distance_to_medoid||0).toFixed(3)}</strong></span>
           <span class="cstat" title="Mean of all pairwise distances within the cluster">pairwise&nbsp;<strong>${(stats.avg_pairwise_distance||0).toFixed(3)}</strong></span>
           <span class="cstat" title="Maximum pairwise distance between any two members">diam&nbsp;<strong>${(stats.diameter||0).toFixed(3)}</strong></span>
+        </div>
+        <div class="cluster-pairs">
+          ${cpHtml}
+          ${fpHtml}
         </div>` : ""}
       `;
       container.appendChild(card);
     });
+  }
+
+  /* ── Best-k sweep ─────────────────────────────────────────────────────── */
+  async function findBestK() {
+    const panel  = document.getElementById("bestk-panel");
+    const chart  = document.getElementById("bestk-chart");
+    const btn    = document.getElementById("btn-bestk");
+    if (!panel || !chart) return;
+
+    const algorithm = _currentAlgo;
+    const kMin  = 2;
+    const kMax  = Math.min(20, Math.max(4, parseInt(document.getElementById("param-k").value) + 5));
+    const linkage    = document.getElementById("param-linkage").value;
+    const initMethod = document.getElementById("param-init").value;
+
+    btn.disabled = true;
+    btn.textContent = "Scanning…";
+    panel.classList.remove("hidden");
+    chart.innerHTML = `<span style="color:var(--text-muted);font-size:0.85rem">Running silhouette sweep k=${kMin}…${kMax}…</span>`;
+
+    try {
+      const data = await API.bestK({ algorithm, k_min: kMin, k_max: kMax, linkage, init_method: initMethod });
+      _renderBestKChart(chart, data);
+      /* auto-set the k slider to the recommended value */
+      const kSlider = document.getElementById("param-k");
+      const kLabel  = document.getElementById("lbl-k");
+      if (data.best_k && kSlider) {
+        kSlider.value = data.best_k;
+        if (kLabel) kLabel.textContent = data.best_k;
+      }
+      toast(`Best k = ${data.best_k}  (silhouette = ${(data.best_sil||0).toFixed(3)})`, "success");
+    } catch (e) {
+      chart.innerHTML = `<span style="color:var(--red);font-size:0.85rem">Error: ${e.message}</span>`;
+      toast("Best-k scan failed: " + e.message, "error");
+    } finally {
+      btn.disabled = false;
+      btn.textContent = "Find Best k";
+    }
+  }
+
+  function _renderBestKChart(container, data) {
+    const scores = data.scores || [];
+    if (!scores.length) { container.innerHTML = "No data."; return; }
+
+    const bestK  = data.best_k;
+    const W = container.clientWidth || 480;
+    const H = 140;
+    const PAD = { top: 18, right: 16, bottom: 32, left: 42 };
+    const plotW = W - PAD.left - PAD.right;
+    const plotH = H - PAD.top  - PAD.bottom;
+
+    const silVals = scores.map(s => s.silhouette ?? 0);
+    const kVals   = scores.map(s => s.k);
+    const minSil  = Math.min(...silVals);
+    const maxSil  = Math.max(...silVals);
+    const silRange = maxSil - minSil || 1;
+
+    const xStep = plotW / Math.max(scores.length - 1, 1);
+    const yOf   = v => plotH - ((v - minSil) / silRange) * plotH;
+
+    const svg = document.createElementNS("http://www.w3.org/2000/svg", "svg");
+    svg.setAttribute("width", W);
+    svg.setAttribute("height", H);
+    svg.style.display = "block";
+    svg.style.overflow = "visible";
+
+    const g = document.createElementNS("http://www.w3.org/2000/svg", "g");
+    g.setAttribute("transform", `translate(${PAD.left},${PAD.top})`);
+    svg.appendChild(g);
+
+    /* grid line at y=0 if visible */
+    if (minSil < 0 && maxSil > 0) {
+      const y0 = yOf(0);
+      const gl = document.createElementNS("http://www.w3.org/2000/svg", "line");
+      gl.setAttribute("x1", 0); gl.setAttribute("y1", y0);
+      gl.setAttribute("x2", plotW); gl.setAttribute("y2", y0);
+      gl.setAttribute("stroke", "#cbd5e1"); gl.setAttribute("stroke-dasharray", "3,3");
+      g.appendChild(gl);
+    }
+
+    /* line path */
+    const pts = scores.map((s, i) => `${i * xStep},${yOf(s.silhouette ?? 0)}`).join(" ");
+    const polyline = document.createElementNS("http://www.w3.org/2000/svg", "polyline");
+    polyline.setAttribute("points", pts);
+    polyline.setAttribute("fill", "none");
+    polyline.setAttribute("stroke", "#6366f1");
+    polyline.setAttribute("stroke-width", "2");
+    g.appendChild(polyline);
+
+    /* dots */
+    scores.forEach((s, i) => {
+      const x  = i * xStep;
+      const y  = yOf(s.silhouette ?? 0);
+      const isBest = s.k === bestK;
+      const circle = document.createElementNS("http://www.w3.org/2000/svg", "circle");
+      circle.setAttribute("cx", x); circle.setAttribute("cy", y);
+      circle.setAttribute("r", isBest ? 6 : 4);
+      circle.setAttribute("fill", isBest ? "#16a34a" : "#6366f1");
+      circle.setAttribute("stroke", "#fff"); circle.setAttribute("stroke-width", "1.5");
+      g.appendChild(circle);
+
+      /* k label below */
+      const kTxt = document.createElementNS("http://www.w3.org/2000/svg", "text");
+      kTxt.setAttribute("x", x); kTxt.setAttribute("y", plotH + 14);
+      kTxt.setAttribute("text-anchor", "middle");
+      kTxt.setAttribute("font-size", "10");
+      kTxt.setAttribute("fill", isBest ? "#16a34a" : "#64748b");
+      kTxt.setAttribute("font-weight", isBest ? "700" : "400");
+      kTxt.textContent = s.k;
+      g.appendChild(kTxt);
+
+      /* sil label above best dot */
+      if (isBest) {
+        const sLabel = document.createElementNS("http://www.w3.org/2000/svg", "text");
+        sLabel.setAttribute("x", x); sLabel.setAttribute("y", y - 9);
+        sLabel.setAttribute("text-anchor", "middle");
+        sLabel.setAttribute("font-size", "10");
+        sLabel.setAttribute("fill", "#16a34a");
+        sLabel.setAttribute("font-weight", "700");
+        sLabel.textContent = (s.silhouette ?? 0).toFixed(3);
+        g.appendChild(sLabel);
+      }
+    });
+
+    /* y-axis labels */
+    [minSil, maxSil].forEach((v, idx) => {
+      const yTxt = document.createElementNS("http://www.w3.org/2000/svg", "text");
+      yTxt.setAttribute("x", -4); yTxt.setAttribute("y", idx === 0 ? plotH : 4);
+      yTxt.setAttribute("text-anchor", "end");
+      yTxt.setAttribute("font-size", "9");
+      yTxt.setAttribute("fill", "#94a3b8");
+      yTxt.textContent = v.toFixed(2);
+      g.appendChild(yTxt);
+    });
+
+    /* title */
+    const title = document.createElementNS("http://www.w3.org/2000/svg", "text");
+    title.setAttribute("x", plotW / 2); title.setAttribute("y", -5);
+    title.setAttribute("text-anchor", "middle");
+    title.setAttribute("font-size", "11");
+    title.setAttribute("fill", "#475569");
+    title.textContent = `Silhouette score by k  —  best k=${bestK}  (green)`;
+    g.appendChild(title);
+
+    container.innerHTML = "";
+    container.appendChild(svg);
   }
 
   /* ── Tab switching ────────────────────────────────────────────────────── */
@@ -626,6 +798,7 @@ const App = (() => {
     computeMatrix, runClustering,
     loadResult, refreshResults,
     switchTab, renderCompare,
+    findBestK,
     toast,
   };
 })();

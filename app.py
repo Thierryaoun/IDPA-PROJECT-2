@@ -357,6 +357,54 @@ def api_result(filename):
     return jsonify(data)
 
 
+# ── API: best-k sweep (silhouette over a range of k values) ──────────────────
+
+@app.route("/api/best_k", methods=["POST"])
+def api_best_k():
+    """Try each k in [k_min..k_max] and return silhouette scores.
+
+    Request body (JSON):
+      algorithm : "kmedoids" | "hierarchical"  (default: "kmedoids")
+      k_min     : int  (default: 2)
+      k_max     : int  (default: 15)
+      linkage   : "single"|"complete"|"average"  (HAC only, default: "average")
+      init_method: "heuristic"|"random"          (K-Medoids only, default: "heuristic")
+
+    Response:
+      { scores: [{k, silhouette, inertia},...], best_k, best_sil, algorithm }
+    """
+    if _pipeline.distance_matrix is None:
+        cached = _all_cached_matrix_paths()
+        if cached:
+            _pipeline._dm = DistanceMatrix.load(cached[-1])
+            _pipeline._trees = {lbl: None for lbl in _pipeline._dm.labels}
+        else:
+            return jsonify({"error": "Run /api/matrix/start first."}), 400
+
+    body        = request.get_json(silent=True) or {}
+    algorithm   = body.get("algorithm", "kmedoids")
+    k_min       = max(2, int(body.get("k_min", 2)))
+    k_max       = min(_pipeline.distance_matrix.n - 1, int(body.get("k_max", 15)))
+    linkage     = body.get("linkage", "average")
+    init_method = body.get("init_method", "heuristic")
+
+    if k_min > k_max:
+        return jsonify({"error": f"k_min ({k_min}) must be ≤ k_max ({k_max})."}), 400
+
+    try:
+        from clustering.evaluation import find_best_k
+        result = find_best_k(
+            dm=_pipeline.distance_matrix,
+            algorithm=algorithm,
+            k_range=range(k_min, k_max + 1),
+            linkage=linkage,
+            init_method=init_method,
+        )
+        return jsonify(result)
+    except Exception as exc:
+        return jsonify({"error": str(exc)}), 500
+
+
 # ── API: validate matrix ↔ result match ──────────────────────────────────────
 
 @app.route("/api/validate_matrix")

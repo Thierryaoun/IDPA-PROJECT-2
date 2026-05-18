@@ -603,10 +603,11 @@ body { display: flex; height: 100vh; overflow: hidden; }
 }
 .cluster-member {
   display: flex;
+  flex-direction: row;
   justify-content: space-between;
   align-items: center;
   font-size: 0.81rem;
-  padding: 0.22rem 0.35rem;
+  padding: 0.2rem 0.5rem;
   border-radius: var(--radius-xs);
   transition: background var(--transition);
   color: var(--text-muted);
@@ -746,3 +747,34 @@ code {
 
 /* Silhouette quality indicator colors are set inline via JS; just ensure readability */
 #m-sil { transition: color 0.2s ease; }
+
+
+/* ── Cluster card: closest / farthest pair rows ─────────────────────────────── */
+.cluster-pairs {
+  border-top: 1px solid var(--surface3);
+  padding: 0.45rem 0.75rem 0.35rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+}
+.pair-row {
+  display: flex;
+  align-items: center;
+  gap: 0.3rem;
+  font-size: 0.74rem;
+  flex-wrap: wrap;
+}
+.pair-icon { font-size: 1rem; line-height: 1; }
+.pair-label { color: var(--text-muted); white-space: nowrap; }
+.pair-closest .pair-icon { color: var(--green); }
+.pair-farthest .pair-icon { color: var(--orange); }
+.pair-sep { color: var(--text-dim); }
+.pair-dist { color: var(--text-dim); font-variant-numeric: tabular-nums; }
+
+/* ── Best-k chart panel ─────────────────────────────────────────────────────── */
+#bestk-panel {
+  border-top: 1px solid var(--border);
+  padding-top: 0.75rem;
+  margin-top: 0.75rem;
+}
+#bestk-chart svg { max-width: 100%; }

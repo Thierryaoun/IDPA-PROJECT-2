@@ -6,9 +6,14 @@ Pairwise TED computation and distance matrix construction.
 Design notes:
   - normalize_country_tree() is called ONCE per tree (not once per pair).
     The n normalized trees are cached in memory before the O(n²) loop starts.
-  - Normalized distance ∈ [0, 1]:
-        d(A, B) = TED(A, B) / (weighted_tree_cost(A) + weighted_tree_cost(B))
-    A value of 0 means identical trees; 1 means no shared structure/content.
+  - Normalized distance ∈ [0, 1] — intersection-based normalization:
+        Let S = {second-level field paths present in BOTH A and B}
+        d(A, B) = TED(A|S, B|S) / (cost(A|S) + cost(B|S))
+    where A|S is tree A restricted to fields in S. A value of 0 means
+    identical shared fields; 1 means shared fields are maximally different.
+    This avoids the sparse-tree bias of naïve sum normalization: a country
+    that omits a field entirely (DELETE cost) no longer appears farther than
+    a country that has the field with completely different content (RENAME cost).
   - The completed matrix is saved as JSON so the expensive computation is
     skipped on subsequent runs (controlled by the `cache_path` argument).
   - Progress is reported via ProgressReporter so long runs are observable.
@@ -99,21 +104,81 @@ def load_country_trees(
 # Single-pair distance
 # ─────────────────────────────────────────────────────────────────────────────
 
+def _second_level_paths(nt: TreeNode) -> frozenset:
+    """
+    Return the set of canonical second-level field paths present in a
+    normalized tree, e.g. {'demographics.religion', 'languages.official', ...}.
+
+    First-level nodes (demographics, economy, …) are structural containers that
+    exist in almost every infobox. Intersecting at the second level captures
+    genuine informational overlap — two countries that both report religion or
+    both report ethnic_groups — independently of whether each country has a
+    history or official-script field.
+    """
+    paths = set()
+    for child in nt.children:
+        if child.is_structural():
+            for gc in child.children:
+                if gc.is_structural():
+                    paths.add(f"{child.label}.{gc.label}")
+    return frozenset(paths)
+
+
+def _filter_to_paths(nt: TreeNode, keep: frozenset) -> TreeNode:
+    """
+    Return a shallow copy of *nt* that retains only those second-level
+    structural nodes (and their subtrees) whose path is in *keep*.
+    Top-level containers (demographics, economy, …) are kept only when they
+    have at least one retained second-level child.
+    """
+    new_root = TreeNode(nt.label, weight=nt.weight)
+    for child in nt.children:
+        if not child.is_structural():
+            continue
+        new_child = TreeNode(child.label, weight=child.weight)
+        for gc in child.children:
+            path = f"{child.label}.{gc.label}"
+            if gc.is_structural() and path in keep:
+                new_child.children.append(gc)  # keeps entire subtree
+            elif not gc.is_structural():
+                new_child.children.append(gc)  # direct leaf stays
+        if new_child.children:
+            new_root.children.append(new_child)
+    return new_root
+
+
 def compute_normalized_ted(
     nt1: TreeNode,
     nt2: TreeNode,
 ) -> float:
     """
-    Compute the normalized TED distance between two *already-normalized* trees.
+    Compute the intersection-normalized TED distance between two
+    *already-normalized* country trees.
 
-    The result is guaranteed in [0, 1]:
-        d = TED(nt1, nt2) / (cost(nt1) + cost(nt2))
+    Intersection normalization:
+      1. Find the set of second-level field paths present in BOTH trees.
+      2. Restrict each tree to those shared fields.
+      3. d = TED(filtered_A, filtered_B) / (cost(filtered_A) + cost(filtered_B))
 
-    Pass pre-normalized trees (output of normalize_country_tree) to avoid
-    redundant normalization inside the O(n²) loop.
+    This avoids the sparse-tree bias in the naïve formula
+    d = TED(A,B) / (cost(A) + cost(B)):
+    with naïve normalization a country that omits a field (e.g. Germany's
+    infobox has no religion entry) is penalised via a DELETE cost, which can
+    be cheaper than a full content mismatch rename.  Intersection normalization
+    instead ignores unshared fields entirely, so the distance reflects how
+    different the *comparable* information actually is.
+
+    Returns a value in [0, 1].
     """
-    raw = tree_edit_distance(nt1, nt2)
-    denom = weighted_tree_cost(nt1) + weighted_tree_cost(nt2)
+    shared = _second_level_paths(nt1) & _second_level_paths(nt2)
+    if not shared:
+        return 1.0
+
+    ft1 = _filter_to_paths(nt1, shared)
+    ft2 = _filter_to_paths(nt2, shared)
+
+    raw = tree_edit_distance(ft1, ft2)
+    denom = weighted_tree_cost(ft1) + weighted_tree_cost(ft2)
     if denom <= 0:
         return 0.0
     return min(1.0, raw / denom)

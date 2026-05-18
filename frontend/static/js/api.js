@@ -41,5 +41,6 @@ const API = (() => {
     runCluster:  (body)     => _req("POST", "/api/cluster", body),
     listResults: ()         => _req("GET",  "/api/results"),
     getResult:   (filename) => _req("GET",  `/api/result/${filename}`),
+    bestK:       (body)     => _req("POST", "/api/best_k", body),
   };
 })();

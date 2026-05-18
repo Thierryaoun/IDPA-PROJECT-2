@@ -314,10 +314,20 @@ class ClusterResult:
                 lines.append(f"  {marker} {name:<35}  dist={dist_str}")
             if stats:
                 lines.append(
-                    f"    avg_intra={stats.get('avg_intra_dist', 0):.4f}  "
-                    f"max_intra={stats.get('max_intra_dist', 0):.4f}  "
+                    f"    avg_to_medoid={stats.get('avg_distance_to_medoid', 0):.4f}  "
+                    f"max_to_medoid={stats.get('max_distance_to_medoid', 0):.4f}  "
                     f"diameter={stats.get('diameter', 0):.4f}"
                 )
+                cp = stats.get("closest_pair")
+                fp = stats.get("farthest_pair")
+                if cp:
+                    lines.append(
+                        f"    closest:  {cp['a']} <-> {cp['b']}  (d={cp['distance']:.4f})"
+                    )
+                if fp:
+                    lines.append(
+                        f"    farthest: {fp['a']} <-> {fp['b']}  (d={fp['distance']:.4f})"
+                    )
             lines.append("")
 
         lines.append("=" * 62)
